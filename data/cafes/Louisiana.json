@@ -1,0 +1,4776 @@
+{
+  "Lafayette": {
+    "city": "Lafayette",
+    "city_ascii": "Lafayette",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2082,
+    "lng": -92.0325,
+    "cafes": [
+      {
+        "name": "Black Cat Coffee House",
+        "address": "4016 Moss St, Lafayette, LA 70507, USA",
+        "rating": 4.8,
+        "user_ratings_total": 82,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=14388778899849160147",
+        "lat": 30.282088299999998,
+        "lng": -92.0067945,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Janey Derouen",
+            "rating": 5,
+            "text": {
+              "text": "I live no where near BCC but will make the drive when I’m craving their Toe Beans! Truly the best coffee at an amazing price. Love the atmosphere inside. So chic and cool. Very chill. Give this place a try you won’t be disappointed.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Lauren (Rose)",
+            "rating": 5,
+            "text": {
+              "text": "Great coffee!!!! Easily 5 stars for this coffee cafe !! Love the location! Beautiful interior setting, big and spacious, you can chill, relax or even study here. Decorated nicely as well. The coffee came out hot and delicious, I like that they already have specialty coffee flavor mixes on the menu, only drawback on the coffee is I wish they’d use locally roasted coffee beans. Best of luck, hope you are open here for years to come! 💞 Will definitely be back to try out the food and of course to get more coffee. Yum 😋\nHopefully in the future you’ll consider doing free sticker of the month days",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Jalesa Jones",
+            "rating": 5,
+            "text": {
+              "text": "UPDATE: 1 year later and it’s still my favorite cafe! 😉\n——\nI’ve been here more than once since opening and the service was great each time. The coffee is delicious and strong (mocha latte with caramel is 🙌🏽) and the pastries are addicting. 10/10 highly recommend",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0axjBFmRhEOwPQXY4nYxpa4bjdDwiYzuUfj18uxRq2o90z5V7luL6TUfT8yzd34r4lUjbt3Ak2qKdQ8frbglvlFPWXQbD7WKx1Eo0mKKuR8CsQS_-f8oA6n7Fw4T1o96PHWY79UkDbPTe9YFH0HLfMqI-r2k8XJY8XK_jlGoHkeqitu2nZpNv5_ipxTkdGTSFxwHlVhbk8O42JUqrk1tGereciRQ3zHZVpflhzy3LxMNw77h5vuiZaCggGWD8s4GUEllZYCK62UmjwdUAATRAoGZibjlLSGzxIMzPAVyg_9g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "DeRidder": {
+    "city": "DeRidder",
+    "city_ascii": "DeRidder",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.8468,
+    "lng": -93.2931,
+    "cafes": [
+      {
+        "name": "Cat's Coffee & Creamery",
+        "address": "107 S Washington St, DeRidder, LA 70634, USA",
+        "rating": 4.4,
+        "user_ratings_total": 110,
+        "website": "N/A",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=359407541543873619",
+        "lat": 30.8463952,
+        "lng": -93.28642939999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Mazzy Williams",
+            "rating": 4,
+            "text": {
+              "text": "Got a small Green Tea and a double shot with light 1/2 & 1/2.\nCustomer service was good. I love traditional coffees and really appreciated that the barista asked questions about my order to make sure she knew what i wanted. Espresso is lighter than i expected but still good! Green tea is sweet by itself but not over powering. Prices are great here, very reasonable. Will go here again!",
+              "languageCode": "en"
+            },
+            "time": "12 months ago"
+          },
+          {
+            "author": "Deidra Velasquez",
+            "rating": 5,
+            "text": {
+              "text": "I had been ordering from door dash and I just wasn't getting the drink I had in mind. I was looking for somethin on the lines of that vanilla bean drink that's at Starbucks but maybe with a twist if it tastes good. I told the berista at Cats what I needed and she got to work. Yall it was better than the 1 at Starbucks. She wrote what I got on my cup ( thank you!!) I snapped a pic of it ( will post later). For my non coffee drinkers this is the place 👌🏾 and it's quiet n there to do your work.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "SHAQ H",
+            "rating": 5,
+            "text": {
+              "text": "Service was fast. The barista was friendly and offered multiple different options for my coffee including different milks and add ins. Very knowledgeable. It’s so cozy and the music is always a nice touch.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1fQYqZChrokLAKaxouivKJcAOucmzJl8l8IRkSLtS5pasGHTX5vxuz7HezzulNV6OXHQKjGzjvnGl7JFo_1ZYfm0-Yy6_OOu6lKYHulXB8GwO9ggmDHN_OTMVrj-Y5ON6IF5nqeFmXUS1bXd1_uZYY6LJCrJo0f17kNwxQNM-LGrX9Q9I8fp5NiaO7Vb3wqBxTpILVu5hDzmUMUYY4V8nKMG1tItU9HO1q28DNJiobi6fgUV5Rld8fk1sc_p-v_1FmloWVOJLhUD0HnYuE-YBQJnmu-htMtecV0hn5iry5fTNXQ0yQYt4CCL85rm2NlShSVrDfgRjv60gYOf29YFW-NzTlr7nIPwcQfAJz2LtdLxZqt8AX58I00UiDVAafhRxVBcAtGiQlcNub3_WRB6UBvSaTBVHg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "New Orleans": {
+    "city": "New Orleans",
+    "city_ascii": "New Orleans",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0687,
+    "lng": -89.9288,
+    "cafes": [
+      {
+        "name": "BEARCAT CAFE UPTOWN",
+        "address": "2521 Jena St, New Orleans, LA 70115, USA",
+        "rating": 4.7,
+        "user_ratings_total": 2144,
+        "website": "http://www.bearcatcafe.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=16016874272123329971",
+        "lat": 29.935665699999994,
+        "lng": -90.104028,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Kenneth Bass",
+            "rating": 5,
+            "text": {
+              "text": "As advertised. Really good brunch food with an interesting enough menu. Service was extremely friendly and attentive despite it being a very busy weekend brunch. This place can be a bit loud and overwhelming if you don’t like bustling restaurants with open kitchens. Only knock would be the price. Although I was pleased overall, I was not expecting a 3-digit bill. (2 entrees, 2 juices, one order of pancakes and an Irish coffee)",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Wendi Raffield",
+            "rating": 5,
+            "text": {
+              "text": "Wonderful food 100% worth the wait. The textures, flavor, and visual were all perfect. Ask wait staff for reccomendations because they are wonderful. Staff was super friendly. Love you can view the open kitchen. Also, the check-in process using Yelp is super easy and convenient. I will be frequenting Bearcat anytime I come back to visit. Stay AHHHMAZING Bearcat.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Daniela Puertas",
+            "rating": 5,
+            "text": {
+              "text": "If you’re in NOLA do not miss this spot 🤤 came in for brunch and this place DID NOT disappoint!! They have a variety of lattes- lavender honey was my favorite. Had the crab scramble and everything on the plate was incredible. They were generous with the crab and the potatoes were seasoned perfectly. Service was excellent and attentive. Parking was easy. They have free parking on the side of the restaurant if you can’t find street parking.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2s0Nsi1ed-3yhdq7MYdjPPtc-HFj-frjdLV_7sxmtxZUN8b6B6LN1TtLB5nLVRu8cyUkZAIRh3XBhoAM_Nni0IDQU8xvP1h0MZseue-4LrIGOYuDu4SDkycsXwxwkVCfCZl3Fye_Go6rCyWAmP3DNrJnnKmmjqzerumGsXbd3CzCgFaeuqU_xCrin3gowRMyzYOxPxyotd-TvjhNVjItCWraAExqj2DQi6nd6cQVoIiyGCfBwL_i4PunrNX4Lt9n_tvCYPkyXttzvT-TxuwzVyat3RVY8an2c4Sp8iIqfmLA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "BEARCAT CBD",
+        "address": "845 Carondelet St, New Orleans, LA 70130, USA",
+        "rating": 4.6,
+        "user_ratings_total": 1742,
+        "website": "https://bearcat845.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=6172636228299351789",
+        "lat": 29.9452718,
+        "lng": -90.0734052,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Kellie",
+            "rating": 4,
+            "text": {
+              "text": "The food was good here. The atmosphere was good here. The service left much to be desired.\nI got the yogurt with granola and fresh fruit. I also got a lemon gluten-free muffin. Hubby got the breakfast club. We both got the fresh squeezed orange juice.\nOne waiter took our order, and then he disappeared. When we waved down another waiter she she said that she was our waiter. Huh!?  Since she didn't check on us we had no idea that she was our waiter.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "H S",
+            "rating": 5,
+            "text": {
+              "text": "Great service. Better food. My friends and I visited on a work trip and the breakfast was exactly what we needed after a night out in the french quarter. The scallops and grits were the best grits i have ever had. And perfectly cooked scallops.\nI also forgot my receipt at the restaurant and they were so helpful and prompt in sending me a copy within 20 minutes of requesting it.\nCant wait to visit again!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Breezy Calloway",
+            "rating": 5,
+            "text": {
+              "text": "We got the couyon daddy, breakfast club sandwich and a side of (very tasty &) crispy potatoes, grits (super creamy) & blueberry pancakes. Everything was delicious!! When we arrived there was a large crowd of people outside waiting for tables - in fact, there were 23 parties in front of us but we only waited 35 minutes for a seat. We sat at the bar and got custom drinks from the awesome bartenders 😊 All the staff were pleasant. We absolutely loved it and will surely return the next time we’re in NOLA. So glad we stopped here!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3qpuAs9JMq-hXMrq1SZ6WfBgAkWWhnwHw7-ZPnCU-YLyIG-Z-XOLNl4WcIc1I22EDZ4hCdG8faDsAMeKfySwGKmdd_-0IyHetAXhsgw3oXejQIQ2gX4CBxe5_hpdZZrBDF3qyv8e86H_CuHF8qQGRdN5QwsT80u_aeoddiNeeDdJ1tGERDPlF2eerNjd7kJXZ5ZwRMP8kS4RiJIaWZ0HAthfp8M80N320fqFiU2r19A-fxXcOoF3peXE2VThCxrdTuMA9-L03IMnGvyyiJD3JPnARQweVXoFk59-6lXoyr5A&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Bo Cat Lounge",
+        "address": "1931 Orleans Ave, New Orleans, LA 70116, USA",
+        "rating": 4,
+        "user_ratings_total": 17,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=6947746155608020438",
+        "lat": 29.966150100000004,
+        "lng": -90.0754979,
+        "accessibility_options": "N/A",
+        "reviews": [
+          {
+            "author": "Carolyn Collins",
+            "rating": 4,
+            "text": {
+              "text": "Sundays old school grown folks dancing with $2.00  mixed drinks. Good music by request from 6 to 8pm",
+              "languageCode": "en"
+            },
+            "time": "6 years ago"
+          },
+          {
+            "author": "Raymond Lewis",
+            "rating": 4,
+            "text": {
+              "text": "One of my cousin birthday party- Mrs. Evyonne",
+              "languageCode": "en"
+            },
+            "time": "5 years ago"
+          },
+          {
+            "author": "Rae P",
+            "rating": 5,
+            "text": {
+              "text": "Nice grown up atmosphere!",
+              "languageCode": "en"
+            },
+            "time": "5 years ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2WXIbPkxN5o-xRsPy4TkQlWp2ZmAc1_NQW338WdHiTsrNkp72POzrQ-z0zw0mZ8qa77R9zvHMEzrePs4Glv1TxgB8zYAvQms2FmBVa-Cpg1kJVx9VIlb6PCRIZEvpZaNSoldjNoBVmqYmtHnHR6I9toPQrJhupo8z-KWmXvKWPEFRJsawR-q4yYzMESQgIH-MYKWmhPad1ushnoLKk4pw6kOffL9Uh3lo3xmGuyGzLpf-L4s6rLbEo5U6z9XE4XS4kboDSXb1D9gdOTFJj3wE4KlQzh5o_ZphnvSQyQFR52-kzCU-rge2FYvQNUmAJIZ5C4Js6mMIzGlZ4Us0lOiwJH89cXfy2uMYieKKjMLr1almDKAZ1GJPdyIoN3AoKr9VvxG5HiDk_Y7pqpIkiO1cp4wvk8-1C&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Pass Christian": [
+    {
+      "name": "Cat Island Coffeehouse",
+      "address": "300 E Scenic Dr, Pass Christian, MS 39571, USA",
+      "rating": 4.7,
+      "user_ratings_total": 719,
+      "website": "http://catislandcoffeehouse.com/",
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "google_maps_url": "https://maps.google.com/?cid=1409821781069057307",
+      "lat": 30.3161116,
+      "lng": -89.2416259,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Nicholas Dittmar",
+          "rating": 5,
+          "text": {
+            "text": "Really cool coffee shop/book store. If you're looking for a cozy place to grab some coffee and read a book, then look no further. This place is somewhat quiet and very cozy. I could hang out here all day drinking coffee while reading a book.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Mark Losset",
+          "rating": 5,
+          "text": {
+            "text": "There are a few great coffee shops along the Gulf Coast of Mississippi and Cat Island Coffee Shop ranks near the top. The coffee and Lattes are great but the views of the MS sound are what sets it apart. The seating is limited but we have always had a place to sit and an excellent experience. It's a great place to stop off when driving the beach on a pretty day.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "R.B. Chaffee",
+          "rating": 5,
+          "text": {
+            "text": "A very special little Coffee and Book haven situated across the Beach Hwy from the Gulf and the Pass Christian Harbor.  It is located right on the corner.\nThis place is so warm and comfortable. While you enjoy their wonderful coffee brews accompanied  by selections of b'fast sandwiches or cobbler or muffins, etc. I was in town visiting a great couple that live just down the elevated road. They walk down to the coffeehouse just about every day. That is informative about the coffee consistency, because my buddy, Artie is very frugal...",
+            "languageCode": "en"
+          },
+          "time": "9 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2TZrorTIoXXAqunKc-RKJsvHAqcOi9RSASibrHB1iKpECqQsABYdSPVkM6TE2f_IZMUz_1ysJHUt61tpeBLnKUqVUkJCDFVsMAom_UWxUD9IbJpBE4NzvBcHtZ3XJZ1tCdMHrVhNwsCEktmAVYoL0IEZs3KMaAFrL2AHSFvhKAQ6E94kDYBxl9IGWjvCM0Sxf9ecRHtS010DTSKgyILk9FDP9cYobNgxbUVaWZUz0EN2nrJt9qeurBadTnjbu5VtXxAR3TlVa7stkONtN_YEOxsyMLGjwkwDy5QEbo2yCvnTq4RN9AM2NfHsfVDOvUTz9sOHi3esl3Xc4vZIuQ_jnFF66xus6_QJsnTIaOpR4jay8cGCfjb_DIth--tLx2EofbB4gasJafgdXl_FPR3_Ea_r7RJSloGJkk&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Baton Rouge": {
+    "city": "Baton Rouge",
+    "city_ascii": "Baton Rouge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.442,
+    "lng": -91.1311,
+    "cafes": [
+      {
+        "name": "Cat Haven",
+        "address": "11130 N Harrells Ferry Rd, Baton Rouge, LA 70816, USA",
+        "rating": 4.6,
+        "user_ratings_total": 345,
+        "website": "http://www.cathaven.org/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=18136018372725193674",
+        "lat": 30.432356699999996,
+        "lng": -91.0597736,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "tulja bhavani",
+            "rating": 5,
+            "text": {
+              "text": "We adopted Barley (Beta, Betus) from Cat Haven, and he’s been the most adorable, goofy little furball! We instantly fell in love with him. The adoption process was seamless, and the staff at Cat Haven were incredibly helpful and kind. Highly recommend this wonderful place for anyone looking to adopt!",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          },
+          {
+            "author": "Ashley Winters",
+            "rating": 5,
+            "text": {
+              "text": "Love my baby! The place was clean other cats in their care looked happy and healthy. Will probably go back and adopt another kitten!",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Anne Criddle",
+            "rating": 5,
+            "text": {
+              "text": "We adopted Winston and Willow (Simone) from Cat Haven a few weeks ago. Our kitties are so spoiled and love their new life at the furever home. Cat Haven was great! No pressure, and so patient answering all of our questions and let us come back and spend time before making our decision. It is different from other places with rooms and toys for the kitties and everyone there loves cats! I highly recommend Cat Haven to anyone looking to adopt.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3GOGV7mk_QXWOseV1F5YYPlwduUSjHwYfuMlQlmuf0LlCFLXBy8FXlp9ULX033YNfFunTAqQuV0AQGpL_VDLtJyDf6wdnRK801aiAK1tU-Mh7qd6M3DRwkDxTdg_uaYRSp_Yw2BAZbtxhVxapJ7cloNuv4nGQvA5lPJn_HBntG-sN0Vddn62V3zZiQfOEFr4fzITOXjkzKllVIixpH4_D0VKUJhAfOeM7nRrrYStQejSSruis4CMwX9SMmb6ifc8NukkqPr2u-MaAsVfKpx_sP3NnthSnlcx9gNiuAzc8wWQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Los Angeles": [
+    {
+      "name": "CatCafe Lounge | Cats + Kittens + Catio",
+      "address": "1736 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
+      "rating": 4.7,
+      "user_ratings_total": 453,
+      "website": "http://www.catcafelounge.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=17187311231271462668",
+      "lat": 34.0467426,
+      "lng": -118.4430067,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleRestroom": false
+      },
+      "reviews": [
+        {
+          "author": "AngelBagel",
+          "rating": 5,
+          "text": {
+            "text": "This place is very small, but it is very clean, well maintained, and comforting not only for the guests, but most importantly, for the cats. The reservation fee is pricey, however this business is a non profit that focuses on rehabilitating rescued cats, and it has a great mission and appears to be working very hard and ethically to give these cats a chance at adoption. The cats have plenty of space to roam around and sit, sleep, and play anywhere they like. The cats also have easy access to food, water, and litter boxes. I highly recommend this location for anyone who loves cats. You’ll have a great time here and the time will fly by too fast. It is also a great business to support! I’ll definitely be coming back soon ;)",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        },
+        {
+          "author": "lyuba buklemisheva",
+          "rating": 5,
+          "text": {
+            "text": "My son loves this place and all the kitties! Our cat is mature and doesn’t play with him, so he was absolutely thrilled when little kittens started playing with him and following him. I really like that they have a nice outdoor catio where cats enjoy sunshine and chill.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Amy Y",
+          "rating": 5,
+          "text": {
+            "text": "Friendly staff and such a huge amount of space for the kitties. Cats looked very well taken care of and space was clean as well. I loved the mixed outdoor/indoor space.",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1a4Q-WrrgyJVCXegvysnDFLWRoMMg2vIkG3AuMM8eq5anW6a2G7SXOMabWAo-qyftOLCZy5pGCGJ7lpLRLisMUssAgaVhWBKjF_46_ZAZVg8rvJzZ60_AaN62Enm1BcAJVsy52n-2Xt5C2S-Q4xc3GDrudcHKO_aWGFmFynY6Jj-nFwC15Wpy-ZKUJsA3owdgyQvu99cBO0VS5zLYil74wwmvSYI03yaE4VXCIIF_hpQ8EXQlx0oxbLN1DrzbS_QzjLZu1S1aPEAqmk6XwkLYBBh_Js-cHlwP3u7w7GZlwRdriilz_j7zqJYq-wW8FsKkWc0eFTLPFW4Rl5RidykdSVo2BdDDv02ef_DsuXuq3hfrqYBTGri4-r9xiYhh8WaKQAg8i-D2MWlK6xnQv94jskDrF7DVL&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Shreveport": {
+    "city": "Shreveport",
+    "city_ascii": "Shreveport",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4653,
+    "lng": -93.7955,
+    "cafes": []
+  },
+  "Houma": {
+    "city": "Houma",
+    "city_ascii": "Houma",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.58,
+    "lng": -90.7059,
+    "cafes": []
+  },
+  "Lake Charles": {
+    "city": "Lake Charles",
+    "city_ascii": "Lake Charles",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.201,
+    "lng": -93.2111,
+    "cafes": []
+  },
+  "Metairie": {
+    "city": "Metairie",
+    "city_ascii": "Metairie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9977,
+    "lng": -90.178,
+    "cafes": []
+  },
+  "Monroe": {
+    "city": "Monroe",
+    "city_ascii": "Monroe",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5185,
+    "lng": -92.0774,
+    "cafes": []
+  },
+  "Mandeville": {
+    "city": "Mandeville",
+    "city_ascii": "Mandeville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3751,
+    "lng": -90.0904,
+    "cafes": []
+  },
+  "Slidell": {
+    "city": "Slidell",
+    "city_ascii": "Slidell",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2887,
+    "lng": -89.7828,
+    "cafes": []
+  },
+  "Alexandria": {
+    "city": "Alexandria",
+    "city_ascii": "Alexandria",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.2923,
+    "lng": -92.4702,
+    "cafes": []
+  },
+  "Hammond": {
+    "city": "Hammond",
+    "city_ascii": "Hammond",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5061,
+    "lng": -90.4563,
+    "cafes": []
+  },
+  "Kenner": {
+    "city": "Kenner",
+    "city_ascii": "Kenner",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0109,
+    "lng": -90.2549,
+    "cafes": []
+  },
+  "Bossier City": {
+    "city": "Bossier City",
+    "city_ascii": "Bossier City",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5224,
+    "lng": -93.6668,
+    "cafes": []
+  },
+  "Prairieville": {
+    "city": "Prairieville",
+    "city_ascii": "Prairieville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3151,
+    "lng": -90.9571,
+    "cafes": []
+  },
+  "Marrero": {
+    "city": "Marrero",
+    "city_ascii": "Marrero",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8871,
+    "lng": -90.1126,
+    "cafes": []
+  },
+  "Central": {
+    "city": "Central",
+    "city_ascii": "Central",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5593,
+    "lng": -91.0369,
+    "cafes": []
+  },
+  "Laplace": {
+    "city": "Laplace",
+    "city_ascii": "Laplace",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0731,
+    "lng": -90.4758,
+    "cafes": []
+  },
+  "New Iberia": {
+    "city": "New Iberia",
+    "city_ascii": "New Iberia",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0049,
+    "lng": -91.8202,
+    "cafes": []
+  },
+  "Terrytown": {
+    "city": "Terrytown",
+    "city_ascii": "Terrytown",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9014,
+    "lng": -90.0279,
+    "cafes": []
+  },
+  "Chalmette": {
+    "city": "Chalmette",
+    "city_ascii": "Chalmette",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9438,
+    "lng": -89.966,
+    "cafes": []
+  },
+  "Ruston": {
+    "city": "Ruston",
+    "city_ascii": "Ruston",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5328,
+    "lng": -92.6363,
+    "cafes": []
+  },
+  "Bayou Cane": {
+    "city": "Bayou Cane",
+    "city_ascii": "Bayou Cane",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.6243,
+    "lng": -90.751,
+    "cafes": []
+  },
+  "Harvey": {
+    "city": "Harvey",
+    "city_ascii": "Harvey",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8876,
+    "lng": -90.0666,
+    "cafes": []
+  },
+  "Sulphur": {
+    "city": "Sulphur",
+    "city_ascii": "Sulphur",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2286,
+    "lng": -93.3566,
+    "cafes": []
+  },
+  "Zachary": {
+    "city": "Zachary",
+    "city_ascii": "Zachary",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6643,
+    "lng": -91.1634,
+    "cafes": []
+  },
+  "Shenandoah": {
+    "city": "Shenandoah",
+    "city_ascii": "Shenandoah",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4019,
+    "lng": -91.002,
+    "cafes": []
+  },
+  "Natchitoches": {
+    "city": "Natchitoches",
+    "city_ascii": "Natchitoches",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.7315,
+    "lng": -93.0975,
+    "cafes": []
+  },
+  "Gretna": {
+    "city": "Gretna",
+    "city_ascii": "Gretna",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9101,
+    "lng": -90.0515,
+    "cafes": []
+  },
+  "Estelle": {
+    "city": "Estelle",
+    "city_ascii": "Estelle",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8447,
+    "lng": -90.1021,
+    "cafes": []
+  },
+  "Youngsville": {
+    "city": "Youngsville",
+    "city_ascii": "Youngsville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0963,
+    "lng": -91.9968,
+    "cafes": []
+  },
+  "Thibodaux": {
+    "city": "Thibodaux",
+    "city_ascii": "Thibodaux",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7949,
+    "lng": -90.8146,
+    "cafes": []
+  },
+  "Opelousas": {
+    "city": "Opelousas",
+    "city_ascii": "Opelousas",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5252,
+    "lng": -92.0816,
+    "cafes": []
+  },
+  "Pineville": {
+    "city": "Pineville",
+    "city_ascii": "Pineville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.3414,
+    "lng": -92.4096,
+    "cafes": []
+  },
+  "Luling": {
+    "city": "Luling",
+    "city_ascii": "Luling",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9008,
+    "lng": -90.3523,
+    "cafes": []
+  },
+  "Broussard": {
+    "city": "Broussard",
+    "city_ascii": "Broussard",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1396,
+    "lng": -91.954,
+    "cafes": []
+  },
+  "River Ridge": {
+    "city": "River Ridge",
+    "city_ascii": "River Ridge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9593,
+    "lng": -90.2202,
+    "cafes": []
+  },
+  "West Monroe": {
+    "city": "West Monroe",
+    "city_ascii": "West Monroe",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.512,
+    "lng": -92.1513,
+    "cafes": []
+  },
+  "Gonzales": {
+    "city": "Gonzales",
+    "city_ascii": "Gonzales",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2132,
+    "lng": -90.9234,
+    "cafes": []
+  },
+  "Claiborne": {
+    "city": "Claiborne",
+    "city_ascii": "Claiborne",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5379,
+    "lng": -92.1981,
+    "cafes": []
+  },
+  "Baker": {
+    "city": "Baker",
+    "city_ascii": "Baker",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5832,
+    "lng": -91.1582,
+    "cafes": []
+  },
+  "Gardere": {
+    "city": "Gardere",
+    "city_ascii": "Gardere",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3582,
+    "lng": -91.1346,
+    "cafes": []
+  },
+  "Destrehan": {
+    "city": "Destrehan",
+    "city_ascii": "Destrehan",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9626,
+    "lng": -90.3676,
+    "cafes": []
+  },
+  "Woodmere": {
+    "city": "Woodmere",
+    "city_ascii": "Woodmere",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8493,
+    "lng": -90.0751,
+    "cafes": []
+  },
+  "Minden": {
+    "city": "Minden",
+    "city_ascii": "Minden",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.6187,
+    "lng": -93.2762,
+    "cafes": []
+  },
+  "Covington": {
+    "city": "Covington",
+    "city_ascii": "Covington",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.481,
+    "lng": -90.1122,
+    "cafes": []
+  },
+  "Crowley": {
+    "city": "Crowley",
+    "city_ascii": "Crowley",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2175,
+    "lng": -92.3752,
+    "cafes": []
+  },
+  "Moss Bluff": {
+    "city": "Moss Bluff",
+    "city_ascii": "Moss Bluff",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3039,
+    "lng": -93.2051,
+    "cafes": []
+  },
+  "Bayou Blue": {
+    "city": "Bayou Blue",
+    "city_ascii": "Bayou Blue",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.6341,
+    "lng": -90.6733,
+    "cafes": []
+  },
+  "Morgan City": {
+    "city": "Morgan City",
+    "city_ascii": "Morgan City",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7041,
+    "lng": -91.192,
+    "cafes": []
+  },
+  "Timberlane": {
+    "city": "Timberlane",
+    "city_ascii": "Timberlane",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8781,
+    "lng": -90.0303,
+    "cafes": []
+  },
+  "Abbeville": {
+    "city": "Abbeville",
+    "city_ascii": "Abbeville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9751,
+    "lng": -92.1265,
+    "cafes": []
+  },
+  "Belle Chasse": {
+    "city": "Belle Chasse",
+    "city_ascii": "Belle Chasse",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8558,
+    "lng": -90.0045,
+    "cafes": []
+  },
+  "Carencro": {
+    "city": "Carencro",
+    "city_ascii": "Carencro",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3126,
+    "lng": -92.0388,
+    "cafes": []
+  },
+  "Waggaman": {
+    "city": "Waggaman",
+    "city_ascii": "Waggaman",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9373,
+    "lng": -90.2354,
+    "cafes": []
+  },
+  "Bogalusa": {
+    "city": "Bogalusa",
+    "city_ascii": "Bogalusa",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.7812,
+    "lng": -89.8633,
+    "cafes": []
+  },
+  "Raceland": {
+    "city": "Raceland",
+    "city_ascii": "Raceland",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7282,
+    "lng": -90.6362,
+    "cafes": []
+  },
+  "Jefferson": {
+    "city": "Jefferson",
+    "city_ascii": "Jefferson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9609,
+    "lng": -90.1554,
+    "cafes": []
+  },
+  "Jennings": {
+    "city": "Jennings",
+    "city_ascii": "Jennings",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2233,
+    "lng": -92.6582,
+    "cafes": []
+  },
+  "Bastrop": {
+    "city": "Bastrop",
+    "city_ascii": "Bastrop",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.7748,
+    "lng": -91.9078,
+    "cafes": []
+  },
+  "Denham Springs": {
+    "city": "Denham Springs",
+    "city_ascii": "Denham Springs",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4743,
+    "lng": -90.9593,
+    "cafes": []
+  },
+  "Eunice": {
+    "city": "Eunice",
+    "city_ascii": "Eunice",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4904,
+    "lng": -92.4191,
+    "cafes": []
+  },
+  "Merrydale": {
+    "city": "Merrydale",
+    "city_ascii": "Merrydale",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4998,
+    "lng": -91.1081,
+    "cafes": []
+  },
+  "Harahan": {
+    "city": "Harahan",
+    "city_ascii": "Harahan",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9374,
+    "lng": -90.2031,
+    "cafes": []
+  },
+  "Village St. George": {
+    "city": "Village St. George",
+    "city_ascii": "Village St. George",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3598,
+    "lng": -91.0672,
+    "cafes": []
+  },
+  "Westwego": {
+    "city": "Westwego",
+    "city_ascii": "Westwego",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9058,
+    "lng": -90.1434,
+    "cafes": []
+  },
+  "Oak Hills Place": {
+    "city": "Oak Hills Place",
+    "city_ascii": "Oak Hills Place",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.369,
+    "lng": -91.0887,
+    "cafes": []
+  },
+  "Scott": {
+    "city": "Scott",
+    "city_ascii": "Scott",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2398,
+    "lng": -92.0948,
+    "cafes": []
+  },
+  "Prien": {
+    "city": "Prien",
+    "city_ascii": "Prien",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1601,
+    "lng": -93.2611,
+    "cafes": []
+  },
+  "Fort Polk South": {
+    "city": "Fort Polk South",
+    "city_ascii": "Fort Polk South",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.0512,
+    "lng": -93.2159,
+    "cafes": []
+  },
+  "Ponchatoula": {
+    "city": "Ponchatoula",
+    "city_ascii": "Ponchatoula",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4402,
+    "lng": -90.4428,
+    "cafes": []
+  },
+  "Old Jefferson": {
+    "city": "Old Jefferson",
+    "city_ascii": "Old Jefferson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3776,
+    "lng": -91.006,
+    "cafes": []
+  },
+  "Eden Isle": {
+    "city": "Eden Isle",
+    "city_ascii": "Eden Isle",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2268,
+    "lng": -89.8043,
+    "cafes": []
+  },
+  "Breaux Bridge": {
+    "city": "Breaux Bridge",
+    "city_ascii": "Breaux Bridge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2829,
+    "lng": -91.9043,
+    "cafes": []
+  },
+  "Meraux": {
+    "city": "Meraux",
+    "city_ascii": "Meraux",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9284,
+    "lng": -89.9179,
+    "cafes": []
+  },
+  "Reserve": {
+    "city": "Reserve",
+    "city_ascii": "Reserve",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0741,
+    "lng": -90.5557,
+    "cafes": []
+  },
+  "Red Chute": {
+    "city": "Red Chute",
+    "city_ascii": "Red Chute",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5732,
+    "lng": -93.6059,
+    "cafes": []
+  },
+  "St. Rose": {
+    "city": "St. Rose",
+    "city_ascii": "St. Rose",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9649,
+    "lng": -90.3088,
+    "cafes": []
+  },
+  "Bridge City": {
+    "city": "Bridge City",
+    "city_ascii": "Bridge City",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9321,
+    "lng": -90.1594,
+    "cafes": []
+  },
+  "Rayne": {
+    "city": "Rayne",
+    "city_ascii": "Rayne",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2403,
+    "lng": -92.2668,
+    "cafes": []
+  },
+  "Addis": {
+    "city": "Addis",
+    "city_ascii": "Addis",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3652,
+    "lng": -91.2658,
+    "cafes": []
+  },
+  "Lacombe": {
+    "city": "Lacombe",
+    "city_ascii": "Lacombe",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3141,
+    "lng": -89.931,
+    "cafes": []
+  },
+  "Donaldsonville": {
+    "city": "Donaldsonville",
+    "city_ascii": "Donaldsonville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0954,
+    "lng": -90.9925,
+    "cafes": []
+  },
+  "Oakdale": {
+    "city": "Oakdale",
+    "city_ascii": "Oakdale",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.8158,
+    "lng": -92.6542,
+    "cafes": []
+  },
+  "St. Gabriel": {
+    "city": "St. Gabriel",
+    "city_ascii": "St. Gabriel",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2536,
+    "lng": -91.1013,
+    "cafes": []
+  },
+  "Galliano": {
+    "city": "Galliano",
+    "city_ascii": "Galliano",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.447,
+    "lng": -90.3096,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7851,
+    "lng": -91.5098,
+    "cafes": []
+  },
+  "Walker": {
+    "city": "Walker",
+    "city_ascii": "Walker",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4851,
+    "lng": -90.8654,
+    "cafes": []
+  },
+  "Ville Platte": {
+    "city": "Ville Platte",
+    "city_ascii": "Ville Platte",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6901,
+    "lng": -92.2746,
+    "cafes": []
+  },
+  "Plaquemine": {
+    "city": "Plaquemine",
+    "city_ascii": "Plaquemine",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2833,
+    "lng": -91.243,
+    "cafes": []
+  },
+  "Tallulah": {
+    "city": "Tallulah",
+    "city_ascii": "Tallulah",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4068,
+    "lng": -91.1916,
+    "cafes": []
+  },
+  "Inniswold": {
+    "city": "Inniswold",
+    "city_ascii": "Inniswold",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3982,
+    "lng": -91.071,
+    "cafes": []
+  },
+  "Schriever": {
+    "city": "Schriever",
+    "city_ascii": "Schriever",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7333,
+    "lng": -90.831,
+    "cafes": []
+  },
+  "Elmwood": {
+    "city": "Elmwood",
+    "city_ascii": "Elmwood",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9554,
+    "lng": -90.1879,
+    "cafes": []
+  },
+  "Larose": {
+    "city": "Larose",
+    "city_ascii": "Larose",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.5669,
+    "lng": -90.3751,
+    "cafes": []
+  },
+  "Patterson": {
+    "city": "Patterson",
+    "city_ascii": "Patterson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.691,
+    "lng": -91.3096,
+    "cafes": []
+  },
+  "Leesville": {
+    "city": "Leesville",
+    "city_ascii": "Leesville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.1324,
+    "lng": -93.2673,
+    "cafes": []
+  },
+  "Gray": {
+    "city": "Gray",
+    "city_ascii": "Gray",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.678,
+    "lng": -90.7831,
+    "cafes": []
+  },
+  "St. Martinville": {
+    "city": "St. Martinville",
+    "city_ascii": "St. Martinville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1263,
+    "lng": -91.8319,
+    "cafes": []
+  },
+  "Grambling": {
+    "city": "Grambling",
+    "city_ascii": "Grambling",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5275,
+    "lng": -92.7124,
+    "cafes": []
+  },
+  "Chackbay": {
+    "city": "Chackbay",
+    "city_ascii": "Chackbay",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8809,
+    "lng": -90.775,
+    "cafes": []
+  },
+  "Brownfields": {
+    "city": "Brownfields",
+    "city_ascii": "Brownfields",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5467,
+    "lng": -91.1225,
+    "cafes": []
+  },
+  "Avondale": {
+    "city": "Avondale",
+    "city_ascii": "Avondale",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9072,
+    "lng": -90.1933,
+    "cafes": []
+  },
+  "Carlyss": {
+    "city": "Carlyss",
+    "city_ascii": "Carlyss",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1761,
+    "lng": -93.3704,
+    "cafes": []
+  },
+  "Cut Off": {
+    "city": "Cut Off",
+    "city_ascii": "Cut Off",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.5164,
+    "lng": -90.3291,
+    "cafes": []
+  },
+  "Marksville": {
+    "city": "Marksville",
+    "city_ascii": "Marksville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.1246,
+    "lng": -92.0652,
+    "cafes": []
+  },
+  "Port Allen": {
+    "city": "Port Allen",
+    "city_ascii": "Port Allen",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4456,
+    "lng": -91.2098,
+    "cafes": []
+  },
+  "Westlake": {
+    "city": "Westlake",
+    "city_ascii": "Westlake",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2606,
+    "lng": -93.2638,
+    "cafes": []
+  },
+  "Winnsboro": {
+    "city": "Winnsboro",
+    "city_ascii": "Winnsboro",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.165,
+    "lng": -91.721,
+    "cafes": []
+  },
+  "Jeanerette": {
+    "city": "Jeanerette",
+    "city_ascii": "Jeanerette",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9157,
+    "lng": -91.6758,
+    "cafes": []
+  },
+  "Swartz": {
+    "city": "Swartz",
+    "city_ascii": "Swartz",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5809,
+    "lng": -91.9869,
+    "cafes": []
+  },
+  "Berwick": {
+    "city": "Berwick",
+    "city_ascii": "Berwick",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7013,
+    "lng": -91.2377,
+    "cafes": []
+  },
+  "Monticello": {
+    "city": "Monticello",
+    "city_ascii": "Monticello",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4881,
+    "lng": -91.0448,
+    "cafes": []
+  },
+  "Springhill": {
+    "city": "Springhill",
+    "city_ascii": "Springhill",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 33.0019,
+    "lng": -93.4613,
+    "cafes": []
+  },
+  "Mansfield": {
+    "city": "Mansfield",
+    "city_ascii": "Mansfield",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0355,
+    "lng": -93.7004,
+    "cafes": []
+  },
+  "Haughton": {
+    "city": "Haughton",
+    "city_ascii": "Haughton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5277,
+    "lng": -93.5041,
+    "cafes": []
+  },
+  "New Roads": {
+    "city": "New Roads",
+    "city_ascii": "New Roads",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6959,
+    "lng": -91.4537,
+    "cafes": []
+  },
+  "Violet": {
+    "city": "Violet",
+    "city_ascii": "Violet",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8962,
+    "lng": -89.892,
+    "cafes": []
+  },
+  "Arabi": {
+    "city": "Arabi",
+    "city_ascii": "Arabi",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9562,
+    "lng": -89.9986,
+    "cafes": []
+  },
+  "Kaplan": {
+    "city": "Kaplan",
+    "city_ascii": "Kaplan",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.006,
+    "lng": -92.284,
+    "cafes": []
+  },
+  "Jena": {
+    "city": "Jena",
+    "city_ascii": "Jena",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6914,
+    "lng": -92.1298,
+    "cafes": []
+  },
+  "Church Point": {
+    "city": "Church Point",
+    "city_ascii": "Church Point",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4037,
+    "lng": -92.2145,
+    "cafes": []
+  },
+  "Jonesboro": {
+    "city": "Jonesboro",
+    "city_ascii": "Jonesboro",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.2348,
+    "lng": -92.7098,
+    "cafes": []
+  },
+  "Eastwood": {
+    "city": "Eastwood",
+    "city_ascii": "Eastwood",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5607,
+    "lng": -93.5625,
+    "cafes": []
+  },
+  "Winnfield": {
+    "city": "Winnfield",
+    "city_ascii": "Winnfield",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.924,
+    "lng": -92.6425,
+    "cafes": []
+  },
+  "Amite City": {
+    "city": "Amite City",
+    "city_ascii": "Amite City",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.7323,
+    "lng": -90.5133,
+    "cafes": []
+  },
+  "Brownsville": {
+    "city": "Brownsville",
+    "city_ascii": "Brownsville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4883,
+    "lng": -92.1619,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.8346,
+    "lng": -91.208,
+    "cafes": []
+  },
+  "Vidalia": {
+    "city": "Vidalia",
+    "city_ascii": "Vidalia",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.5668,
+    "lng": -91.4404,
+    "cafes": []
+  },
+  "Bayou Vista": {
+    "city": "Bayou Vista",
+    "city_ascii": "Bayou Vista",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.6912,
+    "lng": -91.2672,
+    "cafes": []
+  },
+  "Ball": {
+    "city": "Ball",
+    "city_ascii": "Ball",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.4188,
+    "lng": -92.4084,
+    "cafes": []
+  },
+  "Richwood": {
+    "city": "Richwood",
+    "city_ascii": "Richwood",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4485,
+    "lng": -92.0773,
+    "cafes": []
+  },
+  "Hahnville": {
+    "city": "Hahnville",
+    "city_ascii": "Hahnville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9641,
+    "lng": -90.4141,
+    "cafes": []
+  },
+  "Franklinton": {
+    "city": "Franklinton",
+    "city_ascii": "Franklinton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.848,
+    "lng": -90.1459,
+    "cafes": []
+  },
+  "Blanchard": {
+    "city": "Blanchard",
+    "city_ascii": "Blanchard",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.6027,
+    "lng": -93.8832,
+    "cafes": []
+  },
+  "Lake Providence": {
+    "city": "Lake Providence",
+    "city_ascii": "Lake Providence",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.8132,
+    "lng": -91.1825,
+    "cafes": []
+  },
+  "Farmerville": {
+    "city": "Farmerville",
+    "city_ascii": "Farmerville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.7752,
+    "lng": -92.4013,
+    "cafes": []
+  },
+  "Welsh": {
+    "city": "Welsh",
+    "city_ascii": "Welsh",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2355,
+    "lng": -92.8135,
+    "cafes": []
+  },
+  "Bunkie": {
+    "city": "Bunkie",
+    "city_ascii": "Bunkie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.954,
+    "lng": -92.1884,
+    "cafes": []
+  },
+  "Rayville": {
+    "city": "Rayville",
+    "city_ascii": "Rayville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4707,
+    "lng": -91.7576,
+    "cafes": []
+  },
+  "Iowa": {
+    "city": "Iowa",
+    "city_ascii": "Iowa",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2393,
+    "lng": -93.013,
+    "cafes": []
+  },
+  "Vinton": {
+    "city": "Vinton",
+    "city_ascii": "Vinton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1957,
+    "lng": -93.5818,
+    "cafes": []
+  },
+  "Ferriday": {
+    "city": "Ferriday",
+    "city_ascii": "Ferriday",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6343,
+    "lng": -91.5562,
+    "cafes": []
+  },
+  "Greenwood": {
+    "city": "Greenwood",
+    "city_ascii": "Greenwood",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4359,
+    "lng": -93.9643,
+    "cafes": []
+  },
+  "Lakeshore": {
+    "city": "Lakeshore",
+    "city_ascii": "Lakeshore",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.535,
+    "lng": -92.0328,
+    "cafes": []
+  },
+  "Lutcher": {
+    "city": "Lutcher",
+    "city_ascii": "Lutcher",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0646,
+    "lng": -90.7124,
+    "cafes": []
+  },
+  "South Vacherie": {
+    "city": "South Vacherie",
+    "city_ascii": "South Vacherie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9406,
+    "lng": -90.6893,
+    "cafes": []
+  },
+  "Sunset": {
+    "city": "Sunset",
+    "city_ascii": "Sunset",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4083,
+    "lng": -92.0644,
+    "cafes": []
+  },
+  "Vivian": {
+    "city": "Vivian",
+    "city_ascii": "Vivian",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.8711,
+    "lng": -93.9862,
+    "cafes": []
+  },
+  "DeQuincy": {
+    "city": "DeQuincy",
+    "city_ascii": "DeQuincy",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.449,
+    "lng": -93.4456,
+    "cafes": []
+  },
+  "Mamou": {
+    "city": "Mamou",
+    "city_ascii": "Mamou",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6349,
+    "lng": -92.4179,
+    "cafes": []
+  },
+  "Gramercy": {
+    "city": "Gramercy",
+    "city_ascii": "Gramercy",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.061,
+    "lng": -90.6929,
+    "cafes": []
+  },
+  "Lockport": {
+    "city": "Lockport",
+    "city_ascii": "Lockport",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.6443,
+    "lng": -90.5324,
+    "cafes": []
+  },
+  "Norco": {
+    "city": "Norco",
+    "city_ascii": "Norco",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9986,
+    "lng": -90.4036,
+    "cafes": []
+  },
+  "Natalbany": {
+    "city": "Natalbany",
+    "city_ascii": "Natalbany",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5486,
+    "lng": -90.4848,
+    "cafes": []
+  },
+  "Westminster": {
+    "city": "Westminster",
+    "city_ascii": "Westminster",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.408,
+    "lng": -91.0906,
+    "cafes": []
+  },
+  "Homer": {
+    "city": "Homer",
+    "city_ascii": "Homer",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.793,
+    "lng": -93.0582,
+    "cafes": []
+  },
+  "Arcadia": {
+    "city": "Arcadia",
+    "city_ascii": "Arcadia",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5506,
+    "lng": -92.9218,
+    "cafes": []
+  },
+  "Abita Springs": {
+    "city": "Abita Springs",
+    "city_ascii": "Abita Springs",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4761,
+    "lng": -90.0293,
+    "cafes": []
+  },
+  "Bawcomville": {
+    "city": "Bawcomville",
+    "city_ascii": "Bawcomville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4702,
+    "lng": -92.1736,
+    "cafes": []
+  },
+  "Pearl River": {
+    "city": "Pearl River",
+    "city_ascii": "Pearl River",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3688,
+    "lng": -89.7495,
+    "cafes": []
+  },
+  "Grand Point": {
+    "city": "Grand Point",
+    "city_ascii": "Grand Point",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0451,
+    "lng": -90.7488,
+    "cafes": []
+  },
+  "Lake Arthur": {
+    "city": "Lake Arthur",
+    "city_ascii": "Lake Arthur",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0795,
+    "lng": -92.6773,
+    "cafes": []
+  },
+  "Delhi": {
+    "city": "Delhi",
+    "city_ascii": "Delhi",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4529,
+    "lng": -91.49,
+    "cafes": []
+  },
+  "Brusly": {
+    "city": "Brusly",
+    "city_ascii": "Brusly",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3943,
+    "lng": -91.2517,
+    "cafes": []
+  },
+  "Erwinville": {
+    "city": "Erwinville",
+    "city_ascii": "Erwinville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.541,
+    "lng": -91.3885,
+    "cafes": []
+  },
+  "Des Allemands": {
+    "city": "Des Allemands",
+    "city_ascii": "Des Allemands",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8162,
+    "lng": -90.4746,
+    "cafes": []
+  },
+  "Chauvin": {
+    "city": "Chauvin",
+    "city_ascii": "Chauvin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.4455,
+    "lng": -90.5939,
+    "cafes": []
+  },
+  "Lafourche Crossing": {
+    "city": "Lafourche Crossing",
+    "city_ascii": "Lafourche Crossing",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7675,
+    "lng": -90.7697,
+    "cafes": []
+  },
+  "New Orleans Station": {
+    "city": "New Orleans Station",
+    "city_ascii": "New Orleans Station",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8314,
+    "lng": -90.0211,
+    "cafes": []
+  },
+  "Benton": {
+    "city": "Benton",
+    "city_ascii": "Benton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.6907,
+    "lng": -93.7401,
+    "cafes": []
+  },
+  "Delcambre": {
+    "city": "Delcambre",
+    "city_ascii": "Delcambre",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9516,
+    "lng": -91.9916,
+    "cafes": []
+  },
+  "Poydras": {
+    "city": "Poydras",
+    "city_ascii": "Poydras",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8626,
+    "lng": -89.8877,
+    "cafes": []
+  },
+  "Stonewall": {
+    "city": "Stonewall",
+    "city_ascii": "Stonewall",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.2716,
+    "lng": -93.8099,
+    "cafes": []
+  },
+  "Bourg": {
+    "city": "Bourg",
+    "city_ascii": "Bourg",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.557,
+    "lng": -90.6064,
+    "cafes": []
+  },
+  "Maurice": {
+    "city": "Maurice",
+    "city_ascii": "Maurice",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1042,
+    "lng": -92.1211,
+    "cafes": []
+  },
+  "Kinder": {
+    "city": "Kinder",
+    "city_ascii": "Kinder",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4835,
+    "lng": -92.8508,
+    "cafes": []
+  },
+  "Woodworth": {
+    "city": "Woodworth",
+    "city_ascii": "Woodworth",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.1656,
+    "lng": -92.5098,
+    "cafes": []
+  },
+  "Pierre Part": {
+    "city": "Pierre Part",
+    "city_ascii": "Pierre Part",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9555,
+    "lng": -91.2073,
+    "cafes": []
+  },
+  "New Llano": {
+    "city": "New Llano",
+    "city_ascii": "New Llano",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.097,
+    "lng": -93.2767,
+    "cafes": []
+  },
+  "Port Barre": {
+    "city": "Port Barre",
+    "city_ascii": "Port Barre",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5565,
+    "lng": -91.9565,
+    "cafes": []
+  },
+  "Boutte": {
+    "city": "Boutte",
+    "city_ascii": "Boutte",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8825,
+    "lng": -90.3935,
+    "cafes": []
+  },
+  "Haynesville": {
+    "city": "Haynesville",
+    "city_ascii": "Haynesville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.9667,
+    "lng": -93.1376,
+    "cafes": []
+  },
+  "White Castle": {
+    "city": "White Castle",
+    "city_ascii": "White Castle",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1611,
+    "lng": -91.1495,
+    "cafes": []
+  },
+  "Jean Lafitte": {
+    "city": "Jean Lafitte",
+    "city_ascii": "Jean Lafitte",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7495,
+    "lng": -90.1036,
+    "cafes": []
+  },
+  "Garyville": {
+    "city": "Garyville",
+    "city_ascii": "Garyville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0688,
+    "lng": -90.6285,
+    "cafes": []
+  },
+  "Many": {
+    "city": "Many",
+    "city_ascii": "Many",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.566,
+    "lng": -93.4773,
+    "cafes": []
+  },
+  "Bayou L'Ourse": {
+    "city": "Bayou L'Ourse",
+    "city_ascii": "Bayou L'Ourse",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7174,
+    "lng": -91.0607,
+    "cafes": []
+  },
+  "Montz": {
+    "city": "Montz",
+    "city_ascii": "Montz",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0168,
+    "lng": -90.4634,
+    "cafes": []
+  },
+  "Amelia": {
+    "city": "Amelia",
+    "city_ascii": "Amelia",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.6645,
+    "lng": -91.1072,
+    "cafes": []
+  },
+  "Sorrento": {
+    "city": "Sorrento",
+    "city_ascii": "Sorrento",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1828,
+    "lng": -90.8674,
+    "cafes": []
+  },
+  "Milton": {
+    "city": "Milton",
+    "city_ascii": "Milton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1123,
+    "lng": -92.071,
+    "cafes": []
+  },
+  "Basile": {
+    "city": "Basile",
+    "city_ascii": "Basile",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4855,
+    "lng": -92.6009,
+    "cafes": []
+  },
+  "Kentwood": {
+    "city": "Kentwood",
+    "city_ascii": "Kentwood",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9339,
+    "lng": -90.5153,
+    "cafes": []
+  },
+  "Sterlington": {
+    "city": "Sterlington",
+    "city_ascii": "Sterlington",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.6888,
+    "lng": -92.0603,
+    "cafes": []
+  },
+  "Independence": {
+    "city": "Independence",
+    "city_ascii": "Independence",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6361,
+    "lng": -90.5056,
+    "cafes": []
+  },
+  "Fort Polk North": {
+    "city": "Fort Polk North",
+    "city_ascii": "Fort Polk North",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.1031,
+    "lng": -93.1793,
+    "cafes": []
+  },
+  "Zwolle": {
+    "city": "Zwolle",
+    "city_ascii": "Zwolle",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6398,
+    "lng": -93.6412,
+    "cafes": []
+  },
+  "Coushatta": {
+    "city": "Coushatta",
+    "city_ascii": "Coushatta",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0256,
+    "lng": -93.3406,
+    "cafes": []
+  },
+  "Ossun": {
+    "city": "Ossun",
+    "city_ascii": "Ossun",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2834,
+    "lng": -92.107,
+    "cafes": []
+  },
+  "Paulina": {
+    "city": "Paulina",
+    "city_ascii": "Paulina",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0351,
+    "lng": -90.7226,
+    "cafes": []
+  },
+  "North Vacherie": {
+    "city": "North Vacherie",
+    "city_ascii": "North Vacherie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0048,
+    "lng": -90.7109,
+    "cafes": []
+  },
+  "Presquille": {
+    "city": "Presquille",
+    "city_ascii": "Presquille",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.5586,
+    "lng": -90.6385,
+    "cafes": []
+  },
+  "Erath": {
+    "city": "Erath",
+    "city_ascii": "Erath",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9586,
+    "lng": -92.0371,
+    "cafes": []
+  },
+  "Livingston": {
+    "city": "Livingston",
+    "city_ascii": "Livingston",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4953,
+    "lng": -90.7467,
+    "cafes": []
+  },
+  "Rosepine": {
+    "city": "Rosepine",
+    "city_ascii": "Rosepine",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9208,
+    "lng": -93.2857,
+    "cafes": []
+  },
+  "Leonville": {
+    "city": "Leonville",
+    "city_ascii": "Leonville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4661,
+    "lng": -91.9811,
+    "cafes": []
+  },
+  "Golden Meadow": {
+    "city": "Golden Meadow",
+    "city_ascii": "Golden Meadow",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.3876,
+    "lng": -90.2739,
+    "cafes": []
+  },
+  "St. Francisville": {
+    "city": "St. Francisville",
+    "city_ascii": "St. Francisville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.7852,
+    "lng": -91.3788,
+    "cafes": []
+  },
+  "Cottonport": {
+    "city": "Cottonport",
+    "city_ascii": "Cottonport",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9892,
+    "lng": -92.0509,
+    "cafes": []
+  },
+  "Cade": {
+    "city": "Cade",
+    "city_ascii": "Cade",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0926,
+    "lng": -91.8996,
+    "cafes": []
+  },
+  "Baldwin": {
+    "city": "Baldwin",
+    "city_ascii": "Baldwin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8389,
+    "lng": -91.5522,
+    "cafes": []
+  },
+  "Vienna Bend": {
+    "city": "Vienna Bend",
+    "city_ascii": "Vienna Bend",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.7372,
+    "lng": -93.0343,
+    "cafes": []
+  },
+  "Oberlin": {
+    "city": "Oberlin",
+    "city_ascii": "Oberlin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6069,
+    "lng": -92.7724,
+    "cafes": []
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3184,
+    "lng": -91.8065,
+    "cafes": []
+  },
+  "Minorca": {
+    "city": "Minorca",
+    "city_ascii": "Minorca",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.5725,
+    "lng": -91.4884,
+    "cafes": []
+  },
+  "Logansport": {
+    "city": "Logansport",
+    "city_ascii": "Logansport",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.9763,
+    "lng": -93.9933,
+    "cafes": []
+  },
+  "Mathews": {
+    "city": "Mathews",
+    "city_ascii": "Mathews",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.6821,
+    "lng": -90.5559,
+    "cafes": []
+  },
+  "Belle Rose": {
+    "city": "Belle Rose",
+    "city_ascii": "Belle Rose",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0422,
+    "lng": -91.0497,
+    "cafes": []
+  },
+  "Port Sulphur": {
+    "city": "Port Sulphur",
+    "city_ascii": "Port Sulphur",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.5046,
+    "lng": -89.7206,
+    "cafes": []
+  },
+  "Edgard": {
+    "city": "Edgard",
+    "city_ascii": "Edgard",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0362,
+    "lng": -90.546,
+    "cafes": []
+  },
+  "Arnaudville": {
+    "city": "Arnaudville",
+    "city_ascii": "Arnaudville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4023,
+    "lng": -91.932,
+    "cafes": []
+  },
+  "Cecilia": {
+    "city": "Cecilia",
+    "city_ascii": "Cecilia",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3368,
+    "lng": -91.8476,
+    "cafes": []
+  },
+  "Watson": {
+    "city": "Watson",
+    "city_ascii": "Watson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5749,
+    "lng": -90.9508,
+    "cafes": []
+  },
+  "Ringgold": {
+    "city": "Ringgold",
+    "city_ascii": "Ringgold",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.3261,
+    "lng": -93.2836,
+    "cafes": []
+  },
+  "Ama": {
+    "city": "Ama",
+    "city_ascii": "Ama",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.944,
+    "lng": -90.2967,
+    "cafes": []
+  },
+  "Bayou Gauche": {
+    "city": "Bayou Gauche",
+    "city_ascii": "Bayou Gauche",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8081,
+    "lng": -90.421,
+    "cafes": []
+  },
+  "Iota": {
+    "city": "Iota",
+    "city_ascii": "Iota",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.326,
+    "lng": -92.4956,
+    "cafes": []
+  },
+  "Paincourtville": {
+    "city": "Paincourtville",
+    "city_ascii": "Paincourtville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9886,
+    "lng": -91.0554,
+    "cafes": []
+  },
+  "Simmesport": {
+    "city": "Simmesport",
+    "city_ascii": "Simmesport",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9806,
+    "lng": -91.8143,
+    "cafes": []
+  },
+  "Colfax": {
+    "city": "Colfax",
+    "city_ascii": "Colfax",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.5208,
+    "lng": -92.7001,
+    "cafes": []
+  },
+  "Lockport Heights": {
+    "city": "Lockport Heights",
+    "city_ascii": "Lockport Heights",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.6564,
+    "lng": -90.5486,
+    "cafes": []
+  },
+  "Banks Springs": {
+    "city": "Banks Springs",
+    "city_ascii": "Banks Springs",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0764,
+    "lng": -92.085,
+    "cafes": []
+  },
+  "Gueydan": {
+    "city": "Gueydan",
+    "city_ascii": "Gueydan",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0291,
+    "lng": -92.5071,
+    "cafes": []
+  },
+  "Jonesville": {
+    "city": "Jonesville",
+    "city_ascii": "Jonesville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6238,
+    "lng": -91.83,
+    "cafes": []
+  },
+  "Sibley": {
+    "city": "Sibley",
+    "city_ascii": "Sibley",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5422,
+    "lng": -93.2947,
+    "cafes": []
+  },
+  "Wallace": {
+    "city": "Wallace",
+    "city_ascii": "Wallace",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0303,
+    "lng": -90.6569,
+    "cafes": []
+  },
+  "Choudrant": {
+    "city": "Choudrant",
+    "city_ascii": "Choudrant",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5503,
+    "lng": -92.5121,
+    "cafes": []
+  },
+  "Bayou Country Club": {
+    "city": "Bayou Country Club",
+    "city_ascii": "Bayou Country Club",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7796,
+    "lng": -90.7892,
+    "cafes": []
+  },
+  "Duson": {
+    "city": "Duson",
+    "city_ascii": "Duson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2365,
+    "lng": -92.193,
+    "cafes": []
+  },
+  "Oak Grove": {
+    "city": "Oak Grove",
+    "city_ascii": "Oak Grove",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.8619,
+    "lng": -91.3911,
+    "cafes": []
+  },
+  "Ventress": {
+    "city": "Ventress",
+    "city_ascii": "Ventress",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6825,
+    "lng": -91.4248,
+    "cafes": []
+  },
+  "Labadieville": {
+    "city": "Labadieville",
+    "city_ascii": "Labadieville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8246,
+    "lng": -90.9525,
+    "cafes": []
+  },
+  "Olla": {
+    "city": "Olla",
+    "city_ascii": "Olla",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.8981,
+    "lng": -92.2404,
+    "cafes": []
+  },
+  "Killian": {
+    "city": "Killian",
+    "city_ascii": "Killian",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.353,
+    "lng": -90.5795,
+    "cafes": []
+  },
+  "Glenmora": {
+    "city": "Glenmora",
+    "city_ascii": "Glenmora",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9733,
+    "lng": -92.5824,
+    "cafes": []
+  },
+  "Charenton": {
+    "city": "Charenton",
+    "city_ascii": "Charenton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8685,
+    "lng": -91.5388,
+    "cafes": []
+  },
+  "Boyce": {
+    "city": "Boyce",
+    "city_ascii": "Boyce",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.3907,
+    "lng": -92.67,
+    "cafes": []
+  },
+  "Slaughter": {
+    "city": "Slaughter",
+    "city_ascii": "Slaughter",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.7219,
+    "lng": -91.1393,
+    "cafes": []
+  },
+  "Montegut": {
+    "city": "Montegut",
+    "city_ascii": "Montegut",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.4656,
+    "lng": -90.5617,
+    "cafes": []
+  },
+  "Deville": {
+    "city": "Deville",
+    "city_ascii": "Deville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.3398,
+    "lng": -92.1389,
+    "cafes": []
+  },
+  "Mansura": {
+    "city": "Mansura",
+    "city_ascii": "Mansura",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.0673,
+    "lng": -92.0528,
+    "cafes": []
+  },
+  "Pine Prairie": {
+    "city": "Pine Prairie",
+    "city_ascii": "Pine Prairie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.7818,
+    "lng": -92.4223,
+    "cafes": []
+  },
+  "Empire": {
+    "city": "Empire",
+    "city_ascii": "Empire",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.4133,
+    "lng": -89.6052,
+    "cafes": []
+  },
+  "New Sarpy": {
+    "city": "New Sarpy",
+    "city_ascii": "New Sarpy",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9809,
+    "lng": -90.3832,
+    "cafes": []
+  },
+  "Urania": {
+    "city": "Urania",
+    "city_ascii": "Urania",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.8639,
+    "lng": -92.2913,
+    "cafes": []
+  },
+  "Bernice": {
+    "city": "Bernice",
+    "city_ascii": "Bernice",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.8276,
+    "lng": -92.6584,
+    "cafes": []
+  },
+  "Livonia": {
+    "city": "Livonia",
+    "city_ascii": "Livonia",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5623,
+    "lng": -91.5501,
+    "cafes": []
+  },
+  "Elton": {
+    "city": "Elton",
+    "city_ascii": "Elton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4813,
+    "lng": -92.6976,
+    "cafes": []
+  },
+  "Roseland": {
+    "city": "Roseland",
+    "city_ascii": "Roseland",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.7646,
+    "lng": -90.5114,
+    "cafes": []
+  },
+  "Crescent": {
+    "city": "Crescent",
+    "city_ascii": "Crescent",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2406,
+    "lng": -91.2864,
+    "cafes": []
+  },
+  "Lydia": {
+    "city": "Lydia",
+    "city_ascii": "Lydia",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9263,
+    "lng": -91.7813,
+    "cafes": []
+  },
+  "Fifth Ward": {
+    "city": "Fifth Ward",
+    "city_ascii": "Fifth Ward",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.1207,
+    "lng": -92.1584,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.8613,
+    "lng": -91.015,
+    "cafes": []
+  },
+  "Rosedale": {
+    "city": "Rosedale",
+    "city_ascii": "Rosedale",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4429,
+    "lng": -91.4601,
+    "cafes": []
+  },
+  "French Settlement": {
+    "city": "French Settlement",
+    "city_ascii": "French Settlement",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3156,
+    "lng": -90.8031,
+    "cafes": []
+  },
+  "Greensburg": {
+    "city": "Greensburg",
+    "city_ascii": "Greensburg",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.83,
+    "lng": -90.6698,
+    "cafes": []
+  },
+  "Lawtell": {
+    "city": "Lawtell",
+    "city_ascii": "Lawtell",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5126,
+    "lng": -92.1832,
+    "cafes": []
+  },
+  "Morse": {
+    "city": "Morse",
+    "city_ascii": "Morse",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1221,
+    "lng": -92.4985,
+    "cafes": []
+  },
+  "Wisner": {
+    "city": "Wisner",
+    "city_ascii": "Wisner",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.9805,
+    "lng": -91.6551,
+    "cafes": []
+  },
+  "Perry": {
+    "city": "Perry",
+    "city_ascii": "Perry",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9521,
+    "lng": -92.154,
+    "cafes": []
+  },
+  "Fordoche": {
+    "city": "Fordoche",
+    "city_ascii": "Fordoche",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.594,
+    "lng": -91.6179,
+    "cafes": []
+  },
+  "Campti": {
+    "city": "Campti",
+    "city_ascii": "Campti",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.898,
+    "lng": -93.1158,
+    "cafes": []
+  },
+  "Madisonville": {
+    "city": "Madisonville",
+    "city_ascii": "Madisonville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4003,
+    "lng": -90.1653,
+    "cafes": []
+  },
+  "Albany": {
+    "city": "Albany",
+    "city_ascii": "Albany",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4993,
+    "lng": -90.5839,
+    "cafes": []
+  },
+  "Kraemer": {
+    "city": "Kraemer",
+    "city_ascii": "Kraemer",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8606,
+    "lng": -90.6337,
+    "cafes": []
+  },
+  "Egan": {
+    "city": "Egan",
+    "city_ascii": "Egan",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.246,
+    "lng": -92.5135,
+    "cafes": []
+  },
+  "Merryville": {
+    "city": "Merryville",
+    "city_ascii": "Merryville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.7571,
+    "lng": -93.5246,
+    "cafes": []
+  },
+  "Grand Coteau": {
+    "city": "Grand Coteau",
+    "city_ascii": "Grand Coteau",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4202,
+    "lng": -92.0438,
+    "cafes": []
+  },
+  "Oil City": {
+    "city": "Oil City",
+    "city_ascii": "Oil City",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.7454,
+    "lng": -93.9758,
+    "cafes": []
+  },
+  "Start": {
+    "city": "Start",
+    "city_ascii": "Start",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4902,
+    "lng": -91.865,
+    "cafes": []
+  },
+  "Dubach": {
+    "city": "Dubach",
+    "city_ascii": "Dubach",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.702,
+    "lng": -92.6575,
+    "cafes": []
+  },
+  "Newellton": {
+    "city": "Newellton",
+    "city_ascii": "Newellton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0724,
+    "lng": -91.2392,
+    "cafes": []
+  },
+  "Hessmer": {
+    "city": "Hessmer",
+    "city_ascii": "Hessmer",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.0534,
+    "lng": -92.1214,
+    "cafes": []
+  },
+  "Loreauville": {
+    "city": "Loreauville",
+    "city_ascii": "Loreauville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0602,
+    "lng": -91.7378,
+    "cafes": []
+  },
+  "Montgomery": {
+    "city": "Montgomery",
+    "city_ascii": "Montgomery",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6677,
+    "lng": -92.8877,
+    "cafes": []
+  },
+  "Washington": {
+    "city": "Washington",
+    "city_ascii": "Washington",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.615,
+    "lng": -92.0594,
+    "cafes": []
+  },
+  "Tickfaw": {
+    "city": "Tickfaw",
+    "city_ascii": "Tickfaw",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5769,
+    "lng": -90.4871,
+    "cafes": []
+  },
+  "Plain Dealing": {
+    "city": "Plain Dealing",
+    "city_ascii": "Plain Dealing",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.9074,
+    "lng": -93.6991,
+    "cafes": []
+  },
+  "Midway": {
+    "city": "Midway",
+    "city_ascii": "Midway",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6788,
+    "lng": -92.1493,
+    "cafes": []
+  },
+  "Lakeview": {
+    "city": "Lakeview",
+    "city_ascii": "Lakeview",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5239,
+    "lng": -93.8297,
+    "cafes": []
+  },
+  "Parks": {
+    "city": "Parks",
+    "city_ascii": "Parks",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2172,
+    "lng": -91.8271,
+    "cafes": []
+  },
+  "Simsboro": {
+    "city": "Simsboro",
+    "city_ascii": "Simsboro",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5323,
+    "lng": -92.7839,
+    "cafes": []
+  },
+  "Hackberry": {
+    "city": "Hackberry",
+    "city_ascii": "Hackberry",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9717,
+    "lng": -93.3947,
+    "cafes": []
+  },
+  "Forest Hill": {
+    "city": "Forest Hill",
+    "city_ascii": "Forest Hill",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.047,
+    "lng": -92.5258,
+    "cafes": []
+  },
+  "Anacoco": {
+    "city": "Anacoco",
+    "city_ascii": "Anacoco",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.2545,
+    "lng": -93.344,
+    "cafes": []
+  },
+  "Gibsland": {
+    "city": "Gibsland",
+    "city_ascii": "Gibsland",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5395,
+    "lng": -93.0541,
+    "cafes": []
+  },
+  "Krotz Springs": {
+    "city": "Krotz Springs",
+    "city_ascii": "Krotz Springs",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5323,
+    "lng": -91.7518,
+    "cafes": []
+  },
+  "Moreauville": {
+    "city": "Moreauville",
+    "city_ascii": "Moreauville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.0342,
+    "lng": -91.9818,
+    "cafes": []
+  },
+  "Gillis": {
+    "city": "Gillis",
+    "city_ascii": "Gillis",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3769,
+    "lng": -93.1999,
+    "cafes": []
+  },
+  "Buras": {
+    "city": "Buras",
+    "city_ascii": "Buras",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.3528,
+    "lng": -89.5247,
+    "cafes": []
+  },
+  "Hester": {
+    "city": "Hester",
+    "city_ascii": "Hester",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0277,
+    "lng": -90.771,
+    "cafes": []
+  },
+  "Welcome": {
+    "city": "Welcome",
+    "city_ascii": "Welcome",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0474,
+    "lng": -90.8823,
+    "cafes": []
+  },
+  "Maringouin": {
+    "city": "Maringouin",
+    "city_ascii": "Maringouin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4907,
+    "lng": -91.5185,
+    "cafes": []
+  },
+  "Roanoke": {
+    "city": "Roanoke",
+    "city_ascii": "Roanoke",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2356,
+    "lng": -92.7481,
+    "cafes": []
+  },
+  "Folsom": {
+    "city": "Folsom",
+    "city_ascii": "Folsom",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.631,
+    "lng": -90.1941,
+    "cafes": []
+  },
+  "Sarepta": {
+    "city": "Sarepta",
+    "city_ascii": "Sarepta",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.8963,
+    "lng": -93.4517,
+    "cafes": []
+  },
+  "Ridgecrest": {
+    "city": "Ridgecrest",
+    "city_ascii": "Ridgecrest",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6018,
+    "lng": -91.5304,
+    "cafes": []
+  },
+  "Cotton Valley": {
+    "city": "Cotton Valley",
+    "city_ascii": "Cotton Valley",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.8135,
+    "lng": -93.4228,
+    "cafes": []
+  },
+  "St. Joseph": {
+    "city": "St. Joseph",
+    "city_ascii": "St. Joseph",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.9203,
+    "lng": -91.24,
+    "cafes": []
+  },
+  "Paradis": {
+    "city": "Paradis",
+    "city_ascii": "Paradis",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.868,
+    "lng": -90.4397,
+    "cafes": []
+  },
+  "Clarks": {
+    "city": "Clarks",
+    "city_ascii": "Clarks",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0288,
+    "lng": -92.1408,
+    "cafes": []
+  },
+  "Wilson": {
+    "city": "Wilson",
+    "city_ascii": "Wilson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9236,
+    "lng": -91.109,
+    "cafes": []
+  },
+  "Cullen": {
+    "city": "Cullen",
+    "city_ascii": "Cullen",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.9699,
+    "lng": -93.4464,
+    "cafes": []
+  },
+  "Florien": {
+    "city": "Florien",
+    "city_ascii": "Florien",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.448,
+    "lng": -93.4583,
+    "cafes": []
+  },
+  "Sorrel": {
+    "city": "Sorrel",
+    "city_ascii": "Sorrel",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8879,
+    "lng": -91.6225,
+    "cafes": []
+  },
+  "Supreme": {
+    "city": "Supreme",
+    "city_ascii": "Supreme",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8604,
+    "lng": -90.9955,
+    "cafes": []
+  },
+  "Barataria": {
+    "city": "Barataria",
+    "city_ascii": "Barataria",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7092,
+    "lng": -90.1217,
+    "cafes": []
+  },
+  "Hodge": {
+    "city": "Hodge",
+    "city_ascii": "Hodge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.272,
+    "lng": -92.7304,
+    "cafes": []
+  },
+  "Melville": {
+    "city": "Melville",
+    "city_ascii": "Melville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6917,
+    "lng": -91.7485,
+    "cafes": []
+  },
+  "Lemannville": {
+    "city": "Lemannville",
+    "city_ascii": "Lemannville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1028,
+    "lng": -90.9239,
+    "cafes": []
+  },
+  "Chatham": {
+    "city": "Chatham",
+    "city_ascii": "Chatham",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.3096,
+    "lng": -92.4522,
+    "cafes": []
+  },
+  "Martin": {
+    "city": "Martin",
+    "city_ascii": "Martin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0982,
+    "lng": -93.2193,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.8997,
+    "lng": -92.2405,
+    "cafes": []
+  },
+  "Wallace Ridge": {
+    "city": "Wallace Ridge",
+    "city_ascii": "Wallace Ridge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6849,
+    "lng": -91.8321,
+    "cafes": []
+  },
+  "Center Point": {
+    "city": "Center Point",
+    "city_ascii": "Center Point",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.2524,
+    "lng": -92.2099,
+    "cafes": []
+  },
+  "Grand Isle": {
+    "city": "Grand Isle",
+    "city_ascii": "Grand Isle",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.2135,
+    "lng": -90.0308,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7558,
+    "lng": -91.428,
+    "cafes": []
+  },
+  "Mangham": {
+    "city": "Mangham",
+    "city_ascii": "Mangham",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.3094,
+    "lng": -91.7794,
+    "cafes": []
+  },
+  "Mer Rouge": {
+    "city": "Mer Rouge",
+    "city_ascii": "Mer Rouge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.7767,
+    "lng": -91.7949,
+    "cafes": []
+  },
+  "Doyline": {
+    "city": "Doyline",
+    "city_ascii": "Doyline",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.525,
+    "lng": -93.4118,
+    "cafes": []
+  },
+  "Mooringsport": {
+    "city": "Mooringsport",
+    "city_ascii": "Mooringsport",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.6824,
+    "lng": -93.9605,
+    "cafes": []
+  },
+  "Estherwood": {
+    "city": "Estherwood",
+    "city_ascii": "Estherwood",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1816,
+    "lng": -92.4633,
+    "cafes": []
+  },
+  "Pleasant Hill": {
+    "city": "Pleasant Hill",
+    "city_ascii": "Pleasant Hill",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.8154,
+    "lng": -93.5164,
+    "cafes": []
+  },
+  "Vienna": {
+    "city": "Vienna",
+    "city_ascii": "Vienna",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.6093,
+    "lng": -92.6481,
+    "cafes": []
+  },
+  "Lecompte": {
+    "city": "Lecompte",
+    "city_ascii": "Lecompte",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.0881,
+    "lng": -92.4,
+    "cafes": []
+  },
+  "Reddell": {
+    "city": "Reddell",
+    "city_ascii": "Reddell",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6688,
+    "lng": -92.4268,
+    "cafes": []
+  },
+  "Convent": {
+    "city": "Convent",
+    "city_ascii": "Convent",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0132,
+    "lng": -90.8232,
+    "cafes": []
+  },
+  "Cankton": {
+    "city": "Cankton",
+    "city_ascii": "Cankton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3455,
+    "lng": -92.113,
+    "cafes": []
+  },
+  "Morganza": {
+    "city": "Morganza",
+    "city_ascii": "Morganza",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.7384,
+    "lng": -91.592,
+    "cafes": []
+  },
+  "Cheneyville": {
+    "city": "Cheneyville",
+    "city_ascii": "Cheneyville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.011,
+    "lng": -92.29,
+    "cafes": []
+  },
+  "Pollock": {
+    "city": "Pollock",
+    "city_ascii": "Pollock",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.4985,
+    "lng": -92.4432,
+    "cafes": []
+  },
+  "Point Place": {
+    "city": "Point Place",
+    "city_ascii": "Point Place",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6882,
+    "lng": -93.0245,
+    "cafes": []
+  },
+  "Port Vincent": {
+    "city": "Port Vincent",
+    "city_ascii": "Port Vincent",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3385,
+    "lng": -90.8424,
+    "cafes": []
+  },
+  "Dulac": {
+    "city": "Dulac",
+    "city_ascii": "Dulac",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.3864,
+    "lng": -90.7081,
+    "cafes": []
+  },
+  "Waterproof": {
+    "city": "Waterproof",
+    "city_ascii": "Waterproof",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.8073,
+    "lng": -91.3861,
+    "cafes": []
+  },
+  "Mermentau": {
+    "city": "Mermentau",
+    "city_ascii": "Mermentau",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1874,
+    "lng": -92.584,
+    "cafes": []
+  },
+  "Grayson": {
+    "city": "Grayson",
+    "city_ascii": "Grayson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0492,
+    "lng": -92.1116,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4255,
+    "lng": -90.5444,
+    "cafes": []
+  },
+  "Oretta": {
+    "city": "Oretta",
+    "city_ascii": "Oretta",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5289,
+    "lng": -93.4391,
+    "cafes": []
+  },
+  "Richmond": {
+    "city": "Richmond",
+    "city_ascii": "Richmond",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.3884,
+    "lng": -91.1804,
+    "cafes": []
+  },
+  "Epps": {
+    "city": "Epps",
+    "city_ascii": "Epps",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.6038,
+    "lng": -91.4814,
+    "cafes": []
+  },
+  "Pioneer": {
+    "city": "Pioneer",
+    "city_ascii": "Pioneer",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.7381,
+    "lng": -91.4381,
+    "cafes": []
+  },
+  "Sicily Island": {
+    "city": "Sicily Island",
+    "city_ascii": "Sicily Island",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.8493,
+    "lng": -91.6599,
+    "cafes": []
+  },
+  "South Mansfield": {
+    "city": "South Mansfield",
+    "city_ascii": "South Mansfield",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0181,
+    "lng": -93.7237,
+    "cafes": []
+  },
+  "Siracusaville": {
+    "city": "Siracusaville",
+    "city_ascii": "Siracusaville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.6886,
+    "lng": -91.1522,
+    "cafes": []
+  },
+  "Tangipahoa": {
+    "city": "Tangipahoa",
+    "city_ascii": "Tangipahoa",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.8758,
+    "lng": -90.5138,
+    "cafes": []
+  },
+  "Sun": {
+    "city": "Sun",
+    "city_ascii": "Sun",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6489,
+    "lng": -89.907,
+    "cafes": []
+  },
+  "Longville": {
+    "city": "Longville",
+    "city_ascii": "Longville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.609,
+    "lng": -93.2282,
+    "cafes": []
+  },
+  "Echo": {
+    "city": "Echo",
+    "city_ascii": "Echo",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.1085,
+    "lng": -92.2406,
+    "cafes": []
+  },
+  "Prospect": {
+    "city": "Prospect",
+    "city_ascii": "Prospect",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.4488,
+    "lng": -92.4968,
+    "cafes": []
+  },
+  "Boothville": {
+    "city": "Boothville",
+    "city_ascii": "Boothville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.333,
+    "lng": -89.4053,
+    "cafes": []
+  },
+  "Union": {
+    "city": "Union",
+    "city_ascii": "Union",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0918,
+    "lng": -90.8844,
+    "cafes": []
+  },
+  "Napoleonville": {
+    "city": "Napoleonville",
+    "city_ascii": "Napoleonville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9384,
+    "lng": -91.0263,
+    "cafes": []
+  },
+  "Hornbeck": {
+    "city": "Hornbeck",
+    "city_ascii": "Hornbeck",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.3266,
+    "lng": -93.396,
+    "cafes": []
+  },
+  "Lafitte": {
+    "city": "Lafitte",
+    "city_ascii": "Lafitte",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.6957,
+    "lng": -90.0995,
+    "cafes": []
+  },
+  "Pitkin": {
+    "city": "Pitkin",
+    "city_ascii": "Pitkin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9344,
+    "lng": -92.9267,
+    "cafes": []
+  },
+  "Spokane": {
+    "city": "Spokane",
+    "city_ascii": "Spokane",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.713,
+    "lng": -91.4453,
+    "cafes": []
+  },
+  "Noble": {
+    "city": "Noble",
+    "city_ascii": "Noble",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6899,
+    "lng": -93.6832,
+    "cafes": []
+  },
+  "Junction City": {
+    "city": "Junction City",
+    "city_ascii": "Junction City",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 33.0073,
+    "lng": -92.7224,
+    "cafes": []
+  },
+  "Elizabeth": {
+    "city": "Elizabeth",
+    "city_ascii": "Elizabeth",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.867,
+    "lng": -92.7987,
+    "cafes": []
+  },
+  "Choctaw": {
+    "city": "Choctaw",
+    "city_ascii": "Choctaw",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8457,
+    "lng": -90.7238,
+    "cafes": []
+  },
+  "Provencal": {
+    "city": "Provencal",
+    "city_ascii": "Provencal",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6547,
+    "lng": -93.1999,
+    "cafes": []
+  },
+  "Catahoula": {
+    "city": "Catahoula",
+    "city_ascii": "Catahoula",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2126,
+    "lng": -91.7126,
+    "cafes": []
+  },
+  "Converse": {
+    "city": "Converse",
+    "city_ascii": "Converse",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.7795,
+    "lng": -93.7001,
+    "cafes": []
+  },
+  "Turkey Creek": {
+    "city": "Turkey Creek",
+    "city_ascii": "Turkey Creek",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.8732,
+    "lng": -92.417,
+    "cafes": []
+  },
+  "St. James": {
+    "city": "St. James",
+    "city_ascii": "St. James",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0185,
+    "lng": -90.8513,
+    "cafes": []
+  },
+  "Fort Jesup": {
+    "city": "Fort Jesup",
+    "city_ascii": "Fort Jesup",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6118,
+    "lng": -93.4077,
+    "cafes": []
+  },
+  "Simpson": {
+    "city": "Simpson",
+    "city_ascii": "Simpson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.264,
+    "lng": -93.0193,
+    "cafes": []
+  },
+  "Dry Prong": {
+    "city": "Dry Prong",
+    "city_ascii": "Dry Prong",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.5806,
+    "lng": -92.5305,
+    "cafes": []
+  },
+  "Clayton": {
+    "city": "Clayton",
+    "city_ascii": "Clayton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.7226,
+    "lng": -91.5373,
+    "cafes": []
+  },
+  "Kilbourne": {
+    "city": "Kilbourne",
+    "city_ascii": "Kilbourne",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.9971,
+    "lng": -91.3139,
+    "cafes": []
+  },
+  "North Hodge": {
+    "city": "North Hodge",
+    "city_ascii": "North Hodge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.2845,
+    "lng": -92.7171,
+    "cafes": []
+  },
+  "Castor": {
+    "city": "Castor",
+    "city_ascii": "Castor",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.2549,
+    "lng": -93.166,
+    "cafes": []
+  },
+  "Dubberly": {
+    "city": "Dubberly",
+    "city_ascii": "Dubberly",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5413,
+    "lng": -93.2374,
+    "cafes": []
+  },
+  "Varnado": {
+    "city": "Varnado",
+    "city_ascii": "Varnado",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.895,
+    "lng": -89.8318,
+    "cafes": []
+  },
+  "Chataignier": {
+    "city": "Chataignier",
+    "city_ascii": "Chataignier",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5696,
+    "lng": -92.3168,
+    "cafes": []
+  },
+  "Pointe a la Hache": {
+    "city": "Pointe a la Hache",
+    "city_ascii": "Pointe a la Hache",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.5738,
+    "lng": -89.7809,
+    "cafes": []
+  },
+  "Bayou Goula": {
+    "city": "Bayou Goula",
+    "city_ascii": "Bayou Goula",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2105,
+    "lng": -91.1765,
+    "cafes": []
+  },
+  "Branch": {
+    "city": "Branch",
+    "city_ascii": "Branch",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.348,
+    "lng": -92.2771,
+    "cafes": []
+  },
+  "Good Pine": {
+    "city": "Good Pine",
+    "city_ascii": "Good Pine",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6933,
+    "lng": -92.1637,
+    "cafes": []
+  },
+  "Columbia": {
+    "city": "Columbia",
+    "city_ascii": "Columbia",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.1026,
+    "lng": -92.077,
+    "cafes": []
+  },
+  "Forest": {
+    "city": "Forest",
+    "city_ascii": "Forest",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.7925,
+    "lng": -91.4126,
+    "cafes": []
+  },
+  "Hosston": {
+    "city": "Hosston",
+    "city_ascii": "Hosston",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.885,
+    "lng": -93.8814,
+    "cafes": []
+  },
+  "Calhoun": {
+    "city": "Calhoun",
+    "city_ascii": "Calhoun",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5153,
+    "lng": -92.3539,
+    "cafes": []
+  },
+  "Goldonna": {
+    "city": "Goldonna",
+    "city_ascii": "Goldonna",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0155,
+    "lng": -92.9203,
+    "cafes": []
+  },
+  "Natchez": {
+    "city": "Natchez",
+    "city_ascii": "Natchez",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6743,
+    "lng": -93.0456,
+    "cafes": []
+  },
+  "Rock Hill": {
+    "city": "Rock Hill",
+    "city_ascii": "Rock Hill",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.4427,
+    "lng": -92.5695,
+    "cafes": []
+  },
+  "Eros": {
+    "city": "Eros",
+    "city_ascii": "Eros",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.3926,
+    "lng": -92.4239,
+    "cafes": []
+  },
+  "Gilbert": {
+    "city": "Gilbert",
+    "city_ascii": "Gilbert",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0507,
+    "lng": -91.6567,
+    "cafes": []
+  },
+  "East Hodge": {
+    "city": "East Hodge",
+    "city_ascii": "East Hodge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.2776,
+    "lng": -92.714,
+    "cafes": []
+  },
+  "Harrisonburg": {
+    "city": "Harrisonburg",
+    "city_ascii": "Harrisonburg",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.7681,
+    "lng": -91.825,
+    "cafes": []
+  },
+  "Clarence": {
+    "city": "Clarence",
+    "city_ascii": "Clarence",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.8198,
+    "lng": -93.0292,
+    "cafes": []
+  },
+  "Angie": {
+    "city": "Angie",
+    "city_ascii": "Angie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9633,
+    "lng": -89.8177,
+    "cafes": []
+  },
+  "Starks": {
+    "city": "Starks",
+    "city_ascii": "Starks",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3105,
+    "lng": -93.6667,
+    "cafes": []
+  },
+  "Grosse Tete": {
+    "city": "Grosse Tete",
+    "city_ascii": "Grosse Tete",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.4148,
+    "lng": -91.4395,
+    "cafes": []
+  },
+  "Quitman": {
+    "city": "Quitman",
+    "city_ascii": "Quitman",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.3507,
+    "lng": -92.7236,
+    "cafes": []
+  },
+  "Montpelier": {
+    "city": "Montpelier",
+    "city_ascii": "Montpelier",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6823,
+    "lng": -90.6545,
+    "cafes": []
+  },
+  "Athens": {
+    "city": "Athens",
+    "city_ascii": "Athens",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.658,
+    "lng": -93.0277,
+    "cafes": []
+  },
+  "Bordelonville": {
+    "city": "Bordelonville",
+    "city_ascii": "Bordelonville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.1012,
+    "lng": -91.9005,
+    "cafes": []
+  },
+  "Monterey": {
+    "city": "Monterey",
+    "city_ascii": "Monterey",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.4436,
+    "lng": -91.7191,
+    "cafes": []
+  },
+  "Tullos": {
+    "city": "Tullos",
+    "city_ascii": "Tullos",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.8188,
+    "lng": -92.3293,
+    "cafes": []
+  },
+  "Dixie Inn": {
+    "city": "Dixie Inn",
+    "city_ascii": "Dixie Inn",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5968,
+    "lng": -93.3317,
+    "cafes": []
+  },
+  "Longstreet": {
+    "city": "Longstreet",
+    "city_ascii": "Longstreet",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0976,
+    "lng": -93.9505,
+    "cafes": []
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.7597,
+    "lng": -92.3821,
+    "cafes": []
+  },
+  "St. Maurice": {
+    "city": "St. Maurice",
+    "city_ascii": "St. Maurice",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.7613,
+    "lng": -92.9389,
+    "cafes": []
+  },
+  "Creola": {
+    "city": "Creola",
+    "city_ascii": "Creola",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.43,
+    "lng": -92.4829,
+    "cafes": []
+  },
+  "Hall Summit": {
+    "city": "Hall Summit",
+    "city_ascii": "Hall Summit",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.1768,
+    "lng": -93.3055,
+    "cafes": []
+  },
+  "Pleasure Bend": {
+    "city": "Pleasure Bend",
+    "city_ascii": "Pleasure Bend",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9205,
+    "lng": -90.646,
+    "cafes": []
+  },
+  "Hayes": {
+    "city": "Hayes",
+    "city_ascii": "Hayes",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1112,
+    "lng": -92.9236,
+    "cafes": []
+  },
+  "McNary": {
+    "city": "McNary",
+    "city_ascii": "McNary",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9895,
+    "lng": -92.5795,
+    "cafes": []
+  },
+  "Midland": {
+    "city": "Midland",
+    "city_ascii": "Midland",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1805,
+    "lng": -92.5014,
+    "cafes": []
+  },
+  "Dodson": {
+    "city": "Dodson",
+    "city_ascii": "Dodson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0808,
+    "lng": -92.6587,
+    "cafes": []
+  },
+  "Saline": {
+    "city": "Saline",
+    "city_ascii": "Saline",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.1631,
+    "lng": -92.9768,
+    "cafes": []
+  },
+  "Belcher": {
+    "city": "Belcher",
+    "city_ascii": "Belcher",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.7522,
+    "lng": -93.8372,
+    "cafes": []
+  },
+  "Venice": {
+    "city": "Venice",
+    "city_ascii": "Venice",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.2875,
+    "lng": -89.3637,
+    "cafes": []
+  },
+  "Lisbon": {
+    "city": "Lisbon",
+    "city_ascii": "Lisbon",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.7893,
+    "lng": -92.8672,
+    "cafes": []
+  },
+  "Ida": {
+    "city": "Ida",
+    "city_ascii": "Ida",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 33.0016,
+    "lng": -93.8954,
+    "cafes": []
+  },
+  "Norwood": {
+    "city": "Norwood",
+    "city_ascii": "Norwood",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9682,
+    "lng": -91.1125,
+    "cafes": []
+  },
+  "Lillie": {
+    "city": "Lillie",
+    "city_ascii": "Lillie",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.9221,
+    "lng": -92.6614,
+    "cafes": []
+  },
+  "Joyce": {
+    "city": "Joyce",
+    "city_ascii": "Joyce",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.9347,
+    "lng": -92.585,
+    "cafes": []
+  },
+  "Lewisburg": {
+    "city": "Lewisburg",
+    "city_ascii": "Lewisburg",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3659,
+    "lng": -90.1052,
+    "cafes": []
+  },
+  "Evergreen": {
+    "city": "Evergreen",
+    "city_ascii": "Evergreen",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9527,
+    "lng": -92.1052,
+    "cafes": []
+  },
+  "Collinston": {
+    "city": "Collinston",
+    "city_ascii": "Collinston",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.6893,
+    "lng": -91.8718,
+    "cafes": []
+  },
+  "Sikes": {
+    "city": "Sikes",
+    "city_ascii": "Sikes",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.079,
+    "lng": -92.4863,
+    "cafes": []
+  },
+  "Edgefield": {
+    "city": "Edgefield",
+    "city_ascii": "Edgefield",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0501,
+    "lng": -93.336,
+    "cafes": []
+  },
+  "Bonita": {
+    "city": "Bonita",
+    "city_ascii": "Bonita",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.9206,
+    "lng": -91.6751,
+    "cafes": []
+  },
+  "Fenton": {
+    "city": "Fenton",
+    "city_ascii": "Fenton",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.3643,
+    "lng": -92.9169,
+    "cafes": []
+  },
+  "Singer": {
+    "city": "Singer",
+    "city_ascii": "Singer",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6512,
+    "lng": -93.4117,
+    "cafes": []
+  },
+  "Jordan Hill": {
+    "city": "Jordan Hill",
+    "city_ascii": "Jordan Hill",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.8591,
+    "lng": -92.5156,
+    "cafes": []
+  },
+  "Rio": {
+    "city": "Rio",
+    "city_ascii": "Rio",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.6914,
+    "lng": -89.8896,
+    "cafes": []
+  },
+  "Heflin": {
+    "city": "Heflin",
+    "city_ascii": "Heflin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4565,
+    "lng": -93.2683,
+    "cafes": []
+  },
+  "Moonshine": {
+    "city": "Moonshine",
+    "city_ascii": "Moonshine",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9701,
+    "lng": -90.8132,
+    "cafes": []
+  },
+  "Bayou Corne": {
+    "city": "Bayou Corne",
+    "city_ascii": "Bayou Corne",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0158,
+    "lng": -91.1528,
+    "cafes": []
+  },
+  "Bryceland": {
+    "city": "Bryceland",
+    "city_ascii": "Bryceland",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.4485,
+    "lng": -92.9924,
+    "cafes": []
+  },
+  "Lebeau": {
+    "city": "Lebeau",
+    "city_ascii": "Lebeau",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.7313,
+    "lng": -91.9771,
+    "cafes": []
+  },
+  "Plaucheville": {
+    "city": "Plaucheville",
+    "city_ascii": "Plaucheville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.9647,
+    "lng": -91.9837,
+    "cafes": []
+  },
+  "Killona": {
+    "city": "Killona",
+    "city_ascii": "Killona",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9985,
+    "lng": -90.4851,
+    "cafes": []
+  },
+  "Delta": {
+    "city": "Delta",
+    "city_ascii": "Delta",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.322,
+    "lng": -90.9414,
+    "cafes": []
+  },
+  "Calvin": {
+    "city": "Calvin",
+    "city_ascii": "Calvin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.9617,
+    "lng": -92.7758,
+    "cafes": []
+  },
+  "Lucky": {
+    "city": "Lucky",
+    "city_ascii": "Lucky",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.2443,
+    "lng": -93.0158,
+    "cafes": []
+  },
+  "Baskin": {
+    "city": "Baskin",
+    "city_ascii": "Baskin",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.2591,
+    "lng": -91.7473,
+    "cafes": []
+  },
+  "Dorseyville": {
+    "city": "Dorseyville",
+    "city_ascii": "Dorseyville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1773,
+    "lng": -91.1614,
+    "cafes": []
+  },
+  "Atlanta": {
+    "city": "Atlanta",
+    "city_ascii": "Atlanta",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.8064,
+    "lng": -92.7383,
+    "cafes": []
+  },
+  "Cameron": {
+    "city": "Cameron",
+    "city_ascii": "Cameron",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.787,
+    "lng": -93.2925,
+    "cafes": []
+  },
+  "Grand Cane": {
+    "city": "Grand Cane",
+    "city_ascii": "Grand Cane",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.0836,
+    "lng": -93.8088,
+    "cafes": []
+  },
+  "Keachi": {
+    "city": "Keachi",
+    "city_ascii": "Keachi",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.1708,
+    "lng": -93.916,
+    "cafes": []
+  },
+  "Lacassine": {
+    "city": "Lacassine",
+    "city_ascii": "Lacassine",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.2331,
+    "lng": -92.9208,
+    "cafes": []
+  },
+  "Spearsville": {
+    "city": "Spearsville",
+    "city_ascii": "Spearsville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.932,
+    "lng": -92.6001,
+    "cafes": []
+  },
+  "Darrow": {
+    "city": "Darrow",
+    "city_ascii": "Darrow",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.1212,
+    "lng": -90.9843,
+    "cafes": []
+  },
+  "Mount Lebanon": {
+    "city": "Mount Lebanon",
+    "city_ascii": "Mount Lebanon",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.5053,
+    "lng": -93.0499,
+    "cafes": []
+  },
+  "Rodessa": {
+    "city": "Rodessa",
+    "city_ascii": "Rodessa",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.9735,
+    "lng": -93.9966,
+    "cafes": []
+  },
+  "Fisher": {
+    "city": "Fisher",
+    "city_ascii": "Fisher",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.4934,
+    "lng": -93.4597,
+    "cafes": []
+  },
+  "Bienville": {
+    "city": "Bienville",
+    "city_ascii": "Bienville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.3618,
+    "lng": -92.9788,
+    "cafes": []
+  },
+  "Belmont": {
+    "city": "Belmont",
+    "city_ascii": "Belmont",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.7182,
+    "lng": -93.5082,
+    "cafes": []
+  },
+  "Ashland": {
+    "city": "Ashland",
+    "city_ascii": "Ashland",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.1165,
+    "lng": -93.1172,
+    "cafes": []
+  },
+  "Reeves": {
+    "city": "Reeves",
+    "city_ascii": "Reeves",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.5215,
+    "lng": -93.0428,
+    "cafes": []
+  },
+  "Stanley": {
+    "city": "Stanley",
+    "city_ascii": "Stanley",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.9608,
+    "lng": -93.8995,
+    "cafes": []
+  },
+  "Downsville": {
+    "city": "Downsville",
+    "city_ascii": "Downsville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.6264,
+    "lng": -92.4129,
+    "cafes": []
+  },
+  "Glencoe": {
+    "city": "Glencoe",
+    "city_ascii": "Glencoe",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.8111,
+    "lng": -91.6703,
+    "cafes": []
+  },
+  "Palmetto": {
+    "city": "Palmetto",
+    "city_ascii": "Palmetto",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.7177,
+    "lng": -91.9082,
+    "cafes": []
+  },
+  "Jamestown": {
+    "city": "Jamestown",
+    "city_ascii": "Jamestown",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.3397,
+    "lng": -93.2065,
+    "cafes": []
+  },
+  "Robeline": {
+    "city": "Robeline",
+    "city_ascii": "Robeline",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6898,
+    "lng": -93.3039,
+    "cafes": []
+  },
+  "Gilliam": {
+    "city": "Gilliam",
+    "city_ascii": "Gilliam",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.8282,
+    "lng": -93.8418,
+    "cafes": []
+  },
+  "Shongaloo": {
+    "city": "Shongaloo",
+    "city_ascii": "Shongaloo",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.9416,
+    "lng": -93.2955,
+    "cafes": []
+  },
+  "Taft": {
+    "city": "Taft",
+    "city_ascii": "Taft",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.9854,
+    "lng": -90.4533,
+    "cafes": []
+  },
+  "Triumph": {
+    "city": "Triumph",
+    "city_ascii": "Triumph",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.3443,
+    "lng": -89.4683,
+    "cafes": []
+  },
+  "Morrow": {
+    "city": "Morrow",
+    "city_ascii": "Morrow",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.8294,
+    "lng": -92.0828,
+    "cafes": []
+  },
+  "Gloster": {
+    "city": "Gloster",
+    "city_ascii": "Gloster",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.1921,
+    "lng": -93.8112,
+    "cafes": []
+  },
+  "Oak Ridge": {
+    "city": "Oak Ridge",
+    "city_ascii": "Oak Ridge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.6244,
+    "lng": -91.7731,
+    "cafes": []
+  },
+  "Marthaville": {
+    "city": "Marthaville",
+    "city_ascii": "Marthaville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.738,
+    "lng": -93.39,
+    "cafes": []
+  },
+  "Powhatan": {
+    "city": "Powhatan",
+    "city_ascii": "Powhatan",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.8738,
+    "lng": -93.2032,
+    "cafes": []
+  },
+  "Frierson": {
+    "city": "Frierson",
+    "city_ascii": "Frierson",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.2486,
+    "lng": -93.6895,
+    "cafes": []
+  },
+  "Mound": {
+    "city": "Mound",
+    "city_ascii": "Mound",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 32.333,
+    "lng": -91.0241,
+    "cafes": []
+  },
+  "Delacroix": {
+    "city": "Delacroix",
+    "city_ascii": "Delacroix",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 29.7652,
+    "lng": -89.7874,
+    "cafes": []
+  },
+  "Romeville": {
+    "city": "Romeville",
+    "city_ascii": "Romeville",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0676,
+    "lng": -90.8341,
+    "cafes": []
+  },
+  "Sugartown": {
+    "city": "Sugartown",
+    "city_ascii": "Sugartown",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.8401,
+    "lng": -93.0124,
+    "cafes": []
+  },
+  "Trout": {
+    "city": "Trout",
+    "city_ascii": "Trout",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 31.6967,
+    "lng": -92.1797,
+    "cafes": []
+  }
+}

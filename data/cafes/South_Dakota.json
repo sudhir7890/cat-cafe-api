@@ -1,0 +1,4425 @@
+{
+  "Rapid City": {
+    "city": "Rapid City",
+    "city_ascii": "Rapid City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0716,
+    "lng": -103.2204,
+    "cafes": [
+      {
+        "name": "Coffee and the Cats",
+        "address": "315 B E Saint Patrick St, Rapid City, SD 57701, USA",
+        "rating": 4.8,
+        "user_ratings_total": 70,
+        "website": "http://www.coffee-and-the-cats.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=6321585728044820439",
+        "lat": 44.0673913,
+        "lng": -103.2107193,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "David McMannus / daco",
+            "rating": 5,
+            "text": {
+              "text": "We miss our pets that have moved on. Moving into a place that doesn't allow pets,  this establishment is just what we need to get our furry critters fix. They also have excellent refreshments that you may desire. It's recommended to put in a reservation for the kitty room.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "chafner710",
+            "rating": 5,
+            "text": {
+              "text": "This place is the best. Noah was really kind and made me an awesome latte. The French macarons were excellent. Inside is so cozy and beautifully decorated. And they take care of cats and help them get adopted! You can spend 30mins in the cat room for just $5 🥰🐈✨",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Daniel Milks",
+            "rating": 5,
+            "text": {
+              "text": "I’d been hearing about this place for some time through Facebook chatter and I decided to come check it out. I wasn’t exactly sure what to expect. It was a cold and foggy day, so a piping hot coffee and snack seemed like a good idea. We set out to Coffee and Cats for our first experience. The store is on Saint Patrick’s street just, next to a daycare and across the street from Calvary Church. As we approached I could see a little sign in the window displaying an artistic rendition of a cat with the words “Coffee, Because Murdered is Wrong”.  I burst out laughing because I happen to love cats, and the depiction was purrfect. Teaching one of the Ten Commandments across the street from a church using cats and coffee to get the point across seemed oddly appropriate.\n\nIn we go to a very cozy atmosphere, with cool ceiling tiles, plush couches, eclectic wall art and an ample supply of coffee flavors abound. Steam is rising through the air out of a nicely equipped coffee machine. From around it comes one of the owners to welcome us in. Very nicely done. Each choice is cat-related and I decided to go simple. I got the Siamese (Vanilla and Cinnamon) and our second was the hot coco (with marshmallow and graham cracker). After placing our order we had time to look at the delectable offerings in the glass case.\n\nCookies, pastries and fun stuff like the jiggly kitty infused with a flavored tea and milk. I got one of those too. It was a hard choice I must admit.\n\nWe opted to see the cats and made a donation. The cats are in an enclosure with clear windows so you can watch them play on the many obstacle courses inside. The entire store is very clean and well kept. I was wondering how you mix cats and coffee and now I had the answer. Both coffee and coco were amazing. The little jiggly kitty not only tasted great, but provided quite a bit of entertainment before taking the spoon to split its head open. I didn’t feel bad at all.\n\nOnce we were finished it was time to see the cats. We were guided over to the door, given friendly and clear instructions, provided sanitizer and sprayed our shoes before entering. We were greeted by some friendly cats who wanted attention and others that simply stayed where they were. All-around it was fun. We didn’t end up taking a cat home, but that’s not required and it was really enjoyable!\n\nThe owners are three young adults. I’m not sure of their age, but it was impressive to see entrepreneurial endeavors such as this with our youth. Way to go!\n\nIt’s worth it to take a drive over here and support such a cool place, great owners and a unique concept with wonderful coffee, coco, pastries and cats to entertain. I encourage you to support them and I intend to go back again, especially during the winter months when I feel like a sweet, a coffee, great service and a few cats to look and laugh with.\n\nCongrats on your business and count me in as a customer and cheerleader for you guys!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ04ImKz8A8OsEJlfCRxmGETK44W0WGQgfIvKNpra5hxVgC9ookBKnjcYHRO2kO3HyrE1NnCINYcE-_eeBHLcV0lKxeg_uhK--ft3DDdFVN-KF6vrwz6F2sgzyYq6ZwotgEpffuOSFRSRg1vabOTB_tu1Hsi1n8-VtbATifEy7Ksxq9XoYLh_yoLZONx0Kmsh35KfJ2qsFCSlILT-xhPxKb4Q6ZMy60QqhNiWu9aTbB3esgttWmlx8tbNnOOxNZNBUBQoh2kSjreBpVAysQBO2fL_dLO9ohckMd_hd973D4jPQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Sioux Falls": {
+    "city": "Sioux Falls",
+    "city_ascii": "Sioux Falls",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5396,
+    "lng": -96.7311,
+    "cafes": [
+      {
+        "name": "The Cattitude Café",
+        "address": "225 E 11th St Suite #100, Sioux Falls, SD 57104, USA",
+        "rating": 4.7,
+        "user_ratings_total": 148,
+        "website": "http://thecattitudecatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=14014105664925670628",
+        "lat": 43.5445416,
+        "lng": -96.7240452,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Mr O",
+            "rating": 5,
+            "text": {
+              "text": "Excellent experience to pet the kitties and enjoy a cold or hot drink. All the kitties are for adoption and you get to see them in action before you apply to adopt them. Overall a great experience.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Rachel Christiansen",
+            "rating": 5,
+            "text": {
+              "text": "My friend and I are visiting from Wisconsin and we absolutely loved our experience here! Kitties are so sweet and adorable and the staff was very friendly and welcoming! Hope to be back someday!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Kristin Sellent",
+            "rating": 5,
+            "text": {
+              "text": "I loved my iced hazelnut latte and brownie paw!\nI wish we had had more time to try the charcuterie boards or other specials.\nSpending time with the cats was absolutely amazing!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3RGYHqTDxjQDjabpZU33vtzZqV3oov4GOUCQ9exGmM0vAfyE1f0mpehPzNmEqQP5iinEFZVqqBYgIEk_9QLnggEctn7JCP0_uxglk_SwhXmiXlgRSFr0bfxEBSUvsvDvsiPJ1J0TkdfDE6Lch3Jk8fh670rplBtE9wj9rJRAfIySuLy903918JUUyKUfOUg_tks3ZykDEsPHTU34fYg1UKSqMgM7AEaxCXfpytM9hM2rd6kwvzQlmkYIvmaapQ8WU05UhV3LfMR-Yfifu9p_i4Rcd04A5speaNHC9E4pKsCT72O0MRVegm5PRBA_QEMWqXqVIqvXZs3H3YfYj6j-LhqKvc9lcVs5iLM1uCLHwd5hGxuBpSQ-ZNBbRdXlKMZVT6e9pUZome9Ocuc5vMrWef9aLHMYYnbg-p&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Aberdeen": {
+    "city": "Aberdeen",
+    "city_ascii": "Aberdeen",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4649,
+    "lng": -98.4686,
+    "cafes": []
+  },
+  "Brookings": {
+    "city": "Brookings",
+    "city_ascii": "Brookings",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3022,
+    "lng": -96.7859,
+    "cafes": []
+  },
+  "Watertown": {
+    "city": "Watertown",
+    "city_ascii": "Watertown",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.9094,
+    "lng": -97.1532,
+    "cafes": []
+  },
+  "Mitchell": {
+    "city": "Mitchell",
+    "city_ascii": "Mitchell",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7294,
+    "lng": -98.0337,
+    "cafes": []
+  },
+  "Yankton": {
+    "city": "Yankton",
+    "city_ascii": "Yankton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.8901,
+    "lng": -97.3927,
+    "cafes": []
+  },
+  "Huron": {
+    "city": "Huron",
+    "city_ascii": "Huron",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3623,
+    "lng": -98.2094,
+    "cafes": []
+  },
+  "Pierre": {
+    "city": "Pierre",
+    "city_ascii": "Pierre",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3748,
+    "lng": -100.3205,
+    "cafes": []
+  },
+  "Spearfish": {
+    "city": "Spearfish",
+    "city_ascii": "Spearfish",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4909,
+    "lng": -103.8155,
+    "cafes": []
+  },
+  "Box Elder": {
+    "city": "Box Elder",
+    "city_ascii": "Box Elder",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.112,
+    "lng": -103.0818,
+    "cafes": []
+  },
+  "Vermillion": {
+    "city": "Vermillion",
+    "city_ascii": "Vermillion",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.7811,
+    "lng": -96.9256,
+    "cafes": []
+  },
+  "Brandon": {
+    "city": "Brandon",
+    "city_ascii": "Brandon",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5928,
+    "lng": -96.5799,
+    "cafes": []
+  },
+  "Harrisburg": {
+    "city": "Harrisburg",
+    "city_ascii": "Harrisburg",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4324,
+    "lng": -96.7041,
+    "cafes": []
+  },
+  "Rapid Valley": {
+    "city": "Rapid Valley",
+    "city_ascii": "Rapid Valley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0674,
+    "lng": -103.1223,
+    "cafes": []
+  },
+  "Sturgis": {
+    "city": "Sturgis",
+    "city_ascii": "Sturgis",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.411,
+    "lng": -103.4973,
+    "cafes": []
+  },
+  "Tea": {
+    "city": "Tea",
+    "city_ascii": "Tea",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4564,
+    "lng": -96.8257,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0062,
+    "lng": -97.1085,
+    "cafes": []
+  },
+  "Belle Fourche": {
+    "city": "Belle Fourche",
+    "city_ascii": "Belle Fourche",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.664,
+    "lng": -103.8564,
+    "cafes": []
+  },
+  "Dakota Dunes": {
+    "city": "Dakota Dunes",
+    "city_ascii": "Dakota Dunes",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.492,
+    "lng": -96.487,
+    "cafes": []
+  },
+  "Dell Rapids": {
+    "city": "Dell Rapids",
+    "city_ascii": "Dell Rapids",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8244,
+    "lng": -96.7143,
+    "cafes": []
+  },
+  "Milbank": {
+    "city": "Milbank",
+    "city_ascii": "Milbank",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.2195,
+    "lng": -96.6338,
+    "cafes": []
+  },
+  "Hot Springs": {
+    "city": "Hot Springs",
+    "city_ascii": "Hot Springs",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4195,
+    "lng": -103.4657,
+    "cafes": []
+  },
+  "Hartford": {
+    "city": "Hartford",
+    "city_ascii": "Hartford",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.621,
+    "lng": -96.9424,
+    "cafes": []
+  },
+  "Canton": {
+    "city": "Canton",
+    "city_ascii": "Canton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3032,
+    "lng": -96.5848,
+    "cafes": []
+  },
+  "North Sioux City": {
+    "city": "North Sioux City",
+    "city_ascii": "North Sioux City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.535,
+    "lng": -96.4998,
+    "cafes": []
+  },
+  "Lead": {
+    "city": "Lead",
+    "city_ascii": "Lead",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3528,
+    "lng": -103.7671,
+    "cafes": []
+  },
+  "Summerset": {
+    "city": "Summerset",
+    "city_ascii": "Summerset",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.1912,
+    "lng": -103.3394,
+    "cafes": []
+  },
+  "Mobridge": {
+    "city": "Mobridge",
+    "city_ascii": "Mobridge",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5409,
+    "lng": -100.4349,
+    "cafes": []
+  },
+  "Winner": {
+    "city": "Winner",
+    "city_ascii": "Winner",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3776,
+    "lng": -99.8552,
+    "cafes": []
+  },
+  "Blackhawk": {
+    "city": "Blackhawk",
+    "city_ascii": "Blackhawk",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.1514,
+    "lng": -103.334,
+    "cafes": []
+  },
+  "Chamberlain": {
+    "city": "Chamberlain",
+    "city_ascii": "Chamberlain",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7956,
+    "lng": -99.3263,
+    "cafes": []
+  },
+  "Sisseton": {
+    "city": "Sisseton",
+    "city_ascii": "Sisseton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6625,
+    "lng": -97.0454,
+    "cafes": []
+  },
+  "Lennox": {
+    "city": "Lennox",
+    "city_ascii": "Lennox",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3495,
+    "lng": -96.8937,
+    "cafes": []
+  },
+  "Fort Pierre": {
+    "city": "Fort Pierre",
+    "city_ascii": "Fort Pierre",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.368,
+    "lng": -100.3831,
+    "cafes": []
+  },
+  "Pine Ridge": {
+    "city": "Pine Ridge",
+    "city_ascii": "Pine Ridge",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.027,
+    "lng": -102.5524,
+    "cafes": []
+  },
+  "Beresford": {
+    "city": "Beresford",
+    "city_ascii": "Beresford",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0797,
+    "lng": -96.7803,
+    "cafes": []
+  },
+  "Elk Point": {
+    "city": "Elk Point",
+    "city_ascii": "Elk Point",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.6812,
+    "lng": -96.6805,
+    "cafes": []
+  },
+  "Colonial Pine Hills": {
+    "city": "Colonial Pine Hills",
+    "city_ascii": "Colonial Pine Hills",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0141,
+    "lng": -103.3146,
+    "cafes": []
+  },
+  "Flandreau": {
+    "city": "Flandreau",
+    "city_ascii": "Flandreau",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0465,
+    "lng": -96.5983,
+    "cafes": []
+  },
+  "Volga": {
+    "city": "Volga",
+    "city_ascii": "Volga",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3219,
+    "lng": -96.9219,
+    "cafes": []
+  },
+  "Redfield": {
+    "city": "Redfield",
+    "city_ascii": "Redfield",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.8725,
+    "lng": -98.5187,
+    "cafes": []
+  },
+  "North Spearfish": {
+    "city": "North Spearfish",
+    "city_ascii": "North Spearfish",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5107,
+    "lng": -103.9045,
+    "cafes": []
+  },
+  "Custer": {
+    "city": "Custer",
+    "city_ascii": "Custer",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7668,
+    "lng": -103.6006,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.8624,
+    "lng": -97.8964,
+    "cafes": []
+  },
+  "Parkston": {
+    "city": "Parkston",
+    "city_ascii": "Parkston",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3929,
+    "lng": -97.9864,
+    "cafes": []
+  },
+  "Webster": {
+    "city": "Webster",
+    "city_ascii": "Webster",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3366,
+    "lng": -97.5219,
+    "cafes": []
+  },
+  "Groton": {
+    "city": "Groton",
+    "city_ascii": "Groton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4517,
+    "lng": -98.1,
+    "cafes": []
+  },
+  "Rosebud": {
+    "city": "Rosebud",
+    "city_ascii": "Rosebud",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2398,
+    "lng": -100.8229,
+    "cafes": []
+  },
+  "Oglala": {
+    "city": "Oglala",
+    "city_ascii": "Oglala",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1849,
+    "lng": -102.7268,
+    "cafes": []
+  },
+  "Freeman": {
+    "city": "Freeman",
+    "city_ascii": "Freeman",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3475,
+    "lng": -97.4306,
+    "cafes": []
+  },
+  "Wagner": {
+    "city": "Wagner",
+    "city_ascii": "Wagner",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0768,
+    "lng": -98.2934,
+    "cafes": []
+  },
+  "Baltic": {
+    "city": "Baltic",
+    "city_ascii": "Baltic",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7603,
+    "lng": -96.7371,
+    "cafes": []
+  },
+  "Green Valley": {
+    "city": "Green Valley",
+    "city_ascii": "Green Valley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.039,
+    "lng": -103.1116,
+    "cafes": []
+  },
+  "Kyle": {
+    "city": "Kyle",
+    "city_ascii": "Kyle",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4245,
+    "lng": -102.1801,
+    "cafes": []
+  },
+  "Eagle Butte": {
+    "city": "Eagle Butte",
+    "city_ascii": "Eagle Butte",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.9939,
+    "lng": -101.231,
+    "cafes": []
+  },
+  "North Eagle Butte": {
+    "city": "North Eagle Butte",
+    "city_ascii": "North Eagle Butte",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0172,
+    "lng": -101.2362,
+    "cafes": []
+  },
+  "Aurora": {
+    "city": "Aurora",
+    "city_ascii": "Aurora",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.2823,
+    "lng": -96.6868,
+    "cafes": []
+  },
+  "Mission": {
+    "city": "Mission",
+    "city_ascii": "Mission",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3063,
+    "lng": -100.661,
+    "cafes": []
+  },
+  "Miller": {
+    "city": "Miller",
+    "city_ascii": "Miller",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5204,
+    "lng": -98.9869,
+    "cafes": []
+  },
+  "Gettysburg": {
+    "city": "Gettysburg",
+    "city_ascii": "Gettysburg",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.006,
+    "lng": -99.9539,
+    "cafes": []
+  },
+  "Clear Lake": {
+    "city": "Clear Lake",
+    "city_ascii": "Clear Lake",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6933,
+    "lng": -97.3572,
+    "cafes": []
+  },
+  "Gregory": {
+    "city": "Gregory",
+    "city_ascii": "Gregory",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.23,
+    "lng": -99.4208,
+    "cafes": []
+  },
+  "Deadwood": {
+    "city": "Deadwood",
+    "city_ascii": "Deadwood",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3871,
+    "lng": -103.7207,
+    "cafes": []
+  },
+  "Platte": {
+    "city": "Platte",
+    "city_ascii": "Platte",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3869,
+    "lng": -98.8435,
+    "cafes": []
+  },
+  "Parker": {
+    "city": "Parker",
+    "city_ascii": "Parker",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3978,
+    "lng": -97.1334,
+    "cafes": []
+  },
+  "Crooks": {
+    "city": "Crooks",
+    "city_ascii": "Crooks",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.6592,
+    "lng": -96.8094,
+    "cafes": []
+  },
+  "Lemmon": {
+    "city": "Lemmon",
+    "city_ascii": "Lemmon",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.9383,
+    "lng": -102.1598,
+    "cafes": []
+  },
+  "Tyndall": {
+    "city": "Tyndall",
+    "city_ascii": "Tyndall",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.9899,
+    "lng": -97.8642,
+    "cafes": []
+  },
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7229,
+    "lng": -97.3893,
+    "cafes": []
+  },
+  "Clark": {
+    "city": "Clark",
+    "city_ascii": "Clark",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.8809,
+    "lng": -97.7348,
+    "cafes": []
+  },
+  "Garretson": {
+    "city": "Garretson",
+    "city_ascii": "Garretson",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7147,
+    "lng": -96.5028,
+    "cafes": []
+  },
+  "Ashland Heights": {
+    "city": "Ashland Heights",
+    "city_ascii": "Ashland Heights",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.1293,
+    "lng": -103.1286,
+    "cafes": []
+  },
+  "Fort Thompson": {
+    "city": "Fort Thompson",
+    "city_ascii": "Fort Thompson",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0527,
+    "lng": -99.4079,
+    "cafes": []
+  },
+  "Ipswich": {
+    "city": "Ipswich",
+    "city_ascii": "Ipswich",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4435,
+    "lng": -99.03,
+    "cafes": []
+  },
+  "Britton": {
+    "city": "Britton",
+    "city_ascii": "Britton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.7924,
+    "lng": -97.7529,
+    "cafes": []
+  },
+  "Worthing": {
+    "city": "Worthing",
+    "city_ascii": "Worthing",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.33,
+    "lng": -96.7683,
+    "cafes": []
+  },
+  "Martin": {
+    "city": "Martin",
+    "city_ascii": "Martin",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1749,
+    "lng": -101.7323,
+    "cafes": []
+  },
+  "Colman": {
+    "city": "Colman",
+    "city_ascii": "Colman",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9835,
+    "lng": -96.8148,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4236,
+    "lng": -97.2605,
+    "cafes": []
+  },
+  "Howard": {
+    "city": "Howard",
+    "city_ascii": "Howard",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0117,
+    "lng": -97.5246,
+    "cafes": []
+  },
+  "Alcester": {
+    "city": "Alcester",
+    "city_ascii": "Alcester",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0278,
+    "lng": -96.6268,
+    "cafes": []
+  },
+  "De Smet": {
+    "city": "De Smet",
+    "city_ascii": "De Smet",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3862,
+    "lng": -97.5496,
+    "cafes": []
+  },
+  "Elkton": {
+    "city": "Elkton",
+    "city_ascii": "Elkton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.2351,
+    "lng": -96.4794,
+    "cafes": []
+  },
+  "Valley Springs": {
+    "city": "Valley Springs",
+    "city_ascii": "Valley Springs",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5824,
+    "lng": -96.4656,
+    "cafes": []
+  },
+  "Piedmont": {
+    "city": "Piedmont",
+    "city_ascii": "Piedmont",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.2136,
+    "lng": -103.3717,
+    "cafes": []
+  },
+  "Eureka": {
+    "city": "Eureka",
+    "city_ascii": "Eureka",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.7707,
+    "lng": -99.6207,
+    "cafes": []
+  },
+  "Lake Andes": {
+    "city": "Lake Andes",
+    "city_ascii": "Lake Andes",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.156,
+    "lng": -98.5361,
+    "cafes": []
+  },
+  "Agency Village": {
+    "city": "Agency Village",
+    "city_ascii": "Agency Village",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5796,
+    "lng": -97.0782,
+    "cafes": []
+  },
+  "Mina": {
+    "city": "Mina",
+    "city_ascii": "Mina",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4521,
+    "lng": -98.7414,
+    "cafes": []
+  },
+  "Lake Madison": {
+    "city": "Lake Madison",
+    "city_ascii": "Lake Madison",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9593,
+    "lng": -97.021,
+    "cafes": []
+  },
+  "Meadow View Addition": {
+    "city": "Meadow View Addition",
+    "city_ascii": "Meadow View Addition",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.6233,
+    "lng": -96.7023,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1165,
+    "lng": -96.9596,
+    "cafes": []
+  },
+  "Viborg": {
+    "city": "Viborg",
+    "city_ascii": "Viborg",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1722,
+    "lng": -97.0824,
+    "cafes": []
+  },
+  "Estelline": {
+    "city": "Estelline",
+    "city_ascii": "Estelline",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5768,
+    "lng": -96.9011,
+    "cafes": []
+  },
+  "Allen": {
+    "city": "Allen",
+    "city_ascii": "Allen",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2792,
+    "lng": -101.9265,
+    "cafes": []
+  },
+  "Edgemont": {
+    "city": "Edgemont",
+    "city_ascii": "Edgemont",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2973,
+    "lng": -103.8323,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3635,
+    "lng": -97.1338,
+    "cafes": []
+  },
+  "Colton": {
+    "city": "Colton",
+    "city_ascii": "Colton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7871,
+    "lng": -96.928,
+    "cafes": []
+  },
+  "Scotland": {
+    "city": "Scotland",
+    "city_ascii": "Scotland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1481,
+    "lng": -97.7199,
+    "cafes": []
+  },
+  "Wonderland Homes": {
+    "city": "Wonderland Homes",
+    "city_ascii": "Wonderland Homes",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.2029,
+    "lng": -103.3433,
+    "cafes": []
+  },
+  "Lower Brule": {
+    "city": "Lower Brule",
+    "city_ascii": "Lower Brule",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0742,
+    "lng": -99.5838,
+    "cafes": []
+  },
+  "Lake Norden": {
+    "city": "Lake Norden",
+    "city_ascii": "Lake Norden",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5799,
+    "lng": -97.2109,
+    "cafes": []
+  },
+  "Bryant": {
+    "city": "Bryant",
+    "city_ascii": "Bryant",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5899,
+    "lng": -97.4673,
+    "cafes": []
+  },
+  "Castlewood": {
+    "city": "Castlewood",
+    "city_ascii": "Castlewood",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7242,
+    "lng": -97.0309,
+    "cafes": []
+  },
+  "Woonsocket": {
+    "city": "Woonsocket",
+    "city_ascii": "Woonsocket",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0541,
+    "lng": -98.2724,
+    "cafes": []
+  },
+  "Wessington Springs": {
+    "city": "Wessington Springs",
+    "city_ascii": "Wessington Springs",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0805,
+    "lng": -98.5712,
+    "cafes": []
+  },
+  "Whitewood": {
+    "city": "Whitewood",
+    "city_ascii": "Whitewood",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4617,
+    "lng": -103.6381,
+    "cafes": []
+  },
+  "Wanblee": {
+    "city": "Wanblee",
+    "city_ascii": "Wanblee",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5705,
+    "lng": -101.6614,
+    "cafes": []
+  },
+  "Menno": {
+    "city": "Menno",
+    "city_ascii": "Menno",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2386,
+    "lng": -97.5774,
+    "cafes": []
+  },
+  "Alexandria": {
+    "city": "Alexandria",
+    "city_ascii": "Alexandria",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.6541,
+    "lng": -97.7798,
+    "cafes": []
+  },
+  "Manderson-White Horse Creek": {
+    "city": "Manderson-White Horse Creek",
+    "city_ascii": "Manderson-White Horse Creek",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.235,
+    "lng": -102.4916,
+    "cafes": []
+  },
+  "Jefferson": {
+    "city": "Jefferson",
+    "city_ascii": "Jefferson",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.6043,
+    "lng": -96.5661,
+    "cafes": []
+  },
+  "Highmore": {
+    "city": "Highmore",
+    "city_ascii": "Highmore",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5214,
+    "lng": -99.4394,
+    "cafes": []
+  },
+  "White River": {
+    "city": "White River",
+    "city_ascii": "White River",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5671,
+    "lng": -100.7449,
+    "cafes": []
+  },
+  "Hill City": {
+    "city": "Hill City",
+    "city_ascii": "Hill City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9337,
+    "lng": -103.5694,
+    "cafes": []
+  },
+  "Blucksberg Mountain": {
+    "city": "Blucksberg Mountain",
+    "city_ascii": "Blucksberg Mountain",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3593,
+    "lng": -103.4538,
+    "cafes": []
+  },
+  "Timber Lake": {
+    "city": "Timber Lake",
+    "city_ascii": "Timber Lake",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4294,
+    "lng": -101.0715,
+    "cafes": []
+  },
+  "Humboldt": {
+    "city": "Humboldt",
+    "city_ascii": "Humboldt",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.6447,
+    "lng": -97.0745,
+    "cafes": []
+  },
+  "Avon": {
+    "city": "Avon",
+    "city_ascii": "Avon",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0052,
+    "lng": -98.0593,
+    "cafes": []
+  },
+  "Johnson Siding": {
+    "city": "Johnson Siding",
+    "city_ascii": "Johnson Siding",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0846,
+    "lng": -103.438,
+    "cafes": []
+  },
+  "Wolsey": {
+    "city": "Wolsey",
+    "city_ascii": "Wolsey",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4105,
+    "lng": -98.4738,
+    "cafes": []
+  },
+  "Canistota": {
+    "city": "Canistota",
+    "city_ascii": "Canistota",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5978,
+    "lng": -97.2926,
+    "cafes": []
+  },
+  "Onida": {
+    "city": "Onida",
+    "city_ascii": "Onida",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7049,
+    "lng": -100.0675,
+    "cafes": []
+  },
+  "Corsica": {
+    "city": "Corsica",
+    "city_ascii": "Corsica",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4223,
+    "lng": -98.4073,
+    "cafes": []
+  },
+  "Shindler": {
+    "city": "Shindler",
+    "city_ascii": "Shindler",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4676,
+    "lng": -96.6354,
+    "cafes": []
+  },
+  "Armour": {
+    "city": "Armour",
+    "city_ascii": "Armour",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.319,
+    "lng": -98.3448,
+    "cafes": []
+  },
+  "Burke": {
+    "city": "Burke",
+    "city_ascii": "Burke",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1827,
+    "lng": -99.2923,
+    "cafes": []
+  },
+  "Selby": {
+    "city": "Selby",
+    "city_ascii": "Selby",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5057,
+    "lng": -100.0329,
+    "cafes": []
+  },
+  "Plankinton": {
+    "city": "Plankinton",
+    "city_ascii": "Plankinton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7155,
+    "lng": -98.4837,
+    "cafes": []
+  },
+  "Parmelee": {
+    "city": "Parmelee",
+    "city_ascii": "Parmelee",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3241,
+    "lng": -101.041,
+    "cafes": []
+  },
+  "Murdo": {
+    "city": "Murdo",
+    "city_ascii": "Murdo",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8893,
+    "lng": -100.7142,
+    "cafes": []
+  },
+  "St. Francis": {
+    "city": "St. Francis",
+    "city_ascii": "St. Francis",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1426,
+    "lng": -100.9028,
+    "cafes": []
+  },
+  "Faulkton": {
+    "city": "Faulkton",
+    "city_ascii": "Faulkton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0342,
+    "lng": -99.1266,
+    "cafes": []
+  },
+  "Antelope": {
+    "city": "Antelope",
+    "city_ascii": "Antelope",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3087,
+    "lng": -100.6306,
+    "cafes": []
+  },
+  "Big Stone City": {
+    "city": "Big Stone City",
+    "city_ascii": "Big Stone City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.2985,
+    "lng": -96.4657,
+    "cafes": []
+  },
+  "Wall": {
+    "city": "Wall",
+    "city_ascii": "Wall",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9914,
+    "lng": -102.2422,
+    "cafes": []
+  },
+  "McLaughlin": {
+    "city": "McLaughlin",
+    "city_ascii": "McLaughlin",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8132,
+    "lng": -100.8108,
+    "cafes": []
+  },
+  "Tripp": {
+    "city": "Tripp",
+    "city_ascii": "Tripp",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2254,
+    "lng": -97.9659,
+    "cafes": []
+  },
+  "Herreid": {
+    "city": "Herreid",
+    "city_ascii": "Herreid",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8378,
+    "lng": -100.0748,
+    "cafes": []
+  },
+  "Porcupine": {
+    "city": "Porcupine",
+    "city_ascii": "Porcupine",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2687,
+    "lng": -102.3353,
+    "cafes": []
+  },
+  "Lake Preston": {
+    "city": "Lake Preston",
+    "city_ascii": "Lake Preston",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3617,
+    "lng": -97.376,
+    "cafes": []
+  },
+  "New Underwood": {
+    "city": "New Underwood",
+    "city_ascii": "New Underwood",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0987,
+    "lng": -102.8405,
+    "cafes": []
+  },
+  "Irene": {
+    "city": "Irene",
+    "city_ascii": "Irene",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0837,
+    "lng": -97.1576,
+    "cafes": []
+  },
+  "Montrose": {
+    "city": "Montrose",
+    "city_ascii": "Montrose",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.6999,
+    "lng": -97.1844,
+    "cafes": []
+  },
+  "Oacoma": {
+    "city": "Oacoma",
+    "city_ascii": "Oacoma",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8038,
+    "lng": -99.3721,
+    "cafes": []
+  },
+  "Prairiewood Village": {
+    "city": "Prairiewood Village",
+    "city_ascii": "Prairiewood Village",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5094,
+    "lng": -98.4194,
+    "cafes": []
+  },
+  "Warner": {
+    "city": "Warner",
+    "city_ascii": "Warner",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3252,
+    "lng": -98.4952,
+    "cafes": []
+  },
+  "Newell": {
+    "city": "Newell",
+    "city_ascii": "Newell",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7174,
+    "lng": -103.4183,
+    "cafes": []
+  },
+  "Philip": {
+    "city": "Philip",
+    "city_ascii": "Philip",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0407,
+    "lng": -101.6645,
+    "cafes": []
+  },
+  "Boulder Canyon": {
+    "city": "Boulder Canyon",
+    "city_ascii": "Boulder Canyon",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3971,
+    "lng": -103.6046,
+    "cafes": []
+  },
+  "Wounded Knee": {
+    "city": "Wounded Knee",
+    "city_ascii": "Wounded Knee",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1435,
+    "lng": -102.3681,
+    "cafes": []
+  },
+  "Dupree": {
+    "city": "Dupree",
+    "city_ascii": "Dupree",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0495,
+    "lng": -101.6013,
+    "cafes": []
+  },
+  "West Brule": {
+    "city": "West Brule",
+    "city_ascii": "West Brule",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0727,
+    "lng": -99.6383,
+    "cafes": []
+  },
+  "Emery": {
+    "city": "Emery",
+    "city_ascii": "Emery",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.602,
+    "lng": -97.6195,
+    "cafes": []
+  },
+  "Kimball": {
+    "city": "Kimball",
+    "city_ascii": "Kimball",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7468,
+    "lng": -98.9569,
+    "cafes": []
+  },
+  "Bridgewater": {
+    "city": "Bridgewater",
+    "city_ascii": "Bridgewater",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5502,
+    "lng": -97.4984,
+    "cafes": []
+  },
+  "Willow Lake": {
+    "city": "Willow Lake",
+    "city_ascii": "Willow Lake",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.6279,
+    "lng": -97.6386,
+    "cafes": []
+  },
+  "Oahe Acres": {
+    "city": "Oahe Acres",
+    "city_ascii": "Oahe Acres",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4648,
+    "lng": -100.3449,
+    "cafes": []
+  },
+  "Bowdle": {
+    "city": "Bowdle",
+    "city_ascii": "Bowdle",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4512,
+    "lng": -99.6565,
+    "cafes": []
+  },
+  "Wilmot": {
+    "city": "Wilmot",
+    "city_ascii": "Wilmot",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4091,
+    "lng": -96.8546,
+    "cafes": []
+  },
+  "White": {
+    "city": "White",
+    "city_ascii": "White",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4359,
+    "lng": -96.646,
+    "cafes": []
+  },
+  "Mount Vernon": {
+    "city": "Mount Vernon",
+    "city_ascii": "Mount Vernon",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7127,
+    "lng": -98.2612,
+    "cafes": []
+  },
+  "Rosholt": {
+    "city": "Rosholt",
+    "city_ascii": "Rosholt",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8662,
+    "lng": -96.7318,
+    "cafes": []
+  },
+  "Veblen": {
+    "city": "Veblen",
+    "city_ascii": "Veblen",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.862,
+    "lng": -97.2869,
+    "cafes": []
+  },
+  "Kadoka": {
+    "city": "Kadoka",
+    "city_ascii": "Kadoka",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8325,
+    "lng": -101.5081,
+    "cafes": []
+  },
+  "Ramona": {
+    "city": "Ramona",
+    "city_ascii": "Ramona",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.1199,
+    "lng": -97.2154,
+    "cafes": []
+  },
+  "Waubay": {
+    "city": "Waubay",
+    "city_ascii": "Waubay",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3345,
+    "lng": -97.3055,
+    "cafes": []
+  },
+  "Iroquois": {
+    "city": "Iroquois",
+    "city_ascii": "Iroquois",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3679,
+    "lng": -97.8495,
+    "cafes": []
+  },
+  "White Lake": {
+    "city": "White Lake",
+    "city_ascii": "White Lake",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7283,
+    "lng": -98.712,
+    "cafes": []
+  },
+  "Bison": {
+    "city": "Bison",
+    "city_ascii": "Bison",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5235,
+    "lng": -102.4677,
+    "cafes": []
+  },
+  "Lake Poinsett": {
+    "city": "Lake Poinsett",
+    "city_ascii": "Lake Poinsett",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5664,
+    "lng": -97.0798,
+    "cafes": []
+  },
+  "Mountain Plains": {
+    "city": "Mountain Plains",
+    "city_ascii": "Mountain Plains",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.467,
+    "lng": -103.8636,
+    "cafes": []
+  },
+  "Anderson": {
+    "city": "Anderson",
+    "city_ascii": "Anderson",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5194,
+    "lng": -96.6141,
+    "cafes": []
+  },
+  "Hudson": {
+    "city": "Hudson",
+    "city_ascii": "Hudson",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1301,
+    "lng": -96.4556,
+    "cafes": []
+  },
+  "Keystone": {
+    "city": "Keystone",
+    "city_ascii": "Keystone",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8949,
+    "lng": -103.4268,
+    "cafes": []
+  },
+  "Langford": {
+    "city": "Langford",
+    "city_ascii": "Langford",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6024,
+    "lng": -97.8303,
+    "cafes": []
+  },
+  "Two Strike": {
+    "city": "Two Strike",
+    "city_ascii": "Two Strike",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2141,
+    "lng": -100.8988,
+    "cafes": []
+  },
+  "Hurley": {
+    "city": "Hurley",
+    "city_ascii": "Hurley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2794,
+    "lng": -97.0894,
+    "cafes": []
+  },
+  "Colome": {
+    "city": "Colome",
+    "city_ascii": "Colome",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2599,
+    "lng": -99.7174,
+    "cafes": []
+  },
+  "Hayti": {
+    "city": "Hayti",
+    "city_ascii": "Hayti",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.658,
+    "lng": -97.2049,
+    "cafes": []
+  },
+  "Summit": {
+    "city": "Summit",
+    "city_ascii": "Summit",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3056,
+    "lng": -97.0391,
+    "cafes": []
+  },
+  "Gayville": {
+    "city": "Gayville",
+    "city_ascii": "Gayville",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.8889,
+    "lng": -97.1738,
+    "cafes": []
+  },
+  "Kennebec": {
+    "city": "Kennebec",
+    "city_ascii": "Kennebec",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9035,
+    "lng": -99.8619,
+    "cafes": []
+  },
+  "Chancellor": {
+    "city": "Chancellor",
+    "city_ascii": "Chancellor",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3719,
+    "lng": -96.9875,
+    "cafes": []
+  },
+  "Leola": {
+    "city": "Leola",
+    "city_ascii": "Leola",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.7212,
+    "lng": -98.9386,
+    "cafes": []
+  },
+  "Little Eagle": {
+    "city": "Little Eagle",
+    "city_ascii": "Little Eagle",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6832,
+    "lng": -100.7966,
+    "cafes": []
+  },
+  "Wakonda": {
+    "city": "Wakonda",
+    "city_ascii": "Wakonda",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0081,
+    "lng": -97.106,
+    "cafes": []
+  },
+  "Sicangu Village": {
+    "city": "Sicangu Village",
+    "city_ascii": "Sicangu Village",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0137,
+    "lng": -100.5757,
+    "cafes": []
+  },
+  "Alpena": {
+    "city": "Alpena",
+    "city_ascii": "Alpena",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.1829,
+    "lng": -98.3683,
+    "cafes": []
+  },
+  "Tabor": {
+    "city": "Tabor",
+    "city_ascii": "Tabor",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.9476,
+    "lng": -97.6594,
+    "cafes": []
+  },
+  "Trent": {
+    "city": "Trent",
+    "city_ascii": "Trent",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9063,
+    "lng": -96.6578,
+    "cafes": []
+  },
+  "Hoven": {
+    "city": "Hoven",
+    "city_ascii": "Hoven",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.2416,
+    "lng": -99.7775,
+    "cafes": []
+  },
+  "Spring Creek": {
+    "city": "Spring Creek",
+    "city_ascii": "Spring Creek",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1154,
+    "lng": -101.0306,
+    "cafes": []
+  },
+  "Presho": {
+    "city": "Presho",
+    "city_ascii": "Presho",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9071,
+    "lng": -100.0583,
+    "cafes": []
+  },
+  "Faith": {
+    "city": "Faith",
+    "city_ascii": "Faith",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0258,
+    "lng": -102.0363,
+    "cafes": []
+  },
+  "Bonesteel": {
+    "city": "Bonesteel",
+    "city_ascii": "Bonesteel",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0775,
+    "lng": -98.9467,
+    "cafes": []
+  },
+  "Hermosa": {
+    "city": "Hermosa",
+    "city_ascii": "Hermosa",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8399,
+    "lng": -103.193,
+    "cafes": []
+  },
+  "Roscoe": {
+    "city": "Roscoe",
+    "city_ascii": "Roscoe",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4501,
+    "lng": -99.3367,
+    "cafes": []
+  },
+  "Enemy Swim": {
+    "city": "Enemy Swim",
+    "city_ascii": "Enemy Swim",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4319,
+    "lng": -97.2868,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0548,
+    "lng": -97.3263,
+    "cafes": []
+  },
+  "Bullhead": {
+    "city": "Bullhead",
+    "city_ascii": "Bullhead",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.7693,
+    "lng": -101.0809,
+    "cafes": []
+  },
+  "Bruce": {
+    "city": "Bruce",
+    "city_ascii": "Bruce",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4378,
+    "lng": -96.8906,
+    "cafes": []
+  },
+  "Buffalo": {
+    "city": "Buffalo",
+    "city_ascii": "Buffalo",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5863,
+    "lng": -103.5434,
+    "cafes": []
+  },
+  "Crook City": {
+    "city": "Crook City",
+    "city_ascii": "Crook City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4381,
+    "lng": -103.6434,
+    "cafes": []
+  },
+  "Pukwana": {
+    "city": "Pukwana",
+    "city_ascii": "Pukwana",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7792,
+    "lng": -99.1843,
+    "cafes": []
+  },
+  "Pollock": {
+    "city": "Pollock",
+    "city_ascii": "Pollock",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.9005,
+    "lng": -100.2885,
+    "cafes": []
+  },
+  "Toronto": {
+    "city": "Toronto",
+    "city_ascii": "Toronto",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5724,
+    "lng": -96.6414,
+    "cafes": []
+  },
+  "Soldier Creek": {
+    "city": "Soldier Creek",
+    "city_ascii": "Soldier Creek",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3237,
+    "lng": -100.8883,
+    "cafes": []
+  },
+  "La Plant": {
+    "city": "La Plant",
+    "city_ascii": "La Plant",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1353,
+    "lng": -100.6648,
+    "cafes": []
+  },
+  "Ethan": {
+    "city": "Ethan",
+    "city_ascii": "Ethan",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5463,
+    "lng": -97.9834,
+    "cafes": []
+  },
+  "Marty": {
+    "city": "Marty",
+    "city_ascii": "Marty",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.9965,
+    "lng": -98.4302,
+    "cafes": []
+  },
+  "Pickstown": {
+    "city": "Pickstown",
+    "city_ascii": "Pickstown",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0671,
+    "lng": -98.5295,
+    "cafes": []
+  },
+  "Stickney": {
+    "city": "Stickney",
+    "city_ascii": "Stickney",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5894,
+    "lng": -98.4376,
+    "cafes": []
+  },
+  "Hosmer": {
+    "city": "Hosmer",
+    "city_ascii": "Hosmer",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5788,
+    "lng": -99.4736,
+    "cafes": []
+  },
+  "Renner Corner": {
+    "city": "Renner Corner",
+    "city_ascii": "Renner Corner",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.6524,
+    "lng": -96.7044,
+    "cafes": []
+  },
+  "Henry": {
+    "city": "Henry",
+    "city_ascii": "Henry",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.8809,
+    "lng": -97.4616,
+    "cafes": []
+  },
+  "Bristol": {
+    "city": "Bristol",
+    "city_ascii": "Bristol",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3466,
+    "lng": -97.7485,
+    "cafes": []
+  },
+  "Pine Lakes Addition": {
+    "city": "Pine Lakes Addition",
+    "city_ascii": "Pine Lakes Addition",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.551,
+    "lng": -96.6355,
+    "cafes": []
+  },
+  "Monroe": {
+    "city": "Monroe",
+    "city_ascii": "Monroe",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4865,
+    "lng": -97.2166,
+    "cafes": []
+  },
+  "Doland": {
+    "city": "Doland",
+    "city_ascii": "Doland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.8944,
+    "lng": -98.0997,
+    "cafes": []
+  },
+  "New Effington": {
+    "city": "New Effington",
+    "city_ascii": "New Effington",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8558,
+    "lng": -96.9174,
+    "cafes": []
+  },
+  "Egan": {
+    "city": "Egan",
+    "city_ascii": "Egan",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0004,
+    "lng": -96.6485,
+    "cafes": []
+  },
+  "South Shore": {
+    "city": "South Shore",
+    "city_ascii": "South Shore",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1016,
+    "lng": -96.93,
+    "cafes": []
+  },
+  "Gary": {
+    "city": "Gary",
+    "city_ascii": "Gary",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7941,
+    "lng": -96.4574,
+    "cafes": []
+  },
+  "Sinai": {
+    "city": "Sinai",
+    "city_ascii": "Sinai",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.2445,
+    "lng": -97.044,
+    "cafes": []
+  },
+  "Chester": {
+    "city": "Chester",
+    "city_ascii": "Chester",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8996,
+    "lng": -96.9277,
+    "cafes": []
+  },
+  "Blunt": {
+    "city": "Blunt",
+    "city_ascii": "Blunt",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5159,
+    "lng": -99.9885,
+    "cafes": []
+  },
+  "Yale": {
+    "city": "Yale",
+    "city_ascii": "Yale",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4337,
+    "lng": -97.9885,
+    "cafes": []
+  },
+  "Brant Lake South": {
+    "city": "Brant Lake South",
+    "city_ascii": "Brant Lake South",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9139,
+    "lng": -96.938,
+    "cafes": []
+  },
+  "Eden": {
+    "city": "Eden",
+    "city_ascii": "Eden",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6168,
+    "lng": -97.4196,
+    "cafes": []
+  },
+  "Tulare": {
+    "city": "Tulare",
+    "city_ascii": "Tulare",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7382,
+    "lng": -98.5089,
+    "cafes": []
+  },
+  "Horse Creek": {
+    "city": "Horse Creek",
+    "city_ascii": "Horse Creek",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.533,
+    "lng": -100.7419,
+    "cafes": []
+  },
+  "Hecla": {
+    "city": "Hecla",
+    "city_ascii": "Hecla",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8822,
+    "lng": -98.152,
+    "cafes": []
+  },
+  "Pringle": {
+    "city": "Pringle",
+    "city_ascii": "Pringle",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.609,
+    "lng": -103.5946,
+    "cafes": []
+  },
+  "Reliance": {
+    "city": "Reliance",
+    "city_ascii": "Reliance",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.88,
+    "lng": -99.6018,
+    "cafes": []
+  },
+  "Delmont": {
+    "city": "Delmont",
+    "city_ascii": "Delmont",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2666,
+    "lng": -98.1592,
+    "cafes": []
+  },
+  "Wessington": {
+    "city": "Wessington",
+    "city_ascii": "Wessington",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4552,
+    "lng": -98.6967,
+    "cafes": []
+  },
+  "Wentworth": {
+    "city": "Wentworth",
+    "city_ascii": "Wentworth",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.997,
+    "lng": -96.9645,
+    "cafes": []
+  },
+  "Oelrichs": {
+    "city": "Oelrichs",
+    "city_ascii": "Oelrichs",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.182,
+    "lng": -103.2334,
+    "cafes": []
+  },
+  "Cavour": {
+    "city": "Cavour",
+    "city_ascii": "Cavour",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3693,
+    "lng": -98.042,
+    "cafes": []
+  },
+  "Letcher": {
+    "city": "Letcher",
+    "city_ascii": "Letcher",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8995,
+    "lng": -98.1442,
+    "cafes": []
+  },
+  "Swift Bird": {
+    "city": "Swift Bird",
+    "city_ascii": "Swift Bird",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0601,
+    "lng": -100.3545,
+    "cafes": []
+  },
+  "Isabel": {
+    "city": "Isabel",
+    "city_ascii": "Isabel",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3939,
+    "lng": -101.4325,
+    "cafes": []
+  },
+  "Mission Hill": {
+    "city": "Mission Hill",
+    "city_ascii": "Mission Hill",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.9208,
+    "lng": -97.2791,
+    "cafes": []
+  },
+  "Frederick": {
+    "city": "Frederick",
+    "city_ascii": "Frederick",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8319,
+    "lng": -98.5067,
+    "cafes": []
+  },
+  "Glendale Colony": {
+    "city": "Glendale Colony",
+    "city_ascii": "Glendale Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7979,
+    "lng": -98.2868,
+    "cafes": []
+  },
+  "Kranzburg": {
+    "city": "Kranzburg",
+    "city_ascii": "Kranzburg",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.8888,
+    "lng": -96.9092,
+    "cafes": []
+  },
+  "Roslyn": {
+    "city": "Roslyn",
+    "city_ascii": "Roslyn",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4966,
+    "lng": -97.4928,
+    "cafes": []
+  },
+  "Ashton": {
+    "city": "Ashton",
+    "city_ascii": "Ashton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.9931,
+    "lng": -98.4991,
+    "cafes": []
+  },
+  "Columbia": {
+    "city": "Columbia",
+    "city_ascii": "Columbia",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6148,
+    "lng": -98.3107,
+    "cafes": []
+  },
+  "Richland": {
+    "city": "Richland",
+    "city_ascii": "Richland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.7634,
+    "lng": -96.648,
+    "cafes": []
+  },
+  "Nisland": {
+    "city": "Nisland",
+    "city_ascii": "Nisland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.6731,
+    "lng": -103.5538,
+    "cafes": []
+  },
+  "Long Hollow": {
+    "city": "Long Hollow",
+    "city_ascii": "Long Hollow",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6823,
+    "lng": -97.1611,
+    "cafes": []
+  },
+  "Pierpont": {
+    "city": "Pierpont",
+    "city_ascii": "Pierpont",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4953,
+    "lng": -97.8321,
+    "cafes": []
+  },
+  "Badger": {
+    "city": "Badger",
+    "city_ascii": "Badger",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4855,
+    "lng": -97.2079,
+    "cafes": []
+  },
+  "Spring Creek Colony": {
+    "city": "Spring Creek Colony",
+    "city_ascii": "Spring Creek Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.9077,
+    "lng": -98.8806,
+    "cafes": []
+  },
+  "Astoria": {
+    "city": "Astoria",
+    "city_ascii": "Astoria",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5577,
+    "lng": -96.5465,
+    "cafes": []
+  },
+  "Artesian": {
+    "city": "Artesian",
+    "city_ascii": "Artesian",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0079,
+    "lng": -97.9237,
+    "cafes": []
+  },
+  "Wakpala": {
+    "city": "Wakpala",
+    "city_ascii": "Wakpala",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6594,
+    "lng": -100.5355,
+    "cafes": []
+  },
+  "Burbank": {
+    "city": "Burbank",
+    "city_ascii": "Burbank",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.7461,
+    "lng": -96.8326,
+    "cafes": []
+  },
+  "Cherry Creek": {
+    "city": "Cherry Creek",
+    "city_ascii": "Cherry Creek",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.6048,
+    "lng": -101.4996,
+    "cafes": []
+  },
+  "Okreek": {
+    "city": "Okreek",
+    "city_ascii": "Okreek",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3533,
+    "lng": -100.3826,
+    "cafes": []
+  },
+  "Northville": {
+    "city": "Northville",
+    "city_ascii": "Northville",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1554,
+    "lng": -98.5793,
+    "cafes": []
+  },
+  "Corn Creek": {
+    "city": "Corn Creek",
+    "city_ascii": "Corn Creek",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5744,
+    "lng": -101.2059,
+    "cafes": []
+  },
+  "St. Lawrence": {
+    "city": "St. Lawrence",
+    "city_ascii": "St. Lawrence",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5166,
+    "lng": -98.9379,
+    "cafes": []
+  },
+  "Mellette": {
+    "city": "Mellette",
+    "city_ascii": "Mellette",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1544,
+    "lng": -98.4983,
+    "cafes": []
+  },
+  "Fairfax": {
+    "city": "Fairfax",
+    "city_ascii": "Fairfax",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0281,
+    "lng": -98.889,
+    "cafes": []
+  },
+  "Frankfort": {
+    "city": "Frankfort",
+    "city_ascii": "Frankfort",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.8777,
+    "lng": -98.3092,
+    "cafes": []
+  },
+  "Geddes": {
+    "city": "Geddes",
+    "city_ascii": "Geddes",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.254,
+    "lng": -98.6974,
+    "cafes": []
+  },
+  "Canova": {
+    "city": "Canova",
+    "city_ascii": "Canova",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8813,
+    "lng": -97.504,
+    "cafes": []
+  },
+  "Buffalo Gap": {
+    "city": "Buffalo Gap",
+    "city_ascii": "Buffalo Gap",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4921,
+    "lng": -103.3154,
+    "cafes": []
+  },
+  "Rowena": {
+    "city": "Rowena",
+    "city_ascii": "Rowena",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5191,
+    "lng": -96.5561,
+    "cafes": []
+  },
+  "Volin": {
+    "city": "Volin",
+    "city_ascii": "Volin",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.9586,
+    "lng": -97.1812,
+    "cafes": []
+  },
+  "Hazel": {
+    "city": "Hazel",
+    "city_ascii": "Hazel",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7582,
+    "lng": -97.381,
+    "cafes": []
+  },
+  "Dante": {
+    "city": "Dante",
+    "city_ascii": "Dante",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0399,
+    "lng": -98.1856,
+    "cafes": []
+  },
+  "Whitehorse": {
+    "city": "Whitehorse",
+    "city_ascii": "Whitehorse",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.2746,
+    "lng": -100.9012,
+    "cafes": []
+  },
+  "Spencer": {
+    "city": "Spencer",
+    "city_ascii": "Spencer",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7273,
+    "lng": -97.5911,
+    "cafes": []
+  },
+  "Peever": {
+    "city": "Peever",
+    "city_ascii": "Peever",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5422,
+    "lng": -96.956,
+    "cafes": []
+  },
+  "Kenel": {
+    "city": "Kenel",
+    "city_ascii": "Kenel",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8545,
+    "lng": -100.4592,
+    "cafes": []
+  },
+  "Conde": {
+    "city": "Conde",
+    "city_ascii": "Conde",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1573,
+    "lng": -98.0955,
+    "cafes": []
+  },
+  "Central City": {
+    "city": "Central City",
+    "city_ascii": "Central City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3685,
+    "lng": -103.7706,
+    "cafes": []
+  },
+  "Fruitdale": {
+    "city": "Fruitdale",
+    "city_ascii": "Fruitdale",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.6692,
+    "lng": -103.6955,
+    "cafes": []
+  },
+  "Glenham": {
+    "city": "Glenham",
+    "city_ascii": "Glenham",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.533,
+    "lng": -100.2711,
+    "cafes": []
+  },
+  "Norris": {
+    "city": "Norris",
+    "city_ascii": "Norris",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4721,
+    "lng": -101.1928,
+    "cafes": []
+  },
+  "Bath": {
+    "city": "Bath",
+    "city_ascii": "Bath",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4692,
+    "lng": -98.3236,
+    "cafes": []
+  },
+  "Angostura": {
+    "city": "Angostura",
+    "city_ascii": "Angostura",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3192,
+    "lng": -103.386,
+    "cafes": []
+  },
+  "Stockholm": {
+    "city": "Stockholm",
+    "city_ascii": "Stockholm",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1018,
+    "lng": -96.7998,
+    "cafes": []
+  },
+  "Belvidere": {
+    "city": "Belvidere",
+    "city_ascii": "Belvidere",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8321,
+    "lng": -101.2711,
+    "cafes": []
+  },
+  "Cresbard": {
+    "city": "Cresbard",
+    "city_ascii": "Cresbard",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1692,
+    "lng": -98.9477,
+    "cafes": []
+  },
+  "Davis": {
+    "city": "Davis",
+    "city_ascii": "Davis",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2595,
+    "lng": -96.9945,
+    "cafes": []
+  },
+  "Midland": {
+    "city": "Midland",
+    "city_ascii": "Midland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0711,
+    "lng": -101.1554,
+    "cafes": []
+  },
+  "Peever Flats": {
+    "city": "Peever Flats",
+    "city_ascii": "Peever Flats",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5234,
+    "lng": -96.9356,
+    "cafes": []
+  },
+  "Cottonwood": {
+    "city": "Cottonwood",
+    "city_ascii": "Cottonwood",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9657,
+    "lng": -101.9021,
+    "cafes": []
+  },
+  "Dimock": {
+    "city": "Dimock",
+    "city_ascii": "Dimock",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4764,
+    "lng": -97.9888,
+    "cafes": []
+  },
+  "Bradley": {
+    "city": "Bradley",
+    "city_ascii": "Bradley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0904,
+    "lng": -97.642,
+    "cafes": []
+  },
+  "Carthage": {
+    "city": "Carthage",
+    "city_ascii": "Carthage",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.1686,
+    "lng": -97.715,
+    "cafes": []
+  },
+  "Dallas": {
+    "city": "Dallas",
+    "city_ascii": "Dallas",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2379,
+    "lng": -99.5175,
+    "cafes": []
+  },
+  "Claire City": {
+    "city": "Claire City",
+    "city_ascii": "Claire City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8566,
+    "lng": -97.1035,
+    "cafes": []
+  },
+  "Brandt": {
+    "city": "Brandt",
+    "city_ascii": "Brandt",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.6669,
+    "lng": -96.6252,
+    "cafes": []
+  },
+  "Naples": {
+    "city": "Naples",
+    "city_ascii": "Naples",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7716,
+    "lng": -97.5131,
+    "cafes": []
+  },
+  "McIntosh": {
+    "city": "McIntosh",
+    "city_ascii": "McIntosh",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.9214,
+    "lng": -101.3491,
+    "cafes": []
+  },
+  "Java": {
+    "city": "Java",
+    "city_ascii": "Java",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5038,
+    "lng": -99.8839,
+    "cafes": []
+  },
+  "Oldham": {
+    "city": "Oldham",
+    "city_ascii": "Oldham",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.2281,
+    "lng": -97.3096,
+    "cafes": []
+  },
+  "Mound City": {
+    "city": "Mound City",
+    "city_ascii": "Mound City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.7262,
+    "lng": -100.0688,
+    "cafes": []
+  },
+  "Tschetter Colony": {
+    "city": "Tschetter Colony",
+    "city_ascii": "Tschetter Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3681,
+    "lng": -97.688,
+    "cafes": []
+  },
+  "Hitchcock": {
+    "city": "Hitchcock",
+    "city_ascii": "Hitchcock",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.6294,
+    "lng": -98.4082,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2221,
+    "lng": -96.4876,
+    "cafes": []
+  },
+  "Lyons": {
+    "city": "Lyons",
+    "city_ascii": "Lyons",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7249,
+    "lng": -96.8662,
+    "cafes": []
+  },
+  "Goodwin": {
+    "city": "Goodwin",
+    "city_ascii": "Goodwin",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.8775,
+    "lng": -96.8497,
+    "cafes": []
+  },
+  "Westport": {
+    "city": "Westport",
+    "city_ascii": "Westport",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6478,
+    "lng": -98.4981,
+    "cafes": []
+  },
+  "Revillo": {
+    "city": "Revillo",
+    "city_ascii": "Revillo",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0154,
+    "lng": -96.5712,
+    "cafes": []
+  },
+  "Lesterville": {
+    "city": "Lesterville",
+    "city_ascii": "Lesterville",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0385,
+    "lng": -97.5905,
+    "cafes": []
+  },
+  "Claremont": {
+    "city": "Claremont",
+    "city_ascii": "Claremont",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6719,
+    "lng": -98.0157,
+    "cafes": []
+  },
+  "Vale": {
+    "city": "Vale",
+    "city_ascii": "Vale",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.6183,
+    "lng": -103.3986,
+    "cafes": []
+  },
+  "Fulton": {
+    "city": "Fulton",
+    "city_ascii": "Fulton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7288,
+    "lng": -97.8226,
+    "cafes": []
+  },
+  "Batesland": {
+    "city": "Batesland",
+    "city_ascii": "Batesland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1278,
+    "lng": -102.1017,
+    "cafes": []
+  },
+  "Garden City": {
+    "city": "Garden City",
+    "city_ascii": "Garden City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.9593,
+    "lng": -97.5804,
+    "cafes": []
+  },
+  "Agar": {
+    "city": "Agar",
+    "city_ascii": "Agar",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.8397,
+    "lng": -100.0732,
+    "cafes": []
+  },
+  "Millerdale Colony": {
+    "city": "Millerdale Colony",
+    "city_ascii": "Millerdale Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.399,
+    "lng": -99.1111,
+    "cafes": []
+  },
+  "Brentford": {
+    "city": "Brentford",
+    "city_ascii": "Brentford",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1591,
+    "lng": -98.3223,
+    "cafes": []
+  },
+  "Mayfield Colony": {
+    "city": "Mayfield Colony",
+    "city_ascii": "Mayfield Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.6943,
+    "lng": -97.5811,
+    "cafes": []
+  },
+  "Harrold": {
+    "city": "Harrold",
+    "city_ascii": "Harrold",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5258,
+    "lng": -99.7416,
+    "cafes": []
+  },
+  "Golden View Colony": {
+    "city": "Golden View Colony",
+    "city_ascii": "Golden View Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.6954,
+    "lng": -97.4487,
+    "cafes": []
+  },
+  "Bath Corner": {
+    "city": "Bath Corner",
+    "city_ascii": "Bath Corner",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4627,
+    "lng": -98.3329,
+    "cafes": []
+  },
+  "Green Grass": {
+    "city": "Green Grass",
+    "city_ascii": "Green Grass",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1714,
+    "lng": -101.2573,
+    "cafes": []
+  },
+  "Running Water": {
+    "city": "Running Water",
+    "city_ascii": "Running Water",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.7822,
+    "lng": -97.9816,
+    "cafes": []
+  },
+  "Strandburg": {
+    "city": "Strandburg",
+    "city_ascii": "Strandburg",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0441,
+    "lng": -96.7604,
+    "cafes": []
+  },
+  "Morningside": {
+    "city": "Morningside",
+    "city_ascii": "Morningside",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3663,
+    "lng": -98.1836,
+    "cafes": []
+  },
+  "Akaska": {
+    "city": "Akaska",
+    "city_ascii": "Akaska",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.331,
+    "lng": -100.1208,
+    "cafes": []
+  },
+  "Wasta": {
+    "city": "Wasta",
+    "city_ascii": "Wasta",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0696,
+    "lng": -102.4464,
+    "cafes": []
+  },
+  "Quinn": {
+    "city": "Quinn",
+    "city_ascii": "Quinn",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9866,
+    "lng": -102.1264,
+    "cafes": []
+  },
+  "Corona": {
+    "city": "Corona",
+    "city_ascii": "Corona",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3352,
+    "lng": -96.7646,
+    "cafes": []
+  },
+  "Bridger": {
+    "city": "Bridger",
+    "city_ascii": "Bridger",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5421,
+    "lng": -101.9136,
+    "cafes": []
+  },
+  "Clearfield Colony": {
+    "city": "Clearfield Colony",
+    "city_ascii": "Clearfield Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1439,
+    "lng": -98.1423,
+    "cafes": []
+  },
+  "Grenville": {
+    "city": "Grenville",
+    "city_ascii": "Grenville",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.467,
+    "lng": -97.3901,
+    "cafes": []
+  },
+  "Brant Lake": {
+    "city": "Brant Lake",
+    "city_ascii": "Brant Lake",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9308,
+    "lng": -96.9436,
+    "cafes": []
+  },
+  "Lebanon": {
+    "city": "Lebanon",
+    "city_ascii": "Lebanon",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0688,
+    "lng": -99.7664,
+    "cafes": []
+  },
+  "Kaylor": {
+    "city": "Kaylor",
+    "city_ascii": "Kaylor",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1926,
+    "lng": -97.8405,
+    "cafes": []
+  },
+  "Wallace": {
+    "city": "Wallace",
+    "city_ascii": "Wallace",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0845,
+    "lng": -97.4781,
+    "cafes": []
+  },
+  "Tolstoy": {
+    "city": "Tolstoy",
+    "city_ascii": "Tolstoy",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.2083,
+    "lng": -99.614,
+    "cafes": []
+  },
+  "Jamesville Colony": {
+    "city": "Jamesville Colony",
+    "city_ascii": "Jamesville Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1015,
+    "lng": -97.4818,
+    "cafes": []
+  },
+  "Bushnell": {
+    "city": "Bushnell",
+    "city_ascii": "Bushnell",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3274,
+    "lng": -96.6424,
+    "cafes": []
+  },
+  "Shamrock Colony": {
+    "city": "Shamrock Colony",
+    "city_ascii": "Shamrock Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.6207,
+    "lng": -97.9592,
+    "cafes": []
+  },
+  "Farmer": {
+    "city": "Farmer",
+    "city_ascii": "Farmer",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7252,
+    "lng": -97.689,
+    "cafes": []
+  },
+  "Cow Creek": {
+    "city": "Cow Creek",
+    "city_ascii": "Cow Creek",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5538,
+    "lng": -100.4754,
+    "cafes": []
+  },
+  "Meckling": {
+    "city": "Meckling",
+    "city_ascii": "Meckling",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.8402,
+    "lng": -97.0673,
+    "cafes": []
+  },
+  "Clark Colony": {
+    "city": "Clark Colony",
+    "city_ascii": "Clark Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7914,
+    "lng": -97.9815,
+    "cafes": []
+  },
+  "Ortley": {
+    "city": "Ortley",
+    "city_ascii": "Ortley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3349,
+    "lng": -97.205,
+    "cafes": []
+  },
+  "Brentwood Colony": {
+    "city": "Brentwood Colony",
+    "city_ascii": "Brentwood Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1513,
+    "lng": -99.2984,
+    "cafes": []
+  },
+  "Sunset Colony": {
+    "city": "Sunset Colony",
+    "city_ascii": "Sunset Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8059,
+    "lng": -97.8857,
+    "cafes": []
+  },
+  "Evergreen Colony": {
+    "city": "Evergreen Colony",
+    "city_ascii": "Evergreen Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1217,
+    "lng": -99.0425,
+    "cafes": []
+  },
+  "Cameron Colony": {
+    "city": "Cameron Colony",
+    "city_ascii": "Cameron Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1878,
+    "lng": -97.2627,
+    "cafes": []
+  },
+  "Morristown": {
+    "city": "Morristown",
+    "city_ascii": "Morristown",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.9386,
+    "lng": -101.7188,
+    "cafes": []
+  },
+  "Chelsea": {
+    "city": "Chelsea",
+    "city_ascii": "Chelsea",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1675,
+    "lng": -98.7434,
+    "cafes": []
+  },
+  "Fairburn": {
+    "city": "Fairburn",
+    "city_ascii": "Fairburn",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.6869,
+    "lng": -103.2087,
+    "cafes": []
+  },
+  "Lake City": {
+    "city": "Lake City",
+    "city_ascii": "Lake City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.7248,
+    "lng": -97.4139,
+    "cafes": []
+  },
+  "Sherman": {
+    "city": "Sherman",
+    "city_ascii": "Sherman",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7577,
+    "lng": -96.4762,
+    "cafes": []
+  },
+  "Wood": {
+    "city": "Wood",
+    "city_ascii": "Wood",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4971,
+    "lng": -100.4802,
+    "cafes": []
+  },
+  "Ward": {
+    "city": "Ward",
+    "city_ascii": "Ward",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.1548,
+    "lng": -96.4626,
+    "cafes": []
+  },
+  "Millbrook Colony": {
+    "city": "Millbrook Colony",
+    "city_ascii": "Millbrook Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.67,
+    "lng": -97.8717,
+    "cafes": []
+  },
+  "Herrick": {
+    "city": "Herrick",
+    "city_ascii": "Herrick",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.115,
+    "lng": -99.1882,
+    "cafes": []
+  },
+  "Olivet": {
+    "city": "Olivet",
+    "city_ascii": "Olivet",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.243,
+    "lng": -97.6747,
+    "cafes": []
+  },
+  "Orient": {
+    "city": "Orient",
+    "city_ascii": "Orient",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.9017,
+    "lng": -99.0888,
+    "cafes": []
+  },
+  "Utica": {
+    "city": "Utica",
+    "city_ascii": "Utica",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.981,
+    "lng": -97.4967,
+    "cafes": []
+  },
+  "Ravinia": {
+    "city": "Ravinia",
+    "city_ascii": "Ravinia",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1365,
+    "lng": -98.4268,
+    "cafes": []
+  },
+  "Interior": {
+    "city": "Interior",
+    "city_ascii": "Interior",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7269,
+    "lng": -101.9837,
+    "cafes": []
+  },
+  "Raymond": {
+    "city": "Raymond",
+    "city_ascii": "Raymond",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.9105,
+    "lng": -97.9372,
+    "cafes": []
+  },
+  "Stratford": {
+    "city": "Stratford",
+    "city_ascii": "Stratford",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3174,
+    "lng": -98.3043,
+    "cafes": []
+  },
+  "Erwin": {
+    "city": "Erwin",
+    "city_ascii": "Erwin",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.488,
+    "lng": -97.4409,
+    "cafes": []
+  },
+  "St. Onge": {
+    "city": "St. Onge",
+    "city_ascii": "St. Onge",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5458,
+    "lng": -103.7198,
+    "cafes": []
+  },
+  "Old Elm Spring Colony": {
+    "city": "Old Elm Spring Colony",
+    "city_ascii": "Old Elm Spring Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4924,
+    "lng": -97.799,
+    "cafes": []
+  },
+  "Vienna": {
+    "city": "Vienna",
+    "city_ascii": "Vienna",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7031,
+    "lng": -97.5,
+    "cafes": []
+  },
+  "Nunda": {
+    "city": "Nunda",
+    "city_ascii": "Nunda",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.1599,
+    "lng": -97.0194,
+    "cafes": []
+  },
+  "Turton": {
+    "city": "Turton",
+    "city_ascii": "Turton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.049,
+    "lng": -98.0974,
+    "cafes": []
+  },
+  "Spink Colony": {
+    "city": "Spink Colony",
+    "city_ascii": "Spink Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7449,
+    "lng": -98.2895,
+    "cafes": []
+  },
+  "Dolton": {
+    "city": "Dolton",
+    "city_ascii": "Dolton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4911,
+    "lng": -97.3848,
+    "cafes": []
+  },
+  "Okaton": {
+    "city": "Okaton",
+    "city_ascii": "Okaton",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8621,
+    "lng": -100.9049,
+    "cafes": []
+  },
+  "Forestburg": {
+    "city": "Forestburg",
+    "city_ascii": "Forestburg",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0212,
+    "lng": -98.1032,
+    "cafes": []
+  },
+  "New Elm Spring Colony": {
+    "city": "New Elm Spring Colony",
+    "city_ascii": "New Elm Spring Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4892,
+    "lng": -97.8284,
+    "cafes": []
+  },
+  "Vivian": {
+    "city": "Vivian",
+    "city_ascii": "Vivian",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9273,
+    "lng": -100.3011,
+    "cafes": []
+  },
+  "Ideal": {
+    "city": "Ideal",
+    "city_ascii": "Ideal",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.54,
+    "lng": -99.9218,
+    "cafes": []
+  },
+  "Spring Lake Colony": {
+    "city": "Spring Lake Colony",
+    "city_ascii": "Spring Lake Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.2349,
+    "lng": -97.1748,
+    "cafes": []
+  },
+  "Oak Lane Colony": {
+    "city": "Oak Lane Colony",
+    "city_ascii": "Oak Lane Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5099,
+    "lng": -97.7412,
+    "cafes": []
+  },
+  "Andover": {
+    "city": "Andover",
+    "city_ascii": "Andover",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.4102,
+    "lng": -97.9037,
+    "cafes": []
+  },
+  "Orland Colony": {
+    "city": "Orland Colony",
+    "city_ascii": "Orland Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8216,
+    "lng": -97.199,
+    "cafes": []
+  },
+  "Grassland Colony": {
+    "city": "Grassland Colony",
+    "city_ascii": "Grassland Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6682,
+    "lng": -98.7965,
+    "cafes": []
+  },
+  "Camp Crook": {
+    "city": "Camp Crook",
+    "city_ascii": "Camp Crook",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.55,
+    "lng": -103.975,
+    "cafes": []
+  },
+  "Twin Brooks": {
+    "city": "Twin Brooks",
+    "city_ascii": "Twin Brooks",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.209,
+    "lng": -96.7855,
+    "cafes": []
+  },
+  "Ree Heights": {
+    "city": "Ree Heights",
+    "city_ascii": "Ree Heights",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5158,
+    "lng": -99.2005,
+    "cafes": []
+  },
+  "Bancroft": {
+    "city": "Bancroft",
+    "city_ascii": "Bancroft",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4894,
+    "lng": -97.7505,
+    "cafes": []
+  },
+  "Altamont": {
+    "city": "Altamont",
+    "city_ascii": "Altamont",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.8408,
+    "lng": -96.6901,
+    "cafes": []
+  },
+  "Rustic Acres Colony": {
+    "city": "Rustic Acres Colony",
+    "city_ascii": "Rustic Acres Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8698,
+    "lng": -97.099,
+    "cafes": []
+  },
+  "Caputa": {
+    "city": "Caputa",
+    "city_ascii": "Caputa",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9961,
+    "lng": -102.9844,
+    "cafes": []
+  },
+  "Mansfield": {
+    "city": "Mansfield",
+    "city_ascii": "Mansfield",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.2465,
+    "lng": -98.5581,
+    "cafes": []
+  },
+  "Winfred": {
+    "city": "Winfred",
+    "city_ascii": "Winfred",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0009,
+    "lng": -97.3598,
+    "cafes": []
+  },
+  "Rockham": {
+    "city": "Rockham",
+    "city_ascii": "Rockham",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.9043,
+    "lng": -98.8234,
+    "cafes": []
+  },
+  "Seneca": {
+    "city": "Seneca",
+    "city_ascii": "Seneca",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0608,
+    "lng": -99.5092,
+    "cafes": []
+  },
+  "Rockport Colony": {
+    "city": "Rockport Colony",
+    "city_ascii": "Rockport Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.582,
+    "lng": -97.8431,
+    "cafes": []
+  },
+  "Lane": {
+    "city": "Lane",
+    "city_ascii": "Lane",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0697,
+    "lng": -98.4246,
+    "cafes": []
+  },
+  "Crocker": {
+    "city": "Crocker",
+    "city_ascii": "Crocker",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.107,
+    "lng": -97.7805,
+    "cafes": []
+  },
+  "Onaka": {
+    "city": "Onaka",
+    "city_ascii": "Onaka",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1912,
+    "lng": -99.4659,
+    "cafes": []
+  },
+  "Smithwick": {
+    "city": "Smithwick",
+    "city_ascii": "Smithwick",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2976,
+    "lng": -103.2163,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.9987,
+    "lng": -96.9742,
+    "cafes": []
+  },
+  "Fedora": {
+    "city": "Fedora",
+    "city_ascii": "Fedora",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0067,
+    "lng": -97.7895,
+    "cafes": []
+  },
+  "Maverick Junction": {
+    "city": "Maverick Junction",
+    "city_ascii": "Maverick Junction",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4087,
+    "lng": -103.3958,
+    "cafes": []
+  },
+  "Draper": {
+    "city": "Draper",
+    "city_ascii": "Draper",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9262,
+    "lng": -100.5372,
+    "cafes": []
+  },
+  "Marvin": {
+    "city": "Marvin",
+    "city_ascii": "Marvin",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.2605,
+    "lng": -96.9154,
+    "cafes": []
+  },
+  "Prairie City": {
+    "city": "Prairie City",
+    "city_ascii": "Prairie City",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5312,
+    "lng": -102.8164,
+    "cafes": []
+  },
+  "Long Lake": {
+    "city": "Long Lake",
+    "city_ascii": "Long Lake",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8567,
+    "lng": -99.2058,
+    "cafes": []
+  },
+  "Vilas": {
+    "city": "Vilas",
+    "city_ascii": "Vilas",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0084,
+    "lng": -97.5956,
+    "cafes": []
+  },
+  "Broadland": {
+    "city": "Broadland",
+    "city_ascii": "Broadland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4938,
+    "lng": -98.3466,
+    "cafes": []
+  },
+  "Virgil": {
+    "city": "Virgil",
+    "city_ascii": "Virgil",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.2909,
+    "lng": -98.4276,
+    "cafes": []
+  },
+  "Wetonka": {
+    "city": "Wetonka",
+    "city_ascii": "Wetonka",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6242,
+    "lng": -98.7717,
+    "cafes": []
+  },
+  "White Rock": {
+    "city": "White Rock",
+    "city_ascii": "White Rock",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.9248,
+    "lng": -96.576,
+    "cafes": []
+  },
+  "Aurora Center": {
+    "city": "Aurora Center",
+    "city_ascii": "Aurora Center",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5272,
+    "lng": -98.5894,
+    "cafes": []
+  },
+  "Oral": {
+    "city": "Oral",
+    "city_ascii": "Oral",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.41,
+    "lng": -103.2648,
+    "cafes": []
+  },
+  "St. Charles": {
+    "city": "St. Charles",
+    "city_ascii": "St. Charles",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0881,
+    "lng": -99.0949,
+    "cafes": []
+  },
+  "Kidder": {
+    "city": "Kidder",
+    "city_ascii": "Kidder",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8817,
+    "lng": -97.7139,
+    "cafes": []
+  },
+  "Artas": {
+    "city": "Artas",
+    "city_ascii": "Artas",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8873,
+    "lng": -99.8069,
+    "cafes": []
+  },
+  "Hetland": {
+    "city": "Hetland",
+    "city_ascii": "Hetland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3772,
+    "lng": -97.2347,
+    "cafes": []
+  },
+  "Dudley": {
+    "city": "Dudley",
+    "city_ascii": "Dudley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3082,
+    "lng": -103.8192,
+    "cafes": []
+  },
+  "Stephan": {
+    "city": "Stephan",
+    "city_ascii": "Stephan",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.2482,
+    "lng": -99.4576,
+    "cafes": []
+  },
+  "Harrison": {
+    "city": "Harrison",
+    "city_ascii": "Harrison",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.431,
+    "lng": -98.5268,
+    "cafes": []
+  },
+  "Gann Valley": {
+    "city": "Gann Valley",
+    "city_ascii": "Gann Valley",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0336,
+    "lng": -98.9887,
+    "cafes": []
+  },
+  "Milltown": {
+    "city": "Milltown",
+    "city_ascii": "Milltown",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4252,
+    "lng": -97.8081,
+    "cafes": []
+  },
+  "Loomis": {
+    "city": "Loomis",
+    "city_ascii": "Loomis",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.7931,
+    "lng": -98.104,
+    "cafes": []
+  },
+  "Storla": {
+    "city": "Storla",
+    "city_ascii": "Storla",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8625,
+    "lng": -98.3526,
+    "cafes": []
+  },
+  "Verdon": {
+    "city": "Verdon",
+    "city_ascii": "Verdon",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.2442,
+    "lng": -98.0992,
+    "cafes": []
+  },
+  "Albee": {
+    "city": "Albee",
+    "city_ascii": "Albee",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0513,
+    "lng": -96.5535,
+    "cafes": []
+  },
+  "Butler": {
+    "city": "Butler",
+    "city_ascii": "Butler",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.262,
+    "lng": -97.7117,
+    "cafes": []
+  },
+  "New Holland": {
+    "city": "New Holland",
+    "city_ascii": "New Holland",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4288,
+    "lng": -98.6075,
+    "cafes": []
+  },
+  "Lantry": {
+    "city": "Lantry",
+    "city_ascii": "Lantry",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.0183,
+    "lng": -101.4328,
+    "cafes": []
+  },
+  "Ferney": {
+    "city": "Ferney",
+    "city_ascii": "Ferney",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3346,
+    "lng": -98.0939,
+    "cafes": []
+  },
+  "Lowry": {
+    "city": "Lowry",
+    "city_ascii": "Lowry",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3155,
+    "lng": -99.9812,
+    "cafes": []
+  },
+  "Hillsview": {
+    "city": "Hillsview",
+    "city_ascii": "Hillsview",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6642,
+    "lng": -99.5607,
+    "cafes": []
+  },
+  "Newport Colony": {
+    "city": "Newport Colony",
+    "city_ascii": "Newport Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.6791,
+    "lng": -97.9328,
+    "cafes": []
+  },
+  "Grass Ranch Colony": {
+    "city": "Grass Ranch Colony",
+    "city_ascii": "Grass Ranch Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.65,
+    "lng": -98.8836,
+    "cafes": []
+  },
+  "Lakeview Colony": {
+    "city": "Lakeview Colony",
+    "city_ascii": "Lakeview Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2202,
+    "lng": -98.4564,
+    "cafes": []
+  },
+  "Cedar Grove Colony": {
+    "city": "Cedar Grove Colony",
+    "city_ascii": "Cedar Grove Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5317,
+    "lng": -98.8045,
+    "cafes": []
+  },
+  "Platte Colony": {
+    "city": "Platte Colony",
+    "city_ascii": "Platte Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.4678,
+    "lng": -99.1261,
+    "cafes": []
+  },
+  "Hillcrest Colony": {
+    "city": "Hillcrest Colony",
+    "city_ascii": "Hillcrest Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.9425,
+    "lng": -97.6672,
+    "cafes": []
+  },
+  "Collins Colony": {
+    "city": "Collins Colony",
+    "city_ascii": "Collins Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5478,
+    "lng": -97.7013,
+    "cafes": []
+  },
+  "Hutterville Colony": {
+    "city": "Hutterville Colony",
+    "city_ascii": "Hutterville Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.2663,
+    "lng": -98.2115,
+    "cafes": []
+  },
+  "Provo": {
+    "city": "Provo",
+    "city_ascii": "Provo",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1937,
+    "lng": -103.8329,
+    "cafes": []
+  },
+  "Plainview Colony": {
+    "city": "Plainview Colony",
+    "city_ascii": "Plainview Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5808,
+    "lng": -99.0095,
+    "cafes": []
+  },
+  "Wolf Creek Colony": {
+    "city": "Wolf Creek Colony",
+    "city_ascii": "Wolf Creek Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.3527,
+    "lng": -97.6161,
+    "cafes": []
+  },
+  "Maxwell Colony": {
+    "city": "Maxwell Colony",
+    "city_ascii": "Maxwell Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.1825,
+    "lng": -97.6352,
+    "cafes": []
+  },
+  "Spring Valley Colony": {
+    "city": "Spring Valley Colony",
+    "city_ascii": "Spring Valley Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0395,
+    "lng": -98.8811,
+    "cafes": []
+  },
+  "White Rock Colony": {
+    "city": "White Rock Colony",
+    "city_ascii": "White Rock Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.9109,
+    "lng": -96.6311,
+    "cafes": []
+  },
+  "Roswell": {
+    "city": "Roswell",
+    "city_ascii": "Roswell",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.006,
+    "lng": -97.6975,
+    "cafes": []
+  },
+  "Pearl Creek Colony": {
+    "city": "Pearl Creek Colony",
+    "city_ascii": "Pearl Creek Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.326,
+    "lng": -97.9185,
+    "cafes": []
+  },
+  "Poinsett Colony": {
+    "city": "Poinsett Colony",
+    "city_ascii": "Poinsett Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.6414,
+    "lng": -96.9003,
+    "cafes": []
+  },
+  "Thunderbird Colony": {
+    "city": "Thunderbird Colony",
+    "city_ascii": "Thunderbird Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.1911,
+    "lng": -99.2675,
+    "cafes": []
+  },
+  "Blumengard Colony": {
+    "city": "Blumengard Colony",
+    "city_ascii": "Blumengard Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.2415,
+    "lng": -99.17,
+    "cafes": []
+  },
+  "Ardmore": {
+    "city": "Ardmore",
+    "city_ascii": "Ardmore",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.0192,
+    "lng": -103.6543,
+    "cafes": []
+  },
+  "Pembrook Colony": {
+    "city": "Pembrook Colony",
+    "city_ascii": "Pembrook Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.3728,
+    "lng": -98.994,
+    "cafes": []
+  },
+  "Norfeld Colony": {
+    "city": "Norfeld Colony",
+    "city_ascii": "Norfeld Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4233,
+    "lng": -96.5561,
+    "cafes": []
+  },
+  "Riverside Colony": {
+    "city": "Riverside Colony",
+    "city_ascii": "Riverside Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.4823,
+    "lng": -98.1366,
+    "cafes": []
+  },
+  "Bon Homme Colony": {
+    "city": "Bon Homme Colony",
+    "city_ascii": "Bon Homme Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 42.8649,
+    "lng": -97.7056,
+    "cafes": []
+  },
+  "Huron Colony": {
+    "city": "Huron Colony",
+    "city_ascii": "Huron Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.5634,
+    "lng": -98.2055,
+    "cafes": []
+  },
+  "Hillside Colony": {
+    "city": "Hillside Colony",
+    "city_ascii": "Hillside Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7382,
+    "lng": -98.0473,
+    "cafes": []
+  },
+  "Fordham Colony": {
+    "city": "Fordham Colony",
+    "city_ascii": "Fordham Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7678,
+    "lng": -97.9068,
+    "cafes": []
+  },
+  "Newdale Colony": {
+    "city": "Newdale Colony",
+    "city_ascii": "Newdale Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.29,
+    "lng": -96.5242,
+    "cafes": []
+  },
+  "Hamill": {
+    "city": "Hamill",
+    "city_ascii": "Hamill",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5939,
+    "lng": -99.6907,
+    "cafes": []
+  },
+  "Claremont Colony": {
+    "city": "Claremont Colony",
+    "city_ascii": "Claremont Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.7129,
+    "lng": -96.9512,
+    "cafes": []
+  },
+  "Cloverleaf Colony": {
+    "city": "Cloverleaf Colony",
+    "city_ascii": "Cloverleaf Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.184,
+    "lng": -97.5385,
+    "cafes": []
+  },
+  "Shannon Colony": {
+    "city": "Shannon Colony",
+    "city_ascii": "Shannon Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9826,
+    "lng": -97.4251,
+    "cafes": []
+  },
+  "Pleasant Valley Colony": {
+    "city": "Pleasant Valley Colony",
+    "city_ascii": "Pleasant Valley Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.0584,
+    "lng": -96.4706,
+    "cafes": []
+  },
+  "Upland Colony": {
+    "city": "Upland Colony",
+    "city_ascii": "Upland Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.8775,
+    "lng": -97.9763,
+    "cafes": []
+  },
+  "Graceville Colony": {
+    "city": "Graceville Colony",
+    "city_ascii": "Graceville Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.9289,
+    "lng": -97.284,
+    "cafes": []
+  },
+  "Westwood Colony": {
+    "city": "Westwood Colony",
+    "city_ascii": "Westwood Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.8929,
+    "lng": -97.7814,
+    "cafes": []
+  },
+  "Ola": {
+    "city": "Ola",
+    "city_ascii": "Ola",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.6005,
+    "lng": -99.2114,
+    "cafes": []
+  },
+  "Long Lake Colony": {
+    "city": "Long Lake Colony",
+    "city_ascii": "Long Lake Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.604,
+    "lng": -98.8253,
+    "cafes": []
+  },
+  "Bijou Hills": {
+    "city": "Bijou Hills",
+    "city_ascii": "Bijou Hills",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.5285,
+    "lng": -99.1439,
+    "cafes": []
+  },
+  "Rolland Colony": {
+    "city": "Rolland Colony",
+    "city_ascii": "Rolland Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.3437,
+    "lng": -96.5923,
+    "cafes": []
+  },
+  "Rosedale Colony": {
+    "city": "Rosedale Colony",
+    "city_ascii": "Rosedale Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.6267,
+    "lng": -97.8754,
+    "cafes": []
+  },
+  "Camrose Colony": {
+    "city": "Camrose Colony",
+    "city_ascii": "Camrose Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.9343,
+    "lng": -98.2202,
+    "cafes": []
+  },
+  "Greenwood Colony": {
+    "city": "Greenwood Colony",
+    "city_ascii": "Greenwood Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 43.2145,
+    "lng": -98.1536,
+    "cafes": []
+  },
+  "Deerfield Colony": {
+    "city": "Deerfield Colony",
+    "city_ascii": "Deerfield Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 45.5874,
+    "lng": -98.8995,
+    "cafes": []
+  },
+  "Silver Lake Colony": {
+    "city": "Silver Lake Colony",
+    "city_ascii": "Silver Lake Colony",
+    "state_id": "SD",
+    "state_name": "South Dakota",
+    "lat": 44.8657,
+    "lng": -97.6084,
+    "cafes": []
+  }
+}

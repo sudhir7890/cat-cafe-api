@@ -1,0 +1,700 @@
+{
+  "Newmarket": [
+    {
+      "name": "The Tipsy Tabby",
+      "address": "90 Main St, Newmarket, NH 03857, USA",
+      "rating": 4.3,
+      "user_ratings_total": 126,
+      "website": "http://thetipsytabby.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=14871164473144059717",
+      "lat": 43.079602099999995,
+      "lng": -70.9360908,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleRestroom": true
+      },
+      "reviews": [
+        {
+          "author": "Cathy Kramer",
+          "rating": 4,
+          "text": {
+            "text": "Went to see what Tipsy Tabby was about! Recommending reservations as the cat room can fill up quickly. The staff was friendly and luckily able to get us in. We stayed for a half hour taking in the sleeping Kitty's. A great concept to visit the cats and they are all available for adoption to find their forever homes. A great place to visit 🐈 and have a cup of coffee. Happy to support a business that helps the community. The staff is great as well!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Finley Mueller",
+          "rating": 5,
+          "text": {
+            "text": "It can get a little crowded, but otherwise a good experience! If you prefer a quieter space, try reserving during a time when there are fewer people. Many people don't seem to understand cats before coming here, and expect them to all be cuddly and looking for attention. With a time slot, you are guaranteeing time to be *nearby* some cats, not that they will like you. They are animals with individual backgrounds and personalities, not toys!",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Norina Clermont",
+          "rating": 5,
+          "text": {
+            "text": "This place is amazing, and the staff was so nice ... you pay to go sit with, pat, play with and enjoy the kitties and they do not pressure you into purchasing anything else (of course I did because I love supporting small businesses, but I was absolutely not pressured into it) .. I will definitely go back again, numerous times",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3xyZix0G7fEwquONbiOHfdasHn8-d3yO3VW1X-sKNQyhStZUI-qtGUd5BpEL5jk7LFT7dhZnInhOBi1QZZHO47R3cbK-Djt8H0ZOxQI9koxl4Oik9rQcywap5GVNrKpSYxZwW554J0x66cRhjcjkDISuheFLlDCHqM3NXlLJOtnQEZwSjRb-Rs1SOYxUckiMd-ulLkuLjK0MN5HTBpbAXIHz4XYI_KGI-aMztJHQaJwtPo6zXKatq33---ucOSsrYxhLnwz7w8yggyivkI6jX2-sluBXFD9nDbGN-gHXF75S3U06oy-DEduC8Cwc5fTeotkzALpQAPSuETvKahzjtR8oFumsvsKx06dmx47qoF7IhuVym5z_xaNrzcSjZNud9dEemH-G4LXguM7iFCfbw2A5vRNBE&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 42.9848,
+    "lng": -71.4447,
+    "cafes": [
+      {
+        "name": "Cat Alley",
+        "address": "844 Elm St, Manchester, NH 03101, USA",
+        "rating": 3.9,
+        "user_ratings_total": 12,
+        "website": "N/A",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=9536723822467994967",
+        "lat": 42.9901492,
+        "lng": -71.4632197,
+        "accessibility_options": "N/A",
+        "reviews": [
+          {
+            "author": "S D",
+            "rating": 3,
+            "text": {
+              "text": "Nice spot with okay food. Great customer service. Thank you Madison!\n\nIf they improve their baked goods it’ll make the overall experience an exceptional one.",
+              "languageCode": "en"
+            },
+            "time": "10 months ago"
+          },
+          {
+            "author": "bronwyn",
+            "rating": 2,
+            "text": {
+              "text": "benefits greatly from being inside the bookery (which is adorable) but i had to ask a bookery employee to get a barista because no one was at the counter for like 7+ minutes. the coffee was good, but not $7 for a small iced latte good.",
+              "languageCode": "en"
+            },
+            "time": "11 months ago"
+          },
+          {
+            "author": "Lexi Stiller",
+            "rating": 2,
+            "text": {
+              "text": "The Cat Alley Cafe was always one of my favorite cafes, but lately the staff has been rude and the quality of the drinks has gone down quite significantly. I used to go every week but have honestly stopped going because every time I go the staff is mean and the coffee is really not good. There needs to be some kind of standard on how the drinks are made because they're made differently every time and the coffee is way too expensive to be this bad every time.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2UN5Ojsr4KvgOnS-7tNJD9-u56pNRJ-xPQ-6IHvECgHc0kdTVH3bdZrDUCA4po_gZjSnWztmjj9y0up0snqH1R4305q9Qdx8GPsftJ0xp8aDCtHXrRibJN5KqkHuad7Ma6fYxAYx6b7ZMe-Xct81saZy8Y5jZto7dQ8LJ3tXcygsGJLMlIEAf9ADS7VoUXdgJJpt9gurTYvtCAWjhSUb85fcvIx1wcQRKXIVedZsWkDTRsXoObsGQU1K56F9EqwaiPAPfi8-iThpWvP5iYDAipj2tany60-kfOpnVnGFV_FqA7fbrrh9CQz64nAE7ppLA1zASOmF3JTzBET1miUcW67VlZp6Jpa9V_RonsmHAF3A0KFYbQdGcuJP5hNYlhOtZ_Cfmhud5c4BSkW4IEpcNMLcHuTNM&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Lowell": [
+    {
+      "name": "Lazy Cat Lounge, Lowell, MA",
+      "address": "177 Merrimack St, Lowell, MA 01852, USA",
+      "rating": 5,
+      "user_ratings_total": 6,
+      "website": "https://www.lazycatloungelowell.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=16078192454942387801",
+      "lat": 42.6459063,
+      "lng": -71.31079679999999,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Paul Huot",
+          "rating": 5,
+          "text": {
+            "text": "Very cool place. Hope they continue to grow. Working with Lowell Humane to get more cats adopted is an amazing goal and to interact more with people is a great mission. Congratulations on the opening!\n\n- Childless Cat Man",
+            "languageCode": "en"
+          },
+          "time": "in the last week"
+        },
+        {
+          "author": "jennifer g",
+          "rating": 5,
+          "text": {
+            "text": "Such a cozy spot. You can tell theis was a labor of love. The cats are so friendly, and if you should fall in love, they are adoptable! The coffee is DELICIOUS, and reasonably priced. I highly recommend.\nI will be returning again and again 😄",
+            "languageCode": "en"
+          },
+          "time": "in the last week"
+        },
+        {
+          "author": "Melinda Yobaccio",
+          "rating": 5,
+          "text": {
+            "text": "The cat room is so cozy and relaxing. The cats were all so friendly. The coffee is great and reasonably priced. They even have a retail area with some great items all cat related. Highly recommend it.",
+            "languageCode": "en"
+          },
+          "time": "in the last week"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0K2My0DatEzyT0d6Ns3ncZVC9rQYFOQ03ijbOH0VfyFnlE42gMwSpZIbq90iiPpWztI1wslZCyG8lfdAOUdLITUBryRhY8aUWKFKXuUtvL6_Lvb_l533wV5LnXGZxg-cxm11yJgs2nA0iwExrJtA2MWWtCqqgRJnvOvDaWoVFnE9vXW4CMi473etNd9rfEmiH_tTeAHQdfqdyOjaBtEry5I2nkrjEt2uFkesrdxkZQdt5wiXMV9Flr_3wPgQ9QKFgy5Cp8IohKbBQrjNmLK2kZ3takDZeDoAbRHEMZV0GnzQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Peabody": [
+    {
+      "name": "Kitty Cat Cafe and Adoption Lounge Inc",
+      "address": "108 Newbury St Unit C, Peabody, MA 01960, USA",
+      "rating": 4.9,
+      "user_ratings_total": 222,
+      "website": "http://www.kittycatcafema.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=17258462791414579043",
+      "lat": 42.5329699,
+      "lng": -70.9916904,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      },
+      "reviews": [
+        {
+          "author": "Meret London-MacFadyen",
+          "rating": 5,
+          "text": {
+            "text": "I went here for my birthday and I had a fantastic experience! They had 11 cats, and plenty of space. You can tell they are really passionate about caring for their cats. I loved meeting every single one and they gave us treats to give out! I will be happy to return since I know the cats are ever changing since they get adopted!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Britney Miranda",
+          "rating": 5,
+          "text": {
+            "text": "Cannot stress enough how much I loved my experience here! From the moment I walked in, I felt a sense of warmth and coziness. The atmosphere is perfect for unwinding, getting work done, comfy seating for talking and, of course, the sweetest feline companions. Uri made this experience above and beyond for both my brother and myself. The entire staff are friendly and attentive, making sure both the guests and the cats are comfortable. It’s clear they genuinely care about the well-being of these adorable fur babies. Whether you’re a cat lover or just looking for a peaceful spot to relax, this is a little slice of heaven. Can’t wait to visit again!",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Erica DeBole",
+          "rating": 5,
+          "text": {
+            "text": "Me and my boyfriend went there to go look at cats today! It was so much fun, we got to pet play and interact with every cat from the goofiest to the shyest that are just warming up! There are many cats with a different personality’s, ages and backgrounds! We are now trying to adopt a baby we seen there today!\n\nBest experience with great owner who knew so much about all the cats and their needs! Some great highlights to add is you get to walk with the cats that like to be in backpacks and bring them outside. Plus everything there you buy goes straight to the cats and taking care of them. Uri truly cares for all the cats and kittens no matter age, condition, or where they came from. He is patient, soft spoken, and treats them with all the love and respect they deserve. He cleans before and after every visit to keep the cats and visitors safe! And makes sure cats are handled well and known!",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0ucx2ubCnKisckD26QYKCvHdDeQCwMR7Uog5vbwtwrzkAguFLYoetbOtvozpTsHjxYQYHmHHHm1MWxy7fn4DwTJRtdkSROjQWQndQUgdOqHo4h-O49O7T9TVoS15mNrmeCIpiUbTG1fq8jNSeSqLniMoh2N2fCdR_awSzTEwsc3W5__aU0XrPFGmEo5kZN_cPmlYoNOjihLQW3fGZlF0SqN7ZSEuQXXmV0K43yQAUe0sNMifK5DMktb0WhxRepogi6s3NshQ8poK8I-cjp0tok61sV-EXxG8y9UsvB_V6bVnET_9r8NrycxvQoghgVvSwHduYMvvBO3mh1HTFQWqarJUaA8T_ANP-ZeyQIztZjsJ4NSzHsDaxo6AUJQRsRAje_5lqtdcys34UZHSRHP5-6Vo3O_9A_&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Barre": [
+    {
+      "name": "Kitty Korner Cafe",
+      "address": "214 N Main St #1, Barre, VT 05641, USA",
+      "rating": 4.2,
+      "user_ratings_total": 166,
+      "website": "http://www.kittykornercafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=3714481596309016513",
+      "lat": 44.1990942,
+      "lng": -72.5040198,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Anni J",
+          "rating": 5,
+          "text": {
+            "text": "I’ve been there twice now and absolutely love it. I’m from Estonia and got to visit it for the first time last year with my boyfriend and we just had to return! Cats are adorable as ever, the staff is very nice and drinks are great. I highly recommend to visit this cute little cafe and hang out with the cats there ❤️.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Pamela Champagne",
+          "rating": 3,
+          "text": {
+            "text": "This place is so cute! But...I  think there might be a missed opportunity,  or something.  I got pastries and lattes around mid day and the pastries did not seem fresh,  I couldn't eat all my donut even after I dipped it in the latte. The latte was tasty, but could have been hotter and my cup was about half full. I am a total cat lady but, with the competition just 2 doors down, locally made pastries and a hotter coffee would make this place my' go to' . I'll give this place another try because of the cats, they are awesome ♡♡",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        },
+        {
+          "author": "Gabriella O’Driscoll",
+          "rating": 5,
+          "text": {
+            "text": "I recommend making reservations in advance to avoid a wait. The reservations are in 30 minute intervals so you’ll have to go at 00 or 00:30. This was the cutest cafe I’ve ever been to. The cats are separated from the cafe which I like so you can eat before or after seeing the cats. The cats are friendly and good around kids.",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0oIaLOYR9qmeQvOjr2qPQnbwlODOx8wIFmvucW8R4np0_QF0U4xgt8DYVvQa_8Xn_7J0R3qQFS9ZeftiXerpNeBb6JjRZMBOGmhIOCbkuOoJAfc-uEUWQeIcW_tu32Z0UsTqLQPNmgYmwXXzFY38BXlo1UxaUwdYYmWTzaHbsjC86zrPQXJMetiHD9_o8STGRxZsE_gHINcSxfsIYgixdL-vMmji6MlbB6ZsO8y2Olr8KvbAwmYix2jBD95UqOSChU8xDvwo-O8Xd3EeGCFQHVI6j9oPHRrLZo2STCLnQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "New Haven": [
+    {
+      "name": "Mew Haven Cat Cafe",
+      "address": "904 Whalley Ave, New Haven, CT 06515, USA",
+      "rating": 4.8,
+      "user_ratings_total": 1436,
+      "website": "https://mewhavencatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=8099127131922963035",
+      "lat": 41.3271622,
+      "lng": -72.9604342,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true
+      },
+      "reviews": [
+        {
+          "author": "Maria E. Tapia-Paez",
+          "rating": 5,
+          "text": {
+            "text": "We visited Mew Heaven Cat Cafe on Sunday, and it was such a delightful experience! Booking our tickets ahead of time online was super easy and convenient. Once we arrived, we enjoyed some delicious coffee and tea while spending time with the adorable cats. The space is cozy, and the staff, especially Angela, the owner, was super friendly and welcoming. She really made our visit even more special. It’s the perfect place to relax and enjoy some time with furry friends. We had a great time and will definitely be back! Highly recommend for any cat lover!",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Jack VK",
+          "rating": 5,
+          "text": {
+            "text": "This was such an amazing experience! The staff was so friendly. The gift shop prices were amazing! They also have a sheet on how each cat acts. A cat climbed up on my lap for around 30-40 minutes. It is such a beautiful and simple experience. I recommend that everyone goes here at least once. My only complaints are  that it's is only around 1 hour! Lol! I would spend all day here if I was able to! Also, It was around 30 minutes away! I wish there were so many more of these across the world!!!!! Overall, this was one of the best experiences of my life! If it is so relaxing and so enjoyable. I really hope to go back again soon!!!!!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Diamanto Antonellis",
+          "rating": 5,
+          "text": {
+            "text": "This place is amazing! My granddaughter loved loved to pet the cats and she had a great time. I had a good relaxing time as well! I had cats as long as I can remember my self, so seeing all these babies today it was an amazing experience!! We will definitely visit you again.",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1MsYueOam6wqixMVAKr900ow2sfmMqZZwUZmvUgXjEnJ1HMFvheFzNDMXJ7oS7iiSH0biJ6v_UkUNHut9h0MPm01T-1OUwbJJjVwOUwocBL7HJnsFMaFEyUSGZqq0ZQXYqVh8RvBgKf-F8yRAF9lK5JLHbeGw3sepMjPn3pwfZA5ak_OHf7_lwGq-UbbQo---sCEERJ0Z_lxNMzZuogc_WPyBIx2Mk7Bf49wTJI-SM7dyt4zOwd5R9qSReC9zXpoa7xG0FIaBZ4m7NUOLcB0P5uZmSmt__y_H9CltNo9HgMy95pcHl86s4Q6pT2ZaUhfm6m-oEj8fEv8Db0Jkjg2TXZHt-ahWy1uNl2dCxsUv7X_FeWLOmlgPZdipfa-EIbfj7d3_tWE1vYu7dv7PpuV120kXsuZJyiQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Bristol": [
+    {
+      "name": "Big Cat Coffees",
+      "address": "545 Pleasant St, Bristol, NH 03222, USA",
+      "rating": 4.6,
+      "user_ratings_total": 50,
+      "website": "https://www.bigcatcoffees.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=10821176113183105802",
+      "lat": 43.5826463,
+      "lng": -71.7508189,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      },
+      "reviews": [
+        {
+          "author": "Connie Warren",
+          "rating": 5,
+          "text": {
+            "text": "I ordered a variety of coffee kcups online and loved the different selections that were available. The order arrived promptly and it was well-packaged. They even included some free coffee samples and a candy treat! The company obviously believes in doing a bit extra for their customers and I will definitely do business with them again.",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Elizabeth DiMaio",
+          "rating": 5,
+          "text": {
+            "text": "We have been ordering from Big Cat Coffees for many years.  Their customer service team is very helpful and professional.  The variety of coffee, teas, etc. that Big Cat offers helps us to always find what we want and gives us ideas of new products to try.  The convenience of ordering online and having it shipped to the house is an added bonus.  We just wish the shipping charges were not so high.  We often order small quantities and sometimes are shipping cost is higher than our product cost.",
+            "languageCode": "en"
+          },
+          "time": "a year ago"
+        },
+        {
+          "author": "Marla Holland",
+          "rating": 5,
+          "text": {
+            "text": "Have been ordering from Big Cat Coffee since I got my Kuerig many years ago. The selection is fabulous, the prices comparable and the free delivery for orders over $100 is very fast. Love the blue cat special sales, great prices on expired or close to expired products. How bad can it be in a sealed pod, right? It’s not bad at all, in fact you can’t tell the difference. They deserve all the stars and I love purchasing from a (I assume) small business. All the stars!",
+            "languageCode": "en"
+          },
+          "time": "a year ago"
+        }
+      ],
+      "photoUri": "https://maps.google.com/?cid=10821176113183105802&output=embed"
+    }
+  ],
+  "Nashua": {
+    "city": "Nashua",
+    "city_ascii": "Nashua",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 42.7491,
+    "lng": -71.491,
+    "cafes": []
+  },
+  "Portsmouth": {
+    "city": "Portsmouth",
+    "city_ascii": "Portsmouth",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.058,
+    "lng": -70.7826,
+    "cafes": []
+  },
+  "Dover": {
+    "city": "Dover",
+    "city_ascii": "Dover",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.1887,
+    "lng": -70.8845,
+    "cafes": []
+  },
+  "Concord": {
+    "city": "Concord",
+    "city_ascii": "Concord",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.2305,
+    "lng": -71.5595,
+    "cafes": []
+  },
+  "Rochester": {
+    "city": "Rochester",
+    "city_ascii": "Rochester",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.299,
+    "lng": -70.9787,
+    "cafes": []
+  },
+  "Keene": {
+    "city": "Keene",
+    "city_ascii": "Keene",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 42.9494,
+    "lng": -72.2998,
+    "cafes": []
+  },
+  "Laconia": {
+    "city": "Laconia",
+    "city_ascii": "Laconia",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.5725,
+    "lng": -71.4775,
+    "cafes": []
+  },
+  "Lebanon": {
+    "city": "Lebanon",
+    "city_ascii": "Lebanon",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.6353,
+    "lng": -72.2531,
+    "cafes": []
+  },
+  "Claremont": {
+    "city": "Claremont",
+    "city_ascii": "Claremont",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.379,
+    "lng": -72.3368,
+    "cafes": []
+  },
+  "Somersworth": {
+    "city": "Somersworth",
+    "city_ascii": "Somersworth",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.2534,
+    "lng": -70.8856,
+    "cafes": []
+  },
+  "Berlin": {
+    "city": "Berlin",
+    "city_ascii": "Berlin",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 44.4869,
+    "lng": -71.2599,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.4499,
+    "lng": -71.6691,
+    "cafes": []
+  },
+  "South Hooksett": {
+    "city": "South Hooksett",
+    "city_ascii": "South Hooksett",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.0331,
+    "lng": -71.4254,
+    "cafes": []
+  },
+  "Suncook": {
+    "city": "Suncook",
+    "city_ascii": "Suncook",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.1382,
+    "lng": -71.453,
+    "cafes": []
+  },
+  "East Merrimack": {
+    "city": "East Merrimack",
+    "city_ascii": "East Merrimack",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 42.8692,
+    "lng": -71.4819,
+    "cafes": []
+  },
+  "Pinardville": {
+    "city": "Pinardville",
+    "city_ascii": "Pinardville",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.001,
+    "lng": -71.5171,
+    "cafes": []
+  },
+  "Tilton Northfield": {
+    "city": "Tilton Northfield",
+    "city_ascii": "Tilton Northfield",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.4444,
+    "lng": -71.5924,
+    "cafes": []
+  },
+  "Hampton Beach": {
+    "city": "Hampton Beach",
+    "city_ascii": "Hampton Beach",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 42.914,
+    "lng": -70.8127,
+    "cafes": []
+  },
+  "North Conway": {
+    "city": "North Conway",
+    "city_ascii": "North Conway",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 44.0415,
+    "lng": -71.1224,
+    "cafes": []
+  },
+  "Woodsville": {
+    "city": "Woodsville",
+    "city_ascii": "Woodsville",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 44.1423,
+    "lng": -72.0256,
+    "cafes": []
+  },
+  "Contoocook": {
+    "city": "Contoocook",
+    "city_ascii": "Contoocook",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.2232,
+    "lng": -71.7129,
+    "cafes": []
+  },
+  "West Swanzey": {
+    "city": "West Swanzey",
+    "city_ascii": "West Swanzey",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 42.8707,
+    "lng": -72.3225,
+    "cafes": []
+  },
+  "Sanbornville": {
+    "city": "Sanbornville",
+    "city_ascii": "Sanbornville",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.5525,
+    "lng": -71.0297,
+    "cafes": []
+  },
+  "Seabrook Beach": {
+    "city": "Seabrook Beach",
+    "city_ascii": "Seabrook Beach",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 42.885,
+    "lng": -70.8234,
+    "cafes": []
+  },
+  "Groveton": {
+    "city": "Groveton",
+    "city_ascii": "Groveton",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 44.6048,
+    "lng": -71.5201,
+    "cafes": []
+  },
+  "Klondike Corner": {
+    "city": "Klondike Corner",
+    "city_ascii": "Klondike Corner",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 42.964,
+    "lng": -71.6389,
+    "cafes": []
+  },
+  "North Haverhill": {
+    "city": "North Haverhill",
+    "city_ascii": "North Haverhill",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 44.0915,
+    "lng": -72.0236,
+    "cafes": []
+  },
+  "North Walpole": {
+    "city": "North Walpole",
+    "city_ascii": "North Walpole",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.1467,
+    "lng": -72.4458,
+    "cafes": []
+  },
+  "North Woodstock": {
+    "city": "North Woodstock",
+    "city_ascii": "North Woodstock",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 44.0364,
+    "lng": -71.6968,
+    "cafes": []
+  },
+  "Center Ossipee": {
+    "city": "Center Ossipee",
+    "city_ascii": "Center Ossipee",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.7542,
+    "lng": -71.1508,
+    "cafes": []
+  },
+  "Mountain Lakes": {
+    "city": "Mountain Lakes",
+    "city_ascii": "Mountain Lakes",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 44.1205,
+    "lng": -71.958,
+    "cafes": []
+  },
+  "West Stewartstown": {
+    "city": "West Stewartstown",
+    "city_ascii": "West Stewartstown",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 44.9907,
+    "lng": -71.5311,
+    "cafes": []
+  },
+  "Union": {
+    "city": "Union",
+    "city_ascii": "Union",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.4912,
+    "lng": -71.0231,
+    "cafes": []
+  },
+  "Melvin Village": {
+    "city": "Melvin Village",
+    "city_ascii": "Melvin Village",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.6896,
+    "lng": -71.3064,
+    "cafes": []
+  },
+  "Suissevale": {
+    "city": "Suissevale",
+    "city_ascii": "Suissevale",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.7234,
+    "lng": -71.3623,
+    "cafes": []
+  },
+  "New Boston": {
+    "city": "New Boston",
+    "city_ascii": "New Boston",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 42.9781,
+    "lng": -71.6937,
+    "cafes": []
+  },
+  "Francestown": {
+    "city": "Francestown",
+    "city_ascii": "Francestown",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 42.9895,
+    "lng": -71.8141,
+    "cafes": []
+  },
+  "Center Sandwich": {
+    "city": "Center Sandwich",
+    "city_ascii": "Center Sandwich",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.8085,
+    "lng": -71.4394,
+    "cafes": []
+  },
+  "Milton Mills": {
+    "city": "Milton Mills",
+    "city_ascii": "Milton Mills",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.5037,
+    "lng": -70.9654,
+    "cafes": []
+  },
+  "Blodgett Landing": {
+    "city": "Blodgett Landing",
+    "city_ascii": "Blodgett Landing",
+    "state_id": "NH",
+    "state_name": "New Hampshire",
+    "lat": 43.3757,
+    "lng": -72.0392,
+    "cafes": []
+  }
+}

@@ -1,0 +1,2175 @@
+{
+  "Spokane": [
+    {
+      "name": "Kitty Cantina",
+      "address": "6704 N Nevada St #1, Spokane, WA 99208, USA",
+      "rating": 4.8,
+      "user_ratings_total": 495,
+      "website": "http://kittycantina.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=2948444536386501741",
+      "lat": 47.7188606,
+      "lng": -117.39477529999999,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Sara Andersen",
+          "rating": 5,
+          "text": {
+            "text": "I drove by the Kitty Cantina and decided to stop in on a whim. I’m so glad I did! The staff are so welcoming. The environment is really positive and upbeat and all the cats are super sweet and fun.\n\nI ordered an iced Matcha latte with oat milk, and made a walk-in appointment to spend time with the cats. They had a half hour and an hour option. a drink and a half hour cost about $13- well worth it in my opinion and I heard a couple other people mentioned it was the best money they spent all week!\n\nSome cats snoozed other cats liked to play and they were plenty of kitties to go around! in my session, there were four other people in the room and there were about 15 cats.\n\nHighly recommend a visit if you’re looking for some tasty food and time with some sweet cats!",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Stephanie Milliette",
+          "rating": 5,
+          "text": {
+            "text": "The food here is so good! Very creative names of the food and it tastes just amazing. My son and I love to come here for a bagel or to get some lunch, it's always a treat. Drinks are good too and you can't beat being able to watch some adorable kittens run around while you enjoy your fare.",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Soreya Leonard",
+          "rating": 5,
+          "text": {
+            "text": "Out of all the cat cafes i’ve been to this is one of the only ones that actually has good coffee and good food. The coffee is better than some local shops around town! The staff is very nice and well knowledgeable, and of course the kitties are insanely cute. everything is very reasonably priced too!",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1b7kSIX2pT5aVL18kh4sg2hhhUMIvS_WNHefTJLwHUCDUfn6TGugLpwYLd0YtnqwaIgQc9DcFMvOnlfbl5b1SmjvIcKXpQvrSN_03fv5iKJRqsCrzjyIbBBHgyPC4Rphq03F37GpkXkwrhCsXLQ5qFl2VGbIIt1jCZ5ZQBcfY-a80oJTcLkf2fsLrwLNOe4m247UtdiqLkKxi-5yRehr-5xVzqdkdyGCwxxDrUZuFJ49ZngcckGEK7IiJj4dimCGT9qz5K77811thUSaIj0q9Q23Mm8sXyj1pxZS6rF8j3_gZ1U3Na1iLwauS_2BfqVEHCzkmYMe8L0mJQNMQ8m70RqFY7wi6GhNYddasC_jZm5Q_Hin7rj4JwMqNF2Bn7pc1n9bdzCEj_JW4DYk6JqP_DwRUhuA0ehyN5&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Boise": {
+    "city": "Boise",
+    "city_ascii": "Boise",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6005,
+    "lng": -116.2308,
+    "cafes": []
+  },
+  "Nampa": {
+    "city": "Nampa",
+    "city_ascii": "Nampa",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.5844,
+    "lng": -116.5638,
+    "cafes": []
+  },
+  "Coeur d'Alene": {
+    "city": "Coeur d'Alene",
+    "city_ascii": "Coeur d'Alene",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.704,
+    "lng": -116.7936,
+    "cafes": []
+  },
+  "Meridian": {
+    "city": "Meridian",
+    "city_ascii": "Meridian",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6116,
+    "lng": -116.3977,
+    "cafes": []
+  },
+  "Idaho Falls": {
+    "city": "Idaho Falls",
+    "city_ascii": "Idaho Falls",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.4871,
+    "lng": -112.0362,
+    "cafes": []
+  },
+  "Pocatello": {
+    "city": "Pocatello",
+    "city_ascii": "Pocatello",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.8724,
+    "lng": -112.4647,
+    "cafes": []
+  },
+  "Caldwell": {
+    "city": "Caldwell",
+    "city_ascii": "Caldwell",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6453,
+    "lng": -116.6594,
+    "cafes": []
+  },
+  "Twin Falls": {
+    "city": "Twin Falls",
+    "city_ascii": "Twin Falls",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5645,
+    "lng": -114.4613,
+    "cafes": []
+  },
+  "Post Falls": {
+    "city": "Post Falls",
+    "city_ascii": "Post Falls",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.7213,
+    "lng": -116.9384,
+    "cafes": []
+  },
+  "Rexburg": {
+    "city": "Rexburg",
+    "city_ascii": "Rexburg",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.8226,
+    "lng": -111.7919,
+    "cafes": []
+  },
+  "Lewiston": {
+    "city": "Lewiston",
+    "city_ascii": "Lewiston",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.3934,
+    "lng": -116.9933,
+    "cafes": []
+  },
+  "Eagle": {
+    "city": "Eagle",
+    "city_ascii": "Eagle",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7223,
+    "lng": -116.3866,
+    "cafes": []
+  },
+  "Kuna": {
+    "city": "Kuna",
+    "city_ascii": "Kuna",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.488,
+    "lng": -116.3933,
+    "cafes": []
+  },
+  "Moscow": {
+    "city": "Moscow",
+    "city_ascii": "Moscow",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.7308,
+    "lng": -116.9986,
+    "cafes": []
+  },
+  "Ammon": {
+    "city": "Ammon",
+    "city_ascii": "Ammon",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.4745,
+    "lng": -111.9568,
+    "cafes": []
+  },
+  "Mountain Home": {
+    "city": "Mountain Home",
+    "city_ascii": "Mountain Home",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.1324,
+    "lng": -115.697,
+    "cafes": []
+  },
+  "Hayden": {
+    "city": "Hayden",
+    "city_ascii": "Hayden",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.768,
+    "lng": -116.804,
+    "cafes": []
+  },
+  "Chubbuck": {
+    "city": "Chubbuck",
+    "city_ascii": "Chubbuck",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.9263,
+    "lng": -112.4623,
+    "cafes": []
+  },
+  "Star": {
+    "city": "Star",
+    "city_ascii": "Star",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7026,
+    "lng": -116.4914,
+    "cafes": []
+  },
+  "Jerome": {
+    "city": "Jerome",
+    "city_ascii": "Jerome",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.7179,
+    "lng": -114.5159,
+    "cafes": []
+  },
+  "Blackfoot": {
+    "city": "Blackfoot",
+    "city_ascii": "Blackfoot",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.194,
+    "lng": -112.3454,
+    "cafes": []
+  },
+  "Garden City": {
+    "city": "Garden City",
+    "city_ascii": "Garden City",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6526,
+    "lng": -116.2743,
+    "cafes": []
+  },
+  "Burley": {
+    "city": "Burley",
+    "city_ascii": "Burley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5379,
+    "lng": -113.7926,
+    "cafes": []
+  },
+  "Rathdrum": {
+    "city": "Rathdrum",
+    "city_ascii": "Rathdrum",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.7948,
+    "lng": -116.8944,
+    "cafes": []
+  },
+  "Middleton": {
+    "city": "Middleton",
+    "city_ascii": "Middleton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7113,
+    "lng": -116.6157,
+    "cafes": []
+  },
+  "Hailey": {
+    "city": "Hailey",
+    "city_ascii": "Hailey",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.5141,
+    "lng": -114.3001,
+    "cafes": []
+  },
+  "Sandpoint": {
+    "city": "Sandpoint",
+    "city_ascii": "Sandpoint",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.2822,
+    "lng": -116.5614,
+    "cafes": []
+  },
+  "Payette": {
+    "city": "Payette",
+    "city_ascii": "Payette",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.0788,
+    "lng": -116.9255,
+    "cafes": []
+  },
+  "Emmett": {
+    "city": "Emmett",
+    "city_ascii": "Emmett",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.8693,
+    "lng": -116.4916,
+    "cafes": []
+  },
+  "Fruitland": {
+    "city": "Fruitland",
+    "city_ascii": "Fruitland",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.0197,
+    "lng": -116.922,
+    "cafes": []
+  },
+  "Rupert": {
+    "city": "Rupert",
+    "city_ascii": "Rupert",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.6189,
+    "lng": -113.674,
+    "cafes": []
+  },
+  "Weiser": {
+    "city": "Weiser",
+    "city_ascii": "Weiser",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.2547,
+    "lng": -116.9689,
+    "cafes": []
+  },
+  "Preston": {
+    "city": "Preston",
+    "city_ascii": "Preston",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.0989,
+    "lng": -111.8802,
+    "cafes": []
+  },
+  "Rigby": {
+    "city": "Rigby",
+    "city_ascii": "Rigby",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6734,
+    "lng": -111.9132,
+    "cafes": []
+  },
+  "Shelley": {
+    "city": "Shelley",
+    "city_ascii": "Shelley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.3795,
+    "lng": -112.1261,
+    "cafes": []
+  },
+  "Kimberly": {
+    "city": "Kimberly",
+    "city_ascii": "Kimberly",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5342,
+    "lng": -114.3699,
+    "cafes": []
+  },
+  "American Falls": {
+    "city": "American Falls",
+    "city_ascii": "American Falls",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.7828,
+    "lng": -112.8541,
+    "cafes": []
+  },
+  "Buhl": {
+    "city": "Buhl",
+    "city_ascii": "Buhl",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5984,
+    "lng": -114.7596,
+    "cafes": []
+  },
+  "McCall": {
+    "city": "McCall",
+    "city_ascii": "McCall",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.9076,
+    "lng": -116.1124,
+    "cafes": []
+  },
+  "St. Anthony": {
+    "city": "St. Anthony",
+    "city_ascii": "St. Anthony",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.9648,
+    "lng": -111.6841,
+    "cafes": []
+  },
+  "Lincoln": {
+    "city": "Lincoln",
+    "city_ascii": "Lincoln",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.5183,
+    "lng": -111.9692,
+    "cafes": []
+  },
+  "Gooding": {
+    "city": "Gooding",
+    "city_ascii": "Gooding",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.9373,
+    "lng": -114.7134,
+    "cafes": []
+  },
+  "Heyburn": {
+    "city": "Heyburn",
+    "city_ascii": "Heyburn",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5599,
+    "lng": -113.7624,
+    "cafes": []
+  },
+  "Ketchum": {
+    "city": "Ketchum",
+    "city_ascii": "Ketchum",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6867,
+    "lng": -114.373,
+    "cafes": []
+  },
+  "Hidden Springs": {
+    "city": "Hidden Springs",
+    "city_ascii": "Hidden Springs",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7201,
+    "lng": -116.2508,
+    "cafes": []
+  },
+  "Grangeville": {
+    "city": "Grangeville",
+    "city_ascii": "Grangeville",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 45.926,
+    "lng": -116.1224,
+    "cafes": []
+  },
+  "Orofino": {
+    "city": "Orofino",
+    "city_ascii": "Orofino",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.4866,
+    "lng": -116.2572,
+    "cafes": []
+  },
+  "Mountain Home AFB": {
+    "city": "Mountain Home AFB",
+    "city_ascii": "Mountain Home AFB",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.0496,
+    "lng": -115.8655,
+    "cafes": []
+  },
+  "Salmon": {
+    "city": "Salmon",
+    "city_ascii": "Salmon",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 45.1743,
+    "lng": -113.8947,
+    "cafes": []
+  },
+  "Soda Springs": {
+    "city": "Soda Springs",
+    "city_ascii": "Soda Springs",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.659,
+    "lng": -111.5878,
+    "cafes": []
+  },
+  "St. Maries": {
+    "city": "St. Maries",
+    "city_ascii": "St. Maries",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.3146,
+    "lng": -116.5723,
+    "cafes": []
+  },
+  "Victor": {
+    "city": "Victor",
+    "city_ascii": "Victor",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6014,
+    "lng": -111.1108,
+    "cafes": []
+  },
+  "Homedale": {
+    "city": "Homedale",
+    "city_ascii": "Homedale",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6154,
+    "lng": -116.9379,
+    "cafes": []
+  },
+  "Wendell": {
+    "city": "Wendell",
+    "city_ascii": "Wendell",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.7745,
+    "lng": -114.7026,
+    "cafes": []
+  },
+  "Iona": {
+    "city": "Iona",
+    "city_ascii": "Iona",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.5271,
+    "lng": -111.931,
+    "cafes": []
+  },
+  "Filer": {
+    "city": "Filer",
+    "city_ascii": "Filer",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5679,
+    "lng": -114.6115,
+    "cafes": []
+  },
+  "Montpelier": {
+    "city": "Montpelier",
+    "city_ascii": "Montpelier",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.326,
+    "lng": -111.2988,
+    "cafes": []
+  },
+  "Driggs": {
+    "city": "Driggs",
+    "city_ascii": "Driggs",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7299,
+    "lng": -111.1043,
+    "cafes": []
+  },
+  "Bonners Ferry": {
+    "city": "Bonners Ferry",
+    "city_ascii": "Bonners Ferry",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.6928,
+    "lng": -116.3184,
+    "cafes": []
+  },
+  "Bellevue": {
+    "city": "Bellevue",
+    "city_ascii": "Bellevue",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.4684,
+    "lng": -114.2551,
+    "cafes": []
+  },
+  "Dalton Gardens": {
+    "city": "Dalton Gardens",
+    "city_ascii": "Dalton Gardens",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.7329,
+    "lng": -116.7696,
+    "cafes": []
+  },
+  "Malad City": {
+    "city": "Malad City",
+    "city_ascii": "Malad City",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.1899,
+    "lng": -112.2497,
+    "cafes": []
+  },
+  "Aberdeen": {
+    "city": "Aberdeen",
+    "city_ascii": "Aberdeen",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.9441,
+    "lng": -112.8384,
+    "cafes": []
+  },
+  "Fort Hall": {
+    "city": "Fort Hall",
+    "city_ascii": "Fort Hall",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.0144,
+    "lng": -112.4572,
+    "cafes": []
+  },
+  "Kellogg": {
+    "city": "Kellogg",
+    "city_ascii": "Kellogg",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.5371,
+    "lng": -116.142,
+    "cafes": []
+  },
+  "Priest River": {
+    "city": "Priest River",
+    "city_ascii": "Priest River",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.1782,
+    "lng": -116.8838,
+    "cafes": []
+  },
+  "Pinehurst": {
+    "city": "Pinehurst",
+    "city_ascii": "Pinehurst",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.5364,
+    "lng": -116.2327,
+    "cafes": []
+  },
+  "Sugar City": {
+    "city": "Sugar City",
+    "city_ascii": "Sugar City",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.8762,
+    "lng": -111.751,
+    "cafes": []
+  },
+  "Shoshone": {
+    "city": "Shoshone",
+    "city_ascii": "Shoshone",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.9369,
+    "lng": -114.4055,
+    "cafes": []
+  },
+  "New Plymouth": {
+    "city": "New Plymouth",
+    "city_ascii": "New Plymouth",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.9705,
+    "lng": -116.8189,
+    "cafes": []
+  },
+  "Parma": {
+    "city": "Parma",
+    "city_ascii": "Parma",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7864,
+    "lng": -116.9429,
+    "cafes": []
+  },
+  "Spirit Lake": {
+    "city": "Spirit Lake",
+    "city_ascii": "Spirit Lake",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.9658,
+    "lng": -116.8699,
+    "cafes": []
+  },
+  "Osburn": {
+    "city": "Osburn",
+    "city_ascii": "Osburn",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.5055,
+    "lng": -116.0008,
+    "cafes": []
+  },
+  "Wilder": {
+    "city": "Wilder",
+    "city_ascii": "Wilder",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6782,
+    "lng": -116.907,
+    "cafes": []
+  },
+  "Paul": {
+    "city": "Paul",
+    "city_ascii": "Paul",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.6052,
+    "lng": -113.7847,
+    "cafes": []
+  },
+  "Ucon": {
+    "city": "Ucon",
+    "city_ascii": "Ucon",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.5936,
+    "lng": -111.9594,
+    "cafes": []
+  },
+  "Tyhee": {
+    "city": "Tyhee",
+    "city_ascii": "Tyhee",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.9552,
+    "lng": -112.4561,
+    "cafes": []
+  },
+  "Ponderay": {
+    "city": "Ponderay",
+    "city_ascii": "Ponderay",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.3092,
+    "lng": -116.539,
+    "cafes": []
+  },
+  "Glenns Ferry": {
+    "city": "Glenns Ferry",
+    "city_ascii": "Glenns Ferry",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.9504,
+    "lng": -115.3067,
+    "cafes": []
+  },
+  "Moyie Springs": {
+    "city": "Moyie Springs",
+    "city_ascii": "Moyie Springs",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.7247,
+    "lng": -116.1953,
+    "cafes": []
+  },
+  "Hansen": {
+    "city": "Hansen",
+    "city_ascii": "Hansen",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5314,
+    "lng": -114.3011,
+    "cafes": []
+  },
+  "Moreland": {
+    "city": "Moreland",
+    "city_ascii": "Moreland",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.2195,
+    "lng": -112.4378,
+    "cafes": []
+  },
+  "Sun Valley": {
+    "city": "Sun Valley",
+    "city_ascii": "Sun Valley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6838,
+    "lng": -114.3339,
+    "cafes": []
+  },
+  "Grace": {
+    "city": "Grace",
+    "city_ascii": "Grace",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5756,
+    "lng": -111.73,
+    "cafes": []
+  },
+  "Ashton": {
+    "city": "Ashton",
+    "city_ascii": "Ashton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.0734,
+    "lng": -111.4482,
+    "cafes": []
+  },
+  "Genesee": {
+    "city": "Genesee",
+    "city_ascii": "Genesee",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.5516,
+    "lng": -116.9284,
+    "cafes": []
+  },
+  "Avimor": {
+    "city": "Avimor",
+    "city_ascii": "Avimor",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7758,
+    "lng": -116.2571,
+    "cafes": []
+  },
+  "Marsing": {
+    "city": "Marsing",
+    "city_ascii": "Marsing",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.5466,
+    "lng": -116.8094,
+    "cafes": []
+  },
+  "Robie Creek": {
+    "city": "Robie Creek",
+    "city_ascii": "Robie Creek",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6681,
+    "lng": -116.0209,
+    "cafes": []
+  },
+  "Groveland": {
+    "city": "Groveland",
+    "city_ascii": "Groveland",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.2235,
+    "lng": -112.3755,
+    "cafes": []
+  },
+  "Hagerman": {
+    "city": "Hagerman",
+    "city_ascii": "Hagerman",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.8164,
+    "lng": -114.8974,
+    "cafes": []
+  },
+  "Carey": {
+    "city": "Carey",
+    "city_ascii": "Carey",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.3097,
+    "lng": -113.9444,
+    "cafes": []
+  },
+  "Greenleaf": {
+    "city": "Greenleaf",
+    "city_ascii": "Greenleaf",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6753,
+    "lng": -116.821,
+    "cafes": []
+  },
+  "Cottonwood": {
+    "city": "Cottonwood",
+    "city_ascii": "Cottonwood",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.051,
+    "lng": -116.3498,
+    "cafes": []
+  },
+  "Wallace": {
+    "city": "Wallace",
+    "city_ascii": "Wallace",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.4736,
+    "lng": -115.9227,
+    "cafes": []
+  },
+  "Riverside": {
+    "city": "Riverside",
+    "city_ascii": "Riverside",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.1965,
+    "lng": -112.4356,
+    "cafes": []
+  },
+  "Kootenai": {
+    "city": "Kootenai",
+    "city_ascii": "Kootenai",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.3118,
+    "lng": -116.5172,
+    "cafes": []
+  },
+  "Plummer": {
+    "city": "Plummer",
+    "city_ascii": "Plummer",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.3301,
+    "lng": -116.8849,
+    "cafes": []
+  },
+  "Kamiah": {
+    "city": "Kamiah",
+    "city_ascii": "Kamiah",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.2269,
+    "lng": -116.0283,
+    "cafes": []
+  },
+  "Lapwai": {
+    "city": "Lapwai",
+    "city_ascii": "Lapwai",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.4034,
+    "lng": -116.8041,
+    "cafes": []
+  },
+  "Hazelton": {
+    "city": "Hazelton",
+    "city_ascii": "Hazelton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5953,
+    "lng": -114.1366,
+    "cafes": []
+  },
+  "Clark Fork": {
+    "city": "Clark Fork",
+    "city_ascii": "Clark Fork",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.1472,
+    "lng": -116.1768,
+    "cafes": []
+  },
+  "Cascade": {
+    "city": "Cascade",
+    "city_ascii": "Cascade",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.5087,
+    "lng": -116.0425,
+    "cafes": []
+  },
+  "Ririe": {
+    "city": "Ririe",
+    "city_ascii": "Ririe",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6323,
+    "lng": -111.7716,
+    "cafes": []
+  },
+  "McCammon": {
+    "city": "McCammon",
+    "city_ascii": "McCammon",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.6504,
+    "lng": -112.1901,
+    "cafes": []
+  },
+  "Troy": {
+    "city": "Troy",
+    "city_ascii": "Troy",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.738,
+    "lng": -116.7731,
+    "cafes": []
+  },
+  "Hayden Lake": {
+    "city": "Hayden Lake",
+    "city_ascii": "Hayden Lake",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.7639,
+    "lng": -116.7559,
+    "cafes": []
+  },
+  "Hauser": {
+    "city": "Hauser",
+    "city_ascii": "Hauser",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.7667,
+    "lng": -117.0133,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.0124,
+    "lng": -111.8036,
+    "cafes": []
+  },
+  "Menan": {
+    "city": "Menan",
+    "city_ascii": "Menan",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7218,
+    "lng": -111.9925,
+    "cafes": []
+  },
+  "Potlatch": {
+    "city": "Potlatch",
+    "city_ascii": "Potlatch",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.9235,
+    "lng": -116.8976,
+    "cafes": []
+  },
+  "Oakley": {
+    "city": "Oakley",
+    "city_ascii": "Oakley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.2417,
+    "lng": -113.8824,
+    "cafes": []
+  },
+  "Arco": {
+    "city": "Arco",
+    "city_ascii": "Arco",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6316,
+    "lng": -113.3017,
+    "cafes": []
+  },
+  "Athol": {
+    "city": "Athol",
+    "city_ascii": "Athol",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.9469,
+    "lng": -116.7079,
+    "cafes": []
+  },
+  "Council": {
+    "city": "Council",
+    "city_ascii": "Council",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.7328,
+    "lng": -116.4376,
+    "cafes": []
+  },
+  "Inkom": {
+    "city": "Inkom",
+    "city_ascii": "Inkom",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.7955,
+    "lng": -112.2448,
+    "cafes": []
+  },
+  "Challis": {
+    "city": "Challis",
+    "city_ascii": "Challis",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.5055,
+    "lng": -114.2281,
+    "cafes": []
+  },
+  "Teton": {
+    "city": "Teton",
+    "city_ascii": "Teton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.8871,
+    "lng": -111.6723,
+    "cafes": []
+  },
+  "Clifton": {
+    "city": "Clifton",
+    "city_ascii": "Clifton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.1873,
+    "lng": -112.0046,
+    "cafes": []
+  },
+  "Mullan": {
+    "city": "Mullan",
+    "city_ascii": "Mullan",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.4687,
+    "lng": -115.7963,
+    "cafes": []
+  },
+  "Horseshoe Bend": {
+    "city": "Horseshoe Bend",
+    "city_ascii": "Horseshoe Bend",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.9165,
+    "lng": -116.1997,
+    "cafes": []
+  },
+  "Downey": {
+    "city": "Downey",
+    "city_ascii": "Downey",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.4288,
+    "lng": -112.1233,
+    "cafes": []
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.479,
+    "lng": -111.3639,
+    "cafes": []
+  },
+  "Mackay": {
+    "city": "Mackay",
+    "city_ascii": "Mackay",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.912,
+    "lng": -113.6128,
+    "cafes": []
+  },
+  "Notus": {
+    "city": "Notus",
+    "city_ascii": "Notus",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7267,
+    "lng": -116.7998,
+    "cafes": []
+  },
+  "Kooskia": {
+    "city": "Kooskia",
+    "city_ascii": "Kooskia",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.1415,
+    "lng": -115.9765,
+    "cafes": []
+  },
+  "Smelterville": {
+    "city": "Smelterville",
+    "city_ascii": "Smelterville",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.5426,
+    "lng": -116.1775,
+    "cafes": []
+  },
+  "Parker": {
+    "city": "Parker",
+    "city_ascii": "Parker",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.9584,
+    "lng": -111.7587,
+    "cafes": []
+  },
+  "Paris": {
+    "city": "Paris",
+    "city_ascii": "Paris",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.2273,
+    "lng": -111.4032,
+    "cafes": []
+  },
+  "Dover": {
+    "city": "Dover",
+    "city_ascii": "Dover",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.2606,
+    "lng": -116.6098,
+    "cafes": []
+  },
+  "Blanchard": {
+    "city": "Blanchard",
+    "city_ascii": "Blanchard",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.0152,
+    "lng": -116.9928,
+    "cafes": []
+  },
+  "Melba": {
+    "city": "Melba",
+    "city_ascii": "Melba",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.3726,
+    "lng": -116.5322,
+    "cafes": []
+  },
+  "Silverton": {
+    "city": "Silverton",
+    "city_ascii": "Silverton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.4958,
+    "lng": -115.9604,
+    "cafes": []
+  },
+  "Arbon Valley": {
+    "city": "Arbon Valley",
+    "city_ascii": "Arbon Valley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.8847,
+    "lng": -112.5942,
+    "cafes": []
+  },
+  "Weston": {
+    "city": "Weston",
+    "city_ascii": "Weston",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.0369,
+    "lng": -111.9783,
+    "cafes": []
+  },
+  "Juliaetta": {
+    "city": "Juliaetta",
+    "city_ascii": "Juliaetta",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.574,
+    "lng": -116.7096,
+    "cafes": []
+  },
+  "Oldtown": {
+    "city": "Oldtown",
+    "city_ascii": "Oldtown",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.1841,
+    "lng": -117.0204,
+    "cafes": []
+  },
+  "Letha": {
+    "city": "Letha",
+    "city_ascii": "Letha",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.8934,
+    "lng": -116.6452,
+    "cafes": []
+  },
+  "Richfield": {
+    "city": "Richfield",
+    "city_ascii": "Richfield",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.0521,
+    "lng": -114.1556,
+    "cafes": []
+  },
+  "Idaho City": {
+    "city": "Idaho City",
+    "city_ascii": "Idaho City",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.8281,
+    "lng": -115.8307,
+    "cafes": []
+  },
+  "Nezperce": {
+    "city": "Nezperce",
+    "city_ascii": "Nezperce",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.2341,
+    "lng": -116.2405,
+    "cafes": []
+  },
+  "Roberts": {
+    "city": "Roberts",
+    "city_ascii": "Roberts",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7208,
+    "lng": -112.1284,
+    "cafes": []
+  },
+  "Fairfield": {
+    "city": "Fairfield",
+    "city_ascii": "Fairfield",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.3489,
+    "lng": -114.8006,
+    "cafes": []
+  },
+  "Mud Lake": {
+    "city": "Mud Lake",
+    "city_ascii": "Mud Lake",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.8431,
+    "lng": -112.4798,
+    "cafes": []
+  },
+  "Newdale": {
+    "city": "Newdale",
+    "city_ascii": "Newdale",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.8864,
+    "lng": -111.6038,
+    "cafes": []
+  },
+  "Declo": {
+    "city": "Declo",
+    "city_ascii": "Declo",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5196,
+    "lng": -113.6288,
+    "cafes": []
+  },
+  "Deary": {
+    "city": "Deary",
+    "city_ascii": "Deary",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.8003,
+    "lng": -116.5572,
+    "cafes": []
+  },
+  "Basalt": {
+    "city": "Basalt",
+    "city_ascii": "Basalt",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.3145,
+    "lng": -112.165,
+    "cafes": []
+  },
+  "Craigmont": {
+    "city": "Craigmont",
+    "city_ascii": "Craigmont",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.2422,
+    "lng": -116.4728,
+    "cafes": []
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "city_ascii": "Dayton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.1118,
+    "lng": -111.9779,
+    "cafes": []
+  },
+  "Dubois": {
+    "city": "Dubois",
+    "city_ascii": "Dubois",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.1727,
+    "lng": -112.2293,
+    "cafes": []
+  },
+  "Lewisville": {
+    "city": "Lewisville",
+    "city_ascii": "Lewisville",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.6951,
+    "lng": -112.0131,
+    "cafes": []
+  },
+  "Pierce": {
+    "city": "Pierce",
+    "city_ascii": "Pierce",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.4931,
+    "lng": -115.7995,
+    "cafes": []
+  },
+  "Grand View": {
+    "city": "Grand View",
+    "city_ascii": "Grand View",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.9839,
+    "lng": -116.0917,
+    "cafes": []
+  },
+  "Culdesac": {
+    "city": "Culdesac",
+    "city_ascii": "Culdesac",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.3749,
+    "lng": -116.6703,
+    "cafes": []
+  },
+  "Weippe": {
+    "city": "Weippe",
+    "city_ascii": "Weippe",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.3787,
+    "lng": -115.9396,
+    "cafes": []
+  },
+  "Firth": {
+    "city": "Firth",
+    "city_ascii": "Firth",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.3057,
+    "lng": -112.1834,
+    "cafes": []
+  },
+  "Albion": {
+    "city": "Albion",
+    "city_ascii": "Albion",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.4098,
+    "lng": -113.5806,
+    "cafes": []
+  },
+  "Yellow Pine": {
+    "city": "Yellow Pine",
+    "city_ascii": "Yellow Pine",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.9623,
+    "lng": -115.488,
+    "cafes": []
+  },
+  "Tetonia": {
+    "city": "Tetonia",
+    "city_ascii": "Tetonia",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.8147,
+    "lng": -111.1586,
+    "cafes": []
+  },
+  "Eden": {
+    "city": "Eden",
+    "city_ascii": "Eden",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.6053,
+    "lng": -114.209,
+    "cafes": []
+  },
+  "Garden Valley": {
+    "city": "Garden Valley",
+    "city_ascii": "Garden Valley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.083,
+    "lng": -115.9612,
+    "cafes": []
+  },
+  "Dietrich": {
+    "city": "Dietrich",
+    "city_ascii": "Dietrich",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.9128,
+    "lng": -114.2662,
+    "cafes": []
+  },
+  "Hollister": {
+    "city": "Hollister",
+    "city_ascii": "Hollister",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.3529,
+    "lng": -114.5839,
+    "cafes": []
+  },
+  "Gannett": {
+    "city": "Gannett",
+    "city_ascii": "Gannett",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.357,
+    "lng": -114.1756,
+    "cafes": []
+  },
+  "Cambridge": {
+    "city": "Cambridge",
+    "city_ascii": "Cambridge",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.5719,
+    "lng": -116.6778,
+    "cafes": []
+  },
+  "Midvale": {
+    "city": "Midvale",
+    "city_ascii": "Midvale",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.4618,
+    "lng": -116.7435,
+    "cafes": []
+  },
+  "Arimo": {
+    "city": "Arimo",
+    "city_ascii": "Arimo",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5601,
+    "lng": -112.173,
+    "cafes": []
+  },
+  "Kendrick": {
+    "city": "Kendrick",
+    "city_ascii": "Kendrick",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.614,
+    "lng": -116.6543,
+    "cafes": []
+  },
+  "Malta": {
+    "city": "Malta",
+    "city_ascii": "Malta",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.3075,
+    "lng": -113.3694,
+    "cafes": []
+  },
+  "Moore": {
+    "city": "Moore",
+    "city_ascii": "Moore",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7344,
+    "lng": -113.3675,
+    "cafes": []
+  },
+  "Bancroft": {
+    "city": "Bancroft",
+    "city_ascii": "Bancroft",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.7202,
+    "lng": -111.883,
+    "cafes": []
+  },
+  "New Meadows": {
+    "city": "New Meadows",
+    "city_ascii": "New Meadows",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.9712,
+    "lng": -116.2857,
+    "cafes": []
+  },
+  "Rockford Bay": {
+    "city": "Rockford Bay",
+    "city_ascii": "Rockford Bay",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.5086,
+    "lng": -116.8866,
+    "cafes": []
+  },
+  "Onaway": {
+    "city": "Onaway",
+    "city_ascii": "Onaway",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.9282,
+    "lng": -116.8896,
+    "cafes": []
+  },
+  "Rockford": {
+    "city": "Rockford",
+    "city_ascii": "Rockford",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.1892,
+    "lng": -112.5306,
+    "cafes": []
+  },
+  "Winchester": {
+    "city": "Winchester",
+    "city_ascii": "Winchester",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.2409,
+    "lng": -116.6242,
+    "cafes": []
+  },
+  "Wardner": {
+    "city": "Wardner",
+    "city_ascii": "Wardner",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.5189,
+    "lng": -116.1357,
+    "cafes": []
+  },
+  "Stanley": {
+    "city": "Stanley",
+    "city_ascii": "Stanley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.2154,
+    "lng": -114.9364,
+    "cafes": []
+  },
+  "Elk City": {
+    "city": "Elk City",
+    "city_ascii": "Elk City",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 45.8266,
+    "lng": -115.4378,
+    "cafes": []
+  },
+  "Swan Valley": {
+    "city": "Swan Valley",
+    "city_ascii": "Swan Valley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.4445,
+    "lng": -111.3287,
+    "cafes": []
+  },
+  "Hammett": {
+    "city": "Hammett",
+    "city_ascii": "Hammett",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.9441,
+    "lng": -115.4654,
+    "cafes": []
+  },
+  "Bloomington": {
+    "city": "Bloomington",
+    "city_ascii": "Bloomington",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.1908,
+    "lng": -111.4042,
+    "cafes": []
+  },
+  "East Hope": {
+    "city": "East Hope",
+    "city_ascii": "East Hope",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.2408,
+    "lng": -116.2903,
+    "cafes": []
+  },
+  "Irwin": {
+    "city": "Irwin",
+    "city_ascii": "Irwin",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.3965,
+    "lng": -111.2721,
+    "cafes": []
+  },
+  "Bliss": {
+    "city": "Bliss",
+    "city_ascii": "Bliss",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.9243,
+    "lng": -114.9479,
+    "cafes": []
+  },
+  "Lava Hot Springs": {
+    "city": "Lava Hot Springs",
+    "city_ascii": "Lava Hot Springs",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.6198,
+    "lng": -112.0098,
+    "cafes": []
+  },
+  "Worley": {
+    "city": "Worley",
+    "city_ascii": "Worley",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.4007,
+    "lng": -116.9193,
+    "cafes": []
+  },
+  "Harrison": {
+    "city": "Harrison",
+    "city_ascii": "Harrison",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.4675,
+    "lng": -116.8034,
+    "cafes": []
+  },
+  "Riggins": {
+    "city": "Riggins",
+    "city_ascii": "Riggins",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 45.4203,
+    "lng": -116.3179,
+    "cafes": []
+  },
+  "Acequia": {
+    "city": "Acequia",
+    "city_ascii": "Acequia",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.6688,
+    "lng": -113.5968,
+    "cafes": []
+  },
+  "Huetter": {
+    "city": "Huetter",
+    "city_ascii": "Huetter",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.7037,
+    "lng": -116.8508,
+    "cafes": []
+  },
+  "Rockland": {
+    "city": "Rockland",
+    "city_ascii": "Rockland",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5731,
+    "lng": -112.8744,
+    "cafes": []
+  },
+  "Crouch": {
+    "city": "Crouch",
+    "city_ascii": "Crouch",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.1161,
+    "lng": -115.974,
+    "cafes": []
+  },
+  "Laclede": {
+    "city": "Laclede",
+    "city_ascii": "Laclede",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.1678,
+    "lng": -116.7529,
+    "cafes": []
+  },
+  "Murphy": {
+    "city": "Murphy",
+    "city_ascii": "Murphy",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.2121,
+    "lng": -116.5485,
+    "cafes": []
+  },
+  "Peck": {
+    "city": "Peck",
+    "city_ascii": "Peck",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.4747,
+    "lng": -116.4262,
+    "cafes": []
+  },
+  "Ferdinand": {
+    "city": "Ferdinand",
+    "city_ascii": "Ferdinand",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.1519,
+    "lng": -116.39,
+    "cafes": []
+  },
+  "Stites": {
+    "city": "Stites",
+    "city_ascii": "Stites",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.0921,
+    "lng": -115.9762,
+    "cafes": []
+  },
+  "Island Park": {
+    "city": "Island Park",
+    "city_ascii": "Island Park",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.5281,
+    "lng": -111.3591,
+    "cafes": []
+  },
+  "Sweetwater": {
+    "city": "Sweetwater",
+    "city_ascii": "Sweetwater",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.3677,
+    "lng": -116.7975,
+    "cafes": []
+  },
+  "St. Charles": {
+    "city": "St. Charles",
+    "city_ascii": "St. Charles",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.1116,
+    "lng": -111.3903,
+    "cafes": []
+  },
+  "Castleford": {
+    "city": "Castleford",
+    "city_ascii": "Castleford",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.5206,
+    "lng": -114.8717,
+    "cafes": []
+  },
+  "Donnelly": {
+    "city": "Donnelly",
+    "city_ascii": "Donnelly",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.7351,
+    "lng": -116.0788,
+    "cafes": []
+  },
+  "Hope": {
+    "city": "Hope",
+    "city_ascii": "Hope",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.2542,
+    "lng": -116.3064,
+    "cafes": []
+  },
+  "Murtaugh": {
+    "city": "Murtaugh",
+    "city_ascii": "Murtaugh",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.4918,
+    "lng": -114.1625,
+    "cafes": []
+  },
+  "Leadore": {
+    "city": "Leadore",
+    "city_ascii": "Leadore",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.6802,
+    "lng": -113.3592,
+    "cafes": []
+  },
+  "Fernan Lake Village": {
+    "city": "Fernan Lake Village",
+    "city_ascii": "Fernan Lake Village",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.6726,
+    "lng": -116.7472,
+    "cafes": []
+  },
+  "Bovill": {
+    "city": "Bovill",
+    "city_ascii": "Bovill",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.8585,
+    "lng": -116.3935,
+    "cafes": []
+  },
+  "De Smet": {
+    "city": "De Smet",
+    "city_ascii": "De Smet",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.141,
+    "lng": -116.9113,
+    "cafes": []
+  },
+  "Elk River": {
+    "city": "Elk River",
+    "city_ascii": "Elk River",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.7828,
+    "lng": -116.181,
+    "cafes": []
+  },
+  "Minidoka": {
+    "city": "Minidoka",
+    "city_ascii": "Minidoka",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.754,
+    "lng": -113.49,
+    "cafes": []
+  },
+  "Conkling Park": {
+    "city": "Conkling Park",
+    "city_ascii": "Conkling Park",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.3998,
+    "lng": -116.7704,
+    "cafes": []
+  },
+  "Fernwood": {
+    "city": "Fernwood",
+    "city_ascii": "Fernwood",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.1151,
+    "lng": -116.3864,
+    "cafes": []
+  },
+  "Bennington": {
+    "city": "Bennington",
+    "city_ascii": "Bennington",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.3827,
+    "lng": -111.3228,
+    "cafes": []
+  },
+  "Butte City": {
+    "city": "Butte City",
+    "city_ascii": "Butte City",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.607,
+    "lng": -113.2408,
+    "cafes": []
+  },
+  "Reubens": {
+    "city": "Reubens",
+    "city_ascii": "Reubens",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.3229,
+    "lng": -116.5429,
+    "cafes": []
+  },
+  "Parkline": {
+    "city": "Parkline",
+    "city_ascii": "Parkline",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.3385,
+    "lng": -116.694,
+    "cafes": []
+  },
+  "Tensed": {
+    "city": "Tensed",
+    "city_ascii": "Tensed",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.1596,
+    "lng": -116.9238,
+    "cafes": []
+  },
+  "Smiths Ferry": {
+    "city": "Smiths Ferry",
+    "city_ascii": "Smiths Ferry",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.299,
+    "lng": -116.0783,
+    "cafes": []
+  },
+  "Hamer": {
+    "city": "Hamer",
+    "city_ascii": "Hamer",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.9216,
+    "lng": -112.2027,
+    "cafes": []
+  },
+  "Lost River": {
+    "city": "Lost River",
+    "city_ascii": "Lost River",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.7326,
+    "lng": -113.5577,
+    "cafes": []
+  },
+  "White Bird": {
+    "city": "White Bird",
+    "city_ascii": "White Bird",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 45.7621,
+    "lng": -116.3008,
+    "cafes": []
+  },
+  "Oxford": {
+    "city": "Oxford",
+    "city_ascii": "Oxford",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.2598,
+    "lng": -112.0178,
+    "cafes": []
+  },
+  "Viola": {
+    "city": "Viola",
+    "city_ascii": "Viola",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.8389,
+    "lng": -117.0189,
+    "cafes": []
+  },
+  "Lowman": {
+    "city": "Lowman",
+    "city_ascii": "Lowman",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.0786,
+    "lng": -115.6206,
+    "cafes": []
+  },
+  "Placerville": {
+    "city": "Placerville",
+    "city_ascii": "Placerville",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.9427,
+    "lng": -115.946,
+    "cafes": []
+  },
+  "Bruneau": {
+    "city": "Bruneau",
+    "city_ascii": "Bruneau",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 42.8766,
+    "lng": -115.8001,
+    "cafes": []
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "city_ascii": "Princeton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 46.9152,
+    "lng": -116.8315,
+    "cafes": []
+  },
+  "Spencer": {
+    "city": "Spencer",
+    "city_ascii": "Spencer",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.377,
+    "lng": -112.1897,
+    "cafes": []
+  },
+  "Coolin": {
+    "city": "Coolin",
+    "city_ascii": "Coolin",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 48.476,
+    "lng": -116.8441,
+    "cafes": []
+  },
+  "Clayton": {
+    "city": "Clayton",
+    "city_ascii": "Clayton",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.2591,
+    "lng": -114.388,
+    "cafes": []
+  },
+  "Drummond": {
+    "city": "Drummond",
+    "city_ascii": "Drummond",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 43.9996,
+    "lng": -111.3433,
+    "cafes": []
+  },
+  "State Line": {
+    "city": "State Line",
+    "city_ascii": "State Line",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 47.7052,
+    "lng": -117.0366,
+    "cafes": []
+  },
+  "Warm River": {
+    "city": "Warm River",
+    "city_ascii": "Warm River",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.1188,
+    "lng": -111.32,
+    "cafes": []
+  },
+  "Banks": {
+    "city": "Banks",
+    "city_ascii": "Banks",
+    "state_id": "ID",
+    "state_name": "Idaho",
+    "lat": 44.0777,
+    "lng": -116.1278,
+    "cafes": []
+  }
+}

@@ -1,0 +1,6054 @@
+{
+  "Conway": {
+    "city": "Conway",
+    "city_ascii": "Conway",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0753,
+    "lng": -92.4692,
+    "cafes": [
+      {
+        "name": "Gibson's Cat Café",
+        "address": "3820 Dave Ward Dr Suite 1700, Conway, AR 72034, USA",
+        "rating": 4.8,
+        "user_ratings_total": 153,
+        "website": "http://www.gibsonscatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=11195592594497561537",
+        "lat": 35.0723755,
+        "lng": -92.4932185,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "B Kind",
+            "rating": 5,
+            "text": {
+              "text": "We got our cat from Gibson’s 2 years ago and he has been such a blessing. He’s a great cat and so sweet! I love the concept of getting to hangout with all the cats to see which one is the right fit for you. They’re all have such different personalities and are fun to play with. These folks are doing such a great job helping cats find their furever homes❤️good job guys!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Jillian Bradshaw",
+            "rating": 5,
+            "text": {
+              "text": "I have been to the Cat Café at both locations, downtown and its current space, and it has ALWAYS been my no. 1 recommendation for people new to Conway or stopping in for a visit. So reasonably priced and the money spent goes to a good cause! My best friend and I often meet here and hang out and as a native Conwegian attending college in Conway, I tell all of my classmates about this place! Super awesome and friendly people and cats!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Faith Noel",
+            "rating": 5,
+            "text": {
+              "text": "I WAS THE FIRST ADOPTER! I love gibsons cat cafe! Every time I have gone it makes me sad to leave. Anyone who loves cats needs to visit! You will want to go back! Anyone who loves coffee should visit! It’s separate from the cats and you can still peak through the window and see the kitties! This is a SMALL BUSINESS that continues to run and save cats life’s! My baby was found by the lake, and now she will never know anything but love! GO VISIT GIBSONS CAT CAFE!",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2jvZYm4yqHlo2LLluS7YnEV_wsZgx2pYm8Qyuh03TvmeofG5no8xIG0_yXWvZRCXDypPzaziifIXhF-dvK35cA2RvAnDtXfoCVnljKN_NVjricf_8AzJkwsHPoM377pzKxUX_NIOZ2EoZm2oN6OToDhpZD3FenRFWEFLcSNFKrP_7KzFqc3n8QQJTpgf-GEzHlm0taW0UYGpXGL9OFqVcrtgTn35c5Tn6vweGC_MsWcJegND8uoJewAenu7k5sTyAX4XIO3mZFKTHMaOuz4EqRLLpXdm1he3CJDt2VZlAg1lHHE3paItMPeIhV1tvqqLdWh4Jg860y6MqVNJrNSzWUjiKYw8jwJkxZ90-4FJmD3JNrBBcdsOkGx7nnSds_sUam1bPvcWD2A7klqUMF6eYe_VHYpd42&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Fayetteville": {
+    "city": "Fayetteville",
+    "city_ascii": "Fayetteville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0714,
+    "lng": -94.1661,
+    "cafes": [
+      {
+        "name": "The Smitten Kitten NWA",
+        "address": "524 W Sycamore St Suite D, Fayetteville, AR 72703, USA",
+        "rating": 4.6,
+        "user_ratings_total": 29,
+        "website": "https://the-smittenkittennwa.square.site/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=11484488261910375448",
+        "lat": 36.085316,
+        "lng": -94.1652519,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "sophiea borengasser",
+            "rating": 5,
+            "text": {
+              "text": "This place is so perfect. You only pay the entry fee then it’s unlimited time, coffee, tea, and cider. There are lots of kitties & they are very friendly. We had many come sit in our lap and play with the toys.\n\nThe worker was very kind and introduced us to all of the cats. We even had a cat greet us at the door. Lovely experience!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Kalina DeRusse",
+            "rating": 5,
+            "text": {
+              "text": "Lovely place, all kittens are very cute and have unique personalities. Will definitely come back soon!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Missmaggius 622",
+            "rating": 5,
+            "text": {
+              "text": "All of the cats are well taken care of and absolute sweethearts! They're the cutest things ever, with lots of toys to play with🥰",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ10ubk3gQIdeqLkHjxugnr8HCzUrW-cUrE8JbYpA6fQMqTB5Jxe-aJ5-9O4y1-L9_yibi6i7S5Gkexm4DKh8p7VwUMNz81uQ38k9L9_SuWNv0e4J8nQSczJ5LkviCDu9uZeuNdAH1rQAu5s0p9xJmIb7f7GLmrk-B8ZFqfNGGCmrFhUsyr9DBPrJIcZC9yERrR_81i3Ba0FySCWfSeSqwrO_ObNO6b8ZCimOJT3fAdwWXVtXBPkZ9P5nh1m6Ms7NwN47PwcZ1NapkU81VqTYLPTMcog5ksMGf-MYfOIaJ1buE0CPMTyWzXKaPZZvM1gInF_SS95pjewP_GcFFMmcot0GvSi8OesaXUp42XQBNclpXEyCSlTv3hHJ8N-Duqt82xZeOI2C5PFbX5wsI3t1-SqOYC2xbzr&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Texarkana": {
+    "city": "Texarkana",
+    "city_ascii": "Texarkana",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.436,
+    "lng": -93.9959,
+    "cafes": [
+      {
+        "name": "Alley Cats Coffee Bar",
+        "address": "305 E Front St, Texarkana, AR 71854, USA",
+        "rating": 4.8,
+        "user_ratings_total": 142,
+        "website": "https://alleycatscoffeebar.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=14124860525078673222",
+        "lat": 33.4211514,
+        "lng": -94.04100419999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Breanna Winfrey",
+            "rating": 5,
+            "text": {
+              "text": "Outstanding! This is what comes to mind when I think of Alley Cats. The folks there today were awesome, very kind hearted and friendly. The owner talked with us for a while and got one of their alley cats to come out to us. You could see his heart in all he said. Truly one of the best places. The coffees are unique and their savory breakfast waffles with hot honey, just wonderful! Thank you guys for sharing you little bit of paradise with our family! We enjoyed every second.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Loti Nights",
+            "rating": 5,
+            "text": {
+              "text": "This place is simply awesome! The staff are super friendly and the coffee is great… Oh and don’t forget about the avocado (or banana) toast. If you’re passing by this place is worth the stop. The decor and coffee shop alone are worth a pit stop and the coffee doesn’t disappoint. If you want to get experimental, try the spicy Myan mocha (with chocolate or cinnamon). Enjoy!",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Z G",
+            "rating": 5,
+            "text": {
+              "text": "This place is so fun! One of the most unique coffee shops I've ever been to. Also woman-owned and a big supporter of local artists! The barista was super friendly. The tea and coffee are so good! I'm from Houston but I really hope I can come back! (Also yes it's an actual retired train car but it does have AC and working bathrooms!)",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2f6udmK3Dsz2EdT33SZSO8rwie9IjDoClR47tkYbqm707aSYwFIWghr7cIcUVTZ462bUoCUfLLpZkFsUObStKwIKGe5Ar_mgcf7xmKsTQeU_oVzyUGoObY5HLxXjMPen8QSECkvpZENr6eS7AHCnrCLakgas0U80yTrOFWe83gtz6vXqgSHXJTy6o_6e37KToxd5feGaY6Vg19dA8ATKQiDsXZXOG3IR0DQx0UOo-YdyRG8kkrm4rocnwwShcd7MG0YCtktvN-cIGTf5CojnRnN2QAE4anidiw01OQ9niK1g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Bentonville": {
+    "city": "Bentonville",
+    "city_ascii": "Bentonville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3547,
+    "lng": -94.2305,
+    "cafes": [
+      {
+        "name": "Third Space Coffee",
+        "address": "1312 Melissa Dr, Bentonville, AR 72712, USA",
+        "rating": 5,
+        "user_ratings_total": 57,
+        "website": "http://www.thirdspacecoffee.co/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=3445236394783611430",
+        "lat": 36.3631418,
+        "lng": -94.2273767,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true
+        },
+        "reviews": [
+          {
+            "author": "Bailee Baird",
+            "rating": 5,
+            "text": {
+              "text": "Wow this place is so cute it almost brings a tear to my eye! It’s not just a coffee shop but also a no kill animal shelter! The volunteers and staff here are not only super informative but extremely friendly. When I walked in with my sister today we immediately noticed the cute senior pups in little pens right next to the front door! The older beagle clearly just had some face growths removed (I mention this because it’s nice to know that they take good care of all the pets even the seniors). When we got to the counter I noticed tons of cute merch they had cool hats and cute tees. The menu is huge and everything is vegan, they really are putting in the effort to be great to animals and I love that! Grace took our order, she may be one of the nicest people I’ve ever met! She said her sister works down stairs and told her about it and when she came in she decided she wanted to be there EVERY DAY! There are tons of parking spaces outside! The coffee is delicious! I got a peach matcha that tasted just like peaches and cream, and had a cute little peach ring on the straw! I cannot wait to come back here. This is my new favorite place in Arkansas.",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          },
+          {
+            "author": "Christina Cummings",
+            "rating": 5,
+            "text": {
+              "text": "Very impressive space! Great lattes, coffee, and smoothies! I am very happy to support this business. Kitty and puppy pets with my morning brew? Yes, please! There is a slide going to the lower level of the building, for those that don't wish to take the stairs! Sculptures, art, and merchandise are throughout the facility, which is also very clean. I am telling all of my friends!",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Amber E",
+            "rating": 5,
+            "text": {
+              "text": "I'm so glad I found this cute, very friendly coffee shop! The caramel vanilla latte made my whole day! Bonus was getting to see the fur babies because it's located in Best Friends Pet Resource Center in NW Arkansas. Highly recommend.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2odA9VZlsVQUC2y_k9KaqyhNzMmk3ofLOGc9WKOnKX01IK1FbRWJIP_tiQ5mePhTNnqrnjZdRW0wgZldQRyh_aANz2kkzw7fbZQkJb4QdUoPPdMFBfkjrsgddq5PWywqAycFT63ix73TdMgphXaFYf7OhXNMOjDV4tYSjTC1LGBKYYEK2HSlvZpjoAY_QYGAsFlh9J6Rw10gLRe89agckRE3zvmUMDSVu-KBuVzgPx_T3x9fkNF3vVoIGjrTWtFqmjxgn0lMl-qosI6txqwZULbvBHnigExYCRWz6k6V_J3zC0q3weP-Clyw452m_22XgNuy1EJGU34sM32UF7LXN79Se4b_9YA80Y1xyvaN1G8DcaEdslaEbtUvN6BXSaG_h2hibDomjRKl6HOVvh-P45cgFY2TY&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Paragould": {
+    "city": "Paragould",
+    "city_ascii": "Paragould",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0555,
+    "lng": -90.5149,
+    "cafes": [
+      {
+        "name": "Something Pawsitive",
+        "address": "223 S Pruett St, Paragould, AR 72450, USA",
+        "rating": 4.8,
+        "user_ratings_total": 44,
+        "website": "http://www.somethingpawsitive.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=8910847703792021216",
+        "lat": 36.0547259,
+        "lng": -90.4861298,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleRestroom": false,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Cass Vandy",
+            "rating": 5,
+            "text": {
+              "text": "Super aesthetic and clean establishment with some of the sweetest kitties i’ve ever met. ❤️",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Cathy Hale",
+            "rating": 5,
+            "text": {
+              "text": "This is a great place to find a new fur friend or just hang out with some cool cats!",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Eric & Teresa Welch (welchkinland)",
+            "rating": 5,
+            "text": {
+              "text": "What a magnificent organization! What they do for cats and kittens in their community is amazing! We adopted from them and had nothing but a wonderful experience. Love their hearts for the Lord, and their love and commitment to the cats and kittens in need. If you can, please donate to them, and if you can’t please share their information to your friends and family!",
+              "languageCode": "en"
+            },
+            "time": "9 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1Vog-ICQkV1Qp6NwIW-6-u-VbUR7a-jc8rhtVhTmaAqfaXNVKYmTDSIZstTCwQSzPp7uuhg5i-yXGJ1DNOTwptVIBv7nTwLnHafXg9It2rXbRhVk1GPI5v_RCNyg2k5gMt9S7yT_PUwsY4GJiU72Os1ZjI2mZjQoj6nuuYpNU50zwZBlyFSYbfQDbSasGn2UC3pa79tqgV-gRZzMNzuZcfo4mc9h68TXlDxbYuBwiZnzgk5YePJcUnAV3raYZhyMqRbG_LneiRQQSFNH8-pgf4kHlqbwUntHXQKfBkxURWdkot-ZFeTAOL9zGCIvk2T6teoQjRiyGIMQGt_0cSrpsQ9raBWIiCY0b6bybQRPcVw3TDlJvjehyXe0ej1uHZf8bMlD2DL9qU1QBjIRHOvfYizRxEQcrO&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Branson": [
+    {
+      "name": "Mochas and Meows",
+      "address": "3265 Falls Pkwy V, Branson, MO 65616, USA",
+      "rating": 4.7,
+      "user_ratings_total": 1428,
+      "website": "http://mochasandmeows.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=6208577382105739687",
+      "lat": 36.6263565,
+      "lng": -93.2807122,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Stephanie Illguth",
+          "rating": 5,
+          "text": {
+            "text": "We've only lived here a year and this has become a birthday tradition already. All three of my girls have requested a stop here on their birthday (and each recieved a free cat ears headband for it!). The food is even great! They really are passionate about what they do, and they only receive kitties from the Humane Society.\nThis place makes you want to bring all the kitties home with you!",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Maddi Shaw",
+          "rating": 5,
+          "text": {
+            "text": "So first of all, their smoothies are amazing. Had a Russian blue and it's probably going to be something I crave till I'm back in branson! Second, the cat room prices are so affordable as well. We met little Susan, Gravy, Frankfurt and so many other cats deserving of a family.\nThey had posters showing the amount of litter and pet food they used. And they had a WHOLE BOARD dedicated to showing what cats could tolerate what kind of person/home life. This place obviously cares for it's cats AND it's employees. Give it a try! You can't get an animal experience, food, and a beverage for anywhere else in branson under 40 bucks!",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Shannon Peters",
+          "rating": 5,
+          "text": {
+            "text": "This place is awesome! So many kitties and great drinks too! The staff is so friendly and if you purchase a drink they had deliver it right to you so you can keep playing with the cats! Very happy this place exists. If you need a pick me up, definitely visit here",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2q7UHrZ1JgIPuWd-m-dRvitxvUfNFJUFj-mb6RxhbO6J9lzFkJONM0KoTa8NofNZyXibP_quEAvG2_b4RUNzBwnROdjCCdFe5ShxmeHA12qFGq-1HVJiz760CnVBl4COvQD30OWW4osaCwed--XfKtJnhF6HuNQmCE9aJd-G_jKmkAXRE740dD8i23eVCeun11lKrFzYaV9QEoS0NrOY9icNarZ87mDOtdpo7f0Rno__kXnYr8OC3dzixP_2WjiqEQ1syPr-8JnwqNOI2GGmc6zkl-7LAaCTfhsuag-XoQsu1z9s7vYnAGjzrACgEgkOW7G-4Q_219jso9zsvtPfdMWqg86mdO5_wrtbOy4_eaVdZFUlZERtwWLCeNqKQNS0WfYrXdDRVBSQbpH2gKffjqSQ6DSloQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "El Dorado": {
+    "city": "El Dorado",
+    "city_ascii": "El Dorado",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.2184,
+    "lng": -92.664,
+    "cafes": [
+      {
+        "name": "Black Cat Cafe",
+        "address": "117 E Main St, El Dorado, AR 71730, USA",
+        "rating": 4.2,
+        "user_ratings_total": 277,
+        "website": "http://blackcateldorado.com/contact/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=11711790174327561793",
+        "lat": 33.211773,
+        "lng": -92.66304339999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Raven Wilson",
+            "rating": 5,
+            "text": {
+              "text": "We enjoyed sitting by the picture window with all the natural light coming into the space where we ate our delicious meal.  It was very relaxing. We enjoyed ourselves and the food was excellent.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Amanda McLelland",
+            "rating": 5,
+            "text": {
+              "text": "The food was wonderful & our waitress was the best",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "A Malik",
+            "rating": 2,
+            "text": {
+              "text": "Today was my 1st time eating at this restaurant. My friend recommended it. He said he always goes there so I took his recommendation. We were seated at 12:15pm and didn’t receive our food until 1:45pm. That was quite ridiculous to me. I don’t blame the waitress, because she’s not the cook. I might give it a second try the next time I’m in El Dorado. But in the mean time, Black Cat, improvements need to be made in your service. Your customers are very important.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0TZEf86DuMNi5xd_mRSFkPCbtU2fzxG4Xi-6-6YMq_8SoQNb-gdAUQM1EDWgJqo5fS3OKP3SKnjpR3Q_tM1m7TS-SkIh2hvpyAvkxlxc84CipyKZOl8daAbmtt1T2KKnjySJ5PpbtV-ddD0aDDCqrh98pVO_VSdN4yFniIWgxYk3JIfg9YKy-GAinoT1mF2SW0xNPKJRkSUnGUllbZNJXy-QQAv4UIEKaIxIa0O4LYposLEZP4QvlbMSiANrq-wCahPxKJoOqEOPCYEtwlE01jkOBoy25Px2z6vpfBtDDtm5vqOstnst-kVayaJHrCUcq4tehDuiCqXZ49B2ZtdqL-z_VGX4aYU45GGq-b_3ATDRsqwBQZPps0N1g93-OkXAUMVUvfVDzRd6Hq7hyOWmdZ-FaPLG--Fv1I&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Memphis": [
+    {
+      "name": "Cat House Café",
+      "address": "2000 Prentiss Pl, Memphis, TN 38112, USA",
+      "rating": 3,
+      "user_ratings_total": 49,
+      "website": "https://www.memphiszoo.org/cathouse-cafe",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=1656024955403704300",
+      "lat": 35.150984099999995,
+      "lng": -89.99464479999999,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Harley Mom",
+          "rating": 4,
+          "text": {
+            "text": "Compared to the rest of the zoo, the cafeteria has a little that could be improved on. Mainly, ok solely, the food.\n\nIt’s quick to order because there are several kiosks to order from. Food is expensive as it usually is at a zoo. Burger was bleh. I didn’t eat it all. It was gross actually lol! I enjoyed the free refill zoo cup though!",
+            "languageCode": "en"
+          },
+          "time": "11 months ago"
+        },
+        {
+          "author": "Sue Russell",
+          "rating": 1,
+          "text": {
+            "text": "Food was cold. Cheese on hamburger didn't even melt. Fries would have been good if not cold.",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Bethanyk",
+          "rating": 4,
+          "text": {
+            "text": "The line went fairly quick and the food was actually pretty good! We got burgers and fries. You can sit and watch the monkeys while you eat altho not sure that's a good idea 🤣. Overall a pretty reasonable priced good place to grab a bite to eat while visiting the zoo.",
+            "languageCode": "en"
+          },
+          "time": "2 years ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1_MSOhilcHd2lYXrrD5VWCAJyzyIpd6Qu1JZUUs2DIQWPyWxGvbXv5PLjiqmcoYtJ5rRGQMpa-UPAoEp2Z30O88hgYGoCNRurNJl-vGsaMLp1eDUNM7pxOFDkGMqvzYwhIeOyepc9EeDPqwGBgiHU3tG28UTdTjp5N1LKM1LKup2D50-M997gM0ZheiC3rNN4cvEa0DfTABbk5YrfausKQWYF3YyloO_GeCuX1aoJTCORqDqKQQ2QFjFPj1QiQNe4O_FblXJOLxIeo1gBjE1WxK-pi5Li-9g65BJYUr8kzt5VQdp2mOJv3qycvN1o8aV7i1Get3jx5Lz3-tHuG-_azFKjT7tCeW9bnoEToNX7F_FHA0ZBbzpfHShbtz7iol5unKI8yRoRO5x-6HYLIbGsi-sr9ax8xrw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Maplewood": [
+    {
+      "name": "Mauhaus Cat Cafe",
+      "address": "3101 Sutton Blvd, Maplewood, MO 63143, USA",
+      "rating": 4.8,
+      "user_ratings_total": 1973,
+      "website": "http://mauhauscafe.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=2216366325601504094",
+      "lat": 38.6080342,
+      "lng": -90.32085239999999,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Patricia Hutchison",
+          "rating": 5,
+          "text": {
+            "text": "My friend and I made an appointment to visit on a Saturday afternoon. When we arrived, we were greeted immediately. As this was our first visit, we were given a brief orientation. After ordering our drinks, we went in to meet the kitties. It was a fun hour of petting cats and swapping stories about our own pets with others. When we left, my friend and I agreed that we both felt less stressed and more relaxed than we had been. We'll definitely visit again.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Xitlalic Jimenez",
+          "rating": 5,
+          "text": {
+            "text": "Visited from Chicago and decided to stop by because who doesn't love cats and the coffee is a bonus! No, but seriously the staff was super friendly and I love that they take care of the cats. The cookie I got was really good and so was my iced chai. Pretty affordable too! The cats were all super cute and overall it was a fun experience.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Ting-Shuo Nien",
+          "rating": 5,
+          "text": {
+            "text": "A really lovely place to visit if you’re a cat person! The staff here are very friendly and attentive, both to you and the cats. It’s clear that they genuinely care about the happiness of every cat living here.\n\nThe cats are adorable, each with their own unique personality. Some are especially affectionate and will completely melt your heart!\n\nThe price is affordable—$12 includes admission and a selection of drinks, such as iced tea or coffee, at no extra cost. However, some specialty drinks require an additional fee. It would be even better if visitors could stay longer than an hour!\n\nThis makes the pricing explanation clearer and aligns with what you want to convey.",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3hSH0M8q-TF7qR7dDrhI4dYTEa6uyipY2W1kPd83eAdXrVT3GRPSlvoAZLBfQPcTKDZgEkhT_AldZgTtVDyyDnwOiMEeHZcBxnYawiqXF2zVkDWqTmX8Po-oiQnvDZI08c3pKeUSTYm9DRz5Eh674W_PrLzgvmAGBKy6pbz08yMOuSaONqNsngPT_pbzruOnKKWZ8z7fi2-j7RhVtlii-KL5zxa-i8-lP4ljwyWVReap4YUmQBOdV-v0N53feQpwBzK_ptuogZB1chIfw8IQDR0927VFt2t-8zGrehhW8D8g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "North Little Rock": {
+    "city": "North Little Rock",
+    "city_ascii": "North Little Rock",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7807,
+    "lng": -92.2371,
+    "cafes": [
+      {
+        "name": "Bow Wow & Meow Bakery & Boutique",
+        "address": "11607 Maumelle Blvd, North Little Rock, AR 72113, USA",
+        "rating": 5,
+        "user_ratings_total": 55,
+        "website": "http://www.bowwowbakery.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=2912712806065818221",
+        "lat": 34.8274599,
+        "lng": -92.38872699999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Chelsea Drewry",
+            "rating": 5,
+            "text": {
+              "text": "Bow Wow & Meow did it for us again! This is the 5th consecutive year we have used them for our pup’s birthday cake. They always come out PAWfect! This year, a winter storm was going to effect our pick up date so the kind people at Bow Wow & Meow made a rush (and I mean RUSH) order on it so our Jax wouldn’t go without in his actual birthday. Excellent customer service!!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Bradianna Dalton",
+            "rating": 5,
+            "text": {
+              "text": "Beautiful birthday cake for our fur baby! We wanted a patriotic theme since he was born on July 5th. We love this shop and the staff was friendly and helpful. They have everything a dog parent could need. Highly recommend and we will be repeat customers!",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          },
+          {
+            "author": "justin time",
+            "rating": 5,
+            "text": {
+              "text": "Thank you for the peanut butter ball. They loved it. It is full of yogurt drops and carob imitation chocolate for dogs. They devoured it in seconds! The small dog party hat fits perfect. They have everything here you could want for animals. Not to mention customer service is the best. I will tell everyone to stop here for all dog or cat needs!!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ28MWJ6f2ZY4dn5pePVEE7Cp6KhIqv4o_tAfFC17f4QQyzUmm4Dt2qtgmvka2sRIs6YaTeOvbtZwU_hVKrU082TDcjeXARbbetzR5FijjelD0x2VJF-D1Vfa9qHmbGQlvwZpMgVvzfiHXBfNqIZlojR-1MWiJjycYvasjBgMOXMMzxz05qPCkaXXyuW61LNP-Pi_EF-SodgNuuyV-nJ9jvF8PdH9mHG4wrSXA4z3vs4d3l6aCghuDWaJi0v5oP2yT2lz7FWWBe3cHL8Kjx4EEUnyYWNkxsxZO6_NDCL953YAcUhUiJp2n15Jye6jvmma8N3meN6vPs3FLflcGgAUjfJ0CQCNgfsbXCipQyHt6wRKcRsXBVAUwm-KHAferl3dZK7Nhs4u2EWN3H41JpB5B1XbxNHg-1W&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Little Rock": {
+    "city": "Little Rock",
+    "city_ascii": "Little Rock",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7256,
+    "lng": -92.3577,
+    "cafes": []
+  },
+  "Fort Smith": {
+    "city": "Fort Smith",
+    "city_ascii": "Fort Smith",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3495,
+    "lng": -94.3695,
+    "cafes": []
+  },
+  "Springdale": {
+    "city": "Springdale",
+    "city_ascii": "Springdale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1901,
+    "lng": -94.1574,
+    "cafes": []
+  },
+  "Jonesboro": {
+    "city": "Jonesboro",
+    "city_ascii": "Jonesboro",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8212,
+    "lng": -90.6791,
+    "cafes": []
+  },
+  "Rogers": {
+    "city": "Rogers",
+    "city_ascii": "Rogers",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.317,
+    "lng": -94.1531,
+    "cafes": []
+  },
+  "Pine Bluff": {
+    "city": "Pine Bluff",
+    "city_ascii": "Pine Bluff",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2116,
+    "lng": -92.0173,
+    "cafes": []
+  },
+  "Hot Springs": {
+    "city": "Hot Springs",
+    "city_ascii": "Hot Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4892,
+    "lng": -93.0501,
+    "cafes": []
+  },
+  "Benton": {
+    "city": "Benton",
+    "city_ascii": "Benton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5776,
+    "lng": -92.5713,
+    "cafes": []
+  },
+  "Sherwood": {
+    "city": "Sherwood",
+    "city_ascii": "Sherwood",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.8507,
+    "lng": -92.2029,
+    "cafes": []
+  },
+  "Bella Vista": {
+    "city": "Bella Vista",
+    "city_ascii": "Bella Vista",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4667,
+    "lng": -94.2707,
+    "cafes": []
+  },
+  "Jacksonville": {
+    "city": "Jacksonville",
+    "city_ascii": "Jacksonville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.8807,
+    "lng": -92.1304,
+    "cafes": []
+  },
+  "Russellville": {
+    "city": "Russellville",
+    "city_ascii": "Russellville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2762,
+    "lng": -93.1383,
+    "cafes": []
+  },
+  "Cabot": {
+    "city": "Cabot",
+    "city_ascii": "Cabot",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9766,
+    "lng": -92.0274,
+    "cafes": []
+  },
+  "West Memphis": {
+    "city": "West Memphis",
+    "city_ascii": "West Memphis",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.153,
+    "lng": -90.1996,
+    "cafes": []
+  },
+  "Van Buren": {
+    "city": "Van Buren",
+    "city_ascii": "Van Buren",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4483,
+    "lng": -94.3528,
+    "cafes": []
+  },
+  "Searcy": {
+    "city": "Searcy",
+    "city_ascii": "Searcy",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2418,
+    "lng": -91.7351,
+    "cafes": []
+  },
+  "Bryant": {
+    "city": "Bryant",
+    "city_ascii": "Bryant",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6152,
+    "lng": -92.4914,
+    "cafes": []
+  },
+  "Centerton": {
+    "city": "Centerton",
+    "city_ascii": "Centerton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3566,
+    "lng": -94.2971,
+    "cafes": []
+  },
+  "Maumelle": {
+    "city": "Maumelle",
+    "city_ascii": "Maumelle",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.8522,
+    "lng": -92.4,
+    "cafes": []
+  },
+  "Siloam Springs": {
+    "city": "Siloam Springs",
+    "city_ascii": "Siloam Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1844,
+    "lng": -94.5315,
+    "cafes": []
+  },
+  "Hot Springs Village": {
+    "city": "Hot Springs Village",
+    "city_ascii": "Hot Springs Village",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6566,
+    "lng": -92.9643,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2035,
+    "lng": -90.2059,
+    "cafes": []
+  },
+  "Harrison": {
+    "city": "Harrison",
+    "city_ascii": "Harrison",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2438,
+    "lng": -93.1198,
+    "cafes": []
+  },
+  "Blytheville": {
+    "city": "Blytheville",
+    "city_ascii": "Blytheville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9321,
+    "lng": -89.9051,
+    "cafes": []
+  },
+  "Mountain Home": {
+    "city": "Mountain Home",
+    "city_ascii": "Mountain Home",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3351,
+    "lng": -92.384,
+    "cafes": []
+  },
+  "Forrest City": {
+    "city": "Forrest City",
+    "city_ascii": "Forrest City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0135,
+    "lng": -90.7931,
+    "cafes": []
+  },
+  "Batesville": {
+    "city": "Batesville",
+    "city_ascii": "Batesville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7687,
+    "lng": -91.6227,
+    "cafes": []
+  },
+  "Magnolia": {
+    "city": "Magnolia",
+    "city_ascii": "Magnolia",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.2775,
+    "lng": -93.2261,
+    "cafes": []
+  },
+  "Malvern": {
+    "city": "Malvern",
+    "city_ascii": "Malvern",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.3734,
+    "lng": -92.8205,
+    "cafes": []
+  },
+  "Lowell": {
+    "city": "Lowell",
+    "city_ascii": "Lowell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2561,
+    "lng": -94.1532,
+    "cafes": []
+  },
+  "Camden": {
+    "city": "Camden",
+    "city_ascii": "Camden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5672,
+    "lng": -92.8467,
+    "cafes": []
+  },
+  "Arkadelphia": {
+    "city": "Arkadelphia",
+    "city_ascii": "Arkadelphia",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.1253,
+    "lng": -93.0729,
+    "cafes": []
+  },
+  "Greenwood": {
+    "city": "Greenwood",
+    "city_ascii": "Greenwood",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2134,
+    "lng": -94.2408,
+    "cafes": []
+  },
+  "Clarksville": {
+    "city": "Clarksville",
+    "city_ascii": "Clarksville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.457,
+    "lng": -93.4803,
+    "cafes": []
+  },
+  "Helena-West Helena": {
+    "city": "Helena-West Helena",
+    "city_ascii": "Helena-West Helena",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5313,
+    "lng": -90.6201,
+    "cafes": []
+  },
+  "Hope": {
+    "city": "Hope",
+    "city_ascii": "Hope",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6682,
+    "lng": -93.5895,
+    "cafes": []
+  },
+  "Beebe": {
+    "city": "Beebe",
+    "city_ascii": "Beebe",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0713,
+    "lng": -91.8998,
+    "cafes": []
+  },
+  "Farmington": {
+    "city": "Farmington",
+    "city_ascii": "Farmington",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.037,
+    "lng": -94.2537,
+    "cafes": []
+  },
+  "Monticello": {
+    "city": "Monticello",
+    "city_ascii": "Monticello",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6257,
+    "lng": -91.7934,
+    "cafes": []
+  },
+  "Wynne": {
+    "city": "Wynne",
+    "city_ascii": "Wynne",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2322,
+    "lng": -90.7897,
+    "cafes": []
+  },
+  "Stuttgart": {
+    "city": "Stuttgart",
+    "city_ascii": "Stuttgart",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4952,
+    "lng": -91.5487,
+    "cafes": []
+  },
+  "Newport": {
+    "city": "Newport",
+    "city_ascii": "Newport",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6234,
+    "lng": -91.2322,
+    "cafes": []
+  },
+  "Pocahontas": {
+    "city": "Pocahontas",
+    "city_ascii": "Pocahontas",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2635,
+    "lng": -90.9706,
+    "cafes": []
+  },
+  "Prairie Grove": {
+    "city": "Prairie Grove",
+    "city_ascii": "Prairie Grove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9858,
+    "lng": -94.3049,
+    "cafes": []
+  },
+  "Trumann": {
+    "city": "Trumann",
+    "city_ascii": "Trumann",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.677,
+    "lng": -90.5259,
+    "cafes": []
+  },
+  "Pea Ridge": {
+    "city": "Pea Ridge",
+    "city_ascii": "Pea Ridge",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4495,
+    "lng": -94.1218,
+    "cafes": []
+  },
+  "Heber Springs": {
+    "city": "Heber Springs",
+    "city_ascii": "Heber Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4995,
+    "lng": -92.0292,
+    "cafes": []
+  },
+  "Morrilton": {
+    "city": "Morrilton",
+    "city_ascii": "Morrilton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1558,
+    "lng": -92.7387,
+    "cafes": []
+  },
+  "Osceola": {
+    "city": "Osceola",
+    "city_ascii": "Osceola",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6942,
+    "lng": -89.9934,
+    "cafes": []
+  },
+  "Ward": {
+    "city": "Ward",
+    "city_ascii": "Ward",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0117,
+    "lng": -91.9577,
+    "cafes": []
+  },
+  "East End": {
+    "city": "East End",
+    "city_ascii": "East End",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5554,
+    "lng": -92.3261,
+    "cafes": []
+  },
+  "De Queen": {
+    "city": "De Queen",
+    "city_ascii": "De Queen",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.0426,
+    "lng": -94.342,
+    "cafes": []
+  },
+  "Alma": {
+    "city": "Alma",
+    "city_ascii": "Alma",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4919,
+    "lng": -94.2165,
+    "cafes": []
+  },
+  "Greenbrier": {
+    "city": "Greenbrier",
+    "city_ascii": "Greenbrier",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2289,
+    "lng": -92.3836,
+    "cafes": []
+  },
+  "Cave Springs": {
+    "city": "Cave Springs",
+    "city_ascii": "Cave Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2701,
+    "lng": -94.2227,
+    "cafes": []
+  },
+  "Tontitown": {
+    "city": "Tontitown",
+    "city_ascii": "Tontitown",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1642,
+    "lng": -94.2457,
+    "cafes": []
+  },
+  "Berryville": {
+    "city": "Berryville",
+    "city_ascii": "Berryville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.371,
+    "lng": -93.5704,
+    "cafes": []
+  },
+  "Mena": {
+    "city": "Mena",
+    "city_ascii": "Mena",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5812,
+    "lng": -94.2369,
+    "cafes": []
+  },
+  "White Hall": {
+    "city": "White Hall",
+    "city_ascii": "White Hall",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2741,
+    "lng": -92.1006,
+    "cafes": []
+  },
+  "Walnut Ridge": {
+    "city": "Walnut Ridge",
+    "city_ascii": "Walnut Ridge",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0848,
+    "lng": -90.9467,
+    "cafes": []
+  },
+  "Warren": {
+    "city": "Warren",
+    "city_ascii": "Warren",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6113,
+    "lng": -92.0678,
+    "cafes": []
+  },
+  "Cherokee Village": {
+    "city": "Cherokee Village",
+    "city_ascii": "Cherokee Village",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2959,
+    "lng": -91.5696,
+    "cafes": []
+  },
+  "Sheridan": {
+    "city": "Sheridan",
+    "city_ascii": "Sheridan",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2996,
+    "lng": -92.4223,
+    "cafes": []
+  },
+  "Barling": {
+    "city": "Barling",
+    "city_ascii": "Barling",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3284,
+    "lng": -94.2791,
+    "cafes": []
+  },
+  "Crossett": {
+    "city": "Crossett",
+    "city_ascii": "Crossett",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.128,
+    "lng": -91.9631,
+    "cafes": []
+  },
+  "Shannon Hills": {
+    "city": "Shannon Hills",
+    "city_ascii": "Shannon Hills",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6157,
+    "lng": -92.4217,
+    "cafes": []
+  },
+  "Dardanelle": {
+    "city": "Dardanelle",
+    "city_ascii": "Dardanelle",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2263,
+    "lng": -93.1649,
+    "cafes": []
+  },
+  "Piney": {
+    "city": "Piney",
+    "city_ascii": "Piney",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5024,
+    "lng": -93.142,
+    "cafes": []
+  },
+  "Vilonia": {
+    "city": "Vilonia",
+    "city_ascii": "Vilonia",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0807,
+    "lng": -92.2088,
+    "cafes": []
+  },
+  "Lonoke": {
+    "city": "Lonoke",
+    "city_ascii": "Lonoke",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7906,
+    "lng": -91.9072,
+    "cafes": []
+  },
+  "Southside": {
+    "city": "Southside",
+    "city_ascii": "Southside",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7149,
+    "lng": -91.6328,
+    "cafes": []
+  },
+  "Brookland": {
+    "city": "Brookland",
+    "city_ascii": "Brookland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8991,
+    "lng": -90.5767,
+    "cafes": []
+  },
+  "Ashdown": {
+    "city": "Ashdown",
+    "city_ascii": "Ashdown",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6746,
+    "lng": -94.1265,
+    "cafes": []
+  },
+  "Gibson": {
+    "city": "Gibson",
+    "city_ascii": "Gibson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.8923,
+    "lng": -92.2341,
+    "cafes": []
+  },
+  "Nashville": {
+    "city": "Nashville",
+    "city_ascii": "Nashville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9418,
+    "lng": -93.8516,
+    "cafes": []
+  },
+  "Gentry": {
+    "city": "Gentry",
+    "city_ascii": "Gentry",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2571,
+    "lng": -94.4908,
+    "cafes": []
+  },
+  "Haskell": {
+    "city": "Haskell",
+    "city_ascii": "Haskell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5095,
+    "lng": -92.6406,
+    "cafes": []
+  },
+  "Rockwell": {
+    "city": "Rockwell",
+    "city_ascii": "Rockwell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4636,
+    "lng": -93.134,
+    "cafes": []
+  },
+  "Dumas": {
+    "city": "Dumas",
+    "city_ascii": "Dumas",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8834,
+    "lng": -91.4857,
+    "cafes": []
+  },
+  "Booneville": {
+    "city": "Booneville",
+    "city_ascii": "Booneville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1392,
+    "lng": -93.9178,
+    "cafes": []
+  },
+  "Austin": {
+    "city": "Austin",
+    "city_ascii": "Austin",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0058,
+    "lng": -91.9895,
+    "cafes": []
+  },
+  "McGehee": {
+    "city": "McGehee",
+    "city_ascii": "McGehee",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6278,
+    "lng": -91.3953,
+    "cafes": []
+  },
+  "Elkins": {
+    "city": "Elkins",
+    "city_ascii": "Elkins",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0173,
+    "lng": -94.0252,
+    "cafes": []
+  },
+  "Landmark": {
+    "city": "Landmark",
+    "city_ascii": "Landmark",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6076,
+    "lng": -92.3186,
+    "cafes": []
+  },
+  "Manila": {
+    "city": "Manila",
+    "city_ascii": "Manila",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8847,
+    "lng": -90.1652,
+    "cafes": []
+  },
+  "Gravette": {
+    "city": "Gravette",
+    "city_ascii": "Gravette",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4291,
+    "lng": -94.3712,
+    "cafes": []
+  },
+  "Johnson": {
+    "city": "Johnson",
+    "city_ascii": "Johnson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1328,
+    "lng": -94.1757,
+    "cafes": []
+  },
+  "Piggott": {
+    "city": "Piggott",
+    "city_ascii": "Piggott",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3858,
+    "lng": -90.2016,
+    "cafes": []
+  },
+  "Ozark": {
+    "city": "Ozark",
+    "city_ascii": "Ozark",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4991,
+    "lng": -93.8438,
+    "cafes": []
+  },
+  "Marianna": {
+    "city": "Marianna",
+    "city_ascii": "Marianna",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7736,
+    "lng": -90.7674,
+    "cafes": []
+  },
+  "Alexander": {
+    "city": "Alexander",
+    "city_ascii": "Alexander",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6185,
+    "lng": -92.4512,
+    "cafes": []
+  },
+  "Waldron": {
+    "city": "Waldron",
+    "city_ascii": "Waldron",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9022,
+    "lng": -94.0953,
+    "cafes": []
+  },
+  "Fordyce": {
+    "city": "Fordyce",
+    "city_ascii": "Fordyce",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8182,
+    "lng": -92.4174,
+    "cafes": []
+  },
+  "Paris": {
+    "city": "Paris",
+    "city_ascii": "Paris",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2894,
+    "lng": -93.7252,
+    "cafes": []
+  },
+  "Pottsville": {
+    "city": "Pottsville",
+    "city_ascii": "Pottsville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2312,
+    "lng": -93.0654,
+    "cafes": []
+  },
+  "Corning": {
+    "city": "Corning",
+    "city_ascii": "Corning",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4134,
+    "lng": -90.5839,
+    "cafes": []
+  },
+  "West Fork": {
+    "city": "West Fork",
+    "city_ascii": "West Fork",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9355,
+    "lng": -94.18,
+    "cafes": []
+  },
+  "Huntsville": {
+    "city": "Huntsville",
+    "city_ascii": "Huntsville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0985,
+    "lng": -93.7363,
+    "cafes": []
+  },
+  "Green Forest": {
+    "city": "Green Forest",
+    "city_ascii": "Green Forest",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3347,
+    "lng": -93.431,
+    "cafes": []
+  },
+  "Prescott": {
+    "city": "Prescott",
+    "city_ascii": "Prescott",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8056,
+    "lng": -93.3909,
+    "cafes": []
+  },
+  "Little Flock": {
+    "city": "Little Flock",
+    "city_ascii": "Little Flock",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3853,
+    "lng": -94.1363,
+    "cafes": []
+  },
+  "Elm Springs": {
+    "city": "Elm Springs",
+    "city_ascii": "Elm Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2068,
+    "lng": -94.2382,
+    "cafes": []
+  },
+  "Hamburg": {
+    "city": "Hamburg",
+    "city_ascii": "Hamburg",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.2248,
+    "lng": -91.7972,
+    "cafes": []
+  },
+  "DeWitt": {
+    "city": "DeWitt",
+    "city_ascii": "DeWitt",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2874,
+    "lng": -91.3383,
+    "cafes": []
+  },
+  "Mountain View": {
+    "city": "Mountain View",
+    "city_ascii": "Mountain View",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8635,
+    "lng": -92.1041,
+    "cafes": []
+  },
+  "Atkins": {
+    "city": "Atkins",
+    "city_ascii": "Atkins",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2414,
+    "lng": -92.9465,
+    "cafes": []
+  },
+  "Lincoln": {
+    "city": "Lincoln",
+    "city_ascii": "Lincoln",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.949,
+    "lng": -94.4174,
+    "cafes": []
+  },
+  "Gosnell": {
+    "city": "Gosnell",
+    "city_ascii": "Gosnell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9644,
+    "lng": -89.9721,
+    "cafes": []
+  },
+  "Mayflower": {
+    "city": "Mayflower",
+    "city_ascii": "Mayflower",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9688,
+    "lng": -92.4224,
+    "cafes": []
+  },
+  "Dermott": {
+    "city": "Dermott",
+    "city_ascii": "Dermott",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5271,
+    "lng": -91.4323,
+    "cafes": []
+  },
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6308,
+    "lng": -92.5605,
+    "cafes": []
+  },
+  "Brinkley": {
+    "city": "Brinkley",
+    "city_ascii": "Brinkley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.89,
+    "lng": -91.1902,
+    "cafes": []
+  },
+  "Hoxie": {
+    "city": "Hoxie",
+    "city_ascii": "Hoxie",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.036,
+    "lng": -90.9736,
+    "cafes": []
+  },
+  "Charleston": {
+    "city": "Charleston",
+    "city_ascii": "Charleston",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2948,
+    "lng": -94.0484,
+    "cafes": []
+  },
+  "North Crossett": {
+    "city": "North Crossett",
+    "city_ascii": "North Crossett",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.1707,
+    "lng": -91.9367,
+    "cafes": []
+  },
+  "Bono": {
+    "city": "Bono",
+    "city_ascii": "Bono",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9111,
+    "lng": -90.8009,
+    "cafes": []
+  },
+  "Harrisburg": {
+    "city": "Harrisburg",
+    "city_ascii": "Harrisburg",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5637,
+    "lng": -90.7216,
+    "cafes": []
+  },
+  "England": {
+    "city": "England",
+    "city_ascii": "England",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5454,
+    "lng": -91.9675,
+    "cafes": []
+  },
+  "Bald Knob": {
+    "city": "Bald Knob",
+    "city_ascii": "Bald Knob",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3123,
+    "lng": -91.5709,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5798,
+    "lng": -92.4543,
+    "cafes": []
+  },
+  "Goshen": {
+    "city": "Goshen",
+    "city_ascii": "Goshen",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1044,
+    "lng": -94.0033,
+    "cafes": []
+  },
+  "Lavaca": {
+    "city": "Lavaca",
+    "city_ascii": "Lavaca",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3342,
+    "lng": -94.1798,
+    "cafes": []
+  },
+  "Horseshoe Bend": {
+    "city": "Horseshoe Bend",
+    "city_ascii": "Horseshoe Bend",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2218,
+    "lng": -91.7396,
+    "cafes": []
+  },
+  "Lake City": {
+    "city": "Lake City",
+    "city_ascii": "Lake City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8203,
+    "lng": -90.4547,
+    "cafes": []
+  },
+  "Holiday Island": {
+    "city": "Holiday Island",
+    "city_ascii": "Holiday Island",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4762,
+    "lng": -93.7343,
+    "cafes": []
+  },
+  "Bay": {
+    "city": "Bay",
+    "city_ascii": "Bay",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7456,
+    "lng": -90.5546,
+    "cafes": []
+  },
+  "Prairie Creek": {
+    "city": "Prairie Creek",
+    "city_ascii": "Prairie Creek",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3412,
+    "lng": -94.0602,
+    "cafes": []
+  },
+  "Lake Village": {
+    "city": "Lake Village",
+    "city_ascii": "Lake Village",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3287,
+    "lng": -91.2847,
+    "cafes": []
+  },
+  "Eureka Springs": {
+    "city": "Eureka Springs",
+    "city_ascii": "Eureka Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4105,
+    "lng": -93.745,
+    "cafes": []
+  },
+  "Fairfield Bay": {
+    "city": "Fairfield Bay",
+    "city_ascii": "Fairfield Bay",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.605,
+    "lng": -92.2659,
+    "cafes": []
+  },
+  "Marked Tree": {
+    "city": "Marked Tree",
+    "city_ascii": "Marked Tree",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5251,
+    "lng": -90.4252,
+    "cafes": []
+  },
+  "Star City": {
+    "city": "Star City",
+    "city_ascii": "Star City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9408,
+    "lng": -91.8399,
+    "cafes": []
+  },
+  "Melbourne": {
+    "city": "Melbourne",
+    "city_ascii": "Melbourne",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0638,
+    "lng": -91.882,
+    "cafes": []
+  },
+  "Gassville": {
+    "city": "Gassville",
+    "city_ascii": "Gassville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2849,
+    "lng": -92.4869,
+    "cafes": []
+  },
+  "Carlisle": {
+    "city": "Carlisle",
+    "city_ascii": "Carlisle",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7947,
+    "lng": -91.7361,
+    "cafes": []
+  },
+  "Smackover": {
+    "city": "Smackover",
+    "city_ascii": "Smackover",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3636,
+    "lng": -92.7314,
+    "cafes": []
+  },
+  "Danville": {
+    "city": "Danville",
+    "city_ascii": "Danville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0529,
+    "lng": -93.3902,
+    "cafes": []
+  },
+  "Judsonia": {
+    "city": "Judsonia",
+    "city_ascii": "Judsonia",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.277,
+    "lng": -91.6411,
+    "cafes": []
+  },
+  "McCrory": {
+    "city": "McCrory",
+    "city_ascii": "McCrory",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2573,
+    "lng": -91.1972,
+    "cafes": []
+  },
+  "Kensett": {
+    "city": "Kensett",
+    "city_ascii": "Kensett",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2354,
+    "lng": -91.6708,
+    "cafes": []
+  },
+  "Hazen": {
+    "city": "Hazen",
+    "city_ascii": "Hazen",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7964,
+    "lng": -91.5714,
+    "cafes": []
+  },
+  "Dover": {
+    "city": "Dover",
+    "city_ascii": "Dover",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.391,
+    "lng": -93.1143,
+    "cafes": []
+  },
+  "Cave City": {
+    "city": "Cave City",
+    "city_ascii": "Cave City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9481,
+    "lng": -91.5468,
+    "cafes": []
+  },
+  "Lake Hamilton": {
+    "city": "Lake Hamilton",
+    "city_ascii": "Lake Hamilton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4264,
+    "lng": -93.0887,
+    "cafes": []
+  },
+  "Highfill": {
+    "city": "Highfill",
+    "city_ascii": "Highfill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2767,
+    "lng": -94.3237,
+    "cafes": []
+  },
+  "Augusta": {
+    "city": "Augusta",
+    "city_ascii": "Augusta",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2865,
+    "lng": -91.3614,
+    "cafes": []
+  },
+  "Lepanto": {
+    "city": "Lepanto",
+    "city_ascii": "Lepanto",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6085,
+    "lng": -90.3329,
+    "cafes": []
+  },
+  "Eudora": {
+    "city": "Eudora",
+    "city_ascii": "Eudora",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.119,
+    "lng": -91.264,
+    "cafes": []
+  },
+  "Lamar": {
+    "city": "Lamar",
+    "city_ascii": "Lamar",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4436,
+    "lng": -93.3951,
+    "cafes": []
+  },
+  "Leachville": {
+    "city": "Leachville",
+    "city_ascii": "Leachville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9039,
+    "lng": -90.2625,
+    "cafes": []
+  },
+  "Murfreesboro": {
+    "city": "Murfreesboro",
+    "city_ascii": "Murfreesboro",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.0543,
+    "lng": -93.6834,
+    "cafes": []
+  },
+  "Calico Rock": {
+    "city": "Calico Rock",
+    "city_ascii": "Calico Rock",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1401,
+    "lng": -92.1341,
+    "cafes": []
+  },
+  "Gurdon": {
+    "city": "Gurdon",
+    "city_ascii": "Gurdon",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9154,
+    "lng": -93.1545,
+    "cafes": []
+  },
+  "Cedarville": {
+    "city": "Cedarville",
+    "city_ascii": "Cedarville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.583,
+    "lng": -94.3615,
+    "cafes": []
+  },
+  "Glenwood": {
+    "city": "Glenwood",
+    "city_ascii": "Glenwood",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.3278,
+    "lng": -93.5308,
+    "cafes": []
+  },
+  "Bull Shoals": {
+    "city": "Bull Shoals",
+    "city_ascii": "Bull Shoals",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3748,
+    "lng": -92.5902,
+    "cafes": []
+  },
+  "Rector": {
+    "city": "Rector",
+    "city_ascii": "Rector",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2642,
+    "lng": -90.2935,
+    "cafes": []
+  },
+  "Mulberry": {
+    "city": "Mulberry",
+    "city_ascii": "Mulberry",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.51,
+    "lng": -94.074,
+    "cafes": []
+  },
+  "Clarendon": {
+    "city": "Clarendon",
+    "city_ascii": "Clarendon",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6936,
+    "lng": -91.3062,
+    "cafes": []
+  },
+  "Avilla": {
+    "city": "Avilla",
+    "city_ascii": "Avilla",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7003,
+    "lng": -92.5794,
+    "cafes": []
+  },
+  "Newark": {
+    "city": "Newark",
+    "city_ascii": "Newark",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7076,
+    "lng": -91.4434,
+    "cafes": []
+  },
+  "Decatur": {
+    "city": "Decatur",
+    "city_ascii": "Decatur",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3402,
+    "lng": -94.4578,
+    "cafes": []
+  },
+  "Stamps": {
+    "city": "Stamps",
+    "city_ascii": "Stamps",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3568,
+    "lng": -93.4955,
+    "cafes": []
+  },
+  "McAlmont": {
+    "city": "McAlmont",
+    "city_ascii": "McAlmont",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7925,
+    "lng": -92.196,
+    "cafes": []
+  },
+  "Redfield": {
+    "city": "Redfield",
+    "city_ascii": "Redfield",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4429,
+    "lng": -92.1844,
+    "cafes": []
+  },
+  "Des Arc": {
+    "city": "Des Arc",
+    "city_ascii": "Des Arc",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9776,
+    "lng": -91.5067,
+    "cafes": []
+  },
+  "Marshall": {
+    "city": "Marshall",
+    "city_ascii": "Marshall",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9084,
+    "lng": -92.6459,
+    "cafes": []
+  },
+  "Earle": {
+    "city": "Earle",
+    "city_ascii": "Earle",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2734,
+    "lng": -90.4642,
+    "cafes": []
+  },
+  "Wrightsville": {
+    "city": "Wrightsville",
+    "city_ascii": "Wrightsville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6109,
+    "lng": -92.2136,
+    "cafes": []
+  },
+  "Monette": {
+    "city": "Monette",
+    "city_ascii": "Monette",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8931,
+    "lng": -90.3443,
+    "cafes": []
+  },
+  "Tuckerman": {
+    "city": "Tuckerman",
+    "city_ascii": "Tuckerman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7259,
+    "lng": -91.2016,
+    "cafes": []
+  },
+  "Marmaduke": {
+    "city": "Marmaduke",
+    "city_ascii": "Marmaduke",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.19,
+    "lng": -90.385,
+    "cafes": []
+  },
+  "Mount Ida": {
+    "city": "Mount Ida",
+    "city_ascii": "Mount Ida",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5509,
+    "lng": -93.6309,
+    "cafes": []
+  },
+  "Mansfield": {
+    "city": "Mansfield",
+    "city_ascii": "Mansfield",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0635,
+    "lng": -94.2373,
+    "cafes": []
+  },
+  "East Camden": {
+    "city": "East Camden",
+    "city_ascii": "East Camden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6084,
+    "lng": -92.7443,
+    "cafes": []
+  },
+  "Greenland": {
+    "city": "Greenland",
+    "city_ascii": "Greenland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9963,
+    "lng": -94.19,
+    "cafes": []
+  },
+  "Ash Flat": {
+    "city": "Ash Flat",
+    "city_ascii": "Ash Flat",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2365,
+    "lng": -91.6067,
+    "cafes": []
+  },
+  "Kibler": {
+    "city": "Kibler",
+    "city_ascii": "Kibler",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4268,
+    "lng": -94.2358,
+    "cafes": []
+  },
+  "Flippin": {
+    "city": "Flippin",
+    "city_ascii": "Flippin",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2773,
+    "lng": -92.5935,
+    "cafes": []
+  },
+  "Perryville": {
+    "city": "Perryville",
+    "city_ascii": "Perryville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.012,
+    "lng": -92.803,
+    "cafes": []
+  },
+  "Midway": {
+    "city": "Midway",
+    "city_ascii": "Midway",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3911,
+    "lng": -92.4732,
+    "cafes": []
+  },
+  "Oak Grove Heights": {
+    "city": "Oak Grove Heights",
+    "city_ascii": "Oak Grove Heights",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1271,
+    "lng": -90.5085,
+    "cafes": []
+  },
+  "Diaz": {
+    "city": "Diaz",
+    "city_ascii": "Diaz",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6478,
+    "lng": -91.262,
+    "cafes": []
+  },
+  "Yellville": {
+    "city": "Yellville",
+    "city_ascii": "Yellville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2289,
+    "lng": -92.686,
+    "cafes": []
+  },
+  "Roland": {
+    "city": "Roland",
+    "city_ascii": "Roland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9005,
+    "lng": -92.5186,
+    "cafes": []
+  },
+  "West Crossett": {
+    "city": "West Crossett",
+    "city_ascii": "West Crossett",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.1488,
+    "lng": -92.0221,
+    "cafes": []
+  },
+  "Sweet Home": {
+    "city": "Sweet Home",
+    "city_ascii": "Sweet Home",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6707,
+    "lng": -92.2465,
+    "cafes": []
+  },
+  "Hackett": {
+    "city": "Hackett",
+    "city_ascii": "Hackett",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1877,
+    "lng": -94.4106,
+    "cafes": []
+  },
+  "Hampton": {
+    "city": "Hampton",
+    "city_ascii": "Hampton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5347,
+    "lng": -92.4667,
+    "cafes": []
+  },
+  "London": {
+    "city": "London",
+    "city_ascii": "London",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.328,
+    "lng": -93.2416,
+    "cafes": []
+  },
+  "Mineral Springs": {
+    "city": "Mineral Springs",
+    "city_ascii": "Mineral Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8771,
+    "lng": -93.9217,
+    "cafes": []
+  },
+  "Waldo": {
+    "city": "Waldo",
+    "city_ascii": "Waldo",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3524,
+    "lng": -93.2956,
+    "cafes": []
+  },
+  "Wooster": {
+    "city": "Wooster",
+    "city_ascii": "Wooster",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1998,
+    "lng": -92.4503,
+    "cafes": []
+  },
+  "Highland": {
+    "city": "Highland",
+    "city_ascii": "Highland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2657,
+    "lng": -91.5186,
+    "cafes": []
+  },
+  "Wilson": {
+    "city": "Wilson",
+    "city_ascii": "Wilson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5661,
+    "lng": -90.043,
+    "cafes": []
+  },
+  "Swifton": {
+    "city": "Swifton",
+    "city_ascii": "Swifton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8245,
+    "lng": -91.1294,
+    "cafes": []
+  },
+  "Caraway": {
+    "city": "Caraway",
+    "city_ascii": "Caraway",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7597,
+    "lng": -90.3222,
+    "cafes": []
+  },
+  "Sulphur Springs": {
+    "city": "Sulphur Springs",
+    "city_ascii": "Sulphur Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.1709,
+    "lng": -92.1298,
+    "cafes": []
+  },
+  "Oppelo": {
+    "city": "Oppelo",
+    "city_ascii": "Oppelo",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1003,
+    "lng": -92.7733,
+    "cafes": []
+  },
+  "Horatio": {
+    "city": "Horatio",
+    "city_ascii": "Horatio",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.941,
+    "lng": -94.3554,
+    "cafes": []
+  },
+  "Plumerville": {
+    "city": "Plumerville",
+    "city_ascii": "Plumerville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.16,
+    "lng": -92.643,
+    "cafes": []
+  },
+  "Marvell": {
+    "city": "Marvell",
+    "city_ascii": "Marvell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5563,
+    "lng": -90.9153,
+    "cafes": []
+  },
+  "Genoa": {
+    "city": "Genoa",
+    "city_ascii": "Genoa",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3775,
+    "lng": -93.8825,
+    "cafes": []
+  },
+  "Dyer": {
+    "city": "Dyer",
+    "city_ascii": "Dyer",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4944,
+    "lng": -94.1388,
+    "cafes": []
+  },
+  "Ola": {
+    "city": "Ola",
+    "city_ascii": "Ola",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.031,
+    "lng": -93.2244,
+    "cafes": []
+  },
+  "Oxford": {
+    "city": "Oxford",
+    "city_ascii": "Oxford",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.209,
+    "lng": -91.9183,
+    "cafes": []
+  },
+  "Rison": {
+    "city": "Rison",
+    "city_ascii": "Rison",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9599,
+    "lng": -92.1936,
+    "cafes": []
+  },
+  "Greers Ferry": {
+    "city": "Greers Ferry",
+    "city_ascii": "Greers Ferry",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5674,
+    "lng": -92.1688,
+    "cafes": []
+  },
+  "Amity": {
+    "city": "Amity",
+    "city_ascii": "Amity",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2662,
+    "lng": -93.4634,
+    "cafes": []
+  },
+  "Cotter": {
+    "city": "Cotter",
+    "city_ascii": "Cotter",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2819,
+    "lng": -92.5212,
+    "cafes": []
+  },
+  "Cammack Village": {
+    "city": "Cammack Village",
+    "city_ascii": "Cammack Village",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7808,
+    "lng": -92.3449,
+    "cafes": []
+  },
+  "Lakeview": {
+    "city": "Lakeview",
+    "city_ascii": "Lakeview",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3739,
+    "lng": -92.5387,
+    "cafes": []
+  },
+  "Foreman": {
+    "city": "Foreman",
+    "city_ascii": "Foreman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7198,
+    "lng": -94.3979,
+    "cafes": []
+  },
+  "Lewisville": {
+    "city": "Lewisville",
+    "city_ascii": "Lewisville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3643,
+    "lng": -93.5751,
+    "cafes": []
+  },
+  "Stephens": {
+    "city": "Stephens",
+    "city_ascii": "Stephens",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.4221,
+    "lng": -93.067,
+    "cafes": []
+  },
+  "Desha": {
+    "city": "Desha",
+    "city_ascii": "Desha",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7305,
+    "lng": -91.6856,
+    "cafes": []
+  },
+  "Higginson": {
+    "city": "Higginson",
+    "city_ascii": "Higginson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1968,
+    "lng": -91.7152,
+    "cafes": []
+  },
+  "Hughes": {
+    "city": "Hughes",
+    "city_ascii": "Hughes",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9483,
+    "lng": -90.4707,
+    "cafes": []
+  },
+  "Wickes": {
+    "city": "Wickes",
+    "city_ascii": "Wickes",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2988,
+    "lng": -94.3331,
+    "cafes": []
+  },
+  "Magazine": {
+    "city": "Magazine",
+    "city_ascii": "Magazine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1534,
+    "lng": -93.8078,
+    "cafes": []
+  },
+  "Mammoth Spring": {
+    "city": "Mammoth Spring",
+    "city_ascii": "Mammoth Spring",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4925,
+    "lng": -91.5413,
+    "cafes": []
+  },
+  "Altus": {
+    "city": "Altus",
+    "city_ascii": "Altus",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4468,
+    "lng": -93.7644,
+    "cafes": []
+  },
+  "Coal Hill": {
+    "city": "Coal Hill",
+    "city_ascii": "Coal Hill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4375,
+    "lng": -93.6647,
+    "cafes": []
+  },
+  "Hardy": {
+    "city": "Hardy",
+    "city_ascii": "Hardy",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3189,
+    "lng": -91.4794,
+    "cafes": []
+  },
+  "Norphlet": {
+    "city": "Norphlet",
+    "city_ascii": "Norphlet",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3198,
+    "lng": -92.6619,
+    "cafes": []
+  },
+  "Diamond City": {
+    "city": "Diamond City",
+    "city_ascii": "Diamond City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4574,
+    "lng": -92.9129,
+    "cafes": []
+  },
+  "Magnet Cove": {
+    "city": "Magnet Cove",
+    "city_ascii": "Magnet Cove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4492,
+    "lng": -92.8376,
+    "cafes": []
+  },
+  "Avoca": {
+    "city": "Avoca",
+    "city_ascii": "Avoca",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.398,
+    "lng": -94.071,
+    "cafes": []
+  },
+  "Floyd": {
+    "city": "Floyd",
+    "city_ascii": "Floyd",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1989,
+    "lng": -91.9645,
+    "cafes": []
+  },
+  "Keiser": {
+    "city": "Keiser",
+    "city_ascii": "Keiser",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.674,
+    "lng": -90.0958,
+    "cafes": []
+  },
+  "Bearden": {
+    "city": "Bearden",
+    "city_ascii": "Bearden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7276,
+    "lng": -92.6187,
+    "cafes": []
+  },
+  "Black Rock": {
+    "city": "Black Rock",
+    "city_ascii": "Black Rock",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.107,
+    "lng": -91.1074,
+    "cafes": []
+  },
+  "Luxora": {
+    "city": "Luxora",
+    "city_ascii": "Luxora",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7575,
+    "lng": -89.9298,
+    "cafes": []
+  },
+  "Rockport": {
+    "city": "Rockport",
+    "city_ascii": "Rockport",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4069,
+    "lng": -92.8077,
+    "cafes": []
+  },
+  "Imboden": {
+    "city": "Imboden",
+    "city_ascii": "Imboden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1997,
+    "lng": -91.1774,
+    "cafes": []
+  },
+  "Lockesburg": {
+    "city": "Lockesburg",
+    "city_ascii": "Lockesburg",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9716,
+    "lng": -94.1761,
+    "cafes": []
+  },
+  "Bauxite": {
+    "city": "Bauxite",
+    "city_ascii": "Bauxite",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5602,
+    "lng": -92.4989,
+    "cafes": []
+  },
+  "Tumbling Shoals": {
+    "city": "Tumbling Shoals",
+    "city_ascii": "Tumbling Shoals",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5472,
+    "lng": -91.9734,
+    "cafes": []
+  },
+  "Quitman": {
+    "city": "Quitman",
+    "city_ascii": "Quitman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3817,
+    "lng": -92.2147,
+    "cafes": []
+  },
+  "Sulphur Rock": {
+    "city": "Sulphur Rock",
+    "city_ascii": "Sulphur Rock",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7517,
+    "lng": -91.5003,
+    "cafes": []
+  },
+  "Bonanza": {
+    "city": "Bonanza",
+    "city_ascii": "Bonanza",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2335,
+    "lng": -94.4167,
+    "cafes": []
+  },
+  "Woodson": {
+    "city": "Woodson",
+    "city_ascii": "Woodson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.538,
+    "lng": -92.2211,
+    "cafes": []
+  },
+  "McRae": {
+    "city": "McRae",
+    "city_ascii": "McRae",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1119,
+    "lng": -91.8253,
+    "cafes": []
+  },
+  "Parkin": {
+    "city": "Parkin",
+    "city_ascii": "Parkin",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2629,
+    "lng": -90.553,
+    "cafes": []
+  },
+  "Holland": {
+    "city": "Holland",
+    "city_ascii": "Holland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.166,
+    "lng": -92.277,
+    "cafes": []
+  },
+  "Caddo Valley": {
+    "city": "Caddo Valley",
+    "city_ascii": "Caddo Valley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.1898,
+    "lng": -93.0679,
+    "cafes": []
+  },
+  "Natural Steps": {
+    "city": "Natural Steps",
+    "city_ascii": "Natural Steps",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.8668,
+    "lng": -92.4881,
+    "cafes": []
+  },
+  "Fouke": {
+    "city": "Fouke",
+    "city_ascii": "Fouke",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.2622,
+    "lng": -93.8852,
+    "cafes": []
+  },
+  "Lacey": {
+    "city": "Lacey",
+    "city_ascii": "Lacey",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.4503,
+    "lng": -91.8496,
+    "cafes": []
+  },
+  "Weiner": {
+    "city": "Weiner",
+    "city_ascii": "Weiner",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6197,
+    "lng": -90.9054,
+    "cafes": []
+  },
+  "Palestine": {
+    "city": "Palestine",
+    "city_ascii": "Palestine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9696,
+    "lng": -90.9068,
+    "cafes": []
+  },
+  "Ozark Acres": {
+    "city": "Ozark Acres",
+    "city_ascii": "Ozark Acres",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3,
+    "lng": -91.3871,
+    "cafes": []
+  },
+  "Cherry Valley": {
+    "city": "Cherry Valley",
+    "city_ascii": "Cherry Valley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4028,
+    "lng": -90.7536,
+    "cafes": []
+  },
+  "Sardis": {
+    "city": "Sardis",
+    "city_ascii": "Sardis",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.533,
+    "lng": -92.4067,
+    "cafes": []
+  },
+  "Tyronza": {
+    "city": "Tyronza",
+    "city_ascii": "Tyronza",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4868,
+    "lng": -90.356,
+    "cafes": []
+  },
+  "Fountain Lake": {
+    "city": "Fountain Lake",
+    "city_ascii": "Fountain Lake",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6099,
+    "lng": -92.9197,
+    "cafes": []
+  },
+  "Taylor": {
+    "city": "Taylor",
+    "city_ascii": "Taylor",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.0998,
+    "lng": -93.4618,
+    "cafes": []
+  },
+  "Summit": {
+    "city": "Summit",
+    "city_ascii": "Summit",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2522,
+    "lng": -92.6886,
+    "cafes": []
+  },
+  "Dierks": {
+    "city": "Dierks",
+    "city_ascii": "Dierks",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.12,
+    "lng": -94.0173,
+    "cafes": []
+  },
+  "Mountainburg": {
+    "city": "Mountainburg",
+    "city_ascii": "Mountainburg",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.636,
+    "lng": -94.1681,
+    "cafes": []
+  },
+  "Knoxville": {
+    "city": "Knoxville",
+    "city_ascii": "Knoxville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.378,
+    "lng": -93.363,
+    "cafes": []
+  },
+  "Wilmar": {
+    "city": "Wilmar",
+    "city_ascii": "Wilmar",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6264,
+    "lng": -91.9294,
+    "cafes": []
+  },
+  "Norfork": {
+    "city": "Norfork",
+    "city_ascii": "Norfork",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2099,
+    "lng": -92.2803,
+    "cafes": []
+  },
+  "Guy": {
+    "city": "Guy",
+    "city_ascii": "Guy",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3273,
+    "lng": -92.3367,
+    "cafes": []
+  },
+  "Mountain Pine": {
+    "city": "Mountain Pine",
+    "city_ascii": "Mountain Pine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5693,
+    "lng": -93.1726,
+    "cafes": []
+  },
+  "Bergman": {
+    "city": "Bergman",
+    "city_ascii": "Bergman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3128,
+    "lng": -93.0115,
+    "cafes": []
+  },
+  "Kirby": {
+    "city": "Kirby",
+    "city_ascii": "Kirby",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.254,
+    "lng": -93.6549,
+    "cafes": []
+  },
+  "Altheimer": {
+    "city": "Altheimer",
+    "city_ascii": "Altheimer",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.3241,
+    "lng": -91.8481,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0193,
+    "lng": -90.7317,
+    "cafes": []
+  },
+  "Central City": {
+    "city": "Central City",
+    "city_ascii": "Central City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.33,
+    "lng": -94.2347,
+    "cafes": []
+  },
+  "Junction City": {
+    "city": "Junction City",
+    "city_ascii": "Junction City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.022,
+    "lng": -92.7236,
+    "cafes": []
+  },
+  "Kingsland": {
+    "city": "Kingsland",
+    "city_ascii": "Kingsland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8659,
+    "lng": -92.2911,
+    "cafes": []
+  },
+  "Cincinnati": {
+    "city": "Cincinnati",
+    "city_ascii": "Cincinnati",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0405,
+    "lng": -94.5185,
+    "cafes": []
+  },
+  "Clarkedale": {
+    "city": "Clarkedale",
+    "city_ascii": "Clarkedale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2971,
+    "lng": -90.2103,
+    "cafes": []
+  },
+  "Hartman": {
+    "city": "Hartman",
+    "city_ascii": "Hartman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4353,
+    "lng": -93.6235,
+    "cafes": []
+  },
+  "Holly Grove": {
+    "city": "Holly Grove",
+    "city_ascii": "Holly Grove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6003,
+    "lng": -91.1962,
+    "cafes": []
+  },
+  "Enola": {
+    "city": "Enola",
+    "city_ascii": "Enola",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1959,
+    "lng": -92.2066,
+    "cafes": []
+  },
+  "Bigelow": {
+    "city": "Bigelow",
+    "city_ascii": "Bigelow",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9975,
+    "lng": -92.6315,
+    "cafes": []
+  },
+  "Huntington": {
+    "city": "Huntington",
+    "city_ascii": "Huntington",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0814,
+    "lng": -94.2663,
+    "cafes": []
+  },
+  "Hatfield": {
+    "city": "Hatfield",
+    "city_ascii": "Hatfield",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4861,
+    "lng": -94.3792,
+    "cafes": []
+  },
+  "Elaine": {
+    "city": "Elaine",
+    "city_ascii": "Elaine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.3087,
+    "lng": -90.8533,
+    "cafes": []
+  },
+  "Pangburn": {
+    "city": "Pangburn",
+    "city_ascii": "Pangburn",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4261,
+    "lng": -91.8394,
+    "cafes": []
+  },
+  "De Valls Bluff": {
+    "city": "De Valls Bluff",
+    "city_ascii": "De Valls Bluff",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7861,
+    "lng": -91.4608,
+    "cafes": []
+  },
+  "Belleville": {
+    "city": "Belleville",
+    "city_ascii": "Belleville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0915,
+    "lng": -93.4458,
+    "cafes": []
+  },
+  "Gould": {
+    "city": "Gould",
+    "city_ascii": "Gould",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9872,
+    "lng": -91.5641,
+    "cafes": []
+  },
+  "Bradford": {
+    "city": "Bradford",
+    "city_ascii": "Bradford",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.422,
+    "lng": -91.4552,
+    "cafes": []
+  },
+  "Tull": {
+    "city": "Tull",
+    "city_ascii": "Tull",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4409,
+    "lng": -92.5779,
+    "cafes": []
+  },
+  "Grannis": {
+    "city": "Grannis",
+    "city_ascii": "Grannis",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2398,
+    "lng": -94.322,
+    "cafes": []
+  },
+  "Hartford": {
+    "city": "Hartford",
+    "city_ascii": "Hartford",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0236,
+    "lng": -94.3799,
+    "cafes": []
+  },
+  "Salesville": {
+    "city": "Salesville",
+    "city_ascii": "Salesville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.241,
+    "lng": -92.2769,
+    "cafes": []
+  },
+  "Bradley": {
+    "city": "Bradley",
+    "city_ascii": "Bradley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.0993,
+    "lng": -93.6569,
+    "cafes": []
+  },
+  "Bellefonte": {
+    "city": "Bellefonte",
+    "city_ascii": "Bellefonte",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1998,
+    "lng": -93.047,
+    "cafes": []
+  },
+  "Leola": {
+    "city": "Leola",
+    "city_ascii": "Leola",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.17,
+    "lng": -92.5914,
+    "cafes": []
+  },
+  "Rose Bud": {
+    "city": "Rose Bud",
+    "city_ascii": "Rose Bud",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3249,
+    "lng": -92.081,
+    "cafes": []
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3774,
+    "lng": -92.2155,
+    "cafes": []
+  },
+  "El Paso": {
+    "city": "El Paso",
+    "city_ascii": "El Paso",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1153,
+    "lng": -92.0812,
+    "cafes": []
+  },
+  "Wesley": {
+    "city": "Wesley",
+    "city_ascii": "Wesley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.029,
+    "lng": -93.9165,
+    "cafes": []
+  },
+  "Arkansas City": {
+    "city": "Arkansas City",
+    "city_ascii": "Arkansas City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6089,
+    "lng": -91.2048,
+    "cafes": []
+  },
+  "Crawfordsville": {
+    "city": "Crawfordsville",
+    "city_ascii": "Crawfordsville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2267,
+    "lng": -90.3241,
+    "cafes": []
+  },
+  "Sparkman": {
+    "city": "Sparkman",
+    "city_ascii": "Sparkman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9172,
+    "lng": -92.8501,
+    "cafes": []
+  },
+  "Garfield": {
+    "city": "Garfield",
+    "city_ascii": "Garfield",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4555,
+    "lng": -93.9757,
+    "cafes": []
+  },
+  "Plainview": {
+    "city": "Plainview",
+    "city_ascii": "Plainview",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9899,
+    "lng": -93.298,
+    "cafes": []
+  },
+  "Gillett": {
+    "city": "Gillett",
+    "city_ascii": "Gillett",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.1193,
+    "lng": -91.3789,
+    "cafes": []
+  },
+  "Jasper": {
+    "city": "Jasper",
+    "city_ascii": "Jasper",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0124,
+    "lng": -93.1874,
+    "cafes": []
+  },
+  "Biggers": {
+    "city": "Biggers",
+    "city_ascii": "Biggers",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3319,
+    "lng": -90.8052,
+    "cafes": []
+  },
+  "Cushman": {
+    "city": "Cushman",
+    "city_ascii": "Cushman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8658,
+    "lng": -91.7782,
+    "cafes": []
+  },
+  "Caldwell": {
+    "city": "Caldwell",
+    "city_ascii": "Caldwell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0788,
+    "lng": -90.8135,
+    "cafes": []
+  },
+  "Ravenden": {
+    "city": "Ravenden",
+    "city_ascii": "Ravenden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2417,
+    "lng": -91.2511,
+    "cafes": []
+  },
+  "Colt": {
+    "city": "Colt",
+    "city_ascii": "Colt",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1329,
+    "lng": -90.8129,
+    "cafes": []
+  },
+  "Wheatley": {
+    "city": "Wheatley",
+    "city_ascii": "Wheatley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9212,
+    "lng": -91.1063,
+    "cafes": []
+  },
+  "Batavia": {
+    "city": "Batavia",
+    "city_ascii": "Batavia",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2498,
+    "lng": -93.216,
+    "cafes": []
+  },
+  "Salado": {
+    "city": "Salado",
+    "city_ascii": "Salado",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6954,
+    "lng": -91.5923,
+    "cafes": []
+  },
+  "Leslie": {
+    "city": "Leslie",
+    "city_ascii": "Leslie",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8294,
+    "lng": -92.5563,
+    "cafes": []
+  },
+  "Emmet": {
+    "city": "Emmet",
+    "city_ascii": "Emmet",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7227,
+    "lng": -93.4658,
+    "cafes": []
+  },
+  "Portia": {
+    "city": "Portia",
+    "city_ascii": "Portia",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0848,
+    "lng": -91.0711,
+    "cafes": []
+  },
+  "Traskwood": {
+    "city": "Traskwood",
+    "city_ascii": "Traskwood",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4533,
+    "lng": -92.6642,
+    "cafes": []
+  },
+  "Wilmot": {
+    "city": "Wilmot",
+    "city_ascii": "Wilmot",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.0588,
+    "lng": -91.5749,
+    "cafes": []
+  },
+  "Joiner": {
+    "city": "Joiner",
+    "city_ascii": "Joiner",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5054,
+    "lng": -90.1501,
+    "cafes": []
+  },
+  "Lafe": {
+    "city": "Lafe",
+    "city_ascii": "Lafe",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2092,
+    "lng": -90.5043,
+    "cafes": []
+  },
+  "Prattsville": {
+    "city": "Prattsville",
+    "city_ascii": "Prattsville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.3172,
+    "lng": -92.5429,
+    "cafes": []
+  },
+  "Portland": {
+    "city": "Portland",
+    "city_ascii": "Portland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.2379,
+    "lng": -91.5109,
+    "cafes": []
+  },
+  "Alpena": {
+    "city": "Alpena",
+    "city_ascii": "Alpena",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2897,
+    "lng": -93.3037,
+    "cafes": []
+  },
+  "Western Grove": {
+    "city": "Western Grove",
+    "city_ascii": "Western Grove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1011,
+    "lng": -92.9546,
+    "cafes": []
+  },
+  "Cotton Plant": {
+    "city": "Cotton Plant",
+    "city_ascii": "Cotton Plant",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0059,
+    "lng": -91.252,
+    "cafes": []
+  },
+  "Turrell": {
+    "city": "Turrell",
+    "city_ascii": "Turrell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3763,
+    "lng": -90.2704,
+    "cafes": []
+  },
+  "Subiaco": {
+    "city": "Subiaco",
+    "city_ascii": "Subiaco",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2982,
+    "lng": -93.6385,
+    "cafes": []
+  },
+  "McNeil": {
+    "city": "McNeil",
+    "city_ascii": "McNeil",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3479,
+    "lng": -93.2084,
+    "cafes": []
+  },
+  "Calion": {
+    "city": "Calion",
+    "city_ascii": "Calion",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3287,
+    "lng": -92.5402,
+    "cafes": []
+  },
+  "Huttig": {
+    "city": "Huttig",
+    "city_ascii": "Huttig",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.0418,
+    "lng": -92.1818,
+    "cafes": []
+  },
+  "Damascus": {
+    "city": "Damascus",
+    "city_ascii": "Damascus",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3671,
+    "lng": -92.4108,
+    "cafes": []
+  },
+  "Horseshoe Lake": {
+    "city": "Horseshoe Lake",
+    "city_ascii": "Horseshoe Lake",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9136,
+    "lng": -90.308,
+    "cafes": []
+  },
+  "Armorel": {
+    "city": "Armorel",
+    "city_ascii": "Armorel",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9223,
+    "lng": -89.8009,
+    "cafes": []
+  },
+  "Wabbaseka": {
+    "city": "Wabbaseka",
+    "city_ascii": "Wabbaseka",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.3592,
+    "lng": -91.7928,
+    "cafes": []
+  },
+  "Poyen": {
+    "city": "Poyen",
+    "city_ascii": "Poyen",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.3242,
+    "lng": -92.642,
+    "cafes": []
+  },
+  "Strong": {
+    "city": "Strong",
+    "city_ascii": "Strong",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.1079,
+    "lng": -92.3556,
+    "cafes": []
+  },
+  "Dennard": {
+    "city": "Dennard",
+    "city_ascii": "Dennard",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7491,
+    "lng": -92.5388,
+    "cafes": []
+  },
+  "Hermitage": {
+    "city": "Hermitage",
+    "city_ascii": "Hermitage",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.4474,
+    "lng": -92.1714,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2729,
+    "lng": -92.5549,
+    "cafes": []
+  },
+  "Hector": {
+    "city": "Hector",
+    "city_ascii": "Hector",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4646,
+    "lng": -92.9759,
+    "cafes": []
+  },
+  "Donaldson": {
+    "city": "Donaldson",
+    "city_ascii": "Donaldson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.235,
+    "lng": -92.9195,
+    "cafes": []
+  },
+  "Reyno": {
+    "city": "Reyno",
+    "city_ascii": "Reyno",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3609,
+    "lng": -90.759,
+    "cafes": []
+  },
+  "Cash": {
+    "city": "Cash",
+    "city_ascii": "Cash",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8013,
+    "lng": -90.9315,
+    "cafes": []
+  },
+  "Grubbs": {
+    "city": "Grubbs",
+    "city_ascii": "Grubbs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.654,
+    "lng": -91.0755,
+    "cafes": []
+  },
+  "Rosston": {
+    "city": "Rosston",
+    "city_ascii": "Rosston",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5877,
+    "lng": -93.2798,
+    "cafes": []
+  },
+  "Cove": {
+    "city": "Cove",
+    "city_ascii": "Cove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4366,
+    "lng": -94.4161,
+    "cafes": []
+  },
+  "Maynard": {
+    "city": "Maynard",
+    "city_ascii": "Maynard",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4214,
+    "lng": -90.9018,
+    "cafes": []
+  },
+  "New Blaine": {
+    "city": "New Blaine",
+    "city_ascii": "New Blaine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2931,
+    "lng": -93.4202,
+    "cafes": []
+  },
+  "Vanndale": {
+    "city": "Vanndale",
+    "city_ascii": "Vanndale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3153,
+    "lng": -90.7711,
+    "cafes": []
+  },
+  "Cherokee City": {
+    "city": "Cherokee City",
+    "city_ascii": "Cherokee City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2947,
+    "lng": -94.5769,
+    "cafes": []
+  },
+  "Chidester": {
+    "city": "Chidester",
+    "city_ascii": "Chidester",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.702,
+    "lng": -93.0238,
+    "cafes": []
+  },
+  "Pearcy": {
+    "city": "Pearcy",
+    "city_ascii": "Pearcy",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4314,
+    "lng": -93.2886,
+    "cafes": []
+  },
+  "Walcott": {
+    "city": "Walcott",
+    "city_ascii": "Walcott",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0454,
+    "lng": -90.6722,
+    "cafes": []
+  },
+  "Viola": {
+    "city": "Viola",
+    "city_ascii": "Viola",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3968,
+    "lng": -91.9863,
+    "cafes": []
+  },
+  "Branch": {
+    "city": "Branch",
+    "city_ascii": "Branch",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3075,
+    "lng": -93.9557,
+    "cafes": []
+  },
+  "Campbell Station": {
+    "city": "Campbell Station",
+    "city_ascii": "Campbell Station",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6678,
+    "lng": -91.2538,
+    "cafes": []
+  },
+  "Yarborough Landing": {
+    "city": "Yarborough Landing",
+    "city_ascii": "Yarborough Landing",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7126,
+    "lng": -94.0112,
+    "cafes": []
+  },
+  "Midland": {
+    "city": "Midland",
+    "city_ascii": "Midland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0927,
+    "lng": -94.3531,
+    "cafes": []
+  },
+  "Oak Grove": {
+    "city": "Oak Grove",
+    "city_ascii": "Oak Grove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3594,
+    "lng": -92.9598,
+    "cafes": []
+  },
+  "College Station": {
+    "city": "College Station",
+    "city_ascii": "College Station",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7057,
+    "lng": -92.2297,
+    "cafes": []
+  },
+  "Norman": {
+    "city": "Norman",
+    "city_ascii": "Norman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4584,
+    "lng": -93.6791,
+    "cafes": []
+  },
+  "Morrow": {
+    "city": "Morrow",
+    "city_ascii": "Morrow",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8559,
+    "lng": -94.4352,
+    "cafes": []
+  },
+  "Evening Shade": {
+    "city": "Evening Shade",
+    "city_ascii": "Evening Shade",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.07,
+    "lng": -91.6218,
+    "cafes": []
+  },
+  "Perry": {
+    "city": "Perry",
+    "city_ascii": "Perry",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0459,
+    "lng": -92.7948,
+    "cafes": []
+  },
+  "Griffithville": {
+    "city": "Griffithville",
+    "city_ascii": "Griffithville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1231,
+    "lng": -91.6449,
+    "cafes": []
+  },
+  "Havana": {
+    "city": "Havana",
+    "city_ascii": "Havana",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1098,
+    "lng": -93.526,
+    "cafes": []
+  },
+  "Okolona": {
+    "city": "Okolona",
+    "city_ascii": "Okolona",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.0005,
+    "lng": -93.3377,
+    "cafes": []
+  },
+  "Delight": {
+    "city": "Delight",
+    "city_ascii": "Delight",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.0301,
+    "lng": -93.5072,
+    "cafes": []
+  },
+  "Thornton": {
+    "city": "Thornton",
+    "city_ascii": "Thornton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7756,
+    "lng": -92.4889,
+    "cafes": []
+  },
+  "Wilburn": {
+    "city": "Wilburn",
+    "city_ascii": "Wilburn",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5087,
+    "lng": -91.8884,
+    "cafes": []
+  },
+  "Keo": {
+    "city": "Keo",
+    "city_ascii": "Keo",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.609,
+    "lng": -92.0102,
+    "cafes": []
+  },
+  "Oden": {
+    "city": "Oden",
+    "city_ascii": "Oden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6215,
+    "lng": -93.7862,
+    "cafes": []
+  },
+  "Edmondson": {
+    "city": "Edmondson",
+    "city_ascii": "Edmondson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.105,
+    "lng": -90.3054,
+    "cafes": []
+  },
+  "Mount Pleasant": {
+    "city": "Mount Pleasant",
+    "city_ascii": "Mount Pleasant",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9819,
+    "lng": -91.7771,
+    "cafes": []
+  },
+  "Strawberry": {
+    "city": "Strawberry",
+    "city_ascii": "Strawberry",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9665,
+    "lng": -91.3211,
+    "cafes": []
+  },
+  "Shirley": {
+    "city": "Shirley",
+    "city_ascii": "Shirley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6442,
+    "lng": -92.3137,
+    "cafes": []
+  },
+  "Etowah": {
+    "city": "Etowah",
+    "city_ascii": "Etowah",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7225,
+    "lng": -90.2321,
+    "cafes": []
+  },
+  "Crystal Springs": {
+    "city": "Crystal Springs",
+    "city_ascii": "Crystal Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5247,
+    "lng": -93.3336,
+    "cafes": []
+  },
+  "Hickory Ridge": {
+    "city": "Hickory Ridge",
+    "city_ascii": "Hickory Ridge",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4029,
+    "lng": -90.9946,
+    "cafes": []
+  },
+  "Garland": {
+    "city": "Garland",
+    "city_ascii": "Garland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3609,
+    "lng": -93.7142,
+    "cafes": []
+  },
+  "Gateway": {
+    "city": "Gateway",
+    "city_ascii": "Gateway",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4854,
+    "lng": -93.9365,
+    "cafes": []
+  },
+  "Denning": {
+    "city": "Denning",
+    "city_ascii": "Denning",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4252,
+    "lng": -93.7568,
+    "cafes": []
+  },
+  "Newhope": {
+    "city": "Newhope",
+    "city_ascii": "Newhope",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2276,
+    "lng": -93.8753,
+    "cafes": []
+  },
+  "Lost Bridge Village": {
+    "city": "Lost Bridge Village",
+    "city_ascii": "Lost Bridge Village",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3899,
+    "lng": -93.9156,
+    "cafes": []
+  },
+  "Perrytown": {
+    "city": "Perrytown",
+    "city_ascii": "Perrytown",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6973,
+    "lng": -93.534,
+    "cafes": []
+  },
+  "Dyess": {
+    "city": "Dyess",
+    "city_ascii": "Dyess",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5893,
+    "lng": -90.2133,
+    "cafes": []
+  },
+  "Winslow": {
+    "city": "Winslow",
+    "city_ascii": "Winslow",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8008,
+    "lng": -94.1304,
+    "cafes": []
+  },
+  "Lead Hill": {
+    "city": "Lead Hill",
+    "city_ascii": "Lead Hill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4137,
+    "lng": -92.9067,
+    "cafes": []
+  },
+  "Menifee": {
+    "city": "Menifee",
+    "city_ascii": "Menifee",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1493,
+    "lng": -92.5544,
+    "cafes": []
+  },
+  "Oil Trough": {
+    "city": "Oil Trough",
+    "city_ascii": "Oil Trough",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6292,
+    "lng": -91.4612,
+    "cafes": []
+  },
+  "Ben Lomond": {
+    "city": "Ben Lomond",
+    "city_ascii": "Ben Lomond",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8335,
+    "lng": -94.1177,
+    "cafes": []
+  },
+  "Twin Groves": {
+    "city": "Twin Groves",
+    "city_ascii": "Twin Groves",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3187,
+    "lng": -92.4253,
+    "cafes": []
+  },
+  "Wilton": {
+    "city": "Wilton",
+    "city_ascii": "Wilton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7388,
+    "lng": -94.148,
+    "cafes": []
+  },
+  "Patterson": {
+    "city": "Patterson",
+    "city_ascii": "Patterson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.259,
+    "lng": -91.235,
+    "cafes": []
+  },
+  "Summers": {
+    "city": "Summers",
+    "city_ascii": "Summers",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9834,
+    "lng": -94.4866,
+    "cafes": []
+  },
+  "Willisville": {
+    "city": "Willisville",
+    "city_ascii": "Willisville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5194,
+    "lng": -93.2949,
+    "cafes": []
+  },
+  "Russell": {
+    "city": "Russell",
+    "city_ascii": "Russell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3621,
+    "lng": -91.51,
+    "cafes": []
+  },
+  "Pleasant Plains": {
+    "city": "Pleasant Plains",
+    "city_ascii": "Pleasant Plains",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5545,
+    "lng": -91.6273,
+    "cafes": []
+  },
+  "Grady": {
+    "city": "Grady",
+    "city_ascii": "Grady",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.0787,
+    "lng": -91.6976,
+    "cafes": []
+  },
+  "St. Charles": {
+    "city": "St. Charles",
+    "city_ascii": "St. Charles",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.373,
+    "lng": -91.1375,
+    "cafes": []
+  },
+  "Buckner": {
+    "city": "Buckner",
+    "city_ascii": "Buckner",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3572,
+    "lng": -93.4358,
+    "cafes": []
+  },
+  "Pleasant Grove": {
+    "city": "Pleasant Grove",
+    "city_ascii": "Pleasant Grove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8205,
+    "lng": -91.907,
+    "cafes": []
+  },
+  "Harrell": {
+    "city": "Harrell",
+    "city_ascii": "Harrell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5099,
+    "lng": -92.4001,
+    "cafes": []
+  },
+  "Fox": {
+    "city": "Fox",
+    "city_ascii": "Fox",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7844,
+    "lng": -92.2996,
+    "cafes": []
+  },
+  "Greenway": {
+    "city": "Greenway",
+    "city_ascii": "Greenway",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3405,
+    "lng": -90.2221,
+    "cafes": []
+  },
+  "Pineville": {
+    "city": "Pineville",
+    "city_ascii": "Pineville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1612,
+    "lng": -92.1065,
+    "cafes": []
+  },
+  "Scranton": {
+    "city": "Scranton",
+    "city_ascii": "Scranton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3606,
+    "lng": -93.5394,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1727,
+    "lng": -91.7697,
+    "cafes": []
+  },
+  "Blevins": {
+    "city": "Blevins",
+    "city_ascii": "Blevins",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8716,
+    "lng": -93.5778,
+    "cafes": []
+  },
+  "Mitchellville": {
+    "city": "Mitchellville",
+    "city_ascii": "Mitchellville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9051,
+    "lng": -91.4984,
+    "cafes": []
+  },
+  "Moro": {
+    "city": "Moro",
+    "city_ascii": "Moro",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.792,
+    "lng": -90.988,
+    "cafes": []
+  },
+  "Woodlawn": {
+    "city": "Woodlawn",
+    "city_ascii": "Woodlawn",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9668,
+    "lng": -92.0452,
+    "cafes": []
+  },
+  "Drasco": {
+    "city": "Drasco",
+    "city_ascii": "Drasco",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6338,
+    "lng": -91.9418,
+    "cafes": []
+  },
+  "Almyra": {
+    "city": "Almyra",
+    "city_ascii": "Almyra",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4057,
+    "lng": -91.4108,
+    "cafes": []
+  },
+  "Garner": {
+    "city": "Garner",
+    "city_ascii": "Garner",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1421,
+    "lng": -91.7805,
+    "cafes": []
+  },
+  "Briarcliff": {
+    "city": "Briarcliff",
+    "city_ascii": "Briarcliff",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.272,
+    "lng": -92.2821,
+    "cafes": []
+  },
+  "Lonsdale": {
+    "city": "Lonsdale",
+    "city_ascii": "Lonsdale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.545,
+    "lng": -92.8106,
+    "cafes": []
+  },
+  "Sherrill": {
+    "city": "Sherrill",
+    "city_ascii": "Sherrill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.385,
+    "lng": -91.9518,
+    "cafes": []
+  },
+  "Emerson": {
+    "city": "Emerson",
+    "city_ascii": "Emerson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.0973,
+    "lng": -93.196,
+    "cafes": []
+  },
+  "Bluff City": {
+    "city": "Bluff City",
+    "city_ascii": "Bluff City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7224,
+    "lng": -93.1316,
+    "cafes": []
+  },
+  "New Edinburg": {
+    "city": "New Edinburg",
+    "city_ascii": "New Edinburg",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7562,
+    "lng": -92.2404,
+    "cafes": []
+  },
+  "Widener": {
+    "city": "Widener",
+    "city_ascii": "Widener",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0233,
+    "lng": -90.6818,
+    "cafes": []
+  },
+  "St. Francis": {
+    "city": "St. Francis",
+    "city_ascii": "St. Francis",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4556,
+    "lng": -90.1428,
+    "cafes": []
+  },
+  "Vandervoort": {
+    "city": "Vandervoort",
+    "city_ascii": "Vandervoort",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.38,
+    "lng": -94.3643,
+    "cafes": []
+  },
+  "Houston": {
+    "city": "Houston",
+    "city_ascii": "Houston",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0349,
+    "lng": -92.6945,
+    "cafes": []
+  },
+  "Burdette": {
+    "city": "Burdette",
+    "city_ascii": "Burdette",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8152,
+    "lng": -89.9467,
+    "cafes": []
+  },
+  "Wayton": {
+    "city": "Wayton",
+    "city_ascii": "Wayton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9103,
+    "lng": -93.2544,
+    "cafes": []
+  },
+  "Pindall": {
+    "city": "Pindall",
+    "city_ascii": "Pindall",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0637,
+    "lng": -92.8622,
+    "cafes": []
+  },
+  "Center Ridge": {
+    "city": "Center Ridge",
+    "city_ascii": "Center Ridge",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3796,
+    "lng": -92.5694,
+    "cafes": []
+  },
+  "Letona": {
+    "city": "Letona",
+    "city_ascii": "Letona",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3635,
+    "lng": -91.8295,
+    "cafes": []
+  },
+  "Valley Springs": {
+    "city": "Valley Springs",
+    "city_ascii": "Valley Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1537,
+    "lng": -92.9896,
+    "cafes": []
+  },
+  "Perla": {
+    "city": "Perla",
+    "city_ascii": "Perla",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.3648,
+    "lng": -92.7762,
+    "cafes": []
+  },
+  "Rye": {
+    "city": "Rye",
+    "city_ascii": "Rye",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7505,
+    "lng": -91.9985,
+    "cafes": []
+  },
+  "Fredonia": {
+    "city": "Fredonia",
+    "city_ascii": "Fredonia",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.8194,
+    "lng": -91.4101,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1157,
+    "lng": -93.1714,
+    "cafes": []
+  },
+  "Powhatan": {
+    "city": "Powhatan",
+    "city_ascii": "Powhatan",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0873,
+    "lng": -91.1238,
+    "cafes": []
+  },
+  "Aplin": {
+    "city": "Aplin",
+    "city_ascii": "Aplin",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9675,
+    "lng": -92.9813,
+    "cafes": []
+  },
+  "Watson": {
+    "city": "Watson",
+    "city_ascii": "Watson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.894,
+    "lng": -91.2566,
+    "cafes": []
+  },
+  "Gillham": {
+    "city": "Gillham",
+    "city_ascii": "Gillham",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.1686,
+    "lng": -94.3145,
+    "cafes": []
+  },
+  "Montrose": {
+    "city": "Montrose",
+    "city_ascii": "Montrose",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.2989,
+    "lng": -91.4965,
+    "cafes": []
+  },
+  "Dell": {
+    "city": "Dell",
+    "city_ascii": "Dell",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8572,
+    "lng": -90.0341,
+    "cafes": []
+  },
+  "Friendship": {
+    "city": "Friendship",
+    "city_ascii": "Friendship",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2243,
+    "lng": -93.0037,
+    "cafes": []
+  },
+  "Pollard": {
+    "city": "Pollard",
+    "city_ascii": "Pollard",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4296,
+    "lng": -90.267,
+    "cafes": []
+  },
+  "Omaha": {
+    "city": "Omaha",
+    "city_ascii": "Omaha",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4583,
+    "lng": -93.191,
+    "cafes": []
+  },
+  "Boles": {
+    "city": "Boles",
+    "city_ascii": "Boles",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7861,
+    "lng": -94.0507,
+    "cafes": []
+  },
+  "Mount Vernon": {
+    "city": "Mount Vernon",
+    "city_ascii": "Mount Vernon",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2236,
+    "lng": -92.124,
+    "cafes": []
+  },
+  "Black Oak": {
+    "city": "Black Oak",
+    "city_ascii": "Black Oak",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8365,
+    "lng": -90.3676,
+    "cafes": []
+  },
+  "Lynn": {
+    "city": "Lynn",
+    "city_ascii": "Lynn",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0042,
+    "lng": -91.2521,
+    "cafes": []
+  },
+  "Humphrey": {
+    "city": "Humphrey",
+    "city_ascii": "Humphrey",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4225,
+    "lng": -91.7025,
+    "cafes": []
+  },
+  "Bee Branch": {
+    "city": "Bee Branch",
+    "city_ascii": "Bee Branch",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4561,
+    "lng": -92.395,
+    "cafes": []
+  },
+  "Ravenden Springs": {
+    "city": "Ravenden Springs",
+    "city_ascii": "Ravenden Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3127,
+    "lng": -91.2233,
+    "cafes": []
+  },
+  "Knobel": {
+    "city": "Knobel",
+    "city_ascii": "Knobel",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3199,
+    "lng": -90.6024,
+    "cafes": []
+  },
+  "Fifty-Six": {
+    "city": "Fifty-Six",
+    "city_ascii": "Fifty-Six",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9621,
+    "lng": -92.2301,
+    "cafes": []
+  },
+  "Carthage": {
+    "city": "Carthage",
+    "city_ascii": "Carthage",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.0726,
+    "lng": -92.5553,
+    "cafes": []
+  },
+  "Caulksville": {
+    "city": "Caulksville",
+    "city_ascii": "Caulksville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3017,
+    "lng": -93.868,
+    "cafes": []
+  },
+  "Ulm": {
+    "city": "Ulm",
+    "city_ascii": "Ulm",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5762,
+    "lng": -91.4617,
+    "cafes": []
+  },
+  "Antoine": {
+    "city": "Antoine",
+    "city_ascii": "Antoine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.0346,
+    "lng": -93.4226,
+    "cafes": []
+  },
+  "Gilmore": {
+    "city": "Gilmore",
+    "city_ascii": "Gilmore",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4131,
+    "lng": -90.2973,
+    "cafes": []
+  },
+  "O'Kean": {
+    "city": "O'Kean",
+    "city_ascii": "O'Kean",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1715,
+    "lng": -90.8183,
+    "cafes": []
+  },
+  "Staves": {
+    "city": "Staves",
+    "city_ascii": "Staves",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.031,
+    "lng": -92.278,
+    "cafes": []
+  },
+  "Sunset": {
+    "city": "Sunset",
+    "city_ascii": "Sunset",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.224,
+    "lng": -90.2056,
+    "cafes": []
+  },
+  "Alicia": {
+    "city": "Alicia",
+    "city_ascii": "Alicia",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8929,
+    "lng": -91.0835,
+    "cafes": []
+  },
+  "Roe": {
+    "city": "Roe",
+    "city_ascii": "Roe",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6311,
+    "lng": -91.3861,
+    "cafes": []
+  },
+  "Humnoke": {
+    "city": "Humnoke",
+    "city_ascii": "Humnoke",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5422,
+    "lng": -91.7596,
+    "cafes": []
+  },
+  "Rover": {
+    "city": "Rover",
+    "city_ascii": "Rover",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9518,
+    "lng": -93.409,
+    "cafes": []
+  },
+  "Fisher": {
+    "city": "Fisher",
+    "city_ascii": "Fisher",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4915,
+    "lng": -90.9725,
+    "cafes": []
+  },
+  "Fulton": {
+    "city": "Fulton",
+    "city_ascii": "Fulton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6126,
+    "lng": -93.8138,
+    "cafes": []
+  },
+  "Sedgwick": {
+    "city": "Sedgwick",
+    "city_ascii": "Sedgwick",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9742,
+    "lng": -90.8621,
+    "cafes": []
+  },
+  "Sidney": {
+    "city": "Sidney",
+    "city_ascii": "Sidney",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0044,
+    "lng": -91.6583,
+    "cafes": []
+  },
+  "Tollette": {
+    "city": "Tollette",
+    "city_ascii": "Tollette",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8181,
+    "lng": -93.8969,
+    "cafes": []
+  },
+  "Blue Mountain": {
+    "city": "Blue Mountain",
+    "city_ascii": "Blue Mountain",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1311,
+    "lng": -93.7162,
+    "cafes": []
+  },
+  "Ogden": {
+    "city": "Ogden",
+    "city_ascii": "Ogden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5859,
+    "lng": -94.0469,
+    "cafes": []
+  },
+  "Rudy": {
+    "city": "Rudy",
+    "city_ascii": "Rudy",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5304,
+    "lng": -94.2406,
+    "cafes": []
+  },
+  "Deer": {
+    "city": "Deer",
+    "city_ascii": "Deer",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8238,
+    "lng": -93.223,
+    "cafes": []
+  },
+  "Hindsville": {
+    "city": "Hindsville",
+    "city_ascii": "Hindsville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1458,
+    "lng": -93.8627,
+    "cafes": []
+  },
+  "Appleton": {
+    "city": "Appleton",
+    "city_ascii": "Appleton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4185,
+    "lng": -92.8724,
+    "cafes": []
+  },
+  "Oakland": {
+    "city": "Oakland",
+    "city_ascii": "Oakland",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4604,
+    "lng": -92.5718,
+    "cafes": []
+  },
+  "Louann": {
+    "city": "Louann",
+    "city_ascii": "Louann",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3915,
+    "lng": -92.7923,
+    "cafes": []
+  },
+  "Reed": {
+    "city": "Reed",
+    "city_ascii": "Reed",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7017,
+    "lng": -91.4458,
+    "cafes": []
+  },
+  "Pyatt": {
+    "city": "Pyatt",
+    "city_ascii": "Pyatt",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2509,
+    "lng": -92.8443,
+    "cafes": []
+  },
+  "Hunter": {
+    "city": "Hunter",
+    "city_ascii": "Hunter",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0546,
+    "lng": -91.1227,
+    "cafes": []
+  },
+  "St. Joe": {
+    "city": "St. Joe",
+    "city_ascii": "St. Joe",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.029,
+    "lng": -92.8078,
+    "cafes": []
+  },
+  "Winchester": {
+    "city": "Winchester",
+    "city_ascii": "Winchester",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7741,
+    "lng": -91.4737,
+    "cafes": []
+  },
+  "Black Springs": {
+    "city": "Black Springs",
+    "city_ascii": "Black Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4607,
+    "lng": -93.7123,
+    "cafes": []
+  },
+  "Bethesda": {
+    "city": "Bethesda",
+    "city_ascii": "Bethesda",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7892,
+    "lng": -91.7992,
+    "cafes": []
+  },
+  "Uniontown": {
+    "city": "Uniontown",
+    "city_ascii": "Uniontown",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5853,
+    "lng": -94.4469,
+    "cafes": []
+  },
+  "Casa": {
+    "city": "Casa",
+    "city_ascii": "Casa",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0253,
+    "lng": -93.0448,
+    "cafes": []
+  },
+  "Lexa": {
+    "city": "Lexa",
+    "city_ascii": "Lexa",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5983,
+    "lng": -90.7519,
+    "cafes": []
+  },
+  "Higden": {
+    "city": "Higden",
+    "city_ascii": "Higden",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5667,
+    "lng": -92.2049,
+    "cafes": []
+  },
+  "Tillar": {
+    "city": "Tillar",
+    "city_ascii": "Tillar",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7109,
+    "lng": -91.4517,
+    "cafes": []
+  },
+  "Bodcaw": {
+    "city": "Bodcaw",
+    "city_ascii": "Bodcaw",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5607,
+    "lng": -93.4013,
+    "cafes": []
+  },
+  "Banks": {
+    "city": "Banks",
+    "city_ascii": "Banks",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5758,
+    "lng": -92.2671,
+    "cafes": []
+  },
+  "West Point": {
+    "city": "West Point",
+    "city_ascii": "West Point",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2034,
+    "lng": -91.61,
+    "cafes": []
+  },
+  "Payneway": {
+    "city": "Payneway",
+    "city_ascii": "Payneway",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5457,
+    "lng": -90.5123,
+    "cafes": []
+  },
+  "Daisy": {
+    "city": "Daisy",
+    "city_ascii": "Daisy",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2349,
+    "lng": -93.7405,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0518,
+    "lng": -93.515,
+    "cafes": []
+  },
+  "Magness": {
+    "city": "Magness",
+    "city_ascii": "Magness",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7031,
+    "lng": -91.4822,
+    "cafes": []
+  },
+  "Bassett": {
+    "city": "Bassett",
+    "city_ascii": "Bassett",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5356,
+    "lng": -90.1294,
+    "cafes": []
+  },
+  "Jericho": {
+    "city": "Jericho",
+    "city_ascii": "Jericho",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2876,
+    "lng": -90.2305,
+    "cafes": []
+  },
+  "Maysville": {
+    "city": "Maysville",
+    "city_ascii": "Maysville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.402,
+    "lng": -94.5889,
+    "cafes": []
+  },
+  "Acorn": {
+    "city": "Acorn",
+    "city_ascii": "Acorn",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6379,
+    "lng": -94.2025,
+    "cafes": []
+  },
+  "Moorefield": {
+    "city": "Moorefield",
+    "city_ascii": "Moorefield",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7672,
+    "lng": -91.5708,
+    "cafes": []
+  },
+  "Poplar Grove": {
+    "city": "Poplar Grove",
+    "city_ascii": "Poplar Grove",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5522,
+    "lng": -90.8542,
+    "cafes": []
+  },
+  "Ratcliff": {
+    "city": "Ratcliff",
+    "city_ascii": "Ratcliff",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3066,
+    "lng": -93.8887,
+    "cafes": []
+  },
+  "Concord": {
+    "city": "Concord",
+    "city_ascii": "Concord",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6623,
+    "lng": -91.8507,
+    "cafes": []
+  },
+  "Tucker": {
+    "city": "Tucker",
+    "city_ascii": "Tucker",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4395,
+    "lng": -91.9519,
+    "cafes": []
+  },
+  "Weldon": {
+    "city": "Weldon",
+    "city_ascii": "Weldon",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4479,
+    "lng": -91.2315,
+    "cafes": []
+  },
+  "Springtown": {
+    "city": "Springtown",
+    "city_ascii": "Springtown",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2606,
+    "lng": -94.4239,
+    "cafes": []
+  },
+  "Jacksonport": {
+    "city": "Jacksonport",
+    "city_ascii": "Jacksonport",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6422,
+    "lng": -91.308,
+    "cafes": []
+  },
+  "Smithville": {
+    "city": "Smithville",
+    "city_ascii": "Smithville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0799,
+    "lng": -91.3027,
+    "cafes": []
+  },
+  "Washington": {
+    "city": "Washington",
+    "city_ascii": "Washington",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.773,
+    "lng": -93.6833,
+    "cafes": []
+  },
+  "Lawson": {
+    "city": "Lawson",
+    "city_ascii": "Lawson",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.1999,
+    "lng": -92.4878,
+    "cafes": []
+  },
+  "Chester": {
+    "city": "Chester",
+    "city_ascii": "Chester",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6778,
+    "lng": -94.1778,
+    "cafes": []
+  },
+  "McDougal": {
+    "city": "McDougal",
+    "city_ascii": "McDougal",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4365,
+    "lng": -90.3907,
+    "cafes": []
+  },
+  "Aubrey": {
+    "city": "Aubrey",
+    "city_ascii": "Aubrey",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7197,
+    "lng": -90.8975,
+    "cafes": []
+  },
+  "Rondo": {
+    "city": "Rondo",
+    "city_ascii": "Rondo",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6575,
+    "lng": -90.8208,
+    "cafes": []
+  },
+  "Fountain Hill": {
+    "city": "Fountain Hill",
+    "city_ascii": "Fountain Hill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3575,
+    "lng": -91.8511,
+    "cafes": []
+  },
+  "Urbana": {
+    "city": "Urbana",
+    "city_ascii": "Urbana",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.1585,
+    "lng": -92.4453,
+    "cafes": []
+  },
+  "Success": {
+    "city": "Success",
+    "city_ascii": "Success",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4545,
+    "lng": -90.7226,
+    "cafes": []
+  },
+  "Collins": {
+    "city": "Collins",
+    "city_ascii": "Collins",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5323,
+    "lng": -91.5725,
+    "cafes": []
+  },
+  "McNab": {
+    "city": "McNab",
+    "city_ascii": "McNab",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6609,
+    "lng": -93.8323,
+    "cafes": []
+  },
+  "Ivan": {
+    "city": "Ivan",
+    "city_ascii": "Ivan",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9019,
+    "lng": -92.4332,
+    "cafes": []
+  },
+  "Beaver": {
+    "city": "Beaver",
+    "city_ascii": "Beaver",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4752,
+    "lng": -93.7728,
+    "cafes": []
+  },
+  "Peach Orchard": {
+    "city": "Peach Orchard",
+    "city_ascii": "Peach Orchard",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2812,
+    "lng": -90.6608,
+    "cafes": []
+  },
+  "Haynes": {
+    "city": "Haynes",
+    "city_ascii": "Haynes",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.8909,
+    "lng": -90.7926,
+    "cafes": []
+  },
+  "Hattieville": {
+    "city": "Hattieville",
+    "city_ascii": "Hattieville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.289,
+    "lng": -92.7813,
+    "cafes": []
+  },
+  "Datto": {
+    "city": "Datto",
+    "city_ascii": "Datto",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3925,
+    "lng": -90.7285,
+    "cafes": []
+  },
+  "Alix": {
+    "city": "Alix",
+    "city_ascii": "Alix",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4219,
+    "lng": -93.7289,
+    "cafes": []
+  },
+  "Winthrop": {
+    "city": "Winthrop",
+    "city_ascii": "Winthrop",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8308,
+    "lng": -94.3542,
+    "cafes": []
+  },
+  "Allport": {
+    "city": "Allport",
+    "city_ascii": "Allport",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5399,
+    "lng": -91.7839,
+    "cafes": []
+  },
+  "Anthonyville": {
+    "city": "Anthonyville",
+    "city_ascii": "Anthonyville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0398,
+    "lng": -90.3403,
+    "cafes": []
+  },
+  "Delaplaine": {
+    "city": "Delaplaine",
+    "city_ascii": "Delaplaine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2304,
+    "lng": -90.7256,
+    "cafes": []
+  },
+  "Hagarville": {
+    "city": "Hagarville",
+    "city_ascii": "Hagarville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5151,
+    "lng": -93.3335,
+    "cafes": []
+  },
+  "Adona": {
+    "city": "Adona",
+    "city_ascii": "Adona",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0399,
+    "lng": -92.8992,
+    "cafes": []
+  },
+  "St. Paul": {
+    "city": "St. Paul",
+    "city_ascii": "St. Paul",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8246,
+    "lng": -93.7641,
+    "cafes": []
+  },
+  "Floral": {
+    "city": "Floral",
+    "city_ascii": "Floral",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5889,
+    "lng": -91.759,
+    "cafes": []
+  },
+  "Reader": {
+    "city": "Reader",
+    "city_ascii": "Reader",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7518,
+    "lng": -93.1009,
+    "cafes": []
+  },
+  "Board Camp": {
+    "city": "Board Camp",
+    "city_ascii": "Board Camp",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5369,
+    "lng": -94.0887,
+    "cafes": []
+  },
+  "Morrison Bluff": {
+    "city": "Morrison Bluff",
+    "city_ascii": "Morrison Bluff",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3828,
+    "lng": -93.5228,
+    "cafes": []
+  },
+  "Cale": {
+    "city": "Cale",
+    "city_ascii": "Cale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6278,
+    "lng": -93.235,
+    "cafes": []
+  },
+  "Jennette": {
+    "city": "Jennette",
+    "city_ascii": "Jennette",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1639,
+    "lng": -90.4092,
+    "cafes": []
+  },
+  "Dora": {
+    "city": "Dora",
+    "city_ascii": "Dora",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4628,
+    "lng": -94.4297,
+    "cafes": []
+  },
+  "Parkdale": {
+    "city": "Parkdale",
+    "city_ascii": "Parkdale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.1212,
+    "lng": -91.5464,
+    "cafes": []
+  },
+  "Williford": {
+    "city": "Williford",
+    "city_ascii": "Williford",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2518,
+    "lng": -91.3605,
+    "cafes": []
+  },
+  "Tupelo": {
+    "city": "Tupelo",
+    "city_ascii": "Tupelo",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.3903,
+    "lng": -91.2299,
+    "cafes": []
+  },
+  "Center Point": {
+    "city": "Center Point",
+    "city_ascii": "Center Point",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.0318,
+    "lng": -93.9511,
+    "cafes": []
+  },
+  "Ponca": {
+    "city": "Ponca",
+    "city_ascii": "Ponca",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0287,
+    "lng": -93.364,
+    "cafes": []
+  },
+  "Coy": {
+    "city": "Coy",
+    "city_ascii": "Coy",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5405,
+    "lng": -91.8713,
+    "cafes": []
+  },
+  "Mount Judea": {
+    "city": "Mount Judea",
+    "city_ascii": "Mount Judea",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9214,
+    "lng": -93.0577,
+    "cafes": []
+  },
+  "McCaskill": {
+    "city": "McCaskill",
+    "city_ascii": "McCaskill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9187,
+    "lng": -93.6417,
+    "cafes": []
+  },
+  "Corinth": {
+    "city": "Corinth",
+    "city_ascii": "Corinth",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.0693,
+    "lng": -93.4235,
+    "cafes": []
+  },
+  "Rivervale": {
+    "city": "Rivervale",
+    "city_ascii": "Rivervale",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6759,
+    "lng": -90.3445,
+    "cafes": []
+  },
+  "Alpine": {
+    "city": "Alpine",
+    "city_ascii": "Alpine",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2268,
+    "lng": -93.3783,
+    "cafes": []
+  },
+  "Violet Hill": {
+    "city": "Violet Hill",
+    "city_ascii": "Violet Hill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1529,
+    "lng": -91.8398,
+    "cafes": []
+  },
+  "Everton": {
+    "city": "Everton",
+    "city_ascii": "Everton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1542,
+    "lng": -92.9096,
+    "cafes": []
+  },
+  "South Lead Hill": {
+    "city": "South Lead Hill",
+    "city_ascii": "South Lead Hill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3956,
+    "lng": -92.9063,
+    "cafes": []
+  },
+  "Egypt": {
+    "city": "Egypt",
+    "city_ascii": "Egypt",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8677,
+    "lng": -90.9459,
+    "cafes": []
+  },
+  "Jones Mills": {
+    "city": "Jones Mills",
+    "city_ascii": "Jones Mills",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4427,
+    "lng": -92.8923,
+    "cafes": []
+  },
+  "Ozan": {
+    "city": "Ozan",
+    "city_ascii": "Ozan",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.848,
+    "lng": -93.7203,
+    "cafes": []
+  },
+  "Big Flat": {
+    "city": "Big Flat",
+    "city_ascii": "Big Flat",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0056,
+    "lng": -92.4066,
+    "cafes": []
+  },
+  "Warm Springs": {
+    "city": "Warm Springs",
+    "city_ascii": "Warm Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4831,
+    "lng": -91.049,
+    "cafes": []
+  },
+  "Fair Oaks": {
+    "city": "Fair Oaks",
+    "city_ascii": "Fair Oaks",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.2488,
+    "lng": -91.0319,
+    "cafes": []
+  },
+  "Bismarck": {
+    "city": "Bismarck",
+    "city_ascii": "Bismarck",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.3178,
+    "lng": -93.178,
+    "cafes": []
+  },
+  "Goodwin": {
+    "city": "Goodwin",
+    "city_ascii": "Goodwin",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9407,
+    "lng": -91.0036,
+    "cafes": []
+  },
+  "Minturn": {
+    "city": "Minturn",
+    "city_ascii": "Minturn",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9764,
+    "lng": -91.0273,
+    "cafes": []
+  },
+  "Zinc": {
+    "city": "Zinc",
+    "city_ascii": "Zinc",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.2836,
+    "lng": -92.9147,
+    "cafes": []
+  },
+  "Patmos": {
+    "city": "Patmos",
+    "city_ascii": "Patmos",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5112,
+    "lng": -93.5679,
+    "cafes": []
+  },
+  "Amagon": {
+    "city": "Amagon",
+    "city_ascii": "Amagon",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5631,
+    "lng": -91.1093,
+    "cafes": []
+  },
+  "Beedeville": {
+    "city": "Beedeville",
+    "city_ascii": "Beedeville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4292,
+    "lng": -91.1107,
+    "cafes": []
+  },
+  "Jerome": {
+    "city": "Jerome",
+    "city_ascii": "Jerome",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.3988,
+    "lng": -91.4697,
+    "cafes": []
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1267,
+    "lng": -91.4539,
+    "cafes": []
+  },
+  "Gum Springs": {
+    "city": "Gum Springs",
+    "city_ascii": "Gum Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.0639,
+    "lng": -93.0957,
+    "cafes": []
+  },
+  "Witts Springs": {
+    "city": "Witts Springs",
+    "city_ascii": "Witts Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7696,
+    "lng": -92.8769,
+    "cafes": []
+  },
+  "Waldenburg": {
+    "city": "Waldenburg",
+    "city_ascii": "Waldenburg",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.5652,
+    "lng": -90.9346,
+    "cafes": []
+  },
+  "Whelen Springs": {
+    "city": "Whelen Springs",
+    "city_ascii": "Whelen Springs",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8331,
+    "lng": -93.126,
+    "cafes": []
+  },
+  "Felsenthal": {
+    "city": "Felsenthal",
+    "city_ascii": "Felsenthal",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.0588,
+    "lng": -92.1533,
+    "cafes": []
+  },
+  "Bowman": {
+    "city": "Bowman",
+    "city_ascii": "Bowman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.8194,
+    "lng": -90.4964,
+    "cafes": []
+  },
+  "Jerusalem": {
+    "city": "Jerusalem",
+    "city_ascii": "Jerusalem",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4073,
+    "lng": -92.8175,
+    "cafes": []
+  },
+  "Fargo": {
+    "city": "Fargo",
+    "city_ascii": "Fargo",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9537,
+    "lng": -91.1764,
+    "cafes": []
+  },
+  "Oakhaven": {
+    "city": "Oakhaven",
+    "city_ascii": "Oakhaven",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7293,
+    "lng": -93.6205,
+    "cafes": []
+  },
+  "Birdsong": {
+    "city": "Birdsong",
+    "city_ascii": "Birdsong",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.461,
+    "lng": -90.2598,
+    "cafes": []
+  },
+  "Marie": {
+    "city": "Marie",
+    "city_ascii": "Marie",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.613,
+    "lng": -90.0829,
+    "cafes": []
+  },
+  "LaGrange": {
+    "city": "LaGrange",
+    "city_ascii": "LaGrange",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6555,
+    "lng": -90.7349,
+    "cafes": []
+  },
+  "Evansville": {
+    "city": "Evansville",
+    "city_ascii": "Evansville",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7924,
+    "lng": -94.4911,
+    "cafes": []
+  },
+  "Caddo Gap": {
+    "city": "Caddo Gap",
+    "city_ascii": "Caddo Gap",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4025,
+    "lng": -93.6179,
+    "cafes": []
+  },
+  "Nimmons": {
+    "city": "Nimmons",
+    "city_ascii": "Nimmons",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.3062,
+    "lng": -90.0951,
+    "cafes": []
+  },
+  "Pencil Bluff": {
+    "city": "Pencil Bluff",
+    "city_ascii": "Pencil Bluff",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6299,
+    "lng": -93.735,
+    "cafes": []
+  },
+  "Scott": {
+    "city": "Scott",
+    "city_ascii": "Scott",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.6966,
+    "lng": -92.0938,
+    "cafes": []
+  },
+  "Hensley": {
+    "city": "Hensley",
+    "city_ascii": "Hensley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.5068,
+    "lng": -92.2069,
+    "cafes": []
+  },
+  "Tinsman": {
+    "city": "Tinsman",
+    "city_ascii": "Tinsman",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.6292,
+    "lng": -92.3533,
+    "cafes": []
+  },
+  "Alleene": {
+    "city": "Alleene",
+    "city_ascii": "Alleene",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7648,
+    "lng": -94.2622,
+    "cafes": []
+  },
+  "Ozone": {
+    "city": "Ozone",
+    "city_ascii": "Ozone",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6352,
+    "lng": -93.445,
+    "cafes": []
+  },
+  "Guion": {
+    "city": "Guion",
+    "city_ascii": "Guion",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9269,
+    "lng": -91.9389,
+    "cafes": []
+  },
+  "Blue Eye": {
+    "city": "Blue Eye",
+    "city_ascii": "Blue Eye",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4966,
+    "lng": -93.3977,
+    "cafes": []
+  },
+  "Mount Holly": {
+    "city": "Mount Holly",
+    "city_ascii": "Mount Holly",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.303,
+    "lng": -92.9539,
+    "cafes": []
+  },
+  "Edgemont": {
+    "city": "Edgemont",
+    "city_ascii": "Edgemont",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6011,
+    "lng": -92.1953,
+    "cafes": []
+  },
+  "Gamaliel": {
+    "city": "Gamaliel",
+    "city_ascii": "Gamaliel",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.4518,
+    "lng": -92.2369,
+    "cafes": []
+  },
+  "Gregory": {
+    "city": "Gregory",
+    "city_ascii": "Gregory",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.1534,
+    "lng": -91.3343,
+    "cafes": []
+  },
+  "Fourche": {
+    "city": "Fourche",
+    "city_ascii": "Fourche",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.9933,
+    "lng": -92.6189,
+    "cafes": []
+  },
+  "Saratoga": {
+    "city": "Saratoga",
+    "city_ascii": "Saratoga",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.7446,
+    "lng": -93.9043,
+    "cafes": []
+  },
+  "Oark": {
+    "city": "Oark",
+    "city_ascii": "Oark",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.6923,
+    "lng": -93.5733,
+    "cafes": []
+  },
+  "Wiederkehr Village": {
+    "city": "Wiederkehr Village",
+    "city_ascii": "Wiederkehr Village",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.4817,
+    "lng": -93.7577,
+    "cafes": []
+  },
+  "Monroe": {
+    "city": "Monroe",
+    "city_ascii": "Monroe",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.7341,
+    "lng": -91.1067,
+    "cafes": []
+  },
+  "Halley": {
+    "city": "Halley",
+    "city_ascii": "Halley",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.5363,
+    "lng": -91.3236,
+    "cafes": []
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "city_ascii": "Princeton",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.9775,
+    "lng": -92.6241,
+    "cafes": []
+  },
+  "Gilbert": {
+    "city": "Gilbert",
+    "city_ascii": "Gilbert",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.9905,
+    "lng": -92.7166,
+    "cafes": []
+  },
+  "Beirne": {
+    "city": "Beirne",
+    "city_ascii": "Beirne",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 33.8882,
+    "lng": -93.2062,
+    "cafes": []
+  },
+  "Buffalo City": {
+    "city": "Buffalo City",
+    "city_ascii": "Buffalo City",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.1677,
+    "lng": -92.4388,
+    "cafes": []
+  },
+  "Canehill": {
+    "city": "Canehill",
+    "city_ascii": "Canehill",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.914,
+    "lng": -94.3974,
+    "cafes": []
+  },
+  "Mount Olive": {
+    "city": "Mount Olive",
+    "city_ascii": "Mount Olive",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 36.0038,
+    "lng": -92.0914,
+    "cafes": []
+  },
+  "Victoria": {
+    "city": "Victoria",
+    "city_ascii": "Victoria",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 35.7574,
+    "lng": -90.0602,
+    "cafes": []
+  },
+  "Mellwood": {
+    "city": "Mellwood",
+    "city_ascii": "Mellwood",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.2181,
+    "lng": -90.9445,
+    "cafes": []
+  },
+  "Indian Bay": {
+    "city": "Indian Bay",
+    "city_ascii": "Indian Bay",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.3858,
+    "lng": -91.0671,
+    "cafes": []
+  },
+  "Oneida": {
+    "city": "Oneida",
+    "city_ascii": "Oneida",
+    "state_id": "AR",
+    "state_name": "Arkansas",
+    "lat": 34.4605,
+    "lng": -90.7867,
+    "cafes": []
+  }
+}

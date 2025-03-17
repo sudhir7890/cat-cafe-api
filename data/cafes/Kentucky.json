@@ -1,0 +1,5286 @@
+{
+  "Covington": {
+    "city": "Covington",
+    "city_ascii": "Covington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0334,
+    "lng": -84.5166,
+    "cafes": [
+      {
+        "name": "Purrfect Day Cat Café",
+        "address": "25 W 8th St, Covington, KY 41011, USA",
+        "rating": 4.8,
+        "user_ratings_total": 391,
+        "website": "https://purrfectdaycafecovington.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=277971319075972838",
+        "lat": 39.0820223,
+        "lng": -84.5106587,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Natalie Kerr",
+            "rating": 5,
+            "text": {
+              "text": "A purrfect way to spend a cloudy Sunday afternoon! Make a reservation in advance to make the most out of this visit, and be sure to pop by the cafe before entering the cat room at least 10 minutes before you enter the room of adorable and soft cats to pet and play with! Whether you’re enjoying a nice cold or hot beverage with your loved ones, this is the most clean cat facility I’ve ever been to!\nEasy access to free parking across the street and a calming atmosphere for everyone.\nI would highly recommend checking this and other cat cafes who are either looking to\nAdopt or simply to hang out with these incredibly happy felines in a clean and friendly atmosphere!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Kathryn Patterson",
+            "rating": 5,
+            "text": {
+              "text": "This was hands down the best experience ever. Our beloved cat of 14 years passed away last year and we were ready to welcome some new cats into our family. The setup is so calming for the cats, lots of places to sleep or hide or play. Music going. Not too many people in there at a time to overwhelm them.\n\nWe left with two (not the same litter) and they have bonded really well. Couldn’t be  happier !",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Megan H",
+            "rating": 5,
+            "text": {
+              "text": "If I could give them 100 stars I would! This cat cafe is incredible because you are hanging out with adoptable shelter cats. The cats are adorable, and so much fun. I loved every second of it! This was a huge dose of serotonin for me, and I am hopeful every single one of the cats finds their furever home soon! Highly recommend!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1l_tXQsxG7gSdKC2isx9EFfF88h3k8QkA2Booi-2fc09JYL8JQglrNTr-Aksp_iQAsb_V8p5SugYS-IzMXrzNsS2ti2vn-hmFpniPz09y0fBm_z3DyvnHOueUWo3CghmibhVmNlCK1Mkkyf9zcajMjMj97HsVCg4TEEWyjOhX5sFBddcVlONhGlbWVe_ywzEFFcVNzoOPrwBphPRpXqk8i4E6NXVixAtpA4ER4cqjFHQd9YetQXb8W4xoi4I8x2qTN0zxYwC6nqsuUcBogbd5AmY5o6Z0BNvVd7TD_WytaNHvs8ObfkfmdyJzGDBHR_DW7MZ2f1pFL_UzbdsP9hZHa_LzDpLvyu86QAR4EJLLdVkmGsItbQrlgHXRvmbMvFiukvVIPzmnNcnEKkElqNoogJwBb-J4&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Louisville": {
+    "city": "Louisville",
+    "city_ascii": "Louisville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1663,
+    "lng": -85.6485,
+    "cafes": [
+      {
+        "name": "Purrfect Day Cat Cafe",
+        "address": "1741 Bardstown Rd, Louisville, KY 40205, USA",
+        "rating": 4.8,
+        "user_ratings_total": 797,
+        "website": "http://www.purrfectdaycafe.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=11668321907685655339",
+        "lat": 38.2290701,
+        "lng": -85.7016553,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Aaron Reedy",
+            "rating": 5,
+            "text": {
+              "text": "This was our second trip to Purrfect Day Cafe.  Both visits were for ~10 year old girl birthday parties.  I was skeptical at first, but this is an absolutely brilliant concept.\nThe dedicated “petting room” is full of 10ish kittens.  They are just at the age of being spayed/neutered. It’s a great way to acclimate the cats to people.  All cats are available for adoption.\nMy only complaint is the same thing as any Bardstown Road business.  Parking is horrible.\nI don’t know how one-off visits actually work,  but I highly recommend checking this place out if you have the chance.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Nicole Burgos",
+            "rating": 5,
+            "text": {
+              "text": "This is the most adorable coffee shop I’ve ever been to, a pretty cool concept. You can go visit the cafe anytime but might need a reservation to see the cats/kittens depending on the day of the week.\nKittens galore, swag, great coffee drinks, and don’t even get me started on the adoptions eeekkk! Once you’ve played with the kittens, you have the opportunity to take one or more home. It’s a very easy process and the kittens have already been fixed and vaccinated so you don’t even have to stop at the vet on the way home.\n\nCheck out their booking page, they have events that are great for girls and date nights. You can’t go wrong with the Purrfect Day Cat Cafe.\n\n*This is the first cafe in the nation to reach and pass 10,000 adoptions since opening its doors. There’s magic in the Highlands, don’t miss out.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Sydney Shields",
+            "rating": 5,
+            "text": {
+              "text": "Absolutely amazing!! Whenever I visit a new city, I try to look for kitty cafes. Purrfect Day exceeded my expectations. The staff were so friendly and welcoming & the stars of the show (the 2-3 month old kittens) were soooooo cute and playful and cuddly. The room was clean, had plenty of toys and sleeping nooks for the kitties, was a great size and wasn’t overcrowded. I wish I could’ve stayed all night!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1AzXDmGxcvE4l2wd60XBvrPBspuo3sz_koaedRN4UqDugrGOtDVU5zkh4Z-JnUmnYnMBDk8ERuFyO_GJo50LlfIy9WIY9A4bBKCyO7YnFWnIF-ETZ6BDw3URO41ETvAqhHoFWM-Uf5v6A4O_ztFFIg52gN217M60XV7G8wNzkqmufwagv4D243a8TsexI9MAh5Fc2OQGxxKwmuoikHXckzTfKVFZqQW4Yauz2fgxwvYfHC4nOCzQpYuniN10L85zvKWDucavxHJYrQYs-4rY8hXyTBXh6nzCj6T-CpySXZOg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Lucky Cat Cafe & Lounge",
+        "address": "2230 Dundee Rd, Louisville, KY 40205, USA",
+        "rating": 4.8,
+        "user_ratings_total": 256,
+        "website": "http://luckycatcafe.org/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=13077626884321548456",
+        "lat": 38.2232469,
+        "lng": -85.6934048,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Sara Olivencia",
+            "rating": 5,
+            "text": {
+              "text": "I loved visiting Lucky Cat Cafe. There were about 12 cats when I visited and they were all so friendly. The cats were obviously very well taken care of and the establishment was very clean. I loved visiting with the cats and petting them all. The staff was very friendly and helpful. They have a cute little gift shop with great gifts for cat lovers.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Jaclyn Perdomo",
+            "rating": 5,
+            "text": {
+              "text": "Cute, older home turned into a non-profit cat lounge. The employees were all very kind and welcoming and the cats seemed incredibly well cared for. There's not much parking, and it does get a bit cramped inside when there's a lot of people but overall, it was definitely worth the visit!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Brye",
+            "rating": 5,
+            "text": {
+              "text": "A charming environment to visit with cats and meet new people. It's such a nice, clean, calm place where you can really play and snuggle each cat.we loved it and will be bringing all our out of town friends and family!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0Ie_d8YOKk7KKeCrplJlIjJEuHTVWHhJdcYoWVlVQTSUAewajavTKMR8neIkV86NSS3adjEHJKMnSXOoty68J2oNAov00G9YfTDtAOd1go8oHWOX8C4e4dn2W0FT_s6PNGK8eAlmZ7K6Kla7rJk7fc54QllsvEmUvt1sLj6l9v62-0FqiUSE3Ovu0ibyJ3svwabmGDYb-HWBJckw-sSbkGObmpl6T9OZjCAvMDkmAWwcE7yXJwA_JEIV0KqdbtbNXV-pZeeEra4aq2AK80TdkXjynFdwltxRo6_TloQtsl5A&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Alley Cat Cafe & Catering",
+        "address": "11804 Shelbyville Rd, Louisville, KY 40243, USA",
+        "rating": 4.8,
+        "user_ratings_total": 93,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=15288311550103792804",
+        "lat": 38.2460386,
+        "lng": -85.5376015,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Nicole Gray",
+            "rating": 4,
+            "text": {
+              "text": "Finally got to try this place and it was delicious! Sadly, they are only open until 2pm so I’ve never been able to get there before now. Wish they’d expand the hours on the weekends at least. But I’ll definitely try to go back. It was very tasty and reasonably priced",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Grampa Forker",
+            "rating": 5,
+            "text": {
+              "text": "I like this place.  Very good breakfast.  They serve it with plastic utensils and foam plates but that’s not an issue for me.  The food is very good.  It’s a nice place with friendly service.  Do I love eating off plastic and foam? No.  But the food and atmosphere is good enough that I really don’t care.  The world is different after COVID so I don’t mind.  I will be back.  And I’ll get it to-go on occasion.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "MB Froehlich",
+            "rating": 5,
+            "text": {
+              "text": "The pumpkin Gouda soup was delicious!  Mom had bean soup and said it was perfectly seasoned, delicious as well.  This was my first time stopping in but won’t be the last.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1bbhNlQSOgaRdhhbPJ-iiKPOsBtk0_n92J0i9qV-qxRCW0ql-jyIwpScBi3gD8_TjfU10elnTXC5vWpPCQjTJHONkfbbFQQDheYTlUbC1RERO3LYJod5kkMIeBt8DG1wO-fpA7uAXlO4H_16eUFHjn3zo4RU4Ng-oZb40hNriSV17x8YOc_WdCjGjwYqM8ab07KyzE5DFhNHBTSgWGDxxfn_T-CYAx18AfyZJNlYowv5TK4JpzahYNWzO11IwDNHWry7pqWX1MBTQJOCV5zyL6Tr-EvOsq54NtJP6cIkDZ_2aRliqIqNNxeZI9otXZIGvDEMVoELTmID-EwB7MCG5syu6zaKlOvOON_CzENhoysy4HGS8o0aA9-0bM7gJiPmuIfiiySX6jyH9PII38oBEwk-9Mo7Y&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2247,
+    "lng": -84.5487,
+    "cafes": [
+      {
+        "name": "Central Purrk Cat Cafe",
+        "address": "401 Outlet Center Dr #260, Georgetown, KY 40324, USA",
+        "rating": 4.7,
+        "user_ratings_total": 220,
+        "website": "http://www.centralpurrkcafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=2530741749097488774",
+        "lat": 38.2180049,
+        "lng": -84.5373934,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Savannah Monroe",
+            "rating": 5,
+            "text": {
+              "text": "We visited on a Saturday morning for a Yoga with Cats event. For $20, we received a 45 minute yoga session, 15 minutes of Cat Lounge time, and a small drink. I chose the vanilla iced coffee, and it was delicious! The Cat Lounge area was well maintained, and the cats appeared to be very content. We enjoyed using the various toy options available to play with the cats, and they seemed to have a lot of fun with them. Definitely recommend checking this place out and booking ahead if you want to go inside the Cat Lounge (or to visit for an event). Maybe you’ll even find a furry friend to take home!",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          },
+          {
+            "author": "Cheryl Vermeire",
+            "rating": 5,
+            "text": {
+              "text": "Wonderful place! Cats are clearly well taken care of. Everyone is so sweet! Jennifer was the bubbliest thing ever. Michaella made great coffee with a big smile. Kayleigh is so much fun to sit and laugh with. Great place guys. Thank you and I'll be back!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Faith Wisecup",
+            "rating": 5,
+            "text": {
+              "text": "I love going here! The service is great, and the kitties are so well taken care of! I'm so happy to have a place like this in our community!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3mRbn4xs7M1t4KDhiHR9rzu5H3vwwuwqA1IzFayLaLZZgI_RwD1wcVlULEkU3stRrl1xTBlKzF5pb5GEmmUpYA7i9CIUFAUJdi4ey0OelDJRap96aiORMAv3c8kTf9GQy8GqoMENRXu_r9Fct-DIUtYxCptTKk_-yRRdAOMbgg0lsOhQR18mDm49HR4XKy_jj_BBeEy-OtMp3CrKRhx3Kx_9qbrzrwoYHMzGG67LlG7nj_ETlqu9U8pnbc8vTwEJYsPda_fmEdzPk37T9bd5kA6_qDJ7Amcn8MsKuv8LOBfK-jkFwx9QzFppaZwaOS_8b_7P41uzu062oI3daMbx_rR7x0F54EwRb0oFKufhVzCCuqABMRxQauUUDAdcmnqfSVAzvB0Q11zjfkVJoNXn4GsLSPh8da&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Elizabethtown": {
+    "city": "Elizabethtown",
+    "city_ascii": "Elizabethtown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7031,
+    "lng": -85.8773,
+    "cafes": [
+      {
+        "name": "Lucy & Oscar's Cat Cafe",
+        "address": "1201 N Dixie Hwy Suite 104A, Elizabethtown, KY 42701, USA",
+        "rating": 5,
+        "user_ratings_total": 3,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=5562832945406606392",
+        "lat": 37.7188746,
+        "lng": -85.8784896,
+        "accessibility_options": "N/A",
+        "reviews": [
+          {
+            "author": "dimi",
+            "rating": 5,
+            "text": {
+              "text": "Very lovely place! The cats are sweet and the staff was friendly.",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Brianna Willcut",
+            "rating": 5,
+            "time": "in the last week"
+          },
+          {
+            "author": "Sarah Wilhite",
+            "rating": 5,
+            "time": "in the last week"
+          }
+        ],
+        "photoUri": "https://maps.google.com/?cid=5562832945406606392&output=embed"
+      }
+    ]
+  },
+  "Paducah": {
+    "city": "Paducah",
+    "city_ascii": "Paducah",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0711,
+    "lng": -88.644,
+    "cafes": [
+      {
+        "name": "Tortitude Cat Cafe",
+        "address": "2420 New Holt Rd, Paducah, KY 42001, USA",
+        "rating": 4.8,
+        "user_ratings_total": 23,
+        "website": "https://tortitudecatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=13003418488968412493",
+        "lat": 37.0650301,
+        "lng": -88.6939304,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Terri L",
+            "rating": 5,
+            "text": {
+              "text": "Visiting Tortitude Cat Cafe was even more wonderful than I expected.  They offer a fun and cozy atmosphere, friendly staff, and adorable cats. Spending time with the cats and kittens not only gives you a warm and fuzzy feeling, but helps play a crucial role in socializing them, and helping them to be adopted into loving homes. Every cat was SO cute and friendly.   The cost,  which is quite reasonable, contributes to something so much bigger, which is the wonderful mission of caring for and finding homes for abandoned cats. Your visit truly makes a difference. This was a great birthday experience to share with daughter.  Highly recommend!!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Amanda Pennington",
+            "rating": 5,
+            "text": {
+              "text": "What a great place! The climbing wall and cat wheel are the purrfect tips for cat adopters on how to make their own home a cat paradise. These kitties are so lucky to be here and we had a wonderful time meeting them. Fantastic and attentive staff! Dream job 😻",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "R Pergande",
+            "rating": 5,
+            "text": {
+              "text": "If you love cats, come in for a visit. Either to just spend 30 mins($7 per person) with all the cats or adopt a fur baby. They have baked goods(kitty cookies when we were there) & coffee. Other human treats if those ain't your thing. Pretty spacious spot for the cats to run & play. & for their human visitors to sit. If you're a cat person, I'd suggest paying em a visit. It's a good thing these people have brought to Paducah. Let's support it. My wife & I will definitely be back.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3B8oMv4SP-nz-sbW2YHIoeUP8GAmYsZXDYIV5y2TplwADQGa7e4ey_kwbBGxruk4JUIB9lLisT2_sVBPW-7boMUXkmjqBUBv26SZxPcpXhiwr_q0kiV-u8dgcF7CBlezz-5-txywcM7_4y9IHpjO2-d2Je9N8bLnhjM8irvLIwkfv8JkjYzSyNF7AU8ChC6ev7ChPrV5WoFoTprmQlDey24klGnKtopit0tpDPgloEud9c9vvlg20OxD9c9AmKETwxsPWP3KD2CetwKfiPyKbFygoBDS5Kej4rbwQJFWgx_VMoIzew--_1m2y7gn3F7pwph0s8o0Uzx8ADHKqrTp2Mb9DBoqIdEEzMHoXIGb271wbMZeA2r-7C7-oLW0cas18KFKFFcGDiBpoh4ZTAjx1OuGpsluQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0423,
+    "lng": -84.4587,
+    "cafes": []
+  },
+  "Bowling Green": {
+    "city": "Bowling Green",
+    "city_ascii": "Bowling Green",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9716,
+    "lng": -86.4378,
+    "cafes": []
+  },
+  "Owensboro": {
+    "city": "Owensboro",
+    "city_ascii": "Owensboro",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7575,
+    "lng": -87.1172,
+    "cafes": []
+  },
+  "Richmond": {
+    "city": "Richmond",
+    "city_ascii": "Richmond",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7307,
+    "lng": -84.2925,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.9899,
+    "lng": -84.6471,
+    "cafes": []
+  },
+  "Nicholasville": {
+    "city": "Nicholasville",
+    "city_ascii": "Nicholasville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8906,
+    "lng": -84.5668,
+    "cafes": []
+  },
+  "Hopkinsville": {
+    "city": "Hopkinsville",
+    "city_ascii": "Hopkinsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8381,
+    "lng": -87.4775,
+    "cafes": []
+  },
+  "Independence": {
+    "city": "Independence",
+    "city_ascii": "Independence",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.951,
+    "lng": -84.5492,
+    "cafes": []
+  },
+  "Jeffersontown": {
+    "city": "Jeffersontown",
+    "city_ascii": "Jeffersontown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2049,
+    "lng": -85.5701,
+    "cafes": []
+  },
+  "Frankfort": {
+    "city": "Frankfort",
+    "city_ascii": "Frankfort",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1924,
+    "lng": -84.8643,
+    "cafes": []
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8397,
+    "lng": -87.5798,
+    "cafes": []
+  },
+  "Radcliff": {
+    "city": "Radcliff",
+    "city_ascii": "Radcliff",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8204,
+    "lng": -85.9365,
+    "cafes": []
+  },
+  "Ashland": {
+    "city": "Ashland",
+    "city_ascii": "Ashland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4592,
+    "lng": -82.6448,
+    "cafes": []
+  },
+  "Erlanger": {
+    "city": "Erlanger",
+    "city_ascii": "Erlanger",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0109,
+    "lng": -84.5864,
+    "cafes": []
+  },
+  "Madisonville": {
+    "city": "Madisonville",
+    "city_ascii": "Madisonville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3409,
+    "lng": -87.5034,
+    "cafes": []
+  },
+  "Winchester": {
+    "city": "Winchester",
+    "city_ascii": "Winchester",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0018,
+    "lng": -84.1908,
+    "cafes": []
+  },
+  "Mount Washington": {
+    "city": "Mount Washington",
+    "city_ascii": "Mount Washington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.043,
+    "lng": -85.5551,
+    "cafes": []
+  },
+  "Burlington": {
+    "city": "Burlington",
+    "city_ascii": "Burlington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0223,
+    "lng": -84.7217,
+    "cafes": []
+  },
+  "Murray": {
+    "city": "Murray",
+    "city_ascii": "Murray",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6146,
+    "lng": -88.3207,
+    "cafes": []
+  },
+  "St. Matthews": {
+    "city": "St. Matthews",
+    "city_ascii": "St. Matthews",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2497,
+    "lng": -85.6384,
+    "cafes": []
+  },
+  "Shelbyville": {
+    "city": "Shelbyville",
+    "city_ascii": "Shelbyville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2067,
+    "lng": -85.2292,
+    "cafes": []
+  },
+  "Fort Thomas": {
+    "city": "Fort Thomas",
+    "city_ascii": "Fort Thomas",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0801,
+    "lng": -84.4518,
+    "cafes": []
+  },
+  "Danville": {
+    "city": "Danville",
+    "city_ascii": "Danville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6418,
+    "lng": -84.7777,
+    "cafes": []
+  },
+  "Berea": {
+    "city": "Berea",
+    "city_ascii": "Berea",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5904,
+    "lng": -84.2898,
+    "cafes": []
+  },
+  "Shively": {
+    "city": "Shively",
+    "city_ascii": "Shively",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.197,
+    "lng": -85.8136,
+    "cafes": []
+  },
+  "Glasgow": {
+    "city": "Glasgow",
+    "city_ascii": "Glasgow",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0048,
+    "lng": -85.9263,
+    "cafes": []
+  },
+  "Shepherdsville": {
+    "city": "Shepherdsville",
+    "city_ascii": "Shepherdsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9813,
+    "lng": -85.7007,
+    "cafes": []
+  },
+  "Newport": {
+    "city": "Newport",
+    "city_ascii": "Newport",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0856,
+    "lng": -84.4868,
+    "cafes": []
+  },
+  "Bardstown": {
+    "city": "Bardstown",
+    "city_ascii": "Bardstown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8175,
+    "lng": -85.455,
+    "cafes": []
+  },
+  "Somerset": {
+    "city": "Somerset",
+    "city_ascii": "Somerset",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0834,
+    "lng": -84.6109,
+    "cafes": []
+  },
+  "Lawrenceburg": {
+    "city": "Lawrenceburg",
+    "city_ascii": "Lawrenceburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0332,
+    "lng": -84.9031,
+    "cafes": []
+  },
+  "Campbellsville": {
+    "city": "Campbellsville",
+    "city_ascii": "Campbellsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3445,
+    "lng": -85.3511,
+    "cafes": []
+  },
+  "Fort Campbell North": {
+    "city": "Fort Campbell North",
+    "city_ascii": "Fort Campbell North",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6631,
+    "lng": -87.4764,
+    "cafes": []
+  },
+  "Lyndon": {
+    "city": "Lyndon",
+    "city_ascii": "Lyndon",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2645,
+    "lng": -85.5891,
+    "cafes": []
+  },
+  "Alexandria": {
+    "city": "Alexandria",
+    "city_ascii": "Alexandria",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.9621,
+    "lng": -84.3859,
+    "cafes": []
+  },
+  "Versailles": {
+    "city": "Versailles",
+    "city_ascii": "Versailles",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0486,
+    "lng": -84.7258,
+    "cafes": []
+  },
+  "Francisville": {
+    "city": "Francisville",
+    "city_ascii": "Francisville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.1068,
+    "lng": -84.7277,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7177,
+    "lng": -86.5595,
+    "cafes": []
+  },
+  "La Grange": {
+    "city": "La Grange",
+    "city_ascii": "La Grange",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3987,
+    "lng": -85.375,
+    "cafes": []
+  },
+  "Paris": {
+    "city": "Paris",
+    "city_ascii": "Paris",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2016,
+    "lng": -84.2718,
+    "cafes": []
+  },
+  "Mayfield": {
+    "city": "Mayfield",
+    "city_ascii": "Mayfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7371,
+    "lng": -88.6447,
+    "cafes": []
+  },
+  "Middletown": {
+    "city": "Middletown",
+    "city_ascii": "Middletown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.241,
+    "lng": -85.5214,
+    "cafes": []
+  },
+  "Oakbrook": {
+    "city": "Oakbrook",
+    "city_ascii": "Oakbrook",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.9996,
+    "lng": -84.6797,
+    "cafes": []
+  },
+  "Middlesborough": {
+    "city": "Middlesborough",
+    "city_ascii": "Middlesborough",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6127,
+    "lng": -83.7227,
+    "cafes": []
+  },
+  "Elsmere": {
+    "city": "Elsmere",
+    "city_ascii": "Elsmere",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.9948,
+    "lng": -84.6017,
+    "cafes": []
+  },
+  "Harrodsburg": {
+    "city": "Harrodsburg",
+    "city_ascii": "Harrodsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7654,
+    "lng": -84.8474,
+    "cafes": []
+  },
+  "Maysville": {
+    "city": "Maysville",
+    "city_ascii": "Maysville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6455,
+    "lng": -83.7911,
+    "cafes": []
+  },
+  "Hillview": {
+    "city": "Hillview",
+    "city_ascii": "Hillview",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0562,
+    "lng": -85.6847,
+    "cafes": []
+  },
+  "Fort Knox": {
+    "city": "Fort Knox",
+    "city_ascii": "Fort Knox",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8915,
+    "lng": -85.9636,
+    "cafes": []
+  },
+  "Fort Mitchell": {
+    "city": "Fort Mitchell",
+    "city_ascii": "Fort Mitchell",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.046,
+    "lng": -84.5562,
+    "cafes": []
+  },
+  "Corbin": {
+    "city": "Corbin",
+    "city_ascii": "Corbin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9323,
+    "lng": -84.1006,
+    "cafes": []
+  },
+  "Edgewood": {
+    "city": "Edgewood",
+    "city_ascii": "Edgewood",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0092,
+    "lng": -84.5604,
+    "cafes": []
+  },
+  "Oak Grove": {
+    "city": "Oak Grove",
+    "city_ascii": "Oak Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6686,
+    "lng": -87.4216,
+    "cafes": []
+  },
+  "London": {
+    "city": "London",
+    "city_ascii": "London",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1175,
+    "lng": -84.0767,
+    "cafes": []
+  },
+  "Pikeville": {
+    "city": "Pikeville",
+    "city_ascii": "Pikeville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4806,
+    "lng": -82.5262,
+    "cafes": []
+  },
+  "Mount Sterling": {
+    "city": "Mount Sterling",
+    "city_ascii": "Mount Sterling",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0648,
+    "lng": -83.9472,
+    "cafes": []
+  },
+  "Union": {
+    "city": "Union",
+    "city_ascii": "Union",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.9469,
+    "lng": -84.6729,
+    "cafes": []
+  },
+  "Villa Hills": {
+    "city": "Villa Hills",
+    "city_ascii": "Villa Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0656,
+    "lng": -84.5949,
+    "cafes": []
+  },
+  "Flatwoods": {
+    "city": "Flatwoods",
+    "city_ascii": "Flatwoods",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.521,
+    "lng": -82.7196,
+    "cafes": []
+  },
+  "Russellville": {
+    "city": "Russellville",
+    "city_ascii": "Russellville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8394,
+    "lng": -86.895,
+    "cafes": []
+  },
+  "Morehead": {
+    "city": "Morehead",
+    "city_ascii": "Morehead",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1906,
+    "lng": -83.4466,
+    "cafes": []
+  },
+  "Taylor Mill": {
+    "city": "Taylor Mill",
+    "city_ascii": "Taylor Mill",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0092,
+    "lng": -84.4988,
+    "cafes": []
+  },
+  "Vine Grove": {
+    "city": "Vine Grove",
+    "city_ascii": "Vine Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8134,
+    "lng": -85.9828,
+    "cafes": []
+  },
+  "Hebron": {
+    "city": "Hebron",
+    "city_ascii": "Hebron",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0626,
+    "lng": -84.709,
+    "cafes": []
+  },
+  "Highland Heights": {
+    "city": "Highland Heights",
+    "city_ascii": "Highland Heights",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0354,
+    "lng": -84.4567,
+    "cafes": []
+  },
+  "Leitchfield": {
+    "city": "Leitchfield",
+    "city_ascii": "Leitchfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4863,
+    "lng": -86.2856,
+    "cafes": []
+  },
+  "Cynthiana": {
+    "city": "Cynthiana",
+    "city_ascii": "Cynthiana",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.386,
+    "lng": -84.2992,
+    "cafes": []
+  },
+  "Lebanon": {
+    "city": "Lebanon",
+    "city_ascii": "Lebanon",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5691,
+    "lng": -85.2594,
+    "cafes": []
+  },
+  "Cold Spring": {
+    "city": "Cold Spring",
+    "city_ascii": "Cold Spring",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.013,
+    "lng": -84.435,
+    "cafes": []
+  },
+  "Crestwood": {
+    "city": "Crestwood",
+    "city_ascii": "Crestwood",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3355,
+    "lng": -85.4839,
+    "cafes": []
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "city_ascii": "Princeton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1068,
+    "lng": -87.8853,
+    "cafes": []
+  },
+  "Wilmore": {
+    "city": "Wilmore",
+    "city_ascii": "Wilmore",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8786,
+    "lng": -84.6545,
+    "cafes": []
+  },
+  "Fort Wright": {
+    "city": "Fort Wright",
+    "city_ascii": "Fort Wright",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0463,
+    "lng": -84.5362,
+    "cafes": []
+  },
+  "Monticello": {
+    "city": "Monticello",
+    "city_ascii": "Monticello",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8412,
+    "lng": -84.8502,
+    "cafes": []
+  },
+  "Central City": {
+    "city": "Central City",
+    "city_ascii": "Central City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2963,
+    "lng": -87.128,
+    "cafes": []
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "city_ascii": "Dayton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.1127,
+    "lng": -84.4639,
+    "cafes": []
+  },
+  "Bellevue": {
+    "city": "Bellevue",
+    "city_ascii": "Bellevue",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.1012,
+    "lng": -84.4775,
+    "cafes": []
+  },
+  "Walton": {
+    "city": "Walton",
+    "city_ascii": "Walton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.8645,
+    "lng": -84.6122,
+    "cafes": []
+  },
+  "Douglass Hills": {
+    "city": "Douglass Hills",
+    "city_ascii": "Douglass Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2367,
+    "lng": -85.5499,
+    "cafes": []
+  },
+  "Williamsburg": {
+    "city": "Williamsburg",
+    "city_ascii": "Williamsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7393,
+    "lng": -84.1647,
+    "cafes": []
+  },
+  "Hazard": {
+    "city": "Hazard",
+    "city_ascii": "Hazard",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2584,
+    "lng": -83.1977,
+    "cafes": []
+  },
+  "Massac": {
+    "city": "Massac",
+    "city_ascii": "Massac",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0335,
+    "lng": -88.6858,
+    "cafes": []
+  },
+  "Reidland": {
+    "city": "Reidland",
+    "city_ascii": "Reidland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0085,
+    "lng": -88.5261,
+    "cafes": []
+  },
+  "Columbia": {
+    "city": "Columbia",
+    "city_ascii": "Columbia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1036,
+    "lng": -85.3073,
+    "cafes": []
+  },
+  "Hendron": {
+    "city": "Hendron",
+    "city_ascii": "Hendron",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.035,
+    "lng": -88.6427,
+    "cafes": []
+  },
+  "Benton": {
+    "city": "Benton",
+    "city_ascii": "Benton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8479,
+    "lng": -88.3602,
+    "cafes": []
+  },
+  "Hurstbourne": {
+    "city": "Hurstbourne",
+    "city_ascii": "Hurstbourne",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2379,
+    "lng": -85.5891,
+    "cafes": []
+  },
+  "Prospect": {
+    "city": "Prospect",
+    "city_ascii": "Prospect",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3471,
+    "lng": -85.6103,
+    "cafes": []
+  },
+  "Westwood": {
+    "city": "Westwood",
+    "city_ascii": "Westwood",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4806,
+    "lng": -82.6798,
+    "cafes": []
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2121,
+    "lng": -87.178,
+    "cafes": []
+  },
+  "Farley": {
+    "city": "Farley",
+    "city_ascii": "Farley",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0405,
+    "lng": -88.5734,
+    "cafes": []
+  },
+  "Crescent Springs": {
+    "city": "Crescent Springs",
+    "city_ascii": "Crescent Springs",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0553,
+    "lng": -84.5787,
+    "cafes": []
+  },
+  "Scottsville": {
+    "city": "Scottsville",
+    "city_ascii": "Scottsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7544,
+    "lng": -86.2053,
+    "cafes": []
+  },
+  "Ludlow": {
+    "city": "Ludlow",
+    "city_ascii": "Ludlow",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0904,
+    "lng": -84.5498,
+    "cafes": []
+  },
+  "Paintsville": {
+    "city": "Paintsville",
+    "city_ascii": "Paintsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8163,
+    "lng": -82.8089,
+    "cafes": []
+  },
+  "Crittenden": {
+    "city": "Crittenden",
+    "city_ascii": "Crittenden",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.7755,
+    "lng": -84.6137,
+    "cafes": []
+  },
+  "Lancaster": {
+    "city": "Lancaster",
+    "city_ascii": "Lancaster",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6148,
+    "lng": -84.5815,
+    "cafes": []
+  },
+  "Williamstown": {
+    "city": "Williamstown",
+    "city_ascii": "Williamstown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6415,
+    "lng": -84.5675,
+    "cafes": []
+  },
+  "Carrollton": {
+    "city": "Carrollton",
+    "city_ascii": "Carrollton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6799,
+    "lng": -85.1658,
+    "cafes": []
+  },
+  "Prestonsburg": {
+    "city": "Prestonsburg",
+    "city_ascii": "Prestonsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6819,
+    "lng": -82.7661,
+    "cafes": []
+  },
+  "Grayson": {
+    "city": "Grayson",
+    "city_ascii": "Grayson",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3317,
+    "lng": -82.9371,
+    "cafes": []
+  },
+  "Buckner": {
+    "city": "Buckner",
+    "city_ascii": "Buckner",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3903,
+    "lng": -85.4535,
+    "cafes": []
+  },
+  "Russell": {
+    "city": "Russell",
+    "city_ascii": "Russell",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5116,
+    "lng": -82.6996,
+    "cafes": []
+  },
+  "Southgate": {
+    "city": "Southgate",
+    "city_ascii": "Southgate",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0631,
+    "lng": -84.4715,
+    "cafes": []
+  },
+  "Stanford": {
+    "city": "Stanford",
+    "city_ascii": "Stanford",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5331,
+    "lng": -84.6602,
+    "cafes": []
+  },
+  "Beaver Dam": {
+    "city": "Beaver Dam",
+    "city_ascii": "Beaver Dam",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4042,
+    "lng": -86.8741,
+    "cafes": []
+  },
+  "Claryville": {
+    "city": "Claryville",
+    "city_ascii": "Claryville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.914,
+    "lng": -84.4095,
+    "cafes": []
+  },
+  "West Liberty": {
+    "city": "West Liberty",
+    "city_ascii": "West Liberty",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9161,
+    "lng": -83.2668,
+    "cafes": []
+  },
+  "Hodgenville": {
+    "city": "Hodgenville",
+    "city_ascii": "Hodgenville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5668,
+    "lng": -85.7354,
+    "cafes": []
+  },
+  "Crestview Hills": {
+    "city": "Crestview Hills",
+    "city_ascii": "Crestview Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0249,
+    "lng": -84.5695,
+    "cafes": []
+  },
+  "Stanton": {
+    "city": "Stanton",
+    "city_ascii": "Stanton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8465,
+    "lng": -83.8564,
+    "cafes": []
+  },
+  "Morganfield": {
+    "city": "Morganfield",
+    "city_ascii": "Morganfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6869,
+    "lng": -87.8878,
+    "cafes": []
+  },
+  "Barbourville": {
+    "city": "Barbourville",
+    "city_ascii": "Barbourville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8667,
+    "lng": -83.885,
+    "cafes": []
+  },
+  "Park Hills": {
+    "city": "Park Hills",
+    "city_ascii": "Park Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0692,
+    "lng": -84.5313,
+    "cafes": []
+  },
+  "Wilder": {
+    "city": "Wilder",
+    "city_ascii": "Wilder",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0401,
+    "lng": -84.4816,
+    "cafes": []
+  },
+  "Simpsonville": {
+    "city": "Simpsonville",
+    "city_ascii": "Simpsonville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2167,
+    "lng": -85.3515,
+    "cafes": []
+  },
+  "Flemingsburg": {
+    "city": "Flemingsburg",
+    "city_ascii": "Flemingsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4236,
+    "lng": -83.7373,
+    "cafes": []
+  },
+  "Eddyville": {
+    "city": "Eddyville",
+    "city_ascii": "Eddyville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0759,
+    "lng": -88.077,
+    "cafes": []
+  },
+  "Sorgho": {
+    "city": "Sorgho",
+    "city_ascii": "Sorgho",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7518,
+    "lng": -87.219,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3321,
+    "lng": -88.0795,
+    "cafes": []
+  },
+  "Brandenburg": {
+    "city": "Brandenburg",
+    "city_ascii": "Brandenburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9956,
+    "lng": -86.1773,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6922,
+    "lng": -85.2193,
+    "cafes": []
+  },
+  "Indian Hills": {
+    "city": "Indian Hills",
+    "city_ascii": "Indian Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2809,
+    "lng": -85.6617,
+    "cafes": []
+  },
+  "Rineyville": {
+    "city": "Rineyville",
+    "city_ascii": "Rineyville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7501,
+    "lng": -85.9703,
+    "cafes": []
+  },
+  "Providence": {
+    "city": "Providence",
+    "city_ascii": "Providence",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3993,
+    "lng": -87.7509,
+    "cafes": []
+  },
+  "Graymoor-Devondale": {
+    "city": "Graymoor-Devondale",
+    "city_ascii": "Graymoor-Devondale",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2733,
+    "lng": -85.6177,
+    "cafes": []
+  },
+  "Lakeside Park": {
+    "city": "Lakeside Park",
+    "city_ascii": "Lakeside Park",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0339,
+    "lng": -84.5673,
+    "cafes": []
+  },
+  "Irvine": {
+    "city": "Irvine",
+    "city_ascii": "Irvine",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6964,
+    "lng": -83.9678,
+    "cafes": []
+  },
+  "Russell Springs": {
+    "city": "Russell Springs",
+    "city_ascii": "Russell Springs",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.051,
+    "lng": -85.0774,
+    "cafes": []
+  },
+  "Morgantown": {
+    "city": "Morgantown",
+    "city_ascii": "Morgantown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2174,
+    "lng": -86.7001,
+    "cafes": []
+  },
+  "Eminence": {
+    "city": "Eminence",
+    "city_ascii": "Eminence",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3637,
+    "lng": -85.1779,
+    "cafes": []
+  },
+  "Pioneer Village": {
+    "city": "Pioneer Village",
+    "city_ascii": "Pioneer Village",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0599,
+    "lng": -85.68,
+    "cafes": []
+  },
+  "Thruston": {
+    "city": "Thruston",
+    "city_ascii": "Thruston",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7903,
+    "lng": -87.0265,
+    "cafes": []
+  },
+  "Tompkinsville": {
+    "city": "Tompkinsville",
+    "city_ascii": "Tompkinsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7012,
+    "lng": -85.6927,
+    "cafes": []
+  },
+  "Hartford": {
+    "city": "Hartford",
+    "city_ascii": "Hartford",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4507,
+    "lng": -86.893,
+    "cafes": []
+  },
+  "Cadiz": {
+    "city": "Cadiz",
+    "city_ascii": "Cadiz",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8695,
+    "lng": -87.8048,
+    "cafes": []
+  },
+  "Louisa": {
+    "city": "Louisa",
+    "city_ascii": "Louisa",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1081,
+    "lng": -82.6132,
+    "cafes": []
+  },
+  "Masonville": {
+    "city": "Masonville",
+    "city_ascii": "Masonville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6718,
+    "lng": -87.0511,
+    "cafes": []
+  },
+  "Falmouth": {
+    "city": "Falmouth",
+    "city_ascii": "Falmouth",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6708,
+    "lng": -84.3311,
+    "cafes": []
+  },
+  "Cave City": {
+    "city": "Cave City",
+    "city_ascii": "Cave City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.14,
+    "lng": -85.9646,
+    "cafes": []
+  },
+  "Calvert City": {
+    "city": "Calvert City",
+    "city_ascii": "Calvert City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0294,
+    "lng": -88.3602,
+    "cafes": []
+  },
+  "Junction City": {
+    "city": "Junction City",
+    "city_ascii": "Junction City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5853,
+    "lng": -84.7903,
+    "cafes": []
+  },
+  "Anchorage": {
+    "city": "Anchorage",
+    "city_ascii": "Anchorage",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2689,
+    "lng": -85.5364,
+    "cafes": []
+  },
+  "Hardinsburg": {
+    "city": "Hardinsburg",
+    "city_ascii": "Hardinsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7755,
+    "lng": -86.4537,
+    "cafes": []
+  },
+  "Carlisle": {
+    "city": "Carlisle",
+    "city_ascii": "Carlisle",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3163,
+    "lng": -84.0333,
+    "cafes": []
+  },
+  "Horse Cave": {
+    "city": "Horse Cave",
+    "city_ascii": "Horse Cave",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1738,
+    "lng": -85.9146,
+    "cafes": []
+  },
+  "Fulton": {
+    "city": "Fulton",
+    "city_ascii": "Fulton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.5145,
+    "lng": -88.882,
+    "cafes": []
+  },
+  "Elk Creek": {
+    "city": "Elk Creek",
+    "city_ascii": "Elk Creek",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.117,
+    "lng": -85.3722,
+    "cafes": []
+  },
+  "Harlan": {
+    "city": "Harlan",
+    "city_ascii": "Harlan",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8433,
+    "lng": -83.3184,
+    "cafes": []
+  },
+  "Mount Vernon": {
+    "city": "Mount Vernon",
+    "city_ascii": "Mount Vernon",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3654,
+    "lng": -84.3401,
+    "cafes": []
+  },
+  "Dry Ridge": {
+    "city": "Dry Ridge",
+    "city_ascii": "Dry Ridge",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6838,
+    "lng": -84.6005,
+    "cafes": []
+  },
+  "Brooks": {
+    "city": "Brooks",
+    "city_ascii": "Brooks",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0656,
+    "lng": -85.7177,
+    "cafes": []
+  },
+  "Cumberland": {
+    "city": "Cumberland",
+    "city_ascii": "Cumberland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9824,
+    "lng": -82.992,
+    "cafes": []
+  },
+  "Greensburg": {
+    "city": "Greensburg",
+    "city_ascii": "Greensburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2599,
+    "lng": -85.4962,
+    "cafes": []
+  },
+  "Lebanon Junction": {
+    "city": "Lebanon Junction",
+    "city_ascii": "Lebanon Junction",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8357,
+    "lng": -85.7243,
+    "cafes": []
+  },
+  "Windy Hills": {
+    "city": "Windy Hills",
+    "city_ascii": "Windy Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2702,
+    "lng": -85.6378,
+    "cafes": []
+  },
+  "Raceland": {
+    "city": "Raceland",
+    "city_ascii": "Raceland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5376,
+    "lng": -82.7344,
+    "cafes": []
+  },
+  "Edmonton": {
+    "city": "Edmonton",
+    "city_ascii": "Edmonton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9854,
+    "lng": -85.6192,
+    "cafes": []
+  },
+  "Elkton": {
+    "city": "Elkton",
+    "city_ascii": "Elkton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8134,
+    "lng": -87.161,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5589,
+    "lng": -83.3783,
+    "cafes": []
+  },
+  "North Corbin": {
+    "city": "North Corbin",
+    "city_ascii": "North Corbin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9649,
+    "lng": -84.0973,
+    "cafes": []
+  },
+  "Sebree": {
+    "city": "Sebree",
+    "city_ascii": "Sebree",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.604,
+    "lng": -87.5187,
+    "cafes": []
+  },
+  "Lewisport": {
+    "city": "Lewisport",
+    "city_ascii": "Lewisport",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9309,
+    "lng": -86.9027,
+    "cafes": []
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1464,
+    "lng": -83.7635,
+    "cafes": []
+  },
+  "Hickman": {
+    "city": "Hickman",
+    "city_ascii": "Hickman",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.565,
+    "lng": -89.1836,
+    "cafes": []
+  },
+  "Jamestown": {
+    "city": "Jamestown",
+    "city_ascii": "Jamestown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9893,
+    "lng": -85.0662,
+    "cafes": []
+  },
+  "Orchard Grass Hills": {
+    "city": "Orchard Grass Hills",
+    "city_ascii": "Orchard Grass Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3234,
+    "lng": -85.5236,
+    "cafes": []
+  },
+  "Whitesburg": {
+    "city": "Whitesburg",
+    "city_ascii": "Whitesburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1183,
+    "lng": -82.823,
+    "cafes": []
+  },
+  "Hurstbourne Acres": {
+    "city": "Hurstbourne Acres",
+    "city_ascii": "Hurstbourne Acres",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2201,
+    "lng": -85.5907,
+    "cafes": []
+  },
+  "Owingsville": {
+    "city": "Owingsville",
+    "city_ascii": "Owingsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1364,
+    "lng": -83.7604,
+    "cafes": []
+  },
+  "Dawson Springs": {
+    "city": "Dawson Springs",
+    "city_ascii": "Dawson Springs",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.174,
+    "lng": -87.688,
+    "cafes": []
+  },
+  "Albany": {
+    "city": "Albany",
+    "city_ascii": "Albany",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6906,
+    "lng": -85.1353,
+    "cafes": []
+  },
+  "Beattyville": {
+    "city": "Beattyville",
+    "city_ascii": "Beattyville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5862,
+    "lng": -83.7065,
+    "cafes": []
+  },
+  "Jeffersonville": {
+    "city": "Jeffersonville",
+    "city_ascii": "Jeffersonville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.966,
+    "lng": -83.8319,
+    "cafes": []
+  },
+  "Pineville": {
+    "city": "Pineville",
+    "city_ascii": "Pineville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7532,
+    "lng": -83.7076,
+    "cafes": []
+  },
+  "Salyersville": {
+    "city": "Salyersville",
+    "city_ascii": "Salyersville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7459,
+    "lng": -83.0646,
+    "cafes": []
+  },
+  "Coal Run Village": {
+    "city": "Coal Run Village",
+    "city_ascii": "Coal Run Village",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5372,
+    "lng": -82.5577,
+    "cafes": []
+  },
+  "Worthington Hills": {
+    "city": "Worthington Hills",
+    "city_ascii": "Worthington Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3093,
+    "lng": -85.527,
+    "cafes": []
+  },
+  "Warsaw": {
+    "city": "Warsaw",
+    "city_ascii": "Warsaw",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.7774,
+    "lng": -84.904,
+    "cafes": []
+  },
+  "St. Regis Park": {
+    "city": "St. Regis Park",
+    "city_ascii": "St. Regis Park",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2289,
+    "lng": -85.6158,
+    "cafes": []
+  },
+  "Liberty": {
+    "city": "Liberty",
+    "city_ascii": "Liberty",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3205,
+    "lng": -84.9287,
+    "cafes": []
+  },
+  "Sturgis": {
+    "city": "Sturgis",
+    "city_ascii": "Sturgis",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5466,
+    "lng": -87.9879,
+    "cafes": []
+  },
+  "Worthington": {
+    "city": "Worthington",
+    "city_ascii": "Worthington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5509,
+    "lng": -82.7348,
+    "cafes": []
+  },
+  "Munfordville": {
+    "city": "Munfordville",
+    "city_ascii": "Munfordville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2795,
+    "lng": -85.8982,
+    "cafes": []
+  },
+  "Midway": {
+    "city": "Midway",
+    "city_ascii": "Midway",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1562,
+    "lng": -84.676,
+    "cafes": []
+  },
+  "Doe Valley": {
+    "city": "Doe Valley",
+    "city_ascii": "Doe Valley",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9745,
+    "lng": -86.1107,
+    "cafes": []
+  },
+  "Audubon Park": {
+    "city": "Audubon Park",
+    "city_ascii": "Audubon Park",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.205,
+    "lng": -85.727,
+    "cafes": []
+  },
+  "Auburn": {
+    "city": "Auburn",
+    "city_ascii": "Auburn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8654,
+    "lng": -86.711,
+    "cafes": []
+  },
+  "Catlettsburg": {
+    "city": "Catlettsburg",
+    "city_ascii": "Catlettsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.419,
+    "lng": -82.6025,
+    "cafes": []
+  },
+  "Ledbetter": {
+    "city": "Ledbetter",
+    "city_ascii": "Ledbetter",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0485,
+    "lng": -88.4949,
+    "cafes": []
+  },
+  "West Buechel": {
+    "city": "West Buechel",
+    "city_ascii": "West Buechel",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.195,
+    "lng": -85.6678,
+    "cafes": []
+  },
+  "Owenton": {
+    "city": "Owenton",
+    "city_ascii": "Owenton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5385,
+    "lng": -84.8411,
+    "cafes": []
+  },
+  "Breckinridge Center": {
+    "city": "Breckinridge Center",
+    "city_ascii": "Breckinridge Center",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.682,
+    "lng": -87.8656,
+    "cafes": []
+  },
+  "Jenkins": {
+    "city": "Jenkins",
+    "city_ascii": "Jenkins",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1826,
+    "lng": -82.631,
+    "cafes": []
+  },
+  "Taylorsville": {
+    "city": "Taylorsville",
+    "city_ascii": "Taylorsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0368,
+    "lng": -85.3333,
+    "cafes": []
+  },
+  "South Shore": {
+    "city": "South Shore",
+    "city_ascii": "South Shore",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.7224,
+    "lng": -82.9647,
+    "cafes": []
+  },
+  "Augusta": {
+    "city": "Augusta",
+    "city_ascii": "Augusta",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.7723,
+    "lng": -84.0003,
+    "cafes": []
+  },
+  "Stearns": {
+    "city": "Stearns",
+    "city_ascii": "Stearns",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6957,
+    "lng": -84.4768,
+    "cafes": []
+  },
+  "Olive Hill": {
+    "city": "Olive Hill",
+    "city_ascii": "Olive Hill",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3037,
+    "lng": -83.1682,
+    "cafes": []
+  },
+  "Vanceburg": {
+    "city": "Vanceburg",
+    "city_ascii": "Vanceburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5944,
+    "lng": -83.3245,
+    "cafes": []
+  },
+  "Cannonsburg": {
+    "city": "Cannonsburg",
+    "city_ascii": "Cannonsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3806,
+    "lng": -82.7006,
+    "cafes": []
+  },
+  "Pewee Valley": {
+    "city": "Pewee Valley",
+    "city_ascii": "Pewee Valley",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3105,
+    "lng": -85.4896,
+    "cafes": []
+  },
+  "Burkesville": {
+    "city": "Burkesville",
+    "city_ascii": "Burkesville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7906,
+    "lng": -85.3675,
+    "cafes": []
+  },
+  "Guthrie": {
+    "city": "Guthrie",
+    "city_ascii": "Guthrie",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6503,
+    "lng": -87.1735,
+    "cafes": []
+  },
+  "Pine Knot": {
+    "city": "Pine Knot",
+    "city_ascii": "Pine Knot",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6648,
+    "lng": -84.4395,
+    "cafes": []
+  },
+  "Clay City": {
+    "city": "Clay City",
+    "city_ascii": "Clay City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8622,
+    "lng": -83.9277,
+    "cafes": []
+  },
+  "Brodhead": {
+    "city": "Brodhead",
+    "city_ascii": "Brodhead",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4027,
+    "lng": -84.4144,
+    "cafes": []
+  },
+  "Beechwood Village": {
+    "city": "Beechwood Village",
+    "city_ascii": "Beechwood Village",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2555,
+    "lng": -85.6295,
+    "cafes": []
+  },
+  "Plano": {
+    "city": "Plano",
+    "city_ascii": "Plano",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8772,
+    "lng": -86.4165,
+    "cafes": []
+  },
+  "Pleasureville": {
+    "city": "Pleasureville",
+    "city_ascii": "Pleasureville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.351,
+    "lng": -85.1121,
+    "cafes": []
+  },
+  "Coldstream": {
+    "city": "Coldstream",
+    "city_ascii": "Coldstream",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3144,
+    "lng": -85.5264,
+    "cafes": []
+  },
+  "Cloverport": {
+    "city": "Cloverport",
+    "city_ascii": "Cloverport",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8311,
+    "lng": -86.6304,
+    "cafes": []
+  },
+  "Hebron Estates": {
+    "city": "Hebron Estates",
+    "city_ascii": "Hebron Estates",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0501,
+    "lng": -85.6682,
+    "cafes": []
+  },
+  "Wurtland": {
+    "city": "Wurtland",
+    "city_ascii": "Wurtland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5495,
+    "lng": -82.7788,
+    "cafes": []
+  },
+  "Bellefonte": {
+    "city": "Bellefonte",
+    "city_ascii": "Bellefonte",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4949,
+    "lng": -82.6911,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6663,
+    "lng": -88.9938,
+    "cafes": []
+  },
+  "West Van Lear": {
+    "city": "West Van Lear",
+    "city_ascii": "West Van Lear",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7852,
+    "lng": -82.7891,
+    "cafes": []
+  },
+  "Hawesville": {
+    "city": "Hawesville",
+    "city_ascii": "Hawesville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8962,
+    "lng": -86.7561,
+    "cafes": []
+  },
+  "Barbourmeade": {
+    "city": "Barbourmeade",
+    "city_ascii": "Barbourmeade",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2986,
+    "lng": -85.6009,
+    "cafes": []
+  },
+  "Verona": {
+    "city": "Verona",
+    "city_ascii": "Verona",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.8122,
+    "lng": -84.6649,
+    "cafes": []
+  },
+  "Annville": {
+    "city": "Annville",
+    "city_ascii": "Annville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3254,
+    "lng": -83.9621,
+    "cafes": []
+  },
+  "Muldraugh": {
+    "city": "Muldraugh",
+    "city_ascii": "Muldraugh",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9365,
+    "lng": -85.9915,
+    "cafes": []
+  },
+  "Clarkson": {
+    "city": "Clarkson",
+    "city_ascii": "Clarkson",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4937,
+    "lng": -86.2259,
+    "cafes": []
+  },
+  "West Point": {
+    "city": "West Point",
+    "city_ascii": "West Point",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9851,
+    "lng": -85.9556,
+    "cafes": []
+  },
+  "Irvington": {
+    "city": "Irvington",
+    "city_ascii": "Irvington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8779,
+    "lng": -86.2848,
+    "cafes": []
+  },
+  "Earlington": {
+    "city": "Earlington",
+    "city_ascii": "Earlington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2754,
+    "lng": -87.5066,
+    "cafes": []
+  },
+  "Clay": {
+    "city": "Clay",
+    "city_ascii": "Clay",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4763,
+    "lng": -87.8202,
+    "cafes": []
+  },
+  "Silver Grove": {
+    "city": "Silver Grove",
+    "city_ascii": "Silver Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0404,
+    "lng": -84.3995,
+    "cafes": []
+  },
+  "Northfield": {
+    "city": "Northfield",
+    "city_ascii": "Northfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2857,
+    "lng": -85.6363,
+    "cafes": []
+  },
+  "Philpot": {
+    "city": "Philpot",
+    "city_ascii": "Philpot",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7356,
+    "lng": -87.0013,
+    "cafes": []
+  },
+  "Lewisburg": {
+    "city": "Lewisburg",
+    "city_ascii": "Lewisburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9872,
+    "lng": -86.9502,
+    "cafes": []
+  },
+  "Heritage Creek": {
+    "city": "Heritage Creek",
+    "city_ascii": "Heritage Creek",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0951,
+    "lng": -85.6125,
+    "cafes": []
+  },
+  "Brownsville": {
+    "city": "Brownsville",
+    "city_ascii": "Brownsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1952,
+    "lng": -86.2691,
+    "cafes": []
+  },
+  "Bloomfield": {
+    "city": "Bloomfield",
+    "city_ascii": "Bloomfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9122,
+    "lng": -85.314,
+    "cafes": []
+  },
+  "Livermore": {
+    "city": "Livermore",
+    "city_ascii": "Livermore",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4919,
+    "lng": -87.1343,
+    "cafes": []
+  },
+  "Burgin": {
+    "city": "Burgin",
+    "city_ascii": "Burgin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7543,
+    "lng": -84.7632,
+    "cafes": []
+  },
+  "Campbellsburg": {
+    "city": "Campbellsburg",
+    "city_ascii": "Campbellsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.522,
+    "lng": -85.2195,
+    "cafes": []
+  },
+  "Dixon": {
+    "city": "Dixon",
+    "city_ascii": "Dixon",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5134,
+    "lng": -87.6959,
+    "cafes": []
+  },
+  "Rolling Hills": {
+    "city": "Rolling Hills",
+    "city_ascii": "Rolling Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2825,
+    "lng": -85.5784,
+    "cafes": []
+  },
+  "White Plains": {
+    "city": "White Plains",
+    "city_ascii": "White Plains",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1707,
+    "lng": -87.3801,
+    "cafes": []
+  },
+  "Goshen": {
+    "city": "Goshen",
+    "city_ascii": "Goshen",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4026,
+    "lng": -85.5823,
+    "cafes": []
+  },
+  "Powderly": {
+    "city": "Powderly",
+    "city_ascii": "Powderly",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2374,
+    "lng": -87.1589,
+    "cafes": []
+  },
+  "Hanson": {
+    "city": "Hanson",
+    "city_ascii": "Hanson",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4184,
+    "lng": -87.4809,
+    "cafes": []
+  },
+  "Plantation": {
+    "city": "Plantation",
+    "city_ascii": "Plantation",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2834,
+    "lng": -85.5936,
+    "cafes": []
+  },
+  "Nortonville": {
+    "city": "Nortonville",
+    "city_ascii": "Nortonville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.186,
+    "lng": -87.4556,
+    "cafes": []
+  },
+  "South Wallins": {
+    "city": "South Wallins",
+    "city_ascii": "South Wallins",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8152,
+    "lng": -83.4044,
+    "cafes": []
+  },
+  "Wheelwright": {
+    "city": "Wheelwright",
+    "city_ascii": "Wheelwright",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3392,
+    "lng": -82.7186,
+    "cafes": []
+  },
+  "Meadow Vale": {
+    "city": "Meadow Vale",
+    "city_ascii": "Meadow Vale",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2833,
+    "lng": -85.5725,
+    "cafes": []
+  },
+  "Beechmont": {
+    "city": "Beechmont",
+    "city_ascii": "Beechmont",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1714,
+    "lng": -87.0364,
+    "cafes": []
+  },
+  "Langdon Place": {
+    "city": "Langdon Place",
+    "city_ascii": "Langdon Place",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2865,
+    "lng": -85.5849,
+    "cafes": []
+  },
+  "Elkhorn City": {
+    "city": "Elkhorn City",
+    "city_ascii": "Elkhorn City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3202,
+    "lng": -82.3522,
+    "cafes": []
+  },
+  "Stamping Ground": {
+    "city": "Stamping Ground",
+    "city_ascii": "Stamping Ground",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2697,
+    "lng": -84.6831,
+    "cafes": []
+  },
+  "Bellemeade": {
+    "city": "Bellemeade",
+    "city_ascii": "Bellemeade",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.251,
+    "lng": -85.591,
+    "cafes": []
+  },
+  "Greenup": {
+    "city": "Greenup",
+    "city_ascii": "Greenup",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5578,
+    "lng": -82.8191,
+    "cafes": []
+  },
+  "New Castle": {
+    "city": "New Castle",
+    "city_ascii": "New Castle",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4334,
+    "lng": -85.1689,
+    "cafes": []
+  },
+  "Camargo": {
+    "city": "Camargo",
+    "city_ascii": "Camargo",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.997,
+    "lng": -83.8926,
+    "cafes": []
+  },
+  "Burnside": {
+    "city": "Burnside",
+    "city_ascii": "Burnside",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0042,
+    "lng": -84.6489,
+    "cafes": []
+  },
+  "Pembroke": {
+    "city": "Pembroke",
+    "city_ascii": "Pembroke",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7752,
+    "lng": -87.358,
+    "cafes": []
+  },
+  "Perryville": {
+    "city": "Perryville",
+    "city_ascii": "Perryville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6494,
+    "lng": -84.9513,
+    "cafes": []
+  },
+  "Bromley": {
+    "city": "Bromley",
+    "city_ascii": "Bromley",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0801,
+    "lng": -84.5629,
+    "cafes": []
+  },
+  "McKee": {
+    "city": "McKee",
+    "city_ascii": "McKee",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.43,
+    "lng": -83.9859,
+    "cafes": []
+  },
+  "Uniontown": {
+    "city": "Uniontown",
+    "city_ascii": "Uniontown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7732,
+    "lng": -87.9318,
+    "cafes": []
+  },
+  "Ferguson": {
+    "city": "Ferguson",
+    "city_ascii": "Ferguson",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0632,
+    "lng": -84.5922,
+    "cafes": []
+  },
+  "Brooksville": {
+    "city": "Brooksville",
+    "city_ascii": "Brooksville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6818,
+    "lng": -84.0665,
+    "cafes": []
+  },
+  "Evarts": {
+    "city": "Evarts",
+    "city_ascii": "Evarts",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8645,
+    "lng": -83.1926,
+    "cafes": []
+  },
+  "New Haven": {
+    "city": "New Haven",
+    "city_ascii": "New Haven",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6592,
+    "lng": -85.5886,
+    "cafes": []
+  },
+  "Auxier": {
+    "city": "Auxier",
+    "city_ascii": "Auxier",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7356,
+    "lng": -82.7663,
+    "cafes": []
+  },
+  "Woodlawn Park": {
+    "city": "Woodlawn Park",
+    "city_ascii": "Woodlawn Park",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2615,
+    "lng": -85.6306,
+    "cafes": []
+  },
+  "Science Hill": {
+    "city": "Science Hill",
+    "city_ascii": "Science Hill",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1741,
+    "lng": -84.6329,
+    "cafes": []
+  },
+  "Calhoun": {
+    "city": "Calhoun",
+    "city_ascii": "Calhoun",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5411,
+    "lng": -87.2596,
+    "cafes": []
+  },
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2653,
+    "lng": -88.241,
+    "cafes": []
+  },
+  "Whitley City": {
+    "city": "Whitley City",
+    "city_ascii": "Whitley City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7238,
+    "lng": -84.4731,
+    "cafes": []
+  },
+  "Frenchburg": {
+    "city": "Frenchburg",
+    "city_ascii": "Frenchburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9542,
+    "lng": -83.6226,
+    "cafes": []
+  },
+  "Crab Orchard": {
+    "city": "Crab Orchard",
+    "city_ascii": "Crab Orchard",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4627,
+    "lng": -84.5067,
+    "cafes": []
+  },
+  "Inez": {
+    "city": "Inez",
+    "city_ascii": "Inez",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8693,
+    "lng": -82.5398,
+    "cafes": []
+  },
+  "Spring Valley": {
+    "city": "Spring Valley",
+    "city_ascii": "Spring Valley",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2968,
+    "lng": -85.6108,
+    "cafes": []
+  },
+  "La Center": {
+    "city": "La Center",
+    "city_ascii": "La Center",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0749,
+    "lng": -88.9748,
+    "cafes": []
+  },
+  "Garrison": {
+    "city": "Garrison",
+    "city_ascii": "Garrison",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6075,
+    "lng": -83.1833,
+    "cafes": []
+  },
+  "Mortons Gap": {
+    "city": "Mortons Gap",
+    "city_ascii": "Mortons Gap",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2402,
+    "lng": -87.4668,
+    "cafes": []
+  },
+  "Bardwell": {
+    "city": "Bardwell",
+    "city_ascii": "Bardwell",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.874,
+    "lng": -89.0091,
+    "cafes": []
+  },
+  "Watterson Park": {
+    "city": "Watterson Park",
+    "city_ascii": "Watterson Park",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.189,
+    "lng": -85.6864,
+    "cafes": []
+  },
+  "Houston Acres": {
+    "city": "Houston Acres",
+    "city_ascii": "Houston Acres",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2146,
+    "lng": -85.6143,
+    "cafes": []
+  },
+  "Milton": {
+    "city": "Milton",
+    "city_ascii": "Milton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.7113,
+    "lng": -85.3734,
+    "cafes": []
+  },
+  "Loretto": {
+    "city": "Loretto",
+    "city_ascii": "Loretto",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6351,
+    "lng": -85.3985,
+    "cafes": []
+  },
+  "Pleasant Ridge": {
+    "city": "Pleasant Ridge",
+    "city_ascii": "Pleasant Ridge",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5939,
+    "lng": -86.9935,
+    "cafes": []
+  },
+  "Lynch": {
+    "city": "Lynch",
+    "city_ascii": "Lynch",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9641,
+    "lng": -82.9138,
+    "cafes": []
+  },
+  "Blue Ridge Manor": {
+    "city": "Blue Ridge Manor",
+    "city_ascii": "Blue Ridge Manor",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2434,
+    "lng": -85.5647,
+    "cafes": []
+  },
+  "Ryland Heights": {
+    "city": "Ryland Heights",
+    "city_ascii": "Ryland Heights",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.9701,
+    "lng": -84.4607,
+    "cafes": []
+  },
+  "Flat Lick": {
+    "city": "Flat Lick",
+    "city_ascii": "Flat Lick",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8353,
+    "lng": -83.7598,
+    "cafes": []
+  },
+  "Millersburg": {
+    "city": "Millersburg",
+    "city_ascii": "Millersburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.304,
+    "lng": -84.145,
+    "cafes": []
+  },
+  "Wickliffe": {
+    "city": "Wickliffe",
+    "city_ascii": "Wickliffe",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9666,
+    "lng": -89.0813,
+    "cafes": []
+  },
+  "Adairville": {
+    "city": "Adairville",
+    "city_ascii": "Adairville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.671,
+    "lng": -86.856,
+    "cafes": []
+  },
+  "Park City": {
+    "city": "Park City",
+    "city_ascii": "Park City",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0934,
+    "lng": -86.0486,
+    "cafes": []
+  },
+  "Crofton": {
+    "city": "Crofton",
+    "city_ascii": "Crofton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0477,
+    "lng": -87.4842,
+    "cafes": []
+  },
+  "Seneca Gardens": {
+    "city": "Seneca Gardens",
+    "city_ascii": "Seneca Gardens",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2272,
+    "lng": -85.6773,
+    "cafes": []
+  },
+  "Smiths Grove": {
+    "city": "Smiths Grove",
+    "city_ascii": "Smiths Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0503,
+    "lng": -86.2083,
+    "cafes": []
+  },
+  "Corydon": {
+    "city": "Corydon",
+    "city_ascii": "Corydon",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7403,
+    "lng": -87.7063,
+    "cafes": []
+  },
+  "Wingo": {
+    "city": "Wingo",
+    "city_ascii": "Wingo",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6422,
+    "lng": -88.7395,
+    "cafes": []
+  },
+  "East Bernstadt": {
+    "city": "East Bernstadt",
+    "city_ascii": "East Bernstadt",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1923,
+    "lng": -84.1209,
+    "cafes": []
+  },
+  "North Middletown": {
+    "city": "North Middletown",
+    "city_ascii": "North Middletown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1425,
+    "lng": -84.1102,
+    "cafes": []
+  },
+  "Kevil": {
+    "city": "Kevil",
+    "city_ascii": "Kevil",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0842,
+    "lng": -88.8829,
+    "cafes": []
+  },
+  "Whitesville": {
+    "city": "Whitesville",
+    "city_ascii": "Whitesville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.683,
+    "lng": -86.8701,
+    "cafes": []
+  },
+  "Hindman": {
+    "city": "Hindman",
+    "city_ascii": "Hindman",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.335,
+    "lng": -82.9819,
+    "cafes": []
+  },
+  "Mayking": {
+    "city": "Mayking",
+    "city_ascii": "Mayking",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1336,
+    "lng": -82.773,
+    "cafes": []
+  },
+  "Hollow Creek": {
+    "city": "Hollow Creek",
+    "city_ascii": "Hollow Creek",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1526,
+    "lng": -85.6244,
+    "cafes": []
+  },
+  "Fox Chase": {
+    "city": "Fox Chase",
+    "city_ascii": "Fox Chase",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.046,
+    "lng": -85.6911,
+    "cafes": []
+  },
+  "Magnolia": {
+    "city": "Magnolia",
+    "city_ascii": "Magnolia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.45,
+    "lng": -85.7401,
+    "cafes": []
+  },
+  "Ravenna": {
+    "city": "Ravenna",
+    "city_ascii": "Ravenna",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6871,
+    "lng": -83.9502,
+    "cafes": []
+  },
+  "Upton": {
+    "city": "Upton",
+    "city_ascii": "Upton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4626,
+    "lng": -85.899,
+    "cafes": []
+  },
+  "Benham": {
+    "city": "Benham",
+    "city_ascii": "Benham",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9652,
+    "lng": -82.9544,
+    "cafes": []
+  },
+  "Woodland Hills": {
+    "city": "Woodland Hills",
+    "city_ascii": "Woodland Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2393,
+    "lng": -85.5289,
+    "cafes": []
+  },
+  "Poplar Hills": {
+    "city": "Poplar Hills",
+    "city_ascii": "Poplar Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.178,
+    "lng": -85.6931,
+    "cafes": []
+  },
+  "Millstone": {
+    "city": "Millstone",
+    "city_ascii": "Millstone",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1638,
+    "lng": -82.7495,
+    "cafes": []
+  },
+  "Island": {
+    "city": "Island",
+    "city_ascii": "Island",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4432,
+    "lng": -87.1473,
+    "cafes": []
+  },
+  "Parkway Village": {
+    "city": "Parkway Village",
+    "city_ascii": "Parkway Village",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2113,
+    "lng": -85.7381,
+    "cafes": []
+  },
+  "Glenview": {
+    "city": "Glenview",
+    "city_ascii": "Glenview",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3019,
+    "lng": -85.6519,
+    "cafes": []
+  },
+  "Rolling Fields": {
+    "city": "Rolling Fields",
+    "city_ascii": "Rolling Fields",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2689,
+    "lng": -85.6708,
+    "cafes": []
+  },
+  "Lynnview": {
+    "city": "Lynnview",
+    "city_ascii": "Lynnview",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1791,
+    "lng": -85.7112,
+    "cafes": []
+  },
+  "Fincastle": {
+    "city": "Fincastle",
+    "city_ascii": "Fincastle",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3081,
+    "lng": -85.5415,
+    "cafes": []
+  },
+  "Pathfork": {
+    "city": "Pathfork",
+    "city_ascii": "Pathfork",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7594,
+    "lng": -83.4711,
+    "cafes": []
+  },
+  "Hustonville": {
+    "city": "Hustonville",
+    "city_ascii": "Hustonville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4784,
+    "lng": -84.8151,
+    "cafes": []
+  },
+  "Sonora": {
+    "city": "Sonora",
+    "city_ascii": "Sonora",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5319,
+    "lng": -85.8947,
+    "cafes": []
+  },
+  "Kuttawa": {
+    "city": "Kuttawa",
+    "city_ascii": "Kuttawa",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0593,
+    "lng": -88.115,
+    "cafes": []
+  },
+  "Murray Hill": {
+    "city": "Murray Hill",
+    "city_ascii": "Murray Hill",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2905,
+    "lng": -85.5872,
+    "cafes": []
+  },
+  "Artemus": {
+    "city": "Artemus",
+    "city_ascii": "Artemus",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8351,
+    "lng": -83.8413,
+    "cafes": []
+  },
+  "Drakesboro": {
+    "city": "Drakesboro",
+    "city_ascii": "Drakesboro",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2177,
+    "lng": -87.0492,
+    "cafes": []
+  },
+  "Chaplin": {
+    "city": "Chaplin",
+    "city_ascii": "Chaplin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8996,
+    "lng": -85.2196,
+    "cafes": []
+  },
+  "Green Spring": {
+    "city": "Green Spring",
+    "city_ascii": "Green Spring",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3163,
+    "lng": -85.6137,
+    "cafes": []
+  },
+  "Betsy Layne": {
+    "city": "Betsy Layne",
+    "city_ascii": "Betsy Layne",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5541,
+    "lng": -82.6263,
+    "cafes": []
+  },
+  "Strathmoor Village": {
+    "city": "Strathmoor Village",
+    "city_ascii": "Strathmoor Village",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2208,
+    "lng": -85.6778,
+    "cafes": []
+  },
+  "Fleming-Neon": {
+    "city": "Fleming-Neon",
+    "city_ascii": "Fleming-Neon",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1953,
+    "lng": -82.7048,
+    "cafes": []
+  },
+  "Kenvir": {
+    "city": "Kenvir",
+    "city_ascii": "Kenvir",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8532,
+    "lng": -83.1539,
+    "cafes": []
+  },
+  "McDowell": {
+    "city": "McDowell",
+    "city_ascii": "McDowell",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.459,
+    "lng": -82.734,
+    "cafes": []
+  },
+  "Brownsboro Farm": {
+    "city": "Brownsboro Farm",
+    "city_ascii": "Brownsboro Farm",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.304,
+    "lng": -85.5946,
+    "cafes": []
+  },
+  "Sandy Hook": {
+    "city": "Sandy Hook",
+    "city_ascii": "Sandy Hook",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0929,
+    "lng": -83.124,
+    "cafes": []
+  },
+  "Caneyville": {
+    "city": "Caneyville",
+    "city_ascii": "Caneyville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4241,
+    "lng": -86.4906,
+    "cafes": []
+  },
+  "Melbourne": {
+    "city": "Melbourne",
+    "city_ascii": "Melbourne",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0319,
+    "lng": -84.3707,
+    "cafes": []
+  },
+  "Buffalo": {
+    "city": "Buffalo",
+    "city_ascii": "Buffalo",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5081,
+    "lng": -85.6992,
+    "cafes": []
+  },
+  "Maceo": {
+    "city": "Maceo",
+    "city_ascii": "Maceo",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8624,
+    "lng": -86.9914,
+    "cafes": []
+  },
+  "Petersburg": {
+    "city": "Petersburg",
+    "city_ascii": "Petersburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0531,
+    "lng": -84.8573,
+    "cafes": []
+  },
+  "River Bluff": {
+    "city": "River Bluff",
+    "city_ascii": "River Bluff",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.372,
+    "lng": -85.604,
+    "cafes": []
+  },
+  "Moorland": {
+    "city": "Moorland",
+    "city_ascii": "Moorland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2728,
+    "lng": -85.58,
+    "cafes": []
+  },
+  "Emlyn": {
+    "city": "Emlyn",
+    "city_ascii": "Emlyn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7023,
+    "lng": -84.1418,
+    "cafes": []
+  },
+  "Riverwood": {
+    "city": "Riverwood",
+    "city_ascii": "Riverwood",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2829,
+    "lng": -85.6612,
+    "cafes": []
+  },
+  "Van Lear": {
+    "city": "Van Lear",
+    "city_ascii": "Van Lear",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7742,
+    "lng": -82.7557,
+    "cafes": []
+  },
+  "Butler": {
+    "city": "Butler",
+    "city_ascii": "Butler",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.7877,
+    "lng": -84.372,
+    "cafes": []
+  },
+  "Yelvington": {
+    "city": "Yelvington",
+    "city_ascii": "Yelvington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8483,
+    "lng": -86.9749,
+    "cafes": []
+  },
+  "Barlow": {
+    "city": "Barlow",
+    "city_ascii": "Barlow",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0512,
+    "lng": -89.0444,
+    "cafes": []
+  },
+  "Cawood": {
+    "city": "Cawood",
+    "city_ascii": "Cawood",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7878,
+    "lng": -83.2284,
+    "cafes": []
+  },
+  "Cecilia": {
+    "city": "Cecilia",
+    "city_ascii": "Cecilia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6622,
+    "lng": -85.9522,
+    "cafes": []
+  },
+  "Loyall": {
+    "city": "Loyall",
+    "city_ascii": "Loyall",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8527,
+    "lng": -83.3506,
+    "cafes": []
+  },
+  "Bancroft": {
+    "city": "Bancroft",
+    "city_ascii": "Bancroft",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2832,
+    "lng": -85.6129,
+    "cafes": []
+  },
+  "Fordsville": {
+    "city": "Fordsville",
+    "city_ascii": "Fordsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6357,
+    "lng": -86.7171,
+    "cafes": []
+  },
+  "Plum Springs": {
+    "city": "Plum Springs",
+    "city_ascii": "Plum Springs",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.021,
+    "lng": -86.3777,
+    "cafes": []
+  },
+  "Robards": {
+    "city": "Robards",
+    "city_ascii": "Robards",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6766,
+    "lng": -87.5333,
+    "cafes": []
+  },
+  "Pippa Passes": {
+    "city": "Pippa Passes",
+    "city_ascii": "Pippa Passes",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3342,
+    "lng": -82.8733,
+    "cafes": []
+  },
+  "Grand Rivers": {
+    "city": "Grand Rivers",
+    "city_ascii": "Grand Rivers",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.005,
+    "lng": -88.233,
+    "cafes": []
+  },
+  "Sanders": {
+    "city": "Sanders",
+    "city_ascii": "Sanders",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6549,
+    "lng": -84.9466,
+    "cafes": []
+  },
+  "Strathmoor Manor": {
+    "city": "Strathmoor Manor",
+    "city_ascii": "Strathmoor Manor",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.219,
+    "lng": -85.6836,
+    "cafes": []
+  },
+  "Ironville": {
+    "city": "Ironville",
+    "city_ascii": "Ironville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4562,
+    "lng": -82.6978,
+    "cafes": []
+  },
+  "Diablock": {
+    "city": "Diablock",
+    "city_ascii": "Diablock",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2295,
+    "lng": -83.1709,
+    "cafes": []
+  },
+  "Norbourne Estates": {
+    "city": "Norbourne Estates",
+    "city_ascii": "Norbourne Estates",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2466,
+    "lng": -85.6465,
+    "cafes": []
+  },
+  "Hyden": {
+    "city": "Hyden",
+    "city_ascii": "Hyden",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.162,
+    "lng": -83.378,
+    "cafes": []
+  },
+  "Stanley": {
+    "city": "Stanley",
+    "city_ascii": "Stanley",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8183,
+    "lng": -87.2452,
+    "cafes": []
+  },
+  "Wellington": {
+    "city": "Wellington",
+    "city_ascii": "Wellington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2167,
+    "lng": -85.6703,
+    "cafes": []
+  },
+  "Hazel": {
+    "city": "Hazel",
+    "city_ascii": "Hazel",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.5055,
+    "lng": -88.3253,
+    "cafes": []
+  },
+  "Crestview": {
+    "city": "Crestview",
+    "city_ascii": "Crestview",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0246,
+    "lng": -84.4157,
+    "cafes": []
+  },
+  "Eubank": {
+    "city": "Eubank",
+    "city_ascii": "Eubank",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2799,
+    "lng": -84.6541,
+    "cafes": []
+  },
+  "Briarwood": {
+    "city": "Briarwood",
+    "city_ascii": "Briarwood",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.278,
+    "lng": -85.5926,
+    "cafes": []
+  },
+  "Sharpsburg": {
+    "city": "Sharpsburg",
+    "city_ascii": "Sharpsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2016,
+    "lng": -83.9278,
+    "cafes": []
+  },
+  "Hardin": {
+    "city": "Hardin",
+    "city_ascii": "Hardin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7651,
+    "lng": -88.3023,
+    "cafes": []
+  },
+  "Virgie": {
+    "city": "Virgie",
+    "city_ascii": "Virgie",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3323,
+    "lng": -82.5823,
+    "cafes": []
+  },
+  "Martin": {
+    "city": "Martin",
+    "city_ascii": "Martin",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5667,
+    "lng": -82.7604,
+    "cafes": []
+  },
+  "Cerulean": {
+    "city": "Cerulean",
+    "city_ascii": "Cerulean",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9552,
+    "lng": -87.7089,
+    "cafes": []
+  },
+  "Kingsley": {
+    "city": "Kingsley",
+    "city_ascii": "Kingsley",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2219,
+    "lng": -85.6726,
+    "cafes": []
+  },
+  "Glenview Hills": {
+    "city": "Glenview Hills",
+    "city_ascii": "Glenview Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2951,
+    "lng": -85.6382,
+    "cafes": []
+  },
+  "Gilbertsville": {
+    "city": "Gilbertsville",
+    "city_ascii": "Gilbertsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0284,
+    "lng": -88.3103,
+    "cafes": []
+  },
+  "Bradfordsville": {
+    "city": "Bradfordsville",
+    "city_ascii": "Bradfordsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4943,
+    "lng": -85.1481,
+    "cafes": []
+  },
+  "Fredonia": {
+    "city": "Fredonia",
+    "city_ascii": "Fredonia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2085,
+    "lng": -88.0603,
+    "cafes": []
+  },
+  "Norwood": {
+    "city": "Norwood",
+    "city_ascii": "Norwood",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2522,
+    "lng": -85.6109,
+    "cafes": []
+  },
+  "Phelps": {
+    "city": "Phelps",
+    "city_ascii": "Phelps",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.509,
+    "lng": -82.1605,
+    "cafes": []
+  },
+  "Symsonia": {
+    "city": "Symsonia",
+    "city_ascii": "Symsonia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9211,
+    "lng": -88.5227,
+    "cafes": []
+  },
+  "Sadieville": {
+    "city": "Sadieville",
+    "city_ascii": "Sadieville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3883,
+    "lng": -84.549,
+    "cafes": []
+  },
+  "Creekside": {
+    "city": "Creekside",
+    "city_ascii": "Creekside",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2914,
+    "lng": -85.5701,
+    "cafes": []
+  },
+  "Forest Hills": {
+    "city": "Forest Hills",
+    "city_ascii": "Forest Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2158,
+    "lng": -85.5834,
+    "cafes": []
+  },
+  "Sacramento": {
+    "city": "Sacramento",
+    "city_ascii": "Sacramento",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.416,
+    "lng": -87.2678,
+    "cafes": []
+  },
+  "Meadowview Estates": {
+    "city": "Meadowview Estates",
+    "city_ascii": "Meadowview Estates",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2227,
+    "lng": -85.6353,
+    "cafes": []
+  },
+  "Old Brownsboro Place": {
+    "city": "Old Brownsboro Place",
+    "city_ascii": "Old Brownsboro Place",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2892,
+    "lng": -85.6132,
+    "cafes": []
+  },
+  "Spring Mill": {
+    "city": "Spring Mill",
+    "city_ascii": "Spring Mill",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1436,
+    "lng": -85.6315,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7092,
+    "lng": -87.8146,
+    "cafes": []
+  },
+  "Wayland": {
+    "city": "Wayland",
+    "city_ascii": "Wayland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4508,
+    "lng": -82.7996,
+    "cafes": []
+  },
+  "Summersville": {
+    "city": "Summersville",
+    "city_ascii": "Summersville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3265,
+    "lng": -85.543,
+    "cafes": []
+  },
+  "Gamaliel": {
+    "city": "Gamaliel",
+    "city_ascii": "Gamaliel",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6402,
+    "lng": -85.7963,
+    "cafes": []
+  },
+  "Willisburg": {
+    "city": "Willisburg",
+    "city_ascii": "Willisburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8093,
+    "lng": -85.1208,
+    "cafes": []
+  },
+  "McHenry": {
+    "city": "McHenry",
+    "city_ascii": "McHenry",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3795,
+    "lng": -86.9226,
+    "cafes": []
+  },
+  "Hunters Hollow": {
+    "city": "Hunters Hollow",
+    "city_ascii": "Hunters Hollow",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0784,
+    "lng": -85.6934,
+    "cafes": []
+  },
+  "Hollyvilla": {
+    "city": "Hollyvilla",
+    "city_ascii": "Hollyvilla",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0929,
+    "lng": -85.7469,
+    "cafes": []
+  },
+  "Centertown": {
+    "city": "Centertown",
+    "city_ascii": "Centertown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4177,
+    "lng": -86.9959,
+    "cafes": []
+  },
+  "Lakeview Heights": {
+    "city": "Lakeview Heights",
+    "city_ascii": "Lakeview Heights",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.152,
+    "lng": -83.5043,
+    "cafes": []
+  },
+  "Trenton": {
+    "city": "Trenton",
+    "city_ascii": "Trenton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7224,
+    "lng": -87.2626,
+    "cafes": []
+  },
+  "Warfield": {
+    "city": "Warfield",
+    "city_ascii": "Warfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8415,
+    "lng": -82.4224,
+    "cafes": []
+  },
+  "Richlawn": {
+    "city": "Richlawn",
+    "city_ascii": "Richlawn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2547,
+    "lng": -85.6412,
+    "cafes": []
+  },
+  "Ezel": {
+    "city": "Ezel",
+    "city_ascii": "Ezel",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.892,
+    "lng": -83.4446,
+    "cafes": []
+  },
+  "Glencoe": {
+    "city": "Glencoe",
+    "city_ascii": "Glencoe",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.7253,
+    "lng": -84.8238,
+    "cafes": []
+  },
+  "Fancy Farm": {
+    "city": "Fancy Farm",
+    "city_ascii": "Fancy Farm",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8003,
+    "lng": -88.7928,
+    "cafes": []
+  },
+  "Brownsboro Village": {
+    "city": "Brownsboro Village",
+    "city_ascii": "Brownsboro Village",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2629,
+    "lng": -85.6659,
+    "cafes": []
+  },
+  "St. Charles": {
+    "city": "St. Charles",
+    "city_ascii": "St. Charles",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1881,
+    "lng": -87.551,
+    "cafes": []
+  },
+  "Woodburn": {
+    "city": "Woodburn",
+    "city_ascii": "Woodburn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8421,
+    "lng": -86.5301,
+    "cafes": []
+  },
+  "Fountain Run": {
+    "city": "Fountain Run",
+    "city_ascii": "Fountain Run",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7238,
+    "lng": -85.9561,
+    "cafes": []
+  },
+  "Moseleyville": {
+    "city": "Moseleyville",
+    "city_ascii": "Moseleyville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6747,
+    "lng": -87.1938,
+    "cafes": []
+  },
+  "McRoberts": {
+    "city": "McRoberts",
+    "city_ascii": "McRoberts",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2132,
+    "lng": -82.6687,
+    "cafes": []
+  },
+  "Ages": {
+    "city": "Ages",
+    "city_ascii": "Ages",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8569,
+    "lng": -83.2426,
+    "cafes": []
+  },
+  "Big Clifty": {
+    "city": "Big Clifty",
+    "city_ascii": "Big Clifty",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5442,
+    "lng": -86.1514,
+    "cafes": []
+  },
+  "South Williamson": {
+    "city": "South Williamson",
+    "city_ascii": "South Williamson",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6633,
+    "lng": -82.2879,
+    "cafes": []
+  },
+  "Druid Hills": {
+    "city": "Druid Hills",
+    "city_ascii": "Druid Hills",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2649,
+    "lng": -85.6617,
+    "cafes": []
+  },
+  "Goose Creek": {
+    "city": "Goose Creek",
+    "city_ascii": "Goose Creek",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2934,
+    "lng": -85.5906,
+    "cafes": []
+  },
+  "Bremen": {
+    "city": "Bremen",
+    "city_ascii": "Bremen",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3623,
+    "lng": -87.2201,
+    "cafes": []
+  },
+  "Summer Shade": {
+    "city": "Summer Shade",
+    "city_ascii": "Summer Shade",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8837,
+    "lng": -85.7098,
+    "cafes": []
+  },
+  "Salt Lick": {
+    "city": "Salt Lick",
+    "city_ascii": "Salt Lick",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1194,
+    "lng": -83.6156,
+    "cafes": []
+  },
+  "Bedford": {
+    "city": "Bedford",
+    "city_ascii": "Bedford",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5954,
+    "lng": -85.3174,
+    "cafes": []
+  },
+  "Bonnieville": {
+    "city": "Bonnieville",
+    "city_ascii": "Bonnieville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3774,
+    "lng": -85.9015,
+    "cafes": []
+  },
+  "Vicco": {
+    "city": "Vicco",
+    "city_ascii": "Vicco",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2161,
+    "lng": -83.0609,
+    "cafes": []
+  },
+  "Pleasant View": {
+    "city": "Pleasant View",
+    "city_ascii": "Pleasant View",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6782,
+    "lng": -84.1284,
+    "cafes": []
+  },
+  "Cunningham": {
+    "city": "Cunningham",
+    "city_ascii": "Cunningham",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9081,
+    "lng": -88.8869,
+    "cafes": []
+  },
+  "Manor Creek": {
+    "city": "Manor Creek",
+    "city_ascii": "Manor Creek",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2981,
+    "lng": -85.5873,
+    "cafes": []
+  },
+  "Keene": {
+    "city": "Keene",
+    "city_ascii": "Keene",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9431,
+    "lng": -84.6411,
+    "cafes": []
+  },
+  "Ghent": {
+    "city": "Ghent",
+    "city_ascii": "Ghent",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.734,
+    "lng": -85.0614,
+    "cafes": []
+  },
+  "McCarr": {
+    "city": "McCarr",
+    "city_ascii": "McCarr",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6178,
+    "lng": -82.1706,
+    "cafes": []
+  },
+  "Dover": {
+    "city": "Dover",
+    "city_ascii": "Dover",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.7563,
+    "lng": -83.8844,
+    "cafes": []
+  },
+  "Broeck Pointe": {
+    "city": "Broeck Pointe",
+    "city_ascii": "Broeck Pointe",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2955,
+    "lng": -85.5857,
+    "cafes": []
+  },
+  "Corinth": {
+    "city": "Corinth",
+    "city_ascii": "Corinth",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4997,
+    "lng": -84.6031,
+    "cafes": []
+  },
+  "Campton": {
+    "city": "Campton",
+    "city_ascii": "Campton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7353,
+    "lng": -83.5473,
+    "cafes": []
+  },
+  "Bellewood": {
+    "city": "Bellewood",
+    "city_ascii": "Bellewood",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2608,
+    "lng": -85.6594,
+    "cafes": []
+  },
+  "Coldiron": {
+    "city": "Coldiron",
+    "city_ascii": "Coldiron",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8286,
+    "lng": -83.4524,
+    "cafes": []
+  },
+  "Ewing": {
+    "city": "Ewing",
+    "city_ascii": "Ewing",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4278,
+    "lng": -83.8619,
+    "cafes": []
+  },
+  "Westport": {
+    "city": "Westport",
+    "city_ascii": "Westport",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4875,
+    "lng": -85.4753,
+    "cafes": []
+  },
+  "Anthoston": {
+    "city": "Anthoston",
+    "city_ascii": "Anthoston",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7553,
+    "lng": -87.5327,
+    "cafes": []
+  },
+  "Jeff": {
+    "city": "Jeff",
+    "city_ascii": "Jeff",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2094,
+    "lng": -83.1394,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7904,
+    "lng": -89.0132,
+    "cafes": []
+  },
+  "Mentor": {
+    "city": "Mentor",
+    "city_ascii": "Mentor",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.89,
+    "lng": -84.2481,
+    "cafes": []
+  },
+  "Belleview": {
+    "city": "Belleview",
+    "city_ascii": "Belleview",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.9793,
+    "lng": -84.8249,
+    "cafes": []
+  },
+  "Oakland": {
+    "city": "Oakland",
+    "city_ascii": "Oakland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0467,
+    "lng": -86.2506,
+    "cafes": []
+  },
+  "Dunmor": {
+    "city": "Dunmor",
+    "city_ascii": "Dunmor",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.0753,
+    "lng": -86.9951,
+    "cafes": []
+  },
+  "Mackville": {
+    "city": "Mackville",
+    "city_ascii": "Mackville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7355,
+    "lng": -85.0701,
+    "cafes": []
+  },
+  "Maryhill Estates": {
+    "city": "Maryhill Estates",
+    "city_ascii": "Maryhill Estates",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2663,
+    "lng": -85.6532,
+    "cafes": []
+  },
+  "Germantown": {
+    "city": "Germantown",
+    "city_ascii": "Germantown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6559,
+    "lng": -83.9643,
+    "cafes": []
+  },
+  "Nebo": {
+    "city": "Nebo",
+    "city_ascii": "Nebo",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3832,
+    "lng": -87.6416,
+    "cafes": []
+  },
+  "Crossgate": {
+    "city": "Crossgate",
+    "city_ascii": "Crossgate",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2793,
+    "lng": -85.6296,
+    "cafes": []
+  },
+  "Wallins Creek": {
+    "city": "Wallins Creek",
+    "city_ascii": "Wallins Creek",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8297,
+    "lng": -83.4173,
+    "cafes": []
+  },
+  "Wildwood": {
+    "city": "Wildwood",
+    "city_ascii": "Wildwood",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.249,
+    "lng": -85.5747,
+    "cafes": []
+  },
+  "Payne Gap": {
+    "city": "Payne Gap",
+    "city_ascii": "Payne Gap",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.151,
+    "lng": -82.6669,
+    "cafes": []
+  },
+  "Bandana": {
+    "city": "Bandana",
+    "city_ascii": "Bandana",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1447,
+    "lng": -88.9418,
+    "cafes": []
+  },
+  "Coxton": {
+    "city": "Coxton",
+    "city_ascii": "Coxton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8581,
+    "lng": -83.2681,
+    "cafes": []
+  },
+  "Sparta": {
+    "city": "Sparta",
+    "city_ascii": "Sparta",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6969,
+    "lng": -84.9074,
+    "cafes": []
+  },
+  "St. Mary": {
+    "city": "St. Mary",
+    "city_ascii": "St. Mary",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5806,
+    "lng": -85.3463,
+    "cafes": []
+  },
+  "Smithland": {
+    "city": "Smithland",
+    "city_ascii": "Smithland",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1387,
+    "lng": -88.4038,
+    "cafes": []
+  },
+  "Rockport": {
+    "city": "Rockport",
+    "city_ascii": "Rockport",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3359,
+    "lng": -86.991,
+    "cafes": []
+  },
+  "Knottsville": {
+    "city": "Knottsville",
+    "city_ascii": "Knottsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7726,
+    "lng": -86.9064,
+    "cafes": []
+  },
+  "Farmington": {
+    "city": "Farmington",
+    "city_ascii": "Farmington",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6691,
+    "lng": -88.5276,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8426,
+    "lng": -87.3055,
+    "cafes": []
+  },
+  "Allensville": {
+    "city": "Allensville",
+    "city_ascii": "Allensville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7163,
+    "lng": -87.0683,
+    "cafes": []
+  },
+  "Pryorsburg": {
+    "city": "Pryorsburg",
+    "city_ascii": "Pryorsburg",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6899,
+    "lng": -88.7124,
+    "cafes": []
+  },
+  "Rochester": {
+    "city": "Rochester",
+    "city_ascii": "Rochester",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2093,
+    "lng": -86.8921,
+    "cafes": []
+  },
+  "Prestonville": {
+    "city": "Prestonville",
+    "city_ascii": "Prestonville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6805,
+    "lng": -85.1931,
+    "cafes": []
+  },
+  "Saint Joseph": {
+    "city": "Saint Joseph",
+    "city_ascii": "Saint Joseph",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6936,
+    "lng": -87.3256,
+    "cafes": []
+  },
+  "Glenview Manor": {
+    "city": "Glenview Manor",
+    "city_ascii": "Glenview Manor",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2907,
+    "lng": -85.6333,
+    "cafes": []
+  },
+  "Rockholds": {
+    "city": "Rockholds",
+    "city_ascii": "Rockholds",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8308,
+    "lng": -84.1131,
+    "cafes": []
+  },
+  "Fairfield": {
+    "city": "Fairfield",
+    "city_ascii": "Fairfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.932,
+    "lng": -85.3839,
+    "cafes": []
+  },
+  "Berry": {
+    "city": "Berry",
+    "city_ascii": "Berry",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5205,
+    "lng": -84.3837,
+    "cafes": []
+  },
+  "Beech Grove": {
+    "city": "Beech Grove",
+    "city_ascii": "Beech Grove",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6183,
+    "lng": -87.3921,
+    "cafes": []
+  },
+  "South Carrollton": {
+    "city": "South Carrollton",
+    "city_ascii": "South Carrollton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3358,
+    "lng": -87.1401,
+    "cafes": []
+  },
+  "LaFayette": {
+    "city": "LaFayette",
+    "city_ascii": "LaFayette",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6599,
+    "lng": -87.6585,
+    "cafes": []
+  },
+  "Slaughters": {
+    "city": "Slaughters",
+    "city_ascii": "Slaughters",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4903,
+    "lng": -87.5021,
+    "cafes": []
+  },
+  "Smithfield": {
+    "city": "Smithfield",
+    "city_ascii": "Smithfield",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3864,
+    "lng": -85.2566,
+    "cafes": []
+  },
+  "Manitou": {
+    "city": "Manitou",
+    "city_ascii": "Manitou",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3755,
+    "lng": -87.5781,
+    "cafes": []
+  },
+  "Woodlawn": {
+    "city": "Woodlawn",
+    "city_ascii": "Woodlawn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0909,
+    "lng": -84.4729,
+    "cafes": []
+  },
+  "Poole": {
+    "city": "Poole",
+    "city_ascii": "Poole",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6392,
+    "lng": -87.6447,
+    "cafes": []
+  },
+  "Thornhill": {
+    "city": "Thornhill",
+    "city_ascii": "Thornhill",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2884,
+    "lng": -85.6256,
+    "cafes": []
+  },
+  "Oneida": {
+    "city": "Oneida",
+    "city_ascii": "Oneida",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2701,
+    "lng": -83.6496,
+    "cafes": []
+  },
+  "Allen": {
+    "city": "Allen",
+    "city_ascii": "Allen",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6119,
+    "lng": -82.7291,
+    "cafes": []
+  },
+  "Raywick": {
+    "city": "Raywick",
+    "city_ascii": "Raywick",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5606,
+    "lng": -85.4311,
+    "cafes": []
+  },
+  "Livingston": {
+    "city": "Livingston",
+    "city_ascii": "Livingston",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.298,
+    "lng": -84.2157,
+    "cafes": []
+  },
+  "Mount Olivet": {
+    "city": "Mount Olivet",
+    "city_ascii": "Mount Olivet",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5318,
+    "lng": -84.0357,
+    "cafes": []
+  },
+  "Boston": {
+    "city": "Boston",
+    "city_ascii": "Boston",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7837,
+    "lng": -85.6804,
+    "cafes": []
+  },
+  "Dwale": {
+    "city": "Dwale",
+    "city_ascii": "Dwale",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6253,
+    "lng": -82.7277,
+    "cafes": []
+  },
+  "Salvisa": {
+    "city": "Salvisa",
+    "city_ascii": "Salvisa",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.921,
+    "lng": -84.8615,
+    "cafes": []
+  },
+  "Belfry": {
+    "city": "Belfry",
+    "city_ascii": "Belfry",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6194,
+    "lng": -82.2684,
+    "cafes": []
+  },
+  "Worthville": {
+    "city": "Worthville",
+    "city_ascii": "Worthville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6098,
+    "lng": -85.0681,
+    "cafes": []
+  },
+  "Freeburn": {
+    "city": "Freeburn",
+    "city_ascii": "Freeburn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5619,
+    "lng": -82.1514,
+    "cafes": []
+  },
+  "Hickory Hill": {
+    "city": "Hickory Hill",
+    "city_ascii": "Hickory Hill",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2877,
+    "lng": -85.5679,
+    "cafes": []
+  },
+  "Kenton Vale": {
+    "city": "Kenton Vale",
+    "city_ascii": "Kenton Vale",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 39.0514,
+    "lng": -84.5199,
+    "cafes": []
+  },
+  "Booneville": {
+    "city": "Booneville",
+    "city_ascii": "Booneville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4702,
+    "lng": -83.6828,
+    "cafes": []
+  },
+  "Farmers": {
+    "city": "Farmers",
+    "city_ascii": "Farmers",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1413,
+    "lng": -83.5404,
+    "cafes": []
+  },
+  "Sedalia": {
+    "city": "Sedalia",
+    "city_ascii": "Sedalia",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.6437,
+    "lng": -88.6049,
+    "cafes": []
+  },
+  "Hills and Dales": {
+    "city": "Hills and Dales",
+    "city_ascii": "Hills and Dales",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.3005,
+    "lng": -85.6249,
+    "cafes": []
+  },
+  "Ekron": {
+    "city": "Ekron",
+    "city_ascii": "Ekron",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.9303,
+    "lng": -86.1764,
+    "cafes": []
+  },
+  "Cambridge": {
+    "city": "Cambridge",
+    "city_ascii": "Cambridge",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2218,
+    "lng": -85.6171,
+    "cafes": []
+  },
+  "Dexter": {
+    "city": "Dexter",
+    "city_ascii": "Dexter",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7397,
+    "lng": -88.2956,
+    "cafes": []
+  },
+  "Spottsville": {
+    "city": "Spottsville",
+    "city_ascii": "Spottsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8564,
+    "lng": -87.4167,
+    "cafes": []
+  },
+  "Rabbit Hash": {
+    "city": "Rabbit Hash",
+    "city_ascii": "Rabbit Hash",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.924,
+    "lng": -84.8502,
+    "cafes": []
+  },
+  "Lowes": {
+    "city": "Lowes",
+    "city_ascii": "Lowes",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8828,
+    "lng": -88.7706,
+    "cafes": []
+  },
+  "Wheatcroft": {
+    "city": "Wheatcroft",
+    "city_ascii": "Wheatcroft",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4893,
+    "lng": -87.8613,
+    "cafes": []
+  },
+  "Mockingbird Valley": {
+    "city": "Mockingbird Valley",
+    "city_ascii": "Mockingbird Valley",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2701,
+    "lng": -85.6815,
+    "cafes": []
+  },
+  "Columbus": {
+    "city": "Columbus",
+    "city_ascii": "Columbus",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.7596,
+    "lng": -89.102,
+    "cafes": []
+  },
+  "Ten Broeck": {
+    "city": "Ten Broeck",
+    "city_ascii": "Ten Broeck",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2976,
+    "lng": -85.5807,
+    "cafes": []
+  },
+  "Onton": {
+    "city": "Onton",
+    "city_ascii": "Onton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5578,
+    "lng": -87.437,
+    "cafes": []
+  },
+  "Water Valley": {
+    "city": "Water Valley",
+    "city_ascii": "Water Valley",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.5687,
+    "lng": -88.8101,
+    "cafes": []
+  },
+  "Meadowbrook Farm": {
+    "city": "Meadowbrook Farm",
+    "city_ascii": "Meadowbrook Farm",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2783,
+    "lng": -85.5748,
+    "cafes": []
+  },
+  "Sycamore": {
+    "city": "Sycamore",
+    "city_ascii": "Sycamore",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2468,
+    "lng": -85.5612,
+    "cafes": []
+  },
+  "Blackey": {
+    "city": "Blackey",
+    "city_ascii": "Blackey",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.139,
+    "lng": -82.9811,
+    "cafes": []
+  },
+  "Crayne": {
+    "city": "Crayne",
+    "city_ascii": "Crayne",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2762,
+    "lng": -88.0839,
+    "cafes": []
+  },
+  "Lincolnshire": {
+    "city": "Lincolnshire",
+    "city_ascii": "Lincolnshire",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.2238,
+    "lng": -85.6216,
+    "cafes": []
+  },
+  "Hardyville": {
+    "city": "Hardyville",
+    "city_ascii": "Hardyville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2535,
+    "lng": -85.7896,
+    "cafes": []
+  },
+  "Elizaville": {
+    "city": "Elizaville",
+    "city_ascii": "Elizaville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4167,
+    "lng": -83.8243,
+    "cafes": []
+  },
+  "Curdsville": {
+    "city": "Curdsville",
+    "city_ascii": "Curdsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7353,
+    "lng": -87.3327,
+    "cafes": []
+  },
+  "Burna": {
+    "city": "Burna",
+    "city_ascii": "Burna",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2456,
+    "lng": -88.3589,
+    "cafes": []
+  },
+  "Mays Lick": {
+    "city": "Mays Lick",
+    "city_ascii": "Mays Lick",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.517,
+    "lng": -83.8452,
+    "cafes": []
+  },
+  "Rosine": {
+    "city": "Rosine",
+    "city_ascii": "Rosine",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4523,
+    "lng": -86.7374,
+    "cafes": []
+  },
+  "Monterey": {
+    "city": "Monterey",
+    "city_ascii": "Monterey",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4233,
+    "lng": -84.8728,
+    "cafes": []
+  },
+  "Hiseville": {
+    "city": "Hiseville",
+    "city_ascii": "Hiseville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1008,
+    "lng": -85.8149,
+    "cafes": []
+  },
+  "Gratz": {
+    "city": "Gratz",
+    "city_ascii": "Gratz",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.4719,
+    "lng": -84.9471,
+    "cafes": []
+  },
+  "Cayce": {
+    "city": "Cayce",
+    "city_ascii": "Cayce",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.5577,
+    "lng": -89.0349,
+    "cafes": []
+  },
+  "Blandville": {
+    "city": "Blandville",
+    "city_ascii": "Blandville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9441,
+    "lng": -88.9646,
+    "cafes": []
+  },
+  "California": {
+    "city": "California",
+    "city_ascii": "California",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.9184,
+    "lng": -84.2636,
+    "cafes": []
+  },
+  "Buckhorn": {
+    "city": "Buckhorn",
+    "city_ascii": "Buckhorn",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3461,
+    "lng": -83.4695,
+    "cafes": []
+  },
+  "Woodbury": {
+    "city": "Woodbury",
+    "city_ascii": "Woodbury",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.1836,
+    "lng": -86.6353,
+    "cafes": []
+  },
+  "High Bridge": {
+    "city": "High Bridge",
+    "city_ascii": "High Bridge",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.8299,
+    "lng": -84.7096,
+    "cafes": []
+  },
+  "Sardis": {
+    "city": "Sardis",
+    "city_ascii": "Sardis",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.5348,
+    "lng": -83.9573,
+    "cafes": []
+  },
+  "Cleaton": {
+    "city": "Cleaton",
+    "city_ascii": "Cleaton",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2517,
+    "lng": -87.0902,
+    "cafes": []
+  },
+  "Blaine": {
+    "city": "Blaine",
+    "city_ascii": "Blaine",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.0272,
+    "lng": -82.8413,
+    "cafes": []
+  },
+  "Marrowbone": {
+    "city": "Marrowbone",
+    "city_ascii": "Marrowbone",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.832,
+    "lng": -85.5053,
+    "cafes": []
+  },
+  "Utica": {
+    "city": "Utica",
+    "city_ascii": "Utica",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6028,
+    "lng": -87.1126,
+    "cafes": []
+  },
+  "Hickory": {
+    "city": "Hickory",
+    "city_ascii": "Hickory",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8174,
+    "lng": -88.6485,
+    "cafes": []
+  },
+  "Gracey": {
+    "city": "Gracey",
+    "city_ascii": "Gracey",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8792,
+    "lng": -87.6638,
+    "cafes": []
+  },
+  "Carrsville": {
+    "city": "Carrsville",
+    "city_ascii": "Carrsville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.3981,
+    "lng": -88.3754,
+    "cafes": []
+  },
+  "West Louisville": {
+    "city": "West Louisville",
+    "city_ascii": "West Louisville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6986,
+    "lng": -87.2875,
+    "cafes": []
+  },
+  "New Hope": {
+    "city": "New Hope",
+    "city_ascii": "New Hope",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.6279,
+    "lng": -85.5067,
+    "cafes": []
+  },
+  "Hazel Green": {
+    "city": "Hazel Green",
+    "city_ascii": "Hazel Green",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.7999,
+    "lng": -83.4173,
+    "cafes": []
+  },
+  "Combs": {
+    "city": "Combs",
+    "city_ascii": "Combs",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.2683,
+    "lng": -83.2148,
+    "cafes": []
+  },
+  "Tolu": {
+    "city": "Tolu",
+    "city_ascii": "Tolu",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4337,
+    "lng": -88.2454,
+    "cafes": []
+  },
+  "McKinney": {
+    "city": "McKinney",
+    "city_ascii": "McKinney",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.4531,
+    "lng": -84.7577,
+    "cafes": []
+  },
+  "Arjay": {
+    "city": "Arjay",
+    "city_ascii": "Arjay",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.8062,
+    "lng": -83.642,
+    "cafes": []
+  },
+  "Concord": {
+    "city": "Concord",
+    "city_ascii": "Concord",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.6876,
+    "lng": -83.4915,
+    "cafes": []
+  },
+  "Maytown": {
+    "city": "Maytown",
+    "city_ascii": "Maytown",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.5326,
+    "lng": -82.7992,
+    "cafes": []
+  },
+  "Lovelaceville": {
+    "city": "Lovelaceville",
+    "city_ascii": "Lovelaceville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 36.9672,
+    "lng": -88.8335,
+    "cafes": []
+  },
+  "Panther": {
+    "city": "Panther",
+    "city_ascii": "Panther",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 37.641,
+    "lng": -87.2258,
+    "cafes": []
+  },
+  "South Park View": {
+    "city": "South Park View",
+    "city_ascii": "South Park View",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1184,
+    "lng": -85.7201,
+    "cafes": []
+  }
+}

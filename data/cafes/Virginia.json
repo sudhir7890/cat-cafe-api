@@ -1,0 +1,7035 @@
+{
+  "Roanoke": {
+    "city": "Roanoke",
+    "city_ascii": "Roanoke",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2785,
+    "lng": -79.9581,
+    "cafes": [
+      {
+        "name": "The Toebean Cat Cafe",
+        "address": "20 Walnut Ave SW, Roanoke, VA 24016, USA",
+        "rating": 5,
+        "user_ratings_total": 100,
+        "website": "http://thetoebeancatcafe.net/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=14242754521726281091",
+        "lat": 37.2611407,
+        "lng": -79.94257920000001,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Amber M",
+            "rating": 5,
+            "text": {
+              "text": "I went to the opening today and it was FANTASTIC. The cafe is light, airy, so welcoming but also cozy at the same time. The cats were in the best rooms, it was almost as good as forever homes. They had everything cats could ever want. The coffee was fabulous - I had a delightful mocha and the pastries looked absolutely divine. I’d stop by there just to get coffee, even without the incentive of adorable cats!!  It is a great place to take your laptop and do some work in a chill fun environment.  The owners were both there and they were awesome - they’re vet techs as well so I can’t ever imagine a cat cafe in better hands!!   I bought gift certificates for some friends - it’s the perfect gift and totally unique!!!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Rachel Smith",
+            "rating": 5,
+            "text": {
+              "text": "I stopped by the new cat cafe and had such a great time! Even though we didn’t get to hang out with the cats because we didn’t have a reservation, the cafe itself is super cute with all the cat-themed decor. My coffee was delicious too! I love that they’re all about helping cats find homes through local shelters! Definitely a place worth supporting, and I’ll make sure to book ahead next time!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Erin Velarde",
+            "rating": 5,
+            "text": {
+              "text": "The Toebean Cat Cafe offers a truly unique experience. The environment is filled with light and warmth, creating a cozy atmosphere all throughout. The cats are so loving and sweet, making it the perfect place to spend a morning or afternoon. The staff are helpful and kind, and it's clear that owners care deeply about these animals. Overall, it was a joyful experience. Plus, the coffee was absolutely delicious!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0hQtQMr6n2iUpSCoOAyNI1nKSJWll3-PjJpHqVD3xDEy3Sv5u37MT7mECLnPOoj37Hs-HHkm8nAyLo3pV8DW2SUVaKgBzW17A53corCUApEnKZymMQMsYZIIYPr2zv3Svft32UFmElMzUsDffXVxWA-vmYy6XNOZUS7Jt3BHoJWYV1Kq05H137b_FlrHCIfBVFlBwq3zAp4qnsdH1TNhg-_7gI6jbn-ihQwUBn0fWNTvojgX1XvYAgycm0dZlF00agoP9a2XNzBLI4g6GaIxWthMMQ9nixKOmylloVDq4_R1ly-9pd8TY0BXuKh8QkO4awb7W8TkOyUydfNCwAbMZKFjB_q1RrxrVv3NYXoQ3g53T3zn9FNB90sv-b7D9OMUh6Msu9-v4WxJZ6ic44q3wA0mFB4253&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Alexandria": {
+    "city": "Alexandria",
+    "city_ascii": "Alexandria",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8185,
+    "lng": -77.0861,
+    "cafes": [
+      {
+        "name": "Mount Purrnon Cat Café + Wine Bar",
+        "address": "109 S Alfred St, Alexandria, VA 22314, USA",
+        "rating": 4.8,
+        "user_ratings_total": 415,
+        "website": "https://www.mtpurrnoncatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=16103787686130584231",
+        "lat": 38.8048828,
+        "lng": -77.0494978,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Kathy G.",
+            "rating": 5,
+            "text": {
+              "text": "The cafe is such a great addition to the cat space, and it’s clear that the cats are well loved and taken care of. Some cats are seniors and just living out their last years in a bright, clean, lovely space, and others are much younger who are eager to make friends! The staff genuinely care about the cats and their care. Please stop by, support them and adopt!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Carrie Devorah",
+            "rating": 5,
+            "text": {
+              "text": "MOUNT PURRNON CAT CAFE & WINE BAR has become a must-do for out of town kiddos visiting Northern Virginia, if you love cats and you love kiddies.\n\nMount Purrnon is located on Alfred Street just off King Street, the main 'drag' in Old Town Alexandria so everywhere you turn you are walking in historic footsteps. Parking is on the street. Payment is fed in to free standing rectangles. The receipt is placed on your car dashboard.\n\nMount Purrnon is a healthy walk towards the water with your back to the Metro. If you are lucky, you can catch Old Town's free trolley, a fun thing kids of all ages love to do. The trolley will land you near enough to the cafe allowing you to combine two kid fun events in one outing. ,\n\nThe Mount Purrnon Cafe is kitty corner to a vintage shop, around the cornerdown the street from Sephora and up the street from the amazing Torpedo Factory.\n\nEntering Mount Purrnon Cat Cafe + Wine Bar, you enter the most delightful gift shop filled with cat 'stuff' of all types, high end, crafty and lower priced fun stuff, all benefiting the charity housed in this historic house once upon a time someone, maybe, infamous in history lived there, after all, ghosts of America's fathers still live there, technically.\n\nFriendly volunteers sit waiting to take payment for adults, kids, lunch if you choose and the length of time your visit to last- 1/2 hour, an hour. I once met a young woman who pretty much spent all day there. She said she found inner peace.\n\nMount Purrnon profiles its current residents on the wall in this room so you sorta have an idea which kitties you will be greeted by upstairs AND maybe even want to take home with you if you are in the market for a furrever friend.\n\nThe stairs are a bit steep heading up to the cattery. There are steps outside, too.\n\nBefore you head up, there is a downstairs eating place with a limited menu that includes out of this world cheese melt sandwich a finicky-as-a-cat four year old I know literally inhales this sandwich. There is a cat themed bathroom on the first floor. It's sort of a nice thing to do- eat first, fill your tummy then head up the stairs.\n\nThe photos speak for themselves. I wanted to take them all but, got a better offer, two kiddos who love love love coming here to Mount Purrnon Cafe. Thank you, yet again.\n\noh yeah, photos are copyright (c) Carrie Devorah and may not be used unless given permission by me, not by google or the cafe",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Rebecca AJ",
+            "rating": 5,
+            "text": {
+              "text": "We had a wonderful time at Mount Purrnon! The staff was so helpful in answering our questions and they were informative of the cats. This business is doing wonderful things to support cats in the area. Will definitely be back!",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2g2uqQ1bbsFZVKeNIi5yYG02tzFC9PVmtPqk57eAuZXaAas7PMRmwPEc8XZqaQfgQ0oCenmphdM8DU29RvMwbRVl-BxgXAo6DC6fS03Q-ntWZlVd7NBfvRpr_dnCMJyfpdbzWz8_WmZ4RonaoHIpEDAt23tn4UPrTR1ItaWnOMdowawGm6yUyOOSph3OhNu-YYrYrf3AOTYdVl-f4frP-3pcDKnUV8FRchqjHATkyyDgcCrYXZPfWSUcwdx2TWmR9lDe3e6DAQyhiQs1D_tDGUBMGlMWc1tisu9rNn6FfJpA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Newport News": {
+    "city": "Newport News",
+    "city_ascii": "Newport News",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1051,
+    "lng": -76.5185,
+    "cafes": [
+      {
+        "name": "Cups and Claws Cat Cafe and Lounge",
+        "address": "10605 Jefferson Ave, Newport News, VA 23601, USA",
+        "rating": 4.9,
+        "user_ratings_total": 292,
+        "website": "https://www.cupsandclaws.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=1211260741616558168",
+        "lat": 37.0484564,
+        "lng": -76.4607703,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Cosmo Richmond",
+            "rating": 5,
+            "text": {
+              "text": "Got our big boy Rock from here :) had a great time petting all the kitties and feeding them treats. All the staff was friendly, incredibly helpful and very knowledgeable. Will definitely be going back\n.\n.\n6 month update! Toast, (was Rock) is doing amazing! And his new kitty friends love him so much! Special shout out to cups and claws because he's so well socialized and is very friendly with new friends as well as critters.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Madison Martin",
+            "rating": 5,
+            "text": {
+              "text": "Perfect for all cat lovers. As soon as I stepped through the door I was greeted with love from the kitties. The atmosphere was so cozy and the staff were so nice, and the owner was very helpful with starting the adoption process of one of their cats for me. I definitely recommend for anyone who loves cats and wants to just chill with them or anyone who is thinking about adopting one ❤️",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Timyia Riley",
+            "rating": 5,
+            "text": {
+              "text": "I went to the 1980’s murder mystery event and I had so much fun! Everyone was so friendly and it was such a cozy and positive atmosphere!!! 10/10 recommend! (Plus the cutest kitties everywhere)!",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1VJl2VsBO5BSy04H7p_doTYroryuwQNmtsS1bO94DB5MYkOm5s8XV5u0fhMyvXVNQ_-9-DN2ISCI4bs4XiqU9OTrKnLxfTNsLQQ1wQ8q6v_Ai7p2j0bBVHI-1MbK-shE_TufRTYo_2Zwax4aztFHS-mMGnDpe14AtDkrD3VdDUvkUrHVxz2022iiicPU__dTOVb7R4Joz-ofitkFY8d1CRaU914kqtNp5LgGXhtKfEdO8p-kc7ftXcYT7GJk08tWP4HYsknMc0elp4WRlutWJMSX3G0Oxoz4Ec5vPpNwD0lg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Norfolk": {
+    "city": "Norfolk",
+    "city_ascii": "Norfolk",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8945,
+    "lng": -76.259,
+    "cafes": [
+      {
+        "name": "Catnip Cat Cafe",
+        "address": "1611 Colley Ave, Norfolk, VA 23517, USA",
+        "rating": 4.8,
+        "user_ratings_total": 400,
+        "website": "http://www.catnipcatcafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=7055144016263205393",
+        "lat": 36.8689149,
+        "lng": -76.2975225,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Hollie Marie",
+            "rating": 5,
+            "text": {
+              "text": "I absolutely love coming here. The cats are rescues, and you come visit to help them socialize or if you're looking for a new family member since they're adoptable. They are all well taken care of! Noted that it's best to make a reservation online since spaces can fill up quickly.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Willow Klink",
+            "rating": 5,
+            "text": {
+              "text": "My partner and I have been here several times over the past few months, and it was worth it every single visit!\n\nStaff is incredible, friendly all around, and make the cafe feel super welcoming. The cats are always a delight, and Kittenpalooza is a great event to socialize the younger kitties!\n\nOverall an amazing place, and I highly recommend this location to anyone looking to relax with some cats for a bit 🐈‍⬛",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Shannon Waller",
+            "rating": 5,
+            "text": {
+              "text": "A much need kitty time. So many Amzing  personalitys to play with. 2 got adopted while we were there. So happy they got a home together.  Thank you to the people who own and made this place possible.  I would be here every week if I lived hear.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0VPjoO3UpagKXrbFWqXqQGn8xSb20jOrPcHKYpj-NFgQzBP69-rrvwcLLyZ8U1xZBvaY6rW8kR4ZZo1UJeFnORbvaRGUqSmvDMJtEGXIia22uN8lqnE-k7gEX_7L9uYq0P1FtW_oCAkQwc6fHnjP46K-bLjUkwgiJuWHbQjyHdHjmuAO2YzAtUrsZAm-5G0FZ8INLNxieB4SnJ8ucfihCHRyJGnbtzzk7AXKgWkq0QYRNOeELfeEracfoC2eLYkgxtG_DSCl5iauR3xL--rfLWsCSMF4B0YTNfhrgcmZoutAER1JnPqOe4cuIJAEFh8fyYtV8v6quwNGpWBh82Z-MJC6KEzUgwreiWnT2bq-izI_f9dc6eyCw8Gc8kz9xlYWZ-JQa9OaAAtvS3I1YWWFcziVG8FDoGNelV&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Chesapeake": {
+    "city": "Chesapeake",
+    "city_ascii": "Chesapeake",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6778,
+    "lng": -76.3023,
+    "cafes": [
+      {
+        "name": "Kitty Kingdom Cat Café",
+        "address": "565 Cedar Rd, Chesapeake, VA 23322, USA",
+        "rating": 4.7,
+        "user_ratings_total": 147,
+        "website": "http://kittykingdomcatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=10130742677385063234",
+        "lat": 36.7116426,
+        "lng": -76.2558514,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Katie Dew",
+            "rating": 5,
+            "text": {
+              "text": "Cutest place ever!!!! Today my mom took me and my 11 year old daughter here and we had a great experience. All the cats were adorable and super nice. I was impressed with how everything looked inside, nice and clean. They had some little bakery type stuff and teas and coffee. Such a cute idea. I'm glad we went. The girl who was working today was very kind and helpful.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Sharon Bay",
+            "rating": 5,
+            "text": {
+              "text": "Absolutely adorable place doing amazing things for animals.\n\nWe stopped in as a surprise for my teens.  We paid the $16 each for one hour in the rooms.  They have older cats and kittens separated into two rooms on either side of the cafe portion.  I sat in the middle and had a drink and cupcake while they went in.\n\nVery nicely kept.  I had been worried about a smell, but it wasn't noticeable.\n\nMy kids spent time in each room loving and being loved on by the cats and kittens.  This is a very clever way of getting the cats ready to be adopted.\n\nThey have food for purchase, but all we got was a drink and cupcake for me which were well made and yummy.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Brandi Williams",
+            "rating": 5,
+            "text": {
+              "text": "Delicious treats and drinks accompany the opportunity to watch or interact with some very adorable, sweet kitties. All of which are adoptable! What a great spot to hang out and have a cup of coffee. 🙂☕️🐈",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2co9vS4i7JE48JTnNB8vPmG-U2ETIfbVK_NnhZvT9LIGyhDRgIR9KbIr0fmVgxvLd0utdiFQ2puokng9ubXl2OqR3yfQ42kjfC8af6LkJBN7gOS08ZN8EKKOhNjsg0S6n2fCgoWRvoJQBKNEIRc7BNq1-Op6VkTOHkZg2wAkDms-jqV6FvDI1CuTSGPEEiQnEOk6FZyd_4E_msx7KeCrQaqQgnP8yKJfSbIkKVu3SE_wEB7TovOYWc6LGs6T6qkwPtK6Fh5PAyCBw2PSPKQtw7iY2MsRY5c0k2O2TWObYci2A-Wz46Wmm49YyuavstDJrt_Mhlh1ZSn-MZBIeAPs22LpWaJDD6x48R5jdGmKiNAkAAspdtlQTOuEu0Bd8d4sYr60EWGrzyC3O-x82nZ7C5ganJggT_YBt-&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Leesburg": {
+    "city": "Leesburg",
+    "city_ascii": "Leesburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.1057,
+    "lng": -77.5544,
+    "cafes": [
+      {
+        "name": "Catty Corner Cafe",
+        "address": "116 E Market St, Leesburg, VA 20176, USA",
+        "rating": 4.7,
+        "user_ratings_total": 137,
+        "website": "http://cattycornercafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=18237308486200628844",
+        "lat": 39.1143575,
+        "lng": -77.56183,
+        "accessibility_options": "N/A",
+        "reviews": [
+          {
+            "author": "Melissa Weglarz",
+            "rating": 5,
+            "text": {
+              "text": "I love this place - the cats are so sweet and well taken care of. The staff is very nice and they usually will tell you about each cat too. The shop has a lot of unique gifts for cat lovers as well. Also the home made cookies are really good - I like the oatmeal cookie. 🐾",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Jen",
+            "rating": 4,
+            "text": {
+              "text": "It was a good experience being here. I never thought there was a cat café in US. I’ve only been to one in Japan. The cats were very friendly and cute. It’s good that these cats are adoptable and rescues. I wish the area was bigger and more clean though. I’m saying this because I’ve been to one in Japan and I didn’t smell any cat litter odor there so I bet there’s a way that this place can get better. I would go back here.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Grace Jang",
+            "rating": 5,
+            "text": {
+              "text": "cute place! they have a drink station, baked cookies and a little shop downstairs, and upstairs is the actual kitty area. cats had lots of funny personalities hehe\n\njust keep in mind it's in Old Town Leesburg, so parking can sometimes be annoying",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2iy3H7k0khte7-zayT7uHv0eS9bh0S1YQrRbzq4RYr6Miifgg5DkugmjGCUX51NZ5AQIGUsjhs-1pk1S4F5OEUqqx8vfORu85Z2ax9N-SrIY2-LeZMlBJ_jdwJlwDAFAQyKysq3W4sb8ZcJHS8ECp1FV23fMymJZQn4c8olPzin6gLPVZyvQYUZYJR6iM_IczM9k2KSknhdOS2c4sRIrxHcbkoNxsnyxiQ3t8UAEk8_2jRyMQh036tsaC2HZS0HhmNLnVJv6GqBlhWlKG8pPAY-8Z-tXtk2bTbTdMbMzMTIg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Twisted Cat Tavern",
+        "address": "19332 Town Green Drive, Leesburg, VA 20176, USA",
+        "rating": 4.7,
+        "user_ratings_total": 176,
+        "website": "http://www.twistedcattavern.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=6227874518077874853",
+        "lat": 39.0811971,
+        "lng": -77.4938001,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Mark Barlet",
+            "rating": 5,
+            "text": {
+              "text": "First time visiting. Was craving a good burger. Ordered the one with the Mac & cheese and fried egg. I don't recall the name.\n\nWARNING: Do not order this burger if you are wearing something fancy.\n\nWhy? Because this burger is an absolute mess in the best possible way. The beef is beefy, the onion ring does its level best to contain the Mac& Cheese, but it will ultimately fail, and when the dam breaks...\n\nDon't get me wrong, you will LOVE everything about this burger... The pork belly and egg bring it to a 10... But there is a good chance you'll wear some of it.\n\nWe started with the onion rings, other onion rings wish they were these.\n\nOnly criticism, too many high top tables, I'm not a fan, so I took a booth.  Noticed a family with a young kid struggling to be comfortable. Ended up relocating when the few low tops opened up.\n\nWent on a Saturday for lunch. I'm sure the dinner crowd may disagree... And that's okay.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Steven Harvey",
+            "rating": 5,
+            "text": {
+              "text": "Attention Foodies:  Had another epic adventure at the Twisted Cafe Tavern! 🥳 Today, I indulged in Grilled Cheese Rolls with Tomato Soup for dipping—because why just eat when you can dunk? Also, devoured the legendary Cat Burger Smash Burger with those heavenly crispy onion rings! 😋\n\nDoug, our amazing bartender, gave us the full culinary tour and beer 101.\n\nI highly recommend bringing the family for a delightful escapade. The place has a chic, model vibe and is cleaner than your grandma's kitchen!\n\nDrop by and say \"Steve sent me\" to get some exclusive water on the rocks! 💧🥃",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Christopher Brodnik",
+            "rating": 5,
+            "text": {
+              "text": "The Lazy Cat was easily one of the best smash burgers I’ve had in a while. One of the owners was running the bar and tending to all of the tables. He was very friendly, attentive and down-to-earth. Plenty of parking too on a Saturday afternoon. Highly recommend coming here if you have the chance!",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3RxdMnthYqahGxKR07gaNPehmIVrHsfnWySZtzwTHsi5QCWd8DDOi34d29wgX9FEFk0wwyilVHGMwaOH5mAHFnDqW2puZsi83G-L-PSegLEaYTZCINXJ8WOaofdmtDgyW35ewVKVspkDrVQI_4u5LS55_3xeM6QuU7HPL7PSWya6hHF96D6J1d0A1YEkzgJS-R29kcrtkiorT9V_DwcMngz_gkWBxwCg8PNZ5VHtIXa6uz60dgbMfvbZ1o-y3vX3mKbAGENyRxNG_gfMGGfyNbSZn0QKEmMtjzvo069jJq9Q&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Sterling": {
+    "city": "Sterling",
+    "city_ascii": "Sterling",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0052,
+    "lng": -77.405,
+    "cafes": [
+      {
+        "name": "Meows Corner",
+        "address": "21435 Epicerie Plaza Suite 115, Sterling, VA 20165, USA",
+        "rating": 4.5,
+        "user_ratings_total": 155,
+        "website": "http://meowscorner.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1376969306150029657",
+        "lat": 39.023377100000005,
+        "lng": -77.3945475,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true
+        },
+        "reviews": [
+          {
+            "author": "Paul Culver",
+            "rating": 5,
+            "text": {
+              "text": "A great place to get some cat time.  I happened here when my out of town relatives were visiting and they had a great time. All of the cats except one are rescues and up for adoption.  I see they have had 444 cats adopted since their inception.  Great cause and worth supporting…",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Greg",
+            "rating": 5,
+            "text": {
+              "text": "Very nice, cute cat 'cafe'. As a former Foster for 4Paws, the rescue they supplies the cats and kittens for adoption, it was great to see where they go and even got to see some of our fosters! The place was clean and very cute. The staff were polite, knowledge, helpful, responsive, etc.\n\nIt's not really a cafe, but there were prepacked food and drinks. Prices are... Reasonable, understandably. It's a great business to get cats adopted.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Bethany Banaszewski",
+            "rating": 5,
+            "text": {
+              "text": "Absolutely LOVED our visit to Meow's Corner! This cat cafe is super casual and chill, and it is really focused on the most important part--the cats. The environment was clean and there were plenty of places for the cats to play, hide, and sleep. The cats all seemed healthy and happy, and it was clear they were well taken care of. The staff member in charge was super sweet, and she seemed to know all of the cats' personalities and stories. And all of the cats are adoptable, so if you find one that you really click with, you can even take them home with you! Really a phenomenal experience; I'll definitely be back soon!!!",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1s4DxmkgwnrEg2tLK3N8vTkG5Y2gQNgplp5Jkcb_-xQrIrct1g8A2Vt8gMDSJX5d2ou24a4XFss-TK97kqLG0X7sve1vwigNCSrpRlZRuYoIwFub8sLMrsNkP-JsNYOjz1cTCNSGI5PUTTTiUmMVpB404HbSeowC3CjOqDMDRBdymrU6RErqVXZF4KfnqdSdDbNSOTaVpI-2v2DNd730kcmsuw3FycfTqNoc8vnnp_NTljqzef4k22qKMNDhFamPSwvH96J7aNeeDR6fKvILb26oLg1iwPjtdbYLzWToEUOw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Washington": {
+    "city": "Washington",
+    "city_ascii": "Washington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7122,
+    "lng": -78.1598,
+    "cafes": [
+      {
+        "name": "Crumbs & Whiskers | Kitten & Cat Cafe.",
+        "address": "3109 M St NW, Washington, DC 20007, USA",
+        "rating": 4.7,
+        "user_ratings_total": 934,
+        "website": "http://www.crumbsandwhiskers.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=4645012754072052490",
+        "lat": 38.9053136,
+        "lng": -77.0614946,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": false,
+          "wheelchairAccessibleEntrance": false
+        },
+        "reviews": [
+          {
+            "author": "Amanda Rose",
+            "rating": 5,
+            "text": {
+              "text": "Really fantastic place that lets you hang out with adoptable cats in an awesome atmosphere! It’s especially nice for people like me who cannot adopt another animal myself but loves animal experiences and supporting rescue. The facility was clean, decorated beautifully, staff were really friendly and shared background stories on the cats and the kitty cats are all clearly well cared for. Visited Washington DC from Milwaukee, WI and I’m so glad we added this to our travel itinerary. The free Polaroid snapshot is such a nice touch and so unique (I’ve been to 10 cat cafes and this is the only one I’ve seen do this). I wish caffeine free tea options were available and would have preferred an hour long session for the price we paid but it’s for a fantastic cause so - 5/5 stars!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Jillian Roth",
+            "rating": 5,
+            "text": {
+              "text": "The sweetest cats I've ever encountered at any cat cafe. They were all happy and chillin. Some would approach you and others were so relaxed and happy they didn't mind at all when you approached them. A sweet cat in particular climbed right into my lap ❤️😁 we got a nice polaroid taken of me and my friend and now have that as a keepsake. From what I overheard, it sounds like all of the cats get adopted pretty quick. It feels good to support a place like this that does a lot of good things for cats and also is quite fun for me too!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Asha Singh",
+            "rating": 5,
+            "text": {
+              "text": "Went for some kitty cuddle time and was not disappointed. The staff was friendly and kept a sharp eye on the cats. The cats were playful and energetic. We didn't get any food or drinks but they did have a menu. No shoes in the car hangout space so be sure to wear socks when you go. Also be patient, the cats operate on their own schedule.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3N08_UUSIMsVpBO3DEIXZ2ESrNclv1zNDnA5AkSifcLqkqLY67q5puK2XKMb3HntYsopIKHh_i6Op3a9LuKljkB-SToDerMheMiC-SYCsPfzLaTlpHOMMR8UwTKOQOiLsmDknjLoAHsT_IIhtNTsZwbmPVB2NRv-AI9dyGrYBIl6FkK2g9LF46BEJ48DaGaZUS2Ynwtf-oC8IdJ9xvbrmXS9c-1JH6twicy3-xgshgXwQWMtQBQOizhe7kwLSkFFBAcK25JkmD_V9vXmOsRvShMWr7sr09ka0KnZVuPsIbiLNaGWOPcEqmp09XZsOo-1BNx0lD5CzmSRs6Or1vVstMxI54tQvgpL5_dCDq0t0FYeFX06sx-s2NkVtOSjy5BZ-oD-2oXdVOr-V0jBgTEEO0kkqi1hib&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Fuquay-Varina": [
+    {
+      "name": "Right Meow Cat Cafe",
+      "address": "913 S Main St, Fuquay-Varina, NC 27526, USA",
+      "rating": 4.9,
+      "user_ratings_total": 398,
+      "website": "https://rightmeowcatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=16308796525521779219",
+      "lat": 35.5710488,
+      "lng": -78.8002777,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Tina Goss",
+          "rating": 5,
+          "text": {
+            "text": "Brought my daughter and friends here for her birthday.  Was an adorable place, super well done.  Decor was fabulous, cats were lovely and atmosphere is tranquil.  They also serve beverages.  I'm guessing we will be coming back!  Love the mission of the place for adopting cats and finding them forever homes!",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Rocio R M",
+          "rating": 5,
+          "text": {
+            "text": "Lovely and unique cafe! We made a last minute reservation online. As suggested, we arrived 10 minutes early to park and order our drinks (highly recommend arriving early!). The place was immaculate. It was very clean and free of odors. I’m not a cat person (my daughter is though- hence why we went!), and I fell in love with cats right there and then.\nYou can really tell they care about the safety and wellbeing on the cats. They’re all very clean and healthy. The place is calm and welcoming for both cats and humans. The cats have a large variety of places to go play, hide, sleep, etc., and cat toys are available in every room. We loved reading about each cat and getting to know them all. We were even given treats to feed the cats. The drinks were great, and my daughter tried the (“very artistic”) red velvet cakepop. A friendly staff member kept coming in to check in and answer any questions. If we ever decide to adopt a cat, this would be the only place we would adopt from.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Jennifer Webb",
+          "rating": 5,
+          "text": {
+            "text": "We love this place!! It has awesome drinks and booking time with the kitties is so special. You can tell the priority is the well being of the cats because they have so many amazing places throughout for them to hide and get out of reach if they are not feeling people-y. You will not find a cleaner establishment. (And if you didn't know, all the cats are up for adoption! Sadly we cannot due to allergies in the family but we love to go and support them).",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3f64KC5bXGBVAlmRqsGJ48MxbponRj3L1i8E62gkbJpNbgvnucMpA-xenUCjHub_dxHjSbI_p-nReCi5L5cmqIccpdOIK8a-B1qpBhuNPVab4zD69newuY5w14Hk0OqK8kRmcy9u591MzFAkfG870kMKrL6cfBu31HyS9G1rBV0mrJrgBQg_aCqEzzgEfWCQHpZTWUmVS_k8kEZUxBk9fBDtVvG1K65QhQLIk6Ysws_dyEoHiLT9OcUrPNTWTAvbvg5d9ftzlwUqsiTMWnpk2zivC0oBfESOGq9obzoRF1-VRVenFX2yXJWKfrOgkmC8FdbhgNF1186ceoTB1DI_ZJ9hxlC3jgHJf-sxm6LLiS8zylzaeLFQzgwY_2QuvjRxbneKLyHPRYUpnsk2mSAplpuD5lmbTq&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Harrisonburg": {
+    "city": "Harrisonburg",
+    "city_ascii": "Harrisonburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4362,
+    "lng": -78.8735,
+    "cafes": [
+      {
+        "name": "Aristocat Cafe + Tea House",
+        "address": "111 N Liberty St, Harrisonburg, VA 22802, USA",
+        "rating": 5,
+        "user_ratings_total": 241,
+        "website": "http://aristocat.cafe/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=17158637340045029041",
+        "lat": 38.4509883,
+        "lng": -78.8703445,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Carmina Balagtas",
+            "rating": 5,
+            "text": {
+              "text": "I have been to this coffee shop two times and it has been an extremely delightful experience every time! Their matcha latte was one of the best I’ve ever had, and their oat milk vanilla latte was equally delicious. Both times I’ve went I also visited the cat lounge, you can tell the cats are very well taken care of and $15 for an hour is such a great price. Not only are the cats super cute but the money will help with their care! Will definitely be one of the coffee shops I’ll be visiting regularly.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Laura Johnson",
+            "rating": 5,
+            "text": {
+              "text": "We went to celebrate my daughter's birthday and had the best time. Coffee and hot chocolate was delicious, with a ton of options for drinks and snacks. It was impeccably clean, including the cat area. Such a cool set up and the cats were adorable. Had a great chat with the owner and both she and the staff were warm and kind. We will definitely return. The best day with great memories made!",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          },
+          {
+            "author": "Grace Robinson",
+            "rating": 5,
+            "text": {
+              "text": "This was so fun! So clean (I have severe allergies) and it only affected me a little bit. The treats were delicious and the kitties was so great. Awesome service!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0912hwygGtguEBrOzP086pYFpN2TToRHqIIw_K6h7IhcvJQ__A3JB2z27MeFlc8QvRjV5S_YZDZingmyEzXqi-0o7Sv_IwwTvlnhenAwRFvUYhDAOAc-kBFWXWd0DWIiSKF_sBCF57OdoQnITw9QcoBxPRKtQmeXPC0aco2i1WfxOc_CqfrMPpTTXUUgWcdndaaKOhmYKSYZ7goIvZRa19KEZJ6XG81cUmYgZWrQJoUfF_ii52uoi270z0IULY5zV_asHK-wZx91W47i0wkE4Szs5PTofSjh_Nhs4VPJi70g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Cat's Cradle",
+        "address": "122 S Main St #101, Harrisonburg, VA 22801, USA",
+        "rating": 4.5,
+        "user_ratings_total": 91,
+        "website": "http://catscradleva.org/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=10739162866086654700",
+        "lat": 38.4480611,
+        "lng": -78.8687865,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Kylie Formisano",
+            "rating": 5,
+            "text": {
+              "text": "I love cats cradle so much! I have gotten all my babies from there, Wayne, Parenthesis and Banjo. They have a good variety of cats too. Wayne was a foster of ours when he was a foster fail, but Parenthesis and Banjo I found on their page. I love that they almost all have foster homes and get to live in a home while they wait to be adopted. Banjo was a senior and had quite a few issues which I knew was going to happen because I adopted him old—he recently passed but I kept in touch with his old foster and always made sure she had an update too. They boys were both in great condition when I picked them up, the only thing is they did both have tape worm fragments I noticed after a few days with them. No big deal and treated with dewormer. I know with them being shelter/feral it happens and sometimes it takes multiple treatments to get fully rid of them but that was it! Obviously with being a cat owner, I bring them to the vet for yearly check-up’s and issues, but I also did take them after I adopted just to get blood ran, any meds needed and the full check-up and cats cradle were able to provide me with all their records they had and faxed them to Harrisonburg Animal Hospital as well. They also have roll over insurance…get it!! I used it both on Banjo and Parenthesis after I adopted for dewormer and checks and it was so worth it. Go get a kitty from cats cradle 💕",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Harriet Cameron",
+            "rating": 5,
+            "text": {
+              "text": "A must pop in for cat cuddles - Walking by as a stop on the way to the snow and spent a few minutes to contribute to the cause and got some cat cuddles in with Toby (tabby) and Zagreus (ginger) both males, and little cheddar (female).\n\nToby is a cuddly snuggle bug! a typical male tabby, who will chat to get your attention, was picked up no issue, sat on lap and wanted more\n\nZagreus is your typical male ginger, talkative and all for the love 💕 he flopped and smooches into your hand\n\nI only had 10 minutes and little cheddar was in need of a nap 😄",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Vera Knupp",
+            "rating": 5,
+            "text": {
+              "text": "I want to thank you for the help with my kittens to get spay and neuter.I had a great experience with Anicira.I would have had to give them up.Again Thank  you so much. Socks and paws",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ19pLfYodMfHuCDNGE0FXvOxx435muweqUkqmNkp2pArmngnYN5mdtlzVZdpsVUPPd2pJmwGpIZAElieSZiVhkBh4ia-6nQT_OCWvWHKuL20R3UXquoETe_20ulsVjf0knxsyaudEbyruyp6SHe4_x9wI2UjrvWOtdx2qOta-pN3bIez77w2BFjW65fExSK7AW30br8F7PHTGv16Vc5aCQy3kmznf04jzmkK5gN4fUTZyvU6xR2ebUIcVju-HTLvYmw4oqx2zTs5H2nR0uQ_fqGvMhdkFysf0NeSqxd7dRk1w&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Fairfax": {
+    "city": "Fairfax",
+    "city_ascii": "Fairfax",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8531,
+    "lng": -77.2997,
+    "cafes": [
+      {
+        "name": "Patriot Pawsabilities Cat Lounge",
+        "address": "10687 Braddock Rd, Fairfax, VA 22032, USA",
+        "rating": 4.9,
+        "user_ratings_total": 434,
+        "website": "https://www.patriotpawsabilities.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=6056580848212267002",
+        "lat": 38.824738599999996,
+        "lng": -77.31541349999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Mary Calvert",
+            "rating": 5,
+            "text": {
+              "text": "My Husband and I have been here twice and we love it! It’s very clean, the staff are friendly and helpful and of course the cats and kittens are the best! You can tell that everyone who works there loves and cares for each of the kittens, it’s become our new favorite thing to do on the weekends! We can’t wait to come back! Also, as a GMU alumni/employee I LOVE that it’s so close to campus! 10/10!!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Emil",
+            "rating": 5,
+            "text": {
+              "text": "Super awesome and welcoming place, one of my new favorites to come and relax and recharge! Staff are super friendly and helpful, I asked them all sorts of things about the kitties. All of their cats are super sweet and would make great little house cats 🥰 The kitten room was closed for cleaning so I’m definitely going to come back when it’s done. Recommending to everyone who loves cats or just needs an hour to relax with some cute babies.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Stephen Liu",
+            "rating": 5,
+            "text": {
+              "text": "I visited this place for the 1st time today and I enjoyed it so much. The employees and volunteers are all friendly and helpful, and you can tell they really care for the cats. The cats are adorable and most are very sweet. Some are a bit more standoffish, but they'll let you know if they don't want to be pet. There is enough space for people and cats to roam, and plenty of cats to play with. They provide a lot of toys for you to use, and the cats have a ton of trees and perches to nap on. The space is clean and doesn't smell, and you can tell the cats are well cared for. The price for a visit is reasonable in my opinion, and it helps them care for the cats. The only \"negative\" is how quickly the hour went by! I'll definitely visit again.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0s874mzbu0aYGG9YfegVVZyZ1XcYDRYEBzDzJMeO-MsPcNcrMHV8fnH4156Jewx6sCSYfAYwt5N-UEcnhfHpz0W4OcSRlIhM76Eb9FDj26EiYtZRIcUPU1baLCuCThu7HzseJiGDMQ_lPsDzl9UStIyaSl0JODu-_pPuVv9ZNWLfwu4nEDdwbBa7vJa3ainlWWT9fPQ-hFfaeq_4nKxbSx5szHHjbV_AYIdMaH5adeU1moQJTeBmXsKNtl2F_VYQ6R8pm1njZsoc7sECuN1uRlgNNOU49jPFCWRhP1ZziS-A&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Greensboro": [
+    {
+      "name": "Crooked Tail Cat Cafe",
+      "address": "604 S Elm St, Greensboro, NC 27406, USA",
+      "rating": 4.9,
+      "user_ratings_total": 793,
+      "website": "http://www.crookedtailcatcafe.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=12257607372013529120",
+      "lat": 36.065852299999996,
+      "lng": -79.7909718,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Cesilia Rodriguez",
+          "rating": 5,
+          "text": {
+            "text": "Cute cute cute! My first time at a cat cafe, loved the cat themed drinks and the cat boba cups! All of the kitty cats were adorable, didn’t get the chance to play with them this time but definitely next time. Their gift shop has a bunch of cat themed items. Overall as a cat person I was over the moon!",
+            "languageCode": "en"
+          },
+          "time": "6 months ago"
+        },
+        {
+          "author": "Michelle Vance",
+          "rating": 5,
+          "text": {
+            "text": "This was such a cute place! It was fun learning about the cats and seeing their personalities.  It was very clean, and the cats seemed well taken care of. We would love to visit again one day!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Sherrie Shepersky",
+          "rating": 5,
+          "text": {
+            "text": "We loved going here and the atmosphere was great!! The cats were playful and curious, very great friends.The drinks they had were great and no kitties knocked over any drinks. I can’t wait to come back here again!!",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0WuhOvKlSJeF7DeGUdY3F-r6N_sNUfzN1vbJfR90tNAKfSewwqw6rkamqWL7o1GEBXRTOhu-PBuXK2hyezNGagt0FbO9U4YVCuCQifJGwS_Ej5z763vXIw0bLic4beFZ9qK6g1vXOacR-rTKYr0rTeymWXsLqLg2J4A7DSatGWOT1fe5-JvxSuqcQPz-3WqYNWMI9jY77tgeNLQujDN6VLdo75rMAIDvluO0Ymdv3kqgTdr6GZI1Mci7tJQ9qTE0ReOEF-zPSyywq1hVKGkxrIOuGMhLNcEiEO4m2Ar3oeWg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2864,
+    "lng": -80.0555,
+    "cafes": [
+      {
+        "name": "Lucky Cat Cafe",
+        "address": "1 W Main St, Salem, VA 24153, USA",
+        "rating": 4.6,
+        "user_ratings_total": 274,
+        "website": "https://www.salemluckycatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=8851291860013326209",
+        "lat": 37.2927798,
+        "lng": -80.0590193,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Shakira Williams",
+            "rating": 3,
+            "text": {
+              "text": "I’ve came here a 1-2 years ago and the service was far superior! Today my husband and I ordered sushi first and then wanted ice cream. My husband and I waited in front of the gelato and no one even said we will be with you in a moment. 2 people literally saw us and I made contact multiple times. I stood patiently waiting and still nothing.\n\nWhile waiting, I saw a gross bug on the side of the pistachio gelato and I would have taken a photo and I would have told the workers but no one came to see if we wanted anything. I’m mentioning the bug here so that they can take it out and it won’t end up in someone’s cup. I don’t think the bug is due to a lack of cleanliness because it’s clean. I think it probably flew inside when they opened the ice cream freezer and froze to death.\n\nThere were not even a lot of people in there so it’s not acceptable to me to just ignore customers. Especially considering we had just paid for food and bottled water.\n\nEven as we walked out, there was no thank you or anything at all. The service is not good and I’m not sure if I will be back.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Kristina Harder",
+            "rating": 5,
+            "text": {
+              "text": "This shop is amazing! One of a kind, handmade gifts, the most delicious food you’ve ever tasted, and to top it off fast and friendly service!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Yinzú Nairouz",
+            "rating": 3,
+            "text": {
+              "text": "I was excited about the Mochi Donut but it was ok. Ice cream are different, in texture and flavors.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0J4XulnrGMZd7YKky_GeOlKlXLl5TtPeLFjsm3woqv40wVBZLdlQpsyKpHUU4wQDV-XXNWJ1JoOcGg1fnA8L0pzl-Z-QfhMFqWjYLJ2nyzFMX_PDX9EVFQ23ZTlTDrCuIxXWbMoLSMfRk67xJ_n6Xprj-1TQps2ssu7IZQp5sBO2W46si9Eitwq79yx0hNz26n3KhT1ZqJ6rpKGjBGQRigdOQXkB7qM3qZ0CVuVZ3sGhBsnvIPTCd7b7arpoVBNhvQlShOeVf60MTBLHtYXMVg4kqHeZsKIGnVhdz4E7gb4g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Chapel Hill": [
+    {
+      "name": "Cat Tales Cat Cafe",
+      "address": "431 W Franklin St, Chapel Hill, NC 27516, USA",
+      "rating": 4.8,
+      "user_ratings_total": 266,
+      "website": "https://cattalescatcafe.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=14301029077570464908",
+      "lat": 35.910265599999995,
+      "lng": -79.0626892,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true
+      },
+      "reviews": [
+        {
+          "author": "Dave Cameron",
+          "rating": 5,
+          "text": {
+            "text": "Great place that takes care of cats - and allows people (for a fee) an hour to play with and pet the cats. There were about 9 of them when we went. You can buy drinks and get ice cream when you get in. Some cats wanted to be petted and would purr; others wanted to play and there were many toys. We spent the whole hour and it went by quickly. The cats are meant to be adopted.",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Phyllis Hobson",
+          "rating": 5,
+          "text": {
+            "text": "Such a wonderful Cat Cafe and a great experience! The cats are obviously well cared for, the place was very clean, and it was a very relaxed atmosphere to visit the kitties. There were about seven of us in the location, and it never seemed crowded. The person helping at the front desk was very knowledgeable and patient with everyone, and they had a lot of cute things to shop for as well. Would definitely recommend this place!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "ellie",
+          "rating": 5,
+          "text": {
+            "text": "An amazing place! Employees were so kind in helping me find a cat to adopt and very communicative during the transition period of bringing her home. The cafe itself is very clean and entertaining for cats and people with plenty of well cared for and well socialized cats. Cannot recommend this place enough!",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ18_c-2s0TqCePig8AoVjUD-ZXwn29O9kh9GscWT6beR8nEv-luxCI7qbAPvXJSfk0pfQRr7YnAqV7GMbkhaoQreWODz3EIMx4_97HCZMdYsWiUJ451v_wENmp8J9mNsFREK-TKBp7q0etTpjPeRAnQU6t6W547xda4FcENvMkdElpsIwQKw6q3jhr9v3dYxu-TuSlUqxKyOlwCtUpM9y2UzFG5UVv8JzQCt5E7lKQbsdozYdItawg5ZK-ZGYwQpYq7zVyXhPHo3OJSk8jGZAm-IpIGPqJRP6X2Mw4YnUuHKS1Idh_4wBOwZfxY8t4Qd1cHqNC1LG0kSl0vN3T-pV83VGJSC1Y9HIC6t1NM0fAkVdSFvdtvbsIkwV-W0GaiaCIyHZpfKdUdrqpcyLFCq4VejvZwcF0bTXue&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Waldorf": [
+    {
+      "name": "Feline Felons Cat Cafe",
+      "address": "24 Industrial Park Dr #1, Waldorf, MD 20603, USA",
+      "rating": 4.8,
+      "user_ratings_total": 41,
+      "website": "https://www.felinefelonscatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=13386713300282808096",
+      "lat": 38.616405799999995,
+      "lng": -76.9071888,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Amanda Gunther",
+          "rating": 5,
+          "text": {
+            "text": "The Humans, Peggy & Matt, are excellent conversationalists who clearly care very, very much about the wonderful feline population here who are awaiting their furever home! They are incredibly knowledgeable about all the cats who are temporary residents. The cats are AMAZING. Their space is extraordinary, their adoption options are wonderful! And there are a bunch of really great cat-themed things you can buy in the \"meow-shop\"",
+            "languageCode": "en"
+          },
+          "time": "in the last week"
+        },
+        {
+          "author": "Hanah Ngo",
+          "rating": 5,
+          "text": {
+            "text": "The best cat cafe place that cat lovers should check out,even best place for your kids !!! Great experience ! Great staffs ! We definitely come back soon . My kids enjoyed their time there with all lovely kittens, they want to come back to see cat lounge .And we love their cat gifts shop with affordable prices .They have kittens and cats for adoption (the fee to me is much better than any places I used to ).",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Robert Hudler",
+          "rating": 5,
+          "text": {
+            "text": "If you love cats this is a place you must see. The workers are great and very helpful. Tons of kitty's that ate very loving all sizes and ages. Very clean and well kept... and yes we brought one home. We will be going back to just visit all the kitty's.  But really if you love cats it's 100% worth checking out.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2G8bI99IgZPkB_fIRldEpqcja4NcA2LDf36xU5dsZfZOXkT7pWHLP3xY7QNLYLuwon0c1Wddmfle-e5U5AiuEZ9Bs5eSN1A3FEOQzYnHtXsVA0TKL6OPqkIY9H69uxbBOGtxeqaYCWrLapW4HYoCWTVzjwmYp_DsBeroftIbDDoy6oqiUKBQ6roPu_f7FGJCAPG9EHY2UHW5lfzTiFhpVLguuG8MO_NAEPR_EyOWHWTEnIqbvCp9-mBqFmpJmRdNyKaMIq05oaZZHf1K1GbYh75df9laXtAk80weStPSzr6A&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Luray": {
+    "city": "Luray",
+    "city_ascii": "Luray",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.665,
+    "lng": -78.4546,
+    "cafes": [
+      {
+        "name": "Ollie Cat Cafe",
+        "address": "219 W Main St, Luray, VA 22835, USA",
+        "rating": 4,
+        "user_ratings_total": 573,
+        "website": "http://olliecatcafe.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=3076774826538892542",
+        "lat": 38.6655082,
+        "lng": -78.4642868,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Aydan Guliyeva",
+            "rating": 1,
+            "text": {
+              "text": "Honestly, giving this place even 1 star feels too generous. We ordered the mahi sandwich, and the fish smelled off while the bread was way over-fried. The onion rings tasted like they were cooked in old, overused oil, and the hot dog was awful—seriously, you could get a better one from a food truck. To top it off, the bathroom was clogged and gross. You could tell from the food that the grill hadn’t been cleaned properly. The only saving grace was the waiter, who did a great job, but everything else was just bad. The restaurant is called Cat Cafe, but honestly, I don’t think even cats would eat the food here. We left most of it on the table. Definitely won’t be back, and if you’re thinking of visiting, do yourself a favor and read the reviews first. Total waste of money and time.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Jennifer Ng'andu",
+            "rating": 3,
+            "text": {
+              "text": "We arrived around 7pm but it took us closer to 8pm to get our food.  We found the service peculiar.  We first had a drink server who struggled with retention of our drink order.  When he didn't return for awhile, we asked for a service.  A new woman arrived and then immediately said, 'it wasn't my fault.'  She then guessed which ones of us would be the difficult orders.  The food service was slow. The owner chatted us up while we waited for our food, telling us about her rescues.  She assured us that we could stay as long as we needed, getting dessert or after-dinner drinks.  When the time came to make the decision the waitress quickly told us the kitchen was closed.  She walked it back when I told her what the owner said, but it clearly would have been a hassle for her to do so.  The food was good.  It filled the stomach and was above average, but we might see what else we could find in the future or try to come at a less busy time.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Steve O'Shields",
+            "rating": 5,
+            "text": {
+              "text": "I have never been so pleasantly surprised & impressed by a restaurant/cafe. The atmosphere was uplifting and funny, the customer service was phenomenal and it's food was chefs kiss amazing! We will now drive 45 mins on the regular just to come here! Thank you Ed and Laura, you guys made this a great experience!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ24MeOhe66JbQshbQGUYNwTbzw0UiGOD9sxRJAf8qvLJ3K4Z0kRKInjQa3pegJKpU4b7Z3zBZty260gqHfK2VNdj6h2jXFoylraok-aALEPq08nbdllOYuyz7ZeRXEq2UWkzHNxelkRHip32rM20UAn7XyW-NhDbud5oORYE5UrKwHAM3fLB9d0-RHWhyvA6z9MQcGGyOAl1uypY87n8R90lcX8v0fu0Coib9zUnMgCetVYZ2e60m-NYkvGpCIRftLWK-J8axNSpv1xxUVnSZyrNPEK5cKEjvhNMFQAIMttNJlKnaMDlio9_AclGAyU7y5WLZmhDksps-h8ZXrEenplvNj0teVeePIOzpeNvqnO8BOpZczP1n7UI30pGwBJ3W7vJMh0ulkDk-O55POBdbw_G9-7QE8_z5kE&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Richmond": {
+    "city": "Richmond",
+    "city_ascii": "Richmond",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5295,
+    "lng": -77.4756,
+    "cafes": [
+      {
+        "name": "With Love Cat & Theia - Artisan Bakery & Cafe",
+        "address": "4711 W Broad St, Richmond, VA 23230, USA",
+        "rating": 5,
+        "user_ratings_total": 1,
+        "website": "https://withlovetheia.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=11672128168402101909",
+        "lat": 37.5794701,
+        "lng": -77.49132519999999,
+        "accessibility_options": "N/A",
+        "reviews": [
+          {
+            "author": "Zada Hall",
+            "rating": 5,
+            "text": {
+              "text": "Absolutely delightful and delicious sandwiches and pastries! My fiancé and I ordered the West End and Hyperion sandwiches on scallion pancakes. Everything was fresh and well seasoned! We also tried an amazing blackcurrant pastry and adored the fun flavor combinations. Appreciated the sustainable bamboo silverware, too! The storefront is mostly set up for delivery services, so I’d consider ordering for pickup next time! We can’t wait to come back and continue exploring Cat and Theia’s exciting menu!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0z6a985ESKU2fmKQtxcrdq9sxP8NJLn6fFG03dIUmx5CHOqxea9y9kD1UH-cyJWhT4qzL0MqyQ6uB6rqiSRRBHMqC6KEnO8jv1lOaoTztGdPvzj9UT01n_W7YZIJHJS-UYsZ4caZLqLXU743AiR2bqVUMNnE5Z5yiqlnUvMcHt6ga92To1lMq0UR2LTawmTiINK3iBO0FR7-9G9R_4lgG94OPhIRspYspzY2kLWfrrKWQu1O0g-pUDokW8hYIG1Ioef4xhyrBTsW-euj8FtP6_C200N0uxkk6esA54JbouCcIpzR7c0tr4usftPdEcdRU4OhogM92mvAlEcuoaph9e--Y8KfQX3l-INJF86A7HA27GYjmcHNVzcSuhHKNLVTUYLyG_vxa05LgyfIgeWXtbImqwnJyX&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8786,
+    "lng": -77.1011,
+    "cafes": [
+      {
+        "name": "Stray Cat Bar & Grill",
+        "address": "5866 Washington Blvd, Arlington, VA 22205, USA",
+        "rating": 4.6,
+        "user_ratings_total": 130,
+        "website": "https://www.straycatgrill.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=8809402135624139413",
+        "lat": 38.8852778,
+        "lng": -77.1416667,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Matt C",
+            "rating": 5,
+            "text": {
+              "text": "Have been many times since they reopened after the pandemic. We love the lentil burger and fries as well as the nachos with roasted veggies. Salads and soups are quite good as well. Highly recommend Stray Cat as a casual, warm neighborhood restaurant!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Monica NC",
+            "rating": 5,
+            "text": {
+              "text": "Food here is pretty good. The bar tender was super nice and great service. I like how all the sandwiches can be done in a burger, chicken, and veggie.",
+              "languageCode": "en"
+            },
+            "time": "9 months ago"
+          },
+          {
+            "author": "Sam Dey",
+            "rating": 4,
+            "text": {
+              "text": "Very good & attentive staff. Menu has a good variety. The ambiance is nice and the walls are covered with colorful \"Cat-art\".  All items on the menu are even named keeping felines in mind. Great place to meet up for a low key appetizing meal. There's a full bar also. A fraction of the $$ the restaurant makes, goes towards rescuing & caring for stray cats. The restaurant group also organizes several adoption events throughout the year. Tag->Also check out a sister restaurant: \"Stray Dog Cafe\"👍👍",
+              "languageCode": "en"
+            },
+            "time": "7 years ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0mAlA79KswQhEuKjcBqsmwhyqiMGJ9lHytYAeDgedGsFXziBjC7cadi753yYiHvBvVuUmhuHrS1mSU_OjldDu8MDxgO_GE-JBw2NGnj7gdjKiKq_74xxA677OEqiGm3aenDX7S4D0fsBCF9aHQpgSGVmKXbawAB8BMT1dpZWQo4R_MXvuh5xWZAIs8r-LnHQI4e3KdkG_VrTQYPJxtW_nYqY5OgeRNEwZWxb5uggTENKNgLA6zQPo8Ogx1ZoO5sOxjmBMJt4DbfoJM0rAUxOkstThZRTdWhT8a8KGNG9feJw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Virginia Beach": {
+    "city": "Virginia Beach",
+    "city_ascii": "Virginia Beach",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7335,
+    "lng": -76.0435,
+    "cafes": []
+  },
+  "Fredericksburg": {
+    "city": "Fredericksburg",
+    "city_ascii": "Fredericksburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2992,
+    "lng": -77.4872,
+    "cafes": []
+  },
+  "Hampton": {
+    "city": "Hampton",
+    "city_ascii": "Hampton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0551,
+    "lng": -76.363,
+    "cafes": []
+  },
+  "Lynchburg": {
+    "city": "Lynchburg",
+    "city_ascii": "Lynchburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4003,
+    "lng": -79.1909,
+    "cafes": []
+  },
+  "Charlottesville": {
+    "city": "Charlottesville",
+    "city_ascii": "Charlottesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0375,
+    "lng": -78.4855,
+    "cafes": []
+  },
+  "Portsmouth": {
+    "city": "Portsmouth",
+    "city_ascii": "Portsmouth",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8468,
+    "lng": -76.354,
+    "cafes": []
+  },
+  "Suffolk": {
+    "city": "Suffolk",
+    "city_ascii": "Suffolk",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6953,
+    "lng": -76.6398,
+    "cafes": []
+  },
+  "Williamsburg": {
+    "city": "Williamsburg",
+    "city_ascii": "Williamsburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2693,
+    "lng": -76.7076,
+    "cafes": []
+  },
+  "Winchester": {
+    "city": "Winchester",
+    "city_ascii": "Winchester",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.1735,
+    "lng": -78.1746,
+    "cafes": []
+  },
+  "Dale City": {
+    "city": "Dale City",
+    "city_ascii": "Dale City",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6473,
+    "lng": -77.3459,
+    "cafes": []
+  },
+  "Centreville": {
+    "city": "Centreville",
+    "city_ascii": "Centreville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.839,
+    "lng": -77.4389,
+    "cafes": []
+  },
+  "Blacksburg": {
+    "city": "Blacksburg",
+    "city_ascii": "Blacksburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.23,
+    "lng": -80.4279,
+    "cafes": []
+  },
+  "Reston": {
+    "city": "Reston",
+    "city_ascii": "Reston",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9497,
+    "lng": -77.3461,
+    "cafes": []
+  },
+  "McLean": {
+    "city": "McLean",
+    "city_ascii": "McLean",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9436,
+    "lng": -77.1943,
+    "cafes": []
+  },
+  "Tuckahoe": {
+    "city": "Tuckahoe",
+    "city_ascii": "Tuckahoe",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5878,
+    "lng": -77.5858,
+    "cafes": []
+  },
+  "Ashburn": {
+    "city": "Ashburn",
+    "city_ascii": "Ashburn",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0277,
+    "lng": -77.4714,
+    "cafes": []
+  },
+  "Lake Ridge": {
+    "city": "Lake Ridge",
+    "city_ascii": "Lake Ridge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6847,
+    "lng": -77.3066,
+    "cafes": []
+  },
+  "Woodbridge": {
+    "city": "Woodbridge",
+    "city_ascii": "Woodbridge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6409,
+    "lng": -77.258,
+    "cafes": []
+  },
+  "Burke": {
+    "city": "Burke",
+    "city_ascii": "Burke",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7773,
+    "lng": -77.2633,
+    "cafes": []
+  },
+  "Manassas": {
+    "city": "Manassas",
+    "city_ascii": "Manassas",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7479,
+    "lng": -77.4838,
+    "cafes": []
+  },
+  "Danville": {
+    "city": "Danville",
+    "city_ascii": "Danville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5831,
+    "lng": -79.4088,
+    "cafes": []
+  },
+  "Linton Hall": {
+    "city": "Linton Hall",
+    "city_ascii": "Linton Hall",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7551,
+    "lng": -77.575,
+    "cafes": []
+  },
+  "Annandale": {
+    "city": "Annandale",
+    "city_ascii": "Annandale",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8324,
+    "lng": -77.196,
+    "cafes": []
+  },
+  "Mechanicsville": {
+    "city": "Mechanicsville",
+    "city_ascii": "Mechanicsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6263,
+    "lng": -77.3561,
+    "cafes": []
+  },
+  "Oakton": {
+    "city": "Oakton",
+    "city_ascii": "Oakton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8887,
+    "lng": -77.3016,
+    "cafes": []
+  },
+  "Fair Oaks": {
+    "city": "Fair Oaks",
+    "city_ascii": "Fair Oaks",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8653,
+    "lng": -77.3586,
+    "cafes": []
+  },
+  "South Riding": {
+    "city": "South Riding",
+    "city_ascii": "South Riding",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.912,
+    "lng": -77.5132,
+    "cafes": []
+  },
+  "Petersburg": {
+    "city": "Petersburg",
+    "city_ascii": "Petersburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2043,
+    "lng": -77.3913,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.781,
+    "lng": -77.1839,
+    "cafes": []
+  },
+  "West Falls Church": {
+    "city": "West Falls Church",
+    "city_ascii": "West Falls Church",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8648,
+    "lng": -77.1878,
+    "cafes": []
+  },
+  "Short Pump": {
+    "city": "Short Pump",
+    "city_ascii": "Short Pump",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6549,
+    "lng": -77.6201,
+    "cafes": []
+  },
+  "Tysons": {
+    "city": "Tysons",
+    "city_ascii": "Tysons",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9215,
+    "lng": -77.2273,
+    "cafes": []
+  },
+  "Cave Spring": {
+    "city": "Cave Spring",
+    "city_ascii": "Cave Spring",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2254,
+    "lng": -80.0072,
+    "cafes": []
+  },
+  "Staunton": {
+    "city": "Staunton",
+    "city_ascii": "Staunton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1593,
+    "lng": -79.0611,
+    "cafes": []
+  },
+  "Bailey's Crossroads": {
+    "city": "Bailey's Crossroads",
+    "city_ascii": "Bailey's Crossroads",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8477,
+    "lng": -77.1305,
+    "cafes": []
+  },
+  "Herndon": {
+    "city": "Herndon",
+    "city_ascii": "Herndon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9699,
+    "lng": -77.3867,
+    "cafes": []
+  },
+  "Brambleton": {
+    "city": "Brambleton",
+    "city_ascii": "Brambleton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9803,
+    "lng": -77.5323,
+    "cafes": []
+  },
+  "Chantilly": {
+    "city": "Chantilly",
+    "city_ascii": "Chantilly",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8868,
+    "lng": -77.4453,
+    "cafes": []
+  },
+  "Chester": {
+    "city": "Chester",
+    "city_ascii": "Chester",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3531,
+    "lng": -77.4342,
+    "cafes": []
+  },
+  "Cherry Hill": {
+    "city": "Cherry Hill",
+    "city_ascii": "Cherry Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.5696,
+    "lng": -77.2895,
+    "cafes": []
+  },
+  "Hopewell": {
+    "city": "Hopewell",
+    "city_ascii": "Hopewell",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2915,
+    "lng": -77.2985,
+    "cafes": []
+  },
+  "West Springfield": {
+    "city": "West Springfield",
+    "city_ascii": "West Springfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7771,
+    "lng": -77.2268,
+    "cafes": []
+  },
+  "Christiansburg": {
+    "city": "Christiansburg",
+    "city_ascii": "Christiansburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1406,
+    "lng": -80.4036,
+    "cafes": []
+  },
+  "Waynesboro": {
+    "city": "Waynesboro",
+    "city_ascii": "Waynesboro",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0674,
+    "lng": -78.9014,
+    "cafes": []
+  },
+  "McNair": {
+    "city": "McNair",
+    "city_ascii": "McNair",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9513,
+    "lng": -77.4115,
+    "cafes": []
+  },
+  "Montclair": {
+    "city": "Montclair",
+    "city_ascii": "Montclair",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6111,
+    "lng": -77.34,
+    "cafes": []
+  },
+  "Lorton": {
+    "city": "Lorton",
+    "city_ascii": "Lorton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6983,
+    "lng": -77.2164,
+    "cafes": []
+  },
+  "Woodlawn": {
+    "city": "Woodlawn",
+    "city_ascii": "Woodlawn",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7332,
+    "lng": -77.1149,
+    "cafes": []
+  },
+  "Rose Hill": {
+    "city": "Rose Hill",
+    "city_ascii": "Rose Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7872,
+    "lng": -77.1085,
+    "cafes": []
+  },
+  "Merrifield": {
+    "city": "Merrifield",
+    "city_ascii": "Merrifield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8731,
+    "lng": -77.2426,
+    "cafes": []
+  },
+  "Buckhall": {
+    "city": "Buckhall",
+    "city_ascii": "Buckhall",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7239,
+    "lng": -77.4476,
+    "cafes": []
+  },
+  "Culpeper": {
+    "city": "Culpeper",
+    "city_ascii": "Culpeper",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4704,
+    "lng": -78.0001,
+    "cafes": []
+  },
+  "Meadowbrook": {
+    "city": "Meadowbrook",
+    "city_ascii": "Meadowbrook",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4301,
+    "lng": -77.474,
+    "cafes": []
+  },
+  "Lincolnia": {
+    "city": "Lincolnia",
+    "city_ascii": "Lincolnia",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8158,
+    "lng": -77.1543,
+    "cafes": []
+  },
+  "Midlothian": {
+    "city": "Midlothian",
+    "city_ascii": "Midlothian",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4856,
+    "lng": -77.6522,
+    "cafes": []
+  },
+  "Franklin Farm": {
+    "city": "Franklin Farm",
+    "city_ascii": "Franklin Farm",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9133,
+    "lng": -77.3969,
+    "cafes": []
+  },
+  "Sudley": {
+    "city": "Sudley",
+    "city_ascii": "Sudley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7878,
+    "lng": -77.4961,
+    "cafes": []
+  },
+  "Colonial Heights": {
+    "city": "Colonial Heights",
+    "city_ascii": "Colonial Heights",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.265,
+    "lng": -77.3969,
+    "cafes": []
+  },
+  "Laurel": {
+    "city": "Laurel",
+    "city_ascii": "Laurel",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6375,
+    "lng": -77.5062,
+    "cafes": []
+  },
+  "Franconia": {
+    "city": "Franconia",
+    "city_ascii": "Franconia",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7682,
+    "lng": -77.1587,
+    "cafes": []
+  },
+  "Gainesville": {
+    "city": "Gainesville",
+    "city_ascii": "Gainesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7931,
+    "lng": -77.6347,
+    "cafes": []
+  },
+  "Hybla Valley": {
+    "city": "Hybla Valley",
+    "city_ascii": "Hybla Valley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7484,
+    "lng": -77.0821,
+    "cafes": []
+  },
+  "Idylwood": {
+    "city": "Idylwood",
+    "city_ascii": "Idylwood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8896,
+    "lng": -77.2056,
+    "cafes": []
+  },
+  "Burke Centre": {
+    "city": "Burke Centre",
+    "city_ascii": "Burke Centre",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7903,
+    "lng": -77.2999,
+    "cafes": []
+  },
+  "Kingstowne": {
+    "city": "Kingstowne",
+    "city_ascii": "Kingstowne",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7625,
+    "lng": -77.1444,
+    "cafes": []
+  },
+  "Bon Air": {
+    "city": "Bon Air",
+    "city_ascii": "Bon Air",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5187,
+    "lng": -77.5713,
+    "cafes": []
+  },
+  "Bristol": {
+    "city": "Bristol",
+    "city_ascii": "Bristol",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6181,
+    "lng": -82.1604,
+    "cafes": []
+  },
+  "Hollins": {
+    "city": "Hollins",
+    "city_ascii": "Hollins",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3434,
+    "lng": -79.9534,
+    "cafes": []
+  },
+  "Manassas Park": {
+    "city": "Manassas Park",
+    "city_ascii": "Manassas Park",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7709,
+    "lng": -77.4429,
+    "cafes": []
+  },
+  "Bull Run": {
+    "city": "Bull Run",
+    "city_ascii": "Bull Run",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8396,
+    "lng": -77.4897,
+    "cafes": []
+  },
+  "Glen Allen": {
+    "city": "Glen Allen",
+    "city_ascii": "Glen Allen",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.666,
+    "lng": -77.4838,
+    "cafes": []
+  },
+  "Fort Hunt": {
+    "city": "Fort Hunt",
+    "city_ascii": "Fort Hunt",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7361,
+    "lng": -77.0589,
+    "cafes": []
+  },
+  "Radford": {
+    "city": "Radford",
+    "city_ascii": "Radford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1229,
+    "lng": -80.5587,
+    "cafes": []
+  },
+  "Vienna": {
+    "city": "Vienna",
+    "city_ascii": "Vienna",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8996,
+    "lng": -77.2597,
+    "cafes": []
+  },
+  "Stone Ridge": {
+    "city": "Stone Ridge",
+    "city_ascii": "Stone Ridge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9294,
+    "lng": -77.5557,
+    "cafes": []
+  },
+  "East Highland Park": {
+    "city": "East Highland Park",
+    "city_ascii": "East Highland Park",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.577,
+    "lng": -77.3865,
+    "cafes": []
+  },
+  "Wolf Trap": {
+    "city": "Wolf Trap",
+    "city_ascii": "Wolf Trap",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9395,
+    "lng": -77.2842,
+    "cafes": []
+  },
+  "Front Royal": {
+    "city": "Front Royal",
+    "city_ascii": "Front Royal",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.926,
+    "lng": -78.1838,
+    "cafes": []
+  },
+  "Highland Springs": {
+    "city": "Highland Springs",
+    "city_ascii": "Highland Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5516,
+    "lng": -77.3285,
+    "cafes": []
+  },
+  "Great Falls": {
+    "city": "Great Falls",
+    "city_ascii": "Great Falls",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.011,
+    "lng": -77.3013,
+    "cafes": []
+  },
+  "Broadlands": {
+    "city": "Broadlands",
+    "city_ascii": "Broadlands",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0168,
+    "lng": -77.5167,
+    "cafes": []
+  },
+  "Falls Church": {
+    "city": "Falls Church",
+    "city_ascii": "Falls Church",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8847,
+    "lng": -77.1751,
+    "cafes": []
+  },
+  "Brandermill": {
+    "city": "Brandermill",
+    "city_ascii": "Brandermill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.434,
+    "lng": -77.6522,
+    "cafes": []
+  },
+  "Newington": {
+    "city": "Newington",
+    "city_ascii": "Newington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7358,
+    "lng": -77.1993,
+    "cafes": []
+  },
+  "Martinsville": {
+    "city": "Martinsville",
+    "city_ascii": "Martinsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6826,
+    "lng": -79.8636,
+    "cafes": []
+  },
+  "Groveton": {
+    "city": "Groveton",
+    "city_ascii": "Groveton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7605,
+    "lng": -77.098,
+    "cafes": []
+  },
+  "Kings Park West": {
+    "city": "Kings Park West",
+    "city_ascii": "Kings Park West",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8151,
+    "lng": -77.296,
+    "cafes": []
+  },
+  "Huntington": {
+    "city": "Huntington",
+    "city_ascii": "Huntington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7916,
+    "lng": -77.074,
+    "cafes": []
+  },
+  "Mount Vernon": {
+    "city": "Mount Vernon",
+    "city_ascii": "Mount Vernon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.714,
+    "lng": -77.1043,
+    "cafes": []
+  },
+  "Sugarland Run": {
+    "city": "Sugarland Run",
+    "city_ascii": "Sugarland Run",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0309,
+    "lng": -77.3762,
+    "cafes": []
+  },
+  "Lakeside": {
+    "city": "Lakeside",
+    "city_ascii": "Lakeside",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6132,
+    "lng": -77.4768,
+    "cafes": []
+  },
+  "Timberlake": {
+    "city": "Timberlake",
+    "city_ascii": "Timberlake",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3167,
+    "lng": -79.2481,
+    "cafes": []
+  },
+  "Lansdowne": {
+    "city": "Lansdowne",
+    "city_ascii": "Lansdowne",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0844,
+    "lng": -77.4839,
+    "cafes": []
+  },
+  "Poquoson": {
+    "city": "Poquoson",
+    "city_ascii": "Poquoson",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1318,
+    "lng": -76.3568,
+    "cafes": []
+  },
+  "Cascades": {
+    "city": "Cascades",
+    "city_ascii": "Cascades",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0464,
+    "lng": -77.3874,
+    "cafes": []
+  },
+  "Forest": {
+    "city": "Forest",
+    "city_ascii": "Forest",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3728,
+    "lng": -79.2831,
+    "cafes": []
+  },
+  "Newington Forest": {
+    "city": "Newington Forest",
+    "city_ascii": "Newington Forest",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.737,
+    "lng": -77.2339,
+    "cafes": []
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4902,
+    "lng": -77.5396,
+    "cafes": []
+  },
+  "Fairfax Station": {
+    "city": "Fairfax Station",
+    "city_ascii": "Fairfax Station",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7942,
+    "lng": -77.3358,
+    "cafes": []
+  },
+  "Wyndham": {
+    "city": "Wyndham",
+    "city_ascii": "Wyndham",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6924,
+    "lng": -77.6123,
+    "cafes": []
+  },
+  "Wakefield": {
+    "city": "Wakefield",
+    "city_ascii": "Wakefield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.823,
+    "lng": -77.2406,
+    "cafes": []
+  },
+  "Stuarts Draft": {
+    "city": "Stuarts Draft",
+    "city_ascii": "Stuarts Draft",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0188,
+    "lng": -79.0354,
+    "cafes": []
+  },
+  "Dranesville": {
+    "city": "Dranesville",
+    "city_ascii": "Dranesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9955,
+    "lng": -77.3693,
+    "cafes": []
+  },
+  "New Baltimore": {
+    "city": "New Baltimore",
+    "city_ascii": "New Baltimore",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7495,
+    "lng": -77.7151,
+    "cafes": []
+  },
+  "Triangle": {
+    "city": "Triangle",
+    "city_ascii": "Triangle",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.5483,
+    "lng": -77.3195,
+    "cafes": []
+  },
+  "Lowes Island": {
+    "city": "Lowes Island",
+    "city_ascii": "Lowes Island",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0471,
+    "lng": -77.3524,
+    "cafes": []
+  },
+  "Gloucester Point": {
+    "city": "Gloucester Point",
+    "city_ascii": "Gloucester Point",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2767,
+    "lng": -76.5043,
+    "cafes": []
+  },
+  "Lake Monticello": {
+    "city": "Lake Monticello",
+    "city_ascii": "Lake Monticello",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.921,
+    "lng": -78.3295,
+    "cafes": []
+  },
+  "Lake Barcroft": {
+    "city": "Lake Barcroft",
+    "city_ascii": "Lake Barcroft",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8514,
+    "lng": -77.1579,
+    "cafes": []
+  },
+  "Yorkshire": {
+    "city": "Yorkshire",
+    "city_ascii": "Yorkshire",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7882,
+    "lng": -77.4496,
+    "cafes": []
+  },
+  "Madison Heights": {
+    "city": "Madison Heights",
+    "city_ascii": "Madison Heights",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4487,
+    "lng": -79.1057,
+    "cafes": []
+  },
+  "Loudoun Valley Estates": {
+    "city": "Loudoun Valley Estates",
+    "city_ascii": "Loudoun Valley Estates",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.977,
+    "lng": -77.5053,
+    "cafes": []
+  },
+  "Independent Hill": {
+    "city": "Independent Hill",
+    "city_ascii": "Independent Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6404,
+    "lng": -77.4089,
+    "cafes": []
+  },
+  "Difficult Run": {
+    "city": "Difficult Run",
+    "city_ascii": "Difficult Run",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9016,
+    "lng": -77.3471,
+    "cafes": []
+  },
+  "Warrenton": {
+    "city": "Warrenton",
+    "city_ascii": "Warrenton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7176,
+    "lng": -77.7976,
+    "cafes": []
+  },
+  "Woodburn": {
+    "city": "Woodburn",
+    "city_ascii": "Woodburn",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8503,
+    "lng": -77.2322,
+    "cafes": []
+  },
+  "George Mason": {
+    "city": "George Mason",
+    "city_ascii": "George Mason",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8356,
+    "lng": -77.3186,
+    "cafes": []
+  },
+  "Fishersville": {
+    "city": "Fishersville",
+    "city_ascii": "Fishersville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.105,
+    "lng": -78.9826,
+    "cafes": []
+  },
+  "Belmont": {
+    "city": "Belmont",
+    "city_ascii": "Belmont",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0622,
+    "lng": -77.4985,
+    "cafes": []
+  },
+  "Countryside": {
+    "city": "Countryside",
+    "city_ascii": "Countryside",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0518,
+    "lng": -77.4124,
+    "cafes": []
+  },
+  "Crozet": {
+    "city": "Crozet",
+    "city_ascii": "Crozet",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0645,
+    "lng": -78.6961,
+    "cafes": []
+  },
+  "Seven Corners": {
+    "city": "Seven Corners",
+    "city_ascii": "Seven Corners",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8658,
+    "lng": -77.1445,
+    "cafes": []
+  },
+  "University of Virginia": {
+    "city": "University of Virginia",
+    "city_ascii": "University of Virginia",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0405,
+    "lng": -78.5164,
+    "cafes": []
+  },
+  "Purcellville": {
+    "city": "Purcellville",
+    "city_ascii": "Purcellville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.1378,
+    "lng": -77.711,
+    "cafes": []
+  },
+  "Pulaski": {
+    "city": "Pulaski",
+    "city_ascii": "Pulaski",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0528,
+    "lng": -80.7624,
+    "cafes": []
+  },
+  "Rockwood": {
+    "city": "Rockwood",
+    "city_ascii": "Rockwood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.463,
+    "lng": -77.5744,
+    "cafes": []
+  },
+  "Dunn Loring": {
+    "city": "Dunn Loring",
+    "city_ascii": "Dunn Loring",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8945,
+    "lng": -77.2315,
+    "cafes": []
+  },
+  "Smithfield": {
+    "city": "Smithfield",
+    "city_ascii": "Smithfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9755,
+    "lng": -76.6152,
+    "cafes": []
+  },
+  "Montrose": {
+    "city": "Montrose",
+    "city_ascii": "Montrose",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.52,
+    "lng": -77.3772,
+    "cafes": []
+  },
+  "Fair Lakes": {
+    "city": "Fair Lakes",
+    "city_ascii": "Fair Lakes",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.853,
+    "lng": -77.3885,
+    "cafes": []
+  },
+  "Hollymead": {
+    "city": "Hollymead",
+    "city_ascii": "Hollymead",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1266,
+    "lng": -78.4386,
+    "cafes": []
+  },
+  "Innsbrook": {
+    "city": "Innsbrook",
+    "city_ascii": "Innsbrook",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6552,
+    "lng": -77.5775,
+    "cafes": []
+  },
+  "Bellwood": {
+    "city": "Bellwood",
+    "city_ascii": "Bellwood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.406,
+    "lng": -77.4363,
+    "cafes": []
+  },
+  "Dumbarton": {
+    "city": "Dumbarton",
+    "city_ascii": "Dumbarton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.613,
+    "lng": -77.5066,
+    "cafes": []
+  },
+  "Abingdon": {
+    "city": "Abingdon",
+    "city_ascii": "Abingdon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.709,
+    "lng": -81.9713,
+    "cafes": []
+  },
+  "Fort Lee": {
+    "city": "Fort Lee",
+    "city_ascii": "Fort Lee",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2357,
+    "lng": -77.3325,
+    "cafes": []
+  },
+  "Wytheville": {
+    "city": "Wytheville",
+    "city_ascii": "Wytheville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.953,
+    "lng": -81.0881,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6831,
+    "lng": -76.9386,
+    "cafes": []
+  },
+  "Lake of the Woods": {
+    "city": "Lake of the Woods",
+    "city_ascii": "Lake of the Woods",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3343,
+    "lng": -77.7599,
+    "cafes": []
+  },
+  "Fort Belvoir": {
+    "city": "Fort Belvoir",
+    "city_ascii": "Fort Belvoir",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7119,
+    "lng": -77.1459,
+    "cafes": []
+  },
+  "Vinton": {
+    "city": "Vinton",
+    "city_ascii": "Vinton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2746,
+    "lng": -79.8887,
+    "cafes": []
+  },
+  "Greenbriar": {
+    "city": "Greenbriar",
+    "city_ascii": "Greenbriar",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8717,
+    "lng": -77.397,
+    "cafes": []
+  },
+  "Carrollton": {
+    "city": "Carrollton",
+    "city_ascii": "Carrollton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9382,
+    "lng": -76.5238,
+    "cafes": []
+  },
+  "South Boston": {
+    "city": "South Boston",
+    "city_ascii": "South Boston",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7132,
+    "lng": -78.9135,
+    "cafes": []
+  },
+  "Ashland": {
+    "city": "Ashland",
+    "city_ascii": "Ashland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7597,
+    "lng": -77.4716,
+    "cafes": []
+  },
+  "Collinsville": {
+    "city": "Collinsville",
+    "city_ascii": "Collinsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7215,
+    "lng": -79.9122,
+    "cafes": []
+  },
+  "Farmville": {
+    "city": "Farmville",
+    "city_ascii": "Farmville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2959,
+    "lng": -78.4002,
+    "cafes": []
+  },
+  "Laurel Hill": {
+    "city": "Laurel Hill",
+    "city_ascii": "Laurel Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7026,
+    "lng": -77.2422,
+    "cafes": []
+  },
+  "North Springfield": {
+    "city": "North Springfield",
+    "city_ascii": "North Springfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8023,
+    "lng": -77.2027,
+    "cafes": []
+  },
+  "Mantua": {
+    "city": "Mantua",
+    "city_ascii": "Mantua",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8526,
+    "lng": -77.2571,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7825,
+    "lng": -79.4441,
+    "cafes": []
+  },
+  "Woodlake": {
+    "city": "Woodlake",
+    "city_ascii": "Woodlake",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4215,
+    "lng": -77.6783,
+    "cafes": []
+  },
+  "Strasburg": {
+    "city": "Strasburg",
+    "city_ascii": "Strasburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9961,
+    "lng": -78.3549,
+    "cafes": []
+  },
+  "Floris": {
+    "city": "Floris",
+    "city_ascii": "Floris",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9347,
+    "lng": -77.4084,
+    "cafes": []
+  },
+  "Long Branch": {
+    "city": "Long Branch",
+    "city_ascii": "Long Branch",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8302,
+    "lng": -77.2713,
+    "cafes": []
+  },
+  "Sandston": {
+    "city": "Sandston",
+    "city_ascii": "Sandston",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.512,
+    "lng": -77.3149,
+    "cafes": []
+  },
+  "Hutchison": {
+    "city": "Hutchison",
+    "city_ascii": "Hutchison",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9636,
+    "lng": -77.411,
+    "cafes": []
+  },
+  "Aquia Harbour": {
+    "city": "Aquia Harbour",
+    "city_ascii": "Aquia Harbour",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4598,
+    "lng": -77.3806,
+    "cafes": []
+  },
+  "Spotsylvania Courthouse": {
+    "city": "Spotsylvania Courthouse",
+    "city_ascii": "Spotsylvania Courthouse",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1993,
+    "lng": -77.5892,
+    "cafes": []
+  },
+  "South Run": {
+    "city": "South Run",
+    "city_ascii": "South Run",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7467,
+    "lng": -77.2754,
+    "cafes": []
+  },
+  "Bedford": {
+    "city": "Bedford",
+    "city_ascii": "Bedford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.336,
+    "lng": -79.5179,
+    "cafes": []
+  },
+  "Galax": {
+    "city": "Galax",
+    "city_ascii": "Galax",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.666,
+    "lng": -80.9176,
+    "cafes": []
+  },
+  "Bridgewater": {
+    "city": "Bridgewater",
+    "city_ascii": "Bridgewater",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3862,
+    "lng": -78.9674,
+    "cafes": []
+  },
+  "Buena Vista": {
+    "city": "Buena Vista",
+    "city_ascii": "Buena Vista",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7319,
+    "lng": -79.3568,
+    "cafes": []
+  },
+  "Belle Haven": {
+    "city": "Belle Haven",
+    "city_ascii": "Belle Haven",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7775,
+    "lng": -77.0574,
+    "cafes": []
+  },
+  "Braddock": {
+    "city": "Braddock",
+    "city_ascii": "Braddock",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8308,
+    "lng": -77.3565,
+    "cafes": []
+  },
+  "Pimmit Hills": {
+    "city": "Pimmit Hills",
+    "city_ascii": "Pimmit Hills",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9105,
+    "lng": -77.1991,
+    "cafes": []
+  },
+  "Potomac Mills": {
+    "city": "Potomac Mills",
+    "city_ascii": "Potomac Mills",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6554,
+    "lng": -77.3,
+    "cafes": []
+  },
+  "Massanetta Springs": {
+    "city": "Massanetta Springs",
+    "city_ascii": "Massanetta Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3899,
+    "lng": -78.834,
+    "cafes": []
+  },
+  "Woodstock": {
+    "city": "Woodstock",
+    "city_ascii": "Woodstock",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.875,
+    "lng": -78.516,
+    "cafes": []
+  },
+  "Bensley": {
+    "city": "Bensley",
+    "city_ascii": "Bensley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.447,
+    "lng": -77.442,
+    "cafes": []
+  },
+  "Stafford Courthouse": {
+    "city": "Stafford Courthouse",
+    "city_ascii": "Stafford Courthouse",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4184,
+    "lng": -77.4202,
+    "cafes": []
+  },
+  "Ettrick": {
+    "city": "Ettrick",
+    "city_ascii": "Ettrick",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2435,
+    "lng": -77.4287,
+    "cafes": []
+  },
+  "Dumfries": {
+    "city": "Dumfries",
+    "city_ascii": "Dumfries",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.567,
+    "lng": -77.3233,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8379,
+    "lng": -81.5156,
+    "cafes": []
+  },
+  "Covington": {
+    "city": "Covington",
+    "city_ascii": "Covington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7786,
+    "lng": -79.9867,
+    "cafes": []
+  },
+  "Emporia": {
+    "city": "Emporia",
+    "city_ascii": "Emporia",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6953,
+    "lng": -77.5356,
+    "cafes": []
+  },
+  "Crosspointe": {
+    "city": "Crosspointe",
+    "city_ascii": "Crosspointe",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7253,
+    "lng": -77.2638,
+    "cafes": []
+  },
+  "Dulles Town Center": {
+    "city": "Dulles Town Center",
+    "city_ascii": "Dulles Town Center",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0265,
+    "lng": -77.4196,
+    "cafes": []
+  },
+  "Quantico Base": {
+    "city": "Quantico Base",
+    "city_ascii": "Quantico Base",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.5228,
+    "lng": -77.3186,
+    "cafes": []
+  },
+  "Big Stone Gap": {
+    "city": "Big Stone Gap",
+    "city_ascii": "Big Stone Gap",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8626,
+    "lng": -82.7769,
+    "cafes": []
+  },
+  "Bealeton": {
+    "city": "Bealeton",
+    "city_ascii": "Bealeton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.5822,
+    "lng": -77.7781,
+    "cafes": []
+  },
+  "Richlands": {
+    "city": "Richlands",
+    "city_ascii": "Richlands",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0878,
+    "lng": -81.8081,
+    "cafes": []
+  },
+  "Falmouth": {
+    "city": "Falmouth",
+    "city_ascii": "Falmouth",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3319,
+    "lng": -77.4655,
+    "cafes": []
+  },
+  "Bluefield": {
+    "city": "Bluefield",
+    "city_ascii": "Bluefield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2351,
+    "lng": -81.2751,
+    "cafes": []
+  },
+  "Orange": {
+    "city": "Orange",
+    "city_ascii": "Orange",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2485,
+    "lng": -78.1129,
+    "cafes": []
+  },
+  "Chamberlayne": {
+    "city": "Chamberlayne",
+    "city_ascii": "Chamberlayne",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.628,
+    "lng": -77.4288,
+    "cafes": []
+  },
+  "Rocky Mount": {
+    "city": "Rocky Mount",
+    "city_ascii": "Rocky Mount",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0045,
+    "lng": -79.8854,
+    "cafes": []
+  },
+  "King George": {
+    "city": "King George",
+    "city_ascii": "King George",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2807,
+    "lng": -77.1896,
+    "cafes": []
+  },
+  "South Hill": {
+    "city": "South Hill",
+    "city_ascii": "South Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7254,
+    "lng": -78.1287,
+    "cafes": []
+  },
+  "Berryville": {
+    "city": "Berryville",
+    "city_ascii": "Berryville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.1504,
+    "lng": -77.9825,
+    "cafes": []
+  },
+  "Bethel Manor": {
+    "city": "Bethel Manor",
+    "city_ascii": "Bethel Manor",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0972,
+    "lng": -76.4243,
+    "cafes": []
+  },
+  "Loch Lomond": {
+    "city": "Loch Lomond",
+    "city_ascii": "Loch Lomond",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7812,
+    "lng": -77.4817,
+    "cafes": []
+  },
+  "Tazewell": {
+    "city": "Tazewell",
+    "city_ascii": "Tazewell",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1268,
+    "lng": -81.5134,
+    "cafes": []
+  },
+  "Union Mill": {
+    "city": "Union Mill",
+    "city_ascii": "Union Mill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7978,
+    "lng": -77.3815,
+    "cafes": []
+  },
+  "Pantops": {
+    "city": "Pantops",
+    "city_ascii": "Pantops",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0316,
+    "lng": -78.4437,
+    "cafes": []
+  },
+  "Mount Hermon": {
+    "city": "Mount Hermon",
+    "city_ascii": "Mount Hermon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6716,
+    "lng": -79.4202,
+    "cafes": []
+  },
+  "Verona": {
+    "city": "Verona",
+    "city_ascii": "Verona",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1937,
+    "lng": -79.0082,
+    "cafes": []
+  },
+  "Hayfield": {
+    "city": "Hayfield",
+    "city_ascii": "Hayfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7536,
+    "lng": -77.1321,
+    "cafes": []
+  },
+  "County Center": {
+    "city": "County Center",
+    "city_ascii": "County Center",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6917,
+    "lng": -77.3507,
+    "cafes": []
+  },
+  "Broadway": {
+    "city": "Broadway",
+    "city_ascii": "Broadway",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6083,
+    "lng": -78.8016,
+    "cafes": []
+  },
+  "Kings Park": {
+    "city": "Kings Park",
+    "city_ascii": "Kings Park",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8026,
+    "lng": -77.2396,
+    "cafes": []
+  },
+  "University Center": {
+    "city": "University Center",
+    "city_ascii": "University Center",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0599,
+    "lng": -77.4443,
+    "cafes": []
+  },
+  "Enon": {
+    "city": "Enon",
+    "city_ascii": "Enon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3273,
+    "lng": -77.3195,
+    "cafes": []
+  },
+  "Shenandoah Farms": {
+    "city": "Shenandoah Farms",
+    "city_ascii": "Shenandoah Farms",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9752,
+    "lng": -78.0482,
+    "cafes": []
+  },
+  "Colonial Beach": {
+    "city": "Colonial Beach",
+    "city_ascii": "Colonial Beach",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2567,
+    "lng": -76.9777,
+    "cafes": []
+  },
+  "Navy": {
+    "city": "Navy",
+    "city_ascii": "Navy",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8882,
+    "lng": -77.3907,
+    "cafes": []
+  },
+  "North Shore": {
+    "city": "North Shore",
+    "city_ascii": "North Shore",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0783,
+    "lng": -79.6525,
+    "cafes": []
+  },
+  "Norton": {
+    "city": "Norton",
+    "city_ascii": "Norton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9314,
+    "lng": -82.6262,
+    "cafes": []
+  },
+  "Lake Land'Or": {
+    "city": "Lake Land'Or",
+    "city_ascii": "Lake Land'Or",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.017,
+    "lng": -77.5593,
+    "cafes": []
+  },
+  "Gloucester Courthouse": {
+    "city": "Gloucester Courthouse",
+    "city_ascii": "Gloucester Courthouse",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4053,
+    "lng": -76.526,
+    "cafes": []
+  },
+  "Clifton Forge": {
+    "city": "Clifton Forge",
+    "city_ascii": "Clifton Forge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8232,
+    "lng": -79.825,
+    "cafes": []
+  },
+  "West Point": {
+    "city": "West Point",
+    "city_ascii": "West Point",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5519,
+    "lng": -76.8017,
+    "cafes": []
+  },
+  "Dahlgren": {
+    "city": "Dahlgren",
+    "city_ascii": "Dahlgren",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3443,
+    "lng": -77.0624,
+    "cafes": []
+  },
+  "Altavista": {
+    "city": "Altavista",
+    "city_ascii": "Altavista",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1235,
+    "lng": -79.2856,
+    "cafes": []
+  },
+  "Blackstone": {
+    "city": "Blackstone",
+    "city_ascii": "Blackstone",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0822,
+    "lng": -78.003,
+    "cafes": []
+  },
+  "Chincoteague": {
+    "city": "Chincoteague",
+    "city_ascii": "Chincoteague",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9593,
+    "lng": -75.3495,
+    "cafes": []
+  },
+  "Lake Wilderness": {
+    "city": "Lake Wilderness",
+    "city_ascii": "Lake Wilderness",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3036,
+    "lng": -77.7277,
+    "cafes": []
+  },
+  "Marshall": {
+    "city": "Marshall",
+    "city_ascii": "Marshall",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8661,
+    "lng": -77.8453,
+    "cafes": []
+  },
+  "Daleville": {
+    "city": "Daleville",
+    "city_ascii": "Daleville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.415,
+    "lng": -79.9132,
+    "cafes": []
+  },
+  "Lebanon": {
+    "city": "Lebanon",
+    "city_ascii": "Lebanon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8991,
+    "lng": -82.0784,
+    "cafes": []
+  },
+  "Shenandoah": {
+    "city": "Shenandoah",
+    "city_ascii": "Shenandoah",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4875,
+    "lng": -78.6171,
+    "cafes": []
+  },
+  "One Loudoun": {
+    "city": "One Loudoun",
+    "city_ascii": "One Loudoun",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0505,
+    "lng": -77.456,
+    "cafes": []
+  },
+  "Blue Ridge": {
+    "city": "Blue Ridge",
+    "city_ascii": "Blue Ridge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3783,
+    "lng": -79.8206,
+    "cafes": []
+  },
+  "Cloverdale": {
+    "city": "Cloverdale",
+    "city_ascii": "Cloverdale",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3566,
+    "lng": -79.9055,
+    "cafes": []
+  },
+  "Timberville": {
+    "city": "Timberville",
+    "city_ascii": "Timberville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6335,
+    "lng": -78.7731,
+    "cafes": []
+  },
+  "Elkton": {
+    "city": "Elkton",
+    "city_ascii": "Elkton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4106,
+    "lng": -78.6161,
+    "cafes": []
+  },
+  "Merrimac": {
+    "city": "Merrimac",
+    "city_ascii": "Merrimac",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1902,
+    "lng": -80.4243,
+    "cafes": []
+  },
+  "Wise": {
+    "city": "Wise",
+    "city_ascii": "Wise",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9767,
+    "lng": -82.5809,
+    "cafes": []
+  },
+  "Grottoes": {
+    "city": "Grottoes",
+    "city_ascii": "Grottoes",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2691,
+    "lng": -78.8251,
+    "cafes": []
+  },
+  "Hillsville": {
+    "city": "Hillsville",
+    "city_ascii": "Hillsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7613,
+    "lng": -80.7371,
+    "cafes": []
+  },
+  "Pearisburg": {
+    "city": "Pearisburg",
+    "city_ascii": "Pearisburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3289,
+    "lng": -80.7275,
+    "cafes": []
+  },
+  "Arcola": {
+    "city": "Arcola",
+    "city_ascii": "Arcola",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9447,
+    "lng": -77.5307,
+    "cafes": []
+  },
+  "Windsor": {
+    "city": "Windsor",
+    "city_ascii": "Windsor",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8095,
+    "lng": -76.7406,
+    "cafes": []
+  },
+  "Crewe": {
+    "city": "Crewe",
+    "city_ascii": "Crewe",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1812,
+    "lng": -78.1307,
+    "cafes": []
+  },
+  "Lake Caroline": {
+    "city": "Lake Caroline",
+    "city_ascii": "Lake Caroline",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9856,
+    "lng": -77.5244,
+    "cafes": []
+  },
+  "Lovettsville": {
+    "city": "Lovettsville",
+    "city_ascii": "Lovettsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.2731,
+    "lng": -77.64,
+    "cafes": []
+  },
+  "Dublin": {
+    "city": "Dublin",
+    "city_ascii": "Dublin",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0987,
+    "lng": -80.6831,
+    "cafes": []
+  },
+  "Sully Square": {
+    "city": "Sully Square",
+    "city_ascii": "Sully Square",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9183,
+    "lng": -77.4248,
+    "cafes": []
+  },
+  "Shawneeland": {
+    "city": "Shawneeland",
+    "city_ascii": "Shawneeland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.1968,
+    "lng": -78.3465,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.034,
+    "lng": -77.0956,
+    "cafes": []
+  },
+  "Ravensworth": {
+    "city": "Ravensworth",
+    "city_ascii": "Ravensworth",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8033,
+    "lng": -77.2222,
+    "cafes": []
+  },
+  "Fairlawn": {
+    "city": "Fairlawn",
+    "city_ascii": "Fairlawn",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1476,
+    "lng": -80.5567,
+    "cafes": []
+  },
+  "Chase City": {
+    "city": "Chase City",
+    "city_ascii": "Chase City",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7998,
+    "lng": -78.461,
+    "cafes": []
+  },
+  "Goose Creek Village": {
+    "city": "Goose Creek Village",
+    "city_ascii": "Goose Creek Village",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0432,
+    "lng": -77.5254,
+    "cafes": []
+  },
+  "Piney Mountain": {
+    "city": "Piney Mountain",
+    "city_ascii": "Piney Mountain",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1591,
+    "lng": -78.4156,
+    "cafes": []
+  },
+  "Chilhowie": {
+    "city": "Chilhowie",
+    "city_ascii": "Chilhowie",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8009,
+    "lng": -81.6832,
+    "cafes": []
+  },
+  "Oak Grove": {
+    "city": "Oak Grove",
+    "city_ascii": "Oak Grove",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9845,
+    "lng": -77.4174,
+    "cafes": []
+  },
+  "Matoaca": {
+    "city": "Matoaca",
+    "city_ascii": "Matoaca",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2313,
+    "lng": -77.4679,
+    "cafes": []
+  },
+  "Stephens City": {
+    "city": "Stephens City",
+    "city_ascii": "Stephens City",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0902,
+    "lng": -78.223,
+    "cafes": []
+  },
+  "Warsaw": {
+    "city": "Warsaw",
+    "city_ascii": "Warsaw",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9603,
+    "lng": -76.761,
+    "cafes": []
+  },
+  "Rivanna": {
+    "city": "Rivanna",
+    "city_ascii": "Rivanna",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9945,
+    "lng": -78.3788,
+    "cafes": []
+  },
+  "Louisa": {
+    "city": "Louisa",
+    "city_ascii": "Louisa",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0212,
+    "lng": -77.9986,
+    "cafes": []
+  },
+  "Weyers Cave": {
+    "city": "Weyers Cave",
+    "city_ascii": "Weyers Cave",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2844,
+    "lng": -78.9125,
+    "cafes": []
+  },
+  "Glade Spring": {
+    "city": "Glade Spring",
+    "city_ascii": "Glade Spring",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7899,
+    "lng": -81.7726,
+    "cafes": []
+  },
+  "Southern Gateway": {
+    "city": "Southern Gateway",
+    "city_ascii": "Southern Gateway",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3489,
+    "lng": -77.5036,
+    "cafes": []
+  },
+  "Massanutten": {
+    "city": "Massanutten",
+    "city_ascii": "Massanutten",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4115,
+    "lng": -78.727,
+    "cafes": []
+  },
+  "Horse Pasture": {
+    "city": "Horse Pasture",
+    "city_ascii": "Horse Pasture",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6313,
+    "lng": -79.9515,
+    "cafes": []
+  },
+  "New Market": {
+    "city": "New Market",
+    "city_ascii": "New Market",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6459,
+    "lng": -78.6709,
+    "cafes": []
+  },
+  "Amherst": {
+    "city": "Amherst",
+    "city_ascii": "Amherst",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5816,
+    "lng": -79.0509,
+    "cafes": []
+  },
+  "Patrick Springs": {
+    "city": "Patrick Springs",
+    "city_ascii": "Patrick Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6343,
+    "lng": -80.1985,
+    "cafes": []
+  },
+  "Appomattox": {
+    "city": "Appomattox",
+    "city_ascii": "Appomattox",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3592,
+    "lng": -78.8276,
+    "cafes": []
+  },
+  "Prince George": {
+    "city": "Prince George",
+    "city_ascii": "Prince George",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2209,
+    "lng": -77.2683,
+    "cafes": []
+  },
+  "Narrows": {
+    "city": "Narrows",
+    "city_ascii": "Narrows",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3316,
+    "lng": -80.8082,
+    "cafes": []
+  },
+  "Mason Neck": {
+    "city": "Mason Neck",
+    "city_ascii": "Mason Neck",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6556,
+    "lng": -77.1819,
+    "cafes": []
+  },
+  "Lake Holiday": {
+    "city": "Lake Holiday",
+    "city_ascii": "Lake Holiday",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.3092,
+    "lng": -78.3245,
+    "cafes": []
+  },
+  "Saltville": {
+    "city": "Saltville",
+    "city_ascii": "Saltville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8751,
+    "lng": -81.7642,
+    "cafes": []
+  },
+  "Mount Jackson": {
+    "city": "Mount Jackson",
+    "city_ascii": "Mount Jackson",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.739,
+    "lng": -78.651,
+    "cafes": []
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "city_ascii": "Dayton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4173,
+    "lng": -78.9412,
+    "cafes": []
+  },
+  "Pennington Gap": {
+    "city": "Pennington Gap",
+    "city_ascii": "Pennington Gap",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7594,
+    "lng": -83.0299,
+    "cafes": []
+  },
+  "East Lexington": {
+    "city": "East Lexington",
+    "city_ascii": "East Lexington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8009,
+    "lng": -79.416,
+    "cafes": []
+  },
+  "Stanley": {
+    "city": "Stanley",
+    "city_ascii": "Stanley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.5769,
+    "lng": -78.5027,
+    "cafes": []
+  },
+  "Hampden-Sydney": {
+    "city": "Hampden-Sydney",
+    "city_ascii": "Hampden-Sydney",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2415,
+    "lng": -78.4693,
+    "cafes": []
+  },
+  "Gate City": {
+    "city": "Gate City",
+    "city_ascii": "Gate City",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6401,
+    "lng": -82.5782,
+    "cafes": []
+  },
+  "Tappahannock": {
+    "city": "Tappahannock",
+    "city_ascii": "Tappahannock",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9187,
+    "lng": -76.8667,
+    "cafes": []
+  },
+  "Victoria": {
+    "city": "Victoria",
+    "city_ascii": "Victoria",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9947,
+    "lng": -78.2242,
+    "cafes": []
+  },
+  "Laymantown": {
+    "city": "Laymantown",
+    "city_ascii": "Laymantown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3628,
+    "lng": -79.8524,
+    "cafes": []
+  },
+  "Raven": {
+    "city": "Raven",
+    "city_ascii": "Raven",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0937,
+    "lng": -81.8601,
+    "cafes": []
+  },
+  "Westlake Corner": {
+    "city": "Westlake Corner",
+    "city_ascii": "Westlake Corner",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1249,
+    "lng": -79.7076,
+    "cafes": []
+  },
+  "Crimora": {
+    "city": "Crimora",
+    "city_ascii": "Crimora",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1618,
+    "lng": -78.8413,
+    "cafes": []
+  },
+  "Apple Mountain Lake": {
+    "city": "Apple Mountain Lake",
+    "city_ascii": "Apple Mountain Lake",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9231,
+    "lng": -78.1033,
+    "cafes": []
+  },
+  "Twin Lakes": {
+    "city": "Twin Lakes",
+    "city_ascii": "Twin Lakes",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2504,
+    "lng": -78.4417,
+    "cafes": []
+  },
+  "Courtland": {
+    "city": "Courtland",
+    "city_ascii": "Courtland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7123,
+    "lng": -77.062,
+    "cafes": []
+  },
+  "Exmore": {
+    "city": "Exmore",
+    "city_ascii": "Exmore",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5295,
+    "lng": -75.8283,
+    "cafes": []
+  },
+  "Shawsville": {
+    "city": "Shawsville",
+    "city_ascii": "Shawsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1707,
+    "lng": -80.2527,
+    "cafes": []
+  },
+  "Clarksville": {
+    "city": "Clarksville",
+    "city_ascii": "Clarksville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6171,
+    "lng": -78.5638,
+    "cafes": []
+  },
+  "Stuart": {
+    "city": "Stuart",
+    "city_ascii": "Stuart",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6404,
+    "lng": -80.2687,
+    "cafes": []
+  },
+  "Captains Cove": {
+    "city": "Captains Cove",
+    "city_ascii": "Captains Cove",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0003,
+    "lng": -75.4173,
+    "cafes": []
+  },
+  "Middletown": {
+    "city": "Middletown",
+    "city_ascii": "Middletown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0287,
+    "lng": -78.2781,
+    "cafes": []
+  },
+  "Nellysford": {
+    "city": "Nellysford",
+    "city_ascii": "Nellysford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9132,
+    "lng": -78.8829,
+    "cafes": []
+  },
+  "Ferrum": {
+    "city": "Ferrum",
+    "city_ascii": "Ferrum",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9314,
+    "lng": -80.0148,
+    "cafes": []
+  },
+  "Rural Retreat": {
+    "city": "Rural Retreat",
+    "city_ascii": "Rural Retreat",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.901,
+    "lng": -81.2765,
+    "cafes": []
+  },
+  "Appalachia": {
+    "city": "Appalachia",
+    "city_ascii": "Appalachia",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9098,
+    "lng": -82.7882,
+    "cafes": []
+  },
+  "Coeburn": {
+    "city": "Coeburn",
+    "city_ascii": "Coeburn",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9444,
+    "lng": -82.4698,
+    "cafes": []
+  },
+  "Haymarket": {
+    "city": "Haymarket",
+    "city_ascii": "Haymarket",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8121,
+    "lng": -77.6363,
+    "cafes": []
+  },
+  "Bull Run Mountain Estates": {
+    "city": "Bull Run Mountain Estates",
+    "city_ascii": "Bull Run Mountain Estates",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9106,
+    "lng": -77.6638,
+    "cafes": []
+  },
+  "Camp Barrett": {
+    "city": "Camp Barrett",
+    "city_ascii": "Camp Barrett",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.5198,
+    "lng": -77.4441,
+    "cafes": []
+  },
+  "Edinburg": {
+    "city": "Edinburg",
+    "city_ascii": "Edinburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8235,
+    "lng": -78.5634,
+    "cafes": []
+  },
+  "Chatham": {
+    "city": "Chatham",
+    "city_ascii": "Chatham",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8185,
+    "lng": -79.3967,
+    "cafes": []
+  },
+  "Gordonsville": {
+    "city": "Gordonsville",
+    "city_ascii": "Gordonsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.136,
+    "lng": -78.1879,
+    "cafes": []
+  },
+  "Mountain Road": {
+    "city": "Mountain Road",
+    "city_ascii": "Mountain Road",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7585,
+    "lng": -78.989,
+    "cafes": []
+  },
+  "Chatmoss": {
+    "city": "Chatmoss",
+    "city_ascii": "Chatmoss",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6758,
+    "lng": -79.7981,
+    "cafes": []
+  },
+  "Weber City": {
+    "city": "Weber City",
+    "city_ascii": "Weber City",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6236,
+    "lng": -82.5632,
+    "cafes": []
+  },
+  "Clintwood": {
+    "city": "Clintwood",
+    "city_ascii": "Clintwood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1507,
+    "lng": -82.4573,
+    "cafes": []
+  },
+  "Union Hall": {
+    "city": "Union Hall",
+    "city_ascii": "Union Hall",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0206,
+    "lng": -79.6837,
+    "cafes": []
+  },
+  "Bowling Green": {
+    "city": "Bowling Green",
+    "city_ascii": "Bowling Green",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0535,
+    "lng": -77.3473,
+    "cafes": []
+  },
+  "Benns Church": {
+    "city": "Benns Church",
+    "city_ascii": "Benns Church",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.937,
+    "lng": -76.5842,
+    "cafes": []
+  },
+  "Brightwood": {
+    "city": "Brightwood",
+    "city_ascii": "Brightwood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4132,
+    "lng": -78.188,
+    "cafes": []
+  },
+  "Wattsville": {
+    "city": "Wattsville",
+    "city_ascii": "Wattsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9301,
+    "lng": -75.4943,
+    "cafes": []
+  },
+  "Basye": {
+    "city": "Basye",
+    "city_ascii": "Basye",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8182,
+    "lng": -78.7659,
+    "cafes": []
+  },
+  "Lyndhurst": {
+    "city": "Lyndhurst",
+    "city_ascii": "Lyndhurst",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.022,
+    "lng": -78.9516,
+    "cafes": []
+  },
+  "Great Falls Crossing": {
+    "city": "Great Falls Crossing",
+    "city_ascii": "Great Falls Crossing",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9808,
+    "lng": -77.3256,
+    "cafes": []
+  },
+  "Hurt": {
+    "city": "Hurt",
+    "city_ascii": "Hurt",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0954,
+    "lng": -79.3029,
+    "cafes": []
+  },
+  "Concord": {
+    "city": "Concord",
+    "city_ascii": "Concord",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3426,
+    "lng": -78.9862,
+    "cafes": []
+  },
+  "Central Garage": {
+    "city": "Central Garage",
+    "city_ascii": "Central Garage",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7458,
+    "lng": -77.1316,
+    "cafes": []
+  },
+  "Kilmarnock": {
+    "city": "Kilmarnock",
+    "city_ascii": "Kilmarnock",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7118,
+    "lng": -76.3834,
+    "cafes": []
+  },
+  "Dooms": {
+    "city": "Dooms",
+    "city_ascii": "Dooms",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1027,
+    "lng": -78.8495,
+    "cafes": []
+  },
+  "Halifax": {
+    "city": "Halifax",
+    "city_ascii": "Halifax",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7612,
+    "lng": -78.9279,
+    "cafes": []
+  },
+  "Kenbridge": {
+    "city": "Kenbridge",
+    "city_ascii": "Kenbridge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9609,
+    "lng": -78.1284,
+    "cafes": []
+  },
+  "Claypool Hill": {
+    "city": "Claypool Hill",
+    "city_ascii": "Claypool Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0633,
+    "lng": -81.7505,
+    "cafes": []
+  },
+  "Onancock": {
+    "city": "Onancock",
+    "city_ascii": "Onancock",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7102,
+    "lng": -75.7434,
+    "cafes": []
+  },
+  "Stanleytown": {
+    "city": "Stanleytown",
+    "city_ascii": "Stanleytown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7514,
+    "lng": -79.9524,
+    "cafes": []
+  },
+  "Ruckersville": {
+    "city": "Ruckersville",
+    "city_ascii": "Ruckersville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2314,
+    "lng": -78.3756,
+    "cafes": []
+  },
+  "Goochland": {
+    "city": "Goochland",
+    "city_ascii": "Goochland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6974,
+    "lng": -77.8943,
+    "cafes": []
+  },
+  "Jonesville": {
+    "city": "Jonesville",
+    "city_ascii": "Jonesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.687,
+    "lng": -83.1153,
+    "cafes": []
+  },
+  "Cape Charles": {
+    "city": "Cape Charles",
+    "city_ascii": "Cape Charles",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.257,
+    "lng": -76.0093,
+    "cafes": []
+  },
+  "Rustburg": {
+    "city": "Rustburg",
+    "city_ascii": "Rustburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2712,
+    "lng": -79.0962,
+    "cafes": []
+  },
+  "Brookneal": {
+    "city": "Brookneal",
+    "city_ascii": "Brookneal",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0532,
+    "lng": -78.9485,
+    "cafes": []
+  },
+  "Gretna": {
+    "city": "Gretna",
+    "city_ascii": "Gretna",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9492,
+    "lng": -79.3647,
+    "cafes": []
+  },
+  "Buchanan": {
+    "city": "Buchanan",
+    "city_ascii": "Buchanan",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5212,
+    "lng": -79.6893,
+    "cafes": []
+  },
+  "Glasgow": {
+    "city": "Glasgow",
+    "city_ascii": "Glasgow",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6348,
+    "lng": -79.4514,
+    "cafes": []
+  },
+  "Penhook": {
+    "city": "Penhook",
+    "city_ascii": "Penhook",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9908,
+    "lng": -79.6318,
+    "cafes": []
+  },
+  "Harriston": {
+    "city": "Harriston",
+    "city_ascii": "Harriston",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.212,
+    "lng": -78.8283,
+    "cafes": []
+  },
+  "Bracey": {
+    "city": "Bracey",
+    "city_ascii": "Bracey",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5762,
+    "lng": -78.1107,
+    "cafes": []
+  },
+  "Honaker": {
+    "city": "Honaker",
+    "city_ascii": "Honaker",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0156,
+    "lng": -81.9686,
+    "cafes": []
+  },
+  "Earlysville": {
+    "city": "Earlysville",
+    "city_ascii": "Earlysville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1579,
+    "lng": -78.4688,
+    "cafes": []
+  },
+  "Rio": {
+    "city": "Rio",
+    "city_ascii": "Rio",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0804,
+    "lng": -78.4732,
+    "cafes": []
+  },
+  "Amelia Court House": {
+    "city": "Amelia Court House",
+    "city_ascii": "Amelia Court House",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3367,
+    "lng": -77.9882,
+    "cafes": []
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0036,
+    "lng": -79.1523,
+    "cafes": []
+  },
+  "Nokesville": {
+    "city": "Nokesville",
+    "city_ascii": "Nokesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.694,
+    "lng": -77.5757,
+    "cafes": []
+  },
+  "Cana": {
+    "city": "Cana",
+    "city_ascii": "Cana",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5816,
+    "lng": -80.6688,
+    "cafes": []
+  },
+  "Cedar Bluff": {
+    "city": "Cedar Bluff",
+    "city_ascii": "Cedar Bluff",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0876,
+    "lng": -81.7633,
+    "cafes": []
+  },
+  "McGaheysville": {
+    "city": "McGaheysville",
+    "city_ascii": "McGaheysville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3724,
+    "lng": -78.7327,
+    "cafes": []
+  },
+  "Lawrenceville": {
+    "city": "Lawrenceville",
+    "city_ascii": "Lawrenceville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7565,
+    "lng": -77.8539,
+    "cafes": []
+  },
+  "Mathews": {
+    "city": "Mathews",
+    "city_ascii": "Mathews",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4365,
+    "lng": -76.3245,
+    "cafes": []
+  },
+  "Independence": {
+    "city": "Independence",
+    "city_ascii": "Independence",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6254,
+    "lng": -81.1511,
+    "cafes": []
+  },
+  "Innovation": {
+    "city": "Innovation",
+    "city_ascii": "Innovation",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7539,
+    "lng": -77.5248,
+    "cafes": []
+  },
+  "Maurertown": {
+    "city": "Maurertown",
+    "city_ascii": "Maurertown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9325,
+    "lng": -78.4615,
+    "cafes": []
+  },
+  "Jolivue": {
+    "city": "Jolivue",
+    "city_ascii": "Jolivue",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1148,
+    "lng": -79.0668,
+    "cafes": []
+  },
+  "Emory": {
+    "city": "Emory",
+    "city_ascii": "Emory",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.78,
+    "lng": -81.828,
+    "cafes": []
+  },
+  "Pembroke": {
+    "city": "Pembroke",
+    "city_ascii": "Pembroke",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3219,
+    "lng": -80.6365,
+    "cafes": []
+  },
+  "Riverdale": {
+    "city": "Riverdale",
+    "city_ascii": "Riverdale",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6764,
+    "lng": -78.8943,
+    "cafes": []
+  },
+  "Castlewood": {
+    "city": "Castlewood",
+    "city_ascii": "Castlewood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8782,
+    "lng": -82.2879,
+    "cafes": []
+  },
+  "Occoquan": {
+    "city": "Occoquan",
+    "city_ascii": "Occoquan",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6825,
+    "lng": -77.2606,
+    "cafes": []
+  },
+  "Rushmere": {
+    "city": "Rushmere",
+    "city_ascii": "Rushmere",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0787,
+    "lng": -76.6778,
+    "cafes": []
+  },
+  "Arrington": {
+    "city": "Arrington",
+    "city_ascii": "Arrington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6744,
+    "lng": -78.8928,
+    "cafes": []
+  },
+  "Ridgeway": {
+    "city": "Ridgeway",
+    "city_ascii": "Ridgeway",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5781,
+    "lng": -79.8583,
+    "cafes": []
+  },
+  "Plum Creek": {
+    "city": "Plum Creek",
+    "city_ascii": "Plum Creek",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1267,
+    "lng": -80.5048,
+    "cafes": []
+  },
+  "Craigsville": {
+    "city": "Craigsville",
+    "city_ascii": "Craigsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0838,
+    "lng": -79.3853,
+    "cafes": []
+  },
+  "St. Paul": {
+    "city": "St. Paul",
+    "city_ascii": "St. Paul",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9068,
+    "lng": -82.3163,
+    "cafes": []
+  },
+  "Elliston": {
+    "city": "Elliston",
+    "city_ascii": "Elliston",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2164,
+    "lng": -80.2245,
+    "cafes": []
+  },
+  "Cluster Springs": {
+    "city": "Cluster Springs",
+    "city_ascii": "Cluster Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6128,
+    "lng": -78.9221,
+    "cafes": []
+  },
+  "Riner": {
+    "city": "Riner",
+    "city_ascii": "Riner",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0676,
+    "lng": -80.4405,
+    "cafes": []
+  },
+  "Belmont Estates": {
+    "city": "Belmont Estates",
+    "city_ascii": "Belmont Estates",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4464,
+    "lng": -78.9228,
+    "cafes": []
+  },
+  "Atkins": {
+    "city": "Atkins",
+    "city_ascii": "Atkins",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8659,
+    "lng": -81.4045,
+    "cafes": []
+  },
+  "Bassett": {
+    "city": "Bassett",
+    "city_ascii": "Bassett",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7615,
+    "lng": -79.9866,
+    "cafes": []
+  },
+  "Passapatanzy": {
+    "city": "Passapatanzy",
+    "city_ascii": "Passapatanzy",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2942,
+    "lng": -77.3266,
+    "cafes": []
+  },
+  "Blairs": {
+    "city": "Blairs",
+    "city_ascii": "Blairs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6958,
+    "lng": -79.3774,
+    "cafes": []
+  },
+  "Adwolf": {
+    "city": "Adwolf",
+    "city_ascii": "Adwolf",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7942,
+    "lng": -81.5937,
+    "cafes": []
+  },
+  "Accomac": {
+    "city": "Accomac",
+    "city_ascii": "Accomac",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7196,
+    "lng": -75.6673,
+    "cafes": []
+  },
+  "Boyce": {
+    "city": "Boyce",
+    "city_ascii": "Boyce",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0933,
+    "lng": -78.0601,
+    "cafes": []
+  },
+  "Springville": {
+    "city": "Springville",
+    "city_ascii": "Springville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.194,
+    "lng": -81.3999,
+    "cafes": []
+  },
+  "Disputanta": {
+    "city": "Disputanta",
+    "city_ascii": "Disputanta",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1236,
+    "lng": -77.2249,
+    "cafes": []
+  },
+  "Belview": {
+    "city": "Belview",
+    "city_ascii": "Belview",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1688,
+    "lng": -80.511,
+    "cafes": []
+  },
+  "New Hope": {
+    "city": "New Hope",
+    "city_ascii": "New Hope",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1954,
+    "lng": -78.9044,
+    "cafes": []
+  },
+  "Prices Fork": {
+    "city": "Prices Fork",
+    "city_ascii": "Prices Fork",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.207,
+    "lng": -80.4852,
+    "cafes": []
+  },
+  "Chester Gap": {
+    "city": "Chester Gap",
+    "city_ascii": "Chester Gap",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8534,
+    "lng": -78.1325,
+    "cafes": []
+  },
+  "Jarratt": {
+    "city": "Jarratt",
+    "city_ascii": "Jarratt",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.816,
+    "lng": -77.4689,
+    "cafes": []
+  },
+  "New Kent": {
+    "city": "New Kent",
+    "city_ascii": "New Kent",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5095,
+    "lng": -76.9863,
+    "cafes": []
+  },
+  "Glenvar": {
+    "city": "Glenvar",
+    "city_ascii": "Glenvar",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.276,
+    "lng": -80.1257,
+    "cafes": []
+  },
+  "Deltaville": {
+    "city": "Deltaville",
+    "city_ascii": "Deltaville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5525,
+    "lng": -76.3331,
+    "cafes": []
+  },
+  "Blue Ridge Shores": {
+    "city": "Blue Ridge Shores",
+    "city_ascii": "Blue Ridge Shores",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1091,
+    "lng": -78.0236,
+    "cafes": []
+  },
+  "Laurel Park": {
+    "city": "Laurel Park",
+    "city_ascii": "Laurel Park",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6871,
+    "lng": -79.7872,
+    "cafes": []
+  },
+  "Henry Fork": {
+    "city": "Henry Fork",
+    "city_ascii": "Henry Fork",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9679,
+    "lng": -79.871,
+    "cafes": []
+  },
+  "Pound": {
+    "city": "Pound",
+    "city_ascii": "Pound",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.126,
+    "lng": -82.6071,
+    "cafes": []
+  },
+  "Clover": {
+    "city": "Clover",
+    "city_ascii": "Clover",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8389,
+    "lng": -78.7284,
+    "cafes": []
+  },
+  "Remington": {
+    "city": "Remington",
+    "city_ascii": "Remington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.5346,
+    "lng": -77.8083,
+    "cafes": []
+  },
+  "Fieldale": {
+    "city": "Fieldale",
+    "city_ascii": "Fieldale",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7009,
+    "lng": -79.9424,
+    "cafes": []
+  },
+  "Gratton": {
+    "city": "Gratton",
+    "city_ascii": "Gratton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1351,
+    "lng": -81.4212,
+    "cafes": []
+  },
+  "Middleburg": {
+    "city": "Middleburg",
+    "city_ascii": "Middleburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9715,
+    "lng": -77.7429,
+    "cafes": []
+  },
+  "East Stone Gap": {
+    "city": "East Stone Gap",
+    "city_ascii": "East Stone Gap",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8657,
+    "lng": -82.7435,
+    "cafes": []
+  },
+  "Pastoria": {
+    "city": "Pastoria",
+    "city_ascii": "Pastoria",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7446,
+    "lng": -75.6352,
+    "cafes": []
+  },
+  "Opal": {
+    "city": "Opal",
+    "city_ascii": "Opal",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6201,
+    "lng": -77.8049,
+    "cafes": []
+  },
+  "Shenandoah Shores": {
+    "city": "Shenandoah Shores",
+    "city_ascii": "Shenandoah Shores",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9621,
+    "lng": -78.1414,
+    "cafes": []
+  },
+  "Parksley": {
+    "city": "Parksley",
+    "city_ascii": "Parksley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7863,
+    "lng": -75.6539,
+    "cafes": []
+  },
+  "Grundy": {
+    "city": "Grundy",
+    "city_ascii": "Grundy",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2754,
+    "lng": -82.0988,
+    "cafes": []
+  },
+  "Rich Creek": {
+    "city": "Rich Creek",
+    "city_ascii": "Rich Creek",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3831,
+    "lng": -80.8203,
+    "cafes": []
+  },
+  "Fort Chiswell": {
+    "city": "Fort Chiswell",
+    "city_ascii": "Fort Chiswell",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9444,
+    "lng": -80.9577,
+    "cafes": []
+  },
+  "Damascus": {
+    "city": "Damascus",
+    "city_ascii": "Damascus",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6326,
+    "lng": -81.7891,
+    "cafes": []
+  },
+  "Camptown": {
+    "city": "Camptown",
+    "city_ascii": "Camptown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6833,
+    "lng": -76.8965,
+    "cafes": []
+  },
+  "Boissevain": {
+    "city": "Boissevain",
+    "city_ascii": "Boissevain",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2809,
+    "lng": -81.3802,
+    "cafes": []
+  },
+  "Barboursville": {
+    "city": "Barboursville",
+    "city_ascii": "Barboursville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1704,
+    "lng": -78.2831,
+    "cafes": []
+  },
+  "Ivy": {
+    "city": "Ivy",
+    "city_ascii": "Ivy",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0611,
+    "lng": -78.5987,
+    "cafes": []
+  },
+  "Motley": {
+    "city": "Motley",
+    "city_ascii": "Motley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0657,
+    "lng": -79.3474,
+    "cafes": []
+  },
+  "Keysville": {
+    "city": "Keysville",
+    "city_ascii": "Keysville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.039,
+    "lng": -78.4804,
+    "cafes": []
+  },
+  "Baywood": {
+    "city": "Baywood",
+    "city_ascii": "Baywood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6172,
+    "lng": -81.0094,
+    "cafes": []
+  },
+  "Ivanhoe": {
+    "city": "Ivanhoe",
+    "city_ascii": "Ivanhoe",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8428,
+    "lng": -80.9683,
+    "cafes": []
+  },
+  "Nassawadox": {
+    "city": "Nassawadox",
+    "city_ascii": "Nassawadox",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4762,
+    "lng": -75.8591,
+    "cafes": []
+  },
+  "Powhatan": {
+    "city": "Powhatan",
+    "city_ascii": "Powhatan",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5427,
+    "lng": -77.9267,
+    "cafes": []
+  },
+  "Charlotte Court House": {
+    "city": "Charlotte Court House",
+    "city_ascii": "Charlotte Court House",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0563,
+    "lng": -78.6377,
+    "cafes": []
+  },
+  "Dahlgren Center": {
+    "city": "Dahlgren Center",
+    "city_ascii": "Dahlgren Center",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.34,
+    "lng": -77.0324,
+    "cafes": []
+  },
+  "Mount Sidney": {
+    "city": "Mount Sidney",
+    "city_ascii": "Mount Sidney",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2586,
+    "lng": -78.9654,
+    "cafes": []
+  },
+  "Riverview": {
+    "city": "Riverview",
+    "city_ascii": "Riverview",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9326,
+    "lng": -82.4846,
+    "cafes": []
+  },
+  "Villa Heights": {
+    "city": "Villa Heights",
+    "city_ascii": "Villa Heights",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6981,
+    "lng": -79.8994,
+    "cafes": []
+  },
+  "Fincastle": {
+    "city": "Fincastle",
+    "city_ascii": "Fincastle",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5006,
+    "lng": -79.8749,
+    "cafes": []
+  },
+  "Round Hill": {
+    "city": "Round Hill",
+    "city_ascii": "Round Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.1319,
+    "lng": -77.7681,
+    "cafes": []
+  },
+  "Onley": {
+    "city": "Onley",
+    "city_ascii": "Onley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6915,
+    "lng": -75.718,
+    "cafes": []
+  },
+  "Skyland Estates": {
+    "city": "Skyland Estates",
+    "city_ascii": "Skyland Estates",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9329,
+    "lng": -78.085,
+    "cafes": []
+  },
+  "Hamilton": {
+    "city": "Hamilton",
+    "city_ascii": "Hamilton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.1349,
+    "lng": -77.6642,
+    "cafes": []
+  },
+  "Kincora": {
+    "city": "Kincora",
+    "city_ascii": "Kincora",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0383,
+    "lng": -77.4357,
+    "cafes": []
+  },
+  "Mineral": {
+    "city": "Mineral",
+    "city_ascii": "Mineral",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0068,
+    "lng": -77.9061,
+    "cafes": []
+  },
+  "Sugar Grove": {
+    "city": "Sugar Grove",
+    "city_ascii": "Sugar Grove",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7689,
+    "lng": -81.4075,
+    "cafes": []
+  },
+  "Sedley": {
+    "city": "Sedley",
+    "city_ascii": "Sedley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7753,
+    "lng": -76.9862,
+    "cafes": []
+  },
+  "Dante": {
+    "city": "Dante",
+    "city_ascii": "Dante",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9792,
+    "lng": -82.296,
+    "cafes": []
+  },
+  "Saluda": {
+    "city": "Saluda",
+    "city_ascii": "Saluda",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6053,
+    "lng": -76.5938,
+    "cafes": []
+  },
+  "Quantico": {
+    "city": "Quantico",
+    "city_ascii": "Quantico",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.5224,
+    "lng": -77.2902,
+    "cafes": []
+  },
+  "Gwynn": {
+    "city": "Gwynn",
+    "city_ascii": "Gwynn",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4984,
+    "lng": -76.2883,
+    "cafes": []
+  },
+  "Gargatha": {
+    "city": "Gargatha",
+    "city_ascii": "Gargatha",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7905,
+    "lng": -75.582,
+    "cafes": []
+  },
+  "Max Meadows": {
+    "city": "Max Meadows",
+    "city_ascii": "Max Meadows",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9798,
+    "lng": -80.9678,
+    "cafes": []
+  },
+  "Shenandoah Retreat": {
+    "city": "Shenandoah Retreat",
+    "city_ascii": "Shenandoah Retreat",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.1373,
+    "lng": -77.8637,
+    "cafes": []
+  },
+  "McKenney": {
+    "city": "McKenney",
+    "city_ascii": "McKenney",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9853,
+    "lng": -77.7219,
+    "cafes": []
+  },
+  "Oak Level": {
+    "city": "Oak Level",
+    "city_ascii": "Oak Level",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7944,
+    "lng": -79.9391,
+    "cafes": []
+  },
+  "Port Republic": {
+    "city": "Port Republic",
+    "city_ascii": "Port Republic",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2894,
+    "lng": -78.8134,
+    "cafes": []
+  },
+  "Savageville": {
+    "city": "Savageville",
+    "city_ascii": "Savageville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6825,
+    "lng": -75.7592,
+    "cafes": []
+  },
+  "Dillwyn": {
+    "city": "Dillwyn",
+    "city_ascii": "Dillwyn",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5411,
+    "lng": -78.4613,
+    "cafes": []
+  },
+  "Cheriton": {
+    "city": "Cheriton",
+    "city_ascii": "Cheriton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2919,
+    "lng": -75.9678,
+    "cafes": []
+  },
+  "Dryden": {
+    "city": "Dryden",
+    "city_ascii": "Dryden",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7764,
+    "lng": -82.9433,
+    "cafes": []
+  },
+  "Allison Gap": {
+    "city": "Allison Gap",
+    "city_ascii": "Allison Gap",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8998,
+    "lng": -81.7869,
+    "cafes": []
+  },
+  "Hot Springs": {
+    "city": "Hot Springs",
+    "city_ascii": "Hot Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0013,
+    "lng": -79.8239,
+    "cafes": []
+  },
+  "The University of Virginia's College at Wise": {
+    "city": "The University of Virginia's College at Wise",
+    "city_ascii": "The University of Virginia's College at Wise",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9734,
+    "lng": -82.5573,
+    "cafes": []
+  },
+  "Haysi": {
+    "city": "Haysi",
+    "city_ascii": "Haysi",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2151,
+    "lng": -82.2931,
+    "cafes": []
+  },
+  "Unionville": {
+    "city": "Unionville",
+    "city_ascii": "Unionville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2599,
+    "lng": -77.9683,
+    "cafes": []
+  },
+  "Mount Crawford": {
+    "city": "Mount Crawford",
+    "city_ascii": "Mount Crawford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3601,
+    "lng": -78.9413,
+    "cafes": []
+  },
+  "La Crosse": {
+    "city": "La Crosse",
+    "city_ascii": "La Crosse",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7014,
+    "lng": -78.0943,
+    "cafes": []
+  },
+  "Keezletown": {
+    "city": "Keezletown",
+    "city_ascii": "Keezletown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4115,
+    "lng": -78.8004,
+    "cafes": []
+  },
+  "Lafayette": {
+    "city": "Lafayette",
+    "city_ascii": "Lafayette",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.233,
+    "lng": -80.2051,
+    "cafes": []
+  },
+  "Seven Mile Ford": {
+    "city": "Seven Mile Ford",
+    "city_ascii": "Seven Mile Ford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8139,
+    "lng": -81.6309,
+    "cafes": []
+  },
+  "Bland": {
+    "city": "Bland",
+    "city_ascii": "Bland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1,
+    "lng": -81.1161,
+    "cafes": []
+  },
+  "Mallow": {
+    "city": "Mallow",
+    "city_ascii": "Mallow",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7676,
+    "lng": -79.9702,
+    "cafes": []
+  },
+  "Floyd": {
+    "city": "Floyd",
+    "city_ascii": "Floyd",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9118,
+    "lng": -80.3184,
+    "cafes": []
+  },
+  "Irvington": {
+    "city": "Irvington",
+    "city_ascii": "Irvington",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6621,
+    "lng": -76.4205,
+    "cafes": []
+  },
+  "Gasburg": {
+    "city": "Gasburg",
+    "city_ascii": "Gasburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5588,
+    "lng": -77.8722,
+    "cafes": []
+  },
+  "Shipman": {
+    "city": "Shipman",
+    "city_ascii": "Shipman",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7272,
+    "lng": -78.8424,
+    "cafes": []
+  },
+  "Burkeville": {
+    "city": "Burkeville",
+    "city_ascii": "Burkeville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1879,
+    "lng": -78.2012,
+    "cafes": []
+  },
+  "Scottsville": {
+    "city": "Scottsville",
+    "city_ascii": "Scottsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8064,
+    "lng": -78.4919,
+    "cafes": []
+  },
+  "Boykins": {
+    "city": "Boykins",
+    "city_ascii": "Boykins",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5779,
+    "lng": -77.1989,
+    "cafes": []
+  },
+  "Horntown": {
+    "city": "Horntown",
+    "city_ascii": "Horntown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9655,
+    "lng": -75.456,
+    "cafes": []
+  },
+  "Fairfield": {
+    "city": "Fairfield",
+    "city_ascii": "Fairfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8827,
+    "lng": -79.2829,
+    "cafes": []
+  },
+  "Drakes Branch": {
+    "city": "Drakes Branch",
+    "city_ascii": "Drakes Branch",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9933,
+    "lng": -78.6009,
+    "cafes": []
+  },
+  "Stanardsville": {
+    "city": "Stanardsville",
+    "city_ascii": "Stanardsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2991,
+    "lng": -78.4368,
+    "cafes": []
+  },
+  "Sandy Level": {
+    "city": "Sandy Level",
+    "city_ascii": "Sandy Level",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5645,
+    "lng": -79.7276,
+    "cafes": []
+  },
+  "Wintergreen": {
+    "city": "Wintergreen",
+    "city_ascii": "Wintergreen",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9161,
+    "lng": -78.9382,
+    "cafes": []
+  },
+  "Urbanna": {
+    "city": "Urbanna",
+    "city_ascii": "Urbanna",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6395,
+    "lng": -76.5747,
+    "cafes": []
+  },
+  "Bloxom": {
+    "city": "Bloxom",
+    "city_ascii": "Bloxom",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8292,
+    "lng": -75.6214,
+    "cafes": []
+  },
+  "Draper": {
+    "city": "Draper",
+    "city_ascii": "Draper",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0012,
+    "lng": -80.7372,
+    "cafes": []
+  },
+  "Troutville": {
+    "city": "Troutville",
+    "city_ascii": "Troutville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4168,
+    "lng": -79.8779,
+    "cafes": []
+  },
+  "Chase Crossing": {
+    "city": "Chase Crossing",
+    "city_ascii": "Chase Crossing",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7604,
+    "lng": -75.6658,
+    "cafes": []
+  },
+  "Melfa": {
+    "city": "Melfa",
+    "city_ascii": "Melfa",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6489,
+    "lng": -75.7407,
+    "cafes": []
+  },
+  "Ewing": {
+    "city": "Ewing",
+    "city_ascii": "Ewing",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6381,
+    "lng": -83.4291,
+    "cafes": []
+  },
+  "Montross": {
+    "city": "Montross",
+    "city_ascii": "Montross",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0941,
+    "lng": -76.8229,
+    "cafes": []
+  },
+  "Atlantic": {
+    "city": "Atlantic",
+    "city_ascii": "Atlantic",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9023,
+    "lng": -75.5058,
+    "cafes": []
+  },
+  "Stewartsville": {
+    "city": "Stewartsville",
+    "city_ascii": "Stewartsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.265,
+    "lng": -79.7899,
+    "cafes": []
+  },
+  "Lovingston": {
+    "city": "Lovingston",
+    "city_ascii": "Lovingston",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7605,
+    "lng": -78.8688,
+    "cafes": []
+  },
+  "Big Stone Gap East": {
+    "city": "Big Stone Gap East",
+    "city_ascii": "Big Stone Gap East",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8785,
+    "lng": -82.7444,
+    "cafes": []
+  },
+  "Bastian": {
+    "city": "Bastian",
+    "city_ascii": "Bastian",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1535,
+    "lng": -81.1525,
+    "cafes": []
+  },
+  "Deerfield": {
+    "city": "Deerfield",
+    "city_ascii": "Deerfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1954,
+    "lng": -79.4105,
+    "cafes": []
+  },
+  "Parrott": {
+    "city": "Parrott",
+    "city_ascii": "Parrott",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2168,
+    "lng": -80.6241,
+    "cafes": []
+  },
+  "Esmont": {
+    "city": "Esmont",
+    "city_ascii": "Esmont",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8284,
+    "lng": -78.5959,
+    "cafes": []
+  },
+  "Iron Gate": {
+    "city": "Iron Gate",
+    "city_ascii": "Iron Gate",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7985,
+    "lng": -79.7904,
+    "cafes": []
+  },
+  "Dinwiddie": {
+    "city": "Dinwiddie",
+    "city_ascii": "Dinwiddie",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.085,
+    "lng": -77.5865,
+    "cafes": []
+  },
+  "North Garden": {
+    "city": "North Garden",
+    "city_ascii": "North Garden",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9612,
+    "lng": -78.6334,
+    "cafes": []
+  },
+  "Mappsville": {
+    "city": "Mappsville",
+    "city_ascii": "Mappsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8435,
+    "lng": -75.5686,
+    "cafes": []
+  },
+  "Hiltons": {
+    "city": "Hiltons",
+    "city_ascii": "Hiltons",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6548,
+    "lng": -82.4678,
+    "cafes": []
+  },
+  "Nickelsville": {
+    "city": "Nickelsville",
+    "city_ascii": "Nickelsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7517,
+    "lng": -82.416,
+    "cafes": []
+  },
+  "Low Moor": {
+    "city": "Low Moor",
+    "city_ascii": "Low Moor",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7952,
+    "lng": -79.8695,
+    "cafes": []
+  },
+  "Phenix": {
+    "city": "Phenix",
+    "city_ascii": "Phenix",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0811,
+    "lng": -78.7485,
+    "cafes": []
+  },
+  "Keswick": {
+    "city": "Keswick",
+    "city_ascii": "Keswick",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0127,
+    "lng": -78.3613,
+    "cafes": []
+  },
+  "New Church": {
+    "city": "New Church",
+    "city_ascii": "New Church",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9826,
+    "lng": -75.5291,
+    "cafes": []
+  },
+  "Montvale": {
+    "city": "Montvale",
+    "city_ascii": "Montvale",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3865,
+    "lng": -79.7252,
+    "cafes": []
+  },
+  "New River": {
+    "city": "New River",
+    "city_ascii": "New River",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1408,
+    "lng": -80.593,
+    "cafes": []
+  },
+  "Conicville": {
+    "city": "Conicville",
+    "city_ascii": "Conicville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8296,
+    "lng": -78.69,
+    "cafes": []
+  },
+  "Toms Brook": {
+    "city": "Toms Brook",
+    "city_ascii": "Toms Brook",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9465,
+    "lng": -78.44,
+    "cafes": []
+  },
+  "Vansant": {
+    "city": "Vansant",
+    "city_ascii": "Vansant",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2359,
+    "lng": -82.0961,
+    "cafes": []
+  },
+  "Claremont": {
+    "city": "Claremont",
+    "city_ascii": "Claremont",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2273,
+    "lng": -76.9666,
+    "cafes": []
+  },
+  "Sperryville": {
+    "city": "Sperryville",
+    "city_ascii": "Sperryville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6562,
+    "lng": -78.2323,
+    "cafes": []
+  },
+  "Stony Creek": {
+    "city": "Stony Creek",
+    "city_ascii": "Stony Creek",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.948,
+    "lng": -77.4001,
+    "cafes": []
+  },
+  "White Stone": {
+    "city": "White Stone",
+    "city_ascii": "White Stone",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.644,
+    "lng": -76.3897,
+    "cafes": []
+  },
+  "Clinchco": {
+    "city": "Clinchco",
+    "city_ascii": "Clinchco",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1588,
+    "lng": -82.3562,
+    "cafes": []
+  },
+  "Brodnax": {
+    "city": "Brodnax",
+    "city_ascii": "Brodnax",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7033,
+    "lng": -78.0318,
+    "cafes": []
+  },
+  "Bowmans Crossing": {
+    "city": "Bowmans Crossing",
+    "city_ascii": "Bowmans Crossing",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8076,
+    "lng": -78.592,
+    "cafes": []
+  },
+  "Ripplemead": {
+    "city": "Ripplemead",
+    "city_ascii": "Ripplemead",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.339,
+    "lng": -80.6883,
+    "cafes": []
+  },
+  "Cleveland": {
+    "city": "Cleveland",
+    "city_ascii": "Cleveland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9434,
+    "lng": -82.1527,
+    "cafes": []
+  },
+  "Selma": {
+    "city": "Selma",
+    "city_ascii": "Selma",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8041,
+    "lng": -79.8495,
+    "cafes": []
+  },
+  "Metompkin": {
+    "city": "Metompkin",
+    "city_ascii": "Metompkin",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7671,
+    "lng": -75.6054,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3794,
+    "lng": -78.2586,
+    "cafes": []
+  },
+  "Willis Wharf": {
+    "city": "Willis Wharf",
+    "city_ascii": "Willis Wharf",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5176,
+    "lng": -75.8089,
+    "cafes": []
+  },
+  "Clifton": {
+    "city": "Clifton",
+    "city_ascii": "Clifton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7802,
+    "lng": -77.3866,
+    "cafes": []
+  },
+  "Hilltown": {
+    "city": "Hilltown",
+    "city_ascii": "Hilltown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.729,
+    "lng": -80.9822,
+    "cafes": []
+  },
+  "Painter": {
+    "city": "Painter",
+    "city_ascii": "Painter",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5852,
+    "lng": -75.7837,
+    "cafes": []
+  },
+  "Moneta": {
+    "city": "Moneta",
+    "city_ascii": "Moneta",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1886,
+    "lng": -79.6133,
+    "cafes": []
+  },
+  "Newsoms": {
+    "city": "Newsoms",
+    "city_ascii": "Newsoms",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6262,
+    "lng": -77.1248,
+    "cafes": []
+  },
+  "Keokee": {
+    "city": "Keokee",
+    "city_ascii": "Keokee",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8622,
+    "lng": -82.9161,
+    "cafes": []
+  },
+  "Nelsonia": {
+    "city": "Nelsonia",
+    "city_ascii": "Nelsonia",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8224,
+    "lng": -75.5896,
+    "cafes": []
+  },
+  "Cumberland": {
+    "city": "Cumberland",
+    "city_ascii": "Cumberland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4914,
+    "lng": -78.2577,
+    "cafes": []
+  },
+  "Wachapreague": {
+    "city": "Wachapreague",
+    "city_ascii": "Wachapreague",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6063,
+    "lng": -75.6897,
+    "cafes": []
+  },
+  "Fries": {
+    "city": "Fries",
+    "city_ascii": "Fries",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.714,
+    "lng": -80.9752,
+    "cafes": []
+  },
+  "Goshen": {
+    "city": "Goshen",
+    "city_ascii": "Goshen",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9901,
+    "lng": -79.5067,
+    "cafes": []
+  },
+  "Eastville": {
+    "city": "Eastville",
+    "city_ascii": "Eastville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3511,
+    "lng": -75.9417,
+    "cafes": []
+  },
+  "Carrsville": {
+    "city": "Carrsville",
+    "city_ascii": "Carrsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7088,
+    "lng": -76.837,
+    "cafes": []
+  },
+  "Dungannon": {
+    "city": "Dungannon",
+    "city_ascii": "Dungannon",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8285,
+    "lng": -82.4681,
+    "cafes": []
+  },
+  "Callaghan": {
+    "city": "Callaghan",
+    "city_ascii": "Callaghan",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8112,
+    "lng": -80.0871,
+    "cafes": []
+  },
+  "Alonzaville": {
+    "city": "Alonzaville",
+    "city_ascii": "Alonzaville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9287,
+    "lng": -78.5464,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8292,
+    "lng": -78.4653,
+    "cafes": []
+  },
+  "Keller": {
+    "city": "Keller",
+    "city_ascii": "Keller",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6211,
+    "lng": -75.7644,
+    "cafes": []
+  },
+  "Brucetown": {
+    "city": "Brucetown",
+    "city_ascii": "Brucetown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.252,
+    "lng": -78.0605,
+    "cafes": []
+  },
+  "Quinby": {
+    "city": "Quinby",
+    "city_ascii": "Quinby",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5533,
+    "lng": -75.7368,
+    "cafes": []
+  },
+  "Columbia Furnace": {
+    "city": "Columbia Furnace",
+    "city_ascii": "Columbia Furnace",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8762,
+    "lng": -78.6256,
+    "cafes": []
+  },
+  "Temperanceville": {
+    "city": "Temperanceville",
+    "city_ascii": "Temperanceville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8991,
+    "lng": -75.5526,
+    "cafes": []
+  },
+  "Weems": {
+    "city": "Weems",
+    "city_ascii": "Weems",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6554,
+    "lng": -76.4497,
+    "cafes": []
+  },
+  "Rhoadesville": {
+    "city": "Rhoadesville",
+    "city_ascii": "Rhoadesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2735,
+    "lng": -77.9283,
+    "cafes": []
+  },
+  "Southampton Meadows": {
+    "city": "Southampton Meadows",
+    "city_ascii": "Southampton Meadows",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5916,
+    "lng": -76.9293,
+    "cafes": []
+  },
+  "Ivor": {
+    "city": "Ivor",
+    "city_ascii": "Ivor",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9052,
+    "lng": -76.8978,
+    "cafes": []
+  },
+  "Savage Town": {
+    "city": "Savage Town",
+    "city_ascii": "Savage Town",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.55,
+    "lng": -75.7983,
+    "cafes": []
+  },
+  "Buckingham Courthouse": {
+    "city": "Buckingham Courthouse",
+    "city_ascii": "Buckingham Courthouse",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5541,
+    "lng": -78.5514,
+    "cafes": []
+  },
+  "Boydton": {
+    "city": "Boydton",
+    "city_ascii": "Boydton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.666,
+    "lng": -78.3908,
+    "cafes": []
+  },
+  "Schuyler": {
+    "city": "Schuyler",
+    "city_ascii": "Schuyler",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7939,
+    "lng": -78.7002,
+    "cafes": []
+  },
+  "Alberta": {
+    "city": "Alberta",
+    "city_ascii": "Alberta",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8552,
+    "lng": -77.8937,
+    "cafes": []
+  },
+  "Sherando": {
+    "city": "Sherando",
+    "city_ascii": "Sherando",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9889,
+    "lng": -78.9442,
+    "cafes": []
+  },
+  "Flint Hill": {
+    "city": "Flint Hill",
+    "city_ascii": "Flint Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7666,
+    "lng": -78.1028,
+    "cafes": []
+  },
+  "Waterford": {
+    "city": "Waterford",
+    "city_ascii": "Waterford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.1859,
+    "lng": -77.6109,
+    "cafes": []
+  },
+  "Fancy Gap": {
+    "city": "Fancy Gap",
+    "city_ascii": "Fancy Gap",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6771,
+    "lng": -80.6997,
+    "cafes": []
+  },
+  "Afton": {
+    "city": "Afton",
+    "city_ascii": "Afton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0266,
+    "lng": -78.8357,
+    "cafes": []
+  },
+  "Modest Town": {
+    "city": "Modest Town",
+    "city_ascii": "Modest Town",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8169,
+    "lng": -75.5611,
+    "cafes": []
+  },
+  "McMullin": {
+    "city": "McMullin",
+    "city_ascii": "McMullin",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8179,
+    "lng": -81.5775,
+    "cafes": []
+  },
+  "Tangier": {
+    "city": "Tangier",
+    "city_ascii": "Tangier",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8235,
+    "lng": -75.9934,
+    "cafes": []
+  },
+  "Yogaville": {
+    "city": "Yogaville",
+    "city_ascii": "Yogaville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6688,
+    "lng": -78.6917,
+    "cafes": []
+  },
+  "Dendron": {
+    "city": "Dendron",
+    "city_ascii": "Dendron",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0364,
+    "lng": -76.9241,
+    "cafes": []
+  },
+  "Pounding Mill": {
+    "city": "Pounding Mill",
+    "city_ascii": "Pounding Mill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.079,
+    "lng": -81.7106,
+    "cafes": []
+  },
+  "Saxis": {
+    "city": "Saxis",
+    "city_ascii": "Saxis",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.926,
+    "lng": -75.7224,
+    "cafes": []
+  },
+  "Linville": {
+    "city": "Linville",
+    "city_ascii": "Linville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.52,
+    "lng": -78.8358,
+    "cafes": []
+  },
+  "Boones Mill": {
+    "city": "Boones Mill",
+    "city_ascii": "Boones Mill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1156,
+    "lng": -79.9514,
+    "cafes": []
+  },
+  "Breaks": {
+    "city": "Breaks",
+    "city_ascii": "Breaks",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3004,
+    "lng": -82.2758,
+    "cafes": []
+  },
+  "Pocahontas": {
+    "city": "Pocahontas",
+    "city_ascii": "Pocahontas",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.307,
+    "lng": -81.3436,
+    "cafes": []
+  },
+  "Stickleyville": {
+    "city": "Stickleyville",
+    "city_ascii": "Stickleyville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7091,
+    "lng": -82.9116,
+    "cafes": []
+  },
+  "Midland": {
+    "city": "Midland",
+    "city_ascii": "Midland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.5984,
+    "lng": -77.7213,
+    "cafes": []
+  },
+  "Fairview Beach": {
+    "city": "Fairview Beach",
+    "city_ascii": "Fairview Beach",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3282,
+    "lng": -77.2424,
+    "cafes": []
+  },
+  "Cats Bridge": {
+    "city": "Cats Bridge",
+    "city_ascii": "Cats Bridge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5491,
+    "lng": -75.7797,
+    "cafes": []
+  },
+  "Baskerville": {
+    "city": "Baskerville",
+    "city_ascii": "Baskerville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6844,
+    "lng": -78.2732,
+    "cafes": []
+  },
+  "Monterey": {
+    "city": "Monterey",
+    "city_ascii": "Monterey",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4116,
+    "lng": -79.5809,
+    "cafes": []
+  },
+  "Troutdale": {
+    "city": "Troutdale",
+    "city_ascii": "Troutdale",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7022,
+    "lng": -81.4413,
+    "cafes": []
+  },
+  "Bobtown": {
+    "city": "Bobtown",
+    "city_ascii": "Bobtown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6493,
+    "lng": -75.7998,
+    "cafes": []
+  },
+  "Mount Clifton": {
+    "city": "Mount Clifton",
+    "city_ascii": "Mount Clifton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7617,
+    "lng": -78.7166,
+    "cafes": []
+  },
+  "Belspring": {
+    "city": "Belspring",
+    "city_ascii": "Belspring",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1938,
+    "lng": -80.6097,
+    "cafes": []
+  },
+  "Surry": {
+    "city": "Surry",
+    "city_ascii": "Surry",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1372,
+    "lng": -76.8333,
+    "cafes": []
+  },
+  "Pungoteague": {
+    "city": "Pungoteague",
+    "city_ascii": "Pungoteague",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.629,
+    "lng": -75.8171,
+    "cafes": []
+  },
+  "Free Union": {
+    "city": "Free Union",
+    "city_ascii": "Free Union",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1539,
+    "lng": -78.5594,
+    "cafes": []
+  },
+  "Greenbush": {
+    "city": "Greenbush",
+    "city_ascii": "Greenbush",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7398,
+    "lng": -75.6797,
+    "cafes": []
+  },
+  "Yorktown": {
+    "city": "Yorktown",
+    "city_ascii": "Yorktown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2352,
+    "lng": -76.5146,
+    "cafes": []
+  },
+  "Locust Grove": {
+    "city": "Locust Grove",
+    "city_ascii": "Locust Grove",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9705,
+    "lng": -78.4031,
+    "cafes": []
+  },
+  "Aldie": {
+    "city": "Aldie",
+    "city_ascii": "Aldie",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9761,
+    "lng": -77.645,
+    "cafes": []
+  },
+  "Big Rock": {
+    "city": "Big Rock",
+    "city_ascii": "Big Rock",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3536,
+    "lng": -82.1887,
+    "cafes": []
+  },
+  "Middlebrook": {
+    "city": "Middlebrook",
+    "city_ascii": "Middlebrook",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0552,
+    "lng": -79.2182,
+    "cafes": []
+  },
+  "Millboro": {
+    "city": "Millboro",
+    "city_ascii": "Millboro",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9785,
+    "lng": -79.6022,
+    "cafes": []
+  },
+  "Hallwood": {
+    "city": "Hallwood",
+    "city_ascii": "Hallwood",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8774,
+    "lng": -75.5897,
+    "cafes": []
+  },
+  "Boston": {
+    "city": "Boston",
+    "city_ascii": "Boston",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6039,
+    "lng": -75.8437,
+    "cafes": []
+  },
+  "Branchville": {
+    "city": "Branchville",
+    "city_ascii": "Branchville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5698,
+    "lng": -77.2501,
+    "cafes": []
+  },
+  "Stonega": {
+    "city": "Stonega",
+    "city_ascii": "Stonega",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9522,
+    "lng": -82.7899,
+    "cafes": []
+  },
+  "Capron": {
+    "city": "Capron",
+    "city_ascii": "Capron",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7093,
+    "lng": -77.2013,
+    "cafes": []
+  },
+  "King William": {
+    "city": "King William",
+    "city_ascii": "King William",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6882,
+    "lng": -77.0212,
+    "cafes": []
+  },
+  "Hillsboro": {
+    "city": "Hillsboro",
+    "city_ascii": "Hillsboro",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.1987,
+    "lng": -77.7239,
+    "cafes": []
+  },
+  "Quicksburg": {
+    "city": "Quicksburg",
+    "city_ascii": "Quicksburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6932,
+    "lng": -78.6789,
+    "cafes": []
+  },
+  "Singers Glen": {
+    "city": "Singers Glen",
+    "city_ascii": "Singers Glen",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.55,
+    "lng": -78.9143,
+    "cafes": []
+  },
+  "Tacoma": {
+    "city": "Tacoma",
+    "city_ascii": "Tacoma",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9356,
+    "lng": -82.5323,
+    "cafes": []
+  },
+  "Deep Creek": {
+    "city": "Deep Creek",
+    "city_ascii": "Deep Creek",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.763,
+    "lng": -75.7552,
+    "cafes": []
+  },
+  "Catlett": {
+    "city": "Catlett",
+    "city_ascii": "Catlett",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.654,
+    "lng": -77.637,
+    "cafes": []
+  },
+  "Virgilina": {
+    "city": "Virgilina",
+    "city_ascii": "Virgilina",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5463,
+    "lng": -78.7755,
+    "cafes": []
+  },
+  "Abbs Valley": {
+    "city": "Abbs Valley",
+    "city_ascii": "Abbs Valley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2395,
+    "lng": -81.4616,
+    "cafes": []
+  },
+  "Mendota": {
+    "city": "Mendota",
+    "city_ascii": "Mendota",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7102,
+    "lng": -82.3048,
+    "cafes": []
+  },
+  "New Castle": {
+    "city": "New Castle",
+    "city_ascii": "New Castle",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5013,
+    "lng": -80.1119,
+    "cafes": []
+  },
+  "Snowville": {
+    "city": "Snowville",
+    "city_ascii": "Snowville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.026,
+    "lng": -80.5739,
+    "cafes": []
+  },
+  "Eagle Rock": {
+    "city": "Eagle Rock",
+    "city_ascii": "Eagle Rock",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6423,
+    "lng": -79.7919,
+    "cafes": []
+  },
+  "Pamplin City": {
+    "city": "Pamplin City",
+    "city_ascii": "Pamplin City",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2642,
+    "lng": -78.682,
+    "cafes": []
+  },
+  "The Plains": {
+    "city": "The Plains",
+    "city_ascii": "The Plains",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.8621,
+    "lng": -77.7743,
+    "cafes": []
+  },
+  "Sussex": {
+    "city": "Sussex",
+    "city_ascii": "Sussex",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9173,
+    "lng": -77.2719,
+    "cafes": []
+  },
+  "Big Island": {
+    "city": "Big Island",
+    "city_ascii": "Big Island",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5351,
+    "lng": -79.3615,
+    "cafes": []
+  },
+  "Meadows of Dan": {
+    "city": "Meadows of Dan",
+    "city_ascii": "Meadows of Dan",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7386,
+    "lng": -80.3973,
+    "cafes": []
+  },
+  "Heathsville": {
+    "city": "Heathsville",
+    "city_ascii": "Heathsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.92,
+    "lng": -76.4785,
+    "cafes": []
+  },
+  "Stevens Creek": {
+    "city": "Stevens Creek",
+    "city_ascii": "Stevens Creek",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7314,
+    "lng": -80.9943,
+    "cafes": []
+  },
+  "Southside Chesconessex": {
+    "city": "Southside Chesconessex",
+    "city_ascii": "Southside Chesconessex",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7439,
+    "lng": -75.7786,
+    "cafes": []
+  },
+  "Locust Mount": {
+    "city": "Locust Mount",
+    "city_ascii": "Locust Mount",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6124,
+    "lng": -75.7018,
+    "cafes": []
+  },
+  "Makemie Park": {
+    "city": "Makemie Park",
+    "city_ascii": "Makemie Park",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9106,
+    "lng": -75.5845,
+    "cafes": []
+  },
+  "Eggleston": {
+    "city": "Eggleston",
+    "city_ascii": "Eggleston",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2871,
+    "lng": -80.6227,
+    "cafes": []
+  },
+  "Falls Mills": {
+    "city": "Falls Mills",
+    "city_ascii": "Falls Mills",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2773,
+    "lng": -81.3067,
+    "cafes": []
+  },
+  "Nottoway Court House": {
+    "city": "Nottoway Court House",
+    "city_ascii": "Nottoway Court House",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1271,
+    "lng": -78.0734,
+    "cafes": []
+  },
+  "Union Level": {
+    "city": "Union Level",
+    "city_ascii": "Union Level",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7071,
+    "lng": -78.2319,
+    "cafes": []
+  },
+  "Port Royal": {
+    "city": "Port Royal",
+    "city_ascii": "Port Royal",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.1657,
+    "lng": -77.1989,
+    "cafes": []
+  },
+  "Scotland": {
+    "city": "Scotland",
+    "city_ascii": "Scotland",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1812,
+    "lng": -76.7966,
+    "cafes": []
+  },
+  "Brandy Station": {
+    "city": "Brandy Station",
+    "city_ascii": "Brandy Station",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.4977,
+    "lng": -77.8899,
+    "cafes": []
+  },
+  "Harborton": {
+    "city": "Harborton",
+    "city_ascii": "Harborton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6596,
+    "lng": -75.8332,
+    "cafes": []
+  },
+  "Lee Mont": {
+    "city": "Lee Mont",
+    "city_ascii": "Lee Mont",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7799,
+    "lng": -75.6802,
+    "cafes": []
+  },
+  "Osaka": {
+    "city": "Osaka",
+    "city_ascii": "Osaka",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9514,
+    "lng": -82.8144,
+    "cafes": []
+  },
+  "Templeton": {
+    "city": "Templeton",
+    "city_ascii": "Templeton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0811,
+    "lng": -77.3563,
+    "cafes": []
+  },
+  "St. Charles": {
+    "city": "St. Charles",
+    "city_ascii": "St. Charles",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8052,
+    "lng": -83.0575,
+    "cafes": []
+  },
+  "Hiwassee": {
+    "city": "Hiwassee",
+    "city_ascii": "Hiwassee",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9682,
+    "lng": -80.7045,
+    "cafes": []
+  },
+  "Cliftondale Park": {
+    "city": "Cliftondale Park",
+    "city_ascii": "Cliftondale Park",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.825,
+    "lng": -79.7981,
+    "cafes": []
+  },
+  "Augusta Springs": {
+    "city": "Augusta Springs",
+    "city_ascii": "Augusta Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.108,
+    "lng": -79.3352,
+    "cafes": []
+  },
+  "Bayside": {
+    "city": "Bayside",
+    "city_ascii": "Bayside",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7548,
+    "lng": -75.7128,
+    "cafes": []
+  },
+  "Ebony": {
+    "city": "Ebony",
+    "city_ascii": "Ebony",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.5759,
+    "lng": -77.9839,
+    "cafes": []
+  },
+  "Glen Wilton": {
+    "city": "Glen Wilton",
+    "city_ascii": "Glen Wilton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7555,
+    "lng": -79.8213,
+    "cafes": []
+  },
+  "Lebanon Church": {
+    "city": "Lebanon Church",
+    "city_ascii": "Lebanon Church",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0551,
+    "lng": -78.3681,
+    "cafes": []
+  },
+  "Scottsburg": {
+    "city": "Scottsburg",
+    "city_ascii": "Scottsburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7588,
+    "lng": -78.7914,
+    "cafes": []
+  },
+  "Glen Lyn": {
+    "city": "Glen Lyn",
+    "city_ascii": "Glen Lyn",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.3727,
+    "lng": -80.858,
+    "cafes": []
+  },
+  "Oak Hall": {
+    "city": "Oak Hall",
+    "city_ascii": "Oak Hall",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9307,
+    "lng": -75.547,
+    "cafes": []
+  },
+  "Tasley": {
+    "city": "Tasley",
+    "city_ascii": "Tasley",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7125,
+    "lng": -75.697,
+    "cafes": []
+  },
+  "Warfield": {
+    "city": "Warfield",
+    "city_ascii": "Warfield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.896,
+    "lng": -77.819,
+    "cafes": []
+  },
+  "Duffield": {
+    "city": "Duffield",
+    "city_ascii": "Duffield",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7196,
+    "lng": -82.796,
+    "cafes": []
+  },
+  "Churchville": {
+    "city": "Churchville",
+    "city_ascii": "Churchville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.2247,
+    "lng": -79.1619,
+    "cafes": []
+  },
+  "Greenbackville": {
+    "city": "Greenbackville",
+    "city_ascii": "Greenbackville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0105,
+    "lng": -75.3869,
+    "cafes": []
+  },
+  "Clinchport": {
+    "city": "Clinchport",
+    "city_ascii": "Clinchport",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.6781,
+    "lng": -82.7451,
+    "cafes": []
+  },
+  "Calverton": {
+    "city": "Calverton",
+    "city_ascii": "Calverton",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.6355,
+    "lng": -77.6662,
+    "cafes": []
+  },
+  "Paris": {
+    "city": "Paris",
+    "city_ascii": "Paris",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0024,
+    "lng": -77.952,
+    "cafes": []
+  },
+  "Mechanicsburg": {
+    "city": "Mechanicsburg",
+    "city_ascii": "Mechanicsburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.152,
+    "lng": -80.9411,
+    "cafes": []
+  },
+  "Nathalie": {
+    "city": "Nathalie",
+    "city_ascii": "Nathalie",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9381,
+    "lng": -78.9422,
+    "cafes": []
+  },
+  "Gore": {
+    "city": "Gore",
+    "city_ascii": "Gore",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.2627,
+    "lng": -78.3293,
+    "cafes": []
+  },
+  "Whitesville": {
+    "city": "Whitesville",
+    "city_ascii": "Whitesville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7816,
+    "lng": -75.6636,
+    "cafes": []
+  },
+  "Hanover": {
+    "city": "Hanover",
+    "city_ascii": "Hanover",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7668,
+    "lng": -77.3707,
+    "cafes": []
+  },
+  "Dunbar": {
+    "city": "Dunbar",
+    "city_ascii": "Dunbar",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9733,
+    "lng": -82.7459,
+    "cafes": []
+  },
+  "Allisonia": {
+    "city": "Allisonia",
+    "city_ascii": "Allisonia",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9342,
+    "lng": -80.7255,
+    "cafes": []
+  },
+  "Schooner Bay": {
+    "city": "Schooner Bay",
+    "city_ascii": "Schooner Bay",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.763,
+    "lng": -75.768,
+    "cafes": []
+  },
+  "Jewell Ridge": {
+    "city": "Jewell Ridge",
+    "city_ascii": "Jewell Ridge",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1857,
+    "lng": -81.7874,
+    "cafes": []
+  },
+  "Upperville": {
+    "city": "Upperville",
+    "city_ascii": "Upperville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9926,
+    "lng": -77.8821,
+    "cafes": []
+  },
+  "Rectortown": {
+    "city": "Rectortown",
+    "city_ascii": "Rectortown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9211,
+    "lng": -77.856,
+    "cafes": []
+  },
+  "Columbia": {
+    "city": "Columbia",
+    "city_ascii": "Columbia",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7538,
+    "lng": -78.1632,
+    "cafes": []
+  },
+  "McDowell": {
+    "city": "McDowell",
+    "city_ascii": "McDowell",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.3375,
+    "lng": -79.4994,
+    "cafes": []
+  },
+  "Charles City": {
+    "city": "Charles City",
+    "city_ascii": "Charles City",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.344,
+    "lng": -77.0687,
+    "cafes": []
+  },
+  "Mount Olive": {
+    "city": "Mount Olive",
+    "city_ascii": "Mount Olive",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9798,
+    "lng": -78.4533,
+    "cafes": []
+  },
+  "King and Queen Court House": {
+    "city": "King and Queen Court House",
+    "city_ascii": "King and Queen Court House",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.6683,
+    "lng": -76.8781,
+    "cafes": []
+  },
+  "Palmyra": {
+    "city": "Palmyra",
+    "city_ascii": "Palmyra",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.8652,
+    "lng": -78.2627,
+    "cafes": []
+  },
+  "Mappsburg": {
+    "city": "Mappsburg",
+    "city_ascii": "Mappsburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.576,
+    "lng": -75.7593,
+    "cafes": []
+  },
+  "Lancaster": {
+    "city": "Lancaster",
+    "city_ascii": "Lancaster",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.7675,
+    "lng": -76.4549,
+    "cafes": []
+  },
+  "Warm Springs": {
+    "city": "Warm Springs",
+    "city_ascii": "Warm Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.0463,
+    "lng": -79.7826,
+    "cafes": []
+  },
+  "Saumsville": {
+    "city": "Saumsville",
+    "city_ascii": "Saumsville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9357,
+    "lng": -78.4992,
+    "cafes": []
+  },
+  "Lunenburg": {
+    "city": "Lunenburg",
+    "city_ascii": "Lunenburg",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.9585,
+    "lng": -78.2683,
+    "cafes": []
+  },
+  "Doran": {
+    "city": "Doran",
+    "city_ascii": "Doran",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.0958,
+    "lng": -81.8321,
+    "cafes": []
+  },
+  "Sanford": {
+    "city": "Sanford",
+    "city_ascii": "Sanford",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.9299,
+    "lng": -75.662,
+    "cafes": []
+  },
+  "Franktown": {
+    "city": "Franktown",
+    "city_ascii": "Franktown",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.4777,
+    "lng": -75.8773,
+    "cafes": []
+  },
+  "Rocky Gap": {
+    "city": "Rocky Gap",
+    "city_ascii": "Rocky Gap",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.2413,
+    "lng": -81.1049,
+    "cafes": []
+  },
+  "Hudson Crossroads": {
+    "city": "Hudson Crossroads",
+    "city_ascii": "Hudson Crossroads",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7957,
+    "lng": -78.725,
+    "cafes": []
+  },
+  "Fishers Hill": {
+    "city": "Fishers Hill",
+    "city_ascii": "Fishers Hill",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.9872,
+    "lng": -78.402,
+    "cafes": []
+  },
+  "Thynedale": {
+    "city": "Thynedale",
+    "city_ascii": "Thynedale",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.8182,
+    "lng": -78.4774,
+    "cafes": []
+  },
+  "Orkney Springs": {
+    "city": "Orkney Springs",
+    "city_ascii": "Orkney Springs",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7954,
+    "lng": -78.8145,
+    "cafes": []
+  },
+  "Austinville": {
+    "city": "Austinville",
+    "city_ascii": "Austinville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.851,
+    "lng": -80.9142,
+    "cafes": []
+  },
+  "Amonate": {
+    "city": "Amonate",
+    "city_ascii": "Amonate",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.1907,
+    "lng": -81.6405,
+    "cafes": []
+  },
+  "Forestville": {
+    "city": "Forestville",
+    "city_ascii": "Forestville",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 38.7151,
+    "lng": -78.7222,
+    "cafes": []
+  },
+  "Clary": {
+    "city": "Clary",
+    "city_ascii": "Clary",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 39.0254,
+    "lng": -78.3647,
+    "cafes": []
+  }
+}

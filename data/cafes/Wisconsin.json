@@ -1,0 +1,7594 @@
+{
+  "Stevens Point": {
+    "city": "Stevens Point",
+    "city_ascii": "Stevens Point",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5241,
+    "lng": -89.5507,
+    "cafes": [
+      {
+        "name": "Starry Night Cat Café",
+        "address": "1141 Clark St, Stevens Point, WI 54481, USA",
+        "rating": 4.7,
+        "user_ratings_total": 44,
+        "website": "https://www.starrynightcatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=16723720510472692755",
+        "lat": 44.5223496,
+        "lng": -89.58287659999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Traci T",
+            "rating": 4,
+            "text": {
+              "text": "I brought my three kids to the Cat Café, and it was such a delightful experience for all of us. My kids have always wanted a cat, and this visit gave them the perfect opportunity to interact and play with cats in a safe and fun environment. They absolutely loved spending time in both the kitten room and the adult cat room, getting a chance to cuddle and play with the cats for 45 minutes.\n\nThe chai tea I had was wonderful—rich and perfectly spiced—and the cake pops were a delicious treat that everyone enjoyed. Although visiting on the weekend was a bit pricier, I learned that weekday rates are slightly lower, which is great for planning our next visit. Overall, it was a fantastic experience for both me and my kids, and we left with smiles all around!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Kit",
+            "rating": 5,
+            "text": {
+              "text": "there are cats and the food and service is excellent\none gripe that I know some people have is needing to pay to play with the cats, but I'm sure it keeps too many people from coming in and overwhelming the cats\nplus you can still watch the cats from the cafe area--as someone who's pretty allergic to cats, I appreciate this setup as I can still look at the adorable cats while not triggering my allergies\nthey also have a small discount for college students with ID, which is nice especially since it's fairly close to the University of Wisconsin Stevens Point campus--me and my friend walked over from campus on Sunday, and I'm sure we haven't been the only ones to walk over\n\nhere are some pictures of the cats I took through the window",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "jesse T",
+            "rating": 5,
+            "text": {
+              "text": "This was an amazing experience. My wife and I enjoyed a cappuccino and a tea before spending time with the cats. The barista was excellent. The environment was so relaxing and comfortable and the best was yet to come the cat experience was so wonderful absolute stress reliever!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ21wpjtcZahA33lQ3Oh87U_tBNDSdipG0HPgCtbIT-k_Ljk-EVMZmpUPtJk6eR0JCa1kzf8BfnP8h1aX7pZBhd3B2lzGPWHl8RmFYq1xkrjFQe_JyocBBEicrXPQ6DJXRDdgc96nk1MiShPtfkrOpi5JV2TZLdI7CJBNd0WmqRZNlr4cCmNUF66RY2SWxfoq1k3vlhFyfDXCK3ZXAz3Cov9zk_2JtYHH3397UHVlKV6rJyeSriGA02FzvT_zqMqeCQcsTFXGh3MGBJVaQ5k5ASDX3evQh7nowjAc-uvpKdu2DsRzZK7wcAdD19RshpP8dxl_2WJUssA6ctUtDcPutqau0X-o9seVCP-qQJB4W0hgjs28rKqz3li2pNQvneo0cgpZv3X_kFvCk1yPOpLHOiOrhcE0HWZ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Appleton": {
+    "city": "Appleton",
+    "city_ascii": "Appleton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.278,
+    "lng": -88.3892,
+    "cafes": [
+      {
+        "name": "The Pawffee Shop Cat Cafe",
+        "address": "1745 N Casaloma Dr, Appleton, WI 54913, USA",
+        "rating": 4.8,
+        "user_ratings_total": 403,
+        "website": "http://www.pawffeeshop.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=8392433020626345822",
+        "lat": 44.2779719,
+        "lng": -88.4739984,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Z Liu",
+            "rating": 5,
+            "text": {
+              "text": "I visited on a Wednesday, and the cats were so cute and lovable. I went into a room where they kept the cats that had behaved badly, and I saw a really sad-looking cat. I stayed in the room for a while to play with him, hoping it would make him feel a bit happier. I asked the staff lady, and she told me that the reason he was in the room was because he had been harassing the female cats when he was out earlier. I guess it’s fair that he’s in the room for some time. The coffee can take some more work but who went there for coffee anyway. Bring me the CATS! I love CAtS.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Tam Masters",
+            "rating": 4,
+            "text": {
+              "text": "Only one barista doing his best but there were a lot of customers. The cat play area was pretty clean. We didn't realize that the Cafe itself opened an hour before you could start petting cats. Wish it had been listed more clearly online",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Amber M",
+            "rating": 5,
+            "text": {
+              "text": "From the moment I stepped through the door, I was greeted with genuine warmth and hospitality. The worker up front, Richard, was so knowledgeable and kind and took his time to go through the menu items to help me and my partner find the perfect drink and snack for our visit.\n\nI was thoroughly impressed with the drinks and snacks we chose. The macarons were absolutely delicious and the coffee and tea we ordered were made quickly and had great flavor!\n\nA few aspects of the cafe that stood out to me were the cozy atmosphere as well as impeccable cleanliness and professionalism of the entire establishment. It's clear that the staff goes above and beyond to ensure that both the cats and the patrons have a comfortable and enjoyable experience.\n\nI can't recommend the Pawfee shop enough! Stop by, enjoy some food and drinks, pet some kitties, and maybe even find a new furry family member while you're at it!",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3GtP4SjnVWD67-3dC7YxTTnII0Bifte_MPpMBmER9Axzb1c5n0vqWpQGCwxLaYNRFMyrv443u6dUW86qLZ4APwaRqUO2yxc0r__XqeG8icfAcTWbi00pAaUBFVh2ZFeY7AUBMlfE8euc9rQmzcqLAPEd7Q3af07RDwa70oRGZXMLT9a9seAa2K5etNkt_dE9CsXtBG_45_Pdry60DFBg3URm3j63APxYTIcsRaI48zQyGzCbDZMXcxgp-3OejJaaqUe0yod9nF2Bw4pgUiV2PIATb1lZi7OjePYx5HKdA9CA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Whitewater": {
+    "city": "Whitewater",
+    "city_ascii": "Whitewater",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8372,
+    "lng": -88.7341,
+    "cafes": [
+      {
+        "name": "BaristaCats Café & Sanctuary for Wayward Cats",
+        "address": "135 W Center St, Whitewater, WI 53190, USA",
+        "rating": 4.9,
+        "user_ratings_total": 88,
+        "website": "https://baristacatscafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=13187815991917560678",
+        "lat": 42.8334262,
+        "lng": -88.73209159999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Bikes Boats Boots WI",
+            "rating": 5,
+            "text": {
+              "text": "Stumbled onto the cafe after hiking locally. As former kitty parents, we fell in love with all 20+ of these little doobers instantly! Great place with a great mission, and all of them were very friendly too.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Katona Alisa",
+            "rating": 5,
+            "text": {
+              "text": "The cats were adorable, some cuddly and some playful and goofy. The atmosphere was so nice and cozy and the hot cocoa that I had was top tier, the staff was also very nice and introduced us to the backgrounds on some of the cats that they had, we got to meet all kinds of cats and to pet most of them. Will for sure return and hopefully next time adopt one of the fluffballs.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Sarah Smith",
+            "rating": 5,
+            "text": {
+              "text": "Had a great time hanging out with the cats and kittens at the Café. Everyone was very nice and the atmosphere was very relaxing. Got to pet quite a few new friends and play with a few kittens as well. You can tell they're taking care of the cats very well and they have pride in the space. Definitely will be back again when I can!",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3buOcY1N8U2NRn-bNhfQsSLy0v1tafbB1WBa0cJN9klXiUe4YVvNrHzkvttYCpHaVp8QTnFjbFljGkTd5Xa2nazImNQEtVtfEI3plv2zxdwqSX66jd_pEDwIJlkt05dM_WwPIEDgiqU3bvzTlTNfhAmSykehNw6MyKe8DfhemhhFqqjDf1Hy0qpMVWQVbOlvPVrlb702DS67wv3tlW-8ozuL0F0vp7w8xnDB66ibv8ICWq8PbtEjCnNyHMIeVvxcf0YF7u6ph5fuKdL21WabDXuEguve8wNaT2xhftYFSUrUn_z5UfamjIcujlUW4f7S-seAHtjckpsMPyVlMQeWFPN2FVc6-PNfSCVPFQaWTHnjk5Jhg8Bo_kSf_jH8dsv6fjRuSkBan8eCSZ_wJVCQtfKpr57hXp8F7G&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Eau Claire": {
+    "city": "Eau Claire",
+    "city_ascii": "Eau Claire",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8197,
+    "lng": -91.4948,
+    "cafes": [
+      {
+        "name": "Mr. Kitty's Cat Café & Boutique",
+        "address": "502 S Farwell St, Eau Claire, WI 54701, USA",
+        "rating": 4.9,
+        "user_ratings_total": 56,
+        "website": "https://mrkittyscatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=6485913467193803768",
+        "lat": 44.809652899999996,
+        "lng": -91.4970608,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": false,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Melissa Roberts",
+            "rating": 5,
+            "text": {
+              "text": "This is a fantastic place! Cats are cats and will do what they want, but there were plenty out who wanted to play and get attention. Such a great setup for the cats- lots if toys, beds, shelves, and windows and they seem very happy. The boutique side was also wonderful- extremely reasonable prices (I think they could charge more for many of the items!) and a great selection for cat lovers. And remember that any $ you spend is for the humane society, so it's a good cause as well! Great addition to Eau Claire!!!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Bo",
+            "rating": 5,
+            "text": {
+              "text": "A cozy cat cafe with friendly staff. A beautiful and quiet place to spend the afternoon. They have a cat lounge and cafe, which are separated from each other. There were at least 7+ cats during my visit.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Lilly Adkins",
+            "rating": 5,
+            "text": {
+              "text": "Absolutely a lovely experience! The cats were very friendly and playful and it was wonderful to sit down and socialize with them. I definitely will be coming back. When you go there definitely dress lightly, they don't have the best ventilation and it gets hot and stuffy in there which didn't mix well with my sweater at all.",
+              "languageCode": "en"
+            },
+            "time": "11 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0BKgqug-n15T4904-v3rCUJhl-0GEpkhiqA8zUoILWv3uO216ZJvvMSsdeY4Sw3bjA9qreeCPAoBNnF3z9Nz0v0DpJ6AYOE4HHGnMMKB6cLsMUciffOn975pwxYzVpeQCV_bGjG65bCrURrPbiRxivVXXXZRUQffYLSPYfN7YJfrlrx8bJXNzMP7M0mjN6TrKAnfIw0j2zymriHjOGrVhYbbmaZnXJH45E1pi2sS300-wJafxwqVB2bDZ0ffijpc77omPi9yS5EhlkM6yT4yuOUq6cmYJsq6QVHXS4AHZDjw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Sun Prairie": {
+    "city": "Sun Prairie",
+    "city_ascii": "Sun Prairie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1825,
+    "lng": -89.2362,
+    "cafes": [
+      {
+        "name": "The Cat’s Brew",
+        "address": "2414 Montana Ave, Sun Prairie, WI 53590, USA",
+        "rating": 4.7,
+        "user_ratings_total": 56,
+        "website": "https://www.thecatsbrew.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=9720531845218539589",
+        "lat": 43.1866688,
+        "lng": -89.258669,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleRestroom": true
+        },
+        "reviews": [
+          {
+            "author": "Heather Li",
+            "rating": 5,
+            "text": {
+              "text": "The Cat's Brew is precisely what the greater Madison area needed. As a self declared cat lady, I'm surprised I didn't hear about this magical place until a few months after it opened. I was struck by how cute the interior of the coffee shop was when I walked in. The staff were super friendly and knowledgeable. The blueberry cream scone I had was very tasty and the folks were kind enough to warm it.\n\nNow. The best part. THE CATS! For $10, I was able to spend an hour with like 10 cats. Most were young, spritely felines. They were all SO sweet. The volunteer gave us the low down on each cat (name, temperament, story if known). We were given toys and treats to give the resident babies. It was truly a dream come true. I can't wait to go back. It is my new favorite coffee shop in the area. Best ever!\n\n⚠️WARNING ⚠️ You will likely want to adopt one or all the cats. Be advised and prepare accordingly.",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "William Ager",
+            "rating": 5,
+            "text": {
+              "text": "A great idea to visit with cats that are up for adoption while sipping on a delicious latte! Great atmosphere, great coffee, and lots of fun kitties to play with! Make sure you reserve ahead to be in the special room with the cats because they book up quickly, especially on the weekends! 5 Stars!!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Beth",
+            "rating": 5,
+            "text": {
+              "text": "Beautiful space, great coffee, and cute cats!\n\nThey have a full menu of espresso based drinks and smoothies, plus games and reading material in the main cafe area.  Large glass windows allow you to watch the cats even if you aren't in the cat lounge.\n\nThe room for the cats is massive with multiple seating areas, cat furniture, and toys.  I went on opening day in the afternoon, so the kitties were pretty well tuckered out from all of the attention.\n\nI look forward to returning once things slow down a bit, but it was great to see a lot of interest today in this new business- especially since it is the only cat cafe in the Madison area.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1fxGQnwEnnXAIMsyefdmOFD_nHNCKWdhpQDjJ2AmWV0ysG4W2h0KezQGn7qBi-yBRq-OyB-1zo64ZY260DFEibWbRf1JJfyfYhe5AzeCAMzKGKFsMoG5skXmmfM0pK9wLqtVg_OGRh_3qL8uOAGlZIIt3BNuYKjbRsoYHOo4SVtEUx3tNgc-lusDTLlYtoT02-3IZkdzs_Ki1alZT6S4yBO3XxSF25Z8jlDtrwDrHqp46W--tLmPiq4b-jP6VpDsH-Db-3j7bFDotXB7Ln3GsAM3-_co9_OW3k0YWPipa6KQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0822,
+    "lng": -89.393,
+    "cafes": [
+      {
+        "name": "Java Cat Coffee House",
+        "address": "4221 Lien Rd, Madison, WI 53704, USA",
+        "rating": 4.6,
+        "user_ratings_total": 824,
+        "website": "http://www.javacatmadison.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=7820640126486836952",
+        "lat": 43.120731299999996,
+        "lng": -89.3101442,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Jerry Murphy",
+            "rating": 5,
+            "text": {
+              "text": "Our first stop at JC since their move to Lein Rd. Food is every bit as good and service efficient and friendly. Sorry it took us so long. Had the stuffed grilled cheese sandwich and the BOLT sandwich. Both were very good. Nice light supper. Also had the excellent hot cocoa.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Cassandra Dixon",
+            "rating": 5,
+            "text": {
+              "text": "Java Cat is a wonderful place!  The coffee is great - always hot and fresh, with a big choice of milk and creamers, and the cold brew is excellent. They have a great selection of teas and other drinks, fresh bakery, a lunch and dinner menu that includes kids options  and delicious gelato. There is plenty of easy parking so it is easy to  pick up takeout or park to eat in.\nThe service is super friendly and quick and the space is wonderful.  There is lots of uncrowded seating and it’s a perfect place to read or get some work done on your own, or hold a work meeting or a gathering of friends.  The space is bright and cheerful, full of art and light, and unlike many restaurants the acoustics are very human- friendly.  Even during the busy times you can hear each other talk and also hear yourself think.\nThere’s a great children’s area with cushions and games right in the front dining space and the children of regular customers seem very much at home there.  There’s a ramp to the front entrance,  the space and bathrooms are accessible, and the staff are happy to shift tables and chairs around.\nThe outside is a real hidden treasure of a space  with outdoor seating areas, a great breeze, your choice or sun or shade, a peaceful vibe and a visiting family of sandhill cranes.\nIt is pet friendly with leashed dogs allowed in a portion of the space, and waste bags and water bowls  provided.\nI look forward to visiting Java Cat often! 🐈‍⬛☕️🐈‍⬛",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          },
+          {
+            "author": "Amanda M",
+            "rating": 5,
+            "text": {
+              "text": "A-1... Just possibly use gloves when preparing food otherwise definitely appears super clean  aaaaannnd the food was deeelish... the croissant sandwich is 💥💥too",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3uD7lmnSNMeZDpTdxjtdi00sEpOBCG59ZVzfGFaknubpOS171A1kczkcaROyCj1bld9Uw0B8iXYww-9HWA76PS0ClCjfQ_KHV6a1aGWR3GO_U_Dezj0VM64LIK_d8Pfy7SDdyQWJrr_EiB3fJD0AIuPwP_tuhYfvSRGZOSGMGtZup_giMGDnN_nmxRa57EpF6lMUjv5UzyyAL3pSXptAHrj1utPBVAa0_ssByt1wfZeIvBDA1l75xMQ4m0ms7yN66RBdN22_BQY8nnGLSU1PBSBfVH5mwUWFjms_z4FAD-T-rRAuPnGZ8o2K6YrWjFhtRbeuSwZggBor-nRnM-U71jIJYcQzORCzjg70KFpB4cH1qt5_YfzvdKUHMXMdc_czq2ZNF2YMrm4da6m6n1mJ30yITVJ8g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Ashland": {
+    "city": "Ashland",
+    "city_ascii": "Ashland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.5799,
+    "lng": -90.8713,
+    "cafes": [
+      {
+        "name": "Black Cat Coffeehouse",
+        "address": "211 Chapple Ave, Ashland, WI 54806, USA",
+        "rating": 4.7,
+        "user_ratings_total": 600,
+        "website": "http://blackcatashland.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=4403892633760865732",
+        "lat": 46.5877452,
+        "lng": -90.89053059999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Pete Rondello Sr",
+            "rating": 5,
+            "text": {
+              "text": "I just can’t stay away too long from the Black Cat 🐈‍⬛. It’s true. There’s a caring vibe that comes through from the dedicated staff that fills this charming old building with warmth and goodness. The sound of the frother with humming conversations; locally sourced coffee and fresh food ingredients, eclectic artwork from the creative community. Spaces to settle in both outdoors (in season) and in; sometimes live music. And, the Black Cat has this amazing antique display case on the counter, filled with delights from across the street at Ashland Baking Company. My car just naturally pulls onto the Black Cat’s street by itself. A part of life’s simple pleasures - do more of what makes you happy.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Who Dis",
+            "rating": 5,
+            "text": {
+              "text": "The coffee here is really good. I got the Myan mocha and it was fantastic. The coffee had a different body and didnt rely on sugar to make it taste good.\n\nThe quiche was excellent as well.\n\nDefinitely a nice place to stop at when up in Ashland.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Linda Magnuson",
+            "rating": 5,
+            "text": {
+              "text": "Love this place for a morning or afternoon stop, or both in the same day when I’m in Ashland! My almond milk maple hot latte was fabulous this morning, omelette and veggie hash. Black Cat Salad and Sandeich with my cold brew also fabulous this afternoon. I love getting my fill here! Yum!",
+              "languageCode": "en"
+            },
+            "time": "9 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3WqpC6BjXItxpY-2sQOtqbJb7Eue4xAXnieC4zTlRf-Pa1eQ9M_URpopS2Az08HBx53p4fqCYUg1LrO49Qgy497yXJE-g64HEib29k1hbPG8Q01c9Y_8lhJENB-nWIUi7INrKnNwZapNJ5JLFGcYyviM0Az9QOXA_0_Cw4uTBZcRt_8HpV5-6vhFQxEwbxsy5Q8wDUNcqszXp7zGuq3VgPKSHCzTRvy80vDlQfw8Ufo78k4RP7L-BA33JrxJ_cxbmNBhgnM3Yz5S3379TuZ_lmCNCYrbyc8ksfDejdctaQr0VCd_izond9XRzhuIUB1xBrKyAM3MmQu-AnAKRt55GH4LiJbJZmi6A_lM2s-RvGvlm0NGAdMY4xd4lUwX3lyq7Gu0uMYQ5drpNhWpTbrAzqXLr7wESG2zzk&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Hortonville": {
+    "city": "Hortonville",
+    "city_ascii": "Hortonville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3368,
+    "lng": -88.6361,
+    "cafes": [
+      {
+        "name": "Alley Cat Coffeehouse",
+        "address": "213 W Main St, Hortonville, WI 54944, USA",
+        "rating": 4.9,
+        "user_ratings_total": 151,
+        "website": "http://www.alleycatcoffeehousehortonville.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=7621616479684488201",
+        "lat": 44.335290099999995,
+        "lng": -88.63981629999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "jericho johnson",
+            "rating": 5,
+            "text": {
+              "text": "The horchata latte was phenomenal. The staff caters to your coffee wants and desires. They also have an awesome cat logo and are a local business! Let’s fight to keep places like this open. Small businesses like this are what make🗽 America 🇺🇸 so great! An overall wonderful and “tasty” experience coming here.",
+              "languageCode": "en"
+            },
+            "time": "9 months ago"
+          },
+          {
+            "author": "Amanda Cable",
+            "rating": 5,
+            "text": {
+              "text": "Always lovely service. The food, the drinks, the atmosphere, all top notch. If you read books and enjoy the cozy, small town coffee shop vibe ..this is it.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Karisa Doe",
+            "rating": 5,
+            "text": {
+              "text": "My first time stopping here the atmosphere was super peaceful. I loved my latte. The decor was beautiful and the note about her friends passing broke me. It’s beautiful to see she made something out of the tragedy that took place with her friend and donates to the local High School.",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3a_1WDgKoJcuG449M1PMi5lKrVRYuG4IdSwNbCMZ2LxD_mD7yT9NEY0L4GVwmNNZ9kxy5hRrbYuw6oweQrF6B1y9gxmpvqYpLbHZrB41K3z3rMjmWccLmZEtuefgFBApmP5GoXVg6Z4MO07gKFRTvVIOBuZPqSa7pb7A4kvIBd7NtT5guBv4Y2xn0Xg4kw_2Ouj-6QzIJJazySVnHiya4DVb4oTRDWqGjyqdytYMMpYty5ewo_0uo19ZXeeND0qtL-K2HWO10Q4f2jW8KA4WLZPAt-pD0rAMWVjY7Q6rkVsA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Roselle": [
+    {
+      "name": "The Cat House",
+      "address": "344 Irving Park Rd, Roselle, IL 60172, USA",
+      "rating": 4.5,
+      "user_ratings_total": 57,
+      "website": "https://thecathouselounge.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=1607588005554112515",
+      "lat": 41.984092,
+      "lng": -88.0715333,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true
+      },
+      "reviews": [
+        {
+          "author": "Ellie Leszczynski",
+          "rating": 5,
+          "text": {
+            "text": "Visiting the new Cat House is a must if you’re a cat lover in the suburbs. It’s a lot of fun and you definitely won’t be bored when you’re here, plenty of kitties walking around, playing or sleeping. There’s also educational materials, books, and games and you can also purchase cat-themed merchandise. A lot of photo opportunities! The place is clean and doesn’t have an odor. I would definitely come back again soon.",
+            "languageCode": "en"
+          },
+          "time": "6 months ago"
+        },
+        {
+          "author": "Dina Darling",
+          "rating": 5,
+          "text": {
+            "text": "This place is amazing. I wanted to adopt all the cats. The staff is wonderful. It is very clean. And talk about therapeutic getting to spend 45 minutes with the fur babies. It's a fantastic experience!!",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Jacob",
+          "rating": 5,
+          "text": {
+            "text": "Update: I adopted my first kitten from here!!! Amazing experience, staff was very kind and we managed to get everything done the same day since I already applied for a different cat a week prior. Her name at the house was Noah, a little midnight sweetheart, we now renamed her to Koi. Thank you again heartland and cat house!\n\nAmazing experience that is a higher quality than the cafes in Chicago. No screaming kids harassing cats and very relaxing atmosphere and experience. Staff was attentive and very experienced. Thank you for the great time!",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3ibTjWISfFtdbBATd8roGW5j9lH5LI7qSD3i4n3_QpaqVZZKVz8Z7DNmR-9rjI7WUEOlb_ot5vmK8vKlgA6Aj_qlENgQ7PN20hbq4Q91-vJbCbqDJEsub7uL3M2ti-yL7euN8nDsGv17mj-hhCNXGXMOqZdO4PymcXea0nM7Qfzz-dZceglk3tPE-tdQRltVrjr4DfgO-S1D1Hkx3LqJVzisIWxxqzu9uXpYHD6Q8qhNwkA3XinstZEfTEM0_sQUBV6XRj9tAykQKPbda5RUQUyqvRfULrebT1qQFq9ypFbSLdTn2LStdWUAGxLsGJFRS0KOGFsngR_QH_kuiChB4nFSnF5Rpa_1PyGRDj0m-1u2WgB0hsWkLI2Q5UyGtAfCPEnQt67i1818POdba1Xaa0DPUjiTfqsg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "New Glarus": {
+    "city": "New Glarus",
+    "city_ascii": "New Glarus",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8132,
+    "lng": -89.6337,
+    "cafes": [
+      {
+        "name": "Fat Cat Coffee Works",
+        "address": "606 Railroad St, New Glarus, WI 53574, USA",
+        "rating": 4.6,
+        "user_ratings_total": 435,
+        "website": "http://www.fatcatcoffeeworks.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=1984421300657952085",
+        "lat": 42.8140722,
+        "lng": -89.63266109999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Jason Skinner",
+            "rating": 3,
+            "text": {
+              "text": "Finally stopped in to check this place out and can’t believe how disappointing the food was.  Menu online described your typical avocado toast with an egg on top.  Instead I got avocado toast with no egg and tomato/olives/feta on.  Mediterranean avocado toast simply does not taste good nor was i expecting it.  To add on, my girlfriend’s sausage/egg burrito had cinnamon which also has no place in a breakfast burrito.  The only saving grace was the amazing coffee and neat atmosphere.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Daniela Gutiérrez Centeno (Lela)",
+            "rating": 5,
+            "text": {
+              "text": "Everything was super good! We had mango and strawberry smoothies, avocado toast, the harvest benedict and a cherry pie. All super delicious! The service was excellent as well. People are super friendly and nice. We will be coming back!",
+              "languageCode": "en"
+            },
+            "time": "9 months ago"
+          },
+          {
+            "author": "Dale Wheeler",
+            "rating": 5,
+            "text": {
+              "text": "Really great people and vibe. Plenty of indoor and outdoor seating. Great food and drinks, savory or sweet. I had chili with hash browns and eggs on top. Excellent 👍",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2FfLv2ZkSFkHNjdB8_ReK5sCgSQlbHs83ufZfIKeAnAfr1R-lMDCovJj9l_DKm_6_UsjdmMR390y01RuBZL2LUEly_Nr_nrv87MWItopPii9IFGB8e-77reInJnOaLM2vZ-J-e7lgjlkxpdjSGH9BB5nmX1_eSiXEle-yM0WzREzKt3NEBPvDJurnK3ftcAXX7NVZAD0MMEAR-fTEDJz_uXj85dDAC_9u5SWMEfsfbLFhIlLTHHbpPn-gpOai5YXOWsK0IrlBQjQzedCCVC2L_alRiFeE-B4uAVbwRLuA1vcEv9qR9zbqVylEwBULqfYzMZZMVtQS7rfxIeERmWPCELRfvoQqQ5TWumCJwkIg74xV44MCmFMlSqNNHogFD1F9mTgeIo4dzeTI_fTJJRi6wjUW00wYl&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Milwaukee": {
+    "city": "Milwaukee",
+    "city_ascii": "Milwaukee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0642,
+    "lng": -87.9675,
+    "cafes": []
+  },
+  "Green Bay": {
+    "city": "Green Bay",
+    "city_ascii": "Green Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5148,
+    "lng": -87.9895,
+    "cafes": []
+  },
+  "Racine": {
+    "city": "Racine",
+    "city_ascii": "Racine",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7274,
+    "lng": -87.8135,
+    "cafes": []
+  },
+  "Kenosha": {
+    "city": "Kenosha",
+    "city_ascii": "Kenosha",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5865,
+    "lng": -87.8773,
+    "cafes": []
+  },
+  "La Crosse": {
+    "city": "La Crosse",
+    "city_ascii": "La Crosse",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8241,
+    "lng": -91.2268,
+    "cafes": []
+  },
+  "Wausau": {
+    "city": "Wausau",
+    "city_ascii": "Wausau",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.962,
+    "lng": -89.6459,
+    "cafes": []
+  },
+  "Oshkosh": {
+    "city": "Oshkosh",
+    "city_ascii": "Oshkosh",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0227,
+    "lng": -88.5619,
+    "cafes": []
+  },
+  "Janesville": {
+    "city": "Janesville",
+    "city_ascii": "Janesville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6854,
+    "lng": -89.0135,
+    "cafes": []
+  },
+  "Sheboygan": {
+    "city": "Sheboygan",
+    "city_ascii": "Sheboygan",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7403,
+    "lng": -87.7316,
+    "cafes": []
+  },
+  "Waukesha": {
+    "city": "Waukesha",
+    "city_ascii": "Waukesha",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0087,
+    "lng": -88.2464,
+    "cafes": []
+  },
+  "West Allis": {
+    "city": "West Allis",
+    "city_ascii": "West Allis",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0068,
+    "lng": -88.0296,
+    "cafes": []
+  },
+  "Wauwatosa": {
+    "city": "Wauwatosa",
+    "city_ascii": "Wauwatosa",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0616,
+    "lng": -88.0347,
+    "cafes": []
+  },
+  "Fond du Lac": {
+    "city": "Fond du Lac",
+    "city_ascii": "Fond du Lac",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7718,
+    "lng": -88.4397,
+    "cafes": []
+  },
+  "Brookfield": {
+    "city": "Brookfield",
+    "city_ascii": "Brookfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.064,
+    "lng": -88.1231,
+    "cafes": []
+  },
+  "New Berlin": {
+    "city": "New Berlin",
+    "city_ascii": "New Berlin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9726,
+    "lng": -88.1291,
+    "cafes": []
+  },
+  "Menomonee Falls": {
+    "city": "Menomonee Falls",
+    "city_ascii": "Menomonee Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1487,
+    "lng": -88.1227,
+    "cafes": []
+  },
+  "Greenfield": {
+    "city": "Greenfield",
+    "city_ascii": "Greenfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9619,
+    "lng": -88.0052,
+    "cafes": []
+  },
+  "Beloit": {
+    "city": "Beloit",
+    "city_ascii": "Beloit",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.523,
+    "lng": -89.0184,
+    "cafes": []
+  },
+  "Oak Creek": {
+    "city": "Oak Creek",
+    "city_ascii": "Oak Creek",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8803,
+    "lng": -87.9009,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8854,
+    "lng": -88.0104,
+    "cafes": []
+  },
+  "Manitowoc": {
+    "city": "Manitowoc",
+    "city_ascii": "Manitowoc",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0991,
+    "lng": -87.6812,
+    "cafes": []
+  },
+  "West Bend": {
+    "city": "West Bend",
+    "city_ascii": "West Bend",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4173,
+    "lng": -88.1818,
+    "cafes": []
+  },
+  "Fitchburg": {
+    "city": "Fitchburg",
+    "city_ascii": "Fitchburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9859,
+    "lng": -89.4255,
+    "cafes": []
+  },
+  "Mount Pleasant": {
+    "city": "Mount Pleasant",
+    "city_ascii": "Mount Pleasant",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7129,
+    "lng": -87.8876,
+    "cafes": []
+  },
+  "Neenah": {
+    "city": "Neenah",
+    "city_ascii": "Neenah",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1669,
+    "lng": -88.4767,
+    "cafes": []
+  },
+  "Superior": {
+    "city": "Superior",
+    "city_ascii": "Superior",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.6941,
+    "lng": -92.0823,
+    "cafes": []
+  },
+  "De Pere": {
+    "city": "De Pere",
+    "city_ascii": "De Pere",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4308,
+    "lng": -88.0785,
+    "cafes": []
+  },
+  "Caledonia": {
+    "city": "Caledonia",
+    "city_ascii": "Caledonia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7986,
+    "lng": -87.8762,
+    "cafes": []
+  },
+  "Mequon": {
+    "city": "Mequon",
+    "city_ascii": "Mequon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2352,
+    "lng": -87.9839,
+    "cafes": []
+  },
+  "Muskego": {
+    "city": "Muskego",
+    "city_ascii": "Muskego",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.886,
+    "lng": -88.1291,
+    "cafes": []
+  },
+  "Watertown": {
+    "city": "Watertown",
+    "city_ascii": "Watertown",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1893,
+    "lng": -88.7285,
+    "cafes": []
+  },
+  "Middleton": {
+    "city": "Middleton",
+    "city_ascii": "Middleton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1064,
+    "lng": -89.5059,
+    "cafes": []
+  },
+  "Pleasant Prairie": {
+    "city": "Pleasant Prairie",
+    "city_ascii": "Pleasant Prairie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5266,
+    "lng": -87.8895,
+    "cafes": []
+  },
+  "Germantown": {
+    "city": "Germantown",
+    "city_ascii": "Germantown",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2343,
+    "lng": -88.1217,
+    "cafes": []
+  },
+  "South Milwaukee": {
+    "city": "South Milwaukee",
+    "city_ascii": "South Milwaukee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.912,
+    "lng": -87.8627,
+    "cafes": []
+  },
+  "Howard": {
+    "city": "Howard",
+    "city_ascii": "Howard",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5703,
+    "lng": -88.0928,
+    "cafes": []
+  },
+  "Fox Crossing": {
+    "city": "Fox Crossing",
+    "city_ascii": "Fox Crossing",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2228,
+    "lng": -88.4763,
+    "cafes": []
+  },
+  "Onalaska": {
+    "city": "Onalaska",
+    "city_ascii": "Onalaska",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8883,
+    "lng": -91.2075,
+    "cafes": []
+  },
+  "Wisconsin Rapids": {
+    "city": "Wisconsin Rapids",
+    "city_ascii": "Wisconsin Rapids",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3927,
+    "lng": -89.8265,
+    "cafes": []
+  },
+  "Marshfield": {
+    "city": "Marshfield",
+    "city_ascii": "Marshfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6627,
+    "lng": -90.1728,
+    "cafes": []
+  },
+  "Oconomowoc": {
+    "city": "Oconomowoc",
+    "city_ascii": "Oconomowoc",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0996,
+    "lng": -88.4948,
+    "cafes": []
+  },
+  "Menasha": {
+    "city": "Menasha",
+    "city_ascii": "Menasha",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2125,
+    "lng": -88.4271,
+    "cafes": []
+  },
+  "Cudahy": {
+    "city": "Cudahy",
+    "city_ascii": "Cudahy",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9467,
+    "lng": -87.8641,
+    "cafes": []
+  },
+  "Kaukauna": {
+    "city": "Kaukauna",
+    "city_ascii": "Kaukauna",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2773,
+    "lng": -88.2641,
+    "cafes": []
+  },
+  "Ashwaubenon": {
+    "city": "Ashwaubenon",
+    "city_ascii": "Ashwaubenon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4796,
+    "lng": -88.0889,
+    "cafes": []
+  },
+  "Beaver Dam": {
+    "city": "Beaver Dam",
+    "city_ascii": "Beaver Dam",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4688,
+    "lng": -88.8309,
+    "cafes": []
+  },
+  "Menomonie": {
+    "city": "Menomonie",
+    "city_ascii": "Menomonie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8893,
+    "lng": -91.9084,
+    "cafes": []
+  },
+  "River Falls": {
+    "city": "River Falls",
+    "city_ascii": "River Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8609,
+    "lng": -92.6247,
+    "cafes": []
+  },
+  "Bellevue": {
+    "city": "Bellevue",
+    "city_ascii": "Bellevue",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4592,
+    "lng": -87.955,
+    "cafes": []
+  },
+  "Weston": {
+    "city": "Weston",
+    "city_ascii": "Weston",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8906,
+    "lng": -89.5487,
+    "cafes": []
+  },
+  "Hartford": {
+    "city": "Hartford",
+    "city_ascii": "Hartford",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3223,
+    "lng": -88.3784,
+    "cafes": []
+  },
+  "Hudson": {
+    "city": "Hudson",
+    "city_ascii": "Hudson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9639,
+    "lng": -92.7312,
+    "cafes": []
+  },
+  "Waunakee": {
+    "city": "Waunakee",
+    "city_ascii": "Waunakee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1829,
+    "lng": -89.4447,
+    "cafes": []
+  },
+  "Whitefish Bay": {
+    "city": "Whitefish Bay",
+    "city_ascii": "Whitefish Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1131,
+    "lng": -87.9003,
+    "cafes": []
+  },
+  "Greendale": {
+    "city": "Greendale",
+    "city_ascii": "Greendale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9371,
+    "lng": -88.0018,
+    "cafes": []
+  },
+  "Chippewa Falls": {
+    "city": "Chippewa Falls",
+    "city_ascii": "Chippewa Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9358,
+    "lng": -91.3902,
+    "cafes": []
+  },
+  "Salem Lakes": {
+    "city": "Salem Lakes",
+    "city_ascii": "Salem Lakes",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5366,
+    "lng": -88.1306,
+    "cafes": []
+  },
+  "Verona": {
+    "city": "Verona",
+    "city_ascii": "Verona",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9892,
+    "lng": -89.5383,
+    "cafes": []
+  },
+  "Allouez": {
+    "city": "Allouez",
+    "city_ascii": "Allouez",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4721,
+    "lng": -88.0259,
+    "cafes": []
+  },
+  "Plover": {
+    "city": "Plover",
+    "city_ascii": "Plover",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4615,
+    "lng": -89.5382,
+    "cafes": []
+  },
+  "Shorewood": {
+    "city": "Shorewood",
+    "city_ascii": "Shorewood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0913,
+    "lng": -87.8864,
+    "cafes": []
+  },
+  "Harrison": {
+    "city": "Harrison",
+    "city_ascii": "Harrison",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1935,
+    "lng": -88.2941,
+    "cafes": []
+  },
+  "Glendale": {
+    "city": "Glendale",
+    "city_ascii": "Glendale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1287,
+    "lng": -87.9277,
+    "cafes": []
+  },
+  "Stoughton": {
+    "city": "Stoughton",
+    "city_ascii": "Stoughton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9237,
+    "lng": -89.2225,
+    "cafes": []
+  },
+  "Suamico": {
+    "city": "Suamico",
+    "city_ascii": "Suamico",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6354,
+    "lng": -88.0683,
+    "cafes": []
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3003,
+    "lng": -88.5365,
+    "cafes": []
+  },
+  "Brown Deer": {
+    "city": "Brown Deer",
+    "city_ascii": "Brown Deer",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1743,
+    "lng": -87.975,
+    "cafes": []
+  },
+  "Port Washington": {
+    "city": "Port Washington",
+    "city_ascii": "Port Washington",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3846,
+    "lng": -87.8855,
+    "cafes": []
+  },
+  "Baraboo": {
+    "city": "Baraboo",
+    "city_ascii": "Baraboo",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4695,
+    "lng": -89.7376,
+    "cafes": []
+  },
+  "Fort Atkinson": {
+    "city": "Fort Atkinson",
+    "city_ascii": "Fort Atkinson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9253,
+    "lng": -88.8442,
+    "cafes": []
+  },
+  "Cedarburg": {
+    "city": "Cedarburg",
+    "city_ascii": "Cedarburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.299,
+    "lng": -87.9887,
+    "cafes": []
+  },
+  "Grafton": {
+    "city": "Grafton",
+    "city_ascii": "Grafton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3204,
+    "lng": -87.948,
+    "cafes": []
+  },
+  "Little Chute": {
+    "city": "Little Chute",
+    "city_ascii": "Little Chute",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2906,
+    "lng": -88.3208,
+    "cafes": []
+  },
+  "Richfield": {
+    "city": "Richfield",
+    "city_ascii": "Richfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2372,
+    "lng": -88.2413,
+    "cafes": []
+  },
+  "Sussex": {
+    "city": "Sussex",
+    "city_ascii": "Sussex",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1346,
+    "lng": -88.2226,
+    "cafes": []
+  },
+  "Platteville": {
+    "city": "Platteville",
+    "city_ascii": "Platteville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.728,
+    "lng": -90.4681,
+    "cafes": []
+  },
+  "Oregon": {
+    "city": "Oregon",
+    "city_ascii": "Oregon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9253,
+    "lng": -89.3892,
+    "cafes": []
+  },
+  "Waupun": {
+    "city": "Waupun",
+    "city_ascii": "Waupun",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6314,
+    "lng": -88.7381,
+    "cafes": []
+  },
+  "Two Rivers": {
+    "city": "Two Rivers",
+    "city_ascii": "Two Rivers",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1565,
+    "lng": -87.5824,
+    "cafes": []
+  },
+  "Marinette": {
+    "city": "Marinette",
+    "city_ascii": "Marinette",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0871,
+    "lng": -87.6336,
+    "cafes": []
+  },
+  "Holmen": {
+    "city": "Holmen",
+    "city_ascii": "Holmen",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9706,
+    "lng": -91.2654,
+    "cafes": []
+  },
+  "Burlington": {
+    "city": "Burlington",
+    "city_ascii": "Burlington",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6744,
+    "lng": -88.2721,
+    "cafes": []
+  },
+  "DeForest": {
+    "city": "DeForest",
+    "city_ascii": "DeForest",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2301,
+    "lng": -89.3431,
+    "cafes": []
+  },
+  "Monroe": {
+    "city": "Monroe",
+    "city_ascii": "Monroe",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.603,
+    "lng": -89.6381,
+    "cafes": []
+  },
+  "Hobart": {
+    "city": "Hobart",
+    "city_ascii": "Hobart",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4967,
+    "lng": -88.1602,
+    "cafes": []
+  },
+  "Portage": {
+    "city": "Portage",
+    "city_ascii": "Portage",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5489,
+    "lng": -89.4658,
+    "cafes": []
+  },
+  "New Richmond": {
+    "city": "New Richmond",
+    "city_ascii": "New Richmond",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.125,
+    "lng": -92.5377,
+    "cafes": []
+  },
+  "Elkhorn": {
+    "city": "Elkhorn",
+    "city_ascii": "Elkhorn",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6713,
+    "lng": -88.5377,
+    "cafes": []
+  },
+  "Reedsburg": {
+    "city": "Reedsburg",
+    "city_ascii": "Reedsburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5348,
+    "lng": -89.9965,
+    "cafes": []
+  },
+  "Sparta": {
+    "city": "Sparta",
+    "city_ascii": "Sparta",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9377,
+    "lng": -90.8131,
+    "cafes": []
+  },
+  "Hartland": {
+    "city": "Hartland",
+    "city_ascii": "Hartland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1029,
+    "lng": -88.3396,
+    "cafes": []
+  },
+  "Sturgeon Bay": {
+    "city": "Sturgeon Bay",
+    "city_ascii": "Sturgeon Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8228,
+    "lng": -87.366,
+    "cafes": []
+  },
+  "Tomah": {
+    "city": "Tomah",
+    "city_ascii": "Tomah",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9879,
+    "lng": -90.4999,
+    "cafes": []
+  },
+  "St. Francis": {
+    "city": "St. Francis",
+    "city_ascii": "St. Francis",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9716,
+    "lng": -87.873,
+    "cafes": []
+  },
+  "Shawano": {
+    "city": "Shawano",
+    "city_ascii": "Shawano",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7748,
+    "lng": -88.5843,
+    "cafes": []
+  },
+  "McFarland": {
+    "city": "McFarland",
+    "city_ascii": "McFarland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0203,
+    "lng": -89.2828,
+    "cafes": []
+  },
+  "Merrill": {
+    "city": "Merrill",
+    "city_ascii": "Merrill",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.182,
+    "lng": -89.6994,
+    "cafes": []
+  },
+  "Rice Lake": {
+    "city": "Rice Lake",
+    "city_ascii": "Rice Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4864,
+    "lng": -91.7447,
+    "cafes": []
+  },
+  "Plymouth": {
+    "city": "Plymouth",
+    "city_ascii": "Plymouth",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7447,
+    "lng": -87.966,
+    "cafes": []
+  },
+  "Altoona": {
+    "city": "Altoona",
+    "city_ascii": "Altoona",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8029,
+    "lng": -91.4385,
+    "cafes": []
+  },
+  "Monona": {
+    "city": "Monona",
+    "city_ascii": "Monona",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.054,
+    "lng": -89.3334,
+    "cafes": []
+  },
+  "Delavan": {
+    "city": "Delavan",
+    "city_ascii": "Delavan",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6282,
+    "lng": -88.6323,
+    "cafes": []
+  },
+  "Village of Waukesha": {
+    "city": "Village of Waukesha",
+    "city_ascii": "Village of Waukesha",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9601,
+    "lng": -88.248,
+    "cafes": []
+  },
+  "Lake Geneva": {
+    "city": "Lake Geneva",
+    "city_ascii": "Lake Geneva",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5824,
+    "lng": -88.4281,
+    "cafes": []
+  },
+  "Kronenwetter": {
+    "city": "Kronenwetter",
+    "city_ascii": "Kronenwetter",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8164,
+    "lng": -89.5807,
+    "cafes": []
+  },
+  "Mukwonago": {
+    "city": "Mukwonago",
+    "city_ascii": "Mukwonago",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.857,
+    "lng": -88.3269,
+    "cafes": []
+  },
+  "Rhinelander": {
+    "city": "Rhinelander",
+    "city_ascii": "Rhinelander",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.6358,
+    "lng": -89.4261,
+    "cafes": []
+  },
+  "Somers": {
+    "city": "Somers",
+    "city_ascii": "Somers",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6411,
+    "lng": -87.8919,
+    "cafes": []
+  },
+  "Sheboygan Falls": {
+    "city": "Sheboygan Falls",
+    "city_ascii": "Sheboygan Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.729,
+    "lng": -87.8266,
+    "cafes": []
+  },
+  "Antigo": {
+    "city": "Antigo",
+    "city_ascii": "Antigo",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.141,
+    "lng": -89.1552,
+    "cafes": []
+  },
+  "Cottage Grove": {
+    "city": "Cottage Grove",
+    "city_ascii": "Cottage Grove",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0922,
+    "lng": -89.2054,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3233,
+    "lng": -88.1666,
+    "cafes": []
+  },
+  "Ripon": {
+    "city": "Ripon",
+    "city_ascii": "Ripon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8436,
+    "lng": -88.8386,
+    "cafes": []
+  },
+  "Jefferson": {
+    "city": "Jefferson",
+    "city_ascii": "Jefferson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0044,
+    "lng": -88.8084,
+    "cafes": []
+  },
+  "Mount Horeb": {
+    "city": "Mount Horeb",
+    "city_ascii": "Mount Horeb",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.006,
+    "lng": -89.7316,
+    "cafes": []
+  },
+  "Hales Corners": {
+    "city": "Hales Corners",
+    "city_ascii": "Hales Corners",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9409,
+    "lng": -88.0491,
+    "cafes": []
+  },
+  "New London": {
+    "city": "New London",
+    "city_ascii": "New London",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3949,
+    "lng": -88.7395,
+    "cafes": []
+  },
+  "Vernon": {
+    "city": "Vernon",
+    "city_ascii": "Vernon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.884,
+    "lng": -88.2494,
+    "cafes": []
+  },
+  "Kimberly": {
+    "city": "Kimberly",
+    "city_ascii": "Kimberly",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.267,
+    "lng": -88.3378,
+    "cafes": []
+  },
+  "Lake Hallie": {
+    "city": "Lake Hallie",
+    "city_ascii": "Lake Hallie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8921,
+    "lng": -91.4199,
+    "cafes": []
+  },
+  "Delafield": {
+    "city": "Delafield",
+    "city_ascii": "Delafield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.072,
+    "lng": -88.3913,
+    "cafes": []
+  },
+  "Sturtevant": {
+    "city": "Sturtevant",
+    "city_ascii": "Sturtevant",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6995,
+    "lng": -87.9019,
+    "cafes": []
+  },
+  "Fox Point": {
+    "city": "Fox Point",
+    "city_ascii": "Fox Point",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1581,
+    "lng": -87.9013,
+    "cafes": []
+  },
+  "Elm Grove": {
+    "city": "Elm Grove",
+    "city_ascii": "Elm Grove",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.048,
+    "lng": -88.0867,
+    "cafes": []
+  },
+  "Lake Mills": {
+    "city": "Lake Mills",
+    "city_ascii": "Lake Mills",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0775,
+    "lng": -88.9055,
+    "cafes": []
+  },
+  "Twin Lakes": {
+    "city": "Twin Lakes",
+    "city_ascii": "Twin Lakes",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.519,
+    "lng": -88.2484,
+    "cafes": []
+  },
+  "Waupaca": {
+    "city": "Waupaca",
+    "city_ascii": "Waupaca",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3506,
+    "lng": -89.0719,
+    "cafes": []
+  },
+  "Slinger": {
+    "city": "Slinger",
+    "city_ascii": "Slinger",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3317,
+    "lng": -88.2798,
+    "cafes": []
+  },
+  "Rib Mountain": {
+    "city": "Rib Mountain",
+    "city_ascii": "Rib Mountain",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9195,
+    "lng": -89.6757,
+    "cafes": []
+  },
+  "Edgerton": {
+    "city": "Edgerton",
+    "city_ascii": "Edgerton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8385,
+    "lng": -89.0699,
+    "cafes": []
+  },
+  "Evansville": {
+    "city": "Evansville",
+    "city_ascii": "Evansville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7781,
+    "lng": -89.2967,
+    "cafes": []
+  },
+  "Milton": {
+    "city": "Milton",
+    "city_ascii": "Milton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.775,
+    "lng": -88.9429,
+    "cafes": []
+  },
+  "Waterford": {
+    "city": "Waterford",
+    "city_ascii": "Waterford",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7645,
+    "lng": -88.216,
+    "cafes": []
+  },
+  "Rothschild": {
+    "city": "Rothschild",
+    "city_ascii": "Rothschild",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8761,
+    "lng": -89.6173,
+    "cafes": []
+  },
+  "Berlin": {
+    "city": "Berlin",
+    "city_ascii": "Berlin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9704,
+    "lng": -88.9504,
+    "cafes": []
+  },
+  "Columbus": {
+    "city": "Columbus",
+    "city_ascii": "Columbus",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3354,
+    "lng": -89.03,
+    "cafes": []
+  },
+  "Prairie du Chien": {
+    "city": "Prairie du Chien",
+    "city_ascii": "Prairie du Chien",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0429,
+    "lng": -91.1372,
+    "cafes": []
+  },
+  "North Fond du Lac": {
+    "city": "North Fond du Lac",
+    "city_ascii": "North Fond du Lac",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8107,
+    "lng": -88.486,
+    "cafes": []
+  },
+  "West Salem": {
+    "city": "West Salem",
+    "city_ascii": "West Salem",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8989,
+    "lng": -91.0882,
+    "cafes": []
+  },
+  "Bristol": {
+    "city": "Bristol",
+    "city_ascii": "Bristol",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5377,
+    "lng": -88.0151,
+    "cafes": []
+  },
+  "Tichigan": {
+    "city": "Tichigan",
+    "city_ascii": "Tichigan",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8087,
+    "lng": -88.215,
+    "cafes": []
+  },
+  "Mayville": {
+    "city": "Mayville",
+    "city_ascii": "Mayville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4986,
+    "lng": -88.5474,
+    "cafes": []
+  },
+  "Lake Wisconsin": {
+    "city": "Lake Wisconsin",
+    "city_ascii": "Lake Wisconsin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3739,
+    "lng": -89.5858,
+    "cafes": []
+  },
+  "Wind Lake": {
+    "city": "Wind Lake",
+    "city_ascii": "Wind Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8239,
+    "lng": -88.1563,
+    "cafes": []
+  },
+  "Dodgeville": {
+    "city": "Dodgeville",
+    "city_ascii": "Dodgeville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.966,
+    "lng": -90.1297,
+    "cafes": []
+  },
+  "Union Grove": {
+    "city": "Union Grove",
+    "city_ascii": "Union Grove",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6864,
+    "lng": -88.0496,
+    "cafes": []
+  },
+  "Okauchee Lake": {
+    "city": "Okauchee Lake",
+    "city_ascii": "Okauchee Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1256,
+    "lng": -88.4385,
+    "cafes": []
+  },
+  "East Troy": {
+    "city": "East Troy",
+    "city_ascii": "East Troy",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7846,
+    "lng": -88.3973,
+    "cafes": []
+  },
+  "Oconto": {
+    "city": "Oconto",
+    "city_ascii": "Oconto",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8923,
+    "lng": -87.8715,
+    "cafes": []
+  },
+  "Clintonville": {
+    "city": "Clintonville",
+    "city_ascii": "Clintonville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6222,
+    "lng": -88.7513,
+    "cafes": []
+  },
+  "Mosinee": {
+    "city": "Mosinee",
+    "city_ascii": "Mosinee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7874,
+    "lng": -89.6839,
+    "cafes": []
+  },
+  "Viroqua": {
+    "city": "Viroqua",
+    "city_ascii": "Viroqua",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5603,
+    "lng": -90.8858,
+    "cafes": []
+  },
+  "Bayside": {
+    "city": "Bayside",
+    "city_ascii": "Bayside",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1827,
+    "lng": -87.9017,
+    "cafes": []
+  },
+  "Prairie du Sac": {
+    "city": "Prairie du Sac",
+    "city_ascii": "Prairie du Sac",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.292,
+    "lng": -89.7353,
+    "cafes": []
+  },
+  "Prescott": {
+    "city": "Prescott",
+    "city_ascii": "Prescott",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7523,
+    "lng": -92.7882,
+    "cafes": []
+  },
+  "Kewaskum": {
+    "city": "Kewaskum",
+    "city_ascii": "Kewaskum",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5177,
+    "lng": -88.2306,
+    "cafes": []
+  },
+  "Medford": {
+    "city": "Medford",
+    "city_ascii": "Medford",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1365,
+    "lng": -90.3436,
+    "cafes": []
+  },
+  "Baldwin": {
+    "city": "Baldwin",
+    "city_ascii": "Baldwin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.954,
+    "lng": -92.3709,
+    "cafes": []
+  },
+  "Mauston": {
+    "city": "Mauston",
+    "city_ascii": "Mauston",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7995,
+    "lng": -90.0775,
+    "cafes": []
+  },
+  "Saukville": {
+    "city": "Saukville",
+    "city_ascii": "Saukville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3847,
+    "lng": -87.9439,
+    "cafes": []
+  },
+  "French Island": {
+    "city": "French Island",
+    "city_ascii": "French Island",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8593,
+    "lng": -91.2614,
+    "cafes": []
+  },
+  "West Milwaukee": {
+    "city": "West Milwaukee",
+    "city_ascii": "West Milwaukee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0124,
+    "lng": -87.971,
+    "cafes": []
+  },
+  "Cross Plains": {
+    "city": "Cross Plains",
+    "city_ascii": "Cross Plains",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1145,
+    "lng": -89.6479,
+    "cafes": []
+  },
+  "Chilton": {
+    "city": "Chilton",
+    "city_ascii": "Chilton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0293,
+    "lng": -88.1625,
+    "cafes": []
+  },
+  "Raymond": {
+    "city": "Raymond",
+    "city_ascii": "Raymond",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8003,
+    "lng": -88.0118,
+    "cafes": []
+  },
+  "Kiel": {
+    "city": "Kiel",
+    "city_ascii": "Kiel",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9167,
+    "lng": -88.0266,
+    "cafes": []
+  },
+  "Lancaster": {
+    "city": "Lancaster",
+    "city_ascii": "Lancaster",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8473,
+    "lng": -90.7065,
+    "cafes": []
+  },
+  "Pulaski": {
+    "city": "Pulaski",
+    "city_ascii": "Pulaski",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6684,
+    "lng": -88.2351,
+    "cafes": []
+  },
+  "North Hudson": {
+    "city": "North Hudson",
+    "city_ascii": "North Hudson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9973,
+    "lng": -92.7564,
+    "cafes": []
+  },
+  "Marshall": {
+    "city": "Marshall",
+    "city_ascii": "Marshall",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1726,
+    "lng": -89.0613,
+    "cafes": []
+  },
+  "Horicon": {
+    "city": "Horicon",
+    "city_ascii": "Horicon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4454,
+    "lng": -88.6403,
+    "cafes": []
+  },
+  "Rochester": {
+    "city": "Rochester",
+    "city_ascii": "Rochester",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7338,
+    "lng": -88.2489,
+    "cafes": []
+  },
+  "Stanley": {
+    "city": "Stanley",
+    "city_ascii": "Stanley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9597,
+    "lng": -90.9423,
+    "cafes": []
+  },
+  "Arcadia": {
+    "city": "Arcadia",
+    "city_ascii": "Arcadia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2486,
+    "lng": -91.4916,
+    "cafes": []
+  },
+  "Bloomer": {
+    "city": "Bloomer",
+    "city_ascii": "Bloomer",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1033,
+    "lng": -91.4915,
+    "cafes": []
+  },
+  "Barron": {
+    "city": "Barron",
+    "city_ascii": "Barron",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4015,
+    "lng": -91.8476,
+    "cafes": []
+  },
+  "Omro": {
+    "city": "Omro",
+    "city_ascii": "Omro",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0391,
+    "lng": -88.7378,
+    "cafes": []
+  },
+  "Combined Locks": {
+    "city": "Combined Locks",
+    "city_ascii": "Combined Locks",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2642,
+    "lng": -88.3064,
+    "cafes": []
+  },
+  "Waterloo": {
+    "city": "Waterloo",
+    "city_ascii": "Waterloo",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1835,
+    "lng": -88.9899,
+    "cafes": []
+  },
+  "Seymour": {
+    "city": "Seymour",
+    "city_ascii": "Seymour",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5142,
+    "lng": -88.3271,
+    "cafes": []
+  },
+  "Lake Delton": {
+    "city": "Lake Delton",
+    "city_ascii": "Lake Delton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5932,
+    "lng": -89.7841,
+    "cafes": []
+  },
+  "Black River Falls": {
+    "city": "Black River Falls",
+    "city_ascii": "Black River Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2981,
+    "lng": -90.842,
+    "cafes": []
+  },
+  "Sauk City": {
+    "city": "Sauk City",
+    "city_ascii": "Sauk City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2722,
+    "lng": -89.7312,
+    "cafes": []
+  },
+  "Merton": {
+    "city": "Merton",
+    "city_ascii": "Merton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1416,
+    "lng": -88.3082,
+    "cafes": []
+  },
+  "Tomahawk": {
+    "city": "Tomahawk",
+    "city_ascii": "Tomahawk",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4746,
+    "lng": -89.7228,
+    "cafes": []
+  },
+  "Peshtigo": {
+    "city": "Peshtigo",
+    "city_ascii": "Peshtigo",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.056,
+    "lng": -87.7471,
+    "cafes": []
+  },
+  "Johnson Creek": {
+    "city": "Johnson Creek",
+    "city_ascii": "Johnson Creek",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0812,
+    "lng": -88.7702,
+    "cafes": []
+  },
+  "Wrightstown": {
+    "city": "Wrightstown",
+    "city_ascii": "Wrightstown",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3263,
+    "lng": -88.1756,
+    "cafes": []
+  },
+  "Ellsworth": {
+    "city": "Ellsworth",
+    "city_ascii": "Ellsworth",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7364,
+    "lng": -92.4806,
+    "cafes": []
+  },
+  "Brillion": {
+    "city": "Brillion",
+    "city_ascii": "Brillion",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1758,
+    "lng": -88.0707,
+    "cafes": []
+  },
+  "Thiensville": {
+    "city": "Thiensville",
+    "city_ascii": "Thiensville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2361,
+    "lng": -87.9785,
+    "cafes": []
+  },
+  "Boscobel": {
+    "city": "Boscobel",
+    "city_ascii": "Boscobel",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1437,
+    "lng": -90.6948,
+    "cafes": []
+  },
+  "Howards Grove": {
+    "city": "Howards Grove",
+    "city_ascii": "Howards Grove",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8261,
+    "lng": -87.8232,
+    "cafes": []
+  },
+  "Yorkville": {
+    "city": "Yorkville",
+    "city_ascii": "Yorkville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7155,
+    "lng": -88.0097,
+    "cafes": []
+  },
+  "Sherwood": {
+    "city": "Sherwood",
+    "city_ascii": "Sherwood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1763,
+    "lng": -88.2756,
+    "cafes": []
+  },
+  "Algoma": {
+    "city": "Algoma",
+    "city_ascii": "Algoma",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6058,
+    "lng": -87.4465,
+    "cafes": []
+  },
+  "Lodi": {
+    "city": "Lodi",
+    "city_ascii": "Lodi",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3154,
+    "lng": -89.5367,
+    "cafes": []
+  },
+  "Brodhead": {
+    "city": "Brodhead",
+    "city_ascii": "Brodhead",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6168,
+    "lng": -89.3756,
+    "cafes": []
+  },
+  "Ladysmith": {
+    "city": "Ladysmith",
+    "city_ascii": "Ladysmith",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4606,
+    "lng": -91.0973,
+    "cafes": []
+  },
+  "New Holstein": {
+    "city": "New Holstein",
+    "city_ascii": "New Holstein",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9491,
+    "lng": -88.0942,
+    "cafes": []
+  },
+  "Lake Wissota": {
+    "city": "Lake Wissota",
+    "city_ascii": "Lake Wissota",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.922,
+    "lng": -91.3013,
+    "cafes": []
+  },
+  "Somerset": {
+    "city": "Somerset",
+    "city_ascii": "Somerset",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1257,
+    "lng": -92.6731,
+    "cafes": []
+  },
+  "Oostburg": {
+    "city": "Oostburg",
+    "city_ascii": "Oostburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6237,
+    "lng": -87.7888,
+    "cafes": []
+  },
+  "Oconto Falls": {
+    "city": "Oconto Falls",
+    "city_ascii": "Oconto Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8738,
+    "lng": -88.1444,
+    "cafes": []
+  },
+  "Williams Bay": {
+    "city": "Williams Bay",
+    "city_ascii": "Williams Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5788,
+    "lng": -88.5457,
+    "cafes": []
+  },
+  "Genoa City": {
+    "city": "Genoa City",
+    "city_ascii": "Genoa City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5065,
+    "lng": -88.3192,
+    "cafes": []
+  },
+  "Paddock Lake": {
+    "city": "Paddock Lake",
+    "city_ascii": "Paddock Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5707,
+    "lng": -88.1044,
+    "cafes": []
+  },
+  "Amery": {
+    "city": "Amery",
+    "city_ascii": "Amery",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3045,
+    "lng": -92.3635,
+    "cafes": []
+  },
+  "Wales": {
+    "city": "Wales",
+    "city_ascii": "Wales",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0042,
+    "lng": -88.374,
+    "cafes": []
+  },
+  "Mondovi": {
+    "city": "Mondovi",
+    "city_ascii": "Mondovi",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5712,
+    "lng": -91.6668,
+    "cafes": []
+  },
+  "Kewaunee": {
+    "city": "Kewaunee",
+    "city_ascii": "Kewaunee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4607,
+    "lng": -87.5132,
+    "cafes": []
+  },
+  "Osceola": {
+    "city": "Osceola",
+    "city_ascii": "Osceola",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3193,
+    "lng": -92.6936,
+    "cafes": []
+  },
+  "Walworth": {
+    "city": "Walworth",
+    "city_ascii": "Walworth",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5305,
+    "lng": -88.5939,
+    "cafes": []
+  },
+  "Wisconsin Dells": {
+    "city": "Wisconsin Dells",
+    "city_ascii": "Wisconsin Dells",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6336,
+    "lng": -89.7752,
+    "cafes": []
+  },
+  "Fennimore": {
+    "city": "Fennimore",
+    "city_ascii": "Fennimore",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9794,
+    "lng": -90.6491,
+    "cafes": []
+  },
+  "Tainter Lake": {
+    "city": "Tainter Lake",
+    "city_ascii": "Tainter Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9882,
+    "lng": -91.8437,
+    "cafes": []
+  },
+  "Delavan Lake": {
+    "city": "Delavan Lake",
+    "city_ascii": "Delavan Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5992,
+    "lng": -88.6176,
+    "cafes": []
+  },
+  "Lake Wazeecha": {
+    "city": "Lake Wazeecha",
+    "city_ascii": "Lake Wazeecha",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3696,
+    "lng": -89.7549,
+    "cafes": []
+  },
+  "Luxemburg": {
+    "city": "Luxemburg",
+    "city_ascii": "Luxemburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5447,
+    "lng": -87.7065,
+    "cafes": []
+  },
+  "Lomira": {
+    "city": "Lomira",
+    "city_ascii": "Lomira",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5946,
+    "lng": -88.4421,
+    "cafes": []
+  },
+  "Belgium": {
+    "city": "Belgium",
+    "city_ascii": "Belgium",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5018,
+    "lng": -87.8476,
+    "cafes": []
+  },
+  "Belleville": {
+    "city": "Belleville",
+    "city_ascii": "Belleville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8643,
+    "lng": -89.5402,
+    "cafes": []
+  },
+  "Maine": {
+    "city": "Maine",
+    "city_ascii": "Maine",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0497,
+    "lng": -89.6817,
+    "cafes": []
+  },
+  "Juneau": {
+    "city": "Juneau",
+    "city_ascii": "Juneau",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4053,
+    "lng": -88.7041,
+    "cafes": []
+  },
+  "Poynette": {
+    "city": "Poynette",
+    "city_ascii": "Poynette",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3922,
+    "lng": -89.4059,
+    "cafes": []
+  },
+  "Mineral Point": {
+    "city": "Mineral Point",
+    "city_ascii": "Mineral Point",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8632,
+    "lng": -90.1814,
+    "cafes": []
+  },
+  "Hayward": {
+    "city": "Hayward",
+    "city_ascii": "Hayward",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.0094,
+    "lng": -91.4826,
+    "cafes": []
+  },
+  "New Lisbon": {
+    "city": "New Lisbon",
+    "city_ascii": "New Lisbon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8781,
+    "lng": -90.1624,
+    "cafes": []
+  },
+  "Winneconne": {
+    "city": "Winneconne",
+    "city_ascii": "Winneconne",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1111,
+    "lng": -88.7116,
+    "cafes": []
+  },
+  "North Prairie": {
+    "city": "North Prairie",
+    "city_ascii": "North Prairie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9357,
+    "lng": -88.4037,
+    "cafes": []
+  },
+  "Deerfield": {
+    "city": "Deerfield",
+    "city_ascii": "Deerfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0491,
+    "lng": -89.0762,
+    "cafes": []
+  },
+  "Darlington": {
+    "city": "Darlington",
+    "city_ascii": "Darlington",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6765,
+    "lng": -90.1201,
+    "cafes": []
+  },
+  "Denmark": {
+    "city": "Denmark",
+    "city_ascii": "Denmark",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3493,
+    "lng": -87.8313,
+    "cafes": []
+  },
+  "Ixonia": {
+    "city": "Ixonia",
+    "city_ascii": "Ixonia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1396,
+    "lng": -88.5963,
+    "cafes": []
+  },
+  "St. Croix Falls": {
+    "city": "St. Croix Falls",
+    "city_ascii": "St. Croix Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.41,
+    "lng": -92.6266,
+    "cafes": []
+  },
+  "Nekoosa": {
+    "city": "Nekoosa",
+    "city_ascii": "Nekoosa",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3134,
+    "lng": -89.9073,
+    "cafes": []
+  },
+  "Cedar Grove": {
+    "city": "Cedar Grove",
+    "city_ascii": "Cedar Grove",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5682,
+    "lng": -87.8243,
+    "cafes": []
+  },
+  "Cumberland": {
+    "city": "Cumberland",
+    "city_ascii": "Cumberland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.5358,
+    "lng": -92.0291,
+    "cafes": []
+  },
+  "Fredonia": {
+    "city": "Fredonia",
+    "city_ascii": "Fredonia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4715,
+    "lng": -87.949,
+    "cafes": []
+  },
+  "Westby": {
+    "city": "Westby",
+    "city_ascii": "Westby",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.653,
+    "lng": -90.8584,
+    "cafes": []
+  },
+  "Como": {
+    "city": "Como",
+    "city_ascii": "Como",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6126,
+    "lng": -88.4858,
+    "cafes": []
+  },
+  "Neillsville": {
+    "city": "Neillsville",
+    "city_ascii": "Neillsville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5605,
+    "lng": -90.5906,
+    "cafes": []
+  },
+  "Park Falls": {
+    "city": "Park Falls",
+    "city_ascii": "Park Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.9348,
+    "lng": -90.4464,
+    "cafes": []
+  },
+  "Spooner": {
+    "city": "Spooner",
+    "city_ascii": "Spooner",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.8271,
+    "lng": -91.886,
+    "cafes": []
+  },
+  "Adams": {
+    "city": "Adams",
+    "city_ascii": "Adams",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9554,
+    "lng": -89.8169,
+    "cafes": []
+  },
+  "Bohners Lake": {
+    "city": "Bohners Lake",
+    "city_ascii": "Bohners Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6241,
+    "lng": -88.2879,
+    "cafes": []
+  },
+  "Kohler": {
+    "city": "Kohler",
+    "city_ascii": "Kohler",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7364,
+    "lng": -87.7795,
+    "cafes": []
+  },
+  "Colby": {
+    "city": "Colby",
+    "city_ascii": "Colby",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9107,
+    "lng": -90.3159,
+    "cafes": []
+  },
+  "Abbotsford": {
+    "city": "Abbotsford",
+    "city_ascii": "Abbotsford",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9435,
+    "lng": -90.3174,
+    "cafes": []
+  },
+  "Cuba City": {
+    "city": "Cuba City",
+    "city_ascii": "Cuba City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6036,
+    "lng": -90.4318,
+    "cafes": []
+  },
+  "Hammond": {
+    "city": "Hammond",
+    "city_ascii": "Hammond",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.969,
+    "lng": -92.4381,
+    "cafes": []
+  },
+  "Shorewood Hills": {
+    "city": "Shorewood Hills",
+    "city_ascii": "Shorewood Hills",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0789,
+    "lng": -89.4468,
+    "cafes": []
+  },
+  "Campbellsport": {
+    "city": "Campbellsport",
+    "city_ascii": "Campbellsport",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5975,
+    "lng": -88.2814,
+    "cafes": []
+  },
+  "Dousman": {
+    "city": "Dousman",
+    "city_ascii": "Dousman",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0092,
+    "lng": -88.4771,
+    "cafes": []
+  },
+  "Palmyra": {
+    "city": "Palmyra",
+    "city_ascii": "Palmyra",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8811,
+    "lng": -88.6,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5574,
+    "lng": -88.868,
+    "cafes": []
+  },
+  "Schofield": {
+    "city": "Schofield",
+    "city_ascii": "Schofield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9152,
+    "lng": -89.6144,
+    "cafes": []
+  },
+  "Chetek": {
+    "city": "Chetek",
+    "city_ascii": "Chetek",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.316,
+    "lng": -91.6532,
+    "cafes": []
+  },
+  "Eagle": {
+    "city": "Eagle",
+    "city_ascii": "Eagle",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.879,
+    "lng": -88.4697,
+    "cafes": []
+  },
+  "Butler": {
+    "city": "Butler",
+    "city_ascii": "Butler",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1084,
+    "lng": -88.0713,
+    "cafes": []
+  },
+  "Roberts": {
+    "city": "Roberts",
+    "city_ascii": "Roberts",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9733,
+    "lng": -92.5505,
+    "cafes": []
+  },
+  "Redgranite": {
+    "city": "Redgranite",
+    "city_ascii": "Redgranite",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0513,
+    "lng": -89.1059,
+    "cafes": []
+  },
+  "Lake Ripley": {
+    "city": "Lake Ripley",
+    "city_ascii": "Lake Ripley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0045,
+    "lng": -88.9829,
+    "cafes": []
+  },
+  "Wautoma": {
+    "city": "Wautoma",
+    "city_ascii": "Wautoma",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0668,
+    "lng": -89.2915,
+    "cafes": []
+  },
+  "Washburn": {
+    "city": "Washburn",
+    "city_ascii": "Washburn",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.677,
+    "lng": -90.9018,
+    "cafes": []
+  },
+  "Brice Prairie": {
+    "city": "Brice Prairie",
+    "city_ascii": "Brice Prairie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9375,
+    "lng": -91.3073,
+    "cafes": []
+  },
+  "Pardeeville": {
+    "city": "Pardeeville",
+    "city_ascii": "Pardeeville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5358,
+    "lng": -89.301,
+    "cafes": []
+  },
+  "Port Edwards": {
+    "city": "Port Edwards",
+    "city_ascii": "Port Edwards",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3484,
+    "lng": -89.854,
+    "cafes": []
+  },
+  "Browns Lake": {
+    "city": "Browns Lake",
+    "city_ascii": "Browns Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6909,
+    "lng": -88.237,
+    "cafes": []
+  },
+  "Fox Lake": {
+    "city": "Fox Lake",
+    "city_ascii": "Fox Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5619,
+    "lng": -88.913,
+    "cafes": []
+  },
+  "Cameron": {
+    "city": "Cameron",
+    "city_ascii": "Cameron",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4059,
+    "lng": -91.7422,
+    "cafes": []
+  },
+  "Weyauwega": {
+    "city": "Weyauwega",
+    "city_ascii": "Weyauwega",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.324,
+    "lng": -88.9333,
+    "cafes": []
+  },
+  "Galesville": {
+    "city": "Galesville",
+    "city_ascii": "Galesville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0839,
+    "lng": -91.358,
+    "cafes": []
+  },
+  "Fall River": {
+    "city": "Fall River",
+    "city_ascii": "Fall River",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3856,
+    "lng": -89.0455,
+    "cafes": []
+  },
+  "Trempealeau": {
+    "city": "Trempealeau",
+    "city_ascii": "Trempealeau",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0029,
+    "lng": -91.4284,
+    "cafes": []
+  },
+  "Osseo": {
+    "city": "Osseo",
+    "city_ascii": "Osseo",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5795,
+    "lng": -91.212,
+    "cafes": []
+  },
+  "Durand": {
+    "city": "Durand",
+    "city_ascii": "Durand",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.627,
+    "lng": -91.9607,
+    "cafes": []
+  },
+  "Black Earth": {
+    "city": "Black Earth",
+    "city_ascii": "Black Earth",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1344,
+    "lng": -89.747,
+    "cafes": []
+  },
+  "Mazomanie": {
+    "city": "Mazomanie",
+    "city_ascii": "Mazomanie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1731,
+    "lng": -89.7954,
+    "cafes": []
+  },
+  "Thorp": {
+    "city": "Thorp",
+    "city_ascii": "Thorp",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9579,
+    "lng": -90.8022,
+    "cafes": []
+  },
+  "Cleveland": {
+    "city": "Cleveland",
+    "city_ascii": "Cleveland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9177,
+    "lng": -87.7469,
+    "cafes": []
+  },
+  "Whitehall": {
+    "city": "Whitehall",
+    "city_ascii": "Whitehall",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3605,
+    "lng": -91.3377,
+    "cafes": []
+  },
+  "River Hills": {
+    "city": "River Hills",
+    "city_ascii": "River Hills",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1716,
+    "lng": -87.9353,
+    "cafes": []
+  },
+  "Wind Point": {
+    "city": "Wind Point",
+    "city_ascii": "Wind Point",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7814,
+    "lng": -87.7721,
+    "cafes": []
+  },
+  "Spencer": {
+    "city": "Spencer",
+    "city_ascii": "Spencer",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7544,
+    "lng": -90.2983,
+    "cafes": []
+  },
+  "Lac du Flambeau": {
+    "city": "Lac du Flambeau",
+    "city_ascii": "Lac du Flambeau",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.9696,
+    "lng": -89.8994,
+    "cafes": []
+  },
+  "Randolph": {
+    "city": "Randolph",
+    "city_ascii": "Randolph",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5397,
+    "lng": -89.0029,
+    "cafes": []
+  },
+  "Sharon": {
+    "city": "Sharon",
+    "city_ascii": "Sharon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5049,
+    "lng": -88.7402,
+    "cafes": []
+  },
+  "Orfordville": {
+    "city": "Orfordville",
+    "city_ascii": "Orfordville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6294,
+    "lng": -89.2572,
+    "cafes": []
+  },
+  "Phillips": {
+    "city": "Phillips",
+    "city_ascii": "Phillips",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.6958,
+    "lng": -90.4018,
+    "cafes": []
+  },
+  "Elroy": {
+    "city": "Elroy",
+    "city_ascii": "Elroy",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7419,
+    "lng": -90.2704,
+    "cafes": []
+  },
+  "Shell Lake": {
+    "city": "Shell Lake",
+    "city_ascii": "Shell Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.7322,
+    "lng": -91.9033,
+    "cafes": []
+  },
+  "Eagle River": {
+    "city": "Eagle River",
+    "city_ascii": "Eagle River",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.925,
+    "lng": -89.2561,
+    "cafes": []
+  },
+  "Cambridge": {
+    "city": "Cambridge",
+    "city_ascii": "Cambridge",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0071,
+    "lng": -89.0214,
+    "cafes": []
+  },
+  "Fall Creek": {
+    "city": "Fall Creek",
+    "city_ascii": "Fall Creek",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7639,
+    "lng": -91.2783,
+    "cafes": []
+  },
+  "Spring Green": {
+    "city": "Spring Green",
+    "city_ascii": "Spring Green",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1776,
+    "lng": -90.0688,
+    "cafes": []
+  },
+  "Crandon": {
+    "city": "Crandon",
+    "city_ascii": "Crandon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.5686,
+    "lng": -88.8973,
+    "cafes": []
+  },
+  "Woodville": {
+    "city": "Woodville",
+    "city_ascii": "Woodville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9483,
+    "lng": -92.2851,
+    "cafes": []
+  },
+  "Whiting": {
+    "city": "Whiting",
+    "city_ascii": "Whiting",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4907,
+    "lng": -89.56,
+    "cafes": []
+  },
+  "Cadott": {
+    "city": "Cadott",
+    "city_ascii": "Cadott",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9502,
+    "lng": -91.1532,
+    "cafes": []
+  },
+  "Random Lake": {
+    "city": "Random Lake",
+    "city_ascii": "Random Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5541,
+    "lng": -87.9548,
+    "cafes": []
+  },
+  "West Baraboo": {
+    "city": "West Baraboo",
+    "city_ascii": "West Baraboo",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4815,
+    "lng": -89.7718,
+    "cafes": []
+  },
+  "Bonduel": {
+    "city": "Bonduel",
+    "city_ascii": "Bonduel",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7383,
+    "lng": -88.4476,
+    "cafes": []
+  },
+  "Keshena": {
+    "city": "Keshena",
+    "city_ascii": "Keshena",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8697,
+    "lng": -88.6002,
+    "cafes": []
+  },
+  "Barneveld": {
+    "city": "Barneveld",
+    "city_ascii": "Barneveld",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0117,
+    "lng": -89.8969,
+    "cafes": []
+  },
+  "Legend Lake": {
+    "city": "Legend Lake",
+    "city_ascii": "Legend Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8909,
+    "lng": -88.544,
+    "cafes": []
+  },
+  "Independence": {
+    "city": "Independence",
+    "city_ascii": "Independence",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3328,
+    "lng": -91.4172,
+    "cafes": []
+  },
+  "Lannon": {
+    "city": "Lannon",
+    "city_ascii": "Lannon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1521,
+    "lng": -88.1605,
+    "cafes": []
+  },
+  "King": {
+    "city": "King",
+    "city_ascii": "King",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3402,
+    "lng": -89.1228,
+    "cafes": []
+  },
+  "Mishicot": {
+    "city": "Mishicot",
+    "city_ascii": "Mishicot",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2303,
+    "lng": -87.6423,
+    "cafes": []
+  },
+  "Brooklyn": {
+    "city": "Brooklyn",
+    "city_ascii": "Brooklyn",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8524,
+    "lng": -89.3723,
+    "cafes": []
+  },
+  "Stratford": {
+    "city": "Stratford",
+    "city_ascii": "Stratford",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8009,
+    "lng": -90.0722,
+    "cafes": []
+  },
+  "Hurley": {
+    "city": "Hurley",
+    "city_ascii": "Hurley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.4462,
+    "lng": -90.1983,
+    "cafes": []
+  },
+  "Montello": {
+    "city": "Montello",
+    "city_ascii": "Montello",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.794,
+    "lng": -89.3333,
+    "cafes": []
+  },
+  "Bangor": {
+    "city": "Bangor",
+    "city_ascii": "Bangor",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8937,
+    "lng": -90.9934,
+    "cafes": []
+  },
+  "St. Peter": {
+    "city": "St. Peter",
+    "city_ascii": "St. Peter",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8377,
+    "lng": -88.3466,
+    "cafes": []
+  },
+  "Niagara": {
+    "city": "Niagara",
+    "city_ascii": "Niagara",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.7801,
+    "lng": -87.9991,
+    "cafes": []
+  },
+  "Augusta": {
+    "city": "Augusta",
+    "city_ascii": "Augusta",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6784,
+    "lng": -91.1204,
+    "cafes": []
+  },
+  "Powers Lake": {
+    "city": "Powers Lake",
+    "city_ascii": "Powers Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5386,
+    "lng": -88.2943,
+    "cafes": []
+  },
+  "Edgar": {
+    "city": "Edgar",
+    "city_ascii": "Edgar",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9229,
+    "lng": -89.9626,
+    "cafes": []
+  },
+  "Loyal": {
+    "city": "Loyal",
+    "city_ascii": "Loyal",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7366,
+    "lng": -90.4956,
+    "cafes": []
+  },
+  "Grantsburg": {
+    "city": "Grantsburg",
+    "city_ascii": "Grantsburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.7813,
+    "lng": -92.6836,
+    "cafes": []
+  },
+  "Colfax": {
+    "city": "Colfax",
+    "city_ascii": "Colfax",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.997,
+    "lng": -91.7264,
+    "cafes": []
+  },
+  "Lauderdale Lakes": {
+    "city": "Lauderdale Lakes",
+    "city_ascii": "Lauderdale Lakes",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7709,
+    "lng": -88.5778,
+    "cafes": []
+  },
+  "Gillett": {
+    "city": "Gillett",
+    "city_ascii": "Gillett",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8897,
+    "lng": -88.3063,
+    "cafes": []
+  },
+  "Cornell": {
+    "city": "Cornell",
+    "city_ascii": "Cornell",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1632,
+    "lng": -91.1497,
+    "cafes": []
+  },
+  "Hillsboro": {
+    "city": "Hillsboro",
+    "city_ascii": "Hillsboro",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.656,
+    "lng": -90.3365,
+    "cafes": []
+  },
+  "Theresa": {
+    "city": "Theresa",
+    "city_ascii": "Theresa",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5164,
+    "lng": -88.4541,
+    "cafes": []
+  },
+  "Maple Bluff": {
+    "city": "Maple Bluff",
+    "city_ascii": "Maple Bluff",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1131,
+    "lng": -89.3718,
+    "cafes": []
+  },
+  "Manawa": {
+    "city": "Manawa",
+    "city_ascii": "Manawa",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4613,
+    "lng": -88.9204,
+    "cafes": []
+  },
+  "Big Bend": {
+    "city": "Big Bend",
+    "city_ascii": "Big Bend",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9021,
+    "lng": -88.2121,
+    "cafes": []
+  },
+  "Shullsburg": {
+    "city": "Shullsburg",
+    "city_ascii": "Shullsburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5733,
+    "lng": -90.2348,
+    "cafes": []
+  },
+  "Newburg": {
+    "city": "Newburg",
+    "city_ascii": "Newburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4321,
+    "lng": -88.0477,
+    "cafes": []
+  },
+  "Markesan": {
+    "city": "Markesan",
+    "city_ascii": "Markesan",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7098,
+    "lng": -88.9907,
+    "cafes": []
+  },
+  "Nashotah": {
+    "city": "Nashotah",
+    "city_ascii": "Nashotah",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0938,
+    "lng": -88.4038,
+    "cafes": []
+  },
+  "Westfield": {
+    "city": "Westfield",
+    "city_ascii": "Westfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8851,
+    "lng": -89.4926,
+    "cafes": []
+  },
+  "Black Creek": {
+    "city": "Black Creek",
+    "city_ascii": "Black Creek",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4742,
+    "lng": -88.4506,
+    "cafes": []
+  },
+  "Spring Valley": {
+    "city": "Spring Valley",
+    "city_ascii": "Spring Valley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8498,
+    "lng": -92.2442,
+    "cafes": []
+  },
+  "Cashton": {
+    "city": "Cashton",
+    "city_ascii": "Cashton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7412,
+    "lng": -90.7866,
+    "cafes": []
+  },
+  "Little Round Lake": {
+    "city": "Little Round Lake",
+    "city_ascii": "Little Round Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.9699,
+    "lng": -91.3662,
+    "cafes": []
+  },
+  "Iola": {
+    "city": "Iola",
+    "city_ascii": "Iola",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5091,
+    "lng": -89.1249,
+    "cafes": []
+  },
+  "Oakfield": {
+    "city": "Oakfield",
+    "city_ascii": "Oakfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6843,
+    "lng": -88.5476,
+    "cafes": []
+  },
+  "Glenwood City": {
+    "city": "Glenwood City",
+    "city_ascii": "Glenwood City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0521,
+    "lng": -92.1658,
+    "cafes": []
+  },
+  "Lyons": {
+    "city": "Lyons",
+    "city_ascii": "Lyons",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6485,
+    "lng": -88.3599,
+    "cafes": []
+  },
+  "Boyceville": {
+    "city": "Boyceville",
+    "city_ascii": "Boyceville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0427,
+    "lng": -92.0384,
+    "cafes": []
+  },
+  "Lake Camelot": {
+    "city": "Lake Camelot",
+    "city_ascii": "Lake Camelot",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2147,
+    "lng": -89.7624,
+    "cafes": []
+  },
+  "Reedsville": {
+    "city": "Reedsville",
+    "city_ascii": "Reedsville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1524,
+    "lng": -87.9516,
+    "cafes": []
+  },
+  "Monticello": {
+    "city": "Monticello",
+    "city_ascii": "Monticello",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7456,
+    "lng": -89.5899,
+    "cafes": []
+  },
+  "Luck": {
+    "city": "Luck",
+    "city_ascii": "Luck",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.5718,
+    "lng": -92.4666,
+    "cafes": []
+  },
+  "Darien": {
+    "city": "Darien",
+    "city_ascii": "Darien",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6007,
+    "lng": -88.7129,
+    "cafes": []
+  },
+  "Blair": {
+    "city": "Blair",
+    "city_ascii": "Blair",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3083,
+    "lng": -91.2426,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6743,
+    "lng": -88.8903,
+    "cafes": []
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "city_ascii": "Princeton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8526,
+    "lng": -89.1305,
+    "cafes": []
+  },
+  "Greenwood": {
+    "city": "Greenwood",
+    "city_ascii": "Greenwood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7655,
+    "lng": -90.5989,
+    "cafes": []
+  },
+  "Frederic": {
+    "city": "Frederic",
+    "city_ascii": "Frederic",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.6548,
+    "lng": -92.4646,
+    "cafes": []
+  },
+  "Necedah": {
+    "city": "Necedah",
+    "city_ascii": "Necedah",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0233,
+    "lng": -90.0717,
+    "cafes": []
+  },
+  "Strum": {
+    "city": "Strum",
+    "city_ascii": "Strum",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5531,
+    "lng": -91.3876,
+    "cafes": []
+  },
+  "Muscoda": {
+    "city": "Muscoda",
+    "city_ascii": "Muscoda",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1872,
+    "lng": -90.4333,
+    "cafes": []
+  },
+  "Hilbert": {
+    "city": "Hilbert",
+    "city_ascii": "Hilbert",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1415,
+    "lng": -88.1611,
+    "cafes": []
+  },
+  "Elk Mound": {
+    "city": "Elk Mound",
+    "city_ascii": "Elk Mound",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8744,
+    "lng": -91.6862,
+    "cafes": []
+  },
+  "Elkhart Lake": {
+    "city": "Elkhart Lake",
+    "city_ascii": "Elkhart Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8322,
+    "lng": -88.0147,
+    "cafes": []
+  },
+  "Hazel Green": {
+    "city": "Hazel Green",
+    "city_ascii": "Hazel Green",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5341,
+    "lng": -90.4361,
+    "cafes": []
+  },
+  "Rio": {
+    "city": "Rio",
+    "city_ascii": "Rio",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4497,
+    "lng": -89.2388,
+    "cafes": []
+  },
+  "Albany": {
+    "city": "Albany",
+    "city_ascii": "Albany",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7069,
+    "lng": -89.4367,
+    "cafes": []
+  },
+  "Hustisford": {
+    "city": "Hustisford",
+    "city_ascii": "Hustisford",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3441,
+    "lng": -88.6031,
+    "cafes": []
+  },
+  "Plainfield": {
+    "city": "Plainfield",
+    "city_ascii": "Plainfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2175,
+    "lng": -89.4969,
+    "cafes": []
+  },
+  "Green Lake": {
+    "city": "Green Lake",
+    "city_ascii": "Green Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8441,
+    "lng": -88.9561,
+    "cafes": []
+  },
+  "Butte des Morts": {
+    "city": "Butte des Morts",
+    "city_ascii": "Butte des Morts",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1058,
+    "lng": -88.6564,
+    "cafes": []
+  },
+  "Clear Lake": {
+    "city": "Clear Lake",
+    "city_ascii": "Clear Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.2491,
+    "lng": -92.2675,
+    "cafes": []
+  },
+  "Dane": {
+    "city": "Dane",
+    "city_ascii": "Dane",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2497,
+    "lng": -89.4993,
+    "cafes": []
+  },
+  "Dresser": {
+    "city": "Dresser",
+    "city_ascii": "Dresser",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3616,
+    "lng": -92.6344,
+    "cafes": []
+  },
+  "Amherst": {
+    "city": "Amherst",
+    "city_ascii": "Amherst",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4475,
+    "lng": -89.2832,
+    "cafes": []
+  },
+  "Crivitz": {
+    "city": "Crivitz",
+    "city_ascii": "Crivitz",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.2337,
+    "lng": -88.0067,
+    "cafes": []
+  },
+  "Eagle Lake": {
+    "city": "Eagle Lake",
+    "city_ascii": "Eagle Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7014,
+    "lng": -88.1291,
+    "cafes": []
+  },
+  "Sister Bay": {
+    "city": "Sister Bay",
+    "city_ascii": "Sister Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1835,
+    "lng": -87.1271,
+    "cafes": []
+  },
+  "Chain O' Lakes": {
+    "city": "Chain O' Lakes",
+    "city_ascii": "Chain O' Lakes",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3318,
+    "lng": -89.1672,
+    "cafes": []
+  },
+  "Athens": {
+    "city": "Athens",
+    "city_ascii": "Athens",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0349,
+    "lng": -90.0792,
+    "cafes": []
+  },
+  "Belmont": {
+    "city": "Belmont",
+    "city_ascii": "Belmont",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7379,
+    "lng": -90.3346,
+    "cafes": []
+  },
+  "Wittenberg": {
+    "city": "Wittenberg",
+    "city_ascii": "Wittenberg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.827,
+    "lng": -89.1664,
+    "cafes": []
+  },
+  "Kekoskee": {
+    "city": "Kekoskee",
+    "city_ascii": "Kekoskee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5019,
+    "lng": -88.5863,
+    "cafes": []
+  },
+  "Lake Koshkonong": {
+    "city": "Lake Koshkonong",
+    "city_ascii": "Lake Koshkonong",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8838,
+    "lng": -88.9424,
+    "cafes": []
+  },
+  "Rosendale": {
+    "city": "Rosendale",
+    "city_ascii": "Rosendale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.808,
+    "lng": -88.6732,
+    "cafes": []
+  },
+  "Ashippun": {
+    "city": "Ashippun",
+    "city_ascii": "Ashippun",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2182,
+    "lng": -88.5159,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3351,
+    "lng": -89.3726,
+    "cafes": []
+  },
+  "Wild Rose": {
+    "city": "Wild Rose",
+    "city_ascii": "Wild Rose",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1788,
+    "lng": -89.2442,
+    "cafes": []
+  },
+  "Allenton": {
+    "city": "Allenton",
+    "city_ascii": "Allenton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4218,
+    "lng": -88.3448,
+    "cafes": []
+  },
+  "Highland": {
+    "city": "Highland",
+    "city_ascii": "Highland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0475,
+    "lng": -90.3801,
+    "cafes": []
+  },
+  "Iron Ridge": {
+    "city": "Iron Ridge",
+    "city_ascii": "Iron Ridge",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3982,
+    "lng": -88.532,
+    "cafes": []
+  },
+  "Hingham": {
+    "city": "Hingham",
+    "city_ascii": "Hingham",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6465,
+    "lng": -87.9151,
+    "cafes": []
+  },
+  "Whitelaw": {
+    "city": "Whitelaw",
+    "city_ascii": "Whitelaw",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1453,
+    "lng": -87.8278,
+    "cafes": []
+  },
+  "Greenleaf": {
+    "city": "Greenleaf",
+    "city_ascii": "Greenleaf",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.317,
+    "lng": -88.0972,
+    "cafes": []
+  },
+  "Buffalo City": {
+    "city": "Buffalo City",
+    "city_ascii": "Buffalo City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2203,
+    "lng": -91.8579,
+    "cafes": []
+  },
+  "Brandon": {
+    "city": "Brandon",
+    "city_ascii": "Brandon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7352,
+    "lng": -88.7819,
+    "cafes": []
+  },
+  "Benton": {
+    "city": "Benton",
+    "city_ascii": "Benton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.57,
+    "lng": -90.3835,
+    "cafes": []
+  },
+  "Dickeyville": {
+    "city": "Dickeyville",
+    "city_ascii": "Dickeyville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6246,
+    "lng": -90.5914,
+    "cafes": []
+  },
+  "Turtle Lake": {
+    "city": "Turtle Lake",
+    "city_ascii": "Turtle Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3933,
+    "lng": -92.1452,
+    "cafes": []
+  },
+  "Centuria": {
+    "city": "Centuria",
+    "city_ascii": "Centuria",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4498,
+    "lng": -92.5579,
+    "cafes": []
+  },
+  "Lake Nebagamon": {
+    "city": "Lake Nebagamon",
+    "city_ascii": "Lake Nebagamon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.512,
+    "lng": -91.6995,
+    "cafes": []
+  },
+  "Arena": {
+    "city": "Arena",
+    "city_ascii": "Arena",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1636,
+    "lng": -89.9103,
+    "cafes": []
+  },
+  "Owen": {
+    "city": "Owen",
+    "city_ascii": "Owen",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9485,
+    "lng": -90.5621,
+    "cafes": []
+  },
+  "St. Nazianz": {
+    "city": "St. Nazianz",
+    "city_ascii": "St. Nazianz",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0067,
+    "lng": -87.9246,
+    "cafes": []
+  },
+  "Rib Lake": {
+    "city": "Rib Lake",
+    "city_ascii": "Rib Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3195,
+    "lng": -90.203,
+    "cafes": []
+  },
+  "Footville": {
+    "city": "Footville",
+    "city_ascii": "Footville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6715,
+    "lng": -89.2084,
+    "cafes": []
+  },
+  "Argyle": {
+    "city": "Argyle",
+    "city_ascii": "Argyle",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7014,
+    "lng": -89.8657,
+    "cafes": []
+  },
+  "Blue Mounds": {
+    "city": "Blue Mounds",
+    "city_ascii": "Blue Mounds",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0178,
+    "lng": -89.8269,
+    "cafes": []
+  },
+  "Valders": {
+    "city": "Valders",
+    "city_ascii": "Valders",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0696,
+    "lng": -87.8858,
+    "cafes": []
+  },
+  "Stoddard": {
+    "city": "Stoddard",
+    "city_ascii": "Stoddard",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6624,
+    "lng": -91.2179,
+    "cafes": []
+  },
+  "Coon Valley": {
+    "city": "Coon Valley",
+    "city_ascii": "Coon Valley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7024,
+    "lng": -91.0112,
+    "cafes": []
+  },
+  "Coleman": {
+    "city": "Coleman",
+    "city_ascii": "Coleman",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0673,
+    "lng": -88.0358,
+    "cafes": []
+  },
+  "Lake Arrowhead": {
+    "city": "Lake Arrowhead",
+    "city_ascii": "Lake Arrowhead",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2036,
+    "lng": -89.8377,
+    "cafes": []
+  },
+  "Pittsville": {
+    "city": "Pittsville",
+    "city_ascii": "Pittsville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.439,
+    "lng": -90.1301,
+    "cafes": []
+  },
+  "Reeseville": {
+    "city": "Reeseville",
+    "city_ascii": "Reeseville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3062,
+    "lng": -88.8445,
+    "cafes": []
+  },
+  "Lone Rock": {
+    "city": "Lone Rock",
+    "city_ascii": "Lone Rock",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1857,
+    "lng": -90.2012,
+    "cafes": []
+  },
+  "Balsam Lake": {
+    "city": "Balsam Lake",
+    "city_ascii": "Balsam Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4585,
+    "lng": -92.4528,
+    "cafes": []
+  },
+  "Dorchester": {
+    "city": "Dorchester",
+    "city_ascii": "Dorchester",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0025,
+    "lng": -90.3308,
+    "cafes": []
+  },
+  "Chenequa": {
+    "city": "Chenequa",
+    "city_ascii": "Chenequa",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1229,
+    "lng": -88.3838,
+    "cafes": []
+  },
+  "Milltown": {
+    "city": "Milltown",
+    "city_ascii": "Milltown",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.5261,
+    "lng": -92.5015,
+    "cafes": []
+  },
+  "Auburndale": {
+    "city": "Auburndale",
+    "city_ascii": "Auburndale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6266,
+    "lng": -90.0144,
+    "cafes": []
+  },
+  "Montreal": {
+    "city": "Montreal",
+    "city_ascii": "Montreal",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.4312,
+    "lng": -90.2382,
+    "cafes": []
+  },
+  "Alma": {
+    "city": "Alma",
+    "city_ascii": "Alma",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3374,
+    "lng": -91.9221,
+    "cafes": []
+  },
+  "Lyndon Station": {
+    "city": "Lyndon Station",
+    "city_ascii": "Lyndon Station",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7088,
+    "lng": -89.8937,
+    "cafes": []
+  },
+  "Stockbridge": {
+    "city": "Stockbridge",
+    "city_ascii": "Stockbridge",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0717,
+    "lng": -88.3104,
+    "cafes": []
+  },
+  "Hewitt": {
+    "city": "Hewitt",
+    "city_ascii": "Hewitt",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6425,
+    "lng": -90.1048,
+    "cafes": []
+  },
+  "Pepin": {
+    "city": "Pepin",
+    "city_ascii": "Pepin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4425,
+    "lng": -92.1481,
+    "cafes": []
+  },
+  "Plain": {
+    "city": "Plain",
+    "city_ascii": "Plain",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2779,
+    "lng": -90.0423,
+    "cafes": []
+  },
+  "Shiocton": {
+    "city": "Shiocton",
+    "city_ascii": "Shiocton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4449,
+    "lng": -88.5768,
+    "cafes": []
+  },
+  "Potter Lake": {
+    "city": "Potter Lake",
+    "city_ascii": "Potter Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8195,
+    "lng": -88.349,
+    "cafes": []
+  },
+  "Eden": {
+    "city": "Eden",
+    "city_ascii": "Eden",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6928,
+    "lng": -88.3642,
+    "cafes": []
+  },
+  "Cambria": {
+    "city": "Cambria",
+    "city_ascii": "Cambria",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5416,
+    "lng": -89.1108,
+    "cafes": []
+  },
+  "Lake Ivanhoe": {
+    "city": "Lake Ivanhoe",
+    "city_ascii": "Lake Ivanhoe",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5792,
+    "lng": -88.3359,
+    "cafes": []
+  },
+  "Iron River": {
+    "city": "Iron River",
+    "city_ascii": "Iron River",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.5671,
+    "lng": -91.4069,
+    "cafes": []
+  },
+  "Almena": {
+    "city": "Almena",
+    "city_ascii": "Almena",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4149,
+    "lng": -92.0384,
+    "cafes": []
+  },
+  "Fountain City": {
+    "city": "Fountain City",
+    "city_ascii": "Fountain City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1202,
+    "lng": -91.697,
+    "cafes": []
+  },
+  "La Farge": {
+    "city": "La Farge",
+    "city_ascii": "La Farge",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5782,
+    "lng": -90.6381,
+    "cafes": []
+  },
+  "Friendship": {
+    "city": "Friendship",
+    "city_ascii": "Friendship",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.972,
+    "lng": -89.8203,
+    "cafes": []
+  },
+  "North Freedom": {
+    "city": "North Freedom",
+    "city_ascii": "North Freedom",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.459,
+    "lng": -89.8603,
+    "cafes": []
+  },
+  "Neopit": {
+    "city": "Neopit",
+    "city_ascii": "Neopit",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9877,
+    "lng": -88.8227,
+    "cafes": []
+  },
+  "Solon Springs": {
+    "city": "Solon Springs",
+    "city_ascii": "Solon Springs",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.3495,
+    "lng": -91.8207,
+    "cafes": []
+  },
+  "Bloomington": {
+    "city": "Bloomington",
+    "city_ascii": "Bloomington",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8931,
+    "lng": -90.9264,
+    "cafes": []
+  },
+  "Eleva": {
+    "city": "Eleva",
+    "city_ascii": "Eleva",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5764,
+    "lng": -91.4705,
+    "cafes": []
+  },
+  "Van Dyne": {
+    "city": "Van Dyne",
+    "city_ascii": "Van Dyne",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8862,
+    "lng": -88.5012,
+    "cafes": []
+  },
+  "Sullivan": {
+    "city": "Sullivan",
+    "city_ascii": "Sullivan",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0118,
+    "lng": -88.5903,
+    "cafes": []
+  },
+  "Siren": {
+    "city": "Siren",
+    "city_ascii": "Siren",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.7826,
+    "lng": -92.3823,
+    "cafes": []
+  },
+  "Elmwood": {
+    "city": "Elmwood",
+    "city_ascii": "Elmwood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.78,
+    "lng": -92.1491,
+    "cafes": []
+  },
+  "Oconomowoc Lake": {
+    "city": "Oconomowoc Lake",
+    "city_ascii": "Oconomowoc Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0975,
+    "lng": -88.4521,
+    "cafes": []
+  },
+  "Mount Calvary": {
+    "city": "Mount Calvary",
+    "city_ascii": "Mount Calvary",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8263,
+    "lng": -88.2461,
+    "cafes": []
+  },
+  "Tigerton": {
+    "city": "Tigerton",
+    "city_ascii": "Tigerton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7409,
+    "lng": -89.0459,
+    "cafes": []
+  },
+  "Rockland": {
+    "city": "Rockland",
+    "city_ascii": "Rockland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9077,
+    "lng": -90.9165,
+    "cafes": []
+  },
+  "Biron": {
+    "city": "Biron",
+    "city_ascii": "Biron",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4281,
+    "lng": -89.766,
+    "cafes": []
+  },
+  "Cassville": {
+    "city": "Cassville",
+    "city_ascii": "Cassville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.715,
+    "lng": -90.9891,
+    "cafes": []
+  },
+  "Brownsville": {
+    "city": "Brownsville",
+    "city_ascii": "Brownsville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6147,
+    "lng": -88.4953,
+    "cafes": []
+  },
+  "Wonewoc": {
+    "city": "Wonewoc",
+    "city_ascii": "Wonewoc",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6531,
+    "lng": -90.2239,
+    "cafes": []
+  },
+  "Birnamwood": {
+    "city": "Birnamwood",
+    "city_ascii": "Birnamwood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9319,
+    "lng": -89.2094,
+    "cafes": []
+  },
+  "Wyocena": {
+    "city": "Wyocena",
+    "city_ascii": "Wyocena",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4931,
+    "lng": -89.3099,
+    "cafes": []
+  },
+  "Francis Creek": {
+    "city": "Francis Creek",
+    "city_ascii": "Francis Creek",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2006,
+    "lng": -87.7209,
+    "cafes": []
+  },
+  "Taycheedah": {
+    "city": "Taycheedah",
+    "city_ascii": "Taycheedah",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8118,
+    "lng": -88.3916,
+    "cafes": []
+  },
+  "Dale": {
+    "city": "Dale",
+    "city_ascii": "Dale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2757,
+    "lng": -88.673,
+    "cafes": []
+  },
+  "Cascade": {
+    "city": "Cascade",
+    "city_ascii": "Cascade",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6599,
+    "lng": -88.007,
+    "cafes": []
+  },
+  "Minong": {
+    "city": "Minong",
+    "city_ascii": "Minong",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.0978,
+    "lng": -91.8263,
+    "cafes": []
+  },
+  "Blanchardville": {
+    "city": "Blanchardville",
+    "city_ascii": "Blanchardville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8094,
+    "lng": -89.8606,
+    "cafes": []
+  },
+  "Wauzeka": {
+    "city": "Wauzeka",
+    "city_ascii": "Wauzeka",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0851,
+    "lng": -90.8995,
+    "cafes": []
+  },
+  "Forest Junction": {
+    "city": "Forest Junction",
+    "city_ascii": "Forest Junction",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2139,
+    "lng": -88.1496,
+    "cafes": []
+  },
+  "Camp Douglas": {
+    "city": "Camp Douglas",
+    "city_ascii": "Camp Douglas",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9197,
+    "lng": -90.2697,
+    "cafes": []
+  },
+  "Chief Lake": {
+    "city": "Chief Lake",
+    "city_ascii": "Chief Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.9209,
+    "lng": -91.3303,
+    "cafes": []
+  },
+  "Lily Lake": {
+    "city": "Lily Lake",
+    "city_ascii": "Lily Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5629,
+    "lng": -88.213,
+    "cafes": []
+  },
+  "Melrose": {
+    "city": "Melrose",
+    "city_ascii": "Melrose",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1316,
+    "lng": -90.9969,
+    "cafes": []
+  },
+  "Wausaukee": {
+    "city": "Wausaukee",
+    "city_ascii": "Wausaukee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.378,
+    "lng": -87.9553,
+    "cafes": []
+  },
+  "Stetsonville": {
+    "city": "Stetsonville",
+    "city_ascii": "Stetsonville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0772,
+    "lng": -90.3143,
+    "cafes": []
+  },
+  "Ettrick": {
+    "city": "Ettrick",
+    "city_ascii": "Ettrick",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1695,
+    "lng": -91.2651,
+    "cafes": []
+  },
+  "Webster": {
+    "city": "Webster",
+    "city_ascii": "Webster",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.8798,
+    "lng": -92.3628,
+    "cafes": []
+  },
+  "Montfort": {
+    "city": "Montfort",
+    "city_ascii": "Montfort",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9697,
+    "lng": -90.4331,
+    "cafes": []
+  },
+  "Polonia": {
+    "city": "Polonia",
+    "city_ascii": "Polonia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5756,
+    "lng": -89.4118,
+    "cafes": []
+  },
+  "Bancroft": {
+    "city": "Bancroft",
+    "city_ascii": "Bancroft",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3093,
+    "lng": -89.5073,
+    "cafes": []
+  },
+  "Winchester": {
+    "city": "Winchester",
+    "city_ascii": "Winchester",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1982,
+    "lng": -88.6599,
+    "cafes": []
+  },
+  "Potosi": {
+    "city": "Potosi",
+    "city_ascii": "Potosi",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6876,
+    "lng": -90.7105,
+    "cafes": []
+  },
+  "Norwalk": {
+    "city": "Norwalk",
+    "city_ascii": "Norwalk",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8342,
+    "lng": -90.6269,
+    "cafes": []
+  },
+  "Poplar": {
+    "city": "Poplar",
+    "city_ascii": "Poplar",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.5828,
+    "lng": -91.7836,
+    "cafes": []
+  },
+  "Rome": {
+    "city": "Rome",
+    "city_ascii": "Rome",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9823,
+    "lng": -88.6389,
+    "cafes": []
+  },
+  "Neosho": {
+    "city": "Neosho",
+    "city_ascii": "Neosho",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3101,
+    "lng": -88.5192,
+    "cafes": []
+  },
+  "Bluffview": {
+    "city": "Bluffview",
+    "city_ascii": "Bluffview",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3641,
+    "lng": -89.773,
+    "cafes": []
+  },
+  "Casco": {
+    "city": "Casco",
+    "city_ascii": "Casco",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5558,
+    "lng": -87.6197,
+    "cafes": []
+  },
+  "Ridgeway": {
+    "city": "Ridgeway",
+    "city_ascii": "Ridgeway",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9986,
+    "lng": -89.993,
+    "cafes": []
+  },
+  "Hatley": {
+    "city": "Hatley",
+    "city_ascii": "Hatley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8866,
+    "lng": -89.3371,
+    "cafes": []
+  },
+  "Soldiers Grove": {
+    "city": "Soldiers Grove",
+    "city_ascii": "Soldiers Grove",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3922,
+    "lng": -90.7735,
+    "cafes": []
+  },
+  "Fremont": {
+    "city": "Fremont",
+    "city_ascii": "Fremont",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2602,
+    "lng": -88.8715,
+    "cafes": []
+  },
+  "Viola": {
+    "city": "Viola",
+    "city_ascii": "Viola",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.507,
+    "lng": -90.6735,
+    "cafes": []
+  },
+  "Bayfield": {
+    "city": "Bayfield",
+    "city_ascii": "Bayfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.8142,
+    "lng": -90.8228,
+    "cafes": []
+  },
+  "Park Ridge": {
+    "city": "Park Ridge",
+    "city_ascii": "Park Ridge",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.52,
+    "lng": -89.5463,
+    "cafes": []
+  },
+  "Alma Center": {
+    "city": "Alma Center",
+    "city_ascii": "Alma Center",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.437,
+    "lng": -90.9128,
+    "cafes": []
+  },
+  "Plum City": {
+    "city": "Plum City",
+    "city_ascii": "Plum City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6338,
+    "lng": -92.1918,
+    "cafes": []
+  },
+  "Star Prairie": {
+    "city": "Star Prairie",
+    "city_ascii": "Star Prairie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1975,
+    "lng": -92.5321,
+    "cafes": []
+  },
+  "Gays Mills": {
+    "city": "Gays Mills",
+    "city_ascii": "Gays Mills",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.322,
+    "lng": -90.8489,
+    "cafes": []
+  },
+  "Forestville": {
+    "city": "Forestville",
+    "city_ascii": "Forestville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6908,
+    "lng": -87.4787,
+    "cafes": []
+  },
+  "Merrimac": {
+    "city": "Merrimac",
+    "city_ascii": "Merrimac",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3741,
+    "lng": -89.6272,
+    "cafes": []
+  },
+  "Dellwood": {
+    "city": "Dellwood",
+    "city_ascii": "Dellwood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9545,
+    "lng": -89.9341,
+    "cafes": []
+  },
+  "Gresham": {
+    "city": "Gresham",
+    "city_ascii": "Gresham",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8478,
+    "lng": -88.7856,
+    "cafes": []
+  },
+  "Merrillan": {
+    "city": "Merrillan",
+    "city_ascii": "Merrillan",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4488,
+    "lng": -90.834,
+    "cafes": []
+  },
+  "Coloma": {
+    "city": "Coloma",
+    "city_ascii": "Coloma",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0387,
+    "lng": -89.5311,
+    "cafes": []
+  },
+  "Waubeka": {
+    "city": "Waubeka",
+    "city_ascii": "Waubeka",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4708,
+    "lng": -87.9926,
+    "cafes": []
+  },
+  "Gibbsville": {
+    "city": "Gibbsville",
+    "city_ascii": "Gibbsville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6521,
+    "lng": -87.8318,
+    "cafes": []
+  },
+  "New Auburn": {
+    "city": "New Auburn",
+    "city_ascii": "New Auburn",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1988,
+    "lng": -91.5666,
+    "cafes": []
+  },
+  "Woodruff": {
+    "city": "Woodruff",
+    "city_ascii": "Woodruff",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.8946,
+    "lng": -89.6912,
+    "cafes": []
+  },
+  "Laona": {
+    "city": "Laona",
+    "city_ascii": "Laona",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.5597,
+    "lng": -88.6697,
+    "cafes": []
+  },
+  "Linden": {
+    "city": "Linden",
+    "city_ascii": "Linden",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9184,
+    "lng": -90.2742,
+    "cafes": []
+  },
+  "Mercer": {
+    "city": "Mercer",
+    "city_ascii": "Mercer",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.1635,
+    "lng": -90.0528,
+    "cafes": []
+  },
+  "Mellen": {
+    "city": "Mellen",
+    "city_ascii": "Mellen",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.324,
+    "lng": -90.6605,
+    "cafes": []
+  },
+  "Boyd": {
+    "city": "Boyd",
+    "city_ascii": "Boyd",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9533,
+    "lng": -91.0398,
+    "cafes": []
+  },
+  "Lena": {
+    "city": "Lena",
+    "city_ascii": "Lena",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.953,
+    "lng": -88.0476,
+    "cafes": []
+  },
+  "Wilton": {
+    "city": "Wilton",
+    "city_ascii": "Wilton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8132,
+    "lng": -90.5268,
+    "cafes": []
+  },
+  "St. Joseph": {
+    "city": "St. Joseph",
+    "city_ascii": "St. Joseph",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7855,
+    "lng": -91.0436,
+    "cafes": []
+  },
+  "Cecil": {
+    "city": "Cecil",
+    "city_ascii": "Cecil",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8108,
+    "lng": -88.4485,
+    "cafes": []
+  },
+  "Elmwood Park": {
+    "city": "Elmwood Park",
+    "city_ascii": "Elmwood Park",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6917,
+    "lng": -87.8223,
+    "cafes": []
+  },
+  "Withee": {
+    "city": "Withee",
+    "city_ascii": "Withee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9508,
+    "lng": -90.5989,
+    "cafes": []
+  },
+  "Warrens": {
+    "city": "Warrens",
+    "city_ascii": "Warrens",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1287,
+    "lng": -90.5156,
+    "cafes": []
+  },
+  "Livingston": {
+    "city": "Livingston",
+    "city_ascii": "Livingston",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9001,
+    "lng": -90.4337,
+    "cafes": []
+  },
+  "Mole Lake": {
+    "city": "Mole Lake",
+    "city_ascii": "Mole Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4859,
+    "lng": -88.9823,
+    "cafes": []
+  },
+  "Endeavor": {
+    "city": "Endeavor",
+    "city_ascii": "Endeavor",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7146,
+    "lng": -89.4684,
+    "cafes": []
+  },
+  "Knapp": {
+    "city": "Knapp",
+    "city_ascii": "Knapp",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9514,
+    "lng": -92.0769,
+    "cafes": []
+  },
+  "Oxford": {
+    "city": "Oxford",
+    "city_ascii": "Oxford",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7799,
+    "lng": -89.5657,
+    "cafes": []
+  },
+  "De Soto": {
+    "city": "De Soto",
+    "city_ascii": "De Soto",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4283,
+    "lng": -91.1963,
+    "cafes": []
+  },
+  "Lohrville": {
+    "city": "Lohrville",
+    "city_ascii": "Lohrville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0382,
+    "lng": -89.1201,
+    "cafes": []
+  },
+  "Rudolph": {
+    "city": "Rudolph",
+    "city_ascii": "Rudolph",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4972,
+    "lng": -89.8018,
+    "cafes": []
+  },
+  "Blue River": {
+    "city": "Blue River",
+    "city_ascii": "Blue River",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1844,
+    "lng": -90.5719,
+    "cafes": []
+  },
+  "Vesper": {
+    "city": "Vesper",
+    "city_ascii": "Vesper",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4805,
+    "lng": -89.9676,
+    "cafes": []
+  },
+  "Mattoon": {
+    "city": "Mattoon",
+    "city_ascii": "Mattoon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0046,
+    "lng": -89.0411,
+    "cafes": []
+  },
+  "Rosholt": {
+    "city": "Rosholt",
+    "city_ascii": "Rosholt",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6301,
+    "lng": -89.3053,
+    "cafes": []
+  },
+  "South Wayne": {
+    "city": "South Wayne",
+    "city_ascii": "South Wayne",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5676,
+    "lng": -89.8763,
+    "cafes": []
+  },
+  "Cochrane": {
+    "city": "Cochrane",
+    "city_ascii": "Cochrane",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2279,
+    "lng": -91.838,
+    "cafes": []
+  },
+  "St. Cloud": {
+    "city": "St. Cloud",
+    "city_ascii": "St. Cloud",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8245,
+    "lng": -88.1687,
+    "cafes": []
+  },
+  "Avoca": {
+    "city": "Avoca",
+    "city_ascii": "Avoca",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1906,
+    "lng": -90.326,
+    "cafes": []
+  },
+  "Prentice": {
+    "city": "Prentice",
+    "city_ascii": "Prentice",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.5409,
+    "lng": -90.2897,
+    "cafes": []
+  },
+  "Gilman": {
+    "city": "Gilman",
+    "city_ascii": "Gilman",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1662,
+    "lng": -90.8072,
+    "cafes": []
+  },
+  "Prairie Farm": {
+    "city": "Prairie Farm",
+    "city_ascii": "Prairie Farm",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.2368,
+    "lng": -91.9804,
+    "cafes": []
+  },
+  "Adell": {
+    "city": "Adell",
+    "city_ascii": "Adell",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6212,
+    "lng": -87.9482,
+    "cafes": []
+  },
+  "Neshkoro": {
+    "city": "Neshkoro",
+    "city_ascii": "Neshkoro",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9649,
+    "lng": -89.2159,
+    "cafes": []
+  },
+  "Glenbeulah": {
+    "city": "Glenbeulah",
+    "city_ascii": "Glenbeulah",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7982,
+    "lng": -88.0464,
+    "cafes": []
+  },
+  "Caroline": {
+    "city": "Caroline",
+    "city_ascii": "Caroline",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.722,
+    "lng": -88.8948,
+    "cafes": []
+  },
+  "Minocqua": {
+    "city": "Minocqua",
+    "city_ascii": "Minocqua",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.8795,
+    "lng": -89.7037,
+    "cafes": []
+  },
+  "Hancock": {
+    "city": "Hancock",
+    "city_ascii": "Hancock",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1333,
+    "lng": -89.5209,
+    "cafes": []
+  },
+  "Sextonville": {
+    "city": "Sextonville",
+    "city_ascii": "Sextonville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2795,
+    "lng": -90.2924,
+    "cafes": []
+  },
+  "Milladore": {
+    "city": "Milladore",
+    "city_ascii": "Milladore",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6056,
+    "lng": -89.8552,
+    "cafes": []
+  },
+  "Northport": {
+    "city": "Northport",
+    "city_ascii": "Northport",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4082,
+    "lng": -88.8038,
+    "cafes": []
+  },
+  "Butternut": {
+    "city": "Butternut",
+    "city_ascii": "Butternut",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.0133,
+    "lng": -90.4974,
+    "cafes": []
+  },
+  "Fairchild": {
+    "city": "Fairchild",
+    "city_ascii": "Fairchild",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6036,
+    "lng": -90.9577,
+    "cafes": []
+  },
+  "Almond": {
+    "city": "Almond",
+    "city_ascii": "Almond",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2607,
+    "lng": -89.4087,
+    "cafes": []
+  },
+  "Suring": {
+    "city": "Suring",
+    "city_ascii": "Suring",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0007,
+    "lng": -88.3692,
+    "cafes": []
+  },
+  "Waldo": {
+    "city": "Waldo",
+    "city_ascii": "Waldo",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6766,
+    "lng": -87.9478,
+    "cafes": []
+  },
+  "Birchwood": {
+    "city": "Birchwood",
+    "city_ascii": "Birchwood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.6577,
+    "lng": -91.5507,
+    "cafes": []
+  },
+  "Hixton": {
+    "city": "Hixton",
+    "city_ascii": "Hixton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3831,
+    "lng": -91.0147,
+    "cafes": []
+  },
+  "Poy Sippi": {
+    "city": "Poy Sippi",
+    "city_ascii": "Poy Sippi",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.136,
+    "lng": -88.9964,
+    "cafes": []
+  },
+  "Kendall": {
+    "city": "Kendall",
+    "city_ascii": "Kendall",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7926,
+    "lng": -90.3677,
+    "cafes": []
+  },
+  "Three Lakes": {
+    "city": "Three Lakes",
+    "city_ascii": "Three Lakes",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.8047,
+    "lng": -89.1708,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.9266,
+    "lng": -88.2463,
+    "cafes": []
+  },
+  "Lake Sherwood": {
+    "city": "Lake Sherwood",
+    "city_ascii": "Lake Sherwood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2057,
+    "lng": -89.7942,
+    "cafes": []
+  },
+  "Juda": {
+    "city": "Juda",
+    "city_ascii": "Juda",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.59,
+    "lng": -89.5092,
+    "cafes": []
+  },
+  "Hebron": {
+    "city": "Hebron",
+    "city_ascii": "Hebron",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9232,
+    "lng": -88.6916,
+    "cafes": []
+  },
+  "Readstown": {
+    "city": "Readstown",
+    "city_ascii": "Readstown",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4485,
+    "lng": -90.759,
+    "cafes": []
+  },
+  "Ontario": {
+    "city": "Ontario",
+    "city_ascii": "Ontario",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7222,
+    "lng": -90.5941,
+    "cafes": []
+  },
+  "Clyman": {
+    "city": "Clyman",
+    "city_ascii": "Clyman",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3116,
+    "lng": -88.7232,
+    "cafes": []
+  },
+  "Curtiss": {
+    "city": "Curtiss",
+    "city_ascii": "Curtiss",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9521,
+    "lng": -90.435,
+    "cafes": []
+  },
+  "Cobb": {
+    "city": "Cobb",
+    "city_ascii": "Cobb",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9661,
+    "lng": -90.3296,
+    "cafes": []
+  },
+  "Unity": {
+    "city": "Unity",
+    "city_ascii": "Unity",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8511,
+    "lng": -90.3131,
+    "cafes": []
+  },
+  "Maribel": {
+    "city": "Maribel",
+    "city_ascii": "Maribel",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2775,
+    "lng": -87.8025,
+    "cafes": []
+  },
+  "Arkansaw": {
+    "city": "Arkansaw",
+    "city_ascii": "Arkansaw",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6334,
+    "lng": -92.022,
+    "cafes": []
+  },
+  "Oliver": {
+    "city": "Oliver",
+    "city_ascii": "Oliver",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.6493,
+    "lng": -92.1885,
+    "cafes": []
+  },
+  "Granton": {
+    "city": "Granton",
+    "city_ascii": "Granton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5886,
+    "lng": -90.4614,
+    "cafes": []
+  },
+  "Fairwater": {
+    "city": "Fairwater",
+    "city_ascii": "Fairwater",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7424,
+    "lng": -88.868,
+    "cafes": []
+  },
+  "Scandinavia": {
+    "city": "Scandinavia",
+    "city_ascii": "Scandinavia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4608,
+    "lng": -89.1461,
+    "cafes": []
+  },
+  "Mission": {
+    "city": "Mission",
+    "city_ascii": "Mission",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3454,
+    "lng": -90.7631,
+    "cafes": []
+  },
+  "Dallas": {
+    "city": "Dallas",
+    "city_ascii": "Dallas",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.2591,
+    "lng": -91.8142,
+    "cafes": []
+  },
+  "Bay City": {
+    "city": "Bay City",
+    "city_ascii": "Bay City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5873,
+    "lng": -92.4573,
+    "cafes": []
+  },
+  "Ephraim": {
+    "city": "Ephraim",
+    "city_ascii": "Ephraim",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1589,
+    "lng": -87.1667,
+    "cafes": []
+  },
+  "Nelson": {
+    "city": "Nelson",
+    "city_ascii": "Nelson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4213,
+    "lng": -92.0041,
+    "cafes": []
+  },
+  "Hawkins": {
+    "city": "Hawkins",
+    "city_ascii": "Hawkins",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.5115,
+    "lng": -90.7148,
+    "cafes": []
+  },
+  "Bagley": {
+    "city": "Bagley",
+    "city_ascii": "Bagley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9015,
+    "lng": -91.0971,
+    "cafes": []
+  },
+  "Clayton": {
+    "city": "Clayton",
+    "city_ascii": "Clayton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.326,
+    "lng": -92.171,
+    "cafes": []
+  },
+  "Chili": {
+    "city": "Chili",
+    "city_ascii": "Chili",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6296,
+    "lng": -90.3583,
+    "cafes": []
+  },
+  "Pound": {
+    "city": "Pound",
+    "city_ascii": "Pound",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0956,
+    "lng": -88.0334,
+    "cafes": []
+  },
+  "Embarrass": {
+    "city": "Embarrass",
+    "city_ascii": "Embarrass",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6684,
+    "lng": -88.7037,
+    "cafes": []
+  },
+  "Seneca": {
+    "city": "Seneca",
+    "city_ascii": "Seneca",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2658,
+    "lng": -90.9566,
+    "cafes": []
+  },
+  "Taylor": {
+    "city": "Taylor",
+    "city_ascii": "Taylor",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3217,
+    "lng": -91.1204,
+    "cafes": []
+  },
+  "Tennyson": {
+    "city": "Tennyson",
+    "city_ascii": "Tennyson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6907,
+    "lng": -90.6868,
+    "cafes": []
+  },
+  "La Valle": {
+    "city": "La Valle",
+    "city_ascii": "La Valle",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.583,
+    "lng": -90.1303,
+    "cafes": []
+  },
+  "Amherst Junction": {
+    "city": "Amherst Junction",
+    "city_ascii": "Amherst Junction",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4687,
+    "lng": -89.3167,
+    "cafes": []
+  },
+  "Kieler": {
+    "city": "Kieler",
+    "city_ascii": "Kieler",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5823,
+    "lng": -90.6051,
+    "cafes": []
+  },
+  "Waukau": {
+    "city": "Waukau",
+    "city_ascii": "Waukau",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9862,
+    "lng": -88.7705,
+    "cafes": []
+  },
+  "Hollandale": {
+    "city": "Hollandale",
+    "city_ascii": "Hollandale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8756,
+    "lng": -89.9342,
+    "cafes": []
+  },
+  "Post Lake": {
+    "city": "Post Lake",
+    "city_ascii": "Post Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4352,
+    "lng": -89.0921,
+    "cafes": []
+  },
+  "Krakow": {
+    "city": "Krakow",
+    "city_ascii": "Krakow",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7585,
+    "lng": -88.2611,
+    "cafes": []
+  },
+  "Winter": {
+    "city": "Winter",
+    "city_ascii": "Winter",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.8221,
+    "lng": -91.013,
+    "cafes": []
+  },
+  "Pigeon Falls": {
+    "city": "Pigeon Falls",
+    "city_ascii": "Pigeon Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4247,
+    "lng": -91.2082,
+    "cafes": []
+  },
+  "Egg Harbor": {
+    "city": "Egg Harbor",
+    "city_ascii": "Egg Harbor",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0528,
+    "lng": -87.2826,
+    "cafes": []
+  },
+  "Eastman": {
+    "city": "Eastman",
+    "city_ascii": "Eastman",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1622,
+    "lng": -91.0254,
+    "cafes": []
+  },
+  "New Post": {
+    "city": "New Post",
+    "city_ascii": "New Post",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.8964,
+    "lng": -91.1929,
+    "cafes": []
+  },
+  "New Odanah": {
+    "city": "New Odanah",
+    "city_ascii": "New Odanah",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.5986,
+    "lng": -90.6509,
+    "cafes": []
+  },
+  "Chaseburg": {
+    "city": "Chaseburg",
+    "city_ascii": "Chaseburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6598,
+    "lng": -91.0968,
+    "cafes": []
+  },
+  "Rock Springs": {
+    "city": "Rock Springs",
+    "city_ascii": "Rock Springs",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.479,
+    "lng": -89.9177,
+    "cafes": []
+  },
+  "Bowler": {
+    "city": "Bowler",
+    "city_ascii": "Bowler",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8627,
+    "lng": -88.9814,
+    "cafes": []
+  },
+  "Abrams": {
+    "city": "Abrams",
+    "city_ascii": "Abrams",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7796,
+    "lng": -88.0604,
+    "cafes": []
+  },
+  "Mindoro": {
+    "city": "Mindoro",
+    "city_ascii": "Mindoro",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0202,
+    "lng": -91.1019,
+    "cafes": []
+  },
+  "Briggsville": {
+    "city": "Briggsville",
+    "city_ascii": "Briggsville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6561,
+    "lng": -89.5897,
+    "cafes": []
+  },
+  "Junction City": {
+    "city": "Junction City",
+    "city_ascii": "Junction City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.593,
+    "lng": -89.7679,
+    "cafes": []
+  },
+  "Dyckesville": {
+    "city": "Dyckesville",
+    "city_ascii": "Dyckesville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6403,
+    "lng": -87.7647,
+    "cafes": []
+  },
+  "Arpin": {
+    "city": "Arpin",
+    "city_ascii": "Arpin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5394,
+    "lng": -90.0315,
+    "cafes": []
+  },
+  "Humbird": {
+    "city": "Humbird",
+    "city_ascii": "Humbird",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5295,
+    "lng": -90.8862,
+    "cafes": []
+  },
+  "Lakewood": {
+    "city": "Lakewood",
+    "city_ascii": "Lakewood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3006,
+    "lng": -88.5145,
+    "cafes": []
+  },
+  "New Munster": {
+    "city": "New Munster",
+    "city_ascii": "New Munster",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5758,
+    "lng": -88.2311,
+    "cafes": []
+  },
+  "Genoa": {
+    "city": "Genoa",
+    "city_ascii": "Genoa",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5732,
+    "lng": -91.2262,
+    "cafes": []
+  },
+  "Ironton": {
+    "city": "Ironton",
+    "city_ascii": "Ironton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5453,
+    "lng": -90.1436,
+    "cafes": []
+  },
+  "Ridgeland": {
+    "city": "Ridgeland",
+    "city_ascii": "Ridgeland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.2025,
+    "lng": -91.8965,
+    "cafes": []
+  },
+  "Oakdale": {
+    "city": "Oakdale",
+    "city_ascii": "Oakdale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9622,
+    "lng": -90.3791,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6935,
+    "lng": -89.1304,
+    "cafes": []
+  },
+  "Baileys Harbor": {
+    "city": "Baileys Harbor",
+    "city_ascii": "Baileys Harbor",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0659,
+    "lng": -87.133,
+    "cafes": []
+  },
+  "Birch Hill": {
+    "city": "Birch Hill",
+    "city_ascii": "Birch Hill",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.5209,
+    "lng": -90.5555,
+    "cafes": []
+  },
+  "Nichols": {
+    "city": "Nichols",
+    "city_ascii": "Nichols",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5672,
+    "lng": -88.4678,
+    "cafes": []
+  },
+  "Lac La Belle": {
+    "city": "Lac La Belle",
+    "city_ascii": "Lac La Belle",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1432,
+    "lng": -88.53,
+    "cafes": []
+  },
+  "Bear Creek": {
+    "city": "Bear Creek",
+    "city_ascii": "Bear Creek",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5313,
+    "lng": -88.7275,
+    "cafes": []
+  },
+  "Reserve": {
+    "city": "Reserve",
+    "city_ascii": "Reserve",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.8337,
+    "lng": -91.3545,
+    "cafes": []
+  },
+  "Friesland": {
+    "city": "Friesland",
+    "city_ascii": "Friesland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5886,
+    "lng": -89.067,
+    "cafes": []
+  },
+  "Burnett": {
+    "city": "Burnett",
+    "city_ascii": "Burnett",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5065,
+    "lng": -88.7084,
+    "cafes": []
+  },
+  "Downsville": {
+    "city": "Downsville",
+    "city_ascii": "Downsville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7709,
+    "lng": -91.9257,
+    "cafes": []
+  },
+  "Sheldon": {
+    "city": "Sheldon",
+    "city_ascii": "Sheldon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3119,
+    "lng": -90.9567,
+    "cafes": []
+  },
+  "Haugen": {
+    "city": "Haugen",
+    "city_ascii": "Haugen",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.6078,
+    "lng": -91.7788,
+    "cafes": []
+  },
+  "Potter": {
+    "city": "Potter",
+    "city_ascii": "Potter",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1203,
+    "lng": -88.0989,
+    "cafes": []
+  },
+  "Kellnersville": {
+    "city": "Kellnersville",
+    "city_ascii": "Kellnersville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2253,
+    "lng": -87.8021,
+    "cafes": []
+  },
+  "Lowell": {
+    "city": "Lowell",
+    "city_ascii": "Lowell",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3363,
+    "lng": -88.8182,
+    "cafes": []
+  },
+  "Wheeler": {
+    "city": "Wheeler",
+    "city_ascii": "Wheeler",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0441,
+    "lng": -91.9037,
+    "cafes": []
+  },
+  "Browntown": {
+    "city": "Browntown",
+    "city_ascii": "Browntown",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5788,
+    "lng": -89.7894,
+    "cafes": []
+  },
+  "Sandy Hook": {
+    "city": "Sandy Hook",
+    "city_ascii": "Sandy Hook",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5466,
+    "lng": -90.6168,
+    "cafes": []
+  },
+  "Ogema": {
+    "city": "Ogema",
+    "city_ascii": "Ogema",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.451,
+    "lng": -90.2927,
+    "cafes": []
+  },
+  "Rewey": {
+    "city": "Rewey",
+    "city_ascii": "Rewey",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8419,
+    "lng": -90.3961,
+    "cafes": []
+  },
+  "Eureka": {
+    "city": "Eureka",
+    "city_ascii": "Eureka",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0074,
+    "lng": -88.8425,
+    "cafes": []
+  },
+  "Mountain": {
+    "city": "Mountain",
+    "city_ascii": "Mountain",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1863,
+    "lng": -88.468,
+    "cafes": []
+  },
+  "Lake Lorraine": {
+    "city": "Lake Lorraine",
+    "city_ascii": "Lake Lorraine",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.733,
+    "lng": -88.7374,
+    "cafes": []
+  },
+  "Pembine": {
+    "city": "Pembine",
+    "city_ascii": "Pembine",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.6369,
+    "lng": -87.9916,
+    "cafes": []
+  },
+  "Downing": {
+    "city": "Downing",
+    "city_ascii": "Downing",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0498,
+    "lng": -92.1243,
+    "cafes": []
+  },
+  "Marquette": {
+    "city": "Marquette",
+    "city_ascii": "Marquette",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7464,
+    "lng": -89.1384,
+    "cafes": []
+  },
+  "Loganville": {
+    "city": "Loganville",
+    "city_ascii": "Loganville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4389,
+    "lng": -90.0371,
+    "cafes": []
+  },
+  "Jim Falls": {
+    "city": "Jim Falls",
+    "city_ascii": "Jim Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0472,
+    "lng": -91.2712,
+    "cafes": []
+  },
+  "Holcombe": {
+    "city": "Holcombe",
+    "city_ascii": "Holcombe",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.2261,
+    "lng": -91.1217,
+    "cafes": []
+  },
+  "Radisson": {
+    "city": "Radisson",
+    "city_ascii": "Radisson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.7678,
+    "lng": -91.218,
+    "cafes": []
+  },
+  "Batavia": {
+    "city": "Batavia",
+    "city_ascii": "Batavia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5934,
+    "lng": -88.048,
+    "cafes": []
+  },
+  "Union Center": {
+    "city": "Union Center",
+    "city_ascii": "Union Center",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6826,
+    "lng": -90.2634,
+    "cafes": []
+  },
+  "Cazenovia": {
+    "city": "Cazenovia",
+    "city_ascii": "Cazenovia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5237,
+    "lng": -90.1991,
+    "cafes": []
+  },
+  "Mount Hope": {
+    "city": "Mount Hope",
+    "city_ascii": "Mount Hope",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9697,
+    "lng": -90.8596,
+    "cafes": []
+  },
+  "North Bay": {
+    "city": "North Bay",
+    "city_ascii": "North Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.7644,
+    "lng": -87.7812,
+    "cafes": []
+  },
+  "Sobieski": {
+    "city": "Sobieski",
+    "city_ascii": "Sobieski",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7227,
+    "lng": -88.0659,
+    "cafes": []
+  },
+  "Eland": {
+    "city": "Eland",
+    "city_ascii": "Eland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.867,
+    "lng": -89.209,
+    "cafes": []
+  },
+  "Aniwa": {
+    "city": "Aniwa",
+    "city_ascii": "Aniwa",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0117,
+    "lng": -89.2089,
+    "cafes": []
+  },
+  "Hager City": {
+    "city": "Hager City",
+    "city_ascii": "Hager City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6012,
+    "lng": -92.5337,
+    "cafes": []
+  },
+  "North Lake": {
+    "city": "North Lake",
+    "city_ascii": "North Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1559,
+    "lng": -88.37,
+    "cafes": []
+  },
+  "Woodman": {
+    "city": "Woodman",
+    "city_ascii": "Woodman",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0925,
+    "lng": -90.7978,
+    "cafes": []
+  },
+  "Wabeno": {
+    "city": "Wabeno",
+    "city_ascii": "Wabeno",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4394,
+    "lng": -88.658,
+    "cafes": []
+  },
+  "Dalton": {
+    "city": "Dalton",
+    "city_ascii": "Dalton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6562,
+    "lng": -89.2069,
+    "cafes": []
+  },
+  "Boulder Junction": {
+    "city": "Boulder Junction",
+    "city_ascii": "Boulder Junction",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.1136,
+    "lng": -89.6487,
+    "cafes": []
+  },
+  "Packwaukee": {
+    "city": "Packwaukee",
+    "city_ascii": "Packwaukee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7653,
+    "lng": -89.4599,
+    "cafes": []
+  },
+  "Dodge": {
+    "city": "Dodge",
+    "city_ascii": "Dodge",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1344,
+    "lng": -91.5493,
+    "cafes": []
+  },
+  "Rockdale": {
+    "city": "Rockdale",
+    "city_ascii": "Rockdale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9717,
+    "lng": -89.0318,
+    "cafes": []
+  },
+  "Brothertown": {
+    "city": "Brothertown",
+    "city_ascii": "Brothertown",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.9713,
+    "lng": -88.3127,
+    "cafes": []
+  },
+  "Arkdale": {
+    "city": "Arkdale",
+    "city_ascii": "Arkdale",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0253,
+    "lng": -89.8861,
+    "cafes": []
+  },
+  "Gratiot": {
+    "city": "Gratiot",
+    "city_ascii": "Gratiot",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5799,
+    "lng": -90.0238,
+    "cafes": []
+  },
+  "Glidden": {
+    "city": "Glidden",
+    "city_ascii": "Glidden",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.1346,
+    "lng": -90.5721,
+    "cafes": []
+  },
+  "Patch Grove": {
+    "city": "Patch Grove",
+    "city_ascii": "Patch Grove",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9403,
+    "lng": -90.9723,
+    "cafes": []
+  },
+  "Collins": {
+    "city": "Collins",
+    "city_ascii": "Collins",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0856,
+    "lng": -87.9809,
+    "cafes": []
+  },
+  "Deer Park": {
+    "city": "Deer Park",
+    "city_ascii": "Deer Park",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1887,
+    "lng": -92.3879,
+    "cafes": []
+  },
+  "Diamond Bluff": {
+    "city": "Diamond Bluff",
+    "city_ascii": "Diamond Bluff",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6489,
+    "lng": -92.6189,
+    "cafes": []
+  },
+  "Sand Pillow": {
+    "city": "Sand Pillow",
+    "city_ascii": "Sand Pillow",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3313,
+    "lng": -90.7637,
+    "cafes": []
+  },
+  "Westboro": {
+    "city": "Westboro",
+    "city_ascii": "Westboro",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3608,
+    "lng": -90.2934,
+    "cafes": []
+  },
+  "White Lake": {
+    "city": "White Lake",
+    "city_ascii": "White Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.1617,
+    "lng": -88.7704,
+    "cafes": []
+  },
+  "Middle Village": {
+    "city": "Middle Village",
+    "city_ascii": "Middle Village",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9347,
+    "lng": -88.7334,
+    "cafes": []
+  },
+  "Exeland": {
+    "city": "Exeland",
+    "city_ascii": "Exeland",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.667,
+    "lng": -91.2426,
+    "cafes": []
+  },
+  "Lime Ridge": {
+    "city": "Lime Ridge",
+    "city_ascii": "Lime Ridge",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4676,
+    "lng": -90.1577,
+    "cafes": []
+  },
+  "Gotham": {
+    "city": "Gotham",
+    "city_ascii": "Gotham",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2225,
+    "lng": -90.297,
+    "cafes": []
+  },
+  "Nelsonville": {
+    "city": "Nelsonville",
+    "city_ascii": "Nelsonville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4937,
+    "lng": -89.309,
+    "cafes": []
+  },
+  "Doylestown": {
+    "city": "Doylestown",
+    "city_ascii": "Doylestown",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4276,
+    "lng": -89.1457,
+    "cafes": []
+  },
+  "Wilson": {
+    "city": "Wilson",
+    "city_ascii": "Wilson",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.9586,
+    "lng": -92.1705,
+    "cafes": []
+  },
+  "Hatfield": {
+    "city": "Hatfield",
+    "city_ascii": "Hatfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4164,
+    "lng": -90.7409,
+    "cafes": []
+  },
+  "Cable": {
+    "city": "Cable",
+    "city_ascii": "Cable",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.2011,
+    "lng": -91.2937,
+    "cafes": []
+  },
+  "Lake Tomahawk": {
+    "city": "Lake Tomahawk",
+    "city_ascii": "Lake Tomahawk",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.811,
+    "lng": -89.5873,
+    "cafes": []
+  },
+  "Ferryville": {
+    "city": "Ferryville",
+    "city_ascii": "Ferryville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3516,
+    "lng": -91.0936,
+    "cafes": []
+  },
+  "Brule": {
+    "city": "Brule",
+    "city_ascii": "Brule",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.5589,
+    "lng": -91.5712,
+    "cafes": []
+  },
+  "Ellison Bay": {
+    "city": "Ellison Bay",
+    "city_ascii": "Ellison Bay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.2551,
+    "lng": -87.0729,
+    "cafes": []
+  },
+  "Rock Falls": {
+    "city": "Rock Falls",
+    "city_ascii": "Rock Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7209,
+    "lng": -91.6917,
+    "cafes": []
+  },
+  "Mount Sterling": {
+    "city": "Mount Sterling",
+    "city_ascii": "Mount Sterling",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3163,
+    "lng": -90.9292,
+    "cafes": []
+  },
+  "Allens Grove": {
+    "city": "Allens Grove",
+    "city_ascii": "Allens Grove",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5783,
+    "lng": -88.7668,
+    "cafes": []
+  },
+  "Catawba": {
+    "city": "Catawba",
+    "city_ascii": "Catawba",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.537,
+    "lng": -90.5335,
+    "cafes": []
+  },
+  "Lewis": {
+    "city": "Lewis",
+    "city_ascii": "Lewis",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.7159,
+    "lng": -92.3965,
+    "cafes": []
+  },
+  "Cataract": {
+    "city": "Cataract",
+    "city_ascii": "Cataract",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0867,
+    "lng": -90.8383,
+    "cafes": []
+  },
+  "Edmund": {
+    "city": "Edmund",
+    "city_ascii": "Edmund",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.9662,
+    "lng": -90.2644,
+    "cafes": []
+  },
+  "Elcho": {
+    "city": "Elcho",
+    "city_ascii": "Elcho",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4354,
+    "lng": -89.1861,
+    "cafes": []
+  },
+  "Harrisville": {
+    "city": "Harrisville",
+    "city_ascii": "Harrisville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8808,
+    "lng": -89.4078,
+    "cafes": []
+  },
+  "Sayner": {
+    "city": "Sayner",
+    "city_ascii": "Sayner",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.991,
+    "lng": -89.5332,
+    "cafes": []
+  },
+  "Ogdensburg": {
+    "city": "Ogdensburg",
+    "city_ascii": "Ogdensburg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4535,
+    "lng": -89.0316,
+    "cafes": []
+  },
+  "Goodman": {
+    "city": "Goodman",
+    "city_ascii": "Goodman",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.623,
+    "lng": -88.3518,
+    "cafes": []
+  },
+  "Big Foot Prairie": {
+    "city": "Big Foot Prairie",
+    "city_ascii": "Big Foot Prairie",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.4956,
+    "lng": -88.5983,
+    "cafes": []
+  },
+  "Big Falls": {
+    "city": "Big Falls",
+    "city_ascii": "Big Falls",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6175,
+    "lng": -89.0166,
+    "cafes": []
+  },
+  "Drummond": {
+    "city": "Drummond",
+    "city_ascii": "Drummond",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.3437,
+    "lng": -91.25,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6407,
+    "lng": -88.4135,
+    "cafes": []
+  },
+  "Steuben": {
+    "city": "Steuben",
+    "city_ascii": "Steuben",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.1833,
+    "lng": -90.8569,
+    "cafes": []
+  },
+  "Pulcifer": {
+    "city": "Pulcifer",
+    "city_ascii": "Pulcifer",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8476,
+    "lng": -88.3592,
+    "cafes": []
+  },
+  "Navarino": {
+    "city": "Navarino",
+    "city_ascii": "Navarino",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.6109,
+    "lng": -88.4934,
+    "cafes": []
+  },
+  "Boaz": {
+    "city": "Boaz",
+    "city_ascii": "Boaz",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3299,
+    "lng": -90.5277,
+    "cafes": []
+  },
+  "Amberg": {
+    "city": "Amberg",
+    "city_ascii": "Amberg",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.5062,
+    "lng": -87.9873,
+    "cafes": []
+  },
+  "Emerald": {
+    "city": "Emerald",
+    "city_ascii": "Emerald",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0833,
+    "lng": -92.2579,
+    "cafes": []
+  },
+  "Hustler": {
+    "city": "Hustler",
+    "city_ascii": "Hustler",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8773,
+    "lng": -90.2658,
+    "cafes": []
+  },
+  "Iron Belt": {
+    "city": "Iron Belt",
+    "city_ascii": "Iron Belt",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.4031,
+    "lng": -90.3194,
+    "cafes": []
+  },
+  "Hanover": {
+    "city": "Hanover",
+    "city_ascii": "Hanover",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6389,
+    "lng": -89.1712,
+    "cafes": []
+  },
+  "Wyeville": {
+    "city": "Wyeville",
+    "city_ascii": "Wyeville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0279,
+    "lng": -90.3861,
+    "cafes": []
+  },
+  "Elderon": {
+    "city": "Elderon",
+    "city_ascii": "Elderon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7843,
+    "lng": -89.248,
+    "cafes": []
+  },
+  "Marengo": {
+    "city": "Marengo",
+    "city_ascii": "Marengo",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.4219,
+    "lng": -90.8081,
+    "cafes": []
+  },
+  "Shopiere": {
+    "city": "Shopiere",
+    "city_ascii": "Shopiere",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.5722,
+    "lng": -88.9362,
+    "cafes": []
+  },
+  "Pence": {
+    "city": "Pence",
+    "city_ascii": "Pence",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.4104,
+    "lng": -90.2695,
+    "cafes": []
+  },
+  "Gilmanton": {
+    "city": "Gilmanton",
+    "city_ascii": "Gilmanton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4738,
+    "lng": -91.6785,
+    "cafes": []
+  },
+  "Dekorra": {
+    "city": "Dekorra",
+    "city_ascii": "Dekorra",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.4539,
+    "lng": -89.4603,
+    "cafes": []
+  },
+  "Fenwood": {
+    "city": "Fenwood",
+    "city_ascii": "Fenwood",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8658,
+    "lng": -90.0146,
+    "cafes": []
+  },
+  "Kennan": {
+    "city": "Kennan",
+    "city_ascii": "Kennan",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.5301,
+    "lng": -90.5868,
+    "cafes": []
+  },
+  "Port Wing": {
+    "city": "Port Wing",
+    "city_ascii": "Port Wing",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.7757,
+    "lng": -91.3807,
+    "cafes": []
+  },
+  "Franks Field": {
+    "city": "Franks Field",
+    "city_ascii": "Franks Field",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.5522,
+    "lng": -90.5989,
+    "cafes": []
+  },
+  "Trego": {
+    "city": "Trego",
+    "city_ascii": "Trego",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.9048,
+    "lng": -91.8287,
+    "cafes": []
+  },
+  "Bayfront": {
+    "city": "Bayfront",
+    "city_ascii": "Bayfront",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.6235,
+    "lng": -90.7898,
+    "cafes": []
+  },
+  "Grand Marsh": {
+    "city": "Grand Marsh",
+    "city_ascii": "Grand Marsh",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8852,
+    "lng": -89.7072,
+    "cafes": []
+  },
+  "Tony": {
+    "city": "Tony",
+    "city_ascii": "Tony",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.4804,
+    "lng": -90.9971,
+    "cafes": []
+  },
+  "Greenbush": {
+    "city": "Greenbush",
+    "city_ascii": "Greenbush",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.7778,
+    "lng": -88.0907,
+    "cafes": []
+  },
+  "Grand View": {
+    "city": "Grand View",
+    "city_ascii": "Grand View",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.368,
+    "lng": -91.1036,
+    "cafes": []
+  },
+  "Alto": {
+    "city": "Alto",
+    "city_ascii": "Alto",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.6728,
+    "lng": -88.7949,
+    "cafes": []
+  },
+  "Helenville": {
+    "city": "Helenville",
+    "city_ascii": "Helenville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0165,
+    "lng": -88.6999,
+    "cafes": []
+  },
+  "Odanah": {
+    "city": "Odanah",
+    "city_ascii": "Odanah",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.5999,
+    "lng": -90.6878,
+    "cafes": []
+  },
+  "Rubicon": {
+    "city": "Rubicon",
+    "city_ascii": "Rubicon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.3371,
+    "lng": -88.4525,
+    "cafes": []
+  },
+  "Lynxville": {
+    "city": "Lynxville",
+    "city_ascii": "Lynxville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2493,
+    "lng": -91.0464,
+    "cafes": []
+  },
+  "Pine River": {
+    "city": "Pine River",
+    "city_ascii": "Pine River",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1483,
+    "lng": -89.0756,
+    "cafes": []
+  },
+  "Gordon": {
+    "city": "Gordon",
+    "city_ascii": "Gordon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.2409,
+    "lng": -91.7995,
+    "cafes": []
+  },
+  "Little Sturgeon": {
+    "city": "Little Sturgeon",
+    "city_ascii": "Little Sturgeon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8422,
+    "lng": -87.5744,
+    "cafes": []
+  },
+  "Herbster": {
+    "city": "Herbster",
+    "city_ascii": "Herbster",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.8422,
+    "lng": -91.2419,
+    "cafes": []
+  },
+  "Pella": {
+    "city": "Pella",
+    "city_ascii": "Pella",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7419,
+    "lng": -88.8237,
+    "cafes": []
+  },
+  "Millston": {
+    "city": "Millston",
+    "city_ascii": "Millston",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1885,
+    "lng": -90.6446,
+    "cafes": []
+  },
+  "Angelica": {
+    "city": "Angelica",
+    "city_ascii": "Angelica",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.675,
+    "lng": -88.3216,
+    "cafes": []
+  },
+  "Diaperville": {
+    "city": "Diaperville",
+    "city_ascii": "Diaperville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.6059,
+    "lng": -90.7095,
+    "cafes": []
+  },
+  "Houlton": {
+    "city": "Houlton",
+    "city_ascii": "Houlton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0609,
+    "lng": -92.7903,
+    "cafes": []
+  },
+  "Tustin": {
+    "city": "Tustin",
+    "city_ascii": "Tustin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.1698,
+    "lng": -88.896,
+    "cafes": []
+  },
+  "Tunnel City": {
+    "city": "Tunnel City",
+    "city_ascii": "Tunnel City",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.005,
+    "lng": -90.5679,
+    "cafes": []
+  },
+  "Dunbar": {
+    "city": "Dunbar",
+    "city_ascii": "Dunbar",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.647,
+    "lng": -88.1754,
+    "cafes": []
+  },
+  "Cornucopia": {
+    "city": "Cornucopia",
+    "city_ascii": "Cornucopia",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.8566,
+    "lng": -91.1082,
+    "cafes": []
+  },
+  "Maiden Rock": {
+    "city": "Maiden Rock",
+    "city_ascii": "Maiden Rock",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.5659,
+    "lng": -92.3082,
+    "cafes": []
+  },
+  "Jolmaville": {
+    "city": "Jolmaville",
+    "city_ascii": "Jolmaville",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.433,
+    "lng": -90.7498,
+    "cafes": []
+  },
+  "Lublin": {
+    "city": "Lublin",
+    "city_ascii": "Lublin",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0749,
+    "lng": -90.7238,
+    "cafes": []
+  },
+  "Argonne": {
+    "city": "Argonne",
+    "city_ascii": "Argonne",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.6582,
+    "lng": -88.8777,
+    "cafes": []
+  },
+  "Summit Lake": {
+    "city": "Summit Lake",
+    "city_ascii": "Summit Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3759,
+    "lng": -89.2044,
+    "cafes": []
+  },
+  "Couderay": {
+    "city": "Couderay",
+    "city_ascii": "Couderay",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.7976,
+    "lng": -91.3005,
+    "cafes": []
+  },
+  "Bell Center": {
+    "city": "Bell Center",
+    "city_ascii": "Bell Center",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2916,
+    "lng": -90.8257,
+    "cafes": []
+  },
+  "Whittlesey": {
+    "city": "Whittlesey",
+    "city_ascii": "Whittlesey",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.2206,
+    "lng": -90.3232,
+    "cafes": []
+  },
+  "Townsend": {
+    "city": "Townsend",
+    "city_ascii": "Townsend",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3241,
+    "lng": -88.5904,
+    "cafes": []
+  },
+  "Mason": {
+    "city": "Mason",
+    "city_ascii": "Mason",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.4355,
+    "lng": -91.0599,
+    "cafes": []
+  },
+  "Babcock": {
+    "city": "Babcock",
+    "city_ascii": "Babcock",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3044,
+    "lng": -90.1076,
+    "cafes": []
+  },
+  "Newald": {
+    "city": "Newald",
+    "city_ascii": "Newald",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.7396,
+    "lng": -88.7004,
+    "cafes": []
+  },
+  "Springbrook": {
+    "city": "Springbrook",
+    "city_ascii": "Springbrook",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.9469,
+    "lng": -91.6889,
+    "cafes": []
+  },
+  "Clarks Mills": {
+    "city": "Clarks Mills",
+    "city_ascii": "Clarks Mills",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.0918,
+    "lng": -87.8637,
+    "cafes": []
+  },
+  "Danbury": {
+    "city": "Danbury",
+    "city_ascii": "Danbury",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.0088,
+    "lng": -92.3777,
+    "cafes": []
+  },
+  "Woodford": {
+    "city": "Woodford",
+    "city_ascii": "Woodford",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6476,
+    "lng": -89.8599,
+    "cafes": []
+  },
+  "Melvina": {
+    "city": "Melvina",
+    "city_ascii": "Melvina",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8024,
+    "lng": -90.7815,
+    "cafes": []
+  },
+  "Stockholm": {
+    "city": "Stockholm",
+    "city_ascii": "Stockholm",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.4852,
+    "lng": -92.2633,
+    "cafes": []
+  },
+  "Chelsea": {
+    "city": "Chelsea",
+    "city_ascii": "Chelsea",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.2927,
+    "lng": -90.3054,
+    "cafes": []
+  },
+  "Stone Lake": {
+    "city": "Stone Lake",
+    "city_ascii": "Stone Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.8445,
+    "lng": -91.5502,
+    "cafes": []
+  },
+  "Knowlton": {
+    "city": "Knowlton",
+    "city_ascii": "Knowlton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7189,
+    "lng": -89.6803,
+    "cafes": []
+  },
+  "Lebanon": {
+    "city": "Lebanon",
+    "city_ascii": "Lebanon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.2587,
+    "lng": -88.6292,
+    "cafes": []
+  },
+  "Wiota": {
+    "city": "Wiota",
+    "city_ascii": "Wiota",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.6368,
+    "lng": -89.9493,
+    "cafes": []
+  },
+  "Saxon": {
+    "city": "Saxon",
+    "city_ascii": "Saxon",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.494,
+    "lng": -90.4098,
+    "cafes": []
+  },
+  "Barronett": {
+    "city": "Barronett",
+    "city_ascii": "Barronett",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.6363,
+    "lng": -91.9942,
+    "cafes": []
+  },
+  "Paac Ciinak": {
+    "city": "Paac Ciinak",
+    "city_ascii": "Paac Ciinak",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8579,
+    "lng": -89.155,
+    "cafes": []
+  },
+  "Glen Haven": {
+    "city": "Glen Haven",
+    "city_ascii": "Glen Haven",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8313,
+    "lng": -91.0633,
+    "cafes": []
+  },
+  "Waumandee": {
+    "city": "Waumandee",
+    "city_ascii": "Waumandee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.3024,
+    "lng": -91.7051,
+    "cafes": []
+  },
+  "Leopolis": {
+    "city": "Leopolis",
+    "city_ascii": "Leopolis",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7654,
+    "lng": -88.8447,
+    "cafes": []
+  },
+  "Jump River": {
+    "city": "Jump River",
+    "city_ascii": "Jump River",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.3555,
+    "lng": -90.7965,
+    "cafes": []
+  },
+  "Yuba": {
+    "city": "Yuba",
+    "city_ascii": "Yuba",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.5364,
+    "lng": -90.4267,
+    "cafes": []
+  },
+  "Fulton": {
+    "city": "Fulton",
+    "city_ascii": "Fulton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 42.8074,
+    "lng": -89.1269,
+    "cafes": []
+  },
+  "Tilleda": {
+    "city": "Tilleda",
+    "city_ascii": "Tilleda",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.8156,
+    "lng": -88.9125,
+    "cafes": []
+  },
+  "Zoar": {
+    "city": "Zoar",
+    "city_ascii": "Zoar",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.0178,
+    "lng": -88.8945,
+    "cafes": []
+  },
+  "Clam Lake": {
+    "city": "Clam Lake",
+    "city_ascii": "Clam Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 46.1579,
+    "lng": -90.9056,
+    "cafes": []
+  },
+  "Easton": {
+    "city": "Easton",
+    "city_ascii": "Easton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.8383,
+    "lng": -89.8049,
+    "cafes": []
+  },
+  "Green Valley": {
+    "city": "Green Valley",
+    "city_ascii": "Green Valley",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7969,
+    "lng": -88.2682,
+    "cafes": []
+  },
+  "Long Lake": {
+    "city": "Long Lake",
+    "city_ascii": "Long Lake",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 45.8431,
+    "lng": -88.6673,
+    "cafes": []
+  },
+  "Thornton": {
+    "city": "Thornton",
+    "city_ascii": "Thornton",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.7984,
+    "lng": -88.6916,
+    "cafes": []
+  },
+  "Ceex Haci": {
+    "city": "Ceex Haci",
+    "city_ascii": "Ceex Haci",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 44.2818,
+    "lng": -89.965,
+    "cafes": []
+  }
+}

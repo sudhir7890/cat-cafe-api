@@ -1,0 +1,4910 @@
+{
+  "Charleston": {
+    "city": "Charleston",
+    "city_ascii": "Charleston",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3484,
+    "lng": -81.6322,
+    "cafes": [
+      {
+        "name": "Cups and Cats Cafe",
+        "address": "187 Summers St, Charleston, WV 25312, USA",
+        "rating": 4.4,
+        "user_ratings_total": 15,
+        "website": "https://cupsandcatswv.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=52972872585965447",
+        "lat": 38.351696,
+        "lng": -81.63438800000002,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Emma Pierson",
+            "rating": 5,
+            "text": {
+              "text": "I can’t express how much I love this little cafe! The coffee was absolutely delish. And the cat room was 100% worth the stop. The cute little orange resident cat was so sweet, and all the shelter cats were so sweet to love on!",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Samantha Woods",
+            "rating": 5,
+            "text": {
+              "text": "Cute and Fun. When you walk into the main door it's like a regular Cafe. Then they have a wall down the middle with huge windows. You can watch the cats through them. If you want to play with the cats you can \"rent\" time. The cats are rescues. It's a good cause and if you have a cat allergy, I feel like you could still enjoy the Cafe part as long as it's not a major allergy.",
+              "languageCode": "en"
+            },
+            "time": "4 weeks ago"
+          },
+          {
+            "author": "Julianne Fowler",
+            "rating": 5,
+            "text": {
+              "text": "Such an amazing spot! I stumbled upon this cat cafe and even adopted Todd from here. It’s a great environment for the cats to get socialized with humans and other cats. The staff is very friendly and the adoption process was thorough.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ017qINyH9ka-p2x2A1Zxnb-Cj38h42cgERfYCcOLQC5RyTohf2wkoKXS3c6DHUhx--4jEmm-hiAxIiVZQyQE_l7sR_9TjG1caozke0xmJBfAChQlXlCjCd7W5V1X2EsZ8H-YNjW3Poy6YnEntc-9U8z3y69-tpM8BLQwkdPpzQh25ljx3DXkDtmVlJ7PGUJ4AZA1N9fxe_7b8KzQA9PUF8EMXVKXEK_FxMlAnvrjhyuO-2GfPslyS_zfETEfJxu4r6pXZGqVPL8wagJEtf74Hu-3Ba1MQb8GHjpZj6LY1LSlw5CphP0cyD5iR0l6_Uxxlj-GXQ2nuu0cNpeZ5gsTRR_OmWbXGe_pMx72C-KxXtm_fmwEsTvIvUtu9poYDIy_KehkDI-06hvx0zTDZpMFYzRHMcKJ83&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Berkeley Springs": [
+    {
+      "name": "Give Purrs A Chance",
+      "address": "51 Independence St, Berkeley Springs, WV 25411, USA",
+      "rating": 4.7,
+      "user_ratings_total": 363,
+      "website": "http://givepurrsachance.org/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=16326124271944034618",
+      "lat": 39.6288811,
+      "lng": -78.2271067,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": false
+      },
+      "reviews": [
+        {
+          "author": "Thomas I.",
+          "rating": 4,
+          "text": {
+            "text": "Lovely place to spend some time with furry friends while supporting a great cause. Note, it is not a cafe. No food or drinks are served. They have plenty of cats, some more friendly than others.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Amanda Most",
+          "rating": 5,
+          "text": {
+            "text": "The cats were so well taken care of. It did not smell like cat at all. Do you know how rare that is? Especially with how many cats reside there.",
+            "languageCode": "en"
+          },
+          "time": "3 weeks ago"
+        },
+        {
+          "author": "Maddy T",
+          "rating": 5,
+          "text": {
+            "text": "I cannot express how much I absolutely love this place. I am from Indiana, but my family travels to Virginia to see relatives. And for the past three trips we have stopped at Give Purrs a Chance! I am a total cat person so I love being around cats! I must comment on how well everything is maintained! The house is clean, there are plenty of things to occupy the cats, and they even have a special room for kittens and another special quiet room for cats who are more shy or need a more calming place! The staff is so friendly and so knowledgeable! Infinity/10 would recommend going here, whether you plan to adopt or not it’s such a fun experience!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2heFnunwzQru-ELAehrEPGYX_7WTg6lLj2tYMWCyWQ9T0aC7M5zxf5xgRjIXmFVkyPNrO-gOy-Niw31zqXfHoUf_BvuocU_L4r9xyonW8bjEMA0V9u2FKsu73uc172QDfPFhKCh3u6aW_wGENgAYByJggrxqxFr7pXbBqLJkVQudwzaFqNlDU5tLZ8GidmK7nuHgLpWA1yVsBHCvVhYRNCto93y4jJ8Icv07N2EhvbDMuII4t5FLiOrVHrSPWKvWeyOdd5FFwZ13ZcOz_hzzgz2xuzSI8AbogJbr-1tCbcHpdoHH6U_rUfwX2ZXzkEprrowjicJjVfAAITtSoKcwOmOdLbB5k6B0DMWf3g5TUCn43iVz7jn7JSxtKuauXsStAPCBy_Ipwh05K8_lHDlfs7PItsNiesy_eu&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Harrisonburg": [
+    {
+      "name": "Aristocat Cafe + Tea House",
+      "address": "111 N Liberty St, Harrisonburg, VA 22802, USA",
+      "rating": 5,
+      "user_ratings_total": 241,
+      "website": "http://aristocat.cafe/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=17158637340045029041",
+      "lat": 38.4509883,
+      "lng": -78.8703445,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Carmina Balagtas",
+          "rating": 5,
+          "text": {
+            "text": "I have been to this coffee shop two times and it has been an extremely delightful experience every time! Their matcha latte was one of the best I’ve ever had, and their oat milk vanilla latte was equally delicious. Both times I’ve went I also visited the cat lounge, you can tell the cats are very well taken care of and $15 for an hour is such a great price. Not only are the cats super cute but the money will help with their care! Will definitely be one of the coffee shops I’ll be visiting regularly.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Laura Johnson",
+          "rating": 5,
+          "text": {
+            "text": "We went to celebrate my daughter's birthday and had the best time. Coffee and hot chocolate was delicious, with a ton of options for drinks and snacks. It was impeccably clean, including the cat area. Such a cool set up and the cats were adorable. Had a great chat with the owner and both she and the staff were warm and kind. We will definitely return. The best day with great memories made!",
+            "languageCode": "en"
+          },
+          "time": "3 weeks ago"
+        },
+        {
+          "author": "Grace Robinson",
+          "rating": 5,
+          "text": {
+            "text": "This was so fun! So clean (I have severe allergies) and it only affected me a little bit. The treats were delicious and the kitties was so great. Awesome service!",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0ETFS2bNas3ZAOeUUO6gXQ_4t-MWQzhU4KSXZen9BRj78NjEHENLwnfy9oWy91kWdxzoLYRwNBilMw9FLojEkvondOWFNV7WknO55OGK8qTfFt8fwAUtCBp70hYcV6eZz2Qx6uEOmTcpueNJYdyeU5BF2RWd8hfEOu_Y3e4zihfiQiyto6r-PLLwHOFPD_AoAr1b0t_3Nz5bCQB2QeEH_T_cz1BfTLxRY7Dzc7EK56w2vIT-xqSVt16hY7VbvgxDVjh8tnIGTxw1MNUjk5liB4LylaubK-w0GlFsZism5fNA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Leesburg": [
+    {
+      "name": "Catty Corner Cafe",
+      "address": "116 E Market St, Leesburg, VA 20176, USA",
+      "rating": 4.7,
+      "user_ratings_total": 137,
+      "website": "http://cattycornercafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=18237308486200628844",
+      "lat": 39.1143575,
+      "lng": -77.56183,
+      "accessibility_options": "N/A",
+      "reviews": [
+        {
+          "author": "Melissa Weglarz",
+          "rating": 5,
+          "text": {
+            "text": "I love this place - the cats are so sweet and well taken care of. The staff is very nice and they usually will tell you about each cat too. The shop has a lot of unique gifts for cat lovers as well. Also the home made cookies are really good - I like the oatmeal cookie. 🐾",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Jen",
+          "rating": 4,
+          "text": {
+            "text": "It was a good experience being here. I never thought there was a cat café in US. I’ve only been to one in Japan. The cats were very friendly and cute. It’s good that these cats are adoptable and rescues. I wish the area was bigger and more clean though. I’m saying this because I’ve been to one in Japan and I didn’t smell any cat litter odor there so I bet there’s a way that this place can get better. I would go back here.",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Grace Jang",
+          "rating": 5,
+          "text": {
+            "text": "cute place! they have a drink station, baked cookies and a little shop downstairs, and upstairs is the actual kitty area. cats had lots of funny personalities hehe\n\njust keep in mind it's in Old Town Leesburg, so parking can sometimes be annoying",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3TYwNbMGPrJfDbC-7WKWSm2bEYXlhZ_6nJAD0psx7X0yBq48PT7xuX_auuQ-Q21JB-ewxhEJNFsxzRuZ6CKxAeAE_uP8eYVIgixDq8zUX6N86Fgl-FAnalArOUSdsjURoCvECtVnv6Bvc1rWuAUA-JYIU8DRr5rok2PbGA0WwztBOyK6O1u4wv2d6jHmvjBho3PMiE3NjV6pwQR3wTAmkzyyF0pKbq3ttO62ZE15Fm7s8lF070YsQbYlhJB7NHoD9BdmJZL1hMPKCeT_aofy_ZGe2zUaImLZZFPBO0ReoFIQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Roanoke": [
+    {
+      "name": "The Toebean Cat Cafe",
+      "address": "20 Walnut Ave SW, Roanoke, VA 24016, USA",
+      "rating": 5,
+      "user_ratings_total": 100,
+      "website": "http://thetoebeancatcafe.net/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=14242754521726281091",
+      "lat": 37.2611407,
+      "lng": -79.94257920000001,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Amber M",
+          "rating": 5,
+          "text": {
+            "text": "I went to the opening today and it was FANTASTIC. The cafe is light, airy, so welcoming but also cozy at the same time. The cats were in the best rooms, it was almost as good as forever homes. They had everything cats could ever want. The coffee was fabulous - I had a delightful mocha and the pastries looked absolutely divine. I’d stop by there just to get coffee, even without the incentive of adorable cats!!  It is a great place to take your laptop and do some work in a chill fun environment.  The owners were both there and they were awesome - they’re vet techs as well so I can’t ever imagine a cat cafe in better hands!!   I bought gift certificates for some friends - it’s the perfect gift and totally unique!!!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Rachel Smith",
+          "rating": 5,
+          "text": {
+            "text": "I stopped by the new cat cafe and had such a great time! Even though we didn’t get to hang out with the cats because we didn’t have a reservation, the cafe itself is super cute with all the cat-themed decor. My coffee was delicious too! I love that they’re all about helping cats find homes through local shelters! Definitely a place worth supporting, and I’ll make sure to book ahead next time!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Erin Velarde",
+          "rating": 5,
+          "text": {
+            "text": "The Toebean Cat Cafe offers a truly unique experience. The environment is filled with light and warmth, creating a cozy atmosphere all throughout. The cats are so loving and sweet, making it the perfect place to spend a morning or afternoon. The staff are helpful and kind, and it's clear that owners care deeply about these animals. Overall, it was a joyful experience. Plus, the coffee was absolutely delicious!",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0Vxmb7x_G08a4WVVRxoUmGL9lQBwyiEQvk20-NruLH8zv4wmIGftncKtnQdcDxcB3jCNOR57nxjnqScOwVxF2tr_bLPJpQGbWqdh_86rEDnvGnZGyTyyGwg4EHnYJGAfGLv9hrkT_ZxUIqAPwW-b71uMpHips_zdr-9FGhMUpCeYmCV0bpWAZJ00oLERnLwztgh36csON3bZ_5O3nmsJ9TgxaO0CuIiWo3luUdMnXu8jxErcQBmEpwSyYpAhyBrlGpHKMUoBuOvVL_HTy2Ahy1rmxiOo2jdz-Rhlv9f9g5jjotpKFzYb4wOENoni8Cox8D0wJi-wsfYWb28nqTGD92n5wkgSaeLq7Cn_p6I9qaBGHCNPQW2qUzSPflkMEUcIj4Wtzw5-VWnvky894DP41VjYlppy8y&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Morgantown": {
+    "city": "Morgantown",
+    "city_ascii": "Morgantown",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6383,
+    "lng": -79.9464,
+    "cafes": [
+      {
+        "name": "Stray Cat Chimmi Shack",
+        "address": "3417 University Ave, Morgantown, WV 26505, USA",
+        "rating": 4.9,
+        "user_ratings_total": 31,
+        "website": "https://straycatchimmishack.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=10280502284977713394",
+        "lat": 39.657730099999995,
+        "lng": -79.98402589999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Thomas Wojnar",
+            "rating": 5,
+            "text": {
+              "text": "My wife and I stopped here on our Honeymoon tour around West Virginia for brunch. Saw it on Google maps while we were planning the trip and luckily while we were leaving Morgantown, they were open. We ate inside. There's limited seating inside (some seating outside), but we were the only people there when we showed up. I ordered the Tijuana, she ordered the Philly which was a special that day. We split Cajun and Garlic Parm fries. Everything was delicious. Would definitely return if we are heading through Morgantown and the timing lines up!",
+              "languageCode": "en"
+            },
+            "time": "10 months ago"
+          },
+          {
+            "author": "Billy Smerka Jr.",
+            "rating": 5,
+            "text": {
+              "text": "A small food truck that operates an old hotdog shop that you can eat in their makeshift courtyard... I shouldn't even have to review the cheesy smokey barbacoa filled crispy chimi. But it was hot, fresh and made to order. Try a dessert too, the tables near me were raving about it.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "James McDonald",
+            "rating": 5,
+            "text": {
+              "text": "The place is Epic! The people are Amazing! The food is Excellent! Check their Facebook out as they have varying hours.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ16R3PeiaKMVxZ4EIgfOUjNvgIekFZ8VH-likGENnfFnm3__GS7kd42ilqIcnnHKot55cA15nan9vrk9vikoMlJEfW8T-ORKjkS-TARHbwl7qWKXFQbtghz_89Iaa0Jo0YL2l-68VkKQxvYeOspelK7yw2GinGn4hv1ayHtqAvP0Xud3T_6JctQ6y0MB-Xzn1VzNUqukQkZPz0eVfSgafVJVyr489e3ZD-l3HFXnoZ1ER81HLZ5RjGmdiG7gb-eNiWR_yyrT27u2OeMT4hgZCaQqgwZ7_3fij25YfNMBgr_SA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Newport News": [
+    {
+      "name": "Cups and Claws Cat Cafe and Lounge",
+      "address": "10605 Jefferson Ave, Newport News, VA 23601, USA",
+      "rating": 4.9,
+      "user_ratings_total": 292,
+      "website": "https://www.cupsandclaws.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=1211260741616558168",
+      "lat": 37.0484564,
+      "lng": -76.4607703,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Cosmo Richmond",
+          "rating": 5,
+          "text": {
+            "text": "Got our big boy Rock from here :) had a great time petting all the kitties and feeding them treats. All the staff was friendly, incredibly helpful and very knowledgeable. Will definitely be going back\n.\n.\n6 month update! Toast, (was Rock) is doing amazing! And his new kitty friends love him so much! Special shout out to cups and claws because he's so well socialized and is very friendly with new friends as well as critters.",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Madison Martin",
+          "rating": 5,
+          "text": {
+            "text": "Perfect for all cat lovers. As soon as I stepped through the door I was greeted with love from the kitties. The atmosphere was so cozy and the staff were so nice, and the owner was very helpful with starting the adoption process of one of their cats for me. I definitely recommend for anyone who loves cats and wants to just chill with them or anyone who is thinking about adopting one ❤️",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Timyia Riley",
+          "rating": 5,
+          "text": {
+            "text": "I went to the 1980’s murder mystery event and I had so much fun! Everyone was so friendly and it was such a cozy and positive atmosphere!!! 10/10 recommend! (Plus the cutest kitties everywhere)!",
+            "languageCode": "en"
+          },
+          "time": "3 weeks ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ34KfNSjNRtljtxTB7VCr-EyGRyuBRXOsAEdrpyP8dZkP06BWx_dSHaP_jx-G4G462IU5JDszXMoGFznuP2RkYMRf-eWMeqqgTd2LLHUWsQ8PoApAa79C-elyT_aw9mZql5vF0a1GndB1NRJjXHfk7EjM-DkQsoQyKgSGi-iVyjcEodSl-J53BKkQjPpcb11uOoAkNep1B1f9cYJkgSkSK30R5a-OmiBq8315JsYXxt23PYbYkEbU1cXvDOyyaR03EjloGKgj_60SFcZCrNAy_bendQl79yHVKbcTmKXM8COg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2849,
+    "lng": -80.5645,
+    "cafes": [
+      {
+        "name": "Lucky Cat Cafe",
+        "address": "1 W Main St, Salem, VA 24153, USA",
+        "rating": 4.6,
+        "user_ratings_total": 274,
+        "website": "https://www.salemluckycatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=8851291860013326209",
+        "lat": 37.2927798,
+        "lng": -80.0590193,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Shakira Williams",
+            "rating": 3,
+            "text": {
+              "text": "I’ve came here a 1-2 years ago and the service was far superior! Today my husband and I ordered sushi first and then wanted ice cream. My husband and I waited in front of the gelato and no one even said we will be with you in a moment. 2 people literally saw us and I made contact multiple times. I stood patiently waiting and still nothing.\n\nWhile waiting, I saw a gross bug on the side of the pistachio gelato and I would have taken a photo and I would have told the workers but no one came to see if we wanted anything. I’m mentioning the bug here so that they can take it out and it won’t end up in someone’s cup. I don’t think the bug is due to a lack of cleanliness because it’s clean. I think it probably flew inside when they opened the ice cream freezer and froze to death.\n\nThere were not even a lot of people in there so it’s not acceptable to me to just ignore customers. Especially considering we had just paid for food and bottled water.\n\nEven as we walked out, there was no thank you or anything at all. The service is not good and I’m not sure if I will be back.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Kristina Harder",
+            "rating": 5,
+            "text": {
+              "text": "This shop is amazing! One of a kind, handmade gifts, the most delicious food you’ve ever tasted, and to top it off fast and friendly service!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Yinzú Nairouz",
+            "rating": 3,
+            "text": {
+              "text": "I was excited about the Mochi Donut but it was ok. Ice cream are different, in texture and flavors.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0f7jvpqYTB6UZIUFWHbwUQqGjlqovP18qSD32EXEA_re-lOOq3gELcLEthbAEMM6YnTjlryJwaSLyipxl95bI9_4Hi6VQK7YbmbR9xk8Avcc1gyLQFplZ58P9STC2LlT2kS9_rBMrGzbifI6t2XLoEFpJEpjJ9Adxo7Tb2R8pW7gnoFSpVbLWewf7yGww74JOb7F-BDL8jNZPKu9okE01NUEA6nUWLDIg1R6cr83Vmkp2Sh-9H30O4lnSW7w0EyP3YtmjRx99Hay4A08gCc58qgT_KWMFnrgL6tBtp_0xx4g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Sterling": [
+    {
+      "name": "Meows Corner",
+      "address": "21435 Epicerie Plaza Suite 115, Sterling, VA 20165, USA",
+      "rating": 4.5,
+      "user_ratings_total": 155,
+      "website": "http://meowscorner.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=1376969306150029657",
+      "lat": 39.023377100000005,
+      "lng": -77.3945475,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true
+      },
+      "reviews": [
+        {
+          "author": "Paul Culver",
+          "rating": 5,
+          "text": {
+            "text": "A great place to get some cat time.  I happened here when my out of town relatives were visiting and they had a great time. All of the cats except one are rescues and up for adoption.  I see they have had 444 cats adopted since their inception.  Great cause and worth supporting…",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Greg",
+          "rating": 5,
+          "text": {
+            "text": "Very nice, cute cat 'cafe'. As a former Foster for 4Paws, the rescue they supplies the cats and kittens for adoption, it was great to see where they go and even got to see some of our fosters! The place was clean and very cute. The staff were polite, knowledge, helpful, responsive, etc.\n\nIt's not really a cafe, but there were prepacked food and drinks. Prices are... Reasonable, understandably. It's a great business to get cats adopted.",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Bethany Banaszewski",
+          "rating": 5,
+          "text": {
+            "text": "Absolutely LOVED our visit to Meow's Corner! This cat cafe is super casual and chill, and it is really focused on the most important part--the cats. The environment was clean and there were plenty of places for the cats to play, hide, and sleep. The cats all seemed healthy and happy, and it was clear they were well taken care of. The staff member in charge was super sweet, and she seemed to know all of the cats' personalities and stories. And all of the cats are adoptable, so if you find one that you really click with, you can even take them home with you! Really a phenomenal experience; I'll definitely be back soon!!!",
+            "languageCode": "en"
+          },
+          "time": "8 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3VIXkFmOnT99_Jtqx-EwUovvcfBtn3U45nZ5EnF_TC4C4A6UrSe82tPtsG9wWQYedPQNVIZXdj3nWZ3TG6-C-N9POZL3N_6MPlI9MYTbKA47abCqqDf0FJAjN1to1MPh4eyUGL73EY8UGs6Oceeza4yW4EYaz81HIQAnZ1DSNSix13D_G44oXpWPSDFPNDSb4X_m62wSUjgScaHRHHQ7Fekr4ouxAmMa1Vi4YI_G920R-UkL1j0OgQ8GwqAUUWtKEfI91Qcks94ay1karvKKcWeFvrxL8YpLoqSI-l-TF8-w&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Zanesville": [
+    {
+      "name": "The Chatty Cat Cafe",
+      "address": "3575 Maple Ave Suite 106, Zanesville, OH 43701, USA",
+      "rating": 4.9,
+      "user_ratings_total": 114,
+      "website": "https://www.thechattycatcafe.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=10659641313285540486",
+      "lat": 39.9877204,
+      "lng": -82.0274312,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": false
+      },
+      "reviews": [
+        {
+          "author": "MA W",
+          "rating": 5,
+          "text": {
+            "text": "This lovely woman is helping cats in need and she is doing a wonderful job.\nFor a small fee ($10) you can enjoy quiet time with these little angels ❤️\nAnd for $75(or so) you can adopt one of these beautiful babies.\nThey have all their shots and are spayed and neutered.\nChatty Cat Cafe offers small snacks and drinks. I tried the macarons and they were delicious.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "kira sharrock",
+          "rating": 5,
+          "text": {
+            "text": "Have been here 5+ times now and love it so so much. My boyfriend and I first went in October 2023 and met a cat there with the same name as him, we went back in January 2024 and he was still there so we adopted him. Best decision ever and he already had all his shots and was neutered. Staff are always incredibly welcoming and kind not a bad word to say. Love the work they do to find these rescue kitties new homes!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Lynn",
+          "rating": 5,
+          "text": {
+            "text": "This place is so cute!!! The cat lounge is super cozy, plenty of comfy places to sit and play w the kitties. Its very clean, all the cats seemed so content (but would be happier if adopted😸😉) The owner was so sweet and nice. Stop in and have a tasty drink to support the kitties!",
+            "languageCode": "en"
+          },
+          "time": "6 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ01tVRX2v3moHva-Gph2YmO9IPRaFIJu9dLVDXa2WdBW3aVb4AAI_COAgre0wsxSF-fW0aOEPiUwy6sAGVjz3zOt8YUhCUIok43rvjVo7j2-eHAYfR-egVE0eh6tenfNA-HAvq_XhwZ7x6Wc0Y3GrwZ10tyGjSG7lTgvujHtt_6fw7BtE0yMUip2zj-6qvcwae5T-TfOf9fS7neU_w4rJ3WrsIGDnh51gRb8NW7Kg7ix2RWOJG6iHz_bmnwBs7UtE6LcV_fxCUDLqmTMtMOvgaHQrRQ0E4fygfgrsRP3zLLhQohAl3FhOO_WuLybBfCy8xVLN6UOxeLqiTOnIB-mTr9oIEanWNsCKBNKHjZ6OGbNgCzWOfXfWzapWEVsEBrqe99nQY3ChGyOtjqPo_OXWwxPrUp_1gG&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Covington": [
+    {
+      "name": "Purrfect Day Cat Café",
+      "address": "25 W 8th St, Covington, KY 41011, USA",
+      "rating": 4.8,
+      "user_ratings_total": 391,
+      "website": "https://purrfectdaycafecovington.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=277971319075972838",
+      "lat": 39.0820223,
+      "lng": -84.5106587,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Natalie Kerr",
+          "rating": 5,
+          "text": {
+            "text": "A purrfect way to spend a cloudy Sunday afternoon! Make a reservation in advance to make the most out of this visit, and be sure to pop by the cafe before entering the cat room at least 10 minutes before you enter the room of adorable and soft cats to pet and play with! Whether you’re enjoying a nice cold or hot beverage with your loved ones, this is the most clean cat facility I’ve ever been to!\nEasy access to free parking across the street and a calming atmosphere for everyone.\nI would highly recommend checking this and other cat cafes who are either looking to\nAdopt or simply to hang out with these incredibly happy felines in a clean and friendly atmosphere!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Kathryn Patterson",
+          "rating": 5,
+          "text": {
+            "text": "This was hands down the best experience ever. Our beloved cat of 14 years passed away last year and we were ready to welcome some new cats into our family. The setup is so calming for the cats, lots of places to sleep or hide or play. Music going. Not too many people in there at a time to overwhelm them.\n\nWe left with two (not the same litter) and they have bonded really well. Couldn’t be  happier !",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Megan H",
+          "rating": 5,
+          "text": {
+            "text": "If I could give them 100 stars I would! This cat cafe is incredible because you are hanging out with adoptable shelter cats. The cats are adorable, and so much fun. I loved every second of it! This was a huge dose of serotonin for me, and I am hopeful every single one of the cats finds their furever home soon! Highly recommend!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2ROQYvCNqAvxgPlIzW7wLaoywZNWcwiSEOcKK58eQ85V9_mdWeKFxcdeBaU8RmB3obeXqOZMexg8_GuKYeCARHN6WHF-ixm-gpf1rIpuv-zXVytvE5yzcmjCKaSPQqm2QVyqbitTpASubqKB_naGUudHUu85gR8zqW8T0kOBbUgjKlw7BUpnrlIAczVCAuUurRb2gYRRTH0MVl25hua2SwkTUMREQoHH0i4DAlJXkUVV5ze3jc8hwoMGlK2Imv9NOq6qTFMYop_C87PE2i7Iijuk2y-Ye-oE1duIoPE2gmK50hzE8IwjL5IuJvoQOWMv55QNf536a6gplOCDX6Lon9ODPxxk4GxvsmJcMglJzzwy67_zS0yxE0ESDJBzEHUpITIT4gGJcK4VvW6UbAI0ZSf2Ntd6A&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Fairfax": [
+    {
+      "name": "Patriot Pawsabilities Cat Lounge",
+      "address": "10687 Braddock Rd, Fairfax, VA 22032, USA",
+      "rating": 4.9,
+      "user_ratings_total": 434,
+      "website": "https://www.patriotpawsabilities.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=6056580848212267002",
+      "lat": 38.824738599999996,
+      "lng": -77.31541349999999,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Mary Calvert",
+          "rating": 5,
+          "text": {
+            "text": "My Husband and I have been here twice and we love it! It’s very clean, the staff are friendly and helpful and of course the cats and kittens are the best! You can tell that everyone who works there loves and cares for each of the kittens, it’s become our new favorite thing to do on the weekends! We can’t wait to come back! Also, as a GMU alumni/employee I LOVE that it’s so close to campus! 10/10!!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Emil",
+          "rating": 5,
+          "text": {
+            "text": "Super awesome and welcoming place, one of my new favorites to come and relax and recharge! Staff are super friendly and helpful, I asked them all sorts of things about the kitties. All of their cats are super sweet and would make great little house cats 🥰 The kitten room was closed for cleaning so I’m definitely going to come back when it’s done. Recommending to everyone who loves cats or just needs an hour to relax with some cute babies.",
+            "languageCode": "en"
+          },
+          "time": "6 months ago"
+        },
+        {
+          "author": "Stephen Liu",
+          "rating": 5,
+          "text": {
+            "text": "I visited this place for the 1st time today and I enjoyed it so much. The employees and volunteers are all friendly and helpful, and you can tell they really care for the cats. The cats are adorable and most are very sweet. Some are a bit more standoffish, but they'll let you know if they don't want to be pet. There is enough space for people and cats to roam, and plenty of cats to play with. They provide a lot of toys for you to use, and the cats have a ton of trees and perches to nap on. The space is clean and doesn't smell, and you can tell the cats are well cared for. The price for a visit is reasonable in my opinion, and it helps them care for the cats. The only \"negative\" is how quickly the hour went by! I'll definitely visit again.",
+            "languageCode": "en"
+          },
+          "time": "6 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0C0M5TzafUvyurPPORwjXr-W8G6dTl5j9dAdCm5rHdHICXjJw5KW2WvP4oiwklQXv8wAalGmeLU7BMl5gzyTEy_EKgSNsOWIhqnp0HHgxVsvioCSc2NkdOXoP4dLJit7zUKM4W46wvBh2hoWpXBtSXbXboAOAlhaPdVvo6E3l5cmhIH-kt19SP1pM4njK5dPfOK3GDU3I2ZpnlDDAIJ68hEZUOdBf-IPp6WpkNqCRtnN-4z92UZM82-LGPWGuf0FUGPKtB1jD5d5uNTHa7TT3WTz6eZGrY1GsRB3p3PfAnrA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Greensburg": [
+    {
+      "name": "Cattfeinated Cat Cafe",
+      "address": "159 E Otterman St, Greensburg, PA 15601, USA",
+      "rating": 4.7,
+      "user_ratings_total": 326,
+      "website": "https://www.greensburgcatcafe.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=10418098458014682967",
+      "lat": 40.3044553,
+      "lng": -79.54133250000001,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Honest Reviews",
+          "rating": 5,
+          "text": {
+            "text": "If your a cat lover and enjoy coffee then this is the place for you.  They are currently housing between 25-30 cats.  They have two rooms for visits- the kitten room and the adult cat room.  The cafe is separate from the cats and they serve a full range of hot, iced and frozen coffees.  The entire place is immaculately clean.  They also have a small section to purchase gifts and miscellaneous items.  To visit the cats there is a small fee from $5.00 a person for 15 minutes to $10.00 for 30 minutes.  They do take reservations for visits and I can imagine that is necessary at times.  You must also remove your shoes and sanitize your hands before entering.  Picking up the cats is not allowed and sleeping cats are not to be disturbed.  You can pet and play with the cats if they decide you are worthy lol.  They do a great service for unwanted cats by fostering them until homes can be found.  Had a great time and the money spent was for a great cause.",
+            "languageCode": "en"
+          },
+          "time": "4 weeks ago"
+        },
+        {
+          "author": "Sophia DelCotto",
+          "rating": 5,
+          "text": {
+            "text": "We came here for date night and had an amazing time. The staff was friendly and they have so many amazing cats for adoption. My favorite kitten was Piper. We aren’t ready to adopt but will come back next time we want to see some kitties!",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Sydney Repasky",
+          "rating": 5,
+          "text": {
+            "text": "We had such a great time here! The coffees were amazing and the prices were very reasonable. We spent 30 minutes with the cats and they were so sweet and fun to hang out with. The whole place was clean. Will definitely be back!",
+            "languageCode": "en"
+          },
+          "time": "6 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0LSYMKuwyn9GbQfkPzEjc_6Inr82R-qipZ5t9Wnh7MmlnQ68TvJ6euS8lq9XGzABDGIqRBn4ioEPxBuOpup6xTP8R9sE-p55LGBxV4xWWqbNEgblFurI2hsayGkq7_d47oXAugF76dM7W04gLcqXCz9wlbkGoOz-sqs7qbu8YFl8TXJhYFqQaZGw3fg464BBE6okTbXntPxcfLwL59Nmn_0Q0oHOqm4HomZ474y1bujGHcF0zxtv9xvlsLqstUZZL1iN3_2DmlajscwNexF8bYgl7-IdXj1DpLTDV5wsSFaisVqCLgInKhUTkU4KwHenM8dd8QpPcoMp7R7k9RxWX7EkL4SqWiZHwoEJ-A7QqCw8GN05xnWs_EYR8Mh0QgT8nx69kUYVl5S-O_CYOW2CX0alrkKqpQOdFt&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Alexandria": [
+    {
+      "name": "Mount Purrnon Cat Café + Wine Bar",
+      "address": "109 S Alfred St, Alexandria, VA 22314, USA",
+      "rating": 4.8,
+      "user_ratings_total": 415,
+      "website": "https://www.mtpurrnoncatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=16103787686130584231",
+      "lat": 38.8048828,
+      "lng": -77.0494978,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Kathy G.",
+          "rating": 5,
+          "text": {
+            "text": "The cafe is such a great addition to the cat space, and it’s clear that the cats are well loved and taken care of. Some cats are seniors and just living out their last years in a bright, clean, lovely space, and others are much younger who are eager to make friends! The staff genuinely care about the cats and their care. Please stop by, support them and adopt!",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Carrie Devorah",
+          "rating": 5,
+          "text": {
+            "text": "MOUNT PURRNON CAT CAFE & WINE BAR has become a must-do for out of town kiddos visiting Northern Virginia, if you love cats and you love kiddies.\n\nMount Purrnon is located on Alfred Street just off King Street, the main 'drag' in Old Town Alexandria so everywhere you turn you are walking in historic footsteps. Parking is on the street. Payment is fed in to free standing rectangles. The receipt is placed on your car dashboard.\n\nMount Purrnon is a healthy walk towards the water with your back to the Metro. If you are lucky, you can catch Old Town's free trolley, a fun thing kids of all ages love to do. The trolley will land you near enough to the cafe allowing you to combine two kid fun events in one outing. ,\n\nThe Mount Purrnon Cafe is kitty corner to a vintage shop, around the cornerdown the street from Sephora and up the street from the amazing Torpedo Factory.\n\nEntering Mount Purrnon Cat Cafe + Wine Bar, you enter the most delightful gift shop filled with cat 'stuff' of all types, high end, crafty and lower priced fun stuff, all benefiting the charity housed in this historic house once upon a time someone, maybe, infamous in history lived there, after all, ghosts of America's fathers still live there, technically.\n\nFriendly volunteers sit waiting to take payment for adults, kids, lunch if you choose and the length of time your visit to last- 1/2 hour, an hour. I once met a young woman who pretty much spent all day there. She said she found inner peace.\n\nMount Purrnon profiles its current residents on the wall in this room so you sorta have an idea which kitties you will be greeted by upstairs AND maybe even want to take home with you if you are in the market for a furrever friend.\n\nThe stairs are a bit steep heading up to the cattery. There are steps outside, too.\n\nBefore you head up, there is a downstairs eating place with a limited menu that includes out of this world cheese melt sandwich a finicky-as-a-cat four year old I know literally inhales this sandwich. There is a cat themed bathroom on the first floor. It's sort of a nice thing to do- eat first, fill your tummy then head up the stairs.\n\nThe photos speak for themselves. I wanted to take them all but, got a better offer, two kiddos who love love love coming here to Mount Purrnon Cafe. Thank you, yet again.\n\noh yeah, photos are copyright (c) Carrie Devorah and may not be used unless given permission by me, not by google or the cafe",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Rebecca AJ",
+          "rating": 5,
+          "text": {
+            "text": "We had a wonderful time at Mount Purrnon! The staff was so helpful in answering our questions and they were informative of the cats. This business is doing wonderful things to support cats in the area. Will definitely be back!",
+            "languageCode": "en"
+          },
+          "time": "in the last week"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2QlkF8LU34Ussk2Xdxooq7BdpQPO_qw_2y8E3DQc2ig2elttaFgP42c81LyC9WqkiRmVw2OmoH3WZVKPZSff2qbVkZhtl0AhQsw-VoQCOR_J-gGmE3lag8HF7AhfFIPkAKorGcrPvHHu1-BBBD5vhZkcZS1ybyK2Vqcmtib-WsAh4qsFUj8Qzsyt_P8_iQF9VP_jjXarYo6zx0Y9YawpKP4hk5T9oUc7ggnE3PEcoEcULAQ-3MD6e-jzMB8DLJdG9AxKbWL-LibKorXc5Q-Vwc9mZXNHkBl9iK9Ysf7b-htg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Luray": [
+    {
+      "name": "Ollie Cat Cafe",
+      "address": "219 W Main St, Luray, VA 22835, USA",
+      "rating": 4,
+      "user_ratings_total": 573,
+      "website": "http://olliecatcafe.com/",
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "google_maps_url": "https://maps.google.com/?cid=3076774826538892542",
+      "lat": 38.6655082,
+      "lng": -78.4642868,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Aydan Guliyeva",
+          "rating": 1,
+          "text": {
+            "text": "Honestly, giving this place even 1 star feels too generous. We ordered the mahi sandwich, and the fish smelled off while the bread was way over-fried. The onion rings tasted like they were cooked in old, overused oil, and the hot dog was awful—seriously, you could get a better one from a food truck. To top it off, the bathroom was clogged and gross. You could tell from the food that the grill hadn’t been cleaned properly. The only saving grace was the waiter, who did a great job, but everything else was just bad. The restaurant is called Cat Cafe, but honestly, I don’t think even cats would eat the food here. We left most of it on the table. Definitely won’t be back, and if you’re thinking of visiting, do yourself a favor and read the reviews first. Total waste of money and time.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Jennifer Ng'andu",
+          "rating": 3,
+          "text": {
+            "text": "We arrived around 7pm but it took us closer to 8pm to get our food.  We found the service peculiar.  We first had a drink server who struggled with retention of our drink order.  When he didn't return for awhile, we asked for a service.  A new woman arrived and then immediately said, 'it wasn't my fault.'  She then guessed which ones of us would be the difficult orders.  The food service was slow. The owner chatted us up while we waited for our food, telling us about her rescues.  She assured us that we could stay as long as we needed, getting dessert or after-dinner drinks.  When the time came to make the decision the waitress quickly told us the kitchen was closed.  She walked it back when I told her what the owner said, but it clearly would have been a hassle for her to do so.  The food was good.  It filled the stomach and was above average, but we might see what else we could find in the future or try to come at a less busy time.",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Steve O'Shields",
+          "rating": 5,
+          "text": {
+            "text": "I have never been so pleasantly surprised & impressed by a restaurant/cafe. The atmosphere was uplifting and funny, the customer service was phenomenal and it's food was chefs kiss amazing! We will now drive 45 mins on the regular just to come here! Thank you Ed and Laura, you guys made this a great experience!",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1j-WMsWYdgPFtrgI_HEyaGW4FQki9hKzAUkm35KOC5d8VmUUrappKYlKP0e_8jOQD3qcmUWm5Ceuf-K-6Nfq0YEbu0SMgzMF-EBRYRhHGgyexxKlIxDA5qIxDJsu05kOSjSxN7s4TIPOe-FWb6nhwd2HHogNsMGgtme4bP_3V7pblhhxMFRI4TMNGIH6mpn-wgN9Gd1cxw8aZUEh5Q6QE0xSHvCTUZVqnDmv_EeRNm1Q0Aeyk7hFaJQ_vurluZ08mmqLLAZlznP_L341xZAgX6LdcuCkQOBT8T0UpuyjgvlD_QhnUmIx48dKyvCJgO8fz06wAtjloBrwQHavSfW7gW7tmuEUsklmpwq3KShaSy6OFWIAjs7CfHtlRyq9-CRO84NZa0DE9d4GRLb6KkLK6pyH6akJ7RYfmK&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Waldorf": [
+    {
+      "name": "Feline Felons Cat Cafe",
+      "address": "24 Industrial Park Dr #1, Waldorf, MD 20603, USA",
+      "rating": 4.8,
+      "user_ratings_total": 41,
+      "website": "https://www.felinefelonscatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=13386713300282808096",
+      "lat": 38.616405799999995,
+      "lng": -76.9071888,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Amanda Gunther",
+          "rating": 5,
+          "text": {
+            "text": "The Humans, Peggy & Matt, are excellent conversationalists who clearly care very, very much about the wonderful feline population here who are awaiting their furever home! They are incredibly knowledgeable about all the cats who are temporary residents. The cats are AMAZING. Their space is extraordinary, their adoption options are wonderful! And there are a bunch of really great cat-themed things you can buy in the \"meow-shop\"",
+            "languageCode": "en"
+          },
+          "time": "in the last week"
+        },
+        {
+          "author": "Hanah Ngo",
+          "rating": 5,
+          "text": {
+            "text": "The best cat cafe place that cat lovers should check out,even best place for your kids !!! Great experience ! Great staffs ! We definitely come back soon . My kids enjoyed their time there with all lovely kittens, they want to come back to see cat lounge .And we love their cat gifts shop with affordable prices .They have kittens and cats for adoption (the fee to me is much better than any places I used to ).",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Robert Hudler",
+          "rating": 5,
+          "text": {
+            "text": "If you love cats this is a place you must see. The workers are great and very helpful. Tons of kitty's that ate very loving all sizes and ages. Very clean and well kept... and yes we brought one home. We will be going back to just visit all the kitty's.  But really if you love cats it's 100% worth checking out.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1QbQ_M2ECapQg0LNIgq-GftGPyaEsZI4Jz6K5bXp4fj2nvPupn78JV94bR4wpZLOrp0Q9yvY4DeF_7lk_KOTzGhN9S6Htenp98Rf_fTqeNpPSJMBgQNkpZ9DzQa8W-E7lM8IO-VnE_sxUECEijhDIcYZBOKmyr7IjOLewy47a41MUTuRQaDUuhP8ElXqUpyETo__LjZWmJWuU8sk8-zFIWIQAKscBGslPKOW3J0uBCaVkKbtkno3EUM66VN_W2O1HGgQQ8gyo6c__5RPq8yoDLka4gbSZ0SJNSQyIfwBJCTA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Indiana": [
+    {
+      "name": "Dexter's Cat Cafe",
+      "address": "1053 Philadelphia St, Indiana, PA 15701, USA",
+      "rating": 4.9,
+      "user_ratings_total": 45,
+      "website": "http://www.dexterscatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=12940632057969747221",
+      "lat": 40.6232094,
+      "lng": -79.15968149999999,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleRestroom": true
+      },
+      "reviews": [
+        {
+          "author": "Claire Weber",
+          "rating": 5,
+          "text": {
+            "text": "Such a wonderful place. Great coffee and treats, and best of all, you get to cuddle with cats. All the cats are up for adoption too, so if you're looking for a new furry friend, stop by. The owner is very friendly and gave us some good insights into the town.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Stacey Vincler",
+          "rating": 5,
+          "text": {
+            "text": "My husband, daughter and I visited Dexter's to visit with cats.  Brittney is extremely friendly and told us about each cat in the room.  We loved meeting all of the cats and learning their stories.  We submitted an application for Coconut before we left and are hoping to adopt him.  We will definately be back to visit, have a coffee and play with the cats in the future!  It's a great way to spend some time in the afternoon, help cats and enjoy a tasty drink!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Topaz San Felipe",
+          "rating": 5,
+          "text": {
+            "text": "Absolutely wonderful! Company of cats and some really friendly folks while sipping on an espresso drink and munching on a pastery.\nPlenty of seating in the main lobby as well as the cat room.  Parking in the back or on the street.\na minimal fee based in time to spend with the cats, proceeds go to assist in caring and finding homes for the darling felines. Gift cards are available, a small section of cat themed items.\n\nDrinks are Fantabulous, staff is great, pasteries delectable and the cats are just swell.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0yLP9aau3fSRznf6AIxuM3nuWzSZw1h6A2VdvatP_kerSfHFn6yUbwt4hnCsFG2wnrM8t8_DWqIxPtuxMT4JTeM-w4YtoPChjAIziptG5jMi1VZKgjm129SLzOeiZzplblrN8lSEkMHVovHrd4Gsr83KSwUS5erfqrAaMdVnD4dVHsG-LjiPZcS6FB43yHk21scKLOxIwzt-Yr6aHrOvX_VC34_HXFPuRLyLr85F3B6sRqamc_Os4F5uxTHtH8STt_SzEpSr8x44__oiQ3FMdfIk86E9o5nKIAs_cPIa4jUJyjHKgUXg-iDqj6YOrGoJDgg7TpSZJbFKFtEBHlMfpZS5yrcXlFIZlYVAh60g_akcEk8XdTl8yw-z15R-1m7Ur0p-s2n4ILTTMQSn4gOcs31Y_o-Bs&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Fayetteville": {
+    "city": "Fayetteville",
+    "city_ascii": "Fayetteville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0622,
+    "lng": -81.1083,
+    "cafes": [
+      {
+        "name": "MJ's Restaurant",
+        "address": "190 S Court St, Fayetteville, WV 25840, USA",
+        "rating": 5,
+        "user_ratings_total": 7,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=16661870286296124426",
+        "lat": 38.0492773,
+        "lng": -81.10086609999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Samantha Moreland",
+            "rating": 5,
+            "text": {
+              "text": "While visiting New River Gorge for a few days, we needed a quick stop for breakfast. They are super nice people! They went above and beyond to accommodate. And I mean above and beyond! They have a nice menu and a fun atmosphere, outdoor seating as well. They didn’t have to accommodate my allergy, but they did. And it was good.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Jay Young",
+            "rating": 5,
+            "text": {
+              "text": "FORMERLY THE 304. This often overlooked location has housed several terrific restaurants, and now it's MJ's, named for the owner's beloved cat. The food is inexpensive and outstanding. This is a must visit. I'm posting menu photos.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Marsha Krugman",
+            "rating": 5,
+            "text": {
+              "text": "We stopped in around 2 for lunch and were thrilled with the quality and taste of the food.  They make their own pimiento cheese which is featured in several of their sandwiches and it's the bomb. Delicious food and excellent service!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ18yopxXb9zTeeQzuQwoSPo5b0S_veIYFgkbDoXzZwHi6ZwCBUwqFXGmPfUZkOyXUJMW6SMY16M95Cd-RG6XqYWGJGx01QkpiJxbdRKpSqPjcDYEl95D2hU5R6Hyy27gy6utTn6kOH4Wil_hqV9PO6yG2tm0fPCkyrAbRmxcfegzVDE19Xobwh0HdXgefzKJ-kyUkS2xAO6jT1ROlvEp7yFFu5Ebtq0MIDFWPLi1edg_aKPjAPqrCh0GOyD_J8WxvYBCft5UlJlChfQ0xfdkM6Xbtdfx4p-zxqpVgiE1CZJ7g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Cleveland": [
+    {
+      "name": "affoGATO Cat Cafe",
+      "address": "761 Starkweather Ave, Cleveland, OH 44113, USA",
+      "rating": 4.8,
+      "user_ratings_total": 525,
+      "website": "https://www.affogatocatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=10640171787830283600",
+      "lat": 41.477376299999996,
+      "lng": -81.6823352,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Leilani Anderson",
+          "rating": 5,
+          "text": {
+            "text": "Come for the cats, stay for the cats!!\n\nI had the pleasure of visiting on a Tuesday and there were only one or two people with me. There weren't many cats when I arrived due to a lot being adopted over the weekend, and who can be mad at that?! Luckily I Also got to watch a few new cats join the cafe during my visit!\nI got to play,  enjoy some cuddles and it definitely made my birthday special.\nI was set on a cupcake that I saw online, but unfortunately they were sold out. I got a brownie instead and it wasn't the best. The frozen lemonade was awesome though!\nI WILL be back!",
+            "languageCode": "en"
+          },
+          "time": "3 weeks ago"
+        },
+        {
+          "author": "TIPSY with WATER",
+          "rating": 5,
+          "text": {
+            "text": "Since we aren’t in a position to adopt a new fur baby at the moment, we haven’t made an appointment to play with the kitties at the cafe, but we’ve peeked in the window and have seen how well cared for and happy they are. This place takes tremendous care of their residents and is designed so thoughtfully - The cats have lots of room to enjoy, places to hide (including ceiling fixtures), toys to play with, food and litter facilities, and other amenities. It’s laid out in such a way that all personality types (from shy to rambunctious) can interact with potential forever home humans on terms they are comfortable with. This is so important!\n\nAs a cafe customer I can also say that they have a friendly staff and AWESOME beverages! (They have a caramel chocolate oat shake here that’s even better than a milk shake.) We always enjoy our stops in here when we happen to be in the area =^•_•^=",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Joe",
+          "rating": 5,
+          "text": {
+            "text": "Great cafe and concept. They have had over 1k cats adopted since they have been open. Reservation needed to pet cats. Kids under 13 can only come on Sunday reservations. Lots of space clean we can’t wait to come back to have a reservation with the cats.",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ21zn2vnEgJ9TtKUV1CVUhBht_et9Y75H1f6hpHxf03cQZ1C5ISCc8q7HHgW-3aKU32Hc7gEWE1m-5wyuGeTBxf-CZvkG1G5tHfadyLdK6tVNBpmL_Xe9GcT9e_t4V18e0-grEDzr-lpp0HF0Ympa1B2hCLuKBJknoxtykudF_V7PlV_8zjBXIGqDtxrTKmIj5-MpDaKz81hrXFc-ewWuQVhc1yjiXMYvwmsSbwHGOY-lyDw1ir-Sa8ckCWPXUARF2USH_hIa421QWS3HHvish48nWNL5B1Sln4yS5CKC1BAg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Columbus": [
+    {
+      "name": "Kitty Bubble Cafe & Bar",
+      "address": "5568 N High St, Columbus, OH 43214, USA",
+      "rating": 4.4,
+      "user_ratings_total": 414,
+      "website": "https://kittybubblecafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=14437834297632434929",
+      "lat": 40.076237899999995,
+      "lng": -83.01829459999999,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "thatonesammkid",
+          "rating": 5,
+          "text": {
+            "text": "Awesome cafe and adoption center! Do keep in mind that if you want to see cats it costs money per person and is usually by appointment which we did not know going in! The coffees were great and the homemade jewelry was super cute!\nThe cats of course were adorable and the staff were super friendly.",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        },
+        {
+          "author": "Jennifer Tran",
+          "rating": 5,
+          "text": {
+            "text": "I love the aesthetics of Kitty Bubble Cafe and Bar!!! Eveything in the cat cafe is so cute!!! I highly recommend for any cat lover to visit.There are friendly staff and tasty menu items to order. I also like the cleanliness of the cafe and cat lounge. Make sure you make a reservation prior to your visit. All the cats are well cared for and can be adopted. I hope all the furbabies can find their forever homes!!",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Nicole L.",
+          "rating": 5,
+          "text": {
+            "text": "This is such a fun place to go if you're a lover of cats. They have a selection of cats available for adoption that you can pay $15 per person per hour to go and enjoy. The kitty room is very clean and despite having mild cat allergies I didn't have much of a reaction at all. The cats are well cared for and it's clear the staff genuinely care about them.\n\nI didn't order food so I can't remark on the food, but overall we had a pretty great time and I'd recommend checking this place out at least one. The aesthetic in the cat room is amazing. 🥰",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0ltSPSxD52gNSkCIkYVzyGrWISvivkxE--bjrSCjDp4Zc8JCxUb-VZ3d70oP6nZEz7C8ZxM6SW7gvmAIzosPLqPxfaNxNR0-VeMjVqeY9XsVoQ1Fcq7dgYAx3J6cds2YyVNAtmXsjtcioVZP8ENkzTe31omBmFG-fSFk9a8eAT7JZ75VEDVjVu1tOUzDlRCn2AZqplUzou3BVzIdhXJKtXsV1WD77jvFlu0qetyLy5PrhXm8aQoxLpYt1ff-oBUJoc3OVIdFpeOaNKuPa69KBWHq8wenpFgLb-5E4WSpfouD9zkzIJWPg7JXVK7LUHFjW5Zew5B-n-mb4kELvd2XTAFcs952eY79wyPz8kpxcl0rZbwpHhZTXimq6Ag9CBxkF3SUHEgBsawg-pKOq8_DK7l_StquaweA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Huntington": {
+    "city": "Huntington",
+    "city_ascii": "Huntington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4109,
+    "lng": -82.4345,
+    "cafes": []
+  },
+  "Parkersburg": {
+    "city": "Parkersburg",
+    "city_ascii": "Parkersburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2623,
+    "lng": -81.542,
+    "cafes": []
+  },
+  "Wheeling": {
+    "city": "Wheeling",
+    "city_ascii": "Wheeling",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.0752,
+    "lng": -80.6951,
+    "cafes": []
+  },
+  "Martinsburg": {
+    "city": "Martinsburg",
+    "city_ascii": "Martinsburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4582,
+    "lng": -77.9776,
+    "cafes": []
+  },
+  "Weirton": {
+    "city": "Weirton",
+    "city_ascii": "Weirton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.406,
+    "lng": -80.5671,
+    "cafes": []
+  },
+  "Fairmont": {
+    "city": "Fairmont",
+    "city_ascii": "Fairmont",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4768,
+    "lng": -80.1491,
+    "cafes": []
+  },
+  "Beckley": {
+    "city": "Beckley",
+    "city_ascii": "Beckley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7877,
+    "lng": -81.1841,
+    "cafes": []
+  },
+  "Clarksburg": {
+    "city": "Clarksburg",
+    "city_ascii": "Clarksburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2862,
+    "lng": -80.3232,
+    "cafes": []
+  },
+  "Teays Valley": {
+    "city": "Teays Valley",
+    "city_ascii": "Teays Valley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4482,
+    "lng": -81.9246,
+    "cafes": []
+  },
+  "South Charleston": {
+    "city": "South Charleston",
+    "city_ascii": "South Charleston",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3426,
+    "lng": -81.7155,
+    "cafes": []
+  },
+  "St. Albans": {
+    "city": "St. Albans",
+    "city_ascii": "St. Albans",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3769,
+    "lng": -81.8198,
+    "cafes": []
+  },
+  "Vienna": {
+    "city": "Vienna",
+    "city_ascii": "Vienna",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.324,
+    "lng": -81.5383,
+    "cafes": []
+  },
+  "Cheat Lake": {
+    "city": "Cheat Lake",
+    "city_ascii": "Cheat Lake",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.667,
+    "lng": -79.8564,
+    "cafes": []
+  },
+  "Cross Lanes": {
+    "city": "Cross Lanes",
+    "city_ascii": "Cross Lanes",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4351,
+    "lng": -81.7707,
+    "cafes": []
+  },
+  "Bluefield": {
+    "city": "Bluefield",
+    "city_ascii": "Bluefield",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.2608,
+    "lng": -81.2143,
+    "cafes": []
+  },
+  "Bridgeport": {
+    "city": "Bridgeport",
+    "city_ascii": "Bridgeport",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3036,
+    "lng": -80.2478,
+    "cafes": []
+  },
+  "Oak Hill": {
+    "city": "Oak Hill",
+    "city_ascii": "Oak Hill",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9844,
+    "lng": -81.1277,
+    "cafes": []
+  },
+  "Moundsville": {
+    "city": "Moundsville",
+    "city_ascii": "Moundsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.9221,
+    "lng": -80.7422,
+    "cafes": []
+  },
+  "Dunbar": {
+    "city": "Dunbar",
+    "city_ascii": "Dunbar",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3688,
+    "lng": -81.7345,
+    "cafes": []
+  },
+  "Pea Ridge": {
+    "city": "Pea Ridge",
+    "city_ascii": "Pea Ridge",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4155,
+    "lng": -82.3195,
+    "cafes": []
+  },
+  "Nitro": {
+    "city": "Nitro",
+    "city_ascii": "Nitro",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4117,
+    "lng": -81.8193,
+    "cafes": []
+  },
+  "Hurricane": {
+    "city": "Hurricane",
+    "city_ascii": "Hurricane",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4293,
+    "lng": -82.0182,
+    "cafes": []
+  },
+  "Elkins": {
+    "city": "Elkins",
+    "city_ascii": "Elkins",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9237,
+    "lng": -79.8541,
+    "cafes": []
+  },
+  "Charles Town": {
+    "city": "Charles Town",
+    "city_ascii": "Charles Town",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2746,
+    "lng": -77.8631,
+    "cafes": []
+  },
+  "Brookhaven": {
+    "city": "Brookhaven",
+    "city_ascii": "Brookhaven",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6062,
+    "lng": -79.8812,
+    "cafes": []
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "city_ascii": "Princeton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3689,
+    "lng": -81.0961,
+    "cafes": []
+  },
+  "Ranson": {
+    "city": "Ranson",
+    "city_ascii": "Ranson",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.325,
+    "lng": -77.8667,
+    "cafes": []
+  },
+  "New Martinsville": {
+    "city": "New Martinsville",
+    "city_ascii": "New Martinsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6635,
+    "lng": -80.8569,
+    "cafes": []
+  },
+  "Buckhannon": {
+    "city": "Buckhannon",
+    "city_ascii": "Buckhannon",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9927,
+    "lng": -80.2281,
+    "cafes": []
+  },
+  "Keyser": {
+    "city": "Keyser",
+    "city_ascii": "Keyser",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4394,
+    "lng": -78.9821,
+    "cafes": []
+  },
+  "Grafton": {
+    "city": "Grafton",
+    "city_ascii": "Grafton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3409,
+    "lng": -80.0162,
+    "cafes": []
+  },
+  "Barboursville": {
+    "city": "Barboursville",
+    "city_ascii": "Barboursville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4067,
+    "lng": -82.2964,
+    "cafes": []
+  },
+  "Point Pleasant": {
+    "city": "Point Pleasant",
+    "city_ascii": "Point Pleasant",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.853,
+    "lng": -82.1303,
+    "cafes": []
+  },
+  "Westover": {
+    "city": "Westover",
+    "city_ascii": "Westover",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6329,
+    "lng": -79.9882,
+    "cafes": []
+  },
+  "Pinch": {
+    "city": "Pinch",
+    "city_ascii": "Pinch",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4062,
+    "lng": -81.481,
+    "cafes": []
+  },
+  "Weston": {
+    "city": "Weston",
+    "city_ascii": "Weston",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0391,
+    "lng": -80.4616,
+    "cafes": []
+  },
+  "Lewisburg": {
+    "city": "Lewisburg",
+    "city_ascii": "Lewisburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8096,
+    "lng": -80.4327,
+    "cafes": []
+  },
+  "Ravenswood": {
+    "city": "Ravenswood",
+    "city_ascii": "Ravenswood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9561,
+    "lng": -81.7619,
+    "cafes": []
+  },
+  "Pleasant Valley": {
+    "city": "Pleasant Valley",
+    "city_ascii": "Pleasant Valley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4504,
+    "lng": -80.1552,
+    "cafes": []
+  },
+  "Welch": {
+    "city": "Welch",
+    "city_ascii": "Welch",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4455,
+    "lng": -81.5721,
+    "cafes": []
+  },
+  "Shady Spring": {
+    "city": "Shady Spring",
+    "city_ascii": "Shady Spring",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7032,
+    "lng": -81.0914,
+    "cafes": []
+  },
+  "Shannondale": {
+    "city": "Shannondale",
+    "city_ascii": "Shannondale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2123,
+    "lng": -77.8105,
+    "cafes": []
+  },
+  "Summersville": {
+    "city": "Summersville",
+    "city_ascii": "Summersville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2864,
+    "lng": -80.8409,
+    "cafes": []
+  },
+  "Blennerhassett": {
+    "city": "Blennerhassett",
+    "city_ascii": "Blennerhassett",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2562,
+    "lng": -81.6316,
+    "cafes": []
+  },
+  "Petersburg": {
+    "city": "Petersburg",
+    "city_ascii": "Petersburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9958,
+    "lng": -79.1277,
+    "cafes": []
+  },
+  "Culloden": {
+    "city": "Culloden",
+    "city_ascii": "Culloden",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4154,
+    "lng": -82.0705,
+    "cafes": []
+  },
+  "Ripley": {
+    "city": "Ripley",
+    "city_ascii": "Ripley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.8201,
+    "lng": -81.7091,
+    "cafes": []
+  },
+  "Kingwood": {
+    "city": "Kingwood",
+    "city_ascii": "Kingwood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4719,
+    "lng": -79.6822,
+    "cafes": []
+  },
+  "Williamson": {
+    "city": "Williamson",
+    "city_ascii": "Williamson",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6741,
+    "lng": -82.2709,
+    "cafes": []
+  },
+  "Williamstown": {
+    "city": "Williamstown",
+    "city_ascii": "Williamstown",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3987,
+    "lng": -81.4549,
+    "cafes": []
+  },
+  "Kenova": {
+    "city": "Kenova",
+    "city_ascii": "Kenova",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4026,
+    "lng": -82.5822,
+    "cafes": []
+  },
+  "Moorefield": {
+    "city": "Moorefield",
+    "city_ascii": "Moorefield",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0675,
+    "lng": -78.9623,
+    "cafes": []
+  },
+  "Philippi": {
+    "city": "Philippi",
+    "city_ascii": "Philippi",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.1488,
+    "lng": -80.0417,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0631,
+    "lng": -81.8046,
+    "cafes": []
+  },
+  "Follansbee": {
+    "city": "Follansbee",
+    "city_ascii": "Follansbee",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.3385,
+    "lng": -80.5975,
+    "cafes": []
+  },
+  "Milton": {
+    "city": "Milton",
+    "city_ascii": "Milton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.433,
+    "lng": -82.1303,
+    "cafes": []
+  },
+  "Sissonville": {
+    "city": "Sissonville",
+    "city_ascii": "Sissonville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.5042,
+    "lng": -81.6398,
+    "cafes": []
+  },
+  "White Sulphur Springs": {
+    "city": "White Sulphur Springs",
+    "city_ascii": "White Sulphur Springs",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7981,
+    "lng": -80.3005,
+    "cafes": []
+  },
+  "Richwood": {
+    "city": "Richwood",
+    "city_ascii": "Richwood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2221,
+    "lng": -80.5363,
+    "cafes": []
+  },
+  "Inwood": {
+    "city": "Inwood",
+    "city_ascii": "Inwood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3538,
+    "lng": -78.0552,
+    "cafes": []
+  },
+  "Bethlehem": {
+    "city": "Bethlehem",
+    "city_ascii": "Bethlehem",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.0451,
+    "lng": -80.6898,
+    "cafes": []
+  },
+  "Winfield": {
+    "city": "Winfield",
+    "city_ascii": "Winfield",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.5292,
+    "lng": -81.8857,
+    "cafes": []
+  },
+  "Paden City": {
+    "city": "Paden City",
+    "city_ascii": "Paden City",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6034,
+    "lng": -80.9351,
+    "cafes": []
+  },
+  "Mineralwells": {
+    "city": "Mineralwells",
+    "city_ascii": "Mineralwells",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.1807,
+    "lng": -81.513,
+    "cafes": []
+  },
+  "Hinton": {
+    "city": "Hinton",
+    "city_ascii": "Hinton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6652,
+    "lng": -80.8828,
+    "cafes": []
+  },
+  "Falling Waters": {
+    "city": "Falling Waters",
+    "city_ascii": "Falling Waters",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5637,
+    "lng": -77.8875,
+    "cafes": []
+  },
+  "Wellsburg": {
+    "city": "Wellsburg",
+    "city_ascii": "Wellsburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.281,
+    "lng": -80.6102,
+    "cafes": []
+  },
+  "Chester": {
+    "city": "Chester",
+    "city_ascii": "Chester",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.6129,
+    "lng": -80.5628,
+    "cafes": []
+  },
+  "Bluewell": {
+    "city": "Bluewell",
+    "city_ascii": "Bluewell",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3144,
+    "lng": -81.258,
+    "cafes": []
+  },
+  "Stonewood": {
+    "city": "Stonewood",
+    "city_ascii": "Stonewood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2502,
+    "lng": -80.3054,
+    "cafes": []
+  },
+  "Mullens": {
+    "city": "Mullens",
+    "city_ascii": "Mullens",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.5812,
+    "lng": -81.3855,
+    "cafes": []
+  },
+  "Shinnston": {
+    "city": "Shinnston",
+    "city_ascii": "Shinnston",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3923,
+    "lng": -80.2989,
+    "cafes": []
+  },
+  "St. Marys": {
+    "city": "St. Marys",
+    "city_ascii": "St. Marys",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4023,
+    "lng": -81.1951,
+    "cafes": []
+  },
+  "Hooverson Heights": {
+    "city": "Hooverson Heights",
+    "city_ascii": "Hooverson Heights",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.3189,
+    "lng": -80.5825,
+    "cafes": []
+  },
+  "Spencer": {
+    "city": "Spencer",
+    "city_ascii": "Spencer",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.8024,
+    "lng": -81.3531,
+    "cafes": []
+  },
+  "Terra Alta": {
+    "city": "Terra Alta",
+    "city_ascii": "Terra Alta",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4442,
+    "lng": -79.5435,
+    "cafes": []
+  },
+  "Star City": {
+    "city": "Star City",
+    "city_ascii": "Star City",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6587,
+    "lng": -79.9868,
+    "cafes": []
+  },
+  "Nutter Fort": {
+    "city": "Nutter Fort",
+    "city_ascii": "Nutter Fort",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2604,
+    "lng": -80.3265,
+    "cafes": []
+  },
+  "Crab Orchard": {
+    "city": "Crab Orchard",
+    "city_ascii": "Crab Orchard",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.741,
+    "lng": -81.2298,
+    "cafes": []
+  },
+  "Belington": {
+    "city": "Belington",
+    "city_ascii": "Belington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0219,
+    "lng": -79.9383,
+    "cafes": []
+  },
+  "Logan": {
+    "city": "Logan",
+    "city_ascii": "Logan",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8509,
+    "lng": -81.9857,
+    "cafes": []
+  },
+  "McMechen": {
+    "city": "McMechen",
+    "city_ascii": "McMechen",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.9854,
+    "lng": -80.7335,
+    "cafes": []
+  },
+  "New Haven": {
+    "city": "New Haven",
+    "city_ascii": "New Haven",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9876,
+    "lng": -81.9656,
+    "cafes": []
+  },
+  "Romney": {
+    "city": "Romney",
+    "city_ascii": "Romney",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3454,
+    "lng": -78.7564,
+    "cafes": []
+  },
+  "Mannington": {
+    "city": "Mannington",
+    "city_ascii": "Mannington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5274,
+    "lng": -80.3409,
+    "cafes": []
+  },
+  "Eleanor": {
+    "city": "Eleanor",
+    "city_ascii": "Eleanor",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.5371,
+    "lng": -81.9254,
+    "cafes": []
+  },
+  "Sophia": {
+    "city": "Sophia",
+    "city_ascii": "Sophia",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7117,
+    "lng": -81.2525,
+    "cafes": []
+  },
+  "Montgomery": {
+    "city": "Montgomery",
+    "city_ascii": "Montgomery",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.175,
+    "lng": -81.3245,
+    "cafes": []
+  },
+  "Chesapeake": {
+    "city": "Chesapeake",
+    "city_ascii": "Chesapeake",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2232,
+    "lng": -81.5363,
+    "cafes": []
+  },
+  "Craigsville": {
+    "city": "Craigsville",
+    "city_ascii": "Craigsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3246,
+    "lng": -80.645,
+    "cafes": []
+  },
+  "Prosperity": {
+    "city": "Prosperity",
+    "city_ascii": "Prosperity",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8385,
+    "lng": -81.1986,
+    "cafes": []
+  },
+  "West Liberty": {
+    "city": "West Liberty",
+    "city_ascii": "West Liberty",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.1648,
+    "lng": -80.5972,
+    "cafes": []
+  },
+  "Daniels": {
+    "city": "Daniels",
+    "city_ascii": "Daniels",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.724,
+    "lng": -81.1267,
+    "cafes": []
+  },
+  "Belle": {
+    "city": "Belle",
+    "city_ascii": "Belle",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2336,
+    "lng": -81.5385,
+    "cafes": []
+  },
+  "Ronceverte": {
+    "city": "Ronceverte",
+    "city_ascii": "Ronceverte",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7503,
+    "lng": -80.4715,
+    "cafes": []
+  },
+  "Marmet": {
+    "city": "Marmet",
+    "city_ascii": "Marmet",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2458,
+    "lng": -81.5711,
+    "cafes": []
+  },
+  "Glen Dale": {
+    "city": "Glen Dale",
+    "city_ascii": "Glen Dale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.9466,
+    "lng": -80.7565,
+    "cafes": []
+  },
+  "Mabscott": {
+    "city": "Mabscott",
+    "city_ascii": "Mabscott",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.769,
+    "lng": -81.2133,
+    "cafes": []
+  },
+  "Parsons": {
+    "city": "Parsons",
+    "city_ascii": "Parsons",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0942,
+    "lng": -79.6785,
+    "cafes": []
+  },
+  "Alum Creek": {
+    "city": "Alum Creek",
+    "city_ascii": "Alum Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2875,
+    "lng": -81.833,
+    "cafes": []
+  },
+  "Mallory": {
+    "city": "Mallory",
+    "city_ascii": "Mallory",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7302,
+    "lng": -81.8243,
+    "cafes": []
+  },
+  "Mount Gay-Shamrock": {
+    "city": "Mount Gay-Shamrock",
+    "city_ascii": "Mount Gay-Shamrock",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8512,
+    "lng": -82.023,
+    "cafes": []
+  },
+  "Wayne": {
+    "city": "Wayne",
+    "city_ascii": "Wayne",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2301,
+    "lng": -82.4415,
+    "cafes": []
+  },
+  "Ceredo": {
+    "city": "Ceredo",
+    "city_ascii": "Ceredo",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3961,
+    "lng": -82.5535,
+    "cafes": []
+  },
+  "Bradley": {
+    "city": "Bradley",
+    "city_ascii": "Bradley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8675,
+    "lng": -81.2046,
+    "cafes": []
+  },
+  "Oceana": {
+    "city": "Oceana",
+    "city_ascii": "Oceana",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6927,
+    "lng": -81.6324,
+    "cafes": []
+  },
+  "Coal Fork": {
+    "city": "Coal Fork",
+    "city_ascii": "Coal Fork",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3185,
+    "lng": -81.5229,
+    "cafes": []
+  },
+  "Lubeck": {
+    "city": "Lubeck",
+    "city_ascii": "Lubeck",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2276,
+    "lng": -81.6265,
+    "cafes": []
+  },
+  "Harrisville": {
+    "city": "Harrisville",
+    "city_ascii": "Harrisville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2104,
+    "lng": -81.0485,
+    "cafes": []
+  },
+  "Shepherdstown": {
+    "city": "Shepherdstown",
+    "city_ascii": "Shepherdstown",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.432,
+    "lng": -77.8046,
+    "cafes": []
+  },
+  "Boaz": {
+    "city": "Boaz",
+    "city_ascii": "Boaz",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3671,
+    "lng": -81.4854,
+    "cafes": []
+  },
+  "Mount Hope": {
+    "city": "Mount Hope",
+    "city_ascii": "Mount Hope",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8976,
+    "lng": -81.1737,
+    "cafes": []
+  },
+  "Barrackville": {
+    "city": "Barrackville",
+    "city_ascii": "Barrackville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5014,
+    "lng": -80.1696,
+    "cafes": []
+  },
+  "Sistersville": {
+    "city": "Sistersville",
+    "city_ascii": "Sistersville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5597,
+    "lng": -80.9988,
+    "cafes": []
+  },
+  "Shenandoah Junction": {
+    "city": "Shenandoah Junction",
+    "city_ascii": "Shenandoah Junction",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.353,
+    "lng": -77.8375,
+    "cafes": []
+  },
+  "Rainelle": {
+    "city": "Rainelle",
+    "city_ascii": "Rainelle",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9678,
+    "lng": -80.7718,
+    "cafes": []
+  },
+  "Stanaford": {
+    "city": "Stanaford",
+    "city_ascii": "Stanaford",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8156,
+    "lng": -81.1491,
+    "cafes": []
+  },
+  "Bolivar": {
+    "city": "Bolivar",
+    "city_ascii": "Bolivar",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3241,
+    "lng": -77.7517,
+    "cafes": []
+  },
+  "MacArthur": {
+    "city": "MacArthur",
+    "city_ascii": "MacArthur",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7551,
+    "lng": -81.2079,
+    "cafes": []
+  },
+  "Fairlea": {
+    "city": "Fairlea",
+    "city_ascii": "Fairlea",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7756,
+    "lng": -80.4582,
+    "cafes": []
+  },
+  "Newell": {
+    "city": "Newell",
+    "city_ascii": "Newell",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.6175,
+    "lng": -80.5997,
+    "cafes": []
+  },
+  "Coal City": {
+    "city": "Coal City",
+    "city_ascii": "Coal City",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6776,
+    "lng": -81.218,
+    "cafes": []
+  },
+  "Man": {
+    "city": "Man",
+    "city_ascii": "Man",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7522,
+    "lng": -81.8923,
+    "cafes": []
+  },
+  "Pennsboro": {
+    "city": "Pennsboro",
+    "city_ascii": "Pennsboro",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2874,
+    "lng": -80.9755,
+    "cafes": []
+  },
+  "Granville": {
+    "city": "Granville",
+    "city_ascii": "Granville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6472,
+    "lng": -79.9975,
+    "cafes": []
+  },
+  "Brush Fork": {
+    "city": "Brush Fork",
+    "city_ascii": "Brush Fork",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.2805,
+    "lng": -81.245,
+    "cafes": []
+  },
+  "Ansted": {
+    "city": "Ansted",
+    "city_ascii": "Ansted",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1356,
+    "lng": -81.1038,
+    "cafes": []
+  },
+  "Alderson": {
+    "city": "Alderson",
+    "city_ascii": "Alderson",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7277,
+    "lng": -80.6436,
+    "cafes": []
+  },
+  "Benwood": {
+    "city": "Benwood",
+    "city_ascii": "Benwood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.0139,
+    "lng": -80.7328,
+    "cafes": []
+  },
+  "Hamlin": {
+    "city": "Hamlin",
+    "city_ascii": "Hamlin",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2805,
+    "lng": -82.1084,
+    "cafes": []
+  },
+  "Lesage": {
+    "city": "Lesage",
+    "city_ascii": "Lesage",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.487,
+    "lng": -82.293,
+    "cafes": []
+  },
+  "Athens": {
+    "city": "Athens",
+    "city_ascii": "Athens",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4231,
+    "lng": -81.0151,
+    "cafes": []
+  },
+  "White Hall": {
+    "city": "White Hall",
+    "city_ascii": "White Hall",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.424,
+    "lng": -80.1889,
+    "cafes": []
+  },
+  "Washington": {
+    "city": "Washington",
+    "city_ascii": "Washington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2422,
+    "lng": -81.6679,
+    "cafes": []
+  },
+  "Gilbert Creek": {
+    "city": "Gilbert Creek",
+    "city_ascii": "Gilbert Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.5697,
+    "lng": -81.8906,
+    "cafes": []
+  },
+  "Buffalo": {
+    "city": "Buffalo",
+    "city_ascii": "Buffalo",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.6108,
+    "lng": -81.9817,
+    "cafes": []
+  },
+  "Tornado": {
+    "city": "Tornado",
+    "city_ascii": "Tornado",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3369,
+    "lng": -81.855,
+    "cafes": []
+  },
+  "Enterprise": {
+    "city": "Enterprise",
+    "city_ascii": "Enterprise",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4197,
+    "lng": -80.2833,
+    "cafes": []
+  },
+  "Bethany": {
+    "city": "Bethany",
+    "city_ascii": "Bethany",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.2053,
+    "lng": -80.5629,
+    "cafes": []
+  },
+  "Poca": {
+    "city": "Poca",
+    "city_ascii": "Poca",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4748,
+    "lng": -81.8119,
+    "cafes": []
+  },
+  "Carpendale": {
+    "city": "Carpendale",
+    "city_ascii": "Carpendale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6278,
+    "lng": -78.7896,
+    "cafes": []
+  },
+  "Marlinton": {
+    "city": "Marlinton",
+    "city_ascii": "Marlinton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2245,
+    "lng": -80.0905,
+    "cafes": []
+  },
+  "Glenville": {
+    "city": "Glenville",
+    "city_ascii": "Glenville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9379,
+    "lng": -80.834,
+    "cafes": []
+  },
+  "Despard": {
+    "city": "Despard",
+    "city_ascii": "Despard",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2874,
+    "lng": -80.3158,
+    "cafes": []
+  },
+  "Fort Ashby": {
+    "city": "Fort Ashby",
+    "city_ascii": "Fort Ashby",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4973,
+    "lng": -78.7646,
+    "cafes": []
+  },
+  "Chapmanville": {
+    "city": "Chapmanville",
+    "city_ascii": "Chapmanville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9727,
+    "lng": -82.0215,
+    "cafes": []
+  },
+  "Clendenin": {
+    "city": "Clendenin",
+    "city_ascii": "Clendenin",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4859,
+    "lng": -81.3503,
+    "cafes": []
+  },
+  "Rupert": {
+    "city": "Rupert",
+    "city_ascii": "Rupert",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9649,
+    "lng": -80.687,
+    "cafes": []
+  },
+  "North Hills": {
+    "city": "North Hills",
+    "city_ascii": "North Hills",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.315,
+    "lng": -81.5088,
+    "cafes": []
+  },
+  "Sprague": {
+    "city": "Sprague",
+    "city_ascii": "Sprague",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7938,
+    "lng": -81.1822,
+    "cafes": []
+  },
+  "New Cumberland": {
+    "city": "New Cumberland",
+    "city_ascii": "New Cumberland",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.5072,
+    "lng": -80.6115,
+    "cafes": []
+  },
+  "Monongah": {
+    "city": "Monongah",
+    "city_ascii": "Monongah",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4598,
+    "lng": -80.2185,
+    "cafes": []
+  },
+  "West Union": {
+    "city": "West Union",
+    "city_ascii": "West Union",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2963,
+    "lng": -80.7751,
+    "cafes": []
+  },
+  "Rand": {
+    "city": "Rand",
+    "city_ascii": "Rand",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2818,
+    "lng": -81.5653,
+    "cafes": []
+  },
+  "Addison": {
+    "city": "Addison",
+    "city_ascii": "Addison",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4782,
+    "lng": -80.4082,
+    "cafes": []
+  },
+  "Cassville": {
+    "city": "Cassville",
+    "city_ascii": "Cassville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.675,
+    "lng": -80.0678,
+    "cafes": []
+  },
+  "Bath": {
+    "city": "Bath",
+    "city_ascii": "Bath",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6247,
+    "lng": -78.2275,
+    "cafes": []
+  },
+  "Middlebourne": {
+    "city": "Middlebourne",
+    "city_ascii": "Middlebourne",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4947,
+    "lng": -80.907,
+    "cafes": []
+  },
+  "Smithers": {
+    "city": "Smithers",
+    "city_ascii": "Smithers",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1685,
+    "lng": -81.2991,
+    "cafes": []
+  },
+  "Triadelphia": {
+    "city": "Triadelphia",
+    "city_ascii": "Triadelphia",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.0483,
+    "lng": -80.623,
+    "cafes": []
+  },
+  "Piedmont": {
+    "city": "Piedmont",
+    "city_ascii": "Piedmont",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4778,
+    "lng": -79.0466,
+    "cafes": []
+  },
+  "Mason": {
+    "city": "Mason",
+    "city_ascii": "Mason",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0181,
+    "lng": -82.0316,
+    "cafes": []
+  },
+  "Gary": {
+    "city": "Gary",
+    "city_ascii": "Gary",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3619,
+    "lng": -81.5415,
+    "cafes": []
+  },
+  "Belmont": {
+    "city": "Belmont",
+    "city_ascii": "Belmont",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3787,
+    "lng": -81.2634,
+    "cafes": []
+  },
+  "McConnell": {
+    "city": "McConnell",
+    "city_ascii": "McConnell",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8282,
+    "lng": -81.9652,
+    "cafes": []
+  },
+  "Great Cacapon": {
+    "city": "Great Cacapon",
+    "city_ascii": "Great Cacapon",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6144,
+    "lng": -78.2857,
+    "cafes": []
+  },
+  "Glasgow": {
+    "city": "Glasgow",
+    "city_ascii": "Glasgow",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2109,
+    "lng": -81.4218,
+    "cafes": []
+  },
+  "Elkview": {
+    "city": "Elkview",
+    "city_ascii": "Elkview",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4327,
+    "lng": -81.4771,
+    "cafes": []
+  },
+  "Davis": {
+    "city": "Davis",
+    "city_ascii": "Davis",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.1266,
+    "lng": -79.4609,
+    "cafes": []
+  },
+  "Lavalette": {
+    "city": "Lavalette",
+    "city_ascii": "Lavalette",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3224,
+    "lng": -82.4479,
+    "cafes": []
+  },
+  "East Bank": {
+    "city": "East Bank",
+    "city_ascii": "East Bank",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2153,
+    "lng": -81.4442,
+    "cafes": []
+  },
+  "Gallipolis Ferry": {
+    "city": "Gallipolis Ferry",
+    "city_ascii": "Gallipolis Ferry",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.7745,
+    "lng": -82.204,
+    "cafes": []
+  },
+  "Sutton": {
+    "city": "Sutton",
+    "city_ascii": "Sutton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.6663,
+    "lng": -80.7116,
+    "cafes": []
+  },
+  "Lumberport": {
+    "city": "Lumberport",
+    "city_ascii": "Lumberport",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3741,
+    "lng": -80.3484,
+    "cafes": []
+  },
+  "Arthurdale": {
+    "city": "Arthurdale",
+    "city_ascii": "Arthurdale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4953,
+    "lng": -79.8168,
+    "cafes": []
+  },
+  "Accoville": {
+    "city": "Accoville",
+    "city_ascii": "Accoville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7652,
+    "lng": -81.827,
+    "cafes": []
+  },
+  "Lashmeet": {
+    "city": "Lashmeet",
+    "city_ascii": "Lashmeet",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4228,
+    "lng": -81.1967,
+    "cafes": []
+  },
+  "Kopperston": {
+    "city": "Kopperston",
+    "city_ascii": "Kopperston",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7502,
+    "lng": -81.5764,
+    "cafes": []
+  },
+  "Beverly": {
+    "city": "Beverly",
+    "city_ascii": "Beverly",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.8443,
+    "lng": -79.8717,
+    "cafes": []
+  },
+  "Valley Bend": {
+    "city": "Valley Bend",
+    "city_ascii": "Valley Bend",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.7694,
+    "lng": -79.928,
+    "cafes": []
+  },
+  "Rivesville": {
+    "city": "Rivesville",
+    "city_ascii": "Rivesville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5319,
+    "lng": -80.1205,
+    "cafes": []
+  },
+  "Hometown": {
+    "city": "Hometown",
+    "city_ascii": "Hometown",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.5289,
+    "lng": -81.8552,
+    "cafes": []
+  },
+  "Mill Creek": {
+    "city": "Mill Creek",
+    "city_ascii": "Mill Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.7319,
+    "lng": -79.9725,
+    "cafes": []
+  },
+  "Piney View": {
+    "city": "Piney View",
+    "city_ascii": "Piney View",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.835,
+    "lng": -81.1275,
+    "cafes": []
+  },
+  "Institute": {
+    "city": "Institute",
+    "city_ascii": "Institute",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3797,
+    "lng": -81.7662,
+    "cafes": []
+  },
+  "Crooked Creek": {
+    "city": "Crooked Creek",
+    "city_ascii": "Crooked Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8839,
+    "lng": -81.9747,
+    "cafes": []
+  },
+  "Corinne": {
+    "city": "Corinne",
+    "city_ascii": "Corinne",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.571,
+    "lng": -81.3614,
+    "cafes": []
+  },
+  "Peterstown": {
+    "city": "Peterstown",
+    "city_ascii": "Peterstown",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3991,
+    "lng": -80.795,
+    "cafes": []
+  },
+  "Hilltop": {
+    "city": "Hilltop",
+    "city_ascii": "Hilltop",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9392,
+    "lng": -81.1526,
+    "cafes": []
+  },
+  "Jefferson": {
+    "city": "Jefferson",
+    "city_ascii": "Jefferson",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3702,
+    "lng": -81.771,
+    "cafes": []
+  },
+  "Reedsville": {
+    "city": "Reedsville",
+    "city_ascii": "Reedsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5103,
+    "lng": -79.8005,
+    "cafes": []
+  },
+  "West Hamlin": {
+    "city": "West Hamlin",
+    "city_ascii": "West Hamlin",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2802,
+    "lng": -82.194,
+    "cafes": []
+  },
+  "Rowlesburg": {
+    "city": "Rowlesburg",
+    "city_ascii": "Rowlesburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3483,
+    "lng": -79.6764,
+    "cafes": []
+  },
+  "Idamay": {
+    "city": "Idamay",
+    "city_ascii": "Idamay",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.493,
+    "lng": -80.2572,
+    "cafes": []
+  },
+  "Danville": {
+    "city": "Danville",
+    "city_ascii": "Danville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0808,
+    "lng": -81.8342,
+    "cafes": []
+  },
+  "East View": {
+    "city": "East View",
+    "city_ascii": "East View",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2691,
+    "lng": -80.3051,
+    "cafes": []
+  },
+  "Beaver": {
+    "city": "Beaver",
+    "city_ascii": "Beaver",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7356,
+    "lng": -81.15,
+    "cafes": []
+  },
+  "Bruno": {
+    "city": "Bruno",
+    "city_ascii": "Bruno",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.688,
+    "lng": -81.8737,
+    "cafes": []
+  },
+  "Thomas": {
+    "city": "Thomas",
+    "city_ascii": "Thomas",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.1458,
+    "lng": -79.4958,
+    "cafes": []
+  },
+  "Elizabeth": {
+    "city": "Elizabeth",
+    "city_ascii": "Elizabeth",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0616,
+    "lng": -81.3979,
+    "cafes": []
+  },
+  "Gassaway": {
+    "city": "Gassaway",
+    "city_ascii": "Gassaway",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.6702,
+    "lng": -80.7717,
+    "cafes": []
+  },
+  "Robinette": {
+    "city": "Robinette",
+    "city_ascii": "Robinette",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7856,
+    "lng": -81.7879,
+    "cafes": []
+  },
+  "War": {
+    "city": "War",
+    "city_ascii": "War",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.304,
+    "lng": -81.6802,
+    "cafes": []
+  },
+  "Wiley Ford": {
+    "city": "Wiley Ford",
+    "city_ascii": "Wiley Ford",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6151,
+    "lng": -78.7615,
+    "cafes": []
+  },
+  "Beech Bottom": {
+    "city": "Beech Bottom",
+    "city_ascii": "Beech Bottom",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.2181,
+    "lng": -80.6588,
+    "cafes": []
+  },
+  "Harts": {
+    "city": "Harts",
+    "city_ascii": "Harts",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0343,
+    "lng": -82.129,
+    "cafes": []
+  },
+  "Monaville": {
+    "city": "Monaville",
+    "city_ascii": "Monaville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8136,
+    "lng": -81.9915,
+    "cafes": []
+  },
+  "Chattaroy": {
+    "city": "Chattaroy",
+    "city_ascii": "Chattaroy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7062,
+    "lng": -82.2737,
+    "cafes": []
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7227,
+    "lng": -81.8745,
+    "cafes": []
+  },
+  "Cameron": {
+    "city": "Cameron",
+    "city_ascii": "Cameron",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.8279,
+    "lng": -80.5692,
+    "cafes": []
+  },
+  "Jane Lew": {
+    "city": "Jane Lew",
+    "city_ascii": "Jane Lew",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.11,
+    "lng": -80.4085,
+    "cafes": []
+  },
+  "Holden": {
+    "city": "Holden",
+    "city_ascii": "Holden",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8238,
+    "lng": -82.0788,
+    "cafes": []
+  },
+  "Cowen": {
+    "city": "Cowen",
+    "city_ascii": "Cowen",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.411,
+    "lng": -80.5542,
+    "cafes": []
+  },
+  "Anmoore": {
+    "city": "Anmoore",
+    "city_ascii": "Anmoore",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2611,
+    "lng": -80.2862,
+    "cafes": []
+  },
+  "Grantsville": {
+    "city": "Grantsville",
+    "city_ascii": "Grantsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9204,
+    "lng": -81.0933,
+    "cafes": []
+  },
+  "Montcalm": {
+    "city": "Montcalm",
+    "city_ascii": "Montcalm",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3516,
+    "lng": -81.2513,
+    "cafes": []
+  },
+  "Red Jacket": {
+    "city": "Red Jacket",
+    "city_ascii": "Red Jacket",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6488,
+    "lng": -82.1316,
+    "cafes": []
+  },
+  "Hartford City": {
+    "city": "Hartford City",
+    "city_ascii": "Hartford City",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9978,
+    "lng": -81.9905,
+    "cafes": []
+  },
+  "West Milford": {
+    "city": "West Milford",
+    "city_ascii": "West Milford",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2045,
+    "lng": -80.4034,
+    "cafes": []
+  },
+  "Matewan": {
+    "city": "Matewan",
+    "city_ascii": "Matewan",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6251,
+    "lng": -82.1696,
+    "cafes": []
+  },
+  "Mount Carbon": {
+    "city": "Mount Carbon",
+    "city_ascii": "Mount Carbon",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1442,
+    "lng": -81.289,
+    "cafes": []
+  },
+  "Powellton": {
+    "city": "Powellton",
+    "city_ascii": "Powellton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0941,
+    "lng": -81.322,
+    "cafes": []
+  },
+  "Windsor Heights": {
+    "city": "Windsor Heights",
+    "city_ascii": "Windsor Heights",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.1913,
+    "lng": -80.6649,
+    "cafes": []
+  },
+  "Tioga": {
+    "city": "Tioga",
+    "city_ascii": "Tioga",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.422,
+    "lng": -80.6548,
+    "cafes": []
+  },
+  "Clearview": {
+    "city": "Clearview",
+    "city_ascii": "Clearview",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.1399,
+    "lng": -80.6898,
+    "cafes": []
+  },
+  "Meadow Bridge": {
+    "city": "Meadow Bridge",
+    "city_ascii": "Meadow Bridge",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8613,
+    "lng": -80.8561,
+    "cafes": []
+  },
+  "Big Chimney": {
+    "city": "Big Chimney",
+    "city_ascii": "Big Chimney",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4119,
+    "lng": -81.5374,
+    "cafes": []
+  },
+  "Burnsville": {
+    "city": "Burnsville",
+    "city_ascii": "Burnsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.8579,
+    "lng": -80.6538,
+    "cafes": []
+  },
+  "Lester": {
+    "city": "Lester",
+    "city_ascii": "Lester",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7349,
+    "lng": -81.3014,
+    "cafes": []
+  },
+  "Masontown": {
+    "city": "Masontown",
+    "city_ascii": "Masontown",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5512,
+    "lng": -79.8003,
+    "cafes": []
+  },
+  "Boomer": {
+    "city": "Boomer",
+    "city_ascii": "Boomer",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.149,
+    "lng": -81.28,
+    "cafes": []
+  },
+  "Clay": {
+    "city": "Clay",
+    "city_ascii": "Clay",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4662,
+    "lng": -81.0813,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.445,
+    "lng": -78.6976,
+    "cafes": []
+  },
+  "Bancroft": {
+    "city": "Bancroft",
+    "city_ascii": "Bancroft",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.5107,
+    "lng": -81.8417,
+    "cafes": []
+  },
+  "Cedar Grove": {
+    "city": "Cedar Grove",
+    "city_ascii": "Cedar Grove",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2223,
+    "lng": -81.4378,
+    "cafes": []
+  },
+  "Gauley Bridge": {
+    "city": "Gauley Bridge",
+    "city_ascii": "Gauley Bridge",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1681,
+    "lng": -81.2039,
+    "cafes": []
+  },
+  "Delbarton": {
+    "city": "Delbarton",
+    "city_ascii": "Delbarton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7052,
+    "lng": -82.186,
+    "cafes": []
+  },
+  "Pineville": {
+    "city": "Pineville",
+    "city_ascii": "Pineville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.5846,
+    "lng": -81.5355,
+    "cafes": []
+  },
+  "Fort Gay": {
+    "city": "Fort Gay",
+    "city_ascii": "Fort Gay",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1201,
+    "lng": -82.595,
+    "cafes": []
+  },
+  "Dupont City": {
+    "city": "Dupont City",
+    "city_ascii": "Dupont City",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2657,
+    "lng": -81.5691,
+    "cafes": []
+  },
+  "Racine": {
+    "city": "Racine",
+    "city_ascii": "Racine",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1398,
+    "lng": -81.654,
+    "cafes": []
+  },
+  "Valley Grove": {
+    "city": "Valley Grove",
+    "city_ascii": "Valley Grove",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.0901,
+    "lng": -80.5691,
+    "cafes": []
+  },
+  "Gatewood": {
+    "city": "Gatewood",
+    "city_ascii": "Gatewood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0052,
+    "lng": -81.0663,
+    "cafes": []
+  },
+  "Paw Paw": {
+    "city": "Paw Paw",
+    "city_ascii": "Paw Paw",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5313,
+    "lng": -78.4553,
+    "cafes": []
+  },
+  "Prichard": {
+    "city": "Prichard",
+    "city_ascii": "Prichard",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2362,
+    "lng": -82.6028,
+    "cafes": []
+  },
+  "Farmington": {
+    "city": "Farmington",
+    "city_ascii": "Farmington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5119,
+    "lng": -80.2515,
+    "cafes": []
+  },
+  "Charlton Heights": {
+    "city": "Charlton Heights",
+    "city_ascii": "Charlton Heights",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1255,
+    "lng": -81.2333,
+    "cafes": []
+  },
+  "Newark": {
+    "city": "Newark",
+    "city_ascii": "Newark",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.1219,
+    "lng": -81.391,
+    "cafes": []
+  },
+  "Mitchell Heights": {
+    "city": "Mitchell Heights",
+    "city_ascii": "Mitchell Heights",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9087,
+    "lng": -81.9867,
+    "cafes": []
+  },
+  "Union": {
+    "city": "Union",
+    "city_ascii": "Union",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.5905,
+    "lng": -80.5419,
+    "cafes": []
+  },
+  "Glen Fork": {
+    "city": "Glen Fork",
+    "city_ascii": "Glen Fork",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6982,
+    "lng": -81.5362,
+    "cafes": []
+  },
+  "Handley": {
+    "city": "Handley",
+    "city_ascii": "Handley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1863,
+    "lng": -81.3673,
+    "cafes": []
+  },
+  "Pratt": {
+    "city": "Pratt",
+    "city_ascii": "Pratt",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2082,
+    "lng": -81.3869,
+    "cafes": []
+  },
+  "Capon Bridge": {
+    "city": "Capon Bridge",
+    "city_ascii": "Capon Bridge",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3,
+    "lng": -78.4341,
+    "cafes": []
+  },
+  "Grant Town": {
+    "city": "Grant Town",
+    "city_ascii": "Grant Town",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.559,
+    "lng": -80.1771,
+    "cafes": []
+  },
+  "Flatwoods": {
+    "city": "Flatwoods",
+    "city_ascii": "Flatwoods",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.7187,
+    "lng": -80.654,
+    "cafes": []
+  },
+  "Middleway": {
+    "city": "Middleway",
+    "city_ascii": "Middleway",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3032,
+    "lng": -77.981,
+    "cafes": []
+  },
+  "Matheny": {
+    "city": "Matheny",
+    "city_ascii": "Matheny",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.664,
+    "lng": -81.5985,
+    "cafes": []
+  },
+  "Stollings": {
+    "city": "Stollings",
+    "city_ascii": "Stollings",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8409,
+    "lng": -81.9625,
+    "cafes": []
+  },
+  "Earling": {
+    "city": "Earling",
+    "city_ascii": "Earling",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7668,
+    "lng": -81.9161,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3328,
+    "lng": -81.3813,
+    "cafes": []
+  },
+  "Clifton": {
+    "city": "Clifton",
+    "city_ascii": "Clifton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0041,
+    "lng": -82.0393,
+    "cafes": []
+  },
+  "Hendricks": {
+    "city": "Hendricks",
+    "city_ascii": "Hendricks",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0755,
+    "lng": -79.6299,
+    "cafes": []
+  },
+  "Hundred": {
+    "city": "Hundred",
+    "city_ascii": "Hundred",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6835,
+    "lng": -80.4575,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.6452,
+    "lng": -79.3332,
+    "cafes": []
+  },
+  "West Dunbar": {
+    "city": "West Dunbar",
+    "city_ascii": "West Dunbar",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3725,
+    "lng": -81.7558,
+    "cafes": []
+  },
+  "Verdunville": {
+    "city": "Verdunville",
+    "city_ascii": "Verdunville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8532,
+    "lng": -82.0603,
+    "cafes": []
+  },
+  "Kistler": {
+    "city": "Kistler",
+    "city_ascii": "Kistler",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7656,
+    "lng": -81.8578,
+    "cafes": []
+  },
+  "Henlawson": {
+    "city": "Henlawson",
+    "city_ascii": "Henlawson",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9,
+    "lng": -81.982,
+    "cafes": []
+  },
+  "West Logan": {
+    "city": "West Logan",
+    "city_ascii": "West Logan",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8679,
+    "lng": -81.9907,
+    "cafes": []
+  },
+  "Rock Cave": {
+    "city": "Rock Cave",
+    "city_ascii": "Rock Cave",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.8404,
+    "lng": -80.3375,
+    "cafes": []
+  },
+  "Ghent": {
+    "city": "Ghent",
+    "city_ascii": "Ghent",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6221,
+    "lng": -81.1057,
+    "cafes": []
+  },
+  "Hedgesville": {
+    "city": "Hedgesville",
+    "city_ascii": "Hedgesville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5544,
+    "lng": -77.9944,
+    "cafes": []
+  },
+  "Wardensville": {
+    "city": "Wardensville",
+    "city_ascii": "Wardensville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0768,
+    "lng": -78.593,
+    "cafes": []
+  },
+  "Harpers Ferry": {
+    "city": "Harpers Ferry",
+    "city_ascii": "Harpers Ferry",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3252,
+    "lng": -77.741,
+    "cafes": []
+  },
+  "Tunnelton": {
+    "city": "Tunnelton",
+    "city_ascii": "Tunnelton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3929,
+    "lng": -79.7466,
+    "cafes": []
+  },
+  "Shrewsbury": {
+    "city": "Shrewsbury",
+    "city_ascii": "Shrewsbury",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2079,
+    "lng": -81.4671,
+    "cafes": []
+  },
+  "Junior": {
+    "city": "Junior",
+    "city_ascii": "Junior",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9782,
+    "lng": -79.9504,
+    "cafes": []
+  },
+  "Pine Grove": {
+    "city": "Pine Grove",
+    "city_ascii": "Pine Grove",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5642,
+    "lng": -80.6825,
+    "cafes": []
+  },
+  "Leon": {
+    "city": "Leon",
+    "city_ascii": "Leon",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.7471,
+    "lng": -81.9555,
+    "cafes": []
+  },
+  "Gilbert": {
+    "city": "Gilbert",
+    "city_ascii": "Gilbert",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6142,
+    "lng": -81.8689,
+    "cafes": []
+  },
+  "East Dailey": {
+    "city": "East Dailey",
+    "city_ascii": "East Dailey",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.7795,
+    "lng": -79.8911,
+    "cafes": []
+  },
+  "Hinkleville": {
+    "city": "Hinkleville",
+    "city_ascii": "Hinkleville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.924,
+    "lng": -80.2636,
+    "cafes": []
+  },
+  "Lost Creek": {
+    "city": "Lost Creek",
+    "city_ascii": "Lost Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.1628,
+    "lng": -80.3483,
+    "cafes": []
+  },
+  "Bayard": {
+    "city": "Bayard",
+    "city_ascii": "Bayard",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2711,
+    "lng": -79.3662,
+    "cafes": []
+  },
+  "Montrose": {
+    "city": "Montrose",
+    "city_ascii": "Montrose",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0673,
+    "lng": -79.8143,
+    "cafes": []
+  },
+  "Pullman": {
+    "city": "Pullman",
+    "city_ascii": "Pullman",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.188,
+    "lng": -80.949,
+    "cafes": []
+  },
+  "Ridgeley": {
+    "city": "Ridgeley",
+    "city_ascii": "Ridgeley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6432,
+    "lng": -78.7711,
+    "cafes": []
+  },
+  "Aurora": {
+    "city": "Aurora",
+    "city_ascii": "Aurora",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3254,
+    "lng": -79.5546,
+    "cafes": []
+  },
+  "Raysal": {
+    "city": "Raysal",
+    "city_ascii": "Raysal",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3367,
+    "lng": -81.7712,
+    "cafes": []
+  },
+  "Malden": {
+    "city": "Malden",
+    "city_ascii": "Malden",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3008,
+    "lng": -81.558,
+    "cafes": []
+  },
+  "Sarah Ann": {
+    "city": "Sarah Ann",
+    "city_ascii": "Sarah Ann",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7086,
+    "lng": -81.988,
+    "cafes": []
+  },
+  "Kincaid": {
+    "city": "Kincaid",
+    "city_ascii": "Kincaid",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0382,
+    "lng": -81.2759,
+    "cafes": []
+  },
+  "Albright": {
+    "city": "Albright",
+    "city_ascii": "Albright",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4937,
+    "lng": -79.6399,
+    "cafes": []
+  },
+  "Nettie": {
+    "city": "Nettie",
+    "city_ascii": "Nettie",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2183,
+    "lng": -80.6889,
+    "cafes": []
+  },
+  "Eskdale": {
+    "city": "Eskdale",
+    "city_ascii": "Eskdale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0909,
+    "lng": -81.4471,
+    "cafes": []
+  },
+  "Davy": {
+    "city": "Davy",
+    "city_ascii": "Davy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4759,
+    "lng": -81.6475,
+    "cafes": []
+  },
+  "Hepzibah": {
+    "city": "Hepzibah",
+    "city_ascii": "Hepzibah",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3309,
+    "lng": -80.3341,
+    "cafes": []
+  },
+  "Crumpler": {
+    "city": "Crumpler",
+    "city_ascii": "Crumpler",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4262,
+    "lng": -81.3313,
+    "cafes": []
+  },
+  "Durbin": {
+    "city": "Durbin",
+    "city_ascii": "Durbin",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.5471,
+    "lng": -79.8278,
+    "cafes": []
+  },
+  "Bradshaw": {
+    "city": "Bradshaw",
+    "city_ascii": "Bradshaw",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3534,
+    "lng": -81.8012,
+    "cafes": []
+  },
+  "Northfork": {
+    "city": "Northfork",
+    "city_ascii": "Northfork",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4196,
+    "lng": -81.4274,
+    "cafes": []
+  },
+  "Flemington": {
+    "city": "Flemington",
+    "city_ascii": "Flemington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2666,
+    "lng": -80.1285,
+    "cafes": []
+  },
+  "Bud": {
+    "city": "Bud",
+    "city_ascii": "Bud",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.5329,
+    "lng": -81.3821,
+    "cafes": []
+  },
+  "Iaeger": {
+    "city": "Iaeger",
+    "city_ascii": "Iaeger",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4642,
+    "lng": -81.8111,
+    "cafes": []
+  },
+  "Kimberly": {
+    "city": "Kimberly",
+    "city_ascii": "Kimberly",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1407,
+    "lng": -81.2967,
+    "cafes": []
+  },
+  "Cottageville": {
+    "city": "Cottageville",
+    "city_ascii": "Cottageville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.8667,
+    "lng": -81.8242,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5927,
+    "lng": -80.2469,
+    "cafes": []
+  },
+  "Chelyan": {
+    "city": "Chelyan",
+    "city_ascii": "Chelyan",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1958,
+    "lng": -81.4928,
+    "cafes": []
+  },
+  "Chauncey": {
+    "city": "Chauncey",
+    "city_ascii": "Chauncey",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7652,
+    "lng": -81.9834,
+    "cafes": []
+  },
+  "Wallace": {
+    "city": "Wallace",
+    "city_ascii": "Wallace",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4072,
+    "lng": -80.4911,
+    "cafes": []
+  },
+  "Big Creek": {
+    "city": "Big Creek",
+    "city_ascii": "Big Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0054,
+    "lng": -82.0361,
+    "cafes": []
+  },
+  "Reynoldsville": {
+    "city": "Reynoldsville",
+    "city_ascii": "Reynoldsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2916,
+    "lng": -80.4412,
+    "cafes": []
+  },
+  "Justice": {
+    "city": "Justice",
+    "city_ascii": "Justice",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.5993,
+    "lng": -81.8381,
+    "cafes": []
+  },
+  "Garten": {
+    "city": "Garten",
+    "city_ascii": "Garten",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0335,
+    "lng": -81.075,
+    "cafes": []
+  },
+  "Womelsdorf": {
+    "city": "Womelsdorf",
+    "city_ascii": "Womelsdorf",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.898,
+    "lng": -79.9637,
+    "cafes": []
+  },
+  "Oakvale": {
+    "city": "Oakvale",
+    "city_ascii": "Oakvale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3323,
+    "lng": -80.9704,
+    "cafes": []
+  },
+  "Reader": {
+    "city": "Reader",
+    "city_ascii": "Reader",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5689,
+    "lng": -80.7316,
+    "cafes": []
+  },
+  "Berwind": {
+    "city": "Berwind",
+    "city_ascii": "Berwind",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.266,
+    "lng": -81.6632,
+    "cafes": []
+  },
+  "Newburg": {
+    "city": "Newburg",
+    "city_ascii": "Newburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3889,
+    "lng": -79.8536,
+    "cafes": []
+  },
+  "Apple Grove": {
+    "city": "Apple Grove",
+    "city_ascii": "Apple Grove",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.6663,
+    "lng": -82.1706,
+    "cafes": []
+  },
+  "Greenview": {
+    "city": "Greenview",
+    "city_ascii": "Greenview",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9964,
+    "lng": -81.8202,
+    "cafes": []
+  },
+  "Kimball": {
+    "city": "Kimball",
+    "city_ascii": "Kimball",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4268,
+    "lng": -81.5078,
+    "cafes": []
+  },
+  "Anawalt": {
+    "city": "Anawalt",
+    "city_ascii": "Anawalt",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3364,
+    "lng": -81.4407,
+    "cafes": []
+  },
+  "Wolf Summit": {
+    "city": "Wolf Summit",
+    "city_ascii": "Wolf Summit",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2822,
+    "lng": -80.462,
+    "cafes": []
+  },
+  "Neibert": {
+    "city": "Neibert",
+    "city_ascii": "Neibert",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7861,
+    "lng": -81.9341,
+    "cafes": []
+  },
+  "Norton": {
+    "city": "Norton",
+    "city_ascii": "Norton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9316,
+    "lng": -79.9692,
+    "cafes": []
+  },
+  "Hambleton": {
+    "city": "Hambleton",
+    "city_ascii": "Hambleton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0815,
+    "lng": -79.6455,
+    "cafes": []
+  },
+  "Glen White": {
+    "city": "Glen White",
+    "city_ascii": "Glen White",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.73,
+    "lng": -81.2797,
+    "cafes": []
+  },
+  "Comfort": {
+    "city": "Comfort",
+    "city_ascii": "Comfort",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1317,
+    "lng": -81.6102,
+    "cafes": []
+  },
+  "Brandywine": {
+    "city": "Brandywine",
+    "city_ascii": "Brandywine",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.6218,
+    "lng": -79.2415,
+    "cafes": []
+  },
+  "Page": {
+    "city": "Page",
+    "city_ascii": "Page",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0506,
+    "lng": -81.2717,
+    "cafes": []
+  },
+  "Elk Garden": {
+    "city": "Elk Garden",
+    "city_ascii": "Elk Garden",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3862,
+    "lng": -79.1556,
+    "cafes": []
+  },
+  "Kermit": {
+    "city": "Kermit",
+    "city_ascii": "Kermit",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8425,
+    "lng": -82.4086,
+    "cafes": []
+  },
+  "Frank": {
+    "city": "Frank",
+    "city_ascii": "Frank",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.5462,
+    "lng": -79.808,
+    "cafes": []
+  },
+  "Sylvester": {
+    "city": "Sylvester",
+    "city_ascii": "Sylvester",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.008,
+    "lng": -81.5623,
+    "cafes": []
+  },
+  "Carolina": {
+    "city": "Carolina",
+    "city_ascii": "Carolina",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4795,
+    "lng": -80.2728,
+    "cafes": []
+  },
+  "Rossmore": {
+    "city": "Rossmore",
+    "city_ascii": "Rossmore",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.805,
+    "lng": -81.9923,
+    "cafes": []
+  },
+  "Ellenboro": {
+    "city": "Ellenboro",
+    "city_ascii": "Ellenboro",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2678,
+    "lng": -81.0551,
+    "cafes": []
+  },
+  "Reedy": {
+    "city": "Reedy",
+    "city_ascii": "Reedy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.8996,
+    "lng": -81.4264,
+    "cafes": []
+  },
+  "Switzer": {
+    "city": "Switzer",
+    "city_ascii": "Switzer",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7879,
+    "lng": -81.9865,
+    "cafes": []
+  },
+  "Scarbro": {
+    "city": "Scarbro",
+    "city_ascii": "Scarbro",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9503,
+    "lng": -81.1665,
+    "cafes": []
+  },
+  "Hillsboro": {
+    "city": "Hillsboro",
+    "city_ascii": "Hillsboro",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1384,
+    "lng": -80.2107,
+    "cafes": []
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.8305,
+    "lng": -82.136,
+    "cafes": []
+  },
+  "Raleigh": {
+    "city": "Raleigh",
+    "city_ascii": "Raleigh",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7575,
+    "lng": -81.1699,
+    "cafes": []
+  },
+  "Whitesville": {
+    "city": "Whitesville",
+    "city_ascii": "Whitesville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9823,
+    "lng": -81.5367,
+    "cafes": []
+  },
+  "Rachel": {
+    "city": "Rachel",
+    "city_ascii": "Rachel",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5207,
+    "lng": -80.2997,
+    "cafes": []
+  },
+  "Salt Rock": {
+    "city": "Salt Rock",
+    "city_ascii": "Salt Rock",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3243,
+    "lng": -82.2172,
+    "cafes": []
+  },
+  "Itmann": {
+    "city": "Itmann",
+    "city_ascii": "Itmann",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.5734,
+    "lng": -81.4146,
+    "cafes": []
+  },
+  "Huttonsville": {
+    "city": "Huttonsville",
+    "city_ascii": "Huttonsville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.7139,
+    "lng": -79.9765,
+    "cafes": []
+  },
+  "Booth": {
+    "city": "Booth",
+    "city_ascii": "Booth",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5976,
+    "lng": -80.0191,
+    "cafes": []
+  },
+  "Falls View": {
+    "city": "Falls View",
+    "city_ascii": "Falls View",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1296,
+    "lng": -81.2539,
+    "cafes": []
+  },
+  "Arbovale": {
+    "city": "Arbovale",
+    "city_ascii": "Arbovale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4353,
+    "lng": -79.8116,
+    "cafes": []
+  },
+  "Camden-on-Gauley": {
+    "city": "Camden-on-Gauley",
+    "city_ascii": "Camden-on-Gauley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.3686,
+    "lng": -80.5973,
+    "cafes": []
+  },
+  "Baxter": {
+    "city": "Baxter",
+    "city_ascii": "Baxter",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.541,
+    "lng": -80.1439,
+    "cafes": []
+  },
+  "Quinwood": {
+    "city": "Quinwood",
+    "city_ascii": "Quinwood",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0586,
+    "lng": -80.706,
+    "cafes": []
+  },
+  "Falling Spring": {
+    "city": "Falling Spring",
+    "city_ascii": "Falling Spring",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9926,
+    "lng": -80.3576,
+    "cafes": []
+  },
+  "Justice Addition": {
+    "city": "Justice Addition",
+    "city_ascii": "Justice Addition",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8916,
+    "lng": -81.9928,
+    "cafes": []
+  },
+  "St. George": {
+    "city": "St. George",
+    "city_ascii": "St. George",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.1662,
+    "lng": -79.6987,
+    "cafes": []
+  },
+  "Crum": {
+    "city": "Crum",
+    "city_ascii": "Crum",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9095,
+    "lng": -82.447,
+    "cafes": []
+  },
+  "Omar": {
+    "city": "Omar",
+    "city_ascii": "Omar",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7583,
+    "lng": -81.9974,
+    "cafes": []
+  },
+  "Galloway": {
+    "city": "Galloway",
+    "city_ascii": "Galloway",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2339,
+    "lng": -80.1277,
+    "cafes": []
+  },
+  "Cairo": {
+    "city": "Cairo",
+    "city_ascii": "Cairo",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2068,
+    "lng": -81.1543,
+    "cafes": []
+  },
+  "Kanawha": {
+    "city": "Kanawha",
+    "city_ascii": "Kanawha",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.2017,
+    "lng": -81.4592,
+    "cafes": []
+  },
+  "Van": {
+    "city": "Van",
+    "city_ascii": "Van",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9712,
+    "lng": -81.7138,
+    "cafes": []
+  },
+  "Bramwell": {
+    "city": "Bramwell",
+    "city_ascii": "Bramwell",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.327,
+    "lng": -81.313,
+    "cafes": []
+  },
+  "Roderfield": {
+    "city": "Roderfield",
+    "city_ascii": "Roderfield",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4501,
+    "lng": -81.7029,
+    "cafes": []
+  },
+  "Green Spring": {
+    "city": "Green Spring",
+    "city_ascii": "Green Spring",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5242,
+    "lng": -78.6301,
+    "cafes": []
+  },
+  "Brandonville": {
+    "city": "Brandonville",
+    "city_ascii": "Brandonville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6671,
+    "lng": -79.6277,
+    "cafes": []
+  },
+  "Cunard": {
+    "city": "Cunard",
+    "city_ascii": "Cunard",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9994,
+    "lng": -81.0402,
+    "cafes": []
+  },
+  "Adrian": {
+    "city": "Adrian",
+    "city_ascii": "Adrian",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9069,
+    "lng": -80.2729,
+    "cafes": []
+  },
+  "Rhodell": {
+    "city": "Rhodell",
+    "city_ascii": "Rhodell",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6094,
+    "lng": -81.3049,
+    "cafes": []
+  },
+  "Raymond City": {
+    "city": "Raymond City",
+    "city_ascii": "Raymond City",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4838,
+    "lng": -81.8195,
+    "cafes": []
+  },
+  "Friendly": {
+    "city": "Friendly",
+    "city_ascii": "Friendly",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5137,
+    "lng": -81.0618,
+    "cafes": []
+  },
+  "Harman": {
+    "city": "Harman",
+    "city_ascii": "Harman",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9211,
+    "lng": -79.5245,
+    "cafes": []
+  },
+  "Dorothy": {
+    "city": "Dorothy",
+    "city_ascii": "Dorothy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9559,
+    "lng": -81.4503,
+    "cafes": []
+  },
+  "Smithfield": {
+    "city": "Smithfield",
+    "city_ascii": "Smithfield",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.501,
+    "lng": -80.5549,
+    "cafes": []
+  },
+  "Burlington": {
+    "city": "Burlington",
+    "city_ascii": "Burlington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.337,
+    "lng": -78.9223,
+    "cafes": []
+  },
+  "Valley Head": {
+    "city": "Valley Head",
+    "city_ascii": "Valley Head",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.5472,
+    "lng": -80.032,
+    "cafes": []
+  },
+  "Century": {
+    "city": "Century",
+    "city_ascii": "Century",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.1003,
+    "lng": -80.1883,
+    "cafes": []
+  },
+  "Jacksonburg": {
+    "city": "Jacksonburg",
+    "city_ascii": "Jacksonburg",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.5304,
+    "lng": -80.6404,
+    "cafes": []
+  },
+  "Spelter": {
+    "city": "Spelter",
+    "city_ascii": "Spelter",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3432,
+    "lng": -80.3163,
+    "cafes": []
+  },
+  "Hollygrove": {
+    "city": "Hollygrove",
+    "city_ascii": "Hollygrove",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1908,
+    "lng": -81.3946,
+    "cafes": []
+  },
+  "Colcord": {
+    "city": "Colcord",
+    "city_ascii": "Colcord",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9451,
+    "lng": -81.4374,
+    "cafes": []
+  },
+  "Twilight": {
+    "city": "Twilight",
+    "city_ascii": "Twilight",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9252,
+    "lng": -81.6176,
+    "cafes": []
+  },
+  "Brenton": {
+    "city": "Brenton",
+    "city_ascii": "Brenton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6004,
+    "lng": -81.6351,
+    "cafes": []
+  },
+  "Hico": {
+    "city": "Hico",
+    "city_ascii": "Hico",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1166,
+    "lng": -81.0112,
+    "cafes": []
+  },
+  "Littleton": {
+    "city": "Littleton",
+    "city_ascii": "Littleton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.7024,
+    "lng": -80.5147,
+    "cafes": []
+  },
+  "Pax": {
+    "city": "Pax",
+    "city_ascii": "Pax",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9098,
+    "lng": -81.2648,
+    "cafes": []
+  },
+  "Worthington": {
+    "city": "Worthington",
+    "city_ascii": "Worthington",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.4568,
+    "lng": -80.2635,
+    "cafes": []
+  },
+  "Sand Fork": {
+    "city": "Sand Fork",
+    "city_ascii": "Sand Fork",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9154,
+    "lng": -80.7477,
+    "cafes": []
+  },
+  "Vivian": {
+    "city": "Vivian",
+    "city_ascii": "Vivian",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4172,
+    "lng": -81.4923,
+    "cafes": []
+  },
+  "Matoaka": {
+    "city": "Matoaka",
+    "city_ascii": "Matoaka",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4182,
+    "lng": -81.2417,
+    "cafes": []
+  },
+  "Auburn": {
+    "city": "Auburn",
+    "city_ascii": "Auburn",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.0961,
+    "lng": -80.8562,
+    "cafes": []
+  },
+  "Maybeury": {
+    "city": "Maybeury",
+    "city_ascii": "Maybeury",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3675,
+    "lng": -81.3572,
+    "cafes": []
+  },
+  "Hansford": {
+    "city": "Hansford",
+    "city_ascii": "Hansford",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2067,
+    "lng": -81.396,
+    "cafes": []
+  },
+  "Gypsy": {
+    "city": "Gypsy",
+    "city_ascii": "Gypsy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.3648,
+    "lng": -80.307,
+    "cafes": []
+  },
+  "Covel": {
+    "city": "Covel",
+    "city_ascii": "Covel",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4907,
+    "lng": -81.3195,
+    "cafes": []
+  },
+  "Bruceton Mills": {
+    "city": "Bruceton Mills",
+    "city_ascii": "Bruceton Mills",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6594,
+    "lng": -79.6406,
+    "cafes": []
+  },
+  "Bartow": {
+    "city": "Bartow",
+    "city_ascii": "Bartow",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.5422,
+    "lng": -79.7859,
+    "cafes": []
+  },
+  "Dixie": {
+    "city": "Dixie",
+    "city_ascii": "Dixie",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2511,
+    "lng": -81.1944,
+    "cafes": []
+  },
+  "Cucumber": {
+    "city": "Cucumber",
+    "city_ascii": "Cucumber",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.2786,
+    "lng": -81.6241,
+    "cafes": []
+  },
+  "Blacksville": {
+    "city": "Blacksville",
+    "city_ascii": "Blacksville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.7175,
+    "lng": -80.2146,
+    "cafes": []
+  },
+  "Bolt": {
+    "city": "Bolt",
+    "city_ascii": "Bolt",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7623,
+    "lng": -81.4189,
+    "cafes": []
+  },
+  "Glen Jean": {
+    "city": "Glen Jean",
+    "city_ascii": "Glen Jean",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.9272,
+    "lng": -81.1531,
+    "cafes": []
+  },
+  "Keystone": {
+    "city": "Keystone",
+    "city_ascii": "Keystone",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4158,
+    "lng": -81.4463,
+    "cafes": []
+  },
+  "Green Bank": {
+    "city": "Green Bank",
+    "city_ascii": "Green Bank",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4267,
+    "lng": -79.8343,
+    "cafes": []
+  },
+  "Fenwick": {
+    "city": "Fenwick",
+    "city_ascii": "Fenwick",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2287,
+    "lng": -80.5803,
+    "cafes": []
+  },
+  "Whitmer": {
+    "city": "Whitmer",
+    "city_ascii": "Whitmer",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.8149,
+    "lng": -79.5451,
+    "cafes": []
+  },
+  "Deep Water": {
+    "city": "Deep Water",
+    "city_ascii": "Deep Water",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1217,
+    "lng": -81.2528,
+    "cafes": []
+  },
+  "Eccles": {
+    "city": "Eccles",
+    "city_ascii": "Eccles",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7817,
+    "lng": -81.2649,
+    "cafes": []
+  },
+  "Glen Ferris": {
+    "city": "Glen Ferris",
+    "city_ascii": "Glen Ferris",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.1519,
+    "lng": -81.2185,
+    "cafes": []
+  },
+  "Belva": {
+    "city": "Belva",
+    "city_ascii": "Belva",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.2327,
+    "lng": -81.1894,
+    "cafes": []
+  },
+  "Prince": {
+    "city": "Prince",
+    "city_ascii": "Prince",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.8593,
+    "lng": -81.0722,
+    "cafes": []
+  },
+  "Bergoo": {
+    "city": "Bergoo",
+    "city_ascii": "Bergoo",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4849,
+    "lng": -80.2981,
+    "cafes": []
+  },
+  "New Richmond": {
+    "city": "New Richmond",
+    "city_ascii": "New Richmond",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.5734,
+    "lng": -81.487,
+    "cafes": []
+  },
+  "Osage": {
+    "city": "Osage",
+    "city_ascii": "Osage",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.6593,
+    "lng": -80.007,
+    "cafes": []
+  },
+  "Bartley": {
+    "city": "Bartley",
+    "city_ascii": "Bartley",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3372,
+    "lng": -81.7334,
+    "cafes": []
+  },
+  "Huntersville": {
+    "city": "Huntersville",
+    "city_ascii": "Huntersville",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.186,
+    "lng": -80.0152,
+    "cafes": []
+  },
+  "Helvetia": {
+    "city": "Helvetia",
+    "city_ascii": "Helvetia",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.7058,
+    "lng": -80.1993,
+    "cafes": []
+  },
+  "Colliers": {
+    "city": "Colliers",
+    "city_ascii": "Colliers",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 40.3651,
+    "lng": -80.5377,
+    "cafes": []
+  },
+  "Pickens": {
+    "city": "Pickens",
+    "city_ascii": "Pickens",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.6559,
+    "lng": -80.216,
+    "cafes": []
+  },
+  "Big Sandy": {
+    "city": "Big Sandy",
+    "city_ascii": "Big Sandy",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.4608,
+    "lng": -81.7051,
+    "cafes": []
+  },
+  "Birch River": {
+    "city": "Birch River",
+    "city_ascii": "Birch River",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4961,
+    "lng": -80.7497,
+    "cafes": []
+  },
+  "Thurmond": {
+    "city": "Thurmond",
+    "city_ascii": "Thurmond",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.961,
+    "lng": -81.0796,
+    "cafes": []
+  },
+  "Amherstdale": {
+    "city": "Amherstdale",
+    "city_ascii": "Amherstdale",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.7799,
+    "lng": -81.8183,
+    "cafes": []
+  },
+  "Parcoal": {
+    "city": "Parcoal",
+    "city_ascii": "Parcoal",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.4604,
+    "lng": -80.3731,
+    "cafes": []
+  },
+  "Peach Creek": {
+    "city": "Peach Creek",
+    "city_ascii": "Peach Creek",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.877,
+    "lng": -81.9797,
+    "cafes": []
+  },
+  "Dailey": {
+    "city": "Dailey",
+    "city_ascii": "Dailey",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.7968,
+    "lng": -79.8967,
+    "cafes": []
+  },
+  "Pentress": {
+    "city": "Pentress",
+    "city_ascii": "Pentress",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 39.7101,
+    "lng": -80.1684,
+    "cafes": []
+  },
+  "Pageton": {
+    "city": "Pageton",
+    "city_ascii": "Pageton",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.3598,
+    "lng": -81.4648,
+    "cafes": []
+  },
+  "Cass": {
+    "city": "Cass",
+    "city_ascii": "Cass",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.397,
+    "lng": -79.92,
+    "cafes": []
+  },
+  "Bowden": {
+    "city": "Bowden",
+    "city_ascii": "Bowden",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.9091,
+    "lng": -79.709,
+    "cafes": []
+  },
+  "Beards Fork": {
+    "city": "Beards Fork",
+    "city_ascii": "Beards Fork",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 38.0645,
+    "lng": -81.2279,
+    "cafes": []
+  },
+  "Helen": {
+    "city": "Helen",
+    "city_ascii": "Helen",
+    "state_id": "WV",
+    "state_name": "West Virginia",
+    "lat": 37.6374,
+    "lng": -81.313,
+    "cafes": []
+  }
+}

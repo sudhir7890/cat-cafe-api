@@ -1,36 +1,40 @@
 import { Injectable } from '@nestjs/common';
-import { Cafe } from './interfaces/cafe.interface';
+import * as alaskaData from '../../data/cafes/Alaska.json';
+import * as alabamaData from '../../data/cafes/Alabama.json';
+import * as arizonaData from '../../data/cafes/Arizona.json';
+import * as arkansasData from '../../data/cafes/Arkansas.json';
+import * as californiaData from '../../data/cafes/California.json';
+import { City, StateData } from './interfaces/cafe.interface';
 
 @Injectable()
 export class CafesService {
-  private readonly cafes: Cafe[] = [
-    {
-      id: 1,
-      name: 'Purr & Pour',
-      location: 'Tokyo, Japan',
-      numberOfCats: 15,
-      rating: 4.8,
-      description: 'A cozy cat cafe in the heart of Tokyo',
-    },
-    {
-      id: 2,
-      name: 'Whiskers & Coffee',
-      location: 'New York, USA',
-      numberOfCats: 12,
-      rating: 4.6,
-      description: 'Manhattan\'s premier cat cafe experience',
-    },
-    {
-      id: 3,
-      name: 'Meow Cafe',
-      location: 'London, UK',
-      numberOfCats: 10,
-      rating: 4.7,
-      description: 'British charm meets feline friendship',
-    },
-  ];
+  private readonly cafesData: Record<string, StateData> = {
+    Alaska: alaskaData as unknown as StateData,
+    Alabama: alabamaData as unknown as StateData,
+    Arizona: arizonaData as StateData,
+    Arkansas: arkansasData as unknown as StateData,
+    California: californiaData as unknown as StateData,
+  };
 
-  findAll(): Cafe[] {
-    return this.cafes;
+  findAll(): any {
+    return Object.values(this.cafesData).flatMap(state => 
+      Object.values(state).flatMap(city => city.cafes)
+    );
+  }
+
+  findCafesByStates(states: string[]): any {
+    const cafes = states.flatMap(state => {
+      const stateData: StateData | undefined = this.cafesData[state];
+      if (stateData) {
+        return Object.values(stateData).flatMap(city => city.cafes);
+      }
+      return [];
+    });
+
+    return cafes.length > 0 ? cafes : { message: 'No cafes found for the specified states.' };
+  }
+
+  findAllStatesData(): Record<string, StateData> {
+    return this.cafesData;
   }
 }

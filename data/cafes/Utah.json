@@ -1,0 +1,3038 @@
+{
+  "Salt Lake City": {
+    "city": "Salt Lake City",
+    "city_ascii": "Salt Lake City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7776,
+    "lng": -111.9311,
+    "cafes": [
+      {
+        "name": "Tinker's Cat Café",
+        "address": "302 E 900 S, Salt Lake City, UT 84111, USA",
+        "rating": 4.5,
+        "user_ratings_total": 891,
+        "website": "http://www.tinkerscatcafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=12342929366837821114",
+        "lat": 40.7495608,
+        "lng": -111.88227839999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Patrick Terry",
+            "rating": 5,
+            "text": {
+              "text": "Had a decent americano surrounded by cats,  what's not to love?  I discovered this place by accident when exploring SLC since I am from out of town.  Great place for those looking to adopt and find the right one in a low pressure environment or just wanting to chill with a coffee or play with some cats!",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Sarah Ray",
+            "rating": 5,
+            "text": {
+              "text": "Clean, well lit cafe area with tables and benches to enjoy a cup of coffee and a delicious cookie next to a quiet, enclosed space with soft and friendly kitties! There are also games and activities to enjoy while you visit and are all cat-themed! The staff here are so friendly and accommodating. Some of the cats are also available for adoption! I definitely recommend this place for cat lovers!!!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Christian Hoffman",
+            "rating": 5,
+            "text": {
+              "text": "Cat cafes are always nice to go to. But this one is extra special as the cats are from a local shelter and up for adoption. What an absolutely wonderful idea.\nAs a bonus. The coffee was nice as well!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3YceY4w_le9H8fKKdbl1zdljzYKG6FdnozpakNgeur_q4YQl6LnKW7VJ7LDVqnmV6b0bVCJ7mFrGP1IhOCD0_8nZe-49u4yb9NAN3nazKCFvwPxQyVn-L8JygkSF3o20xYCgIGfClGDWBIdoqcJnFgkVRa3CXZjin5YQ3FRR_AuvlBE6HMtirKDzd-OPhN87LR8Ff2z3QF9o-47Hxlz3iSfqQA9tBzOS-MOuOjXs-mDnHRfaSXdvycl35QUp5KzuYZHYdcrywI63-IF5C4xnWJhSk-ZbtIwA_wqJYTBt2Olg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Provo": {
+    "city": "Provo",
+    "city_ascii": "Provo",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.2457,
+    "lng": -111.6457,
+    "cafes": []
+  },
+  "Ogden": {
+    "city": "Ogden",
+    "city_ascii": "Ogden",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.2279,
+    "lng": -111.9682,
+    "cafes": []
+  },
+  "St. George": {
+    "city": "St. George",
+    "city_ascii": "St. George",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.0758,
+    "lng": -113.5752,
+    "cafes": []
+  },
+  "West Valley City": {
+    "city": "West Valley City",
+    "city_ascii": "West Valley City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6886,
+    "lng": -112.0123,
+    "cafes": []
+  },
+  "Logan": {
+    "city": "Logan",
+    "city_ascii": "Logan",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.7399,
+    "lng": -111.8422,
+    "cafes": []
+  },
+  "West Jordan": {
+    "city": "West Jordan",
+    "city_ascii": "West Jordan",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6024,
+    "lng": -112.0008,
+    "cafes": []
+  },
+  "Orem": {
+    "city": "Orem",
+    "city_ascii": "Orem",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.2981,
+    "lng": -111.6994,
+    "cafes": []
+  },
+  "Sandy": {
+    "city": "Sandy",
+    "city_ascii": "Sandy",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.5709,
+    "lng": -111.8506,
+    "cafes": []
+  },
+  "Layton": {
+    "city": "Layton",
+    "city_ascii": "Layton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.077,
+    "lng": -111.962,
+    "cafes": []
+  },
+  "Lehi": {
+    "city": "Lehi",
+    "city_ascii": "Lehi",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4136,
+    "lng": -111.8725,
+    "cafes": []
+  },
+  "South Jordan": {
+    "city": "South Jordan",
+    "city_ascii": "South Jordan",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.557,
+    "lng": -111.9784,
+    "cafes": []
+  },
+  "Millcreek": {
+    "city": "Millcreek",
+    "city_ascii": "Millcreek",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6892,
+    "lng": -111.8292,
+    "cafes": []
+  },
+  "Taylorsville": {
+    "city": "Taylorsville",
+    "city_ascii": "Taylorsville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6569,
+    "lng": -111.9493,
+    "cafes": []
+  },
+  "Herriman": {
+    "city": "Herriman",
+    "city_ascii": "Herriman",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4899,
+    "lng": -112.017,
+    "cafes": []
+  },
+  "Draper": {
+    "city": "Draper",
+    "city_ascii": "Draper",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4957,
+    "lng": -111.8605,
+    "cafes": []
+  },
+  "Murray": {
+    "city": "Murray",
+    "city_ascii": "Murray",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6498,
+    "lng": -111.8874,
+    "cafes": []
+  },
+  "Eagle Mountain": {
+    "city": "Eagle Mountain",
+    "city_ascii": "Eagle Mountain",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3137,
+    "lng": -112.0114,
+    "cafes": []
+  },
+  "Bountiful": {
+    "city": "Bountiful",
+    "city_ascii": "Bountiful",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.8721,
+    "lng": -111.8647,
+    "cafes": []
+  },
+  "Riverton": {
+    "city": "Riverton",
+    "city_ascii": "Riverton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.5176,
+    "lng": -111.9636,
+    "cafes": []
+  },
+  "Saratoga Springs": {
+    "city": "Saratoga Springs",
+    "city_ascii": "Saratoga Springs",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.345,
+    "lng": -111.9154,
+    "cafes": []
+  },
+  "Spanish Fork": {
+    "city": "Spanish Fork",
+    "city_ascii": "Spanish Fork",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.1101,
+    "lng": -111.6405,
+    "cafes": []
+  },
+  "Roy": {
+    "city": "Roy",
+    "city_ascii": "Roy",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.1714,
+    "lng": -112.0485,
+    "cafes": []
+  },
+  "Pleasant Grove": {
+    "city": "Pleasant Grove",
+    "city_ascii": "Pleasant Grove",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3716,
+    "lng": -111.7412,
+    "cafes": []
+  },
+  "Tooele": {
+    "city": "Tooele",
+    "city_ascii": "Tooele",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.5393,
+    "lng": -112.3082,
+    "cafes": []
+  },
+  "Cedar City": {
+    "city": "Cedar City",
+    "city_ascii": "Cedar City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.6834,
+    "lng": -113.0956,
+    "cafes": []
+  },
+  "Kearns": {
+    "city": "Kearns",
+    "city_ascii": "Kearns",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6519,
+    "lng": -112.0095,
+    "cafes": []
+  },
+  "Midvale": {
+    "city": "Midvale",
+    "city_ascii": "Midvale",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6148,
+    "lng": -111.8927,
+    "cafes": []
+  },
+  "Springville": {
+    "city": "Springville",
+    "city_ascii": "Springville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.1638,
+    "lng": -111.6205,
+    "cafes": []
+  },
+  "American Fork": {
+    "city": "American Fork",
+    "city_ascii": "American Fork",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3783,
+    "lng": -111.7953,
+    "cafes": []
+  },
+  "Syracuse": {
+    "city": "Syracuse",
+    "city_ascii": "Syracuse",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.0859,
+    "lng": -112.0698,
+    "cafes": []
+  },
+  "Cottonwood Heights": {
+    "city": "Cottonwood Heights",
+    "city_ascii": "Cottonwood Heights",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6137,
+    "lng": -111.8144,
+    "cafes": []
+  },
+  "Clearfield": {
+    "city": "Clearfield",
+    "city_ascii": "Clearfield",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.103,
+    "lng": -112.0238,
+    "cafes": []
+  },
+  "Kaysville": {
+    "city": "Kaysville",
+    "city_ascii": "Kaysville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.029,
+    "lng": -111.9456,
+    "cafes": []
+  },
+  "Holladay": {
+    "city": "Holladay",
+    "city_ascii": "Holladay",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.66,
+    "lng": -111.8226,
+    "cafes": []
+  },
+  "Washington": {
+    "city": "Washington",
+    "city_ascii": "Washington",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.1303,
+    "lng": -113.4878,
+    "cafes": []
+  },
+  "Magna": {
+    "city": "Magna",
+    "city_ascii": "Magna",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7634,
+    "lng": -112.1599,
+    "cafes": []
+  },
+  "South Salt Lake": {
+    "city": "South Salt Lake",
+    "city_ascii": "South Salt Lake",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7057,
+    "lng": -111.8986,
+    "cafes": []
+  },
+  "Farmington": {
+    "city": "Farmington",
+    "city_ascii": "Farmington",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.9845,
+    "lng": -111.9065,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.1395,
+    "lng": -112.0656,
+    "cafes": []
+  },
+  "North Salt Lake": {
+    "city": "North Salt Lake",
+    "city_ascii": "North Salt Lake",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.8439,
+    "lng": -111.9187,
+    "cafes": []
+  },
+  "Payson": {
+    "city": "Payson",
+    "city_ascii": "Payson",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.0355,
+    "lng": -111.739,
+    "cafes": []
+  },
+  "Hurricane": {
+    "city": "Hurricane",
+    "city_ascii": "Hurricane",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.1487,
+    "lng": -113.3517,
+    "cafes": []
+  },
+  "North Ogden": {
+    "city": "North Ogden",
+    "city_ascii": "North Ogden",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.3123,
+    "lng": -111.9584,
+    "cafes": []
+  },
+  "West Haven": {
+    "city": "West Haven",
+    "city_ascii": "West Haven",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.2083,
+    "lng": -112.0541,
+    "cafes": []
+  },
+  "Brigham City": {
+    "city": "Brigham City",
+    "city_ascii": "Brigham City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.5035,
+    "lng": -112.0453,
+    "cafes": []
+  },
+  "Highland": {
+    "city": "Highland",
+    "city_ascii": "Highland",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4276,
+    "lng": -111.7957,
+    "cafes": []
+  },
+  "Bluffdale": {
+    "city": "Bluffdale",
+    "city_ascii": "Bluffdale",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4744,
+    "lng": -111.9381,
+    "cafes": []
+  },
+  "South Ogden": {
+    "city": "South Ogden",
+    "city_ascii": "South Ogden",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.1722,
+    "lng": -111.9576,
+    "cafes": []
+  },
+  "Heber": {
+    "city": "Heber",
+    "city_ascii": "Heber",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.507,
+    "lng": -111.3986,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.9284,
+    "lng": -111.8848,
+    "cafes": []
+  },
+  "Santaquin": {
+    "city": "Santaquin",
+    "city_ascii": "Santaquin",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.9708,
+    "lng": -111.7941,
+    "cafes": []
+  },
+  "Smithfield": {
+    "city": "Smithfield",
+    "city_ascii": "Smithfield",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.8349,
+    "lng": -111.8265,
+    "cafes": []
+  },
+  "Grantsville": {
+    "city": "Grantsville",
+    "city_ascii": "Grantsville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6148,
+    "lng": -112.4777,
+    "cafes": []
+  },
+  "Vineyard": {
+    "city": "Vineyard",
+    "city_ascii": "Vineyard",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3059,
+    "lng": -111.7545,
+    "cafes": []
+  },
+  "Mapleton": {
+    "city": "Mapleton",
+    "city_ascii": "Mapleton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.1188,
+    "lng": -111.5742,
+    "cafes": []
+  },
+  "Lindon": {
+    "city": "Lindon",
+    "city_ascii": "Lindon",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3414,
+    "lng": -111.7187,
+    "cafes": []
+  },
+  "West Point": {
+    "city": "West Point",
+    "city_ascii": "West Point",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.122,
+    "lng": -112.0995,
+    "cafes": []
+  },
+  "Woods Cross": {
+    "city": "Woods Cross",
+    "city_ascii": "Woods Cross",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.8731,
+    "lng": -111.917,
+    "cafes": []
+  },
+  "North Logan": {
+    "city": "North Logan",
+    "city_ascii": "North Logan",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.7759,
+    "lng": -111.8066,
+    "cafes": []
+  },
+  "Stansbury Park": {
+    "city": "Stansbury Park",
+    "city_ascii": "Stansbury Park",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6356,
+    "lng": -112.3054,
+    "cafes": []
+  },
+  "Pleasant View": {
+    "city": "Pleasant View",
+    "city_ascii": "Pleasant View",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.3249,
+    "lng": -112.0011,
+    "cafes": []
+  },
+  "Tremonton": {
+    "city": "Tremonton",
+    "city_ascii": "Tremonton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.7187,
+    "lng": -112.189,
+    "cafes": []
+  },
+  "Alpine": {
+    "city": "Alpine",
+    "city_ascii": "Alpine",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4629,
+    "lng": -111.7724,
+    "cafes": []
+  },
+  "Vernal": {
+    "city": "Vernal",
+    "city_ascii": "Vernal",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4517,
+    "lng": -109.5378,
+    "cafes": []
+  },
+  "Hyrum": {
+    "city": "Hyrum",
+    "city_ascii": "Hyrum",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.6325,
+    "lng": -111.8445,
+    "cafes": []
+  },
+  "Cedar Hills": {
+    "city": "Cedar Hills",
+    "city_ascii": "Cedar Hills",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4135,
+    "lng": -111.7531,
+    "cafes": []
+  },
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.0539,
+    "lng": -111.6718,
+    "cafes": []
+  },
+  "Ivins": {
+    "city": "Ivins",
+    "city_ascii": "Ivins",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.1742,
+    "lng": -113.6809,
+    "cafes": []
+  },
+  "Riverdale": {
+    "city": "Riverdale",
+    "city_ascii": "Riverdale",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.1732,
+    "lng": -112.0023,
+    "cafes": []
+  },
+  "Hooper": {
+    "city": "Hooper",
+    "city_ascii": "Hooper",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.1599,
+    "lng": -112.2871,
+    "cafes": []
+  },
+  "Washington Terrace": {
+    "city": "Washington Terrace",
+    "city_ascii": "Washington Terrace",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.1683,
+    "lng": -111.9783,
+    "cafes": []
+  },
+  "Providence": {
+    "city": "Providence",
+    "city_ascii": "Providence",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.7035,
+    "lng": -111.8123,
+    "cafes": []
+  },
+  "Summit Park": {
+    "city": "Summit Park",
+    "city_ascii": "Summit Park",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7423,
+    "lng": -111.5872,
+    "cafes": []
+  },
+  "Park City": {
+    "city": "Park City",
+    "city_ascii": "Park City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6502,
+    "lng": -111.5013,
+    "cafes": []
+  },
+  "Price": {
+    "city": "Price",
+    "city_ascii": "Price",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.604,
+    "lng": -110.8003,
+    "cafes": []
+  },
+  "Richfield": {
+    "city": "Richfield",
+    "city_ascii": "Richfield",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.7613,
+    "lng": -112.0931,
+    "cafes": []
+  },
+  "Plain City": {
+    "city": "Plain City",
+    "city_ascii": "Plain City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.3071,
+    "lng": -112.0877,
+    "cafes": []
+  },
+  "South Weber": {
+    "city": "South Weber",
+    "city_ascii": "South Weber",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.1334,
+    "lng": -111.9393,
+    "cafes": []
+  },
+  "Santa Clara": {
+    "city": "Santa Clara",
+    "city_ascii": "Santa Clara",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.1312,
+    "lng": -113.656,
+    "cafes": []
+  },
+  "Farr West": {
+    "city": "Farr West",
+    "city_ascii": "Farr West",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.3015,
+    "lng": -112.0318,
+    "cafes": []
+  },
+  "Enoch": {
+    "city": "Enoch",
+    "city_ascii": "Enoch",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.7669,
+    "lng": -113.0449,
+    "cafes": []
+  },
+  "Nibley": {
+    "city": "Nibley",
+    "city_ascii": "Nibley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.6726,
+    "lng": -111.8461,
+    "cafes": []
+  },
+  "Roosevelt": {
+    "city": "Roosevelt",
+    "city_ascii": "Roosevelt",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.2924,
+    "lng": -110.0093,
+    "cafes": []
+  },
+  "Harrisville": {
+    "city": "Harrisville",
+    "city_ascii": "Harrisville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.2852,
+    "lng": -111.9859,
+    "cafes": []
+  },
+  "Nephi": {
+    "city": "Nephi",
+    "city_ascii": "Nephi",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.7069,
+    "lng": -111.8326,
+    "cafes": []
+  },
+  "Snyderville": {
+    "city": "Snyderville",
+    "city_ascii": "Snyderville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7041,
+    "lng": -111.5434,
+    "cafes": []
+  },
+  "Midway": {
+    "city": "Midway",
+    "city_ascii": "Midway",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.5183,
+    "lng": -111.4746,
+    "cafes": []
+  },
+  "Fruit Heights": {
+    "city": "Fruit Heights",
+    "city_ascii": "Fruit Heights",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.0277,
+    "lng": -111.9082,
+    "cafes": []
+  },
+  "West Bountiful": {
+    "city": "West Bountiful",
+    "city_ascii": "West Bountiful",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.8984,
+    "lng": -111.9082,
+    "cafes": []
+  },
+  "Ephraim": {
+    "city": "Ephraim",
+    "city_ascii": "Ephraim",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.3563,
+    "lng": -111.5845,
+    "cafes": []
+  },
+  "Perry": {
+    "city": "Perry",
+    "city_ascii": "Perry",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.4648,
+    "lng": -112.0401,
+    "cafes": []
+  },
+  "White City": {
+    "city": "White City",
+    "city_ascii": "White City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.5666,
+    "lng": -111.8636,
+    "cafes": []
+  },
+  "Sunset": {
+    "city": "Sunset",
+    "city_ascii": "Sunset",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.1392,
+    "lng": -112.0285,
+    "cafes": []
+  },
+  "Hyde Park": {
+    "city": "Hyde Park",
+    "city_ascii": "Hyde Park",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.8008,
+    "lng": -111.8121,
+    "cafes": []
+  },
+  "Moab": {
+    "city": "Moab",
+    "city_ascii": "Moab",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.5701,
+    "lng": -109.5478,
+    "cafes": []
+  },
+  "Kanab": {
+    "city": "Kanab",
+    "city_ascii": "Kanab",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.0262,
+    "lng": -112.5219,
+    "cafes": []
+  },
+  "Elk Ridge": {
+    "city": "Elk Ridge",
+    "city_ascii": "Elk Ridge",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.0099,
+    "lng": -111.6775,
+    "cafes": []
+  },
+  "Maeser": {
+    "city": "Maeser",
+    "city_ascii": "Maeser",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4718,
+    "lng": -109.5786,
+    "cafes": []
+  },
+  "La Verkin": {
+    "city": "La Verkin",
+    "city_ascii": "La Verkin",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.2309,
+    "lng": -113.2523,
+    "cafes": []
+  },
+  "Morgan": {
+    "city": "Morgan",
+    "city_ascii": "Morgan",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.0414,
+    "lng": -111.6802,
+    "cafes": []
+  },
+  "Wellsville": {
+    "city": "Wellsville",
+    "city_ascii": "Wellsville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.6223,
+    "lng": -111.943,
+    "cafes": []
+  },
+  "Mountain Green": {
+    "city": "Mountain Green",
+    "city_ascii": "Mountain Green",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.1476,
+    "lng": -111.7901,
+    "cafes": []
+  },
+  "Mount Pleasant": {
+    "city": "Mount Pleasant",
+    "city_ascii": "Mount Pleasant",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.5406,
+    "lng": -111.456,
+    "cafes": []
+  },
+  "Delta": {
+    "city": "Delta",
+    "city_ascii": "Delta",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.3623,
+    "lng": -112.5471,
+    "cafes": []
+  },
+  "Beaver": {
+    "city": "Beaver",
+    "city_ascii": "Beaver",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.2759,
+    "lng": -112.6383,
+    "cafes": []
+  },
+  "East Basin": {
+    "city": "East Basin",
+    "city_ascii": "East Basin",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7359,
+    "lng": -111.4708,
+    "cafes": []
+  },
+  "Gunnison": {
+    "city": "Gunnison",
+    "city_ascii": "Gunnison",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.1569,
+    "lng": -111.8135,
+    "cafes": []
+  },
+  "Manti": {
+    "city": "Manti",
+    "city_ascii": "Manti",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.2668,
+    "lng": -111.6351,
+    "cafes": []
+  },
+  "Blanding": {
+    "city": "Blanding",
+    "city_ascii": "Blanding",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.6213,
+    "lng": -109.5073,
+    "cafes": []
+  },
+  "Erda": {
+    "city": "Erda",
+    "city_ascii": "Erda",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6028,
+    "lng": -112.3214,
+    "cafes": []
+  },
+  "Naples": {
+    "city": "Naples",
+    "city_ascii": "Naples",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4317,
+    "lng": -109.4913,
+    "cafes": []
+  },
+  "Parowan": {
+    "city": "Parowan",
+    "city_ascii": "Parowan",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.8326,
+    "lng": -112.8296,
+    "cafes": []
+  },
+  "Richmond": {
+    "city": "Richmond",
+    "city_ascii": "Richmond",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.9231,
+    "lng": -111.8076,
+    "cafes": []
+  },
+  "Lake Point": {
+    "city": "Lake Point",
+    "city_ascii": "Lake Point",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6815,
+    "lng": -112.2632,
+    "cafes": []
+  },
+  "Helper": {
+    "city": "Helper",
+    "city_ascii": "Helper",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.6898,
+    "lng": -110.8596,
+    "cafes": []
+  },
+  "Fillmore": {
+    "city": "Fillmore",
+    "city_ascii": "Fillmore",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.9642,
+    "lng": -112.3386,
+    "cafes": []
+  },
+  "Garland": {
+    "city": "Garland",
+    "city_ascii": "Garland",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.7362,
+    "lng": -112.1627,
+    "cafes": []
+  },
+  "Monroe": {
+    "city": "Monroe",
+    "city_ascii": "Monroe",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.623,
+    "lng": -112.1196,
+    "cafes": []
+  },
+  "Salina": {
+    "city": "Salina",
+    "city_ascii": "Salina",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.9387,
+    "lng": -111.8652,
+    "cafes": []
+  },
+  "Huntington": {
+    "city": "Huntington",
+    "city_ascii": "Huntington",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.3302,
+    "lng": -110.9628,
+    "cafes": []
+  },
+  "Kamas": {
+    "city": "Kamas",
+    "city_ascii": "Kamas",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6499,
+    "lng": -111.2723,
+    "cafes": []
+  },
+  "Lewiston": {
+    "city": "Lewiston",
+    "city_ascii": "Lewiston",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.9619,
+    "lng": -111.8799,
+    "cafes": []
+  },
+  "River Heights": {
+    "city": "River Heights",
+    "city_ascii": "River Heights",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.7221,
+    "lng": -111.8193,
+    "cafes": []
+  },
+  "Toquerville": {
+    "city": "Toquerville",
+    "city_ascii": "Toquerville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.2666,
+    "lng": -113.2951,
+    "cafes": []
+  },
+  "Willard": {
+    "city": "Willard",
+    "city_ascii": "Willard",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.4148,
+    "lng": -112.0448,
+    "cafes": []
+  },
+  "Monticello": {
+    "city": "Monticello",
+    "city_ascii": "Monticello",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.8683,
+    "lng": -109.338,
+    "cafes": []
+  },
+  "Coalville": {
+    "city": "Coalville",
+    "city_ascii": "Coalville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.912,
+    "lng": -111.413,
+    "cafes": []
+  },
+  "Marriott-Slaterville": {
+    "city": "Marriott-Slaterville",
+    "city_ascii": "Marriott-Slaterville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.2624,
+    "lng": -112.0366,
+    "cafes": []
+  },
+  "Panguitch": {
+    "city": "Panguitch",
+    "city_ascii": "Panguitch",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.8236,
+    "lng": -112.4342,
+    "cafes": []
+  },
+  "Benson": {
+    "city": "Benson",
+    "city_ascii": "Benson",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.7492,
+    "lng": -111.9173,
+    "cafes": []
+  },
+  "Millville": {
+    "city": "Millville",
+    "city_ascii": "Millville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.685,
+    "lng": -111.8211,
+    "cafes": []
+  },
+  "Oakley": {
+    "city": "Oakley",
+    "city_ascii": "Oakley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7257,
+    "lng": -111.2788,
+    "cafes": []
+  },
+  "Francis": {
+    "city": "Francis",
+    "city_ascii": "Francis",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6102,
+    "lng": -111.2729,
+    "cafes": []
+  },
+  "Genola": {
+    "city": "Genola",
+    "city_ascii": "Genola",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.0118,
+    "lng": -111.8465,
+    "cafes": []
+  },
+  "Duchesne": {
+    "city": "Duchesne",
+    "city_ascii": "Duchesne",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.1753,
+    "lng": -110.394,
+    "cafes": []
+  },
+  "Ballard": {
+    "city": "Ballard",
+    "city_ascii": "Ballard",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.2949,
+    "lng": -109.9493,
+    "cafes": []
+  },
+  "Mona": {
+    "city": "Mona",
+    "city_ascii": "Mona",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.8121,
+    "lng": -111.8495,
+    "cafes": []
+  },
+  "Elwood": {
+    "city": "Elwood",
+    "city_ascii": "Elwood",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.6759,
+    "lng": -112.1376,
+    "cafes": []
+  },
+  "Mantua": {
+    "city": "Mantua",
+    "city_ascii": "Mantua",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.5006,
+    "lng": -111.9344,
+    "cafes": []
+  },
+  "Wolf Creek": {
+    "city": "Wolf Creek",
+    "city_ascii": "Wolf Creek",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.3253,
+    "lng": -111.8288,
+    "cafes": []
+  },
+  "Silver Summit": {
+    "city": "Silver Summit",
+    "city_ascii": "Silver Summit",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7489,
+    "lng": -111.514,
+    "cafes": []
+  },
+  "Enterprise": {
+    "city": "Enterprise",
+    "city_ascii": "Enterprise",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.5717,
+    "lng": -113.7431,
+    "cafes": []
+  },
+  "Fountain Green": {
+    "city": "Fountain Green",
+    "city_ascii": "Fountain Green",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.6281,
+    "lng": -111.6413,
+    "cafes": []
+  },
+  "Wellington": {
+    "city": "Wellington",
+    "city_ascii": "Wellington",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.5358,
+    "lng": -110.7344,
+    "cafes": []
+  },
+  "Emigration Canyon": {
+    "city": "Emigration Canyon",
+    "city_ascii": "Emigration Canyon",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7886,
+    "lng": -111.7414,
+    "cafes": []
+  },
+  "Castle Dale": {
+    "city": "Castle Dale",
+    "city_ascii": "Castle Dale",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.2218,
+    "lng": -111.023,
+    "cafes": []
+  },
+  "Uintah": {
+    "city": "Uintah",
+    "city_ascii": "Uintah",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.1428,
+    "lng": -111.9334,
+    "cafes": []
+  },
+  "Mendon": {
+    "city": "Mendon",
+    "city_ascii": "Mendon",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.7102,
+    "lng": -111.9776,
+    "cafes": []
+  },
+  "Woodland Hills": {
+    "city": "Woodland Hills",
+    "city_ascii": "Woodland Hills",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.0132,
+    "lng": -111.6558,
+    "cafes": []
+  },
+  "Carbonville": {
+    "city": "Carbonville",
+    "city_ascii": "Carbonville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.6268,
+    "lng": -110.8332,
+    "cafes": []
+  },
+  "Milford": {
+    "city": "Milford",
+    "city_ascii": "Milford",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.3945,
+    "lng": -113.0123,
+    "cafes": []
+  },
+  "Apple Valley": {
+    "city": "Apple Valley",
+    "city_ascii": "Apple Valley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.081,
+    "lng": -113.1034,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.6299,
+    "lng": -111.4368,
+    "cafes": []
+  },
+  "Honeyville": {
+    "city": "Honeyville",
+    "city_ascii": "Honeyville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.6361,
+    "lng": -112.0857,
+    "cafes": []
+  },
+  "South Willard": {
+    "city": "South Willard",
+    "city_ascii": "South Willard",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.3583,
+    "lng": -112.0408,
+    "cafes": []
+  },
+  "West Mountain": {
+    "city": "West Mountain",
+    "city_ascii": "West Mountain",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.051,
+    "lng": -111.785,
+    "cafes": []
+  },
+  "Ferron": {
+    "city": "Ferron",
+    "city_ascii": "Ferron",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.0914,
+    "lng": -111.1337,
+    "cafes": []
+  },
+  "Liberty": {
+    "city": "Liberty",
+    "city_ascii": "Liberty",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.3426,
+    "lng": -111.8649,
+    "cafes": []
+  },
+  "Centerfield": {
+    "city": "Centerfield",
+    "city_ascii": "Centerfield",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.1274,
+    "lng": -111.8184,
+    "cafes": []
+  },
+  "Hildale": {
+    "city": "Hildale",
+    "city_ascii": "Hildale",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.017,
+    "lng": -112.9787,
+    "cafes": []
+  },
+  "Orangeville": {
+    "city": "Orangeville",
+    "city_ascii": "Orangeville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.2309,
+    "lng": -111.0592,
+    "cafes": []
+  },
+  "Wendover": {
+    "city": "Wendover",
+    "city_ascii": "Wendover",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7241,
+    "lng": -114.025,
+    "cafes": []
+  },
+  "Lake Shore": {
+    "city": "Lake Shore",
+    "city_ascii": "Lake Shore",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.1294,
+    "lng": -111.7362,
+    "cafes": []
+  },
+  "Riverside": {
+    "city": "Riverside",
+    "city_ascii": "Riverside",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.8106,
+    "lng": -112.1403,
+    "cafes": []
+  },
+  "Moroni": {
+    "city": "Moroni",
+    "city_ascii": "Moroni",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.527,
+    "lng": -111.583,
+    "cafes": []
+  },
+  "Hideout": {
+    "city": "Hideout",
+    "city_ascii": "Hideout",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6437,
+    "lng": -111.4014,
+    "cafes": []
+  },
+  "Spring City": {
+    "city": "Spring City",
+    "city_ascii": "Spring City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.4799,
+    "lng": -111.4918,
+    "cafes": []
+  },
+  "Thatcher": {
+    "city": "Thatcher",
+    "city_ascii": "Thatcher",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.6815,
+    "lng": -112.3201,
+    "cafes": []
+  },
+  "Timber Lakes": {
+    "city": "Timber Lakes",
+    "city_ascii": "Timber Lakes",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4733,
+    "lng": -111.2533,
+    "cafes": []
+  },
+  "Dammeron Valley": {
+    "city": "Dammeron Valley",
+    "city_ascii": "Dammeron Valley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.3042,
+    "lng": -113.6658,
+    "cafes": []
+  },
+  "Daniel": {
+    "city": "Daniel",
+    "city_ascii": "Daniel",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4668,
+    "lng": -111.4096,
+    "cafes": []
+  },
+  "Eureka": {
+    "city": "Eureka",
+    "city_ascii": "Eureka",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.9588,
+    "lng": -112.1149,
+    "cafes": []
+  },
+  "Spanish Valley": {
+    "city": "Spanish Valley",
+    "city_ascii": "Spanish Valley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.4743,
+    "lng": -109.421,
+    "cafes": []
+  },
+  "Spring Glen": {
+    "city": "Spring Glen",
+    "city_ascii": "Spring Glen",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.6561,
+    "lng": -110.8461,
+    "cafes": []
+  },
+  "Minersville": {
+    "city": "Minersville",
+    "city_ascii": "Minersville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.2333,
+    "lng": -112.9602,
+    "cafes": []
+  },
+  "Rocky Ridge": {
+    "city": "Rocky Ridge",
+    "city_ascii": "Rocky Ridge",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.9197,
+    "lng": -111.8258,
+    "cafes": []
+  },
+  "Newton": {
+    "city": "Newton",
+    "city_ascii": "Newton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.8612,
+    "lng": -111.9909,
+    "cafes": []
+  },
+  "Stockton": {
+    "city": "Stockton",
+    "city_ascii": "Stockton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4496,
+    "lng": -112.3672,
+    "cafes": []
+  },
+  "Levan": {
+    "city": "Levan",
+    "city_ascii": "Levan",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.5561,
+    "lng": -111.8607,
+    "cafes": []
+  },
+  "Aurora": {
+    "city": "Aurora",
+    "city_ascii": "Aurora",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.9202,
+    "lng": -111.9335,
+    "cafes": []
+  },
+  "Eden": {
+    "city": "Eden",
+    "city_ascii": "Eden",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.3022,
+    "lng": -111.8085,
+    "cafes": []
+  },
+  "Orderville": {
+    "city": "Orderville",
+    "city_ascii": "Orderville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.254,
+    "lng": -112.6574,
+    "cafes": []
+  },
+  "Copperton": {
+    "city": "Copperton",
+    "city_ascii": "Copperton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.5662,
+    "lng": -112.0977,
+    "cafes": []
+  },
+  "Bear River City": {
+    "city": "Bear River City",
+    "city_ascii": "Bear River City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.6124,
+    "lng": -112.125,
+    "cafes": []
+  },
+  "Henefer": {
+    "city": "Henefer",
+    "city_ascii": "Henefer",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.0137,
+    "lng": -111.4931,
+    "cafes": []
+  },
+  "Corinne": {
+    "city": "Corinne",
+    "city_ascii": "Corinne",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.5497,
+    "lng": -112.1227,
+    "cafes": []
+  },
+  "Goshen": {
+    "city": "Goshen",
+    "city_ascii": "Goshen",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.9511,
+    "lng": -111.9008,
+    "cafes": []
+  },
+  "West Wood": {
+    "city": "West Wood",
+    "city_ascii": "West Wood",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.6051,
+    "lng": -110.8424,
+    "cafes": []
+  },
+  "Hinckley": {
+    "city": "Hinckley",
+    "city_ascii": "Hinckley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.3336,
+    "lng": -112.6736,
+    "cafes": []
+  },
+  "Granite": {
+    "city": "Granite",
+    "city_ascii": "Granite",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.5686,
+    "lng": -111.8011,
+    "cafes": []
+  },
+  "Paradise": {
+    "city": "Paradise",
+    "city_ascii": "Paradise",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.5683,
+    "lng": -111.8334,
+    "cafes": []
+  },
+  "Green River": {
+    "city": "Green River",
+    "city_ascii": "Green River",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.9935,
+    "lng": -110.1723,
+    "cafes": []
+  },
+  "Hoytsville": {
+    "city": "Hoytsville",
+    "city_ascii": "Hoytsville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.8757,
+    "lng": -111.3847,
+    "cafes": []
+  },
+  "Central": {
+    "city": "Central",
+    "city_ascii": "Central",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.415,
+    "lng": -113.6262,
+    "cafes": []
+  },
+  "Redmond": {
+    "city": "Redmond",
+    "city_ascii": "Redmond",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.0057,
+    "lng": -111.867,
+    "cafes": []
+  },
+  "Randolph": {
+    "city": "Randolph",
+    "city_ascii": "Randolph",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.6655,
+    "lng": -111.1846,
+    "cafes": []
+  },
+  "Oak City": {
+    "city": "Oak City",
+    "city_ascii": "Oak City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.3761,
+    "lng": -112.339,
+    "cafes": []
+  },
+  "Elsinore": {
+    "city": "Elsinore",
+    "city_ascii": "Elsinore",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.6834,
+    "lng": -112.1488,
+    "cafes": []
+  },
+  "Virgin": {
+    "city": "Virgin",
+    "city_ascii": "Virgin",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.1979,
+    "lng": -113.2071,
+    "cafes": []
+  },
+  "Annabella": {
+    "city": "Annabella",
+    "city_ascii": "Annabella",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.7059,
+    "lng": -112.0587,
+    "cafes": []
+  },
+  "Spring Lake": {
+    "city": "Spring Lake",
+    "city_ascii": "Spring Lake",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.006,
+    "lng": -111.7503,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.681,
+    "lng": -111.2773,
+    "cafes": []
+  },
+  "Leeds": {
+    "city": "Leeds",
+    "city_ascii": "Leeds",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.2373,
+    "lng": -113.3471,
+    "cafes": []
+  },
+  "Benjamin": {
+    "city": "Benjamin",
+    "city_ascii": "Benjamin",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.0968,
+    "lng": -111.729,
+    "cafes": []
+  },
+  "Central Valley": {
+    "city": "Central Valley",
+    "city_ascii": "Central Valley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.6991,
+    "lng": -112.0967,
+    "cafes": []
+  },
+  "Oljato-Monument Valley": {
+    "city": "Oljato-Monument Valley",
+    "city_ascii": "Oljato-Monument Valley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.0309,
+    "lng": -110.2512,
+    "cafes": []
+  },
+  "Paragonah": {
+    "city": "Paragonah",
+    "city_ascii": "Paragonah",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.8853,
+    "lng": -112.7707,
+    "cafes": []
+  },
+  "Myton": {
+    "city": "Myton",
+    "city_ascii": "Myton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.1933,
+    "lng": -110.0624,
+    "cafes": []
+  },
+  "Glenwood": {
+    "city": "Glenwood",
+    "city_ascii": "Glenwood",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.7625,
+    "lng": -111.9876,
+    "cafes": []
+  },
+  "Fielding": {
+    "city": "Fielding",
+    "city_ascii": "Fielding",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.8127,
+    "lng": -112.1173,
+    "cafes": []
+  },
+  "Navajo Mountain": {
+    "city": "Navajo Mountain",
+    "city_ascii": "Navajo Mountain",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.047,
+    "lng": -110.79,
+    "cafes": []
+  },
+  "Escalante": {
+    "city": "Escalante",
+    "city_ascii": "Escalante",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.765,
+    "lng": -111.6001,
+    "cafes": []
+  },
+  "Loa": {
+    "city": "Loa",
+    "city_ascii": "Loa",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.4037,
+    "lng": -111.6454,
+    "cafes": []
+  },
+  "Clarkston": {
+    "city": "Clarkston",
+    "city_ascii": "Clarkston",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.9205,
+    "lng": -112.0503,
+    "cafes": []
+  },
+  "Kanosh": {
+    "city": "Kanosh",
+    "city_ascii": "Kanosh",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.8014,
+    "lng": -112.4374,
+    "cafes": []
+  },
+  "Joseph": {
+    "city": "Joseph",
+    "city_ascii": "Joseph",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.6249,
+    "lng": -112.2198,
+    "cafes": []
+  },
+  "Garden City": {
+    "city": "Garden City",
+    "city_ascii": "Garden City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.9371,
+    "lng": -111.4121,
+    "cafes": []
+  },
+  "Tropic": {
+    "city": "Tropic",
+    "city_ascii": "Tropic",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.6294,
+    "lng": -112.0913,
+    "cafes": []
+  },
+  "Trenton": {
+    "city": "Trenton",
+    "city_ascii": "Trenton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.9116,
+    "lng": -111.9356,
+    "cafes": []
+  },
+  "Marysvale": {
+    "city": "Marysvale",
+    "city_ascii": "Marysvale",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.4384,
+    "lng": -112.2544,
+    "cafes": []
+  },
+  "Emery": {
+    "city": "Emery",
+    "city_ascii": "Emery",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.9252,
+    "lng": -111.2522,
+    "cafes": []
+  },
+  "Big Water": {
+    "city": "Big Water",
+    "city_ascii": "Big Water",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.0729,
+    "lng": -111.6608,
+    "cafes": []
+  },
+  "Woodland": {
+    "city": "Woodland",
+    "city_ascii": "Woodland",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.5838,
+    "lng": -111.2358,
+    "cafes": []
+  },
+  "Deseret": {
+    "city": "Deseret",
+    "city_ascii": "Deseret",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.2876,
+    "lng": -112.6511,
+    "cafes": []
+  },
+  "Avon": {
+    "city": "Avon",
+    "city_ascii": "Avon",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.5354,
+    "lng": -111.8125,
+    "cafes": []
+  },
+  "Huntsville": {
+    "city": "Huntsville",
+    "city_ascii": "Huntsville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.2602,
+    "lng": -111.774,
+    "cafes": []
+  },
+  "Glendale": {
+    "city": "Glendale",
+    "city_ascii": "Glendale",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.3342,
+    "lng": -112.6035,
+    "cafes": []
+  },
+  "Amalga": {
+    "city": "Amalga",
+    "city_ascii": "Amalga",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.8564,
+    "lng": -111.8974,
+    "cafes": []
+  },
+  "Charleston": {
+    "city": "Charleston",
+    "city_ascii": "Charleston",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4661,
+    "lng": -111.46,
+    "cafes": []
+  },
+  "Sigurd": {
+    "city": "Sigurd",
+    "city_ascii": "Sigurd",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.8494,
+    "lng": -111.968,
+    "cafes": []
+  },
+  "Holden": {
+    "city": "Holden",
+    "city_ascii": "Holden",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.1003,
+    "lng": -112.2705,
+    "cafes": []
+  },
+  "Dugway": {
+    "city": "Dugway",
+    "city_ascii": "Dugway",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.2307,
+    "lng": -112.7541,
+    "cafes": []
+  },
+  "Scipio": {
+    "city": "Scipio",
+    "city_ascii": "Scipio",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.249,
+    "lng": -112.1045,
+    "cafes": []
+  },
+  "Elmo": {
+    "city": "Elmo",
+    "city_ascii": "Elmo",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.3877,
+    "lng": -110.8156,
+    "cafes": []
+  },
+  "Circleville": {
+    "city": "Circleville",
+    "city_ascii": "Circleville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.1684,
+    "lng": -112.2716,
+    "cafes": []
+  },
+  "Cleveland": {
+    "city": "Cleveland",
+    "city_ascii": "Cleveland",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.3494,
+    "lng": -110.8556,
+    "cafes": []
+  },
+  "Rush Valley": {
+    "city": "Rush Valley",
+    "city_ascii": "Rush Valley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3613,
+    "lng": -112.4506,
+    "cafes": []
+  },
+  "Manila": {
+    "city": "Manila",
+    "city_ascii": "Manila",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.9922,
+    "lng": -109.7209,
+    "cafes": []
+  },
+  "Mayfield": {
+    "city": "Mayfield",
+    "city_ascii": "Mayfield",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.1193,
+    "lng": -111.7079,
+    "cafes": []
+  },
+  "Peter": {
+    "city": "Peter",
+    "city_ascii": "Peter",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.7716,
+    "lng": -111.9859,
+    "cafes": []
+  },
+  "Laketown": {
+    "city": "Laketown",
+    "city_ascii": "Laketown",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.8275,
+    "lng": -111.3242,
+    "cafes": []
+  },
+  "Springdale": {
+    "city": "Springdale",
+    "city_ascii": "Springdale",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.1816,
+    "lng": -113.0049,
+    "cafes": []
+  },
+  "Cove": {
+    "city": "Cove",
+    "city_ascii": "Cove",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.9683,
+    "lng": -111.7794,
+    "cafes": []
+  },
+  "Plymouth": {
+    "city": "Plymouth",
+    "city_ascii": "Plymouth",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.8734,
+    "lng": -112.1454,
+    "cafes": []
+  },
+  "Altamont": {
+    "city": "Altamont",
+    "city_ascii": "Altamont",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3589,
+    "lng": -110.2881,
+    "cafes": []
+  },
+  "Boulder": {
+    "city": "Boulder",
+    "city_ascii": "Boulder",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.9228,
+    "lng": -111.4319,
+    "cafes": []
+  },
+  "Fayette": {
+    "city": "Fayette",
+    "city_ascii": "Fayette",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.2244,
+    "lng": -111.8539,
+    "cafes": []
+  },
+  "Bicknell": {
+    "city": "Bicknell",
+    "city_ascii": "Bicknell",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.3406,
+    "lng": -111.5442,
+    "cafes": []
+  },
+  "Fort Duchesne": {
+    "city": "Fort Duchesne",
+    "city_ascii": "Fort Duchesne",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.2809,
+    "lng": -109.8774,
+    "cafes": []
+  },
+  "Pine Valley": {
+    "city": "Pine Valley",
+    "city_ascii": "Pine Valley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.3904,
+    "lng": -113.5061,
+    "cafes": []
+  },
+  "Neola": {
+    "city": "Neola",
+    "city_ascii": "Neola",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4343,
+    "lng": -110.0309,
+    "cafes": []
+  },
+  "New Harmony": {
+    "city": "New Harmony",
+    "city_ascii": "New Harmony",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.4803,
+    "lng": -113.3096,
+    "cafes": []
+  },
+  "Brighton": {
+    "city": "Brighton",
+    "city_ascii": "Brighton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6196,
+    "lng": -111.6005,
+    "cafes": []
+  },
+  "Teasdale": {
+    "city": "Teasdale",
+    "city_ascii": "Teasdale",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.2851,
+    "lng": -111.4724,
+    "cafes": []
+  },
+  "Castle Valley": {
+    "city": "Castle Valley",
+    "city_ascii": "Castle Valley",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.6326,
+    "lng": -109.3966,
+    "cafes": []
+  },
+  "Palmyra": {
+    "city": "Palmyra",
+    "city_ascii": "Palmyra",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.1346,
+    "lng": -111.6925,
+    "cafes": []
+  },
+  "Deweyville": {
+    "city": "Deweyville",
+    "city_ascii": "Deweyville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.693,
+    "lng": -112.0883,
+    "cafes": []
+  },
+  "Wales": {
+    "city": "Wales",
+    "city_ascii": "Wales",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.4851,
+    "lng": -111.6361,
+    "cafes": []
+  },
+  "Alta": {
+    "city": "Alta",
+    "city_ascii": "Alta",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.5818,
+    "lng": -111.6229,
+    "cafes": []
+  },
+  "Torrey": {
+    "city": "Torrey",
+    "city_ascii": "Torrey",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.3078,
+    "lng": -111.4269,
+    "cafes": []
+  },
+  "Jensen": {
+    "city": "Jensen",
+    "city_ascii": "Jensen",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3695,
+    "lng": -109.3555,
+    "cafes": []
+  },
+  "Veyo": {
+    "city": "Veyo",
+    "city_ascii": "Veyo",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.3375,
+    "lng": -113.6931,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.2067,
+    "lng": -112.1793,
+    "cafes": []
+  },
+  "Aneth": {
+    "city": "Aneth",
+    "city_ascii": "Aneth",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.205,
+    "lng": -109.1623,
+    "cafes": []
+  },
+  "Vernon": {
+    "city": "Vernon",
+    "city_ascii": "Vernon",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.0956,
+    "lng": -112.4458,
+    "cafes": []
+  },
+  "Howell": {
+    "city": "Howell",
+    "city_ascii": "Howell",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.7733,
+    "lng": -112.445,
+    "cafes": []
+  },
+  "Alton": {
+    "city": "Alton",
+    "city_ascii": "Alton",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.4303,
+    "lng": -112.5061,
+    "cafes": []
+  },
+  "Junction": {
+    "city": "Junction",
+    "city_ascii": "Junction",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.2358,
+    "lng": -112.2238,
+    "cafes": []
+  },
+  "Kanarraville": {
+    "city": "Kanarraville",
+    "city_ascii": "Kanarraville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.5378,
+    "lng": -113.181,
+    "cafes": []
+  },
+  "Elberta": {
+    "city": "Elberta",
+    "city_ascii": "Elberta",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.9559,
+    "lng": -111.9569,
+    "cafes": []
+  },
+  "Sterling": {
+    "city": "Sterling",
+    "city_ascii": "Sterling",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.1934,
+    "lng": -111.6904,
+    "cafes": []
+  },
+  "Halchita": {
+    "city": "Halchita",
+    "city_ascii": "Halchita",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.1314,
+    "lng": -109.9131,
+    "cafes": []
+  },
+  "Woodruff": {
+    "city": "Woodruff",
+    "city_ascii": "Woodruff",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.5212,
+    "lng": -111.1639,
+    "cafes": []
+  },
+  "Leamington": {
+    "city": "Leamington",
+    "city_ascii": "Leamington",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.5313,
+    "lng": -112.2855,
+    "cafes": []
+  },
+  "Koosharem": {
+    "city": "Koosharem",
+    "city_ascii": "Koosharem",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.5134,
+    "lng": -111.8819,
+    "cafes": []
+  },
+  "Henrieville": {
+    "city": "Henrieville",
+    "city_ascii": "Henrieville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.5638,
+    "lng": -112.002,
+    "cafes": []
+  },
+  "Bluebell": {
+    "city": "Bluebell",
+    "city_ascii": "Bluebell",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3576,
+    "lng": -110.2232,
+    "cafes": []
+  },
+  "Wallsburg": {
+    "city": "Wallsburg",
+    "city_ascii": "Wallsburg",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3869,
+    "lng": -111.4194,
+    "cafes": []
+  },
+  "Montezuma Creek": {
+    "city": "Montezuma Creek",
+    "city_ascii": "Montezuma Creek",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.2563,
+    "lng": -109.303,
+    "cafes": []
+  },
+  "Wanship": {
+    "city": "Wanship",
+    "city_ascii": "Wanship",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.8167,
+    "lng": -111.4151,
+    "cafes": []
+  },
+  "La Sal": {
+    "city": "La Sal",
+    "city_ascii": "La Sal",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.3026,
+    "lng": -109.2646,
+    "cafes": []
+  },
+  "Meadow": {
+    "city": "Meadow",
+    "city_ascii": "Meadow",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.8863,
+    "lng": -112.4073,
+    "cafes": []
+  },
+  "Snowville": {
+    "city": "Snowville",
+    "city_ascii": "Snowville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.9728,
+    "lng": -112.7164,
+    "cafes": []
+  },
+  "Cornish": {
+    "city": "Cornish",
+    "city_ascii": "Cornish",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.9717,
+    "lng": -111.9565,
+    "cafes": []
+  },
+  "Lyman": {
+    "city": "Lyman",
+    "city_ascii": "Lyman",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.3966,
+    "lng": -111.5893,
+    "cafes": []
+  },
+  "Newcastle": {
+    "city": "Newcastle",
+    "city_ascii": "Newcastle",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.6628,
+    "lng": -113.5644,
+    "cafes": []
+  },
+  "Cannonville": {
+    "city": "Cannonville",
+    "city_ascii": "Cannonville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.5689,
+    "lng": -112.0531,
+    "cafes": []
+  },
+  "Portage": {
+    "city": "Portage",
+    "city_ascii": "Portage",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.9756,
+    "lng": -112.2405,
+    "cafes": []
+  },
+  "Bryce Canyon City": {
+    "city": "Bryce Canyon City",
+    "city_ascii": "Bryce Canyon City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.6814,
+    "lng": -112.1588,
+    "cafes": []
+  },
+  "Summit": {
+    "city": "Summit",
+    "city_ascii": "Summit",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.8013,
+    "lng": -112.935,
+    "cafes": []
+  },
+  "Hanksville": {
+    "city": "Hanksville",
+    "city_ascii": "Hanksville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.3724,
+    "lng": -110.7138,
+    "cafes": []
+  },
+  "Bluff": {
+    "city": "Bluff",
+    "city_ascii": "Bluff",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.2871,
+    "lng": -109.573,
+    "cafes": []
+  },
+  "Kenilworth": {
+    "city": "Kenilworth",
+    "city_ascii": "Kenilworth",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.6803,
+    "lng": -110.8146,
+    "cafes": []
+  },
+  "Cedar Fort": {
+    "city": "Cedar Fort",
+    "city_ascii": "Cedar Fort",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3414,
+    "lng": -112.1086,
+    "cafes": []
+  },
+  "Rockville": {
+    "city": "Rockville",
+    "city_ascii": "Rockville",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.1478,
+    "lng": -113.0548,
+    "cafes": []
+  },
+  "Hobble Creek": {
+    "city": "Hobble Creek",
+    "city_ascii": "Hobble Creek",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.2084,
+    "lng": -111.4859,
+    "cafes": []
+  },
+  "Tabiona": {
+    "city": "Tabiona",
+    "city_ascii": "Tabiona",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3544,
+    "lng": -110.7096,
+    "cafes": []
+  },
+  "Fairfield": {
+    "city": "Fairfield",
+    "city_ascii": "Fairfield",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.2462,
+    "lng": -112.0842,
+    "cafes": []
+  },
+  "Interlaken": {
+    "city": "Interlaken",
+    "city_ascii": "Interlaken",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.5413,
+    "lng": -111.4749,
+    "cafes": []
+  },
+  "Lynndyl": {
+    "city": "Lynndyl",
+    "city_ascii": "Lynndyl",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.5085,
+    "lng": -112.3933,
+    "cafes": []
+  },
+  "Sutherland": {
+    "city": "Sutherland",
+    "city_ascii": "Sutherland",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.3896,
+    "lng": -112.6399,
+    "cafes": []
+  },
+  "Echo": {
+    "city": "Echo",
+    "city_ascii": "Echo",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.9803,
+    "lng": -111.4393,
+    "cafes": []
+  },
+  "Garden": {
+    "city": "Garden",
+    "city_ascii": "Garden",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.8866,
+    "lng": -111.4326,
+    "cafes": []
+  },
+  "Hatch": {
+    "city": "Hatch",
+    "city_ascii": "Hatch",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.6493,
+    "lng": -112.4348,
+    "cafes": []
+  },
+  "Samak": {
+    "city": "Samak",
+    "city_ascii": "Samak",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.6389,
+    "lng": -111.2413,
+    "cafes": []
+  },
+  "Randlett": {
+    "city": "Randlett",
+    "city_ascii": "Randlett",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.2267,
+    "lng": -109.8308,
+    "cafes": []
+  },
+  "Cache": {
+    "city": "Cache",
+    "city_ascii": "Cache",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 41.8309,
+    "lng": -112.0053,
+    "cafes": []
+  },
+  "Whiterocks": {
+    "city": "Whiterocks",
+    "city_ascii": "Whiterocks",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4721,
+    "lng": -109.9412,
+    "cafes": []
+  },
+  "Clawson": {
+    "city": "Clawson",
+    "city_ascii": "Clawson",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.1391,
+    "lng": -111.0934,
+    "cafes": []
+  },
+  "Tselakai Dezza": {
+    "city": "Tselakai Dezza",
+    "city_ascii": "Tselakai Dezza",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.21,
+    "lng": -109.609,
+    "cafes": []
+  },
+  "Peoa": {
+    "city": "Peoa",
+    "city_ascii": "Peoa",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7295,
+    "lng": -111.3434,
+    "cafes": []
+  },
+  "Antimony": {
+    "city": "Antimony",
+    "city_ascii": "Antimony",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.103,
+    "lng": -111.9823,
+    "cafes": []
+  },
+  "Sundance": {
+    "city": "Sundance",
+    "city_ascii": "Sundance",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3937,
+    "lng": -111.5913,
+    "cafes": []
+  },
+  "White Mesa": {
+    "city": "White Mesa",
+    "city_ascii": "White Mesa",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.4596,
+    "lng": -109.46,
+    "cafes": []
+  },
+  "Independence": {
+    "city": "Independence",
+    "city_ascii": "Independence",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4108,
+    "lng": -111.2958,
+    "cafes": []
+  },
+  "Oasis": {
+    "city": "Oasis",
+    "city_ascii": "Oasis",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.2923,
+    "lng": -112.629,
+    "cafes": []
+  },
+  "Flaming Gorge": {
+    "city": "Flaming Gorge",
+    "city_ascii": "Flaming Gorge",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.8889,
+    "lng": -109.4751,
+    "cafes": []
+  },
+  "Brian Head": {
+    "city": "Brian Head",
+    "city_ascii": "Brian Head",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.6977,
+    "lng": -112.8416,
+    "cafes": []
+  },
+  "Lapoint": {
+    "city": "Lapoint",
+    "city_ascii": "Lapoint",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.4043,
+    "lng": -109.7969,
+    "cafes": []
+  },
+  "Fremont": {
+    "city": "Fremont",
+    "city_ascii": "Fremont",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.4556,
+    "lng": -111.6148,
+    "cafes": []
+  },
+  "Scofield": {
+    "city": "Scofield",
+    "city_ascii": "Scofield",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.7198,
+    "lng": -111.1623,
+    "cafes": []
+  },
+  "Cedar Highlands": {
+    "city": "Cedar Highlands",
+    "city_ascii": "Cedar Highlands",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.6295,
+    "lng": -113.0667,
+    "cafes": []
+  },
+  "Ophir": {
+    "city": "Ophir",
+    "city_ascii": "Ophir",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.3716,
+    "lng": -112.2507,
+    "cafes": []
+  },
+  "Clear Creek": {
+    "city": "Clear Creek",
+    "city_ascii": "Clear Creek",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 39.6433,
+    "lng": -111.1548,
+    "cafes": []
+  },
+  "Mexican Hat": {
+    "city": "Mexican Hat",
+    "city_ascii": "Mexican Hat",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.1731,
+    "lng": -109.873,
+    "cafes": []
+  },
+  "Dutch John": {
+    "city": "Dutch John",
+    "city_ascii": "Dutch John",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.9301,
+    "lng": -109.4042,
+    "cafes": []
+  },
+  "Modena": {
+    "city": "Modena",
+    "city_ascii": "Modena",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.7947,
+    "lng": -113.9275,
+    "cafes": []
+  },
+  "Halls Crossing": {
+    "city": "Halls Crossing",
+    "city_ascii": "Halls Crossing",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.4578,
+    "lng": -110.6829,
+    "cafes": []
+  },
+  "Beryl Junction": {
+    "city": "Beryl Junction",
+    "city_ascii": "Beryl Junction",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 37.701,
+    "lng": -113.6535,
+    "cafes": []
+  },
+  "Bonanza": {
+    "city": "Bonanza",
+    "city_ascii": "Bonanza",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.0304,
+    "lng": -109.1884,
+    "cafes": []
+  },
+  "Thompson Springs": {
+    "city": "Thompson Springs",
+    "city_ascii": "Thompson Springs",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 38.9636,
+    "lng": -109.7037,
+    "cafes": []
+  }
+}

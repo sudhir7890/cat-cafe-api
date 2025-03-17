@@ -1,0 +1,1004 @@
+{
+  "Barre": {
+    "city": "Barre",
+    "city_ascii": "Barre",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.1998,
+    "lng": -72.5085,
+    "cafes": [
+      {
+        "name": "Kitty Korner Cafe",
+        "address": "214 N Main St #1, Barre, VT 05641, USA",
+        "rating": 4.2,
+        "user_ratings_total": 166,
+        "website": "http://www.kittykornercafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=3714481596309016513",
+        "lat": 44.1990942,
+        "lng": -72.5040198,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Anni J",
+            "rating": 5,
+            "text": {
+              "text": "I’ve been there twice now and absolutely love it. I’m from Estonia and got to visit it for the first time last year with my boyfriend and we just had to return! Cats are adorable as ever, the staff is very nice and drinks are great. I highly recommend to visit this cute little cafe and hang out with the cats there ❤️.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Pamela Champagne",
+            "rating": 3,
+            "text": {
+              "text": "This place is so cute! But...I  think there might be a missed opportunity,  or something.  I got pastries and lattes around mid day and the pastries did not seem fresh,  I couldn't eat all my donut even after I dipped it in the latte. The latte was tasty, but could have been hotter and my cup was about half full. I am a total cat lady but, with the competition just 2 doors down, locally made pastries and a hotter coffee would make this place my' go to' . I'll give this place another try because of the cats, they are awesome ♡♡",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Gabriella O’Driscoll",
+            "rating": 5,
+            "text": {
+              "text": "I recommend making reservations in advance to avoid a wait. The reservations are in 30 minute intervals so you’ll have to go at 00 or 00:30. This was the cutest cafe I’ve ever been to. The cats are separated from the cafe which I like so you can eat before or after seeing the cats. The cats are friendly and good around kids.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0RtgtdPQIWzs2fHZE3QveqUirz3p94stdZnUvvDsL9jKRDb3fJmlqDc4S_MZ_YP1oUrS4B-E5aolvGbu_RP-Fh2jWkrFP5yM_WtbHmcYgoQxH7OSxhxcuhZTAZnS2bGbzUNLXH9PE81_dkds-yxiu0eHlXXs3szm2JIp8NkOR0jPBtF2MnrtIc2opxWrcpZJIKyTXnZbX0Tm0fR0uWkfTe3PnPXIWQflAKasBmgG45XzjA9JtyxBLyo_jTx_VEs1NfThPfmkBO8dLUYTeVw5pNt7iJTznUrzZmlkmzmes&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Burlington": {
+    "city": "Burlington",
+    "city_ascii": "Burlington",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.4876,
+    "lng": -73.2316,
+    "cafes": []
+  },
+  "South Burlington": {
+    "city": "South Burlington",
+    "city_ascii": "South Burlington",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.4622,
+    "lng": -73.2202,
+    "cafes": []
+  },
+  "Rutland": {
+    "city": "Rutland",
+    "city_ascii": "Rutland",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.6092,
+    "lng": -72.9783,
+    "cafes": []
+  },
+  "Essex Junction": {
+    "city": "Essex Junction",
+    "city_ascii": "Essex Junction",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.4902,
+    "lng": -73.1141,
+    "cafes": []
+  },
+  "Winooski": {
+    "city": "Winooski",
+    "city_ascii": "Winooski",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.4948,
+    "lng": -73.1846,
+    "cafes": []
+  },
+  "Montpelier": {
+    "city": "Montpelier",
+    "city_ascii": "Montpelier",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.2659,
+    "lng": -72.5717,
+    "cafes": []
+  },
+  "St. Albans": {
+    "city": "St. Albans",
+    "city_ascii": "St. Albans",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.8119,
+    "lng": -73.0849,
+    "cafes": []
+  },
+  "Newport": {
+    "city": "Newport",
+    "city_ascii": "Newport",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.9372,
+    "lng": -72.209,
+    "cafes": []
+  },
+  "Wilder": {
+    "city": "Wilder",
+    "city_ascii": "Wilder",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.6804,
+    "lng": -72.3168,
+    "cafes": []
+  },
+  "White River Junction": {
+    "city": "White River Junction",
+    "city_ascii": "White River Junction",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.6499,
+    "lng": -72.329,
+    "cafes": []
+  },
+  "Bellows Falls": {
+    "city": "Bellows Falls",
+    "city_ascii": "Bellows Falls",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.1344,
+    "lng": -72.455,
+    "cafes": []
+  },
+  "West Brattleboro": {
+    "city": "West Brattleboro",
+    "city_ascii": "West Brattleboro",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.8559,
+    "lng": -72.6018,
+    "cafes": []
+  },
+  "Vergennes": {
+    "city": "Vergennes",
+    "city_ascii": "Vergennes",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.1664,
+    "lng": -73.2557,
+    "cafes": []
+  },
+  "Morrisville": {
+    "city": "Morrisville",
+    "city_ascii": "Morrisville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.5583,
+    "lng": -72.5933,
+    "cafes": []
+  },
+  "Manchester Center": {
+    "city": "Manchester Center",
+    "city_ascii": "Manchester Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.182,
+    "lng": -73.0369,
+    "cafes": []
+  },
+  "Enosburg Falls": {
+    "city": "Enosburg Falls",
+    "city_ascii": "Enosburg Falls",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.9083,
+    "lng": -72.8026,
+    "cafes": []
+  },
+  "Proctor": {
+    "city": "Proctor",
+    "city_ascii": "Proctor",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.6691,
+    "lng": -73.0405,
+    "cafes": []
+  },
+  "North Bennington": {
+    "city": "North Bennington",
+    "city_ascii": "North Bennington",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.924,
+    "lng": -73.2411,
+    "cafes": []
+  },
+  "South Barre": {
+    "city": "South Barre",
+    "city_ascii": "South Barre",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.1646,
+    "lng": -72.5038,
+    "cafes": []
+  },
+  "Lyndonville": {
+    "city": "Lyndonville",
+    "city_ascii": "Lyndonville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.5351,
+    "lng": -72.0017,
+    "cafes": []
+  },
+  "East Barre": {
+    "city": "East Barre",
+    "city_ascii": "East Barre",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.15,
+    "lng": -72.4498,
+    "cafes": []
+  },
+  "Derby Line": {
+    "city": "Derby Line",
+    "city_ascii": "Derby Line",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 45.0008,
+    "lng": -72.1035,
+    "cafes": []
+  },
+  "Orleans": {
+    "city": "Orleans",
+    "city_ascii": "Orleans",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.809,
+    "lng": -72.2011,
+    "cafes": []
+  },
+  "Castleton Four Corners": {
+    "city": "Castleton Four Corners",
+    "city_ascii": "Castleton Four Corners",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.6105,
+    "lng": -73.2104,
+    "cafes": []
+  },
+  "Jeffersonville": {
+    "city": "Jeffersonville",
+    "city_ascii": "Jeffersonville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.6427,
+    "lng": -72.8282,
+    "cafes": []
+  },
+  "Island Pond": {
+    "city": "Island Pond",
+    "city_ascii": "Island Pond",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.8125,
+    "lng": -71.8862,
+    "cafes": []
+  },
+  "Derby Center": {
+    "city": "Derby Center",
+    "city_ascii": "Derby Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.9549,
+    "lng": -72.1361,
+    "cafes": []
+  },
+  "Pownal": {
+    "city": "Pownal",
+    "city_ascii": "Pownal",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.7653,
+    "lng": -73.2355,
+    "cafes": []
+  },
+  "Huntington": {
+    "city": "Huntington",
+    "city_ascii": "Huntington",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.3274,
+    "lng": -72.9892,
+    "cafes": []
+  },
+  "Killington Village": {
+    "city": "Killington Village",
+    "city_ascii": "Killington Village",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.6505,
+    "lng": -72.7851,
+    "cafes": []
+  },
+  "North Troy": {
+    "city": "North Troy",
+    "city_ascii": "North Troy",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.9963,
+    "lng": -72.4038,
+    "cafes": []
+  },
+  "Hartford Village": {
+    "city": "Hartford Village",
+    "city_ascii": "Hartford Village",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.6638,
+    "lng": -72.3364,
+    "cafes": []
+  },
+  "Underhill Flats": {
+    "city": "Underhill Flats",
+    "city_ascii": "Underhill Flats",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.5232,
+    "lng": -72.9463,
+    "cafes": []
+  },
+  "Stamford": {
+    "city": "Stamford",
+    "city_ascii": "Stamford",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.7595,
+    "lng": -73.0562,
+    "cafes": []
+  },
+  "Saxtons River": {
+    "city": "Saxtons River",
+    "city_ascii": "Saxtons River",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.139,
+    "lng": -72.5102,
+    "cafes": []
+  },
+  "West Woodstock": {
+    "city": "West Woodstock",
+    "city_ascii": "West Woodstock",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.6113,
+    "lng": -72.5513,
+    "cafes": []
+  },
+  "Pownal Center": {
+    "city": "Pownal Center",
+    "city_ascii": "Pownal Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.7977,
+    "lng": -73.2214,
+    "cafes": []
+  },
+  "Saint George": {
+    "city": "Saint George",
+    "city_ascii": "Saint George",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.377,
+    "lng": -73.13,
+    "cafes": []
+  },
+  "South Shaftsbury": {
+    "city": "South Shaftsbury",
+    "city_ascii": "South Shaftsbury",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.9411,
+    "lng": -73.202,
+    "cafes": []
+  },
+  "South Royalton": {
+    "city": "South Royalton",
+    "city_ascii": "South Royalton",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.8123,
+    "lng": -72.5155,
+    "cafes": []
+  },
+  "North Springfield": {
+    "city": "North Springfield",
+    "city_ascii": "North Springfield",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.3304,
+    "lng": -72.5277,
+    "cafes": []
+  },
+  "Lunenburg": {
+    "city": "Lunenburg",
+    "city_ascii": "Lunenburg",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.457,
+    "lng": -71.6803,
+    "cafes": []
+  },
+  "Websterville": {
+    "city": "Websterville",
+    "city_ascii": "Websterville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.1619,
+    "lng": -72.4733,
+    "cafes": []
+  },
+  "Ascutney": {
+    "city": "Ascutney",
+    "city_ascii": "Ascutney",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.408,
+    "lng": -72.407,
+    "cafes": []
+  },
+  "Highgate Center": {
+    "city": "Highgate Center",
+    "city_ascii": "Highgate Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.9375,
+    "lng": -73.0421,
+    "cafes": []
+  },
+  "North Hartland": {
+    "city": "North Hartland",
+    "city_ascii": "North Hartland",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.5936,
+    "lng": -72.3578,
+    "cafes": []
+  },
+  "East Middlebury": {
+    "city": "East Middlebury",
+    "city_ascii": "East Middlebury",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.9746,
+    "lng": -73.1052,
+    "cafes": []
+  },
+  "Bakersfield": {
+    "city": "Bakersfield",
+    "city_ascii": "Bakersfield",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.7821,
+    "lng": -72.8032,
+    "cafes": []
+  },
+  "Graniteville": {
+    "city": "Graniteville",
+    "city_ascii": "Graniteville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.1463,
+    "lng": -72.4818,
+    "cafes": []
+  },
+  "North Hyde Park": {
+    "city": "North Hyde Park",
+    "city_ascii": "North Hyde Park",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.6702,
+    "lng": -72.5927,
+    "cafes": []
+  },
+  "North Pownal": {
+    "city": "North Pownal",
+    "city_ascii": "North Pownal",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.7984,
+    "lng": -73.262,
+    "cafes": []
+  },
+  "Wells River": {
+    "city": "Wells River",
+    "city_ascii": "Wells River",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.1538,
+    "lng": -72.0615,
+    "cafes": []
+  },
+  "Lyndon Center": {
+    "city": "Lyndon Center",
+    "city_ascii": "Lyndon Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.5377,
+    "lng": -72.0142,
+    "cafes": []
+  },
+  "Proctorsville": {
+    "city": "Proctorsville",
+    "city_ascii": "Proctorsville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.381,
+    "lng": -72.6373,
+    "cafes": []
+  },
+  "Greensboro Bend": {
+    "city": "Greensboro Bend",
+    "city_ascii": "Greensboro Bend",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.5582,
+    "lng": -72.2643,
+    "cafes": []
+  },
+  "Pawlet": {
+    "city": "Pawlet",
+    "city_ascii": "Pawlet",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.3481,
+    "lng": -73.1743,
+    "cafes": []
+  },
+  "West Pawlet": {
+    "city": "West Pawlet",
+    "city_ascii": "West Pawlet",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.3575,
+    "lng": -73.247,
+    "cafes": []
+  },
+  "Quechee": {
+    "city": "Quechee",
+    "city_ascii": "Quechee",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.6445,
+    "lng": -72.4184,
+    "cafes": []
+  },
+  "East Dorset": {
+    "city": "East Dorset",
+    "city_ascii": "East Dorset",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.245,
+    "lng": -73.0069,
+    "cafes": []
+  },
+  "Lincoln": {
+    "city": "Lincoln",
+    "city_ascii": "Lincoln",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.1028,
+    "lng": -72.9937,
+    "cafes": []
+  },
+  "Peacham": {
+    "city": "Peacham",
+    "city_ascii": "Peacham",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.3296,
+    "lng": -72.1725,
+    "cafes": []
+  },
+  "North Clarendon": {
+    "city": "North Clarendon",
+    "city_ascii": "North Clarendon",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.5722,
+    "lng": -72.9667,
+    "cafes": []
+  },
+  "East Poultney": {
+    "city": "East Poultney",
+    "city_ascii": "East Poultney",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.5259,
+    "lng": -73.2107,
+    "cafes": []
+  },
+  "Waterbury Center": {
+    "city": "Waterbury Center",
+    "city_ascii": "Waterbury Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.378,
+    "lng": -72.7208,
+    "cafes": []
+  },
+  "Wolcott": {
+    "city": "Wolcott",
+    "city_ascii": "Wolcott",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.5476,
+    "lng": -72.4617,
+    "cafes": []
+  },
+  "Newport Center": {
+    "city": "Newport Center",
+    "city_ascii": "Newport Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.9527,
+    "lng": -72.3065,
+    "cafes": []
+  },
+  "Sheffield": {
+    "city": "Sheffield",
+    "city_ascii": "Sheffield",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.5996,
+    "lng": -72.116,
+    "cafes": []
+  },
+  "West Charlotte": {
+    "city": "West Charlotte",
+    "city_ascii": "West Charlotte",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.3099,
+    "lng": -73.2546,
+    "cafes": []
+  },
+  "South Londonderry": {
+    "city": "South Londonderry",
+    "city_ascii": "South Londonderry",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.1904,
+    "lng": -72.8118,
+    "cafes": []
+  },
+  "New Haven": {
+    "city": "New Haven",
+    "city_ascii": "New Haven",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.1266,
+    "lng": -73.151,
+    "cafes": []
+  },
+  "South Hero": {
+    "city": "South Hero",
+    "city_ascii": "South Hero",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.6479,
+    "lng": -73.3017,
+    "cafes": []
+  },
+  "Algiers": {
+    "city": "Algiers",
+    "city_ascii": "Algiers",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.8182,
+    "lng": -72.5771,
+    "cafes": []
+  },
+  "Westford": {
+    "city": "Westford",
+    "city_ascii": "Westford",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.6079,
+    "lng": -73.0113,
+    "cafes": []
+  },
+  "Bolton Valley": {
+    "city": "Bolton Valley",
+    "city_ascii": "Bolton Valley",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.4166,
+    "lng": -72.8576,
+    "cafes": []
+  },
+  "Danby": {
+    "city": "Danby",
+    "city_ascii": "Danby",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.3452,
+    "lng": -72.9946,
+    "cafes": []
+  },
+  "West Burke": {
+    "city": "West Burke",
+    "city_ascii": "West Burke",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.6431,
+    "lng": -71.9792,
+    "cafes": []
+  },
+  "Sutton": {
+    "city": "Sutton",
+    "city_ascii": "Sutton",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.629,
+    "lng": -72.0277,
+    "cafes": []
+  },
+  "Harmonyville": {
+    "city": "Harmonyville",
+    "city_ascii": "Harmonyville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.0372,
+    "lng": -72.6657,
+    "cafes": []
+  },
+  "South Lincoln": {
+    "city": "South Lincoln",
+    "city_ascii": "South Lincoln",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.0651,
+    "lng": -72.9748,
+    "cafes": []
+  },
+  "Townshend": {
+    "city": "Townshend",
+    "city_ascii": "Townshend",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.047,
+    "lng": -72.6692,
+    "cafes": []
+  },
+  "Old Bennington": {
+    "city": "Old Bennington",
+    "city_ascii": "Old Bennington",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.8848,
+    "lng": -73.2143,
+    "cafes": []
+  },
+  "Jacksonville": {
+    "city": "Jacksonville",
+    "city_ascii": "Jacksonville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.7976,
+    "lng": -72.8192,
+    "cafes": []
+  },
+  "North Westminster": {
+    "city": "North Westminster",
+    "city_ascii": "North Westminster",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.1219,
+    "lng": -72.4554,
+    "cafes": []
+  },
+  "Whitingham": {
+    "city": "Whitingham",
+    "city_ascii": "Whitingham",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.7892,
+    "lng": -72.8834,
+    "cafes": []
+  },
+  "Gilman": {
+    "city": "Gilman",
+    "city_ascii": "Gilman",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.4135,
+    "lng": -71.7157,
+    "cafes": []
+  },
+  "Huntington Center": {
+    "city": "Huntington Center",
+    "city_ascii": "Huntington Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.2906,
+    "lng": -72.9672,
+    "cafes": []
+  },
+  "East Burke": {
+    "city": "East Burke",
+    "city_ascii": "East Burke",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.5875,
+    "lng": -71.9403,
+    "cafes": []
+  },
+  "East Charlotte": {
+    "city": "East Charlotte",
+    "city_ascii": "East Charlotte",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.3184,
+    "lng": -73.1909,
+    "cafes": []
+  },
+  "Middletown Springs": {
+    "city": "Middletown Springs",
+    "city_ascii": "Middletown Springs",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.4865,
+    "lng": -73.1232,
+    "cafes": []
+  },
+  "Chittenden": {
+    "city": "Chittenden",
+    "city_ascii": "Chittenden",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.7039,
+    "lng": -72.9494,
+    "cafes": []
+  },
+  "Stratton Mountain": {
+    "city": "Stratton Mountain",
+    "city_ascii": "Stratton Mountain",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.117,
+    "lng": -72.9025,
+    "cafes": []
+  },
+  "Lyndon": {
+    "city": "Lyndon",
+    "city_ascii": "Lyndon",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.5154,
+    "lng": -72.0134,
+    "cafes": []
+  },
+  "Chimney Hill": {
+    "city": "Chimney Hill",
+    "city_ascii": "Chimney Hill",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.8888,
+    "lng": -72.904,
+    "cafes": []
+  },
+  "Grafton": {
+    "city": "Grafton",
+    "city_ascii": "Grafton",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.1706,
+    "lng": -72.6084,
+    "cafes": []
+  },
+  "Beecher Falls": {
+    "city": "Beecher Falls",
+    "city_ascii": "Beecher Falls",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 45.0091,
+    "lng": -71.4936,
+    "cafes": []
+  },
+  "Londonderry": {
+    "city": "Londonderry",
+    "city_ascii": "Londonderry",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.2278,
+    "lng": -72.8083,
+    "cafes": []
+  },
+  "Wardsboro": {
+    "city": "Wardsboro",
+    "city_ascii": "Wardsboro",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.0435,
+    "lng": -72.7889,
+    "cafes": []
+  },
+  "West Dummerston": {
+    "city": "West Dummerston",
+    "city_ascii": "West Dummerston",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 42.9299,
+    "lng": -72.6128,
+    "cafes": []
+  },
+  "Weston": {
+    "city": "Weston",
+    "city_ascii": "Weston",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.2904,
+    "lng": -72.7922,
+    "cafes": []
+  },
+  "Jamaica": {
+    "city": "Jamaica",
+    "city_ascii": "Jamaica",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.0975,
+    "lng": -72.7784,
+    "cafes": []
+  },
+  "Hanksville": {
+    "city": "Hanksville",
+    "city_ascii": "Hanksville",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.2514,
+    "lng": -72.9614,
+    "cafes": []
+  },
+  "Underhill Center": {
+    "city": "Underhill Center",
+    "city_ascii": "Underhill Center",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.508,
+    "lng": -72.8989,
+    "cafes": []
+  },
+  "South Woodstock": {
+    "city": "South Woodstock",
+    "city_ascii": "South Woodstock",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 43.5608,
+    "lng": -72.5321,
+    "cafes": []
+  },
+  "Bolton": {
+    "city": "Bolton",
+    "city_ascii": "Bolton",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.3742,
+    "lng": -72.8859,
+    "cafes": []
+  },
+  "Highgate Springs": {
+    "city": "Highgate Springs",
+    "city_ascii": "Highgate Springs",
+    "state_id": "VT",
+    "state_name": "Vermont",
+    "lat": 44.9782,
+    "lng": -73.1056,
+    "cafes": []
+  }
+}

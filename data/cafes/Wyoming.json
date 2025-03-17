@@ -1,0 +1,1885 @@
+{
+  "Cheyenne": {
+    "city": "Cheyenne",
+    "city_ascii": "Cheyenne",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.135,
+    "lng": -104.7902,
+    "cafes": [
+      {
+        "name": "Catz N Coffee Connections",
+        "address": "615 W 20th St, Cheyenne, WY 82001, USA",
+        "rating": 5,
+        "user_ratings_total": 49,
+        "website": "http://www.catzncoffeeconnect.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=13526399143090155942",
+        "lat": 41.134193599999996,
+        "lng": -104.8225842,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Gwen W.",
+            "rating": 5,
+            "text": {
+              "text": "Love this cute cate cafe! Jami the owner is sweet and you can tell she cares for the cats. I recommend this place for you to take a break and get some kitty love. We played a game and several of the cats joined. Very relaxing and quiet place to take the purfect break 😺😺",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          },
+          {
+            "author": "Nancy Fults",
+            "rating": 5,
+            "text": {
+              "text": "Jami and staff do an exceptional job in caring for her guests and the kitties!  You should put this on your list of things to do in Cheyenne. It’s a great atmosphere to spend time with friends, taking a class or just to spend time with all the sociable cats in her care. Thanks, Jami for the wonderful experience!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Janine Kozak",
+            "rating": 5,
+            "text": {
+              "text": "Relax with kitties! A must visit! This is the best place to adopt a cat or kitten. Jamie takes exceptional care of the kitties. Have a coffee, read a book, relax and enjoy time with the cats.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0cNbyHYsVD5gXRaYxpxQ_caJxFnxTfGbXVaJRNcn-uS-yWVENizpL8_Cmwpg1oADeQx-7RUKNtkpxxnNAewh2gzPF8QuQUl8jMsukYVbw0otXzN07yQPi_DY6AeasNvq06NYsPem-YuVyloxmFI8upyKHp6tdiiLRU2FhhLDV2IKVNE1q8vjt6eYtSK256TshjTPEd-6HBoF1XiBA62Es9r9QFH45o9fPruB9djRIQQ1FciAmMB2nxVwrA1KNg1VnRMzvMxCwbLNUmaoyYP64hyV3xrF-E72Tx3ExysyavSg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Casper": {
+    "city": "Casper",
+    "city_ascii": "Casper",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.842,
+    "lng": -106.3208,
+    "cafes": []
+  },
+  "Gillette": {
+    "city": "Gillette",
+    "city_ascii": "Gillette",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.2752,
+    "lng": -105.4982,
+    "cafes": []
+  },
+  "Laramie": {
+    "city": "Laramie",
+    "city_ascii": "Laramie",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.3099,
+    "lng": -105.6085,
+    "cafes": []
+  },
+  "Rock Springs": {
+    "city": "Rock Springs",
+    "city_ascii": "Rock Springs",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.5947,
+    "lng": -109.2209,
+    "cafes": []
+  },
+  "Sheridan": {
+    "city": "Sheridan",
+    "city_ascii": "Sheridan",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.7961,
+    "lng": -106.9642,
+    "cafes": []
+  },
+  "Evanston": {
+    "city": "Evanston",
+    "city_ascii": "Evanston",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.2602,
+    "lng": -110.9646,
+    "cafes": []
+  },
+  "Green River": {
+    "city": "Green River",
+    "city_ascii": "Green River",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.5127,
+    "lng": -109.471,
+    "cafes": []
+  },
+  "Riverton": {
+    "city": "Riverton",
+    "city_ascii": "Riverton",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.0421,
+    "lng": -108.4144,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.472,
+    "lng": -110.7746,
+    "cafes": []
+  },
+  "Cody": {
+    "city": "Cody",
+    "city_ascii": "Cody",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.5213,
+    "lng": -109.0548,
+    "cafes": []
+  },
+  "Rawlins": {
+    "city": "Rawlins",
+    "city_ascii": "Rawlins",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.7849,
+    "lng": -107.2265,
+    "cafes": []
+  },
+  "Lander": {
+    "city": "Lander",
+    "city_ascii": "Lander",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8312,
+    "lng": -108.7599,
+    "cafes": []
+  },
+  "Powell": {
+    "city": "Powell",
+    "city_ascii": "Powell",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.7958,
+    "lng": -108.7681,
+    "cafes": []
+  },
+  "Douglas": {
+    "city": "Douglas",
+    "city_ascii": "Douglas",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.7542,
+    "lng": -105.3969,
+    "cafes": []
+  },
+  "Ranchettes": {
+    "city": "Ranchettes",
+    "city_ascii": "Ranchettes",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.2186,
+    "lng": -104.7729,
+    "cafes": []
+  },
+  "Torrington": {
+    "city": "Torrington",
+    "city_ascii": "Torrington",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.0653,
+    "lng": -104.1737,
+    "cafes": []
+  },
+  "Worland": {
+    "city": "Worland",
+    "city_ascii": "Worland",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.0025,
+    "lng": -107.9544,
+    "cafes": []
+  },
+  "South Greeley": {
+    "city": "South Greeley",
+    "city_ascii": "South Greeley",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.0929,
+    "lng": -104.8066,
+    "cafes": []
+  },
+  "Buffalo": {
+    "city": "Buffalo",
+    "city_ascii": "Buffalo",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.3427,
+    "lng": -106.7139,
+    "cafes": []
+  },
+  "Mills": {
+    "city": "Mills",
+    "city_ascii": "Mills",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8473,
+    "lng": -106.383,
+    "cafes": []
+  },
+  "Fox Farm-College": {
+    "city": "Fox Farm-College",
+    "city_ascii": "Fox Farm-College",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.1105,
+    "lng": -104.7871,
+    "cafes": []
+  },
+  "Wheatland": {
+    "city": "Wheatland",
+    "city_ascii": "Wheatland",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.0517,
+    "lng": -104.9595,
+    "cafes": []
+  },
+  "Newcastle": {
+    "city": "Newcastle",
+    "city_ascii": "Newcastle",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.851,
+    "lng": -104.2123,
+    "cafes": []
+  },
+  "Bar Nunn": {
+    "city": "Bar Nunn",
+    "city_ascii": "Bar Nunn",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.922,
+    "lng": -106.3475,
+    "cafes": []
+  },
+  "Glenrock": {
+    "city": "Glenrock",
+    "city_ascii": "Glenrock",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8565,
+    "lng": -105.8625,
+    "cafes": []
+  },
+  "Kemmerer": {
+    "city": "Kemmerer",
+    "city_ascii": "Kemmerer",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.7761,
+    "lng": -110.5555,
+    "cafes": []
+  },
+  "Evansville": {
+    "city": "Evansville",
+    "city_ascii": "Evansville",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.868,
+    "lng": -106.2524,
+    "cafes": []
+  },
+  "Warren AFB": {
+    "city": "Warren AFB",
+    "city_ascii": "Warren AFB",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.1488,
+    "lng": -104.8618,
+    "cafes": []
+  },
+  "Thermopolis": {
+    "city": "Thermopolis",
+    "city_ascii": "Thermopolis",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.6479,
+    "lng": -108.2139,
+    "cafes": []
+  },
+  "Lovell": {
+    "city": "Lovell",
+    "city_ascii": "Lovell",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.8357,
+    "lng": -108.3919,
+    "cafes": []
+  },
+  "North Rock Springs": {
+    "city": "North Rock Springs",
+    "city_ascii": "North Rock Springs",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.6698,
+    "lng": -109.2714,
+    "cafes": []
+  },
+  "Star Valley Ranch": {
+    "city": "Star Valley Ranch",
+    "city_ascii": "Star Valley Ranch",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.9798,
+    "lng": -110.9617,
+    "cafes": []
+  },
+  "Greybull": {
+    "city": "Greybull",
+    "city_ascii": "Greybull",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.4887,
+    "lng": -108.0592,
+    "cafes": []
+  },
+  "Pinedale": {
+    "city": "Pinedale",
+    "city_ascii": "Pinedale",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8676,
+    "lng": -109.8707,
+    "cafes": []
+  },
+  "South Park": {
+    "city": "South Park",
+    "city_ascii": "South Park",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.4234,
+    "lng": -110.7994,
+    "cafes": []
+  },
+  "Afton": {
+    "city": "Afton",
+    "city_ascii": "Afton",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.727,
+    "lng": -110.9315,
+    "cafes": []
+  },
+  "Saratoga": {
+    "city": "Saratoga",
+    "city_ascii": "Saratoga",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.4517,
+    "lng": -106.8107,
+    "cafes": []
+  },
+  "Sleepy Hollow": {
+    "city": "Sleepy Hollow",
+    "city_ascii": "Sleepy Hollow",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.2327,
+    "lng": -105.4309,
+    "cafes": []
+  },
+  "Lyman": {
+    "city": "Lyman",
+    "city_ascii": "Lyman",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.3274,
+    "lng": -110.2977,
+    "cafes": []
+  },
+  "Hoback": {
+    "city": "Hoback",
+    "city_ascii": "Hoback",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.3082,
+    "lng": -110.7443,
+    "cafes": []
+  },
+  "Lusk": {
+    "city": "Lusk",
+    "city_ascii": "Lusk",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.7613,
+    "lng": -104.4584,
+    "cafes": []
+  },
+  "Arapahoe": {
+    "city": "Arapahoe",
+    "city_ascii": "Arapahoe",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.9911,
+    "lng": -108.4562,
+    "cafes": []
+  },
+  "Ethete": {
+    "city": "Ethete",
+    "city_ascii": "Ethete",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.0008,
+    "lng": -108.723,
+    "cafes": []
+  },
+  "Wright": {
+    "city": "Wright",
+    "city_ascii": "Wright",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.7492,
+    "lng": -105.4948,
+    "cafes": []
+  },
+  "Moose Wilson Road": {
+    "city": "Moose Wilson Road",
+    "city_ascii": "Moose Wilson Road",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.5315,
+    "lng": -110.834,
+    "cafes": []
+  },
+  "Fort Washakie": {
+    "city": "Fort Washakie",
+    "city_ascii": "Fort Washakie",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.0069,
+    "lng": -108.9205,
+    "cafes": []
+  },
+  "Basin": {
+    "city": "Basin",
+    "city_ascii": "Basin",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.3804,
+    "lng": -108.0466,
+    "cafes": []
+  },
+  "Osmond": {
+    "city": "Osmond",
+    "city_ascii": "Osmond",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.6777,
+    "lng": -110.9408,
+    "cafes": []
+  },
+  "Pine Bluffs": {
+    "city": "Pine Bluffs",
+    "city_ascii": "Pine Bluffs",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.1802,
+    "lng": -104.0748,
+    "cafes": []
+  },
+  "Wilson": {
+    "city": "Wilson",
+    "city_ascii": "Wilson",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.486,
+    "lng": -110.8937,
+    "cafes": []
+  },
+  "Marbleton": {
+    "city": "Marbleton",
+    "city_ascii": "Marbleton",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.5574,
+    "lng": -110.1005,
+    "cafes": []
+  },
+  "Rafter J Ranch": {
+    "city": "Rafter J Ranch",
+    "city_ascii": "Rafter J Ranch",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.4317,
+    "lng": -110.7924,
+    "cafes": []
+  },
+  "Story": {
+    "city": "Story",
+    "city_ascii": "Story",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.5731,
+    "lng": -106.9142,
+    "cafes": []
+  },
+  "Ranchester": {
+    "city": "Ranchester",
+    "city_ascii": "Ranchester",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.9075,
+    "lng": -107.1674,
+    "cafes": []
+  },
+  "Moorcroft": {
+    "city": "Moorcroft",
+    "city_ascii": "Moorcroft",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.2645,
+    "lng": -104.9476,
+    "cafes": []
+  },
+  "Grover": {
+    "city": "Grover",
+    "city_ascii": "Grover",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.802,
+    "lng": -110.9405,
+    "cafes": []
+  },
+  "Mountain View": {
+    "city": "Mountain View",
+    "city_ascii": "Mountain View",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.2724,
+    "lng": -110.3342,
+    "cafes": []
+  },
+  "Hartrandt": {
+    "city": "Hartrandt",
+    "city_ascii": "Hartrandt",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8836,
+    "lng": -106.3492,
+    "cafes": []
+  },
+  "Teton Village": {
+    "city": "Teton Village",
+    "city_ascii": "Teton Village",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.5907,
+    "lng": -110.8419,
+    "cafes": []
+  },
+  "Alpine": {
+    "city": "Alpine",
+    "city_ascii": "Alpine",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.1646,
+    "lng": -111.02,
+    "cafes": []
+  },
+  "Sundance": {
+    "city": "Sundance",
+    "city_ascii": "Sundance",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.4048,
+    "lng": -104.3626,
+    "cafes": []
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "city_ascii": "Dayton",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.8733,
+    "lng": -107.2624,
+    "cafes": []
+  },
+  "Vista West": {
+    "city": "Vista West",
+    "city_ascii": "Vista West",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8622,
+    "lng": -106.4363,
+    "cafes": []
+  },
+  "Upton": {
+    "city": "Upton",
+    "city_ascii": "Upton",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.1039,
+    "lng": -104.6362,
+    "cafes": []
+  },
+  "Hanna": {
+    "city": "Hanna",
+    "city_ascii": "Hanna",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.8697,
+    "lng": -106.5597,
+    "cafes": []
+  },
+  "Bear River": {
+    "city": "Bear River",
+    "city_ascii": "Bear River",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.3858,
+    "lng": -111.0271,
+    "cafes": []
+  },
+  "Dubois": {
+    "city": "Dubois",
+    "city_ascii": "Dubois",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.5389,
+    "lng": -109.6443,
+    "cafes": []
+  },
+  "Powder Horn": {
+    "city": "Powder Horn",
+    "city_ascii": "Powder Horn",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.6912,
+    "lng": -106.9728,
+    "cafes": []
+  },
+  "Guernsey": {
+    "city": "Guernsey",
+    "city_ascii": "Guernsey",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.2656,
+    "lng": -104.743,
+    "cafes": []
+  },
+  "Cowley": {
+    "city": "Cowley",
+    "city_ascii": "Cowley",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.8834,
+    "lng": -108.4693,
+    "cafes": []
+  },
+  "Red Butte": {
+    "city": "Red Butte",
+    "city_ascii": "Red Butte",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8051,
+    "lng": -106.434,
+    "cafes": []
+  },
+  "Smoot": {
+    "city": "Smoot",
+    "city_ascii": "Smoot",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.6184,
+    "lng": -110.9155,
+    "cafes": []
+  },
+  "Diamondville": {
+    "city": "Diamondville",
+    "city_ascii": "Diamondville",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.7772,
+    "lng": -110.5357,
+    "cafes": []
+  },
+  "Purple Sage": {
+    "city": "Purple Sage",
+    "city_ascii": "Purple Sage",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.5515,
+    "lng": -109.3199,
+    "cafes": []
+  },
+  "Meeteetse": {
+    "city": "Meeteetse",
+    "city_ascii": "Meeteetse",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.1543,
+    "lng": -108.8612,
+    "cafes": []
+  },
+  "Alta": {
+    "city": "Alta",
+    "city_ascii": "Alta",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.7737,
+    "lng": -111.0312,
+    "cafes": []
+  },
+  "Shoshoni": {
+    "city": "Shoshoni",
+    "city_ascii": "Shoshoni",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.2381,
+    "lng": -108.1068,
+    "cafes": []
+  },
+  "Casper Mountain": {
+    "city": "Casper Mountain",
+    "city_ascii": "Casper Mountain",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.7416,
+    "lng": -106.3082,
+    "cafes": []
+  },
+  "Thayne": {
+    "city": "Thayne",
+    "city_ascii": "Thayne",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.9194,
+    "lng": -110.9968,
+    "cafes": []
+  },
+  "Rolling Hills": {
+    "city": "Rolling Hills",
+    "city_ascii": "Rolling Hills",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.9035,
+    "lng": -105.8434,
+    "cafes": []
+  },
+  "Pine Haven": {
+    "city": "Pine Haven",
+    "city_ascii": "Pine Haven",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.3534,
+    "lng": -104.8104,
+    "cafes": []
+  },
+  "Encampment": {
+    "city": "Encampment",
+    "city_ascii": "Encampment",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.2088,
+    "lng": -106.7948,
+    "cafes": []
+  },
+  "Boulder Flats": {
+    "city": "Boulder Flats",
+    "city_ascii": "Boulder Flats",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.9156,
+    "lng": -108.7993,
+    "cafes": []
+  },
+  "Lucerne": {
+    "city": "Lucerne",
+    "city_ascii": "Lucerne",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.7136,
+    "lng": -108.1873,
+    "cafes": []
+  },
+  "Byron": {
+    "city": "Byron",
+    "city_ascii": "Byron",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.7963,
+    "lng": -108.5082,
+    "cafes": []
+  },
+  "James Town": {
+    "city": "James Town",
+    "city_ascii": "James Town",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.5648,
+    "lng": -109.5383,
+    "cafes": []
+  },
+  "Hulett": {
+    "city": "Hulett",
+    "city_ascii": "Hulett",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.6829,
+    "lng": -104.5982,
+    "cafes": []
+  },
+  "Big Piney": {
+    "city": "Big Piney",
+    "city_ascii": "Big Piney",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.5401,
+    "lng": -110.1193,
+    "cafes": []
+  },
+  "Turnerville": {
+    "city": "Turnerville",
+    "city_ascii": "Turnerville",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8624,
+    "lng": -110.9007,
+    "cafes": []
+  },
+  "Baggs": {
+    "city": "Baggs",
+    "city_ascii": "Baggs",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.0345,
+    "lng": -107.6574,
+    "cafes": []
+  },
+  "Bedford": {
+    "city": "Bedford",
+    "city_ascii": "Bedford",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8947,
+    "lng": -110.9286,
+    "cafes": []
+  },
+  "Cokeville": {
+    "city": "Cokeville",
+    "city_ascii": "Cokeville",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.0679,
+    "lng": -110.9609,
+    "cafes": []
+  },
+  "Reliance": {
+    "city": "Reliance",
+    "city_ascii": "Reliance",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.6682,
+    "lng": -109.1977,
+    "cafes": []
+  },
+  "Lingle": {
+    "city": "Lingle",
+    "city_ascii": "Lingle",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.1388,
+    "lng": -104.3461,
+    "cafes": []
+  },
+  "Parkman": {
+    "city": "Parkman",
+    "city_ascii": "Parkman",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.9488,
+    "lng": -107.3077,
+    "cafes": []
+  },
+  "Hudson": {
+    "city": "Hudson",
+    "city_ascii": "Hudson",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.9028,
+    "lng": -108.5819,
+    "cafes": []
+  },
+  "La Grange": {
+    "city": "La Grange",
+    "city_ascii": "La Grange",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.6387,
+    "lng": -104.1629,
+    "cafes": []
+  },
+  "Burns": {
+    "city": "Burns",
+    "city_ascii": "Burns",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.1909,
+    "lng": -104.359,
+    "cafes": []
+  },
+  "Centennial": {
+    "city": "Centennial",
+    "city_ascii": "Centennial",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.3005,
+    "lng": -106.1355,
+    "cafes": []
+  },
+  "Sinclair": {
+    "city": "Sinclair",
+    "city_ascii": "Sinclair",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.7761,
+    "lng": -107.1199,
+    "cafes": []
+  },
+  "Alpine Northeast": {
+    "city": "Alpine Northeast",
+    "city_ascii": "Alpine Northeast",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.1938,
+    "lng": -111.0072,
+    "cafes": []
+  },
+  "Y-O Ranch": {
+    "city": "Y-O Ranch",
+    "city_ascii": "Y-O Ranch",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.0351,
+    "lng": -104.923,
+    "cafes": []
+  },
+  "Dixon": {
+    "city": "Dixon",
+    "city_ascii": "Dixon",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.0345,
+    "lng": -107.5356,
+    "cafes": []
+  },
+  "Eden": {
+    "city": "Eden",
+    "city_ascii": "Eden",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.0601,
+    "lng": -109.4392,
+    "cafes": []
+  },
+  "Auburn": {
+    "city": "Auburn",
+    "city_ascii": "Auburn",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.7969,
+    "lng": -111.0216,
+    "cafes": []
+  },
+  "Pavillion": {
+    "city": "Pavillion",
+    "city_ascii": "Pavillion",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.244,
+    "lng": -108.689,
+    "cafes": []
+  },
+  "La Barge": {
+    "city": "La Barge",
+    "city_ascii": "La Barge",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.2605,
+    "lng": -110.1971,
+    "cafes": []
+  },
+  "Alpine Northwest": {
+    "city": "Alpine Northwest",
+    "city_ascii": "Alpine Northwest",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.1817,
+    "lng": -111.0347,
+    "cafes": []
+  },
+  "Nordic": {
+    "city": "Nordic",
+    "city_ascii": "Nordic",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.0793,
+    "lng": -110.9913,
+    "cafes": []
+  },
+  "Homa Hills": {
+    "city": "Homa Hills",
+    "city_ascii": "Homa Hills",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.9857,
+    "lng": -106.3719,
+    "cafes": []
+  },
+  "Medicine Bow": {
+    "city": "Medicine Bow",
+    "city_ascii": "Medicine Bow",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.8995,
+    "lng": -106.2019,
+    "cafes": []
+  },
+  "Kelly": {
+    "city": "Kelly",
+    "city_ascii": "Kelly",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.6227,
+    "lng": -110.6273,
+    "cafes": []
+  },
+  "Kaycee": {
+    "city": "Kaycee",
+    "city_ascii": "Kaycee",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.7101,
+    "lng": -106.6371,
+    "cafes": []
+  },
+  "Rock River": {
+    "city": "Rock River",
+    "city_ascii": "Rock River",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.7317,
+    "lng": -105.9752,
+    "cafes": []
+  },
+  "Hill View Heights": {
+    "city": "Hill View Heights",
+    "city_ascii": "Hill View Heights",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.8159,
+    "lng": -104.1517,
+    "cafes": []
+  },
+  "Glendo": {
+    "city": "Glendo",
+    "city_ascii": "Glendo",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.5049,
+    "lng": -105.025,
+    "cafes": []
+  },
+  "Burlington": {
+    "city": "Burlington",
+    "city_ascii": "Burlington",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.4471,
+    "lng": -108.432,
+    "cafes": []
+  },
+  "Clearview Acres": {
+    "city": "Clearview Acres",
+    "city_ascii": "Clearview Acres",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.5842,
+    "lng": -109.2801,
+    "cafes": []
+  },
+  "Johnstown": {
+    "city": "Johnstown",
+    "city_ascii": "Johnstown",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.1118,
+    "lng": -108.6955,
+    "cafes": []
+  },
+  "Fort Laramie": {
+    "city": "Fort Laramie",
+    "city_ascii": "Fort Laramie",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.2131,
+    "lng": -104.5175,
+    "cafes": []
+  },
+  "Granger": {
+    "city": "Granger",
+    "city_ascii": "Granger",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.5979,
+    "lng": -109.9652,
+    "cafes": []
+  },
+  "Midwest": {
+    "city": "Midwest",
+    "city_ascii": "Midwest",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.4109,
+    "lng": -106.2775,
+    "cafes": []
+  },
+  "Frannie": {
+    "city": "Frannie",
+    "city_ascii": "Frannie",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.971,
+    "lng": -108.6205,
+    "cafes": []
+  },
+  "Manville": {
+    "city": "Manville",
+    "city_ascii": "Manville",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.7796,
+    "lng": -104.6176,
+    "cafes": []
+  },
+  "Ten Sleep": {
+    "city": "Ten Sleep",
+    "city_ascii": "Ten Sleep",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.035,
+    "lng": -107.4482,
+    "cafes": []
+  },
+  "Superior": {
+    "city": "Superior",
+    "city_ascii": "Superior",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.7595,
+    "lng": -108.9643,
+    "cafes": []
+  },
+  "Wamsutter": {
+    "city": "Wamsutter",
+    "city_ascii": "Wamsutter",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.668,
+    "lng": -107.9792,
+    "cafes": []
+  },
+  "Chugwater": {
+    "city": "Chugwater",
+    "city_ascii": "Chugwater",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.7557,
+    "lng": -104.8229,
+    "cafes": []
+  },
+  "Albin": {
+    "city": "Albin",
+    "city_ascii": "Albin",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.417,
+    "lng": -104.1016,
+    "cafes": []
+  },
+  "Yoder": {
+    "city": "Yoder",
+    "city_ascii": "Yoder",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.917,
+    "lng": -104.2955,
+    "cafes": []
+  },
+  "Fort Bridger": {
+    "city": "Fort Bridger",
+    "city_ascii": "Fort Bridger",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.3184,
+    "lng": -110.3894,
+    "cafes": []
+  },
+  "East Thermopolis": {
+    "city": "East Thermopolis",
+    "city_ascii": "East Thermopolis",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.6441,
+    "lng": -108.1979,
+    "cafes": []
+  },
+  "Farson": {
+    "city": "Farson",
+    "city_ascii": "Farson",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.1528,
+    "lng": -109.4283,
+    "cafes": []
+  },
+  "Washam": {
+    "city": "Washam",
+    "city_ascii": "Washam",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.0056,
+    "lng": -109.6992,
+    "cafes": []
+  },
+  "Deaver": {
+    "city": "Deaver",
+    "city_ascii": "Deaver",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.889,
+    "lng": -108.5961,
+    "cafes": []
+  },
+  "Freedom": {
+    "city": "Freedom",
+    "city_ascii": "Freedom",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.9854,
+    "lng": -111.0296,
+    "cafes": []
+  },
+  "Bairoil": {
+    "city": "Bairoil",
+    "city_ascii": "Bairoil",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.2372,
+    "lng": -107.5611,
+    "cafes": []
+  },
+  "Daniel": {
+    "city": "Daniel",
+    "city_ascii": "Daniel",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8657,
+    "lng": -110.0766,
+    "cafes": []
+  },
+  "Woods Landing-Jelm": {
+    "city": "Woods Landing-Jelm",
+    "city_ascii": "Woods Landing-Jelm",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.1014,
+    "lng": -106.0288,
+    "cafes": []
+  },
+  "Meadow Acres": {
+    "city": "Meadow Acres",
+    "city_ascii": "Meadow Acres",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8593,
+    "lng": -106.0953,
+    "cafes": []
+  },
+  "Urie": {
+    "city": "Urie",
+    "city_ascii": "Urie",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.3089,
+    "lng": -110.3351,
+    "cafes": []
+  },
+  "Crowheart": {
+    "city": "Crowheart",
+    "city_ascii": "Crowheart",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.3398,
+    "lng": -109.2298,
+    "cafes": []
+  },
+  "Garland": {
+    "city": "Garland",
+    "city_ascii": "Garland",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.7777,
+    "lng": -108.6542,
+    "cafes": []
+  },
+  "Taylor": {
+    "city": "Taylor",
+    "city_ascii": "Taylor",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.0692,
+    "lng": -110.9865,
+    "cafes": []
+  },
+  "Chugcreek": {
+    "city": "Chugcreek",
+    "city_ascii": "Chugcreek",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.0535,
+    "lng": -104.9079,
+    "cafes": []
+  },
+  "Ralston": {
+    "city": "Ralston",
+    "city_ascii": "Ralston",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.7085,
+    "lng": -108.8823,
+    "cafes": []
+  },
+  "Bessemer Bend": {
+    "city": "Bessemer Bend",
+    "city_ascii": "Bessemer Bend",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.7561,
+    "lng": -106.5176,
+    "cafes": []
+  },
+  "Westview Circle": {
+    "city": "Westview Circle",
+    "city_ascii": "Westview Circle",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.0605,
+    "lng": -105.0715,
+    "cafes": []
+  },
+  "Manderson": {
+    "city": "Manderson",
+    "city_ascii": "Manderson",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.2698,
+    "lng": -107.964,
+    "cafes": []
+  },
+  "Bondurant": {
+    "city": "Bondurant",
+    "city_ascii": "Bondurant",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.1948,
+    "lng": -110.4026,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.6871,
+    "lng": -110.9866,
+    "cafes": []
+  },
+  "Brookhurst": {
+    "city": "Brookhurst",
+    "city_ascii": "Brookhurst",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.8618,
+    "lng": -106.2272,
+    "cafes": []
+  },
+  "Osage": {
+    "city": "Osage",
+    "city_ascii": "Osage",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.9848,
+    "lng": -104.4269,
+    "cafes": []
+  },
+  "Elk Mountain": {
+    "city": "Elk Mountain",
+    "city_ascii": "Elk Mountain",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.6883,
+    "lng": -106.4134,
+    "cafes": []
+  },
+  "Alcova": {
+    "city": "Alcova",
+    "city_ascii": "Alcova",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.5543,
+    "lng": -106.7263,
+    "cafes": []
+  },
+  "Oakley": {
+    "city": "Oakley",
+    "city_ascii": "Oakley",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.751,
+    "lng": -110.5261,
+    "cafes": []
+  },
+  "Hartville": {
+    "city": "Hartville",
+    "city_ascii": "Hartville",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.3277,
+    "lng": -104.7245,
+    "cafes": []
+  },
+  "Robertson": {
+    "city": "Robertson",
+    "city_ascii": "Robertson",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.1816,
+    "lng": -110.4274,
+    "cafes": []
+  },
+  "Edgerton": {
+    "city": "Edgerton",
+    "city_ascii": "Edgerton",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.4134,
+    "lng": -106.2474,
+    "cafes": []
+  },
+  "Clearmont": {
+    "city": "Clearmont",
+    "city_ascii": "Clearmont",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.6397,
+    "lng": -106.3815,
+    "cafes": []
+  },
+  "Cora": {
+    "city": "Cora",
+    "city_ascii": "Cora",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.9576,
+    "lng": -109.9916,
+    "cafes": []
+  },
+  "Slater": {
+    "city": "Slater",
+    "city_ascii": "Slater",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.8776,
+    "lng": -104.7887,
+    "cafes": []
+  },
+  "Opal": {
+    "city": "Opal",
+    "city_ascii": "Opal",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.768,
+    "lng": -110.3242,
+    "cafes": []
+  },
+  "Hawk Springs": {
+    "city": "Hawk Springs",
+    "city_ascii": "Hawk Springs",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.7853,
+    "lng": -104.265,
+    "cafes": []
+  },
+  "Kirby": {
+    "city": "Kirby",
+    "city_ascii": "Kirby",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.8033,
+    "lng": -108.181,
+    "cafes": []
+  },
+  "Lakeview North": {
+    "city": "Lakeview North",
+    "city_ascii": "Lakeview North",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.0969,
+    "lng": -104.9586,
+    "cafes": []
+  },
+  "McKinnon": {
+    "city": "McKinnon",
+    "city_ascii": "McKinnon",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.0314,
+    "lng": -109.9384,
+    "cafes": []
+  },
+  "Whiting": {
+    "city": "Whiting",
+    "city_ascii": "Whiting",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.0089,
+    "lng": -104.9711,
+    "cafes": []
+  },
+  "Mammoth": {
+    "city": "Mammoth",
+    "city_ascii": "Mammoth",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.9733,
+    "lng": -110.6931,
+    "cafes": []
+  },
+  "Hillsdale": {
+    "city": "Hillsdale",
+    "city_ascii": "Hillsdale",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.2079,
+    "lng": -104.4744,
+    "cafes": []
+  },
+  "Lance Creek": {
+    "city": "Lance Creek",
+    "city_ascii": "Lance Creek",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.041,
+    "lng": -104.6626,
+    "cafes": []
+  },
+  "Hyattville": {
+    "city": "Hyattville",
+    "city_ascii": "Hyattville",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.2498,
+    "lng": -107.6148,
+    "cafes": []
+  },
+  "Arrowhead Springs": {
+    "city": "Arrowhead Springs",
+    "city_ascii": "Arrowhead Springs",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.5081,
+    "lng": -109.1551,
+    "cafes": []
+  },
+  "Esterbrook": {
+    "city": "Esterbrook",
+    "city_ascii": "Esterbrook",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.4062,
+    "lng": -105.3858,
+    "cafes": []
+  },
+  "Shell": {
+    "city": "Shell",
+    "city_ascii": "Shell",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.5346,
+    "lng": -107.7844,
+    "cafes": []
+  },
+  "Lonetree": {
+    "city": "Lonetree",
+    "city_ascii": "Lonetree",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.0273,
+    "lng": -110.1536,
+    "cafes": []
+  },
+  "Ryan Park": {
+    "city": "Ryan Park",
+    "city_ascii": "Ryan Park",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.3131,
+    "lng": -106.4896,
+    "cafes": []
+  },
+  "Riverside": {
+    "city": "Riverside",
+    "city_ascii": "Riverside",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.2154,
+    "lng": -106.7813,
+    "cafes": []
+  },
+  "Atlantic City": {
+    "city": "Atlantic City",
+    "city_ascii": "Atlantic City",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.5012,
+    "lng": -108.733,
+    "cafes": []
+  },
+  "Van Tassell": {
+    "city": "Van Tassell",
+    "city_ascii": "Van Tassell",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.6643,
+    "lng": -104.0913,
+    "cafes": []
+  },
+  "Orin": {
+    "city": "Orin",
+    "city_ascii": "Orin",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.6505,
+    "lng": -105.1826,
+    "cafes": []
+  },
+  "El Rancho": {
+    "city": "El Rancho",
+    "city_ascii": "El Rancho",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.268,
+    "lng": -105.0477,
+    "cafes": []
+  },
+  "Little America": {
+    "city": "Little America",
+    "city_ascii": "Little America",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.547,
+    "lng": -109.8642,
+    "cafes": []
+  },
+  "Fontenelle": {
+    "city": "Fontenelle",
+    "city_ascii": "Fontenelle",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.9973,
+    "lng": -110.0626,
+    "cafes": []
+  },
+  "Albany": {
+    "city": "Albany",
+    "city_ascii": "Albany",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.1869,
+    "lng": -106.1255,
+    "cafes": []
+  },
+  "Huntley": {
+    "city": "Huntley",
+    "city_ascii": "Huntley",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.9316,
+    "lng": -104.1439,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.6053,
+    "lng": -106.1997,
+    "cafes": []
+  },
+  "Point of Rocks": {
+    "city": "Point of Rocks",
+    "city_ascii": "Point of Rocks",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.6831,
+    "lng": -108.7755,
+    "cafes": []
+  },
+  "Arvada": {
+    "city": "Arvada",
+    "city_ascii": "Arvada",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.6621,
+    "lng": -106.1418,
+    "cafes": []
+  },
+  "Big Horn": {
+    "city": "Big Horn",
+    "city_ascii": "Big Horn",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.6791,
+    "lng": -106.9971,
+    "cafes": []
+  },
+  "Fox Park": {
+    "city": "Fox Park",
+    "city_ascii": "Fox Park",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.0801,
+    "lng": -106.1534,
+    "cafes": []
+  },
+  "Lost Springs": {
+    "city": "Lost Springs",
+    "city_ascii": "Lost Springs",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.7652,
+    "lng": -104.9255,
+    "cafes": []
+  },
+  "Owl Creek": {
+    "city": "Owl Creek",
+    "city_ascii": "Owl Creek",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.7819,
+    "lng": -108.5679,
+    "cafes": []
+  },
+  "Veteran": {
+    "city": "Veteran",
+    "city_ascii": "Veteran",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.9627,
+    "lng": -104.3862,
+    "cafes": []
+  },
+  "Boulder": {
+    "city": "Boulder",
+    "city_ascii": "Boulder",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.7461,
+    "lng": -109.7067,
+    "cafes": []
+  },
+  "Jeffrey City": {
+    "city": "Jeffrey City",
+    "city_ascii": "Jeffrey City",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 42.4809,
+    "lng": -107.8256,
+    "cafes": []
+  },
+  "Antelope Hills": {
+    "city": "Antelope Hills",
+    "city_ascii": "Antelope Hills",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.0813,
+    "lng": -106.3117,
+    "cafes": []
+  },
+  "Beulah": {
+    "city": "Beulah",
+    "city_ascii": "Beulah",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 44.546,
+    "lng": -104.0829,
+    "cafes": []
+  },
+  "Carpenter": {
+    "city": "Carpenter",
+    "city_ascii": "Carpenter",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.0456,
+    "lng": -104.3644,
+    "cafes": []
+  },
+  "Carter": {
+    "city": "Carter",
+    "city_ascii": "Carter",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.4405,
+    "lng": -110.4303,
+    "cafes": []
+  },
+  "Powder River": {
+    "city": "Powder River",
+    "city_ascii": "Powder River",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.0491,
+    "lng": -106.9932,
+    "cafes": []
+  },
+  "Etna": {
+    "city": "Etna",
+    "city_ascii": "Etna",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 43.0334,
+    "lng": -111.0129,
+    "cafes": []
+  },
+  "Table Rock": {
+    "city": "Table Rock",
+    "city_ascii": "Table Rock",
+    "state_id": "WY",
+    "state_name": "Wyoming",
+    "lat": 41.622,
+    "lng": -108.404,
+    "cafes": []
+  }
+}

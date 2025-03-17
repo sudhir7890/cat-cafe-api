@@ -1,0 +1,7227 @@
+{
+  "East Lansing": {
+    "city": "East Lansing",
+    "city_ascii": "East Lansing",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.748,
+    "lng": -84.4836,
+    "cafes": [
+      {
+        "name": "Constellation Cat Cafe",
+        "address": "3320 E Lake Lansing Rd, East Lansing, MI 48823, USA",
+        "rating": 4.8,
+        "user_ratings_total": 537,
+        "website": "https://www.constellationcatcafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=17957918879287953766",
+        "lat": 42.757480099999995,
+        "lng": -84.47475949999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Chelsea Schafer",
+            "rating": 5,
+            "text": {
+              "text": "Our kids love to visit the cat cafe. Helps the sweet cats find homes and is such a calm thing to do for an hour. Excited to see their new location when it’s ready!",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Holly Hemminger",
+            "rating": 5,
+            "text": {
+              "text": "Laid back place! I had an everything bagel & maple iced coffee with sweet foam! Super good! I loved all the cats and got to see so many different cat personalities, breeds, sizes and ages!!! If you’re obsessed with cats and want a coffee and a  decompressing place - go here!!!!! I’d rate 10/10 stars if I could! Also super cute gift shop area!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Cimbery Kish",
+            "rating": 5,
+            "text": {
+              "text": "Constellation Cat Cafe is a place I recommend people go to if you adore cats & love sweet drinks! The cats there are all well socialized and friendly. The environment has a very cute aesthetic. The place is extremely well taken care of. The staff makes sure to clean everything thoroughly. They keep the cats and the coffee area separated for food safety. All the cats are well taken care of and provided with so many areas to play & rest at. Super easy to lose track of time here with how peaceful it is. There are plenty of tables and chairs to sit at, even some couches. By the front entrance, there’s a bunch of art you’re able to purchase for example stickers, bags, shirts, water bottles, and so on.",
+              "languageCode": "en"
+            },
+            "time": "9 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3A9Tf1_f5Ex5trrzp550gDweS2gzRixkT1tRscWhQXPDODBCerIPAoBXaWAKfqDeIaJXOJZZ9UrCh4BlHxDDym9GEJg9gsQR6s_E3f2ztat_4Z8U3yA7RgP4BkBVp273Ol1oEiU-mtNi_-TjuzdkL1rStjS7CMi0ZPLEAVZM6wkhEAk04jas7__E7KhqnyDFn6D9-rj0OSEHmAfJGfNP8_TgckKtcCQDu67xD0ZT9f2tX8Bj1ShA4vDHGNSLEiYYINakoVMYkXonvDXIUZZYsN0HCDFnPdKHBgx6Kv1LmayA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Sanford": {
+    "city": "Sanford",
+    "city_ascii": "Sanford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6777,
+    "lng": -84.3803,
+    "cafes": [
+      {
+        "name": "Cozy Cats Cafe",
+        "address": "330 Saginaw Rd, Sanford, MI 48657, USA",
+        "rating": 4.9,
+        "user_ratings_total": 94,
+        "website": "https://www.cozycatscafe.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=14151077934919367498",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=6263081527141040022",
+        "lat": 43.6661912,
+        "lng": -84.3564712,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Novalee K",
+            "rating": 5,
+            "text": {
+              "text": "This place is just so incredible!! Everything from the drinks to the cats to the people are just amazing and so welcoming. They have the best popping boba drinks I've ever had, and the kitties are so sweet and friendly! 🐈The woman working here is very kind and thoughtful, and she immediately made me and my entire family feel safe and welcomed. This cat cafe is really a must visit!! ♥️♥️♥️",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "nutella wizard",
+            "rating": 5,
+            "text": {
+              "text": "I've come here as a customer and as a volunteer multiple times, and I have never been let down by Crystal and her staff/other volunteers. They're all so kind and ready help, even when I showed up to volunteer having no experience and not knowing what to do. Some of my family even adopted a cat from here, and the lengths Crystal went through to ensure Alaska (the cat :]) went to a good home was phenomenal. I only wish I could be of more help, honestly. The place is always clean, and I like to help preserve that with volunteering, but nonetheless it's always a beautiful place to walk into. If I could rate this place a million stars I would. Love you Cozy Cats 💖\n\nEdit: Crystal if you see this, this is Skyler. Didn't realize I was posting using this account LOL.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Terrance Behrens",
+            "rating": 5,
+            "text": {
+              "text": "This place is HEAVEN!!!!! My partner and I went to hang out with the cats because my mother is allergic and we can't have a furry friend of our own right now!!! This is the perfect place for people either who can't bring a cat home but still adore them, or if you're looking to adopt!!!! Our favorite was Panda, they 5 year old tuxedo he was very calm and chill. and a black kitten named Pantera, he was so playful and sweet!! Cookie Monster, the white and mixed tabby, was also so sweet as well. We will definetley be back for more playtime with the sweet fluff balls :)))",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ29Vi5Fvh4x-6J31-8JQMIshZD0CVpgrMQtsA0LTUF5ZGgBb_nbWtrRm7b5O-qcjgW3nGf-40F0zqbPnWB-RqKv1c3O2dTPvuckW8cKezk259sSboLEfDc4vCreu-XCyyasrSR9GK0fzl6ssnapIvDXgDQXgyliSp2BOeqce4a4G64ETdBTSI1MXix_P2bPw0KMe6573mEVGj0LG6x70_vxvXGl47dv0O7-UaZS_E0vnnK4lP4yknU8X1DAGWI59yn3drf0mSykYhARPA1IbcGfkC23Z3DqgrKCCXNXdZ8ApKIpesNasYYin1ikk90QVWwsSu-Ud-38WD_TbpnfUWrnxYwH8rdAZkkIl1_ekqdvrURts3ca6lw94zJ75sUnJDhHBUHLbxiK9AYAKWZEHRaoRYixid0R2_oH&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Ferndale": {
+    "city": "Ferndale",
+    "city_ascii": "Ferndale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4592,
+    "lng": -83.1313,
+    "cafes": [
+      {
+        "name": "Catfé Lounge",
+        "address": "686 Livernois, Ferndale, MI 48220, USA",
+        "rating": 4.4,
+        "user_ratings_total": 586,
+        "website": "http://catfelounge.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=15844029338173209064",
+        "lat": 42.451894499999995,
+        "lng": -83.1423032,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Savannah Chris",
+            "rating": 5,
+            "text": {
+              "text": "It was a fun experience. The volunteers were very polite and told us which 3 cats we shouldn’t touch and the cats were on top of the cages. We went at 4 pm and the cats didn’t start warming up to us until a half hour or so. They were so cute. There was a total of 25 cats. A lot of them were sleeping or didn’t want to be bothered. The concept is cool. It definitely nice experience to hangout with cats for an hour. A total of 15 people can be in at time. I made an appointment online. There’s coffee and baked goods you can have and two restrooms in the waiting area.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Jennifer Vincent",
+            "rating": 5,
+            "text": {
+              "text": "I have been a volunteer here for almost 5 years.  They are a wonderful community resource and rescue for our feline friends.  If you haven’t visited before now is the time!  Whether it is just to hang out with cats, adopt a furry friend, foster or volunteer you can’t go wrong with the Ferndale Cat Shelter and Catfé !",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Julia Hellquist",
+            "rating": 1,
+            "text": {
+              "text": "!!!I was given sick cats to foster to adopt!!!\n!!!I was not told they were sick until pickup!!!\n\nI went through an emotional rollercoaster trying to adopt from this catfe\n\nI went multiple times to visit the cats, spending money every time. Then once I found 2 cats I loved I moved to foster to adopt. I was set to foster to adopt about a month out, starting December 30th.\n\nLong story short - I was given sick cats, and I wasn't told they were sick until I picked them up. I was given medicine, and I treated them as needed for two weeks until January 12th. After two weeks the ringworm from one cat transferred to another. I could tell this because the hair was missing on her ear.\n\nI reached out for help because I was not told that I would be given sick cats.\n\nI was then told that if I do not take care of the sick cats, I will not be able to adopt them.\n\nThis was the craziest experience I've ever gone through. They were very unorganized, and thought that I adopted the cats. I found this out once they had me sign surrender papers, which confused me.\n\nIf you do adopt from this catfe I suggest fostering to adopt to ensure that you aren't given sick cats.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3i81GCWAAi-9jSL_7A8MiEGe7zeSOv_Dhl7R53yLHaJxZbE5EKylKvMI3e0x4W3E2Z5h3foCvIGj_N48Y8u0SpXu18GkpXXXbAimEehDpZLEY1TAhEIklVMMJAnFgK-TyeaDbwNJgYCh0NFEEsnO3eEsmQ7k5qtrsGQulTiinvDC03xf-JBGUYzSsReVXZz5kI05nWX7vWfyDoisjkwu3-qdACOiNx6HCP0_qfl5GFTc7fp4lkFpDa5fqfNCmsVm6A4c9sgHx45wUTQH-Hz8_mSt6RuECxBAD9lt0QMOHmQQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Unknown City": [
+    {
+      "name": "Black Cat Beanery",
+      "address": "1192 S Lapeer Rd, Orion Twp, MI 48360, USA",
+      "rating": 4.9,
+      "user_ratings_total": 112,
+      "website": "https://www.blackcatbeanery.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=4206959727335682529",
+      "lat": 42.764823299999996,
+      "lng": -83.24289089999999,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      },
+      "reviews": [
+        {
+          "author": "Unique Pethick",
+          "rating": 5,
+          "text": {
+            "text": "bcb is such an amazing place to go and this is your sign to visit if you’ve never been!\n\ni’ve been coming here regularly for about two months now, and it’s so clear how much the staff cares about these sweet cats, and how well taken care of they are. the staff (made of mostly volunteers) are always willing to answer any questions you might have - and the owners are clearly super passionate and care about these cats and getting them into new homes! unlike other cat cafes, this one doesn’t smell, the cats have super distinct personalities, AND they have adult-only wednesday nights (highly recommend if u like dim lighting, seeing sleepy kitties, and avoiding loud noises). overall, bcb is amazing, they’re constantly rotating new cats in as the current ones get adopted to their new homes, so there’s always someone new to see, and they’re constantly offering activities with the kitties as well, so there’s always something new to do!\n\nBTW you can sponsor a cat for $25 a month if you don’t have the means to adopt - shout out my boy pogo!\n\nTLDR: bcb rules - go visit them asap and pet brock for me!!",
+            "languageCode": "en"
+          },
+          "time": "3 weeks ago"
+        },
+        {
+          "author": "Nicole Torres",
+          "rating": 5,
+          "text": {
+            "text": "I can't say enough good things about this place! The setup is really well done - lots of toys and cool fixtures for the cats, plenty of places to sit (for humans and cats alike), and a variety of ways to interact. The cats are largely social and playful with lots of options for them to be admired from afar when they need a break. We had my daughter's tenth birthday here and one of her friends commented on how many cats get adopted and then a shelter kitty takes its place. She said, \"So when you adopt a cat from here, it's like you're really saving two.\"",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        },
+        {
+          "author": "Steven Britt",
+          "rating": 5,
+          "text": {
+            "text": "My family and I had a great time at the Black Cat Beanery today. The cats provide endless entertainment and have so many different toys, ledges, and items to explore while you interact with them. They had 15 available cats today in a super clean and fun environment. It is different than we expected because the snacks/drinks are in a separate area due to health code reasons but  you come for the STARS - all the cats.  Check it out and help the great organization finding homes for cats - they’re up to almost 100 adopted as of today.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3HOpLIzuulIfJTPzzMIfZxO3y4q4q9XDdq8F4HvV4lVVwAIs-C0fio2IHq_qcKzQwk6Xcqi6rtXZMu7LIgzD1cPilelPhK4dWP6-CUy59w3U9KZlUePeR-S8teSRVlSJZBZzVFH7joz2xCd_hg1gL2hC5UBf8wBlQmMS3U0ynSApY_ji49xqfZAzvl9iaBDGlTogccnEI8Lzr9Q1sIgFrxM0Zu5arBvchiEFEDGIdBvqI7TKONN4SLb5cGmcsHP3_2uCvxNgNyyeJxLWfkjVdYcOwQbkaaoRgEgobhnouXlA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Grand Rapids": {
+    "city": "Grand Rapids",
+    "city_ascii": "Grand Rapids",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9619,
+    "lng": -85.6562,
+    "cafes": [
+      {
+        "name": "Happy Cat Cafe",
+        "address": "447 Division Ave S, Grand Rapids, MI 49503, USA",
+        "rating": 4.7,
+        "user_ratings_total": 661,
+        "website": "http://www.happycatgr.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=18018369594202579371",
+        "lat": 42.9545611,
+        "lng": -85.6678139,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Lola Wallace",
+            "rating": 5,
+            "text": {
+              "text": "This is genuinely one of the coolest places I've ever visited! The cats were so friendly and sweet. The barista was super friendly when she was answering my questions. The cats were very well cared for and they had plenty of spaces to curl up in when they didn't want to hang out with people. The latte I got was so good! It had amazing flavor and was exactly as described on the menu! I would definitely recommend coming here if you love cats! 🐱🐈",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Red Cats",
+            "rating": 5,
+            "text": {
+              "text": "I love it here! I've been a few times over the years, I came back again last week. The kitties are so cute! Ray is a sweetheart, love that furry fella. Everytime I went, I had a great time playing with the kitties. I always get hot chocolate when I go here, so yummy! Lovely experience, I'd recommend this to anyone who loves kitties nearly as much as I do",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Aaron Lehrman",
+            "rating": 5,
+            "text": {
+              "text": "Everything cats and also some coffee.\n\nIMPORTANT: Entrance is in the back (west side of the building).\n\n- Cotton Kitty - $6.50: A VERY flavor-filled juice and pop mixed beverage.  The cotton candy taste is not too dominant, but is a great balance.  The lemon and Sprite is a bit more of a nuance.  It has a bit of a kick with something, but I could not place it.  My daughter was super thrilled with the sparkles (I did not get a picture, sorry).\n\nThey do serve hot chocolate and white chocolate mocha.  They have other drinks including Red Bull, Izze, Mott’s apple juice, Faygo, Moon Mist, Sprite, Coca-Cola, Diet, bottled water, and more.  They also have nuts, chocolate candies, chips, muffins, edible straws, candy, soup, and more.  Looks like they’ve expanded a lot of their stock over their existence.\n\nThere are tables and chairs to sit at in the cafe as well as in the cat room.\n\n- Service: Super friendly and cheerful.  Answered all our questions.\n\n- Atmosphere: Everything cats!  What do you expect?  They have cat gear including collars, dishes, catnip, medicines, health, toys, collar bandanas, carriers, tents/caves, and so much more.  They also have books, games, stuffed animals, mugs, keychains, towels, socks, birthday cards, shirts,bags, stickers, and anything they can find with cats.  You’ll find common cat themes like Hello Kitty as well.  There is plenty of cat artwork, too.\n\nThe cafe and shop is open anytime without reservation, but the cat room is by reservation only, though if they are not busy, they can still get you in.  The cat room is separate from the cafe and shop.  You enter through a small staging room (you are supposed to use hand sanitizer here before and after).  A lot of people were bringing their drinks into the room.\n\nWe did not enter, but watched through the big picture window.  The cats seemed to be overly stimulated and not interested in playing much when we were there, but there were a LOT of people trying to interact with them.  None of them seemed grumpy or aggressive, though.  Just lazy.  Again, weekdays will probably be best.\n\nThey have helped facilitate the adoption of almost a thousand cats (937 according to the bead jar pictured).  We saw between five and seven cats when looking in.  I’m guessing there are probably more hiding, though.\n\nAlso, follow the posted rules.  This includes being sanitary, keep kids supervised, only pick up cats when seated (and stay seated), avoid sudden movements and noises, read body language of cats, don’t reach into tunnels (they can bite), no human food/drinks for cats, only staff can access storage, etc.\n\n- Conclusion: It’s a total cat place.  If that is your thing, you will dig this place hook, line, and sinker for sure.\n\nIf you are interested in adopting, visit on a weekday.  If you come on a weekend, expect to make a reservation.\n\nVisited on a Saturday at 3pm.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1V-hGY9v-p7ckZEN8l8kGARRNCuDRitawbYKadXU8zZo3HawoTQ4cF94NNl3dJBLH-6-s-ms-dKekj6BJJC-nnUsWfrP2clmFODPQd4f06z1AL5ufxX9yYzaGu4Gx_Y9xXaJg6QRTR_BYbcnCNF2SMIQbmcdDVgV3-hScgIZKpVKU8R-n8A5gTCTpZ2H0L0sGlflaqmcKw0Qke6zTfXxHnTgN4XqFbjvJUR7mS7Jt9Rn5PQA2NG-ezgGLFdKOWRvxWfgRFe_Iex6nbedsjMRH55QeRCJhFXMsNulBt4_bgQA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Garden City": {
+    "city": "Garden City",
+    "city_ascii": "Garden City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3244,
+    "lng": -83.3412,
+    "cafes": [
+      {
+        "name": "Malu Cat Cafe",
+        "address": "29552 Ford Rd, Garden City, MI 48135, USA",
+        "rating": 4.3,
+        "user_ratings_total": 129,
+        "website": "http://www.malucatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=13237183357857831386",
+        "lat": 42.325980099999995,
+        "lng": -83.3332619,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Jonah Carl",
+            "rating": 5,
+            "text": {
+              "text": "Loads of fun playing and snuggling with all the different cats. They were all friendly. They loved the spoon fed treats, so I would recommend grabbing a couple of those. The coffee was really good as well!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Jen K",
+            "rating": 5,
+            "text": {
+              "text": "We went to Malu Cat Cafe for the first time today and had a great time! I don’t understand all of the bad reviews. Me and my two young boys went. The cats were healthy and seemed happy and well cared for. There were not any areas “blocked off” to them. They were not shaking or hiding. They all seemed very well adjusted. When we first arrived all but one cat was sleeping. A little kitten followed us around and was very friendly and playful. After 15 minutes a lot of the cats started to wake up. Some wandered around and let visitors pet and play with them. There were several kittens that were very active and friendly. The cafe and cat area was clean. There were toys and brushes for the cats. Some reviews said the cats acted like they had been starving when given treats. I have had cats my whole life. Most cats love treats and devour them. I found no evidence of any mistreatment or stress in the cats. If I did I would e the first to report it. Many of the cats were available for adoption. This is a wonderful place and we can’t wait to return!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Ivory Chanady",
+            "rating": 5,
+            "text": {
+              "text": "Just came here for my Aunt’s birthday. Expectations completely exceeded. The staff were lovely. They even brought us our drinks while we were all enamored with the kitties. Not expensive at all. They have a great variety of cats, most of which are very social! The kitties that were sleeping were just peacefully snoozing away. A few cats even came to sit on my lap. They look healthy with the softest of coats. Absolutely would recommend and come here again. They have a great thing going here! 🫶🏻",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0EVyjeVOF1jo1kO0Mx3n4R_VdgihxYb1LNBf9hMACjpw8IQMn1OLvGN6kjGXF8Vic-ERANcyxNqI5rgi1E1LLMdUZLmhB-CpBjLTyg6-vWEqDD8wZujFKqseFXZvC9Uf-VskqPrO8fWpJr9LV98JheOMeuRdyy1w7D_Jhh2RQ01e1g2q0HeZwIPKa4wYBY88f1-JNrAcXIhqWd7QI7s8Y2PUWSrQoaGiMgaKAYadM-ahHW6NLYX6U-p_k1PtG9_Y_H7jeT0AxOeAKvEf0sBPH566RYkTqvoOz40J-bIVl2Lq6HCgmks6ymGhi3ujw4CTvUFoKqOhxe7biBZlvjDlYp15sNew2KKRjqbnixg8_2AcwOl5YaJrbHwh-cYc9FgOO5s945VzGno3lNmf7v9EVFU9jrYRjlEHcz&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Farmington Hills": {
+    "city": "Farmington Hills",
+    "city_ascii": "Farmington Hills",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.486,
+    "lng": -83.3771,
+    "cafes": [
+      {
+        "name": "Avocato Catfé and Adoption Center",
+        "address": "38437 Grand River Ave, Farmington Hills, MI 48335, USA",
+        "rating": 4.4,
+        "user_ratings_total": 37,
+        "website": "https://www.avocato.org/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1915308402527166301",
+        "lat": 42.4692734,
+        "lng": -83.4262675,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Steph Ruff",
+            "rating": 5,
+            "text": {
+              "text": "Had an amazing experience at the Avocato Catfé! While we didn’t get food or drinks I enjoyed an amazing time just chilling with cats. The kittens had their own room where they could play while the adult cats roamed, choosing who to play or get pets from. Volunteers were kind and very informative, helping individuals and families even when there were technical difficulties. Look forward to going again.",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          },
+          {
+            "author": "Albert Futrell",
+            "rating": 5,
+            "text": {
+              "text": "I had a great time the staff and volunteers were very friendly. The set up is nice and cozy for both the visitors and the cats. I know where I will be adopting my cat(s) from in the near future.",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          },
+          {
+            "author": "Danielle Woods",
+            "rating": 5,
+            "text": {
+              "text": "Fabulous, fun, and clean cat cafe! All of the cats seem very happy and comfortable in the environment and it's a great place to spend time with adoptable kitties. There's even a kitten room with several adorable kittens who run around and play like crazy - they're so fun to watch!\n\nThere's many vegan snacks available to purchase and a great selection of coffees and teas to enjoy while visiting with the cats.  I highly recommend visiting Avocato Catfe and supporting this wonderful organization. It's a great place to adopt a cat and/ or kitten, as well if you're looking!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0rT4_S9NXedUXxC_eDxX3kW4QuTAbyDRDtOt-259u2J9i9IWSKSDF2S58VoynFiNH-Hy5-iAZrELmWo8gYoYQAjipe2gcTieyr0_kOZTs8ZkcRrjQRgDGPdNUhpC3sg8Wd75pJ1WVP4IdM5HNSAP3g7TthnA_zj453UI_CydxhEhOeMUvHafMPtrG94sqOYTH8TFAzVM23kyM89FdCQHFDpcM9mEkbb_mBu7Tx80KzvL_ORnDakXL2KsgGwvwBuRmjwRuzjlp6bY3G6OYGcb7ngGB-SNsSJTVvdMm9s91TPQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Kalamazoo": {
+    "city": "Kalamazoo",
+    "city_ascii": "Kalamazoo",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2749,
+    "lng": -85.5882,
+    "cafes": [
+      {
+        "name": "Kzoo Cat Cafe and Rescue",
+        "address": "4221 S Westnedge Ave, Kalamazoo, MI 49008, USA",
+        "rating": 4.4,
+        "user_ratings_total": 383,
+        "website": "http://www.kzoocatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=2592994276037730301",
+        "lat": 42.2487607,
+        "lng": -85.5892381,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Elissa Kerr",
+            "rating": 4,
+            "text": {
+              "text": "I recently visited the Cat Cafe, and overall, we had a great time! It's important to note (for those who have never been) that this isn't a cafe in the traditional sense—there's no freshly prepared food, just prepackaged and sealed snacks. This wasn't an issue for us since we mainly came to enjoy the company of the cats, and in that regard, the cafe did not disappoint. The cats were friendly, playful, and clearly well cared for, making our visit a delightful experience.\n\nHowever, one hiccup we encountered was a last-minute request to change our appointment time due to overbooking. While this worked out fine for us, I can see how it could be inconvenient for others who may have stricter schedules.\n\nDespite this minor issue, we enjoyed our time there and would recommend it to any cat lover looking for a cozy place to unwind and spend time with some adorable felines.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Sofia A",
+            "rating": 4,
+            "text": {
+              "text": "Lovely staff and lovely kitties, only down side was that our appointment ended up being with some younger kids who stole toys I was using out of my hand because a cat they wanted to play with was with me and when a cat sat on my lap they got excited and started getting in the kitties face with a toy making him run off and even one time wrapping a slinky around a cat's neck when it was sleeping and the parents did not seem to say anything to their behavior. Of course I understand that other people are also there to play with the kitties but it was unfortunate that when a cat would start becoming friendly with me, a kid would come and take my toy to play with the cat I was instead of the other cats who were also awake and playful. Otherwise, the cats and staff were very nice and I loved getting to play with QTip and Sardine and hope to come back.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Shirley Nash",
+            "rating": 5,
+            "text": {
+              "text": "I cannot express to you what a wonderful experience I had at the Kzoo Cat Cafe.  It was the best $15 I have spent all year!  Kitties glore to lavish attention on!  It will be the best $15 you have spent in a LONG time!  Simply heartwarming!",
+              "languageCode": "en"
+            },
+            "time": "11 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0qAINY3lOYX2yNc6zHhYY5pdRW8mT1iLC9KTVPNfKxO3Wdc0-rW00BEsP54_u-W-M7Df3FAnGWdSIZcVzU8_frQy0QkhuComB3Iz8vrMWp_-xAHP4vNYRVbXo_P6u6qZG0cE1MFRPXy1FzpOO_REzbNCBSQc2z5PN7hgjdYgPzQKol9wskLka5LI4B7crN6Jv7CfSqIzGQ4IQTPQt1tw6127KHy0T4gfbfSYjwtd7iQXTO-PrsTB7LKPcdYdWmk95wOCguKmaoCkwRWNL4oCob3mUQu1V_oHyM9mjNOKl5GuYEVbRek74LbXySN685_o-EjzjuMuPKqR0tZ-nUkpjCSal1X1u-Zw8Kh_S-JxIFswa1GIZALoZOY2InxZuTtxDtkBBzgKzKYzpsvj9TmAg4HEp3gICyLg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Wayland": {
+    "city": "Wayland",
+    "city_ascii": "Wayland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6725,
+    "lng": -85.6408,
+    "cafes": [
+      {
+        "name": "The Catz Den with Country Cat Lady",
+        "address": "120 S Main St, Wayland, MI 49348, USA",
+        "rating": 4.9,
+        "user_ratings_total": 28,
+        "website": "https://countrycatlady.org/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=9369887133077920098",
+        "lat": 42.673393,
+        "lng": -85.6434853,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Erica Tufts",
+            "rating": 5,
+            "text": {
+              "text": "This place is amazing! Beautiful area, donate and cuddle some extremely sweet kitties, what more could you want!?",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Jim “James The Humble” W.",
+            "rating": 5,
+            "text": {
+              "text": "We a pair of litter mates, Maisie and Blue Moon, from the Country Cat Lady.  She choose the pair based on what she saw in my wife and me. Great match!  They came nurtured, spade and house broken.",
+              "languageCode": "en"
+            },
+            "time": "4 years ago"
+          },
+          {
+            "author": "Jasmine Jelsema",
+            "rating": 5,
+            "text": {
+              "text": "Nestled in Waylands community lies The Catz Den, a haven of warmth and camaraderie where guests are greeted with open arms and the gentle purring of feline companions. From petting cats for a suggested donation to crafting, snacking, and playing games, every moment at The Catz Den is filled with joy and connection. It's a place where guests feel not just welcome but cherished, leaving with hearts full of gratitude and memories to treasure. For those seeking solace, companionship, and the gentle embrace of whiskered friends, The Catz Den is an absolute must-visit.",
+              "languageCode": "en"
+            },
+            "time": "11 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2UVPWcM1ZNBkQAfLWzADaRvXP_JDMSy84oo3oZiK6b4P8exVxPp5TjcrZWhXAfnarb06NU6GeeYsYLzk4q4eeQSl0qCqzVBHbLTCtJTwBzZgD4mHD0McK5S-rnnYYIShf3MFrGQvX5Q71eEaiBZvN3lRRUxBn0C_aS-2Tmzi4GM1gmrRn6L8wGJN0D0vVapfBXkXymzhm30JUXfST9waAETLfkTT59juntmLrb0qvFQMRQMk2FR_wnEm6-Tyap0pQbJMujDS4RaEj6Ew4KPBfTtO3Vsl_qwH7Ut31KfqebRwU0HNjABBHoyijEf2Fn0QT9Tit1IMEKylbS66EBslf7EDNvvcCC5Qm8dFT2UTy9Db6ab-KycngjL80DBJ7GyfswDv3fyonaymQVnw3B2r58fHwy0azr&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Clawson": {
+    "city": "Clawson",
+    "city_ascii": "Clawson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5367,
+    "lng": -83.1504,
+    "cafes": [
+      {
+        "name": "Three Cats [at Leon & Lulu]",
+        "address": "116 W 14 Mile Rd, Clawson, MI 48017, USA",
+        "rating": 4.5,
+        "user_ratings_total": 689,
+        "website": "http://threecatscafe.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=4010278053573273418",
+        "lat": 42.5338018,
+        "lng": -83.1484708,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Morgan Behrens",
+            "rating": 5,
+            "text": {
+              "text": "My family hails from Virginia, but we're currently enjoying some time in Detroit! We had planned to check out another restaurant, but when we saw the long line and how cramped it was, we decided to switch things up. Our family of four was getting pretty hangry, so I quickly searched for nearby food and, to our surprise, discovered an even better spot!\n\nThree Cats is such a unique place! It's a transformed old movie theater that beautifully combines mid-century modern design with eclectic charm. From the fun, hand-stamped menus to the stunning logo that cleverly uses negative space, everything about it was just delightful. The atmosphere was so inviting!\n\nAs someone with a mobility disability, I really appreciated how kind and accommodating everyone was. To my surprise, the entire space was wheelchair accessible! There was plenty of room between tables, and it was easy to move around with a walker or have a service animal curl up beside us. The staff was wonderfully respectful of my family's various needs, ensuring everyone felt welcome and well taken care of.\n\nOur waitress, SJ (Sarah Jane), was an absolute gem! I can't recommend her enough! Her passion for the menu and the genuine excitement she brought to our discussions about the food, ambiance, and service made our experience even better. She was so knowledgeable, sharing backstories and giving us a behind-the-scenes look at how the dishes were prepared. Plus, she had fantastic recommendations when we were having trouble deciding what to order.\n\nSome of our favorite dishes included the mushroom soup, quiche, double chocolate muffin, chicken and waffles, and the delightful cattail mocktails called The Nancy Drew. Everything was just fabulous!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Zophael Ray",
+            "rating": 5,
+            "text": {
+              "text": "We didn’t have a reservation,  it they were very accommodating. We got a great seat by the bar and the food was excellent. Everyone was so friendly. Definitely recommend this brunch spot.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Alex Temple",
+            "rating": 3,
+            "text": {
+              "text": "Came here for brunch with a bigger party (7). The atmosphere is wild and very eclectic. We had a reservation but still had to wait 20 minutes. Then, the server was all over the place. Every cocktail he served was spilled all over the glass and table, water was splashed on the table with each pour, and for the coffee, I can only describe it as being poured aggressively. Food went both ways. My wife's crab cakes were quite good, while my hash was pretty bland. Comments around the table were similar, with one dish being good and the other just fine. My favorite part was the Marie Antoinette cocktail. That was tasty! Everything else I could take or leave.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ18hfapOFhkyU9VI5xCTEjOpfqTl7U8dyiW-aTiCIXsi8VnqAoyEUMdPRJxy4Qembeq7wG9npshJkxNNmzxo30RvldWcE71rvoKRXL4WC_EhdYzpgEdJudGp2ZXRUHSAHVUU-e0mz6ngti_f9d83iiJzA8VNkEJbdRvS1bzcW11wPPjLRKGDPxTa83QbjFVHLL-W2GU6U6EYetzLls9mfSHmvwWqTlyYUR7fEcJUixmk9HfADJFQo-GlfVGMSY0-wq9LKvf2ju4eI322JRRSQ5A7DNhSF2OEUm8Gi6ua8KKuw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Pontiac": {
+    "city": "Pontiac",
+    "city_ascii": "Pontiac",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6493,
+    "lng": -83.2878,
+    "cafes": [
+      {
+        "name": "Alley Cat Cafe",
+        "address": "31 N Saginaw St, Pontiac, MI 48342, USA",
+        "rating": 4.7,
+        "user_ratings_total": 321,
+        "website": "http://alleycatcafepontiac.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=17645435210366992469",
+        "lat": 42.6377488,
+        "lng": -83.29252819999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Sanna Hayes",
+            "rating": 5,
+            "text": {
+              "text": "Such a cool place. The bar tender was the best, super friendly and fun. The crab cakes were the best I’ve had in Michigan! The cocktails were strong but yummy! The bar tender gave us a tour of the place and was telling us how the basement is haunted. This place is connected to a coffee shop that’s open during the day which is also good and worth trying. You can have a small event here too.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Tracy Bennett",
+            "rating": 5,
+            "text": {
+              "text": "The food is fantastic, the staff is great and the music was even better!! Highly recommend 5/5. We will be back!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Nicholas Ramon",
+            "rating": 5,
+            "text": {
+              "text": "Went to a private event here in the lower level, couldn’t have had a better experience. The space is perfect and inviting, the food was excellent, and had a very nice selection of drinks with an excellent bartender. The owners and workers care about your time here, definitely check it out!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3gSggDGVsdAQsFb_ZmO1AoRiMKbAeiW1YX8ctwkL8glLyEBp-FZfReSKYGap0i_mHjFCpdMGrEXBprdWUgHnh4qUxD607l7xSZKOa4dlJ_tJaM6VlvD89KJmvFw1-bzEWmqBWk4aWlj8eWpbdgvsfA2eczK8BDpy4KCmQzTXKuxIbRJMH90dOchRHG_qRXwALHaSnIssGnSQ7SOi3AFbdtUrJEqXFzE4qxerHA0O7jKYaoRpwkcdHUyyS3fBZOlxd_LB0skNFhMPiWX3OKezmJ0Jlm0JdkV2pusaLTc_yzhw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Mount Pleasant": {
+    "city": "Mount Pleasant",
+    "city_ascii": "Mount Pleasant",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5966,
+    "lng": -84.7759,
+    "cafes": [
+      {
+        "name": "Karma Kat Cafe & Rescue",
+        "address": "612 E Broadway St, Mt Pleasant, MI 48858, USA",
+        "rating": 4.8,
+        "user_ratings_total": 374,
+        "website": "http://www.karmakatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1367935364689111661",
+        "lat": 43.604385,
+        "lng": -84.7699927,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Martina Sykes",
+            "rating": 5,
+            "text": {
+              "text": "The most amazing rescue. Social beautiful cats looking for their forever homes. This allows you to see personality, and fall in love. I cannot recommend this place enough. It's even a great stop in just in town and looking for an activity. If you live cats...you will LOVE this place!!!!!!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Amanda Wall",
+            "rating": 5,
+            "text": {
+              "text": "Ever wanted to be surrounded by lots of loving kitties all at once? This is the place to be. Great volunteer experience too - you get to hang with the kitties for free after and they love attention when you first get there.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Sara Anne",
+            "rating": 5,
+            "text": {
+              "text": "Visiting this cat cafe has been an incredibly heartwarming experience. Mystie and her team of volunteers are true heroes. Their dedication to rescuing and caring for cats is extraordinary. They provide a safe and loving environment, giving these cats a second chance at life.\nThe cafe itself is cozy and welcoming. You can feel the love and care that goes into every aspect of the cafe, from the cleanliness to the well-being of the cats.\n\nIt's baffling to see any negative reviews. Those individuals clearly don’t understand how cats are or the effort it takes to run such a compassionate business. Mystie and her team go above and beyond, not just in caring for the cats, but also in educating the public about cat care and adoption.\n\nIf you're looking for a place to donate or visit, this cat cafe should be at the top of your list. The work they do is inspiring, and every visit helps support their mission. :)",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1_esKC2iDOdUqNO8JfwZhlFxmEDsCKar7ULV2HuQNxxF3c4Qti58LcnIz6ueSe9YuPgsFVLBxo9U9vIYIBd4ON3mct8N5YXdB_TzYPP9KldyBW2lJJv8aqhXzjiGOdA3SDiScZOJww_F6SStHo0BnSkgcTXhJgh0ySs0myW6XtQq1DPidObjwFwSSWz4IuMd8kr4jM2ggWck-PSsCuebWzsBnDnBaniABrB2TMcsC84E2vlhlp-ZKfIzjlMkMs5wurxKJEeLGtfwORlc6vs2W3wxhqaloDHmjyyFbUGKE2mw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Detroit": {
+    "city": "Detroit",
+    "city_ascii": "Detroit",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3834,
+    "lng": -83.1024,
+    "cafes": []
+  },
+  "Lansing": {
+    "city": "Lansing",
+    "city_ascii": "Lansing",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7142,
+    "lng": -84.5601,
+    "cafes": []
+  },
+  "Ann Arbor": {
+    "city": "Ann Arbor",
+    "city_ascii": "Ann Arbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2759,
+    "lng": -83.731,
+    "cafes": []
+  },
+  "Flint": {
+    "city": "Flint",
+    "city_ascii": "Flint",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0236,
+    "lng": -83.6921,
+    "cafes": []
+  },
+  "Muskegon": {
+    "city": "Muskegon",
+    "city_ascii": "Muskegon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2281,
+    "lng": -86.2562,
+    "cafes": []
+  },
+  "South Lyon": {
+    "city": "South Lyon",
+    "city_ascii": "South Lyon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4614,
+    "lng": -83.6526,
+    "cafes": []
+  },
+  "Warren": {
+    "city": "Warren",
+    "city_ascii": "Warren",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4934,
+    "lng": -83.027,
+    "cafes": []
+  },
+  "Sterling Heights": {
+    "city": "Sterling Heights",
+    "city_ascii": "Sterling Heights",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5809,
+    "lng": -83.0305,
+    "cafes": []
+  },
+  "Saginaw": {
+    "city": "Saginaw",
+    "city_ascii": "Saginaw",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4199,
+    "lng": -83.9501,
+    "cafes": []
+  },
+  "Holland": {
+    "city": "Holland",
+    "city_ascii": "Holland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7677,
+    "lng": -86.0984,
+    "cafes": []
+  },
+  "Dearborn": {
+    "city": "Dearborn",
+    "city_ascii": "Dearborn",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3127,
+    "lng": -83.213,
+    "cafes": []
+  },
+  "Livonia": {
+    "city": "Livonia",
+    "city_ascii": "Livonia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3972,
+    "lng": -83.3733,
+    "cafes": []
+  },
+  "Troy": {
+    "city": "Troy",
+    "city_ascii": "Troy",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5817,
+    "lng": -83.1457,
+    "cafes": []
+  },
+  "Port Huron": {
+    "city": "Port Huron",
+    "city_ascii": "Port Huron",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9821,
+    "lng": -82.4388,
+    "cafes": []
+  },
+  "Westland": {
+    "city": "Westland",
+    "city_ascii": "Westland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3192,
+    "lng": -83.3805,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2431,
+    "lng": -84.4038,
+    "cafes": []
+  },
+  "Wyoming": {
+    "city": "Wyoming",
+    "city_ascii": "Wyoming",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8908,
+    "lng": -85.7066,
+    "cafes": []
+  },
+  "Rochester Hills": {
+    "city": "Rochester Hills",
+    "city_ascii": "Rochester Hills",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6645,
+    "lng": -83.1563,
+    "cafes": []
+  },
+  "Southfield": {
+    "city": "Southfield",
+    "city_ascii": "Southfield",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4765,
+    "lng": -83.2605,
+    "cafes": []
+  },
+  "Battle Creek": {
+    "city": "Battle Creek",
+    "city_ascii": "Battle Creek",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2985,
+    "lng": -85.2296,
+    "cafes": []
+  },
+  "Novi": {
+    "city": "Novi",
+    "city_ascii": "Novi",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4786,
+    "lng": -83.4893,
+    "cafes": []
+  },
+  "Bay City": {
+    "city": "Bay City",
+    "city_ascii": "Bay City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5902,
+    "lng": -83.8887,
+    "cafes": []
+  },
+  "Taylor": {
+    "city": "Taylor",
+    "city_ascii": "Taylor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.226,
+    "lng": -83.2688,
+    "cafes": []
+  },
+  "Dearborn Heights": {
+    "city": "Dearborn Heights",
+    "city_ascii": "Dearborn Heights",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3164,
+    "lng": -83.2769,
+    "cafes": []
+  },
+  "St. Clair Shores": {
+    "city": "St. Clair Shores",
+    "city_ascii": "St. Clair Shores",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4925,
+    "lng": -82.8961,
+    "cafes": []
+  },
+  "Royal Oak": {
+    "city": "Royal Oak",
+    "city_ascii": "Royal Oak",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5084,
+    "lng": -83.1539,
+    "cafes": []
+  },
+  "Kentwood": {
+    "city": "Kentwood",
+    "city_ascii": "Kentwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8852,
+    "lng": -85.5926,
+    "cafes": []
+  },
+  "Portage": {
+    "city": "Portage",
+    "city_ascii": "Portage",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2,
+    "lng": -85.5906,
+    "cafes": []
+  },
+  "Roseville": {
+    "city": "Roseville",
+    "city_ascii": "Roseville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5074,
+    "lng": -82.9369,
+    "cafes": []
+  },
+  "Midland": {
+    "city": "Midland",
+    "city_ascii": "Midland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6241,
+    "lng": -84.2319,
+    "cafes": []
+  },
+  "Lincoln Park": {
+    "city": "Lincoln Park",
+    "city_ascii": "Lincoln Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2432,
+    "lng": -83.1811,
+    "cafes": []
+  },
+  "Eastpointe": {
+    "city": "Eastpointe",
+    "city_ascii": "Eastpointe",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4657,
+    "lng": -82.9461,
+    "cafes": []
+  },
+  "Southgate": {
+    "city": "Southgate",
+    "city_ascii": "Southgate",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2047,
+    "lng": -83.2057,
+    "cafes": []
+  },
+  "Burton": {
+    "city": "Burton",
+    "city_ascii": "Burton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9974,
+    "lng": -83.6175,
+    "cafes": []
+  },
+  "Oak Park": {
+    "city": "Oak Park",
+    "city_ascii": "Oak Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4649,
+    "lng": -83.1824,
+    "cafes": []
+  },
+  "Forest Hills": {
+    "city": "Forest Hills",
+    "city_ascii": "Forest Hills",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9577,
+    "lng": -85.4895,
+    "cafes": []
+  },
+  "Madison Heights": {
+    "city": "Madison Heights",
+    "city_ascii": "Madison Heights",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5073,
+    "lng": -83.1034,
+    "cafes": []
+  },
+  "Allen Park": {
+    "city": "Allen Park",
+    "city_ascii": "Allen Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2595,
+    "lng": -83.2107,
+    "cafes": []
+  },
+  "Hamtramck": {
+    "city": "Hamtramck",
+    "city_ascii": "Hamtramck",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3954,
+    "lng": -83.0559,
+    "cafes": []
+  },
+  "Allendale": {
+    "city": "Allendale",
+    "city_ascii": "Allendale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9845,
+    "lng": -85.9499,
+    "cafes": []
+  },
+  "Inkster": {
+    "city": "Inkster",
+    "city_ascii": "Inkster",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2935,
+    "lng": -83.3148,
+    "cafes": []
+  },
+  "Okemos": {
+    "city": "Okemos",
+    "city_ascii": "Okemos",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7057,
+    "lng": -84.4135,
+    "cafes": []
+  },
+  "Holt": {
+    "city": "Holt",
+    "city_ascii": "Holt",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6416,
+    "lng": -84.5308,
+    "cafes": []
+  },
+  "Walker": {
+    "city": "Walker",
+    "city_ascii": "Walker",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9853,
+    "lng": -85.7446,
+    "cafes": []
+  },
+  "Norton Shores": {
+    "city": "Norton Shores",
+    "city_ascii": "Norton Shores",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1621,
+    "lng": -86.2519,
+    "cafes": []
+  },
+  "Romulus": {
+    "city": "Romulus",
+    "city_ascii": "Romulus",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2237,
+    "lng": -83.366,
+    "cafes": []
+  },
+  "Auburn Hills": {
+    "city": "Auburn Hills",
+    "city_ascii": "Auburn Hills",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6735,
+    "lng": -83.2448,
+    "cafes": []
+  },
+  "Wyandotte": {
+    "city": "Wyandotte",
+    "city_ascii": "Wyandotte",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2113,
+    "lng": -83.1558,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7401,
+    "lng": -84.6354,
+    "cafes": []
+  },
+  "Birmingham": {
+    "city": "Birmingham",
+    "city_ascii": "Birmingham",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5446,
+    "lng": -83.2166,
+    "cafes": []
+  },
+  "Marquette": {
+    "city": "Marquette",
+    "city_ascii": "Marquette",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.544,
+    "lng": -87.4082,
+    "cafes": []
+  },
+  "Adrian": {
+    "city": "Adrian",
+    "city_ascii": "Adrian",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8994,
+    "lng": -84.0447,
+    "cafes": []
+  },
+  "Monroe": {
+    "city": "Monroe",
+    "city_ascii": "Monroe",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9155,
+    "lng": -83.3849,
+    "cafes": []
+  },
+  "Ypsilanti": {
+    "city": "Ypsilanti",
+    "city_ascii": "Ypsilanti",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.244,
+    "lng": -83.6208,
+    "cafes": []
+  },
+  "Cutlerville": {
+    "city": "Cutlerville",
+    "city_ascii": "Cutlerville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8403,
+    "lng": -85.6734,
+    "cafes": []
+  },
+  "Haslett": {
+    "city": "Haslett",
+    "city_ascii": "Haslett",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7525,
+    "lng": -84.402,
+    "cafes": []
+  },
+  "Trenton": {
+    "city": "Trenton",
+    "city_ascii": "Trenton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1394,
+    "lng": -83.1929,
+    "cafes": []
+  },
+  "Wayne": {
+    "city": "Wayne",
+    "city_ascii": "Wayne",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2774,
+    "lng": -83.3877,
+    "cafes": []
+  },
+  "Jenison": {
+    "city": "Jenison",
+    "city_ascii": "Jenison",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9063,
+    "lng": -85.8269,
+    "cafes": []
+  },
+  "Wixom": {
+    "city": "Wixom",
+    "city_ascii": "Wixom",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5243,
+    "lng": -83.5346,
+    "cafes": []
+  },
+  "Grosse Pointe Woods": {
+    "city": "Grosse Pointe Woods",
+    "city_ascii": "Grosse Pointe Woods",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4366,
+    "lng": -82.8987,
+    "cafes": []
+  },
+  "Grandville": {
+    "city": "Grandville",
+    "city_ascii": "Grandville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9004,
+    "lng": -85.7564,
+    "cafes": []
+  },
+  "Mount Clemens": {
+    "city": "Mount Clemens",
+    "city_ascii": "Mount Clemens",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5977,
+    "lng": -82.8821,
+    "cafes": []
+  },
+  "Traverse City": {
+    "city": "Traverse City",
+    "city_ascii": "Traverse City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.7546,
+    "lng": -85.6038,
+    "cafes": []
+  },
+  "Northview": {
+    "city": "Northview",
+    "city_ascii": "Northview",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0427,
+    "lng": -85.6016,
+    "cafes": []
+  },
+  "Harper Woods": {
+    "city": "Harper Woods",
+    "city_ascii": "Harper Woods",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.439,
+    "lng": -82.9293,
+    "cafes": []
+  },
+  "Berkley": {
+    "city": "Berkley",
+    "city_ascii": "Berkley",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4986,
+    "lng": -83.1853,
+    "cafes": []
+  },
+  "Hazel Park": {
+    "city": "Hazel Park",
+    "city_ascii": "Hazel Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4619,
+    "lng": -83.0977,
+    "cafes": []
+  },
+  "Owosso": {
+    "city": "Owosso",
+    "city_ascii": "Owosso",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9955,
+    "lng": -84.176,
+    "cafes": []
+  },
+  "Fraser": {
+    "city": "Fraser",
+    "city_ascii": "Fraser",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5388,
+    "lng": -82.9496,
+    "cafes": []
+  },
+  "Coldwater": {
+    "city": "Coldwater",
+    "city_ascii": "Coldwater",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9465,
+    "lng": -84.9989,
+    "cafes": []
+  },
+  "Sault Ste. Marie": {
+    "city": "Sault Ste. Marie",
+    "city_ascii": "Sault Ste. Marie",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.4817,
+    "lng": -84.3723,
+    "cafes": []
+  },
+  "Ionia": {
+    "city": "Ionia",
+    "city_ascii": "Ionia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9773,
+    "lng": -85.0727,
+    "cafes": []
+  },
+  "Rochester": {
+    "city": "Rochester",
+    "city_ascii": "Rochester",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6866,
+    "lng": -83.1198,
+    "cafes": []
+  },
+  "Woodhaven": {
+    "city": "Woodhaven",
+    "city_ascii": "Woodhaven",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.132,
+    "lng": -83.2374,
+    "cafes": []
+  },
+  "Melvindale": {
+    "city": "Melvindale",
+    "city_ascii": "Melvindale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2802,
+    "lng": -83.1782,
+    "cafes": []
+  },
+  "Escanaba": {
+    "city": "Escanaba",
+    "city_ascii": "Escanaba",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.7477,
+    "lng": -87.09,
+    "cafes": []
+  },
+  "Riverview": {
+    "city": "Riverview",
+    "city_ascii": "Riverview",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1723,
+    "lng": -83.1946,
+    "cafes": []
+  },
+  "New Baltimore": {
+    "city": "New Baltimore",
+    "city_ascii": "New Baltimore",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6904,
+    "lng": -82.7398,
+    "cafes": []
+  },
+  "Fenton": {
+    "city": "Fenton",
+    "city_ascii": "Fenton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7994,
+    "lng": -83.7144,
+    "cafes": []
+  },
+  "Niles": {
+    "city": "Niles",
+    "city_ascii": "Niles",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8346,
+    "lng": -86.2473,
+    "cafes": []
+  },
+  "Farmington": {
+    "city": "Farmington",
+    "city_ascii": "Farmington",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4614,
+    "lng": -83.3784,
+    "cafes": []
+  },
+  "Grosse Pointe Park": {
+    "city": "Grosse Pointe Park",
+    "city_ascii": "Grosse Pointe Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3794,
+    "lng": -82.9287,
+    "cafes": []
+  },
+  "East Grand Rapids": {
+    "city": "East Grand Rapids",
+    "city_ascii": "East Grand Rapids",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9464,
+    "lng": -85.6088,
+    "cafes": []
+  },
+  "Sturgis": {
+    "city": "Sturgis",
+    "city_ascii": "Sturgis",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7991,
+    "lng": -85.4184,
+    "cafes": []
+  },
+  "Grand Haven": {
+    "city": "Grand Haven",
+    "city_ascii": "Grand Haven",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0553,
+    "lng": -86.2201,
+    "cafes": []
+  },
+  "Beverly Hills": {
+    "city": "Beverly Hills",
+    "city_ascii": "Beverly Hills",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.522,
+    "lng": -83.2423,
+    "cafes": []
+  },
+  "Flat Rock": {
+    "city": "Flat Rock",
+    "city_ascii": "Flat Rock",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0991,
+    "lng": -83.2716,
+    "cafes": []
+  },
+  "Cadillac": {
+    "city": "Cadillac",
+    "city_ascii": "Cadillac",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2493,
+    "lng": -85.4164,
+    "cafes": []
+  },
+  "Comstock Park": {
+    "city": "Comstock Park",
+    "city_ascii": "Comstock Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0438,
+    "lng": -85.6778,
+    "cafes": []
+  },
+  "Alpena": {
+    "city": "Alpena",
+    "city_ascii": "Alpena",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.074,
+    "lng": -83.4402,
+    "cafes": []
+  },
+  "Howell": {
+    "city": "Howell",
+    "city_ascii": "Howell",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6078,
+    "lng": -83.9339,
+    "cafes": []
+  },
+  "Grosse Pointe Farms": {
+    "city": "Grosse Pointe Farms",
+    "city_ascii": "Grosse Pointe Farms",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4068,
+    "lng": -82.8993,
+    "cafes": []
+  },
+  "Marysville": {
+    "city": "Marysville",
+    "city_ascii": "Marysville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9084,
+    "lng": -82.4806,
+    "cafes": []
+  },
+  "Muskegon Heights": {
+    "city": "Muskegon Heights",
+    "city_ascii": "Muskegon Heights",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2023,
+    "lng": -86.2421,
+    "cafes": []
+  },
+  "Lambertville": {
+    "city": "Lambertville",
+    "city_ascii": "Lambertville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7484,
+    "lng": -83.6244,
+    "cafes": []
+  },
+  "Alma": {
+    "city": "Alma",
+    "city_ascii": "Alma",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3799,
+    "lng": -84.6556,
+    "cafes": []
+  },
+  "Charlotte": {
+    "city": "Charlotte",
+    "city_ascii": "Charlotte",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5662,
+    "lng": -84.8304,
+    "cafes": []
+  },
+  "Plymouth": {
+    "city": "Plymouth",
+    "city_ascii": "Plymouth",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3718,
+    "lng": -83.468,
+    "cafes": []
+  },
+  "Ecorse": {
+    "city": "Ecorse",
+    "city_ascii": "Ecorse",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2489,
+    "lng": -83.1399,
+    "cafes": []
+  },
+  "Lapeer": {
+    "city": "Lapeer",
+    "city_ascii": "Lapeer",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0447,
+    "lng": -83.3253,
+    "cafes": []
+  },
+  "Benton Harbor": {
+    "city": "Benton Harbor",
+    "city_ascii": "Benton Harbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1159,
+    "lng": -86.4488,
+    "cafes": []
+  },
+  "Saline": {
+    "city": "Saline",
+    "city_ascii": "Saline",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.174,
+    "lng": -83.778,
+    "cafes": []
+  },
+  "Westwood": {
+    "city": "Westwood",
+    "city_ascii": "Westwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3031,
+    "lng": -85.6286,
+    "cafes": []
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1797,
+    "lng": -85.2534,
+    "cafes": []
+  },
+  "Highland Park": {
+    "city": "Highland Park",
+    "city_ascii": "Highland Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4052,
+    "lng": -83.0977,
+    "cafes": []
+  },
+  "Tecumseh": {
+    "city": "Tecumseh",
+    "city_ascii": "Tecumseh",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0066,
+    "lng": -83.945,
+    "cafes": []
+  },
+  "Beecher": {
+    "city": "Beecher",
+    "city_ascii": "Beecher",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0903,
+    "lng": -83.7039,
+    "cafes": []
+  },
+  "Temperance": {
+    "city": "Temperance",
+    "city_ascii": "Temperance",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7653,
+    "lng": -83.5755,
+    "cafes": []
+  },
+  "Center Line": {
+    "city": "Center Line",
+    "city_ascii": "Center Line",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4805,
+    "lng": -83.0274,
+    "cafes": []
+  },
+  "Menominee": {
+    "city": "Menominee",
+    "city_ascii": "Menominee",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.1221,
+    "lng": -87.6234,
+    "cafes": []
+  },
+  "Houghton": {
+    "city": "Houghton",
+    "city_ascii": "Houghton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.1118,
+    "lng": -88.5675,
+    "cafes": []
+  },
+  "Flushing": {
+    "city": "Flushing",
+    "city_ascii": "Flushing",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0637,
+    "lng": -83.8403,
+    "cafes": []
+  },
+  "Mason": {
+    "city": "Mason",
+    "city_ascii": "Mason",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5806,
+    "lng": -84.4427,
+    "cafes": []
+  },
+  "Whitmore Lake": {
+    "city": "Whitmore Lake",
+    "city_ascii": "Whitmore Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4258,
+    "lng": -83.753,
+    "cafes": []
+  },
+  "Hillsdale": {
+    "city": "Hillsdale",
+    "city_ascii": "Hillsdale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9267,
+    "lng": -84.6356,
+    "cafes": []
+  },
+  "Grand Blanc": {
+    "city": "Grand Blanc",
+    "city_ascii": "Grand Blanc",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9258,
+    "lng": -83.6181,
+    "cafes": []
+  },
+  "Three Rivers": {
+    "city": "Three Rivers",
+    "city_ascii": "Three Rivers",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.947,
+    "lng": -85.6281,
+    "cafes": []
+  },
+  "Big Rapids": {
+    "city": "Big Rapids",
+    "city_ascii": "Big Rapids",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6992,
+    "lng": -85.4806,
+    "cafes": []
+  },
+  "St. Joseph": {
+    "city": "St. Joseph",
+    "city_ascii": "St. Joseph",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0968,
+    "lng": -86.4849,
+    "cafes": []
+  },
+  "Grand Ledge": {
+    "city": "Grand Ledge",
+    "city_ascii": "Grand Ledge",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7534,
+    "lng": -84.7448,
+    "cafes": []
+  },
+  "St. Johns": {
+    "city": "St. Johns",
+    "city_ascii": "St. Johns",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0006,
+    "lng": -84.5554,
+    "cafes": []
+  },
+  "Hudsonville": {
+    "city": "Hudsonville",
+    "city_ascii": "Hudsonville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8632,
+    "lng": -85.8627,
+    "cafes": []
+  },
+  "Ludington": {
+    "city": "Ludington",
+    "city_ascii": "Ludington",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.9573,
+    "lng": -86.4434,
+    "cafes": []
+  },
+  "Albion": {
+    "city": "Albion",
+    "city_ascii": "Albion",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2478,
+    "lng": -84.7572,
+    "cafes": []
+  },
+  "Brighton": {
+    "city": "Brighton",
+    "city_ascii": "Brighton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5298,
+    "lng": -83.7848,
+    "cafes": []
+  },
+  "Freeland": {
+    "city": "Freeland",
+    "city_ascii": "Freeland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5198,
+    "lng": -84.1124,
+    "cafes": []
+  },
+  "Hastings": {
+    "city": "Hastings",
+    "city_ascii": "Hastings",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6498,
+    "lng": -85.2886,
+    "cafes": []
+  },
+  "Iron Mountain": {
+    "city": "Iron Mountain",
+    "city_ascii": "Iron Mountain",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.8275,
+    "lng": -88.0599,
+    "cafes": []
+  },
+  "Shields": {
+    "city": "Shields",
+    "city_ascii": "Shields",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4211,
+    "lng": -84.0747,
+    "cafes": []
+  },
+  "Walled Lake": {
+    "city": "Walled Lake",
+    "city_ascii": "Walled Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5379,
+    "lng": -83.4786,
+    "cafes": []
+  },
+  "River Rouge": {
+    "city": "River Rouge",
+    "city_ascii": "River Rouge",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2731,
+    "lng": -83.1245,
+    "cafes": []
+  },
+  "Fair Plain": {
+    "city": "Fair Plain",
+    "city_ascii": "Fair Plain",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0823,
+    "lng": -86.4516,
+    "cafes": []
+  },
+  "St. Louis": {
+    "city": "St. Louis",
+    "city_ascii": "St. Louis",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4082,
+    "lng": -84.6118,
+    "cafes": []
+  },
+  "Bridgeport": {
+    "city": "Bridgeport",
+    "city_ascii": "Bridgeport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3706,
+    "lng": -83.8827,
+    "cafes": []
+  },
+  "Byron Center": {
+    "city": "Byron Center",
+    "city_ascii": "Byron Center",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8121,
+    "lng": -85.7279,
+    "cafes": []
+  },
+  "Marshall": {
+    "city": "Marshall",
+    "city_ascii": "Marshall",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2618,
+    "lng": -84.9598,
+    "cafes": []
+  },
+  "South Monroe": {
+    "city": "South Monroe",
+    "city_ascii": "South Monroe",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8927,
+    "lng": -83.4186,
+    "cafes": []
+  },
+  "Eastwood": {
+    "city": "Eastwood",
+    "city_ascii": "Eastwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3027,
+    "lng": -85.5447,
+    "cafes": []
+  },
+  "Milford": {
+    "city": "Milford",
+    "city_ascii": "Milford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.587,
+    "lng": -83.6012,
+    "cafes": []
+  },
+  "New Haven": {
+    "city": "New Haven",
+    "city_ascii": "New Haven",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7306,
+    "lng": -82.7953,
+    "cafes": []
+  },
+  "Huntington Woods": {
+    "city": "Huntington Woods",
+    "city_ascii": "Huntington Woods",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4816,
+    "lng": -83.1685,
+    "cafes": []
+  },
+  "Manistee": {
+    "city": "Manistee",
+    "city_ascii": "Manistee",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2439,
+    "lng": -86.3242,
+    "cafes": []
+  },
+  "Ishpeming": {
+    "city": "Ishpeming",
+    "city_ascii": "Ishpeming",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.4862,
+    "lng": -87.6658,
+    "cafes": []
+  },
+  "Lake Fenton": {
+    "city": "Lake Fenton",
+    "city_ascii": "Lake Fenton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8453,
+    "lng": -83.7086,
+    "cafes": []
+  },
+  "Rockford": {
+    "city": "Rockford",
+    "city_ascii": "Rockford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1267,
+    "lng": -85.5582,
+    "cafes": []
+  },
+  "Northville": {
+    "city": "Northville",
+    "city_ascii": "Northville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4355,
+    "lng": -83.489,
+    "cafes": []
+  },
+  "Milan": {
+    "city": "Milan",
+    "city_ascii": "Milan",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0816,
+    "lng": -83.6854,
+    "cafes": []
+  },
+  "Holly": {
+    "city": "Holly",
+    "city_ascii": "Holly",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7987,
+    "lng": -83.622,
+    "cafes": []
+  },
+  "Belding": {
+    "city": "Belding",
+    "city_ascii": "Belding",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0968,
+    "lng": -85.2331,
+    "cafes": []
+  },
+  "Buena Vista": {
+    "city": "Buena Vista",
+    "city_ascii": "Buena Vista",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4176,
+    "lng": -83.9005,
+    "cafes": []
+  },
+  "Swartz Creek": {
+    "city": "Swartz Creek",
+    "city_ascii": "Swartz Creek",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9631,
+    "lng": -83.8251,
+    "cafes": []
+  },
+  "Petoskey": {
+    "city": "Petoskey",
+    "city_ascii": "Petoskey",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.3649,
+    "lng": -84.9888,
+    "cafes": []
+  },
+  "Richmond": {
+    "city": "Richmond",
+    "city_ascii": "Richmond",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8094,
+    "lng": -82.7518,
+    "cafes": []
+  },
+  "Houghton Lake": {
+    "city": "Houghton Lake",
+    "city_ascii": "Houghton Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.3019,
+    "lng": -84.7491,
+    "cafes": []
+  },
+  "Zeeland": {
+    "city": "Zeeland",
+    "city_ascii": "Zeeland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8139,
+    "lng": -86.0129,
+    "cafes": []
+  },
+  "Dowagiac": {
+    "city": "Dowagiac",
+    "city_ascii": "Dowagiac",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9834,
+    "lng": -86.1126,
+    "cafes": []
+  },
+  "Dundee": {
+    "city": "Dundee",
+    "city_ascii": "Dundee",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9642,
+    "lng": -83.6636,
+    "cafes": []
+  },
+  "St. Clair": {
+    "city": "St. Clair",
+    "city_ascii": "St. Clair",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8262,
+    "lng": -82.493,
+    "cafes": []
+  },
+  "Grosse Pointe": {
+    "city": "Grosse Pointe",
+    "city_ascii": "Grosse Pointe",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3915,
+    "lng": -82.9118,
+    "cafes": []
+  },
+  "Chelsea": {
+    "city": "Chelsea",
+    "city_ascii": "Chelsea",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3132,
+    "lng": -84.0188,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3246,
+    "lng": -85.2371,
+    "cafes": []
+  },
+  "Gladstone": {
+    "city": "Gladstone",
+    "city_ascii": "Gladstone",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.8521,
+    "lng": -87.0358,
+    "cafes": []
+  },
+  "Eaton Rapids": {
+    "city": "Eaton Rapids",
+    "city_ascii": "Eaton Rapids",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5091,
+    "lng": -84.6531,
+    "cafes": []
+  },
+  "Comstock Northwest": {
+    "city": "Comstock Northwest",
+    "city_ascii": "Comstock Northwest",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3219,
+    "lng": -85.518,
+    "cafes": []
+  },
+  "Utica": {
+    "city": "Utica",
+    "city_ascii": "Utica",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.629,
+    "lng": -83.0218,
+    "cafes": []
+  },
+  "Allegan": {
+    "city": "Allegan",
+    "city_ascii": "Allegan",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5299,
+    "lng": -85.8462,
+    "cafes": []
+  },
+  "Kingsford": {
+    "city": "Kingsford",
+    "city_ascii": "Kingsford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.8061,
+    "lng": -88.0995,
+    "cafes": []
+  },
+  "Frankenmuth": {
+    "city": "Frankenmuth",
+    "city_ascii": "Frankenmuth",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3322,
+    "lng": -83.7391,
+    "cafes": []
+  },
+  "Davison": {
+    "city": "Davison",
+    "city_ascii": "Davison",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0318,
+    "lng": -83.5187,
+    "cafes": []
+  },
+  "Ironwood": {
+    "city": "Ironwood",
+    "city_ascii": "Ironwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.4522,
+    "lng": -90.1505,
+    "cafes": []
+  },
+  "Gibraltar": {
+    "city": "Gibraltar",
+    "city_ascii": "Gibraltar",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.096,
+    "lng": -83.2029,
+    "cafes": []
+  },
+  "Pearl Beach": {
+    "city": "Pearl Beach",
+    "city_ascii": "Pearl Beach",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6295,
+    "lng": -82.5834,
+    "cafes": []
+  },
+  "Coopersville": {
+    "city": "Coopersville",
+    "city_ascii": "Coopersville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0658,
+    "lng": -85.9341,
+    "cafes": []
+  },
+  "Wolf Lake": {
+    "city": "Wolf Lake",
+    "city_ascii": "Wolf Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2451,
+    "lng": -86.1074,
+    "cafes": []
+  },
+  "Cheboygan": {
+    "city": "Cheboygan",
+    "city_ascii": "Cheboygan",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.641,
+    "lng": -84.4687,
+    "cafes": []
+  },
+  "DeWitt": {
+    "city": "DeWitt",
+    "city_ascii": "DeWitt",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8364,
+    "lng": -84.575,
+    "cafes": []
+  },
+  "Negaunee": {
+    "city": "Negaunee",
+    "city_ascii": "Negaunee",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.497,
+    "lng": -87.5968,
+    "cafes": []
+  },
+  "Michigan Center": {
+    "city": "Michigan Center",
+    "city_ascii": "Michigan Center",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2268,
+    "lng": -84.323,
+    "cafes": []
+  },
+  "Fremont": {
+    "city": "Fremont",
+    "city_ascii": "Fremont",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4633,
+    "lng": -85.9537,
+    "cafes": []
+  },
+  "Hancock": {
+    "city": "Hancock",
+    "city_ascii": "Hancock",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.1367,
+    "lng": -88.5979,
+    "cafes": []
+  },
+  "Dexter": {
+    "city": "Dexter",
+    "city_ascii": "Dexter",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3319,
+    "lng": -83.8803,
+    "cafes": []
+  },
+  "Wolverine Lake": {
+    "city": "Wolverine Lake",
+    "city_ascii": "Wolverine Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.555,
+    "lng": -83.4883,
+    "cafes": []
+  },
+  "Vandercook Lake": {
+    "city": "Vandercook Lake",
+    "city_ascii": "Vandercook Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1917,
+    "lng": -84.3855,
+    "cafes": []
+  },
+  "Bloomfield Hills": {
+    "city": "Bloomfield Hills",
+    "city_ascii": "Bloomfield Hills",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.578,
+    "lng": -83.2456,
+    "cafes": []
+  },
+  "Middleville": {
+    "city": "Middleville",
+    "city_ascii": "Middleville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7138,
+    "lng": -85.4693,
+    "cafes": []
+  },
+  "Gaylord": {
+    "city": "Gaylord",
+    "city_ascii": "Gaylord",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.0208,
+    "lng": -84.6809,
+    "cafes": []
+  },
+  "Caro": {
+    "city": "Caro",
+    "city_ascii": "Caro",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4891,
+    "lng": -83.4025,
+    "cafes": []
+  },
+  "Sparta": {
+    "city": "Sparta",
+    "city_ascii": "Sparta",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1571,
+    "lng": -85.7106,
+    "cafes": []
+  },
+  "Buchanan": {
+    "city": "Buchanan",
+    "city_ascii": "Buchanan",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8283,
+    "lng": -86.3656,
+    "cafes": []
+  },
+  "Algonac": {
+    "city": "Algonac",
+    "city_ascii": "Algonac",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6207,
+    "lng": -82.5339,
+    "cafes": []
+  },
+  "Linden": {
+    "city": "Linden",
+    "city_ascii": "Linden",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8194,
+    "lng": -83.7811,
+    "cafes": []
+  },
+  "Roosevelt Park": {
+    "city": "Roosevelt Park",
+    "city_ascii": "Roosevelt Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1982,
+    "lng": -86.2733,
+    "cafes": []
+  },
+  "Lowell": {
+    "city": "Lowell",
+    "city_ascii": "Lowell",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9351,
+    "lng": -85.3457,
+    "cafes": []
+  },
+  "North Muskegon": {
+    "city": "North Muskegon",
+    "city_ascii": "North Muskegon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2517,
+    "lng": -86.2715,
+    "cafes": []
+  },
+  "Otsego": {
+    "city": "Otsego",
+    "city_ascii": "Otsego",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4576,
+    "lng": -85.698,
+    "cafes": []
+  },
+  "Lathrup Village": {
+    "city": "Lathrup Village",
+    "city_ascii": "Lathrup Village",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4921,
+    "lng": -83.2273,
+    "cafes": []
+  },
+  "Marine City": {
+    "city": "Marine City",
+    "city_ascii": "Marine City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7137,
+    "lng": -82.5012,
+    "cafes": []
+  },
+  "South Haven": {
+    "city": "South Haven",
+    "city_ascii": "South Haven",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4011,
+    "lng": -86.2677,
+    "cafes": []
+  },
+  "Belleville": {
+    "city": "Belleville",
+    "city_ascii": "Belleville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2022,
+    "lng": -83.4839,
+    "cafes": []
+  },
+  "Dorr": {
+    "city": "Dorr",
+    "city_ascii": "Dorr",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.727,
+    "lng": -85.719,
+    "cafes": []
+  },
+  "Boyne City": {
+    "city": "Boyne City",
+    "city_ascii": "Boyne City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.2136,
+    "lng": -85.0132,
+    "cafes": []
+  },
+  "Vicksburg": {
+    "city": "Vicksburg",
+    "city_ascii": "Vicksburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1185,
+    "lng": -85.5413,
+    "cafes": []
+  },
+  "Portland": {
+    "city": "Portland",
+    "city_ascii": "Portland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8697,
+    "lng": -84.8991,
+    "cafes": []
+  },
+  "Williamston": {
+    "city": "Williamston",
+    "city_ascii": "Williamston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6834,
+    "lng": -84.2836,
+    "cafes": []
+  },
+  "Paw Paw Lake": {
+    "city": "Paw Paw Lake",
+    "city_ascii": "Paw Paw Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2113,
+    "lng": -86.2759,
+    "cafes": []
+  },
+  "Plainwell": {
+    "city": "Plainwell",
+    "city_ascii": "Plainwell",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4457,
+    "lng": -85.6435,
+    "cafes": []
+  },
+  "Imlay City": {
+    "city": "Imlay City",
+    "city_ascii": "Imlay City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0171,
+    "lng": -83.0771,
+    "cafes": []
+  },
+  "Cedar Springs": {
+    "city": "Cedar Springs",
+    "city_ascii": "Cedar Springs",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2201,
+    "lng": -85.5535,
+    "cafes": []
+  },
+  "Romeo": {
+    "city": "Romeo",
+    "city_ascii": "Romeo",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8049,
+    "lng": -83.0041,
+    "cafes": []
+  },
+  "Benton Heights": {
+    "city": "Benton Heights",
+    "city_ascii": "Benton Heights",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1211,
+    "lng": -86.4137,
+    "cafes": []
+  },
+  "Durand": {
+    "city": "Durand",
+    "city_ascii": "Durand",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9127,
+    "lng": -83.989,
+    "cafes": []
+  },
+  "Oxford": {
+    "city": "Oxford",
+    "city_ascii": "Oxford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8218,
+    "lng": -83.2563,
+    "cafes": []
+  },
+  "Level Park-Oak Park": {
+    "city": "Level Park-Oak Park",
+    "city_ascii": "Level Park-Oak Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3642,
+    "lng": -85.2664,
+    "cafes": []
+  },
+  "Essexville": {
+    "city": "Essexville",
+    "city_ascii": "Essexville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6123,
+    "lng": -83.8423,
+    "cafes": []
+  },
+  "Clare": {
+    "city": "Clare",
+    "city_ascii": "Clare",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8259,
+    "lng": -84.763,
+    "cafes": []
+  },
+  "Paw Paw": {
+    "city": "Paw Paw",
+    "city_ascii": "Paw Paw",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2148,
+    "lng": -85.8919,
+    "cafes": []
+  },
+  "Blissfield": {
+    "city": "Blissfield",
+    "city_ascii": "Blissfield",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8311,
+    "lng": -83.8635,
+    "cafes": []
+  },
+  "Rockwood": {
+    "city": "Rockwood",
+    "city_ascii": "Rockwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0705,
+    "lng": -83.243,
+    "cafes": []
+  },
+  "Mount Morris": {
+    "city": "Mount Morris",
+    "city_ascii": "Mount Morris",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1176,
+    "lng": -83.6987,
+    "cafes": []
+  },
+  "Gladwin": {
+    "city": "Gladwin",
+    "city_ascii": "Gladwin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.9837,
+    "lng": -84.4876,
+    "cafes": []
+  },
+  "Harvey": {
+    "city": "Harvey",
+    "city_ascii": "Harvey",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.4832,
+    "lng": -87.3569,
+    "cafes": []
+  },
+  "Potterville": {
+    "city": "Potterville",
+    "city_ascii": "Potterville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6299,
+    "lng": -84.7433,
+    "cafes": []
+  },
+  "Corunna": {
+    "city": "Corunna",
+    "city_ascii": "Corunna",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9837,
+    "lng": -84.1162,
+    "cafes": []
+  },
+  "Bad Axe": {
+    "city": "Bad Axe",
+    "city_ascii": "Bad Axe",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8043,
+    "lng": -82.9985,
+    "cafes": []
+  },
+  "Iron River": {
+    "city": "Iron River",
+    "city_ascii": "Iron River",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.0966,
+    "lng": -88.6396,
+    "cafes": []
+  },
+  "Whitehall": {
+    "city": "Whitehall",
+    "city_ascii": "Whitehall",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4003,
+    "lng": -86.3405,
+    "cafes": []
+  },
+  "Fowlerville": {
+    "city": "Fowlerville",
+    "city_ascii": "Fowlerville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6596,
+    "lng": -84.0743,
+    "cafes": []
+  },
+  "Ferrysburg": {
+    "city": "Ferrysburg",
+    "city_ascii": "Ferrysburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.085,
+    "lng": -86.2221,
+    "cafes": []
+  },
+  "Bath": {
+    "city": "Bath",
+    "city_ascii": "Bath",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8199,
+    "lng": -84.4544,
+    "cafes": []
+  },
+  "Kincheloe": {
+    "city": "Kincheloe",
+    "city_ascii": "Kincheloe",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.2688,
+    "lng": -84.4568,
+    "cafes": []
+  },
+  "Rogers City": {
+    "city": "Rogers City",
+    "city_ascii": "Rogers City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.415,
+    "lng": -83.8186,
+    "cafes": []
+  },
+  "Lake Orion": {
+    "city": "Lake Orion",
+    "city_ascii": "Lake Orion",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7827,
+    "lng": -83.2453,
+    "cafes": []
+  },
+  "Manistique": {
+    "city": "Manistique",
+    "city_ascii": "Manistique",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.9591,
+    "lng": -86.2507,
+    "cafes": []
+  },
+  "St. Helen": {
+    "city": "St. Helen",
+    "city_ascii": "St. Helen",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.3592,
+    "lng": -84.4117,
+    "cafes": []
+  },
+  "Norway": {
+    "city": "Norway",
+    "city_ascii": "Norway",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.7997,
+    "lng": -87.914,
+    "cafes": []
+  },
+  "Ithaca": {
+    "city": "Ithaca",
+    "city_ascii": "Ithaca",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2911,
+    "lng": -84.5956,
+    "cafes": []
+  },
+  "Almont": {
+    "city": "Almont",
+    "city_ascii": "Almont",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9206,
+    "lng": -83.0434,
+    "cafes": []
+  },
+  "Skidway Lake": {
+    "city": "Skidway Lake",
+    "city_ascii": "Skidway Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.1918,
+    "lng": -84.0467,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0699,
+    "lng": -83.9687,
+    "cafes": []
+  },
+  "K. I. Sawyer": {
+    "city": "K. I. Sawyer",
+    "city_ascii": "K. I. Sawyer",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.3299,
+    "lng": -87.3673,
+    "cafes": []
+  },
+  "West Monroe": {
+    "city": "West Monroe",
+    "city_ascii": "West Monroe",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9143,
+    "lng": -83.4317,
+    "cafes": []
+  },
+  "Keego Harbor": {
+    "city": "Keego Harbor",
+    "city_ascii": "Keego Harbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6088,
+    "lng": -83.3442,
+    "cafes": []
+  },
+  "Beechwood": {
+    "city": "Beechwood",
+    "city_ascii": "Beechwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7982,
+    "lng": -86.1227,
+    "cafes": []
+  },
+  "West Ishpeming": {
+    "city": "West Ishpeming",
+    "city_ascii": "West Ishpeming",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.4884,
+    "lng": -87.717,
+    "cafes": []
+  },
+  "Vassar": {
+    "city": "Vassar",
+    "city_ascii": "Vassar",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3719,
+    "lng": -83.577,
+    "cafes": []
+  },
+  "Canadian Lakes": {
+    "city": "Canadian Lakes",
+    "city_ascii": "Canadian Lakes",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5815,
+    "lng": -85.2986,
+    "cafes": []
+  },
+  "Sandusky": {
+    "city": "Sandusky",
+    "city_ascii": "Sandusky",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4212,
+    "lng": -82.8333,
+    "cafes": []
+  },
+  "East Tawas": {
+    "city": "East Tawas",
+    "city_ascii": "East Tawas",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2884,
+    "lng": -83.4849,
+    "cafes": []
+  },
+  "Croswell": {
+    "city": "Croswell",
+    "city_ascii": "Croswell",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2736,
+    "lng": -82.6177,
+    "cafes": []
+  },
+  "Carleton": {
+    "city": "Carleton",
+    "city_ascii": "Carleton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0572,
+    "lng": -83.3899,
+    "cafes": []
+  },
+  "Montague": {
+    "city": "Montague",
+    "city_ascii": "Montague",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4128,
+    "lng": -86.3636,
+    "cafes": []
+  },
+  "Mattawan": {
+    "city": "Mattawan",
+    "city_ascii": "Mattawan",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2165,
+    "lng": -85.7858,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5187,
+    "lng": -83.303,
+    "cafes": []
+  },
+  "Pleasant Ridge": {
+    "city": "Pleasant Ridge",
+    "city_ascii": "Pleasant Ridge",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4715,
+    "lng": -83.1445,
+    "cafes": []
+  },
+  "Shelby": {
+    "city": "Shelby",
+    "city_ascii": "Shelby",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6114,
+    "lng": -86.3648,
+    "cafes": []
+  },
+  "Spring Lake": {
+    "city": "Spring Lake",
+    "city_ascii": "Spring Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0733,
+    "lng": -86.1944,
+    "cafes": []
+  },
+  "Woodland Beach": {
+    "city": "Woodland Beach",
+    "city_ascii": "Woodland Beach",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9419,
+    "lng": -83.314,
+    "cafes": []
+  },
+  "Reed City": {
+    "city": "Reed City",
+    "city_ascii": "Reed City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8725,
+    "lng": -85.5068,
+    "cafes": []
+  },
+  "Newaygo": {
+    "city": "Newaygo",
+    "city_ascii": "Newaygo",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4162,
+    "lng": -85.8031,
+    "cafes": []
+  },
+  "Charlevoix": {
+    "city": "Charlevoix",
+    "city_ascii": "Charlevoix",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.3137,
+    "lng": -85.2558,
+    "cafes": []
+  },
+  "Chesaning": {
+    "city": "Chesaning",
+    "city_ascii": "Chesaning",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1851,
+    "lng": -84.12,
+    "cafes": []
+  },
+  "St. Ignace": {
+    "city": "St. Ignace",
+    "city_ascii": "St. Ignace",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.8694,
+    "lng": -84.7258,
+    "cafes": []
+  },
+  "Spring Arbor": {
+    "city": "Spring Arbor",
+    "city_ascii": "Spring Arbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2055,
+    "lng": -84.5551,
+    "cafes": []
+  },
+  "Hudson": {
+    "city": "Hudson",
+    "city_ascii": "Hudson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8569,
+    "lng": -84.3451,
+    "cafes": []
+  },
+  "Bridgman": {
+    "city": "Bridgman",
+    "city_ascii": "Bridgman",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9396,
+    "lng": -86.5652,
+    "cafes": []
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1483,
+    "lng": -84.0346,
+    "cafes": []
+  },
+  "Kalkaska": {
+    "city": "Kalkaska",
+    "city_ascii": "Kalkaska",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.7318,
+    "lng": -85.1834,
+    "cafes": []
+  },
+  "Edgemont Park": {
+    "city": "Edgemont Park",
+    "city_ascii": "Edgemont Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7468,
+    "lng": -84.5926,
+    "cafes": []
+  },
+  "Argentine": {
+    "city": "Argentine",
+    "city_ascii": "Argentine",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7905,
+    "lng": -83.8356,
+    "cafes": []
+  },
+  "Hartford": {
+    "city": "Hartford",
+    "city_ascii": "Hartford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2047,
+    "lng": -86.1661,
+    "cafes": []
+  },
+  "Harrison": {
+    "city": "Harrison",
+    "city_ascii": "Harrison",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.0168,
+    "lng": -84.808,
+    "cafes": []
+  },
+  "Trowbridge Park": {
+    "city": "Trowbridge Park",
+    "city_ascii": "Trowbridge Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.5565,
+    "lng": -87.4417,
+    "cafes": []
+  },
+  "Jonesville": {
+    "city": "Jonesville",
+    "city_ascii": "Jonesville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9785,
+    "lng": -84.6656,
+    "cafes": []
+  },
+  "Detroit Beach": {
+    "city": "Detroit Beach",
+    "city_ascii": "Detroit Beach",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9314,
+    "lng": -83.3294,
+    "cafes": []
+  },
+  "Indian River": {
+    "city": "Indian River",
+    "city_ascii": "Indian River",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.4235,
+    "lng": -84.6236,
+    "cafes": []
+  },
+  "Perry": {
+    "city": "Perry",
+    "city_ascii": "Perry",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8195,
+    "lng": -84.232,
+    "cafes": []
+  },
+  "Constantine": {
+    "city": "Constantine",
+    "city_ascii": "Constantine",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8378,
+    "lng": -85.665,
+    "cafes": []
+  },
+  "Cass City": {
+    "city": "Cass City",
+    "city_ascii": "Cass City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6007,
+    "lng": -83.1767,
+    "cafes": []
+  },
+  "Bronson": {
+    "city": "Bronson",
+    "city_ascii": "Bronson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8727,
+    "lng": -85.1915,
+    "cafes": []
+  },
+  "West Branch": {
+    "city": "West Branch",
+    "city_ascii": "West Branch",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2737,
+    "lng": -84.2362,
+    "cafes": []
+  },
+  "Lake Odessa": {
+    "city": "Lake Odessa",
+    "city_ascii": "Lake Odessa",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7824,
+    "lng": -85.1374,
+    "cafes": []
+  },
+  "Leslie": {
+    "city": "Leslie",
+    "city_ascii": "Leslie",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4508,
+    "lng": -84.4334,
+    "cafes": []
+  },
+  "Clio": {
+    "city": "Clio",
+    "city_ascii": "Clio",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1773,
+    "lng": -83.7355,
+    "cafes": []
+  },
+  "Yale": {
+    "city": "Yale",
+    "city_ascii": "Yale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1277,
+    "lng": -82.7972,
+    "cafes": []
+  },
+  "Morenci": {
+    "city": "Morenci",
+    "city_ascii": "Morenci",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7226,
+    "lng": -84.2169,
+    "cafes": []
+  },
+  "South Gull Lake": {
+    "city": "South Gull Lake",
+    "city_ascii": "South Gull Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3901,
+    "lng": -85.4008,
+    "cafes": []
+  },
+  "Galesburg": {
+    "city": "Galesburg",
+    "city_ascii": "Galesburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2911,
+    "lng": -85.4182,
+    "cafes": []
+  },
+  "Bangor": {
+    "city": "Bangor",
+    "city_ascii": "Bangor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.312,
+    "lng": -86.1135,
+    "cafes": []
+  },
+  "Manitou Beach-Devils Lake": {
+    "city": "Manitou Beach-Devils Lake",
+    "city_ascii": "Manitou Beach-Devils Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9786,
+    "lng": -84.2857,
+    "cafes": []
+  },
+  "Montrose": {
+    "city": "Montrose",
+    "city_ascii": "Montrose",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1765,
+    "lng": -83.8932,
+    "cafes": []
+  },
+  "Lawton": {
+    "city": "Lawton",
+    "city_ascii": "Lawton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1678,
+    "lng": -85.8461,
+    "cafes": []
+  },
+  "Auburn": {
+    "city": "Auburn",
+    "city_ascii": "Auburn",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6021,
+    "lng": -84.0756,
+    "cafes": []
+  },
+  "Berrien Springs": {
+    "city": "Berrien Springs",
+    "city_ascii": "Berrien Springs",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9474,
+    "lng": -86.3403,
+    "cafes": []
+  },
+  "Brownlee Park": {
+    "city": "Brownlee Park",
+    "city_ascii": "Brownlee Park",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3257,
+    "lng": -85.1357,
+    "cafes": []
+  },
+  "Goodrich": {
+    "city": "Goodrich",
+    "city_ascii": "Goodrich",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9147,
+    "lng": -83.5092,
+    "cafes": []
+  },
+  "Parchment": {
+    "city": "Parchment",
+    "city_ascii": "Parchment",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3277,
+    "lng": -85.5667,
+    "cafes": []
+  },
+  "Stony Point": {
+    "city": "Stony Point",
+    "city_ascii": "Stony Point",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9451,
+    "lng": -83.2751,
+    "cafes": []
+  },
+  "Twin Lake": {
+    "city": "Twin Lake",
+    "city_ascii": "Twin Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3696,
+    "lng": -86.1837,
+    "cafes": []
+  },
+  "Saranac": {
+    "city": "Saranac",
+    "city_ascii": "Saranac",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9294,
+    "lng": -85.2105,
+    "cafes": []
+  },
+  "Baraga": {
+    "city": "Baraga",
+    "city_ascii": "Baraga",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.7766,
+    "lng": -88.4966,
+    "cafes": []
+  },
+  "Caledonia": {
+    "city": "Caledonia",
+    "city_ascii": "Caledonia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7945,
+    "lng": -85.5153,
+    "cafes": []
+  },
+  "Hart": {
+    "city": "Hart",
+    "city_ascii": "Hart",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6955,
+    "lng": -86.3679,
+    "cafes": []
+  },
+  "Lake Isabella": {
+    "city": "Lake Isabella",
+    "city_ascii": "Lake Isabella",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6417,
+    "lng": -85.003,
+    "cafes": []
+  },
+  "Sebewaing": {
+    "city": "Sebewaing",
+    "city_ascii": "Sebewaing",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.7318,
+    "lng": -83.4497,
+    "cafes": []
+  },
+  "Pinckney": {
+    "city": "Pinckney",
+    "city_ascii": "Pinckney",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4543,
+    "lng": -83.9457,
+    "cafes": []
+  },
+  "L'Anse": {
+    "city": "L'Anse",
+    "city_ascii": "L'Anse",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.7526,
+    "lng": -88.4477,
+    "cafes": []
+  },
+  "Munising": {
+    "city": "Munising",
+    "city_ascii": "Munising",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.4172,
+    "lng": -86.6439,
+    "cafes": []
+  },
+  "Capac": {
+    "city": "Capac",
+    "city_ascii": "Capac",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0074,
+    "lng": -82.9271,
+    "cafes": []
+  },
+  "South Rockwood": {
+    "city": "South Rockwood",
+    "city_ascii": "South Rockwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0597,
+    "lng": -83.2654,
+    "cafes": []
+  },
+  "Fennville": {
+    "city": "Fennville",
+    "city_ascii": "Fennville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5947,
+    "lng": -86.1051,
+    "cafes": []
+  },
+  "Watervliet": {
+    "city": "Watervliet",
+    "city_ascii": "Watervliet",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1883,
+    "lng": -86.2576,
+    "cafes": []
+  },
+  "Armada": {
+    "city": "Armada",
+    "city_ascii": "Armada",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8424,
+    "lng": -82.8832,
+    "cafes": []
+  },
+  "St. Charles": {
+    "city": "St. Charles",
+    "city_ascii": "St. Charles",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2988,
+    "lng": -84.1476,
+    "cafes": []
+  },
+  "Union City": {
+    "city": "Union City",
+    "city_ascii": "Union City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0662,
+    "lng": -85.1432,
+    "cafes": []
+  },
+  "Decatur": {
+    "city": "Decatur",
+    "city_ascii": "Decatur",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1075,
+    "lng": -85.9746,
+    "cafes": []
+  },
+  "Wakefield": {
+    "city": "Wakefield",
+    "city_ascii": "Wakefield",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.4767,
+    "lng": -89.9336,
+    "cafes": []
+  },
+  "Kingsley": {
+    "city": "Kingsley",
+    "city_ascii": "Kingsley",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.5845,
+    "lng": -85.5347,
+    "cafes": []
+  },
+  "Au Sable": {
+    "city": "Au Sable",
+    "city_ascii": "Au Sable",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.4105,
+    "lng": -83.3423,
+    "cafes": []
+  },
+  "Bessemer": {
+    "city": "Bessemer",
+    "city_ascii": "Bessemer",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.4775,
+    "lng": -90.0498,
+    "cafes": []
+  },
+  "East Jordan": {
+    "city": "East Jordan",
+    "city_ascii": "East Jordan",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.1547,
+    "lng": -85.13,
+    "cafes": []
+  },
+  "Marlette": {
+    "city": "Marlette",
+    "city_ascii": "Marlette",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3268,
+    "lng": -83.0806,
+    "cafes": []
+  },
+  "Evart": {
+    "city": "Evart",
+    "city_ascii": "Evart",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.9003,
+    "lng": -85.2751,
+    "cafes": []
+  },
+  "Cassopolis": {
+    "city": "Cassopolis",
+    "city_ascii": "Cassopolis",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9116,
+    "lng": -86.0085,
+    "cafes": []
+  },
+  "Crystal Falls": {
+    "city": "Crystal Falls",
+    "city_ascii": "Crystal Falls",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.0967,
+    "lng": -88.3264,
+    "cafes": []
+  },
+  "Zilwaukee": {
+    "city": "Zilwaukee",
+    "city_ascii": "Zilwaukee",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4809,
+    "lng": -83.9223,
+    "cafes": []
+  },
+  "Wacousta": {
+    "city": "Wacousta",
+    "city_ascii": "Wacousta",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8202,
+    "lng": -84.6907,
+    "cafes": []
+  },
+  "Howard City": {
+    "city": "Howard City",
+    "city_ascii": "Howard City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3947,
+    "lng": -85.4683,
+    "cafes": []
+  },
+  "Sylvan Lake": {
+    "city": "Sylvan Lake",
+    "city_ascii": "Sylvan Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6172,
+    "lng": -83.3331,
+    "cafes": []
+  },
+  "Tawas City": {
+    "city": "Tawas City",
+    "city_ascii": "Tawas City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2679,
+    "lng": -83.5244,
+    "cafes": []
+  },
+  "Bingham Farms": {
+    "city": "Bingham Farms",
+    "city_ascii": "Bingham Farms",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5176,
+    "lng": -83.278,
+    "cafes": []
+  },
+  "Morrice": {
+    "city": "Morrice",
+    "city_ascii": "Morrice",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8362,
+    "lng": -84.1833,
+    "cafes": []
+  },
+  "Laingsburg": {
+    "city": "Laingsburg",
+    "city_ascii": "Laingsburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8906,
+    "lng": -84.35,
+    "cafes": []
+  },
+  "Grayling": {
+    "city": "Grayling",
+    "city_ascii": "Grayling",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6566,
+    "lng": -84.7091,
+    "cafes": []
+  },
+  "White Pigeon": {
+    "city": "White Pigeon",
+    "city_ascii": "White Pigeon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7977,
+    "lng": -85.6485,
+    "cafes": []
+  },
+  "Olivet": {
+    "city": "Olivet",
+    "city_ascii": "Olivet",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.444,
+    "lng": -84.9246,
+    "cafes": []
+  },
+  "Standish": {
+    "city": "Standish",
+    "city_ascii": "Standish",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.9794,
+    "lng": -83.9637,
+    "cafes": []
+  },
+  "Centreville": {
+    "city": "Centreville",
+    "city_ascii": "Centreville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9213,
+    "lng": -85.5259,
+    "cafes": []
+  },
+  "Homer": {
+    "city": "Homer",
+    "city_ascii": "Homer",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1461,
+    "lng": -84.8103,
+    "cafes": []
+  },
+  "Dimondale": {
+    "city": "Dimondale",
+    "city_ascii": "Dimondale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6484,
+    "lng": -84.6475,
+    "cafes": []
+  },
+  "Harbor Beach": {
+    "city": "Harbor Beach",
+    "city_ascii": "Harbor Beach",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8451,
+    "lng": -82.6563,
+    "cafes": []
+  },
+  "Elk Rapids": {
+    "city": "Elk Rapids",
+    "city_ascii": "Elk Rapids",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.8949,
+    "lng": -85.4053,
+    "cafes": []
+  },
+  "Lake LeAnn": {
+    "city": "Lake LeAnn",
+    "city_ascii": "Lake LeAnn",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0599,
+    "lng": -84.4309,
+    "cafes": []
+  },
+  "Mio": {
+    "city": "Mio",
+    "city_ascii": "Mio",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6605,
+    "lng": -84.1418,
+    "cafes": []
+  },
+  "Mancelona": {
+    "city": "Mancelona",
+    "city_ascii": "Mancelona",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.9024,
+    "lng": -85.0613,
+    "cafes": []
+  },
+  "Quincy": {
+    "city": "Quincy",
+    "city_ascii": "Quincy",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9424,
+    "lng": -84.8826,
+    "cafes": []
+  },
+  "Laurium": {
+    "city": "Laurium",
+    "city_ascii": "Laurium",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.2351,
+    "lng": -88.4382,
+    "cafes": []
+  },
+  "Ravenna": {
+    "city": "Ravenna",
+    "city_ascii": "Ravenna",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1888,
+    "lng": -85.9415,
+    "cafes": []
+  },
+  "Shorewood-Tower Hills-Harbert": {
+    "city": "Shorewood-Tower Hills-Harbert",
+    "city_ascii": "Shorewood-Tower Hills-Harbert",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8817,
+    "lng": -86.6142,
+    "cafes": []
+  },
+  "Newberry": {
+    "city": "Newberry",
+    "city_ascii": "Newberry",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.3538,
+    "lng": -85.5098,
+    "cafes": []
+  },
+  "Fowler": {
+    "city": "Fowler",
+    "city_ascii": "Fowler",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0041,
+    "lng": -84.7411,
+    "cafes": []
+  },
+  "Shepherd": {
+    "city": "Shepherd",
+    "city_ascii": "Shepherd",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5235,
+    "lng": -84.6927,
+    "cafes": []
+  },
+  "Colon": {
+    "city": "Colon",
+    "city_ascii": "Colon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9592,
+    "lng": -85.3229,
+    "cafes": []
+  },
+  "Burt": {
+    "city": "Burt",
+    "city_ascii": "Burt",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2358,
+    "lng": -83.9027,
+    "cafes": []
+  },
+  "Edmore": {
+    "city": "Edmore",
+    "city_ascii": "Edmore",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4073,
+    "lng": -85.0367,
+    "cafes": []
+  },
+  "Breckenridge": {
+    "city": "Breckenridge",
+    "city_ascii": "Breckenridge",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4074,
+    "lng": -84.4784,
+    "cafes": []
+  },
+  "Litchfield": {
+    "city": "Litchfield",
+    "city_ascii": "Litchfield",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0413,
+    "lng": -84.7578,
+    "cafes": []
+  },
+  "Pinconning": {
+    "city": "Pinconning",
+    "city_ascii": "Pinconning",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8573,
+    "lng": -83.9638,
+    "cafes": []
+  },
+  "Nashville": {
+    "city": "Nashville",
+    "city_ascii": "Nashville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6032,
+    "lng": -85.0941,
+    "cafes": []
+  },
+  "Scottville": {
+    "city": "Scottville",
+    "city_ascii": "Scottville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.9511,
+    "lng": -86.2798,
+    "cafes": []
+  },
+  "Ortonville": {
+    "city": "Ortonville",
+    "city_ascii": "Ortonville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.851,
+    "lng": -83.4427,
+    "cafes": []
+  },
+  "Manton": {
+    "city": "Manton",
+    "city_ascii": "Manton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.4114,
+    "lng": -85.401,
+    "cafes": []
+  },
+  "Webberville": {
+    "city": "Webberville",
+    "city_ascii": "Webberville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6643,
+    "lng": -84.1797,
+    "cafes": []
+  },
+  "Bellevue": {
+    "city": "Bellevue",
+    "city_ascii": "Bellevue",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4443,
+    "lng": -85.0187,
+    "cafes": []
+  },
+  "Ovid": {
+    "city": "Ovid",
+    "city_ascii": "Ovid",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0031,
+    "lng": -84.3742,
+    "cafes": []
+  },
+  "Hemlock": {
+    "city": "Hemlock",
+    "city_ascii": "Hemlock",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4186,
+    "lng": -84.2311,
+    "cafes": []
+  },
+  "Three Oaks": {
+    "city": "Three Oaks",
+    "city_ascii": "Three Oaks",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7985,
+    "lng": -86.6139,
+    "cafes": []
+  },
+  "Lakewood Club": {
+    "city": "Lakewood Club",
+    "city_ascii": "Lakewood Club",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3761,
+    "lng": -86.2563,
+    "cafes": []
+  },
+  "Rapid City": {
+    "city": "Rapid City",
+    "city_ascii": "Rapid City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.8366,
+    "lng": -85.2871,
+    "cafes": []
+  },
+  "New Buffalo": {
+    "city": "New Buffalo",
+    "city_ascii": "New Buffalo",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7922,
+    "lng": -86.7424,
+    "cafes": []
+  },
+  "Reese": {
+    "city": "Reese",
+    "city_ascii": "Reese",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4528,
+    "lng": -83.6893,
+    "cafes": []
+  },
+  "White Cloud": {
+    "city": "White Cloud",
+    "city_ascii": "White Cloud",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5541,
+    "lng": -85.772,
+    "cafes": []
+  },
+  "Greilickville": {
+    "city": "Greilickville",
+    "city_ascii": "Greilickville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.805,
+    "lng": -85.6634,
+    "cafes": []
+  },
+  "Douglas": {
+    "city": "Douglas",
+    "city_ascii": "Douglas",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6411,
+    "lng": -86.2083,
+    "cafes": []
+  },
+  "Stanton": {
+    "city": "Stanton",
+    "city_ascii": "Stanton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2928,
+    "lng": -85.0789,
+    "cafes": []
+  },
+  "Prudenville": {
+    "city": "Prudenville",
+    "city_ascii": "Prudenville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.3013,
+    "lng": -84.6654,
+    "cafes": []
+  },
+  "Onsted": {
+    "city": "Onsted",
+    "city_ascii": "Onsted",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0061,
+    "lng": -84.1893,
+    "cafes": []
+  },
+  "Fruitport": {
+    "city": "Fruitport",
+    "city_ascii": "Fruitport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1248,
+    "lng": -86.1561,
+    "cafes": []
+  },
+  "Gwinn": {
+    "city": "Gwinn",
+    "city_ascii": "Gwinn",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.2858,
+    "lng": -87.4425,
+    "cafes": []
+  },
+  "Schoolcraft": {
+    "city": "Schoolcraft",
+    "city_ascii": "Schoolcraft",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.117,
+    "lng": -85.6337,
+    "cafes": []
+  },
+  "Ontonagon": {
+    "city": "Ontonagon",
+    "city_ascii": "Ontonagon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.8665,
+    "lng": -89.3122,
+    "cafes": []
+  },
+  "Petersburg": {
+    "city": "Petersburg",
+    "city_ascii": "Petersburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8993,
+    "lng": -83.7136,
+    "cafes": []
+  },
+  "Edwardsburg": {
+    "city": "Edwardsburg",
+    "city_ascii": "Edwardsburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7965,
+    "lng": -86.0836,
+    "cafes": []
+  },
+  "Reading": {
+    "city": "Reading",
+    "city_ascii": "Reading",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8396,
+    "lng": -84.7478,
+    "cafes": []
+  },
+  "Birch Run": {
+    "city": "Birch Run",
+    "city_ascii": "Birch Run",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2503,
+    "lng": -83.7911,
+    "cafes": []
+  },
+  "Stockbridge": {
+    "city": "Stockbridge",
+    "city_ascii": "Stockbridge",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4483,
+    "lng": -84.1757,
+    "cafes": []
+  },
+  "Grass Lake": {
+    "city": "Grass Lake",
+    "city_ascii": "Grass Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2511,
+    "lng": -84.2073,
+    "cafes": []
+  },
+  "Kent City": {
+    "city": "Kent City",
+    "city_ascii": "Kent City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2202,
+    "lng": -85.7539,
+    "cafes": []
+  },
+  "Weidman": {
+    "city": "Weidman",
+    "city_ascii": "Weidman",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.7014,
+    "lng": -84.9745,
+    "cafes": []
+  },
+  "Sand Lake": {
+    "city": "Sand Lake",
+    "city_ascii": "Sand Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.3276,
+    "lng": -83.6711,
+    "cafes": []
+  },
+  "Brown City": {
+    "city": "Brown City",
+    "city_ascii": "Brown City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2115,
+    "lng": -82.988,
+    "cafes": []
+  },
+  "Luna Pier": {
+    "city": "Luna Pier",
+    "city_ascii": "Luna Pier",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8049,
+    "lng": -83.4426,
+    "cafes": []
+  },
+  "North Branch": {
+    "city": "North Branch",
+    "city_ascii": "North Branch",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2286,
+    "lng": -83.192,
+    "cafes": []
+  },
+  "Lawrence": {
+    "city": "Lawrence",
+    "city_ascii": "Lawrence",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2157,
+    "lng": -86.0534,
+    "cafes": []
+  },
+  "Baldwin": {
+    "city": "Baldwin",
+    "city_ascii": "Baldwin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8971,
+    "lng": -85.8531,
+    "cafes": []
+  },
+  "Carson City": {
+    "city": "Carson City",
+    "city_ascii": "Carson City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1815,
+    "lng": -84.8462,
+    "cafes": []
+  },
+  "Frankfort": {
+    "city": "Frankfort",
+    "city_ascii": "Frankfort",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6361,
+    "lng": -86.2332,
+    "cafes": []
+  },
+  "Concord": {
+    "city": "Concord",
+    "city_ascii": "Concord",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1762,
+    "lng": -84.6456,
+    "cafes": []
+  },
+  "Millington": {
+    "city": "Millington",
+    "city_ascii": "Millington",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2784,
+    "lng": -83.5273,
+    "cafes": []
+  },
+  "Quinnesec": {
+    "city": "Quinnesec",
+    "city_ascii": "Quinnesec",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.803,
+    "lng": -87.9958,
+    "cafes": []
+  },
+  "Athens": {
+    "city": "Athens",
+    "city_ascii": "Athens",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0866,
+    "lng": -85.2356,
+    "cafes": []
+  },
+  "Coleman": {
+    "city": "Coleman",
+    "city_ascii": "Coleman",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.7588,
+    "lng": -84.5869,
+    "cafes": []
+  },
+  "Grant": {
+    "city": "Grant",
+    "city_ascii": "Grant",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3348,
+    "lng": -85.8094,
+    "cafes": []
+  },
+  "Stevensville": {
+    "city": "Stevensville",
+    "city_ascii": "Stevensville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0139,
+    "lng": -86.5243,
+    "cafes": []
+  },
+  "Dryden": {
+    "city": "Dryden",
+    "city_ascii": "Dryden",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9456,
+    "lng": -83.124,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2671,
+    "lng": -82.5374,
+    "cafes": []
+  },
+  "Marcellus": {
+    "city": "Marcellus",
+    "city_ascii": "Marcellus",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0261,
+    "lng": -85.8131,
+    "cafes": []
+  },
+  "Memphis": {
+    "city": "Memphis",
+    "city_ascii": "Memphis",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8956,
+    "lng": -82.7689,
+    "cafes": []
+  },
+  "Pigeon": {
+    "city": "Pigeon",
+    "city_ascii": "Pigeon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8295,
+    "lng": -83.2702,
+    "cafes": []
+  },
+  "Farwell": {
+    "city": "Farwell",
+    "city_ascii": "Farwell",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8363,
+    "lng": -84.8677,
+    "cafes": []
+  },
+  "Fostoria": {
+    "city": "Fostoria",
+    "city_ascii": "Fostoria",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2492,
+    "lng": -83.372,
+    "cafes": []
+  },
+  "Lamont": {
+    "city": "Lamont",
+    "city_ascii": "Lamont",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0125,
+    "lng": -85.9061,
+    "cafes": []
+  },
+  "Lakes of the North": {
+    "city": "Lakes of the North",
+    "city_ascii": "Lakes of the North",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.9361,
+    "lng": -84.8845,
+    "cafes": []
+  },
+  "Dollar Bay": {
+    "city": "Dollar Bay",
+    "city_ascii": "Dollar Bay",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.1272,
+    "lng": -88.5091,
+    "cafes": []
+  },
+  "Deckerville": {
+    "city": "Deckerville",
+    "city_ascii": "Deckerville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5265,
+    "lng": -82.742,
+    "cafes": []
+  },
+  "Coloma": {
+    "city": "Coloma",
+    "city_ascii": "Coloma",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1864,
+    "lng": -86.3083,
+    "cafes": []
+  },
+  "Lakeview": {
+    "city": "Lakeview",
+    "city_ascii": "Lakeview",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4434,
+    "lng": -85.2738,
+    "cafes": []
+  },
+  "Brooklyn": {
+    "city": "Brooklyn",
+    "city_ascii": "Brooklyn",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1054,
+    "lng": -84.2487,
+    "cafes": []
+  },
+  "Lake Linden": {
+    "city": "Lake Linden",
+    "city_ascii": "Lake Linden",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.1939,
+    "lng": -88.4054,
+    "cafes": []
+  },
+  "Vineyard Lake": {
+    "city": "Vineyard Lake",
+    "city_ascii": "Vineyard Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0868,
+    "lng": -84.2102,
+    "cafes": []
+  },
+  "Beaverton": {
+    "city": "Beaverton",
+    "city_ascii": "Beaverton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8809,
+    "lng": -84.4883,
+    "cafes": []
+  },
+  "Roscommon": {
+    "city": "Roscommon",
+    "city_ascii": "Roscommon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.4915,
+    "lng": -84.5914,
+    "cafes": []
+  },
+  "Harbor Springs": {
+    "city": "Harbor Springs",
+    "city_ascii": "Harbor Springs",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.4326,
+    "lng": -84.989,
+    "cafes": []
+  },
+  "Richland": {
+    "city": "Richland",
+    "city_ascii": "Richland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3762,
+    "lng": -85.4553,
+    "cafes": []
+  },
+  "Chums Corner": {
+    "city": "Chums Corner",
+    "city_ascii": "Chums Corner",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6767,
+    "lng": -85.6564,
+    "cafes": []
+  },
+  "Hesperia": {
+    "city": "Hesperia",
+    "city_ascii": "Hesperia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5691,
+    "lng": -86.0407,
+    "cafes": []
+  },
+  "Lake Victoria": {
+    "city": "Lake Victoria",
+    "city_ascii": "Lake Victoria",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9168,
+    "lng": -84.3749,
+    "cafes": []
+  },
+  "Au Gres": {
+    "city": "Au Gres",
+    "city_ascii": "Au Gres",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.0432,
+    "lng": -83.6934,
+    "cafes": []
+  },
+  "Lewiston": {
+    "city": "Lewiston",
+    "city_ascii": "Lewiston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.8771,
+    "lng": -84.3047,
+    "cafes": []
+  },
+  "Hubbard Lake": {
+    "city": "Hubbard Lake",
+    "city_ascii": "Hubbard Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.8108,
+    "lng": -83.5605,
+    "cafes": []
+  },
+  "Central Lake": {
+    "city": "Central Lake",
+    "city_ascii": "Central Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.0694,
+    "lng": -85.2625,
+    "cafes": []
+  },
+  "Mayville": {
+    "city": "Mayville",
+    "city_ascii": "Mayville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3363,
+    "lng": -83.352,
+    "cafes": []
+  },
+  "Hubbell": {
+    "city": "Hubbell",
+    "city_ascii": "Hubbell",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.177,
+    "lng": -88.436,
+    "cafes": []
+  },
+  "Napoleon": {
+    "city": "Napoleon",
+    "city_ascii": "Napoleon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1658,
+    "lng": -84.2416,
+    "cafes": []
+  },
+  "Crystal": {
+    "city": "Crystal",
+    "city_ascii": "Crystal",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2642,
+    "lng": -84.9276,
+    "cafes": []
+  },
+  "Otisville": {
+    "city": "Otisville",
+    "city_ascii": "Otisville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1661,
+    "lng": -83.5247,
+    "cafes": []
+  },
+  "Elsie": {
+    "city": "Elsie",
+    "city_ascii": "Elsie",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0895,
+    "lng": -84.3889,
+    "cafes": []
+  },
+  "Alanson": {
+    "city": "Alanson",
+    "city_ascii": "Alanson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.4425,
+    "lng": -84.7871,
+    "cafes": []
+  },
+  "Baroda": {
+    "city": "Baroda",
+    "city_ascii": "Baroda",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9541,
+    "lng": -86.4879,
+    "cafes": []
+  },
+  "Stephenson": {
+    "city": "Stephenson",
+    "city_ascii": "Stephenson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.4137,
+    "lng": -87.6091,
+    "cafes": []
+  },
+  "Bellaire": {
+    "city": "Bellaire",
+    "city_ascii": "Bellaire",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.9739,
+    "lng": -85.2057,
+    "cafes": []
+  },
+  "Buckley": {
+    "city": "Buckley",
+    "city_ascii": "Buckley",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.5033,
+    "lng": -85.672,
+    "cafes": []
+  },
+  "Lake Michigan Beach": {
+    "city": "Lake Michigan Beach",
+    "city_ascii": "Lake Michigan Beach",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2127,
+    "lng": -86.376,
+    "cafes": []
+  },
+  "Chassell": {
+    "city": "Chassell",
+    "city_ascii": "Chassell",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.0316,
+    "lng": -88.5285,
+    "cafes": []
+  },
+  "Shoreham": {
+    "city": "Shoreham",
+    "city_ascii": "Shoreham",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0604,
+    "lng": -86.5115,
+    "cafes": []
+  },
+  "Westphalia": {
+    "city": "Westphalia",
+    "city_ascii": "Westphalia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9303,
+    "lng": -84.7981,
+    "cafes": []
+  },
+  "Deerfield": {
+    "city": "Deerfield",
+    "city_ascii": "Deerfield",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8901,
+    "lng": -83.779,
+    "cafes": []
+  },
+  "Ossineke": {
+    "city": "Ossineke",
+    "city_ascii": "Ossineke",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.9072,
+    "lng": -83.4287,
+    "cafes": []
+  },
+  "Pentwater": {
+    "city": "Pentwater",
+    "city_ascii": "Pentwater",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.7793,
+    "lng": -86.4303,
+    "cafes": []
+  },
+  "Burr Oak": {
+    "city": "Burr Oak",
+    "city_ascii": "Burr Oak",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8472,
+    "lng": -85.3212,
+    "cafes": []
+  },
+  "Delton": {
+    "city": "Delton",
+    "city_ascii": "Delton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4951,
+    "lng": -85.4117,
+    "cafes": []
+  },
+  "Attica": {
+    "city": "Attica",
+    "city_ascii": "Attica",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0313,
+    "lng": -83.1607,
+    "cafes": []
+  },
+  "Lyons": {
+    "city": "Lyons",
+    "city_ascii": "Lyons",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9834,
+    "lng": -84.9456,
+    "cafes": []
+  },
+  "Mendon": {
+    "city": "Mendon",
+    "city_ascii": "Mendon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0089,
+    "lng": -85.4544,
+    "cafes": []
+  },
+  "Pellston": {
+    "city": "Pellston",
+    "city_ascii": "Pellston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.5519,
+    "lng": -84.783,
+    "cafes": []
+  },
+  "Ubly": {
+    "city": "Ubly",
+    "city_ascii": "Ubly",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.7082,
+    "lng": -82.9356,
+    "cafes": []
+  },
+  "McBain": {
+    "city": "McBain",
+    "city_ascii": "McBain",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.1961,
+    "lng": -85.2154,
+    "cafes": []
+  },
+  "Merrill": {
+    "city": "Merrill",
+    "city_ascii": "Merrill",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4091,
+    "lng": -84.3345,
+    "cafes": []
+  },
+  "Grawn": {
+    "city": "Grawn",
+    "city_ascii": "Grawn",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6611,
+    "lng": -85.6883,
+    "cafes": []
+  },
+  "Springport": {
+    "city": "Springport",
+    "city_ascii": "Springport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3783,
+    "lng": -84.6965,
+    "cafes": []
+  },
+  "Sheridan": {
+    "city": "Sheridan",
+    "city_ascii": "Sheridan",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2086,
+    "lng": -85.0739,
+    "cafes": []
+  },
+  "Hopkins": {
+    "city": "Hopkins",
+    "city_ascii": "Hopkins",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6251,
+    "lng": -85.7633,
+    "cafes": []
+  },
+  "Climax": {
+    "city": "Climax",
+    "city_ascii": "Climax",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2383,
+    "lng": -85.336,
+    "cafes": []
+  },
+  "Port Sanilac": {
+    "city": "Port Sanilac",
+    "city_ascii": "Port Sanilac",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4275,
+    "lng": -82.5449,
+    "cafes": []
+  },
+  "Elkton": {
+    "city": "Elkton",
+    "city_ascii": "Elkton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8183,
+    "lng": -83.1809,
+    "cafes": []
+  },
+  "Vermontville": {
+    "city": "Vermontville",
+    "city_ascii": "Vermontville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.627,
+    "lng": -85.0249,
+    "cafes": []
+  },
+  "Metamora": {
+    "city": "Metamora",
+    "city_ascii": "Metamora",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9422,
+    "lng": -83.2897,
+    "cafes": []
+  },
+  "Oscoda": {
+    "city": "Oscoda",
+    "city_ascii": "Oscoda",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.425,
+    "lng": -83.3339,
+    "cafes": []
+  },
+  "Saugatuck": {
+    "city": "Saugatuck",
+    "city_ascii": "Saugatuck",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6592,
+    "lng": -86.2061,
+    "cafes": []
+  },
+  "Hillman": {
+    "city": "Hillman",
+    "city_ascii": "Hillman",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.0648,
+    "lng": -83.8974,
+    "cafes": []
+  },
+  "Lakeport": {
+    "city": "Lakeport",
+    "city_ascii": "Lakeport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1072,
+    "lng": -82.4937,
+    "cafes": []
+  },
+  "Benzonia": {
+    "city": "Benzonia",
+    "city_ascii": "Benzonia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6161,
+    "lng": -86.0989,
+    "cafes": []
+  },
+  "Hardwood Acres": {
+    "city": "Hardwood Acres",
+    "city_ascii": "Hardwood Acres",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.7213,
+    "lng": -85.8263,
+    "cafes": []
+  },
+  "Columbiaville": {
+    "city": "Columbiaville",
+    "city_ascii": "Columbiaville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1567,
+    "lng": -83.4069,
+    "cafes": []
+  },
+  "Augusta": {
+    "city": "Augusta",
+    "city_ascii": "Augusta",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3378,
+    "lng": -85.3525,
+    "cafes": []
+  },
+  "Maple Rapids": {
+    "city": "Maple Rapids",
+    "city_ascii": "Maple Rapids",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1077,
+    "lng": -84.6898,
+    "cafes": []
+  },
+  "Presque Isle Harbor": {
+    "city": "Presque Isle Harbor",
+    "city_ascii": "Presque Isle Harbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.3226,
+    "lng": -83.4858,
+    "cafes": []
+  },
+  "Hartland": {
+    "city": "Hartland",
+    "city_ascii": "Hartland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6597,
+    "lng": -83.7446,
+    "cafes": []
+  },
+  "Pittsford": {
+    "city": "Pittsford",
+    "city_ascii": "Pittsford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8619,
+    "lng": -84.4771,
+    "cafes": []
+  },
+  "Ruby": {
+    "city": "Ruby",
+    "city_ascii": "Ruby",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0323,
+    "lng": -82.6118,
+    "cafes": []
+  },
+  "Onaway": {
+    "city": "Onaway",
+    "city_ascii": "Onaway",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.3589,
+    "lng": -84.2274,
+    "cafes": []
+  },
+  "Britton": {
+    "city": "Britton",
+    "city_ascii": "Britton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9877,
+    "lng": -83.8304,
+    "cafes": []
+  },
+  "Calumet": {
+    "city": "Calumet",
+    "city_ascii": "Calumet",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.2478,
+    "lng": -88.4535,
+    "cafes": []
+  },
+  "Port Austin": {
+    "city": "Port Austin",
+    "city_ascii": "Port Austin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.0431,
+    "lng": -82.9945,
+    "cafes": []
+  },
+  "Caseville": {
+    "city": "Caseville",
+    "city_ascii": "Caseville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.9416,
+    "lng": -83.2734,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.1006,
+    "lng": -85.1438,
+    "cafes": []
+  },
+  "Lake City": {
+    "city": "Lake City",
+    "city_ascii": "Lake City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.3297,
+    "lng": -85.2085,
+    "cafes": []
+  },
+  "Mackinac Island": {
+    "city": "Mackinac Island",
+    "city_ascii": "Mackinac Island",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.8593,
+    "lng": -84.6253,
+    "cafes": []
+  },
+  "Ida": {
+    "city": "Ida",
+    "city_ascii": "Ida",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9063,
+    "lng": -83.5719,
+    "cafes": []
+  },
+  "Sunfield": {
+    "city": "Sunfield",
+    "city_ascii": "Sunfield",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7612,
+    "lng": -84.9952,
+    "cafes": []
+  },
+  "Maybee": {
+    "city": "Maybee",
+    "city_ascii": "Maybee",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0125,
+    "lng": -83.5096,
+    "cafes": []
+  },
+  "Byron": {
+    "city": "Byron",
+    "city_ascii": "Byron",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8239,
+    "lng": -83.9467,
+    "cafes": []
+  },
+  "Parma": {
+    "city": "Parma",
+    "city_ascii": "Parma",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.2633,
+    "lng": -84.5793,
+    "cafes": []
+  },
+  "Mackinaw City": {
+    "city": "Mackinaw City",
+    "city_ascii": "Mackinaw City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.7751,
+    "lng": -84.7479,
+    "cafes": []
+  },
+  "Atlanta": {
+    "city": "Atlanta",
+    "city_ascii": "Atlanta",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.0012,
+    "lng": -84.1513,
+    "cafes": []
+  },
+  "New Lothrop": {
+    "city": "New Lothrop",
+    "city_ascii": "New Lothrop",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1168,
+    "lng": -83.9693,
+    "cafes": []
+  },
+  "Muir": {
+    "city": "Muir",
+    "city_ascii": "Muir",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9973,
+    "lng": -84.9359,
+    "cafes": []
+  },
+  "Parkdale": {
+    "city": "Parkdale",
+    "city_ascii": "Parkdale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.272,
+    "lng": -86.2805,
+    "cafes": []
+  },
+  "Unionville": {
+    "city": "Unionville",
+    "city_ascii": "Unionville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6538,
+    "lng": -83.4671,
+    "cafes": []
+  },
+  "Vernon": {
+    "city": "Vernon",
+    "city_ascii": "Vernon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9392,
+    "lng": -84.033,
+    "cafes": []
+  },
+  "Hermansville": {
+    "city": "Hermansville",
+    "city_ascii": "Hermansville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.7093,
+    "lng": -87.6079,
+    "cafes": []
+  },
+  "Freeport": {
+    "city": "Freeport",
+    "city_ascii": "Freeport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7642,
+    "lng": -85.316,
+    "cafes": []
+  },
+  "Camden": {
+    "city": "Camden",
+    "city_ascii": "Camden",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.755,
+    "lng": -84.7562,
+    "cafes": []
+  },
+  "Bay Shore": {
+    "city": "Bay Shore",
+    "city_ascii": "Bay Shore",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.3609,
+    "lng": -85.1115,
+    "cafes": []
+  },
+  "Morley": {
+    "city": "Morley",
+    "city_ascii": "Morley",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4908,
+    "lng": -85.4456,
+    "cafes": []
+  },
+  "Waldron": {
+    "city": "Waldron",
+    "city_ascii": "Waldron",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7242,
+    "lng": -84.4188,
+    "cafes": []
+  },
+  "Middletown": {
+    "city": "Middletown",
+    "city_ascii": "Middletown",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9869,
+    "lng": -84.1445,
+    "cafes": []
+  },
+  "Gobles": {
+    "city": "Gobles",
+    "city_ascii": "Gobles",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3617,
+    "lng": -85.8774,
+    "cafes": []
+  },
+  "Dansville": {
+    "city": "Dansville",
+    "city_ascii": "Dansville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5558,
+    "lng": -84.303,
+    "cafes": []
+  },
+  "Rose City": {
+    "city": "Rose City",
+    "city_ascii": "Rose City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.4209,
+    "lng": -84.116,
+    "cafes": []
+  },
+  "South Range": {
+    "city": "South Range",
+    "city_ascii": "South Range",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.0703,
+    "lng": -88.644,
+    "cafes": []
+  },
+  "Suttons Bay": {
+    "city": "Suttons Bay",
+    "city_ascii": "Suttons Bay",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.98,
+    "lng": -85.6506,
+    "cafes": []
+  },
+  "Trufant": {
+    "city": "Trufant",
+    "city_ascii": "Trufant",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3172,
+    "lng": -85.3528,
+    "cafes": []
+  },
+  "Addison": {
+    "city": "Addison",
+    "city_ascii": "Addison",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9862,
+    "lng": -84.3491,
+    "cafes": []
+  },
+  "Cement City": {
+    "city": "Cement City",
+    "city_ascii": "Cement City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0682,
+    "lng": -84.3282,
+    "cafes": []
+  },
+  "Tekonsha": {
+    "city": "Tekonsha",
+    "city_ascii": "Tekonsha",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.0964,
+    "lng": -84.9903,
+    "cafes": []
+  },
+  "Bancroft": {
+    "city": "Bancroft",
+    "city_ascii": "Bancroft",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8766,
+    "lng": -84.0658,
+    "cafes": []
+  },
+  "Martin": {
+    "city": "Martin",
+    "city_ascii": "Martin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.537,
+    "lng": -85.6389,
+    "cafes": []
+  },
+  "Bay Port": {
+    "city": "Bay Port",
+    "city_ascii": "Bay Port",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8375,
+    "lng": -83.374,
+    "cafes": []
+  },
+  "Caspian": {
+    "city": "Caspian",
+    "city_ascii": "Caspian",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.0653,
+    "lng": -88.6266,
+    "cafes": []
+  },
+  "Robin Glen-Indiantown": {
+    "city": "Robin Glen-Indiantown",
+    "city_ascii": "Robin Glen-Indiantown",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4618,
+    "lng": -83.8408,
+    "cafes": []
+  },
+  "Mulliken": {
+    "city": "Mulliken",
+    "city_ascii": "Mulliken",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.763,
+    "lng": -84.8963,
+    "cafes": []
+  },
+  "Interlochen": {
+    "city": "Interlochen",
+    "city_ascii": "Interlochen",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6497,
+    "lng": -85.7678,
+    "cafes": []
+  },
+  "Republic": {
+    "city": "Republic",
+    "city_ascii": "Republic",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.3956,
+    "lng": -87.9819,
+    "cafes": []
+  },
+  "Peck": {
+    "city": "Peck",
+    "city_ascii": "Peck",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2588,
+    "lng": -82.8167,
+    "cafes": []
+  },
+  "South Boardman": {
+    "city": "South Boardman",
+    "city_ascii": "South Boardman",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.64,
+    "lng": -85.2864,
+    "cafes": []
+  },
+  "Kaleva": {
+    "city": "Kaleva",
+    "city_ascii": "Kaleva",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.3723,
+    "lng": -86.0135,
+    "cafes": []
+  },
+  "Galien": {
+    "city": "Galien",
+    "city_ascii": "Galien",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8015,
+    "lng": -86.4995,
+    "cafes": []
+  },
+  "Atlantic Mine": {
+    "city": "Atlantic Mine",
+    "city_ascii": "Atlantic Mine",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.1037,
+    "lng": -88.6281,
+    "cafes": []
+  },
+  "Pewamo": {
+    "city": "Pewamo",
+    "city_ascii": "Pewamo",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.002,
+    "lng": -84.8473,
+    "cafes": []
+  },
+  "Mecosta": {
+    "city": "Mecosta",
+    "city_ascii": "Mecosta",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.621,
+    "lng": -85.2304,
+    "cafes": []
+  },
+  "Thompsonville": {
+    "city": "Thompsonville",
+    "city_ascii": "Thompsonville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.5205,
+    "lng": -85.9388,
+    "cafes": []
+  },
+  "Eau Claire": {
+    "city": "Eau Claire",
+    "city_ascii": "Eau Claire",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9853,
+    "lng": -86.304,
+    "cafes": []
+  },
+  "Millers Lake": {
+    "city": "Millers Lake",
+    "city_ascii": "Millers Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.18,
+    "lng": -83.3257,
+    "cafes": []
+  },
+  "Shaftsburg": {
+    "city": "Shaftsburg",
+    "city_ascii": "Shaftsburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8059,
+    "lng": -84.295,
+    "cafes": []
+  },
+  "Oden": {
+    "city": "Oden",
+    "city_ascii": "Oden",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.4251,
+    "lng": -84.8257,
+    "cafes": []
+  },
+  "Fairgrove": {
+    "city": "Fairgrove",
+    "city_ascii": "Fairgrove",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5245,
+    "lng": -83.5434,
+    "cafes": []
+  },
+  "Gaines": {
+    "city": "Gaines",
+    "city_ascii": "Gaines",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8725,
+    "lng": -83.9108,
+    "cafes": []
+  },
+  "Woodland": {
+    "city": "Woodland",
+    "city_ascii": "Woodland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.7268,
+    "lng": -85.1344,
+    "cafes": []
+  },
+  "Harrisville": {
+    "city": "Harrisville",
+    "city_ascii": "Harrisville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6575,
+    "lng": -83.2945,
+    "cafes": []
+  },
+  "North Adams": {
+    "city": "North Adams",
+    "city_ascii": "North Adams",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9707,
+    "lng": -84.5251,
+    "cafes": []
+  },
+  "Barton Hills": {
+    "city": "Barton Hills",
+    "city_ascii": "Barton Hills",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3167,
+    "lng": -83.7561,
+    "cafes": []
+  },
+  "Barnes Lake": {
+    "city": "Barnes Lake",
+    "city_ascii": "Barnes Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1792,
+    "lng": -83.3002,
+    "cafes": []
+  },
+  "Perrinton": {
+    "city": "Perrinton",
+    "city_ascii": "Perrinton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1807,
+    "lng": -84.6793,
+    "cafes": []
+  },
+  "Bloomingdale": {
+    "city": "Bloomingdale",
+    "city_ascii": "Bloomingdale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3833,
+    "lng": -85.959,
+    "cafes": []
+  },
+  "New Era": {
+    "city": "New Era",
+    "city_ascii": "New Era",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5595,
+    "lng": -86.3477,
+    "cafes": []
+  },
+  "Whittemore": {
+    "city": "Whittemore",
+    "city_ascii": "Whittemore",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2337,
+    "lng": -83.8033,
+    "cafes": []
+  },
+  "Ashley": {
+    "city": "Ashley",
+    "city_ascii": "Ashley",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1873,
+    "lng": -84.4762,
+    "cafes": []
+  },
+  "Oak Hill": {
+    "city": "Oak Hill",
+    "city_ascii": "Oak Hill",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2197,
+    "lng": -86.3031,
+    "cafes": []
+  },
+  "Sterling": {
+    "city": "Sterling",
+    "city_ascii": "Sterling",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.0325,
+    "lng": -84.0194,
+    "cafes": []
+  },
+  "Millburg": {
+    "city": "Millburg",
+    "city_ascii": "Millburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1236,
+    "lng": -86.3466,
+    "cafes": []
+  },
+  "Carsonville": {
+    "city": "Carsonville",
+    "city_ascii": "Carsonville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4257,
+    "lng": -82.673,
+    "cafes": []
+  },
+  "Wellston": {
+    "city": "Wellston",
+    "city_ascii": "Wellston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2179,
+    "lng": -85.962,
+    "cafes": []
+  },
+  "Hubbardston": {
+    "city": "Hubbardston",
+    "city_ascii": "Hubbardston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0943,
+    "lng": -84.842,
+    "cafes": []
+  },
+  "Mesick": {
+    "city": "Mesick",
+    "city_ascii": "Mesick",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.4043,
+    "lng": -85.7171,
+    "cafes": []
+  },
+  "Northport": {
+    "city": "Northport",
+    "city_ascii": "Northport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.1303,
+    "lng": -85.6171,
+    "cafes": []
+  },
+  "Hanover": {
+    "city": "Hanover",
+    "city_ascii": "Hanover",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1001,
+    "lng": -84.5542,
+    "cafes": []
+  },
+  "Palo": {
+    "city": "Palo",
+    "city_ascii": "Palo",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1106,
+    "lng": -84.9861,
+    "cafes": []
+  },
+  "Lost Lake Woods": {
+    "city": "Lost Lake Woods",
+    "city_ascii": "Lost Lake Woods",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.7926,
+    "lng": -83.4223,
+    "cafes": []
+  },
+  "Carp Lake": {
+    "city": "Carp Lake",
+    "city_ascii": "Carp Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.689,
+    "lng": -84.7582,
+    "cafes": []
+  },
+  "Estral Beach": {
+    "city": "Estral Beach",
+    "city_ascii": "Estral Beach",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9869,
+    "lng": -83.2357,
+    "cafes": []
+  },
+  "Barryton": {
+    "city": "Barryton",
+    "city_ascii": "Barryton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.7505,
+    "lng": -85.1436,
+    "cafes": []
+  },
+  "Brethren": {
+    "city": "Brethren",
+    "city_ascii": "Brethren",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.3048,
+    "lng": -86.0168,
+    "cafes": []
+  },
+  "White Pine": {
+    "city": "White Pine",
+    "city_ascii": "White Pine",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.7402,
+    "lng": -89.5813,
+    "cafes": []
+  },
+  "Clarksville": {
+    "city": "Clarksville",
+    "city_ascii": "Clarksville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8421,
+    "lng": -85.2425,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4128,
+    "lng": -83.1863,
+    "cafes": []
+  },
+  "Vanderbilt": {
+    "city": "Vanderbilt",
+    "city_ascii": "Vanderbilt",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.1436,
+    "lng": -84.6639,
+    "cafes": []
+  },
+  "Lennon": {
+    "city": "Lennon",
+    "city_ascii": "Lennon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9855,
+    "lng": -83.9325,
+    "cafes": []
+  },
+  "Casnovia": {
+    "city": "Casnovia",
+    "city_ascii": "Casnovia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2336,
+    "lng": -85.7895,
+    "cafes": []
+  },
+  "Leland": {
+    "city": "Leland",
+    "city_ascii": "Leland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.0214,
+    "lng": -85.7575,
+    "cafes": []
+  },
+  "Kinde": {
+    "city": "Kinde",
+    "city_ascii": "Kinde",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.9405,
+    "lng": -82.9963,
+    "cafes": []
+  },
+  "Sherwood": {
+    "city": "Sherwood",
+    "city_ascii": "Sherwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9997,
+    "lng": -85.2394,
+    "cafes": []
+  },
+  "Otter Lake": {
+    "city": "Otter Lake",
+    "city_ascii": "Otter Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.2138,
+    "lng": -83.4595,
+    "cafes": []
+  },
+  "Empire": {
+    "city": "Empire",
+    "city_ascii": "Empire",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.8126,
+    "lng": -86.0594,
+    "cafes": []
+  },
+  "Brimley": {
+    "city": "Brimley",
+    "city_ascii": "Brimley",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.406,
+    "lng": -84.5786,
+    "cafes": []
+  },
+  "New Troy": {
+    "city": "New Troy",
+    "city_ascii": "New Troy",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.879,
+    "lng": -86.5475,
+    "cafes": []
+  },
+  "Rothbury": {
+    "city": "Rothbury",
+    "city_ascii": "Rothbury",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5199,
+    "lng": -86.3588,
+    "cafes": []
+  },
+  "Luther": {
+    "city": "Luther",
+    "city_ascii": "Luther",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.0386,
+    "lng": -85.6827,
+    "cafes": []
+  },
+  "Advance": {
+    "city": "Advance",
+    "city_ascii": "Advance",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.2161,
+    "lng": -85.0807,
+    "cafes": []
+  },
+  "Powers": {
+    "city": "Powers",
+    "city_ascii": "Powers",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.6878,
+    "lng": -87.5266,
+    "cafes": []
+  },
+  "Vandalia": {
+    "city": "Vandalia",
+    "city_ascii": "Vandalia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9189,
+    "lng": -85.9143,
+    "cafes": []
+  },
+  "Eastport": {
+    "city": "Eastport",
+    "city_ascii": "Eastport",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.1112,
+    "lng": -85.3518,
+    "cafes": []
+  },
+  "Grand Beach": {
+    "city": "Grand Beach",
+    "city_ascii": "Grand Beach",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.774,
+    "lng": -86.7887,
+    "cafes": []
+  },
+  "Manistee Lake": {
+    "city": "Manistee Lake",
+    "city_ascii": "Manistee Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.7841,
+    "lng": -85.0211,
+    "cafes": []
+  },
+  "Fife Lake": {
+    "city": "Fife Lake",
+    "city_ascii": "Fife Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.5731,
+    "lng": -85.3511,
+    "cafes": []
+  },
+  "Leonard": {
+    "city": "Leonard",
+    "city_ascii": "Leonard",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8652,
+    "lng": -83.1429,
+    "cafes": []
+  },
+  "Jasper": {
+    "city": "Jasper",
+    "city_ascii": "Jasper",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7859,
+    "lng": -84.0403,
+    "cafes": []
+  },
+  "Painesdale": {
+    "city": "Painesdale",
+    "city_ascii": "Painesdale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.0435,
+    "lng": -88.6715,
+    "cafes": []
+  },
+  "Zeba": {
+    "city": "Zeba",
+    "city_ascii": "Zeba",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.7928,
+    "lng": -88.4133,
+    "cafes": []
+  },
+  "Prescott": {
+    "city": "Prescott",
+    "city_ascii": "Prescott",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.1916,
+    "lng": -83.9323,
+    "cafes": []
+  },
+  "Horton Bay": {
+    "city": "Horton Bay",
+    "city_ascii": "Horton Bay",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.2814,
+    "lng": -85.0742,
+    "cafes": []
+  },
+  "Dowling": {
+    "city": "Dowling",
+    "city_ascii": "Dowling",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.5227,
+    "lng": -85.2531,
+    "cafes": []
+  },
+  "Palmer": {
+    "city": "Palmer",
+    "city_ascii": "Palmer",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.4436,
+    "lng": -87.5817,
+    "cafes": []
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0872,
+    "lng": -84.1933,
+    "cafes": []
+  },
+  "Rosebush": {
+    "city": "Rosebush",
+    "city_ascii": "Rosebush",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6998,
+    "lng": -84.7657,
+    "cafes": []
+  },
+  "Canada Creek Ranch": {
+    "city": "Canada Creek Ranch",
+    "city_ascii": "Canada Creek Ranch",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.1738,
+    "lng": -84.2128,
+    "cafes": []
+  },
+  "Gaastra": {
+    "city": "Gaastra",
+    "city_ascii": "Gaastra",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.0557,
+    "lng": -88.605,
+    "cafes": []
+  },
+  "Gagetown": {
+    "city": "Gagetown",
+    "city_ascii": "Gagetown",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6572,
+    "lng": -83.2449,
+    "cafes": []
+  },
+  "Onekama": {
+    "city": "Onekama",
+    "city_ascii": "Onekama",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.3656,
+    "lng": -86.2021,
+    "cafes": []
+  },
+  "Montgomery": {
+    "city": "Montgomery",
+    "city_ascii": "Montgomery",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7775,
+    "lng": -84.8064,
+    "cafes": []
+  },
+  "Hersey": {
+    "city": "Hersey",
+    "city_ascii": "Hersey",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.8513,
+    "lng": -85.4419,
+    "cafes": []
+  },
+  "Boyne Falls": {
+    "city": "Boyne Falls",
+    "city_ascii": "Boyne Falls",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.1678,
+    "lng": -84.9131,
+    "cafes": []
+  },
+  "Breedsville": {
+    "city": "Breedsville",
+    "city_ascii": "Breedsville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3489,
+    "lng": -86.0716,
+    "cafes": []
+  },
+  "Glen Arbor": {
+    "city": "Glen Arbor",
+    "city_ascii": "Glen Arbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.896,
+    "lng": -85.9899,
+    "cafes": []
+  },
+  "Beal City": {
+    "city": "Beal City",
+    "city_ascii": "Beal City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6692,
+    "lng": -84.9086,
+    "cafes": []
+  },
+  "Akron": {
+    "city": "Akron",
+    "city_ascii": "Akron",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5667,
+    "lng": -83.5143,
+    "cafes": []
+  },
+  "Big Bay": {
+    "city": "Big Bay",
+    "city_ascii": "Big Bay",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.8145,
+    "lng": -87.6997,
+    "cafes": []
+  },
+  "Alba": {
+    "city": "Alba",
+    "city_ascii": "Alba",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.9786,
+    "lng": -84.9695,
+    "cafes": []
+  },
+  "Eastlake": {
+    "city": "Eastlake",
+    "city_ascii": "Eastlake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2449,
+    "lng": -86.2927,
+    "cafes": []
+  },
+  "Dodgeville": {
+    "city": "Dodgeville",
+    "city_ascii": "Dodgeville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.0909,
+    "lng": -88.5828,
+    "cafes": []
+  },
+  "Clifford": {
+    "city": "Clifford",
+    "city_ascii": "Clifford",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3148,
+    "lng": -83.1793,
+    "cafes": []
+  },
+  "Port Hope": {
+    "city": "Port Hope",
+    "city_ascii": "Port Hope",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.9394,
+    "lng": -82.7153,
+    "cafes": []
+  },
+  "Haring": {
+    "city": "Haring",
+    "city_ascii": "Haring",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2819,
+    "lng": -85.4007,
+    "cafes": []
+  },
+  "Michiana": {
+    "city": "Michiana",
+    "city_ascii": "Michiana",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.7637,
+    "lng": -86.8113,
+    "cafes": []
+  },
+  "Custer": {
+    "city": "Custer",
+    "city_ascii": "Custer",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.9511,
+    "lng": -86.2196,
+    "cafes": []
+  },
+  "Ewen": {
+    "city": "Ewen",
+    "city_ascii": "Ewen",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.5331,
+    "lng": -89.2852,
+    "cafes": []
+  },
+  "Posen": {
+    "city": "Posen",
+    "city_ascii": "Posen",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.2622,
+    "lng": -83.6989,
+    "cafes": []
+  },
+  "Bendon": {
+    "city": "Bendon",
+    "city_ascii": "Bendon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.637,
+    "lng": -85.8378,
+    "cafes": []
+  },
+  "Ellsworth": {
+    "city": "Ellsworth",
+    "city_ascii": "Ellsworth",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.1665,
+    "lng": -85.2435,
+    "cafes": []
+  },
+  "Lupton": {
+    "city": "Lupton",
+    "city_ascii": "Lupton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.4297,
+    "lng": -84.0225,
+    "cafes": []
+  },
+  "Walkerville": {
+    "city": "Walkerville",
+    "city_ascii": "Walkerville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.7143,
+    "lng": -86.1259,
+    "cafes": []
+  },
+  "Copemish": {
+    "city": "Copemish",
+    "city_ascii": "Copemish",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.4804,
+    "lng": -85.9242,
+    "cafes": []
+  },
+  "Lake Angelus": {
+    "city": "Lake Angelus",
+    "city_ascii": "Lake Angelus",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.6921,
+    "lng": -83.3216,
+    "cafes": []
+  },
+  "Snover": {
+    "city": "Snover",
+    "city_ascii": "Snover",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.4564,
+    "lng": -82.9684,
+    "cafes": []
+  },
+  "Watersmeet": {
+    "city": "Watersmeet",
+    "city_ascii": "Watersmeet",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.2872,
+    "lng": -89.1937,
+    "cafes": []
+  },
+  "Wedgewood": {
+    "city": "Wedgewood",
+    "city_ascii": "Wedgewood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.1937,
+    "lng": -85.4902,
+    "cafes": []
+  },
+  "Tower": {
+    "city": "Tower",
+    "city_ascii": "Tower",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.3543,
+    "lng": -84.2976,
+    "cafes": []
+  },
+  "Bruce Crossing": {
+    "city": "Bruce Crossing",
+    "city_ascii": "Bruce Crossing",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.5394,
+    "lng": -89.1779,
+    "cafes": []
+  },
+  "Jennings": {
+    "city": "Jennings",
+    "city_ascii": "Jennings",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.3325,
+    "lng": -85.2969,
+    "cafes": []
+  },
+  "Riverdale": {
+    "city": "Riverdale",
+    "city_ascii": "Riverdale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3828,
+    "lng": -84.8392,
+    "cafes": []
+  },
+  "Amasa": {
+    "city": "Amasa",
+    "city_ascii": "Amasa",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.2295,
+    "lng": -88.4579,
+    "cafes": []
+  },
+  "Mohawk": {
+    "city": "Mohawk",
+    "city_ascii": "Mohawk",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.3078,
+    "lng": -88.3542,
+    "cafes": []
+  },
+  "St. James": {
+    "city": "St. James",
+    "city_ascii": "St. James",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.7473,
+    "lng": -85.5173,
+    "cafes": []
+  },
+  "Walloon Lake": {
+    "city": "Walloon Lake",
+    "city_ascii": "Walloon Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.2718,
+    "lng": -84.9412,
+    "cafes": []
+  },
+  "Oakley": {
+    "city": "Oakley",
+    "city_ascii": "Oakley",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1434,
+    "lng": -84.1685,
+    "cafes": []
+  },
+  "Grand Marais": {
+    "city": "Grand Marais",
+    "city_ascii": "Grand Marais",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.6685,
+    "lng": -85.9751,
+    "cafes": []
+  },
+  "Applegate": {
+    "city": "Applegate",
+    "city_ascii": "Applegate",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3554,
+    "lng": -82.6371,
+    "cafes": []
+  },
+  "Lincoln": {
+    "city": "Lincoln",
+    "city_ascii": "Lincoln",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6842,
+    "lng": -83.4133,
+    "cafes": []
+  },
+  "Rockland": {
+    "city": "Rockland",
+    "city_ascii": "Rockland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.7394,
+    "lng": -89.1795,
+    "cafes": []
+  },
+  "Omer": {
+    "city": "Omer",
+    "city_ascii": "Omer",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.0487,
+    "lng": -83.8565,
+    "cafes": []
+  },
+  "Bear Lake": {
+    "city": "Bear Lake",
+    "city_ascii": "Bear Lake",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.7182,
+    "lng": -84.9486,
+    "cafes": []
+  },
+  "Omena": {
+    "city": "Omena",
+    "city_ascii": "Omena",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.0599,
+    "lng": -85.5956,
+    "cafes": []
+  },
+  "Lake Ann": {
+    "city": "Lake Ann",
+    "city_ascii": "Lake Ann",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.7251,
+    "lng": -85.8451,
+    "cafes": []
+  },
+  "De Tour Village": {
+    "city": "De Tour Village",
+    "city_ascii": "De Tour Village",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.9891,
+    "lng": -83.9146,
+    "cafes": []
+  },
+  "Burlington": {
+    "city": "Burlington",
+    "city_ascii": "Burlington",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1047,
+    "lng": -85.0776,
+    "cafes": []
+  },
+  "Rapid River": {
+    "city": "Rapid River",
+    "city_ascii": "Rapid River",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.9264,
+    "lng": -86.9743,
+    "cafes": []
+  },
+  "Beulah": {
+    "city": "Beulah",
+    "city_ascii": "Beulah",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6292,
+    "lng": -86.0963,
+    "cafes": []
+  },
+  "Fountain": {
+    "city": "Fountain",
+    "city_ascii": "Fountain",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.0484,
+    "lng": -86.181,
+    "cafes": []
+  },
+  "Wolverine": {
+    "city": "Wolverine",
+    "city_ascii": "Wolverine",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.2732,
+    "lng": -84.6052,
+    "cafes": []
+  },
+  "Copper City": {
+    "city": "Copper City",
+    "city_ascii": "Copper City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.2842,
+    "lng": -88.3877,
+    "cafes": []
+  },
+  "Elm Hall": {
+    "city": "Elm Hall",
+    "city_ascii": "Elm Hall",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3624,
+    "lng": -84.8335,
+    "cafes": []
+  },
+  "Lake Leelanau": {
+    "city": "Lake Leelanau",
+    "city_ascii": "Lake Leelanau",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.9806,
+    "lng": -85.7157,
+    "cafes": []
+  },
+  "Three Lakes": {
+    "city": "Three Lakes",
+    "city_ascii": "Three Lakes",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.541,
+    "lng": -88.1933,
+    "cafes": []
+  },
+  "Alpha": {
+    "city": "Alpha",
+    "city_ascii": "Alpha",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.0441,
+    "lng": -88.3776,
+    "cafes": []
+  },
+  "McBride": {
+    "city": "McBride",
+    "city_ascii": "McBride",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3521,
+    "lng": -85.0441,
+    "cafes": []
+  },
+  "Loomis": {
+    "city": "Loomis",
+    "city_ascii": "Loomis",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.7882,
+    "lng": -84.6659,
+    "cafes": []
+  },
+  "Brutus": {
+    "city": "Brutus",
+    "city_ascii": "Brutus",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.4942,
+    "lng": -84.7818,
+    "cafes": []
+  },
+  "Tustin": {
+    "city": "Tustin",
+    "city_ascii": "Tustin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.1009,
+    "lng": -85.4589,
+    "cafes": []
+  },
+  "Winn": {
+    "city": "Winn",
+    "city_ascii": "Winn",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5187,
+    "lng": -84.9011,
+    "cafes": []
+  },
+  "Clayton": {
+    "city": "Clayton",
+    "city_ascii": "Clayton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8649,
+    "lng": -84.2347,
+    "cafes": []
+  },
+  "Emmett": {
+    "city": "Emmett",
+    "city_ascii": "Emmett",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9934,
+    "lng": -82.7653,
+    "cafes": []
+  },
+  "Le Roy": {
+    "city": "Le Roy",
+    "city_ascii": "Le Roy",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.0381,
+    "lng": -85.4538,
+    "cafes": []
+  },
+  "Allen": {
+    "city": "Allen",
+    "city_ascii": "Allen",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.9581,
+    "lng": -84.768,
+    "cafes": []
+  },
+  "Daggett": {
+    "city": "Daggett",
+    "city_ascii": "Daggett",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.462,
+    "lng": -87.6047,
+    "cafes": []
+  },
+  "Twining": {
+    "city": "Twining",
+    "city_ascii": "Twining",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.1131,
+    "lng": -83.8075,
+    "cafes": []
+  },
+  "Owendale": {
+    "city": "Owendale",
+    "city_ascii": "Owendale",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.7273,
+    "lng": -83.2671,
+    "cafes": []
+  },
+  "Melvin": {
+    "city": "Melvin",
+    "city_ascii": "Melvin",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1864,
+    "lng": -82.8617,
+    "cafes": []
+  },
+  "Mass City": {
+    "city": "Mass City",
+    "city_ascii": "Mass City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.7616,
+    "lng": -89.0849,
+    "cafes": []
+  },
+  "Carney": {
+    "city": "Carney",
+    "city_ascii": "Carney",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.5935,
+    "lng": -87.5547,
+    "cafes": []
+  },
+  "Marenisco": {
+    "city": "Marenisco",
+    "city_ascii": "Marenisco",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.3737,
+    "lng": -89.712,
+    "cafes": []
+  },
+  "Millersburg": {
+    "city": "Millersburg",
+    "city_ascii": "Millersburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.3344,
+    "lng": -84.0601,
+    "cafes": []
+  },
+  "Michigamme": {
+    "city": "Michigamme",
+    "city_ascii": "Michigamme",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.5335,
+    "lng": -88.0627,
+    "cafes": []
+  },
+  "Maple City": {
+    "city": "Maple City",
+    "city_ascii": "Maple City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.8556,
+    "lng": -85.8573,
+    "cafes": []
+  },
+  "Harrietta": {
+    "city": "Harrietta",
+    "city_ascii": "Harrietta",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.3091,
+    "lng": -85.7007,
+    "cafes": []
+  },
+  "Trimountain": {
+    "city": "Trimountain",
+    "city_ascii": "Trimountain",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.0557,
+    "lng": -88.6587,
+    "cafes": []
+  },
+  "Falmouth": {
+    "city": "Falmouth",
+    "city_ascii": "Falmouth",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2429,
+    "lng": -85.0848,
+    "cafes": []
+  },
+  "Mears": {
+    "city": "Mears",
+    "city_ascii": "Mears",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6835,
+    "lng": -86.4222,
+    "cafes": []
+  },
+  "Fulton": {
+    "city": "Fulton",
+    "city_ascii": "Fulton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.2992,
+    "lng": -88.3607,
+    "cafes": []
+  },
+  "Stronach": {
+    "city": "Stronach",
+    "city_ascii": "Stronach",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2131,
+    "lng": -86.2731,
+    "cafes": []
+  },
+  "Ironton": {
+    "city": "Ironton",
+    "city_ascii": "Ironton",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.257,
+    "lng": -85.1929,
+    "cafes": []
+  },
+  "Filer City": {
+    "city": "Filer City",
+    "city_ascii": "Filer City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2149,
+    "lng": -86.289,
+    "cafes": []
+  },
+  "Minden City": {
+    "city": "Minden City",
+    "city_ascii": "Minden City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6715,
+    "lng": -82.7757,
+    "cafes": []
+  },
+  "Ramsay": {
+    "city": "Ramsay",
+    "city_ascii": "Ramsay",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.47,
+    "lng": -89.9978,
+    "cafes": []
+  },
+  "Elberta": {
+    "city": "Elberta",
+    "city_ascii": "Elberta",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6209,
+    "lng": -86.231,
+    "cafes": []
+  },
+  "Rock": {
+    "city": "Rock",
+    "city_ascii": "Rock",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.0686,
+    "lng": -87.1616,
+    "cafes": []
+  },
+  "Paris": {
+    "city": "Paris",
+    "city_ascii": "Paris",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.7814,
+    "lng": -85.5067,
+    "cafes": []
+  },
+  "Cannonsburg": {
+    "city": "Cannonsburg",
+    "city_ascii": "Cannonsburg",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.0538,
+    "lng": -85.4714,
+    "cafes": []
+  },
+  "Garden": {
+    "city": "Garden",
+    "city_ascii": "Garden",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.773,
+    "lng": -86.5529,
+    "cafes": []
+  },
+  "Stanwood": {
+    "city": "Stanwood",
+    "city_ascii": "Stanwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.5805,
+    "lng": -85.4481,
+    "cafes": []
+  },
+  "Conway": {
+    "city": "Conway",
+    "city_ascii": "Conway",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.4188,
+    "lng": -84.8634,
+    "cafes": []
+  },
+  "Nunica": {
+    "city": "Nunica",
+    "city_ascii": "Nunica",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.081,
+    "lng": -86.0721,
+    "cafes": []
+  },
+  "Maple Grove": {
+    "city": "Maple Grove",
+    "city_ascii": "Maple Grove",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.7091,
+    "lng": -85.8538,
+    "cafes": []
+  },
+  "Hurontown": {
+    "city": "Hurontown",
+    "city_ascii": "Hurontown",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.1091,
+    "lng": -88.5737,
+    "cafes": []
+  },
+  "Cambria": {
+    "city": "Cambria",
+    "city_ascii": "Cambria",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 41.8181,
+    "lng": -84.6628,
+    "cafes": []
+  },
+  "Bay View": {
+    "city": "Bay View",
+    "city_ascii": "Bay View",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.386,
+    "lng": -84.929,
+    "cafes": []
+  },
+  "Hickory Corners": {
+    "city": "Hickory Corners",
+    "city_ascii": "Hickory Corners",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.4363,
+    "lng": -85.3793,
+    "cafes": []
+  },
+  "Honor": {
+    "city": "Honor",
+    "city_ascii": "Honor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6666,
+    "lng": -86.0201,
+    "cafes": []
+  },
+  "Scotts": {
+    "city": "Scotts",
+    "city_ascii": "Scotts",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.1941,
+    "lng": -85.4137,
+    "cafes": []
+  },
+  "Forestville": {
+    "city": "Forestville",
+    "city_ascii": "Forestville",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.6599,
+    "lng": -82.6126,
+    "cafes": []
+  },
+  "Pierson": {
+    "city": "Pierson",
+    "city_ascii": "Pierson",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.3196,
+    "lng": -85.4975,
+    "cafes": []
+  },
+  "Free Soil": {
+    "city": "Free Soil",
+    "city_ascii": "Free Soil",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.1071,
+    "lng": -86.211,
+    "cafes": []
+  },
+  "Copper Harbor": {
+    "city": "Copper Harbor",
+    "city_ascii": "Copper Harbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.47,
+    "lng": -87.8767,
+    "cafes": []
+  },
+  "Eagle Harbor": {
+    "city": "Eagle Harbor",
+    "city_ascii": "Eagle Harbor",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.4542,
+    "lng": -88.1569,
+    "cafes": []
+  },
+  "Arcadia": {
+    "city": "Arcadia",
+    "city_ascii": "Arcadia",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.4927,
+    "lng": -86.2362,
+    "cafes": []
+  },
+  "Norwood": {
+    "city": "Norwood",
+    "city_ascii": "Norwood",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.2239,
+    "lng": -85.3791,
+    "cafes": []
+  },
+  "Chatham": {
+    "city": "Chatham",
+    "city_ascii": "Chatham",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.3441,
+    "lng": -86.9313,
+    "cafes": []
+  },
+  "Crystal Mountain": {
+    "city": "Crystal Mountain",
+    "city_ascii": "Crystal Mountain",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.5216,
+    "lng": -86.0032,
+    "cafes": []
+  },
+  "Greenland": {
+    "city": "Greenland",
+    "city_ascii": "Greenland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.7803,
+    "lng": -89.0954,
+    "cafes": []
+  },
+  "Nessen City": {
+    "city": "Nessen City",
+    "city_ascii": "Nessen City",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.5202,
+    "lng": -85.8729,
+    "cafes": []
+  },
+  "Lake Gogebic": {
+    "city": "Lake Gogebic",
+    "city_ascii": "Lake Gogebic",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.5719,
+    "lng": -89.6212,
+    "cafes": []
+  },
+  "Covington": {
+    "city": "Covington",
+    "city_ascii": "Covington",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.5388,
+    "lng": -88.5522,
+    "cafes": []
+  },
+  "Bergland": {
+    "city": "Bergland",
+    "city_ascii": "Bergland",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.5913,
+    "lng": -89.5754,
+    "cafes": []
+  },
+  "Skanee": {
+    "city": "Skanee",
+    "city_ascii": "Skanee",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.8789,
+    "lng": -88.204,
+    "cafes": []
+  },
+  "Naubinway": {
+    "city": "Naubinway",
+    "city_ascii": "Naubinway",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.0911,
+    "lng": -85.4518,
+    "cafes": []
+  },
+  "Alden": {
+    "city": "Alden",
+    "city_ascii": "Alden",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.8792,
+    "lng": -85.2729,
+    "cafes": []
+  },
+  "Eureka": {
+    "city": "Eureka",
+    "city_ascii": "Eureka",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 43.1036,
+    "lng": -84.5136,
+    "cafes": []
+  },
+  "Ahmeek": {
+    "city": "Ahmeek",
+    "city_ascii": "Ahmeek",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.2985,
+    "lng": -88.3971,
+    "cafes": []
+  },
+  "Levering": {
+    "city": "Levering",
+    "city_ascii": "Levering",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.6347,
+    "lng": -84.7838,
+    "cafes": []
+  },
+  "Eagle": {
+    "city": "Eagle",
+    "city_ascii": "Eagle",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.8098,
+    "lng": -84.7909,
+    "cafes": []
+  },
+  "Turner": {
+    "city": "Turner",
+    "city_ascii": "Turner",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.1422,
+    "lng": -83.7875,
+    "cafes": []
+  },
+  "Eagle River": {
+    "city": "Eagle River",
+    "city_ascii": "Eagle River",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 47.41,
+    "lng": -88.2647,
+    "cafes": []
+  },
+  "Ponshewaing": {
+    "city": "Ponshewaing",
+    "city_ascii": "Ponshewaing",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.4208,
+    "lng": -84.806,
+    "cafes": []
+  },
+  "Caberfae": {
+    "city": "Caberfae",
+    "city_ascii": "Caberfae",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2492,
+    "lng": -85.7256,
+    "cafes": []
+  },
+  "Crystal Downs Country Club": {
+    "city": "Crystal Downs Country Club",
+    "city_ascii": "Crystal Downs Country Club",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.7014,
+    "lng": -86.2311,
+    "cafes": []
+  },
+  "Boon": {
+    "city": "Boon",
+    "city_ascii": "Boon",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.2877,
+    "lng": -85.6013,
+    "cafes": []
+  },
+  "Cross Village": {
+    "city": "Cross Village",
+    "city_ascii": "Cross Village",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 45.6439,
+    "lng": -85.0312,
+    "cafes": []
+  },
+  "Pelkie": {
+    "city": "Pelkie",
+    "city_ascii": "Pelkie",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 46.8124,
+    "lng": -88.6373,
+    "cafes": []
+  },
+  "Cedar": {
+    "city": "Cedar",
+    "city_ascii": "Cedar",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.8466,
+    "lng": -85.7941,
+    "cafes": []
+  },
+  "Pilgrim": {
+    "city": "Pilgrim",
+    "city_ascii": "Pilgrim",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 44.6645,
+    "lng": -86.2498,
+    "cafes": []
+  }
+}

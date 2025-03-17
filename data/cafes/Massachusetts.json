@@ -1,0 +1,1440 @@
+{
+  "Peabody": {
+    "city": "Peabody",
+    "city_ascii": "Peabody",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5335,
+    "lng": -70.9725,
+    "cafes": [
+      {
+        "name": "Kitty Cat Cafe and Adoption Lounge Inc",
+        "address": "108 Newbury St Unit C, Peabody, MA 01960, USA",
+        "rating": 4.9,
+        "user_ratings_total": 222,
+        "website": "http://www.kittycatcafema.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=17258462791414579043",
+        "lat": 42.5329699,
+        "lng": -70.9916904,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Meret London-MacFadyen",
+            "rating": 5,
+            "text": {
+              "text": "I went here for my birthday and I had a fantastic experience! They had 11 cats, and plenty of space. You can tell they are really passionate about caring for their cats. I loved meeting every single one and they gave us treats to give out! I will be happy to return since I know the cats are ever changing since they get adopted!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Britney Miranda",
+            "rating": 5,
+            "text": {
+              "text": "Cannot stress enough how much I loved my experience here! From the moment I walked in, I felt a sense of warmth and coziness. The atmosphere is perfect for unwinding, getting work done, comfy seating for talking and, of course, the sweetest feline companions. Uri made this experience above and beyond for both my brother and myself. The entire staff are friendly and attentive, making sure both the guests and the cats are comfortable. It’s clear they genuinely care about the well-being of these adorable fur babies. Whether you’re a cat lover or just looking for a peaceful spot to relax, this is a little slice of heaven. Can’t wait to visit again!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Erica DeBole",
+            "rating": 5,
+            "text": {
+              "text": "Me and my boyfriend went there to go look at cats today! It was so much fun, we got to pet play and interact with every cat from the goofiest to the shyest that are just warming up! There are many cats with a different personality’s, ages and backgrounds! We are now trying to adopt a baby we seen there today!\n\nBest experience with great owner who knew so much about all the cats and their needs! Some great highlights to add is you get to walk with the cats that like to be in backpacks and bring them outside. Plus everything there you buy goes straight to the cats and taking care of them. Uri truly cares for all the cats and kittens no matter age, condition, or where they came from. He is patient, soft spoken, and treats them with all the love and respect they deserve. He cleans before and after every visit to keep the cats and visitors safe! And makes sure cats are handled well and known!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2lj4vOb3z9Sj9xZZ8AWpENoWGERvPWnCR_TcfFix8Xt8OFWlylnr48lJviWmO3xSlKLI1qeLd_78XGK5az1KZyeIvKS9R-1v618EcdfZ0mz377C5D-XHO4qBTvZK_bSY6VGBHS_JbXkr7tD_U-aX_Tt4juKqhx7AIRBTW_mq03eGTthGBUXzNMwqO6_sKZZ5hBs1IarL5n8sWUEGqgD7UJgTTzUxCZHGw75kWMeujQXla6gH1xRys0TUzCGHvaLKKRVBICIfuCOwObUTX3Rb7_FSz_2hsudaguiVVs_jYGz2xk7z9XpkWzBAsMErwjtyiTVp3on5IFOPOVB0suKPCQr6ogeHiuFfHY3w9TWDf9VzEHQtyDxGZDrkM_qs46FBKDjFd2zmuqTslTmuHBuC1uFDiGSDXU&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Boston": {
+    "city": "Boston",
+    "city_ascii": "Boston",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3188,
+    "lng": -71.0852,
+    "cafes": [
+      {
+        "name": "A Sanctuary Cafe",
+        "address": "80 Charles St, Boston, MA 02114, USA",
+        "rating": 4.2,
+        "user_ratings_total": 111,
+        "website": "https://asanctuarycafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=16533643872861550864",
+        "lat": 42.358178699999996,
+        "lng": -71.0706514,
+        "accessibility_options": "N/A",
+        "reviews": [
+          {
+            "author": "Sean R",
+            "rating": 5,
+            "text": {
+              "text": "We had a great time visiting this unique combination cafe/bookstore/sanctuary. The owner, Brittany, is wonderful, and what she has here is really special. It’s a wonderful way to spend an afternoon: Petting cats, enjoying a latte, and perusing books. We’ll definitely be coming back.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Meghan Hillson",
+            "rating": 5,
+            "text": {
+              "text": "I don't know what all the negative reviews are about because I had the best time ever. The croissants and hibiscus tea are to die for and the cats are adorable. They even have you sanitize your hands and put on shoe covers before you come in to keep the area clean. The staff are kind and attentive and they also have safe spaces for the cats. It is completely worth the price and I recommend anyone who likes cats and pastries come here.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Kiki Ha",
+            "rating": 5,
+            "text": {
+              "text": "when looking for cat cafes, my most important criteria is whether the cats are treated well. this cafe does an amazing job with that. from the moment you set up your reservation, you can tell how much this establishment loves their cats.\n\nit is on the pricier side, but i imagine it’s to cover the costs of caring for the cats and beacon hill rent. you do get a complimentary beverage though. if you are celebrating a birthday or anniversary, you get a treats bag to give to the cats, which was nice.\n\nthis cafe adopts cats from kill shelters in the south and hoarding situations. the staff knows each cat well and will advise you how to interact with them in the best way.\n\nthe cats are adorable and have a wide range of personalities. all are ensured to be socialized comfortably in a way to not distress the kitties.\n\nas all cats do, they like to sleep during the day. if you would like to visit when they are more active, i would suggest visiting later in the day and during a weekday, when it is less busy.\n\nall in all, a wonderful experience. it’s great to see cats adopted and treated so well. the pastries and drinks were delicious.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ371dPYfQUNHFFOQDatFibtK8tzXUjwuDskWs9eA9Qr6HqAd_vtmT0rfZBIQAV4TkCuYcTk-xnI--8gOmYoNLAtO_lZhJqqNXuU-tGLiRsLTrpvR0Y4jq0TIJ7rRsmSQ3LqcWVUSwbKx4vwkc2TpOlNUKarvaf29UKn9DeOhQ3Q3PVbrX_aYGS7OPIMf6_b8Vs6RtPFzZjy0HSfzLHVZ3za5cB9ViYZim-zqzmO-IBFL4lfkl9hrYUvdFFo_6Ja0mBtBSZMqeLSlliDpqUEw_5iGX2BRy84iTQNpCuwvC_0-nnz_nnKPbAIf67M_s-kd7By4R7iilRy0knhgbEBj5iskCsuh0205q6ZRjrLj7-K_FenmrE4nnA-M1AvHLM7jVH9PG26w6iluqNQUNMLixB8EhMlKGo&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Lowell": {
+    "city": "Lowell",
+    "city_ascii": "Lowell",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.6389,
+    "lng": -71.3217,
+    "cafes": [
+      {
+        "name": "Lazy Cat Lounge, Lowell, MA",
+        "address": "177 Merrimack St, Lowell, MA 01852, USA",
+        "rating": 5,
+        "user_ratings_total": 6,
+        "website": "https://www.lazycatloungelowell.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=16078192454942387801",
+        "lat": 42.6459063,
+        "lng": -71.31079679999999,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Paul Huot",
+            "rating": 5,
+            "text": {
+              "text": "Very cool place. Hope they continue to grow. Working with Lowell Humane to get more cats adopted is an amazing goal and to interact more with people is a great mission. Congratulations on the opening!\n\n- Childless Cat Man",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "jennifer g",
+            "rating": 5,
+            "text": {
+              "text": "Such a cozy spot. You can tell theis was a labor of love. The cats are so friendly, and if you should fall in love, they are adoptable! The coffee is DELICIOUS, and reasonably priced. I highly recommend.\nI will be returning again and again 😄",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Melinda Yobaccio",
+            "rating": 5,
+            "text": {
+              "text": "The cat room is so cozy and relaxing. The cats were all so friendly. The coffee is great and reasonably priced. They even have a retail area with some great items all cat related. Highly recommend it.",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0pUbbj60ufk4t7dxPcHmd_erlOUmdtCEMlOJOMriwmiDm7ULbzf0jEapulTdMzX_DHm7TpzHTBIUdCjQElIXSCFqK2sOIgnsoi5kPK5sA5p5LX8g9Y58E1Sa2xydrZ25dxJKTh08BMF9r8dkQ0zdGqrFdyJJtX_xPOXx2LBevvE5aecQIsDYz4TObB1Y5Z-FWrddRQqy_4A-UddptyJNTP1IBu434gwbqLJ_oyEhHFh4QJ1XMfnGqh3pvp_qA15sGeEMBo89-qDa3SdxdJPmvql2TemZLpyxY9_dizRskvLA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Tiverton": [
+    {
+      "name": "Bajah's Cat Cafe",
+      "address": "137 Main Rd, Tiverton, RI 02878, USA",
+      "rating": 4.4,
+      "user_ratings_total": 453,
+      "website": "http://www.bajahscatcafe.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=9104338544067572463",
+      "lat": 41.669374399999995,
+      "lng": -71.185915,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Jay",
+          "rating": 5,
+          "text": {
+            "text": "Good food.. friendly staff, owner, and volunteers.  There's a cool shrimp tank over the trash cans.   Adopted a senior cat from here and it was the best thing we ever did! The food is affordable and it's tasty! Better then Dunkin and less of a line.",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        },
+        {
+          "author": "T Y",
+          "rating": 3,
+          "text": {
+            "text": "Our experience was a bit disappointing.  On Bajah's voicemail greeting information, they stated they have between 10 to 15 cats. There was no option to speak to someone directly. Upon arrival, there was only 5 cats and all were sleeping during our appointment window and only 2 woke up the last 5 to 10 minutes of our appointment window. We were not offered extensions. There was only 1 college student working the whole store from preparing food, and drinks. She was very friendly but didn't have time for cleaning up the cat room that had a slight odor and wasn't very big. The pastries didn't look fresh either. We had high hopes and hoping to making regular visits but after today's experience, this may be a 1 time visit.",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Ashley Costa",
+          "rating": 5,
+          "text": {
+            "text": "The “RI Kitty” coffee was delicious. The cats are all so sweet. My fur baby passed a few weeks ago and it was lovely to be able to come here and spend some time with the cats. Workers were nice and informative. Will definitely be coming back!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1ML2bTmouPzswQaUewqNFRnq0wEa7M9VnINKhOQY_76wL6bX5zQa28WGm8CpTGdzalTKRzuVAw0sP3XeRGbhZTQkWxw86rlfQMDY3z5tBPfM_NT8GvQs01DDu_mN49gn6NLZk-BPACwJ_cLepG4a2WuWab7_VrbL-4xGmUOVI2ktYpG7wHM6Dxnb9K0vyEJJGwXAKjsUiIKNOURgt4tP5ot1XE4ocqffePGA2R4l_eOEctcvxmI-tNfeA4k4pZZFzfkuVfIvAtZtblzScu3ie5_1Tt_crEl6rsZFlUfQTb7lgDR_fvmxiDFdDghYJJfBmG3BSEMjZc3A4C_QT00TX2BMXtY-fpoeGEGOrU_HErEjK7eerQnfto4veBHJP1vFKWhQHZY9KF1XL6JszVlgczFqep_z1o_kza&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Fairhaven": [
+    {
+      "name": "The Rescue Cafe",
+      "address": "414 Main St, Fairhaven, MA 02719, USA",
+      "rating": 4.9,
+      "user_ratings_total": 116,
+      "website": "N/A",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=14350771712488928874",
+      "lat": 41.661464099999996,
+      "lng": -70.9082615,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": false
+      },
+      "reviews": [
+        {
+          "author": "Tim Gago",
+          "rating": 4,
+          "text": {
+            "text": "Stopped by the Rescue Cafe for a coffee roll and a linguica roll. Both are pretty good and recommended. Also grabbed a Noreastah. Coffee roll gone before the picture.",
+            "languageCode": "en"
+          },
+          "time": "4 weeks ago"
+        },
+        {
+          "author": "Pamela Crombie",
+          "rating": 5,
+          "text": {
+            "text": "I've been a Rescue Cafe customer for many years. Joni and her team are always so friendly and welcoming and everything on the menu is fresh and always delicious. The drink specials change often and there's something for everyone. I stop by every time I'm in the area.",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "JLJ",
+          "rating": 5,
+          "text": {
+            "text": "Great experience! Never had whipped coffee before... It was very new to me and it was really good. 5 stars for customer service. Loved the atmosphere as well. Definitely will be back! 💖🍪🍵",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0gNwGKa2FBE4aoV8CjFYidvGj_zAam0TBNXhdENAXOSiWrRS5_igv1Z-52Obaz7mgguBNfjOjDbGFFHRxKWMJn6YSl-GtH3jreXjOmKihqswvlULng6F_T1sho0HNKh4pR1iI9yjwcYPSYBqg8gms5NCH7_671GM8AGbbRtYEhE_DlG0lsveJcTuVo4YPKuZ7Qho0YYD_Ger8dm6rvP3b4ff35HIct9c0zjERBfFfoxko5A3fQz7DxBGUoQePrWDUPaJNEpyKmqTkcaQOTM0gtHEt_s3EeleYOD4CZr91J9A&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Newmarket": [
+    {
+      "name": "The Tipsy Tabby",
+      "address": "90 Main St, Newmarket, NH 03857, USA",
+      "rating": 4.3,
+      "user_ratings_total": 126,
+      "website": "http://thetipsytabby.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=14871164473144059717",
+      "lat": 43.079602099999995,
+      "lng": -70.9360908,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleRestroom": true
+      },
+      "reviews": [
+        {
+          "author": "Cathy Kramer",
+          "rating": 4,
+          "text": {
+            "text": "Went to see what Tipsy Tabby was about! Recommending reservations as the cat room can fill up quickly. The staff was friendly and luckily able to get us in. We stayed for a half hour taking in the sleeping Kitty's. A great concept to visit the cats and they are all available for adoption to find their forever homes. A great place to visit 🐈 and have a cup of coffee. Happy to support a business that helps the community. The staff is great as well!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Finley Mueller",
+          "rating": 5,
+          "text": {
+            "text": "It can get a little crowded, but otherwise a good experience! If you prefer a quieter space, try reserving during a time when there are fewer people. Many people don't seem to understand cats before coming here, and expect them to all be cuddly and looking for attention. With a time slot, you are guaranteeing time to be *nearby* some cats, not that they will like you. They are animals with individual backgrounds and personalities, not toys!",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Norina Clermont",
+          "rating": 5,
+          "text": {
+            "text": "This place is amazing, and the staff was so nice ... you pay to go sit with, pat, play with and enjoy the kitties and they do not pressure you into purchasing anything else (of course I did because I love supporting small businesses, but I was absolutely not pressured into it) .. I will definitely go back again, numerous times",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0HZV2g8zU8oQ9DefFZz2ImWId38yYiEKCU1tMDOU3QZa0Hl3aTXntcN3X9IU6QKMvxj5gR04IOL3Enw6tRtwvwmVLjVFrkepdeekWEhmG_2SQIKiofqicy1mwumHqyOI7043uBK7irYtNdaxNObOr6LBpl3kIoCJ718jBx2yv9Ic_-AenGdMTV0oyBigkokB0Ycta5eMSqgJlL3ws2MdZgRDoiXHnH7vWxLTF8mlEC1MIchnvSGyl6fF-R7WFYvSpJQMZuRs_VF6R0Kme9-UsWfJeUp9zkxO_9RmnIsToEd6r2hS_JeI87r5U_ykoWom_D9ID9blXjtoaCF2Ay2rROyje-P3h-IEeG3QDujO-cS6N4jWg9mT5tAh7OTTUNdeIGOW3WlpjMWcoAIWMDS0gR8IoRvRQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Waltham": {
+    "city": "Waltham",
+    "city_ascii": "Waltham",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3889,
+    "lng": -71.2423,
+    "cafes": [
+      {
+        "name": "Kimbap's Kat Cafe",
+        "address": "Charles St, Waltham, MA 02453, USA",
+        "rating": "N/A",
+        "user_ratings_total": 0,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=16539658159812813669",
+        "lat": 42.373932499999995,
+        "lng": -71.24385219999999,
+        "accessibility_options": "N/A",
+        "reviews": [],
+        "photoUri": "https://maps.google.com/?cid=16539658159812813669&output=embed"
+      }
+    ]
+  },
+  "Worcester": {
+    "city": "Worcester",
+    "city_ascii": "Worcester",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.2705,
+    "lng": -71.8079,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.1155,
+    "lng": -72.5395,
+    "cafes": []
+  },
+  "New Bedford": {
+    "city": "New Bedford",
+    "city_ascii": "New Bedford",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6697,
+    "lng": -70.9428,
+    "cafes": []
+  },
+  "Cambridge": {
+    "city": "Cambridge",
+    "city_ascii": "Cambridge",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3759,
+    "lng": -71.1185,
+    "cafes": []
+  },
+  "Leominster": {
+    "city": "Leominster",
+    "city_ascii": "Leominster",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5209,
+    "lng": -71.7717,
+    "cafes": []
+  },
+  "Brockton": {
+    "city": "Brockton",
+    "city_ascii": "Brockton",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.0821,
+    "lng": -71.0242,
+    "cafes": []
+  },
+  "Quincy": {
+    "city": "Quincy",
+    "city_ascii": "Quincy",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.2506,
+    "lng": -71.0187,
+    "cafes": []
+  },
+  "Lynn": {
+    "city": "Lynn",
+    "city_ascii": "Lynn",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4781,
+    "lng": -70.9664,
+    "cafes": []
+  },
+  "Fall River": {
+    "city": "Fall River",
+    "city_ascii": "Fall River",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7136,
+    "lng": -71.1015,
+    "cafes": []
+  },
+  "Newton": {
+    "city": "Newton",
+    "city_ascii": "Newton",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3316,
+    "lng": -71.2085,
+    "cafes": []
+  },
+  "Lawrence": {
+    "city": "Lawrence",
+    "city_ascii": "Lawrence",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.7002,
+    "lng": -71.1626,
+    "cafes": []
+  },
+  "Somerville": {
+    "city": "Somerville",
+    "city_ascii": "Somerville",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3908,
+    "lng": -71.1014,
+    "cafes": []
+  },
+  "Framingham": {
+    "city": "Framingham",
+    "city_ascii": "Framingham",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3085,
+    "lng": -71.4368,
+    "cafes": []
+  },
+  "Haverhill": {
+    "city": "Haverhill",
+    "city_ascii": "Haverhill",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.7838,
+    "lng": -71.0871,
+    "cafes": []
+  },
+  "Malden": {
+    "city": "Malden",
+    "city_ascii": "Malden",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4305,
+    "lng": -71.0576,
+    "cafes": []
+  },
+  "Revere": {
+    "city": "Revere",
+    "city_ascii": "Revere",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4189,
+    "lng": -71.004,
+    "cafes": []
+  },
+  "Taunton": {
+    "city": "Taunton",
+    "city_ascii": "Taunton",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.9036,
+    "lng": -71.0943,
+    "cafes": []
+  },
+  "Medford": {
+    "city": "Medford",
+    "city_ascii": "Medford",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4234,
+    "lng": -71.1087,
+    "cafes": []
+  },
+  "Chicopee": {
+    "city": "Chicopee",
+    "city_ascii": "Chicopee",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.1764,
+    "lng": -72.5719,
+    "cafes": []
+  },
+  "Methuen Town": {
+    "city": "Methuen Town",
+    "city_ascii": "Methuen Town",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.734,
+    "lng": -71.1889,
+    "cafes": []
+  },
+  "Everett": {
+    "city": "Everett",
+    "city_ascii": "Everett",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4064,
+    "lng": -71.0545,
+    "cafes": []
+  },
+  "Attleboro": {
+    "city": "Attleboro",
+    "city_ascii": "Attleboro",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.9311,
+    "lng": -71.295,
+    "cafes": []
+  },
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5129,
+    "lng": -70.9021,
+    "cafes": []
+  },
+  "Pittsfield": {
+    "city": "Pittsfield",
+    "city_ascii": "Pittsfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4517,
+    "lng": -73.2605,
+    "cafes": []
+  },
+  "Beverly": {
+    "city": "Beverly",
+    "city_ascii": "Beverly",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5681,
+    "lng": -70.8627,
+    "cafes": []
+  },
+  "Fitchburg": {
+    "city": "Fitchburg",
+    "city_ascii": "Fitchburg",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5912,
+    "lng": -71.8156,
+    "cafes": []
+  },
+  "Marlborough": {
+    "city": "Marlborough",
+    "city_ascii": "Marlborough",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3494,
+    "lng": -71.5468,
+    "cafes": []
+  },
+  "Woburn": {
+    "city": "Woburn",
+    "city_ascii": "Woburn",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4869,
+    "lng": -71.1543,
+    "cafes": []
+  },
+  "Westfield": {
+    "city": "Westfield",
+    "city_ascii": "Westfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.1382,
+    "lng": -72.7561,
+    "cafes": []
+  },
+  "Chelsea": {
+    "city": "Chelsea",
+    "city_ascii": "Chelsea",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3959,
+    "lng": -71.0325,
+    "cafes": []
+  },
+  "Holyoke": {
+    "city": "Holyoke",
+    "city_ascii": "Holyoke",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.2125,
+    "lng": -72.6411,
+    "cafes": []
+  },
+  "Watertown Town": {
+    "city": "Watertown Town",
+    "city_ascii": "Watertown Town",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.37,
+    "lng": -71.1774,
+    "cafes": []
+  },
+  "Gloucester": {
+    "city": "Gloucester",
+    "city_ascii": "Gloucester",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.626,
+    "lng": -70.6897,
+    "cafes": []
+  },
+  "Melrose": {
+    "city": "Melrose",
+    "city_ascii": "Melrose",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4556,
+    "lng": -71.059,
+    "cafes": []
+  },
+  "Northampton": {
+    "city": "Northampton",
+    "city_ascii": "Northampton",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3266,
+    "lng": -72.6745,
+    "cafes": []
+  },
+  "Gardner": {
+    "city": "Gardner",
+    "city_ascii": "Gardner",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5845,
+    "lng": -71.9868,
+    "cafes": []
+  },
+  "Newburyport": {
+    "city": "Newburyport",
+    "city_ascii": "Newburyport",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.8124,
+    "lng": -70.8878,
+    "cafes": []
+  },
+  "North Adams": {
+    "city": "North Adams",
+    "city_ascii": "North Adams",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.6844,
+    "lng": -73.1166,
+    "cafes": []
+  },
+  "South Yarmouth": {
+    "city": "South Yarmouth",
+    "city_ascii": "South Yarmouth",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6692,
+    "lng": -70.2005,
+    "cafes": []
+  },
+  "Middleborough Center": {
+    "city": "Middleborough Center",
+    "city_ascii": "Middleborough Center",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.8945,
+    "lng": -70.926,
+    "cafes": []
+  },
+  "Whitinsville": {
+    "city": "Whitinsville",
+    "city_ascii": "Whitinsville",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.1146,
+    "lng": -71.6688,
+    "cafes": []
+  },
+  "Mansfield Center": {
+    "city": "Mansfield Center",
+    "city_ascii": "Mansfield Center",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.0225,
+    "lng": -71.218,
+    "cafes": []
+  },
+  "Pinehurst": {
+    "city": "Pinehurst",
+    "city_ascii": "Pinehurst",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5334,
+    "lng": -71.2339,
+    "cafes": []
+  },
+  "Cochituate": {
+    "city": "Cochituate",
+    "city_ascii": "Cochituate",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.329,
+    "lng": -71.3576,
+    "cafes": []
+  },
+  "East Falmouth": {
+    "city": "East Falmouth",
+    "city_ascii": "East Falmouth",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.5708,
+    "lng": -70.5556,
+    "cafes": []
+  },
+  "West Yarmouth": {
+    "city": "West Yarmouth",
+    "city_ascii": "West Yarmouth",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6496,
+    "lng": -70.2487,
+    "cafes": []
+  },
+  "North Scituate": {
+    "city": "North Scituate",
+    "city_ascii": "North Scituate",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.2121,
+    "lng": -70.7652,
+    "cafes": []
+  },
+  "West Concord": {
+    "city": "West Concord",
+    "city_ascii": "West Concord",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4517,
+    "lng": -71.4035,
+    "cafes": []
+  },
+  "Yarmouth Port": {
+    "city": "Yarmouth Port",
+    "city_ascii": "Yarmouth Port",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7091,
+    "lng": -70.2225,
+    "cafes": []
+  },
+  "East Harwich": {
+    "city": "East Harwich",
+    "city_ascii": "East Harwich",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7081,
+    "lng": -70.0339,
+    "cafes": []
+  },
+  "Bliss Corner": {
+    "city": "Bliss Corner",
+    "city_ascii": "Bliss Corner",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6053,
+    "lng": -70.9421,
+    "cafes": []
+  },
+  "North Westport": {
+    "city": "North Westport",
+    "city_ascii": "North Westport",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.654,
+    "lng": -71.0927,
+    "cafes": []
+  },
+  "The Pinehills": {
+    "city": "The Pinehills",
+    "city_ascii": "The Pinehills",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.8946,
+    "lng": -70.5966,
+    "cafes": []
+  },
+  "Raynham Center": {
+    "city": "Raynham Center",
+    "city_ascii": "Raynham Center",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.9327,
+    "lng": -71.0431,
+    "cafes": []
+  },
+  "Ocean Bluff-Brant Rock": {
+    "city": "Ocean Bluff-Brant Rock",
+    "city_ascii": "Ocean Bluff-Brant Rock",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.1006,
+    "lng": -70.6626,
+    "cafes": []
+  },
+  "Millis-Clicquot": {
+    "city": "Millis-Clicquot",
+    "city_ascii": "Millis-Clicquot",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.1648,
+    "lng": -71.3544,
+    "cafes": []
+  },
+  "Smith Mills": {
+    "city": "Smith Mills",
+    "city_ascii": "Smith Mills",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6432,
+    "lng": -70.9922,
+    "cafes": []
+  },
+  "North Plymouth": {
+    "city": "North Plymouth",
+    "city_ascii": "North Plymouth",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.9727,
+    "lng": -70.6889,
+    "cafes": []
+  },
+  "Northwest Harwich": {
+    "city": "Northwest Harwich",
+    "city_ascii": "Northwest Harwich",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6917,
+    "lng": -70.1026,
+    "cafes": []
+  },
+  "Sagamore": {
+    "city": "Sagamore",
+    "city_ascii": "Sagamore",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7842,
+    "lng": -70.5332,
+    "cafes": []
+  },
+  "Turners Falls": {
+    "city": "Turners Falls",
+    "city_ascii": "Turners Falls",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5975,
+    "lng": -72.5573,
+    "cafes": []
+  },
+  "North Pembroke": {
+    "city": "North Pembroke",
+    "city_ascii": "North Pembroke",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.0989,
+    "lng": -70.7823,
+    "cafes": []
+  },
+  "Forestdale": {
+    "city": "Forestdale",
+    "city_ascii": "Forestdale",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6846,
+    "lng": -70.5082,
+    "cafes": []
+  },
+  "East Dennis": {
+    "city": "East Dennis",
+    "city_ascii": "East Dennis",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7392,
+    "lng": -70.1577,
+    "cafes": []
+  },
+  "North Lakeville": {
+    "city": "North Lakeville",
+    "city_ascii": "North Lakeville",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.862,
+    "lng": -70.9411,
+    "cafes": []
+  },
+  "East Sandwich": {
+    "city": "East Sandwich",
+    "city_ascii": "East Sandwich",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7365,
+    "lng": -70.4341,
+    "cafes": []
+  },
+  "Dennis Port": {
+    "city": "Dennis Port",
+    "city_ascii": "Dennis Port",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6677,
+    "lng": -70.1358,
+    "cafes": []
+  },
+  "South Duxbury": {
+    "city": "South Duxbury",
+    "city_ascii": "South Duxbury",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.0203,
+    "lng": -70.6913,
+    "cafes": []
+  },
+  "South Dennis": {
+    "city": "South Dennis",
+    "city_ascii": "South Dennis",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7051,
+    "lng": -70.1537,
+    "cafes": []
+  },
+  "Ocean Grove": {
+    "city": "Ocean Grove",
+    "city_ascii": "Ocean Grove",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7281,
+    "lng": -71.2098,
+    "cafes": []
+  },
+  "Cordaville": {
+    "city": "Cordaville",
+    "city_ascii": "Cordaville",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.2727,
+    "lng": -71.5221,
+    "cafes": []
+  },
+  "Monument Beach": {
+    "city": "Monument Beach",
+    "city_ascii": "Monument Beach",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7192,
+    "lng": -70.606,
+    "cafes": []
+  },
+  "Buzzards Bay": {
+    "city": "Buzzards Bay",
+    "city_ascii": "Buzzards Bay",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.755,
+    "lng": -70.6128,
+    "cafes": []
+  },
+  "North Seekonk": {
+    "city": "North Seekonk",
+    "city_ascii": "North Seekonk",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.8883,
+    "lng": -71.3297,
+    "cafes": []
+  },
+  "East Douglas": {
+    "city": "East Douglas",
+    "city_ascii": "East Douglas",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.0779,
+    "lng": -71.7121,
+    "cafes": []
+  },
+  "Littleton Common": {
+    "city": "Littleton Common",
+    "city_ascii": "Littleton Common",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5352,
+    "lng": -71.4727,
+    "cafes": []
+  },
+  "Acushnet Center": {
+    "city": "Acushnet Center",
+    "city_ascii": "Acushnet Center",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.685,
+    "lng": -70.9064,
+    "cafes": []
+  },
+  "West Wareham": {
+    "city": "West Wareham",
+    "city_ascii": "West Wareham",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.79,
+    "lng": -70.755,
+    "cafes": []
+  },
+  "Wareham Center": {
+    "city": "Wareham Center",
+    "city_ascii": "Wareham Center",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7498,
+    "lng": -70.7207,
+    "cafes": []
+  },
+  "Vineyard Haven": {
+    "city": "Vineyard Haven",
+    "city_ascii": "Vineyard Haven",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.4572,
+    "lng": -70.607,
+    "cafes": []
+  },
+  "West Dennis": {
+    "city": "West Dennis",
+    "city_ascii": "West Dennis",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6666,
+    "lng": -70.1656,
+    "cafes": []
+  },
+  "Mattapoisett Center": {
+    "city": "Mattapoisett Center",
+    "city_ascii": "Mattapoisett Center",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6666,
+    "lng": -70.8056,
+    "cafes": []
+  },
+  "Fiskdale": {
+    "city": "Fiskdale",
+    "city_ascii": "Fiskdale",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.1229,
+    "lng": -72.1089,
+    "cafes": []
+  },
+  "North Falmouth": {
+    "city": "North Falmouth",
+    "city_ascii": "North Falmouth",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6394,
+    "lng": -70.6251,
+    "cafes": []
+  },
+  "Norton Center": {
+    "city": "Norton Center",
+    "city_ascii": "Norton Center",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.9725,
+    "lng": -71.1854,
+    "cafes": []
+  },
+  "Baldwinville": {
+    "city": "Baldwinville",
+    "city_ascii": "Baldwinville",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.6048,
+    "lng": -72.0771,
+    "cafes": []
+  },
+  "Pocasset": {
+    "city": "Pocasset",
+    "city_ascii": "Pocasset",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6877,
+    "lng": -70.6195,
+    "cafes": []
+  },
+  "Cedar Crest": {
+    "city": "Cedar Crest",
+    "city_ascii": "Cedar Crest",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.0764,
+    "lng": -70.6613,
+    "cafes": []
+  },
+  "Marshfield Hills": {
+    "city": "Marshfield Hills",
+    "city_ascii": "Marshfield Hills",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.1487,
+    "lng": -70.7315,
+    "cafes": []
+  },
+  "Harwich Port": {
+    "city": "Harwich Port",
+    "city_ascii": "Harwich Port",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6724,
+    "lng": -70.0641,
+    "cafes": []
+  },
+  "South Lancaster": {
+    "city": "South Lancaster",
+    "city_ascii": "South Lancaster",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4373,
+    "lng": -71.692,
+    "cafes": []
+  },
+  "East Pepperell": {
+    "city": "East Pepperell",
+    "city_ascii": "East Pepperell",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.6654,
+    "lng": -71.5635,
+    "cafes": []
+  },
+  "North Eastham": {
+    "city": "North Eastham",
+    "city_ascii": "North Eastham",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.8539,
+    "lng": -69.9968,
+    "cafes": []
+  },
+  "White Island Shores": {
+    "city": "White Island Shores",
+    "city_ascii": "White Island Shores",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7932,
+    "lng": -70.6389,
+    "cafes": []
+  },
+  "Devens": {
+    "city": "Devens",
+    "city_ascii": "Devens",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5439,
+    "lng": -71.6146,
+    "cafes": []
+  },
+  "South Deerfield": {
+    "city": "South Deerfield",
+    "city_ascii": "South Deerfield",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4795,
+    "lng": -72.5947,
+    "cafes": []
+  },
+  "Monson Center": {
+    "city": "Monson Center",
+    "city_ascii": "Monson Center",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.099,
+    "lng": -72.3048,
+    "cafes": []
+  },
+  "Shelburne Falls": {
+    "city": "Shelburne Falls",
+    "city_ascii": "Shelburne Falls",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.6063,
+    "lng": -72.7436,
+    "cafes": []
+  },
+  "Hanscom AFB": {
+    "city": "Hanscom AFB",
+    "city_ascii": "Hanscom AFB",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.4582,
+    "lng": -71.2793,
+    "cafes": []
+  },
+  "Teaticket": {
+    "city": "Teaticket",
+    "city_ascii": "Teaticket",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.5624,
+    "lng": -70.5858,
+    "cafes": []
+  },
+  "West Falmouth": {
+    "city": "West Falmouth",
+    "city_ascii": "West Falmouth",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6012,
+    "lng": -70.6364,
+    "cafes": []
+  },
+  "Harwich Center": {
+    "city": "Harwich Center",
+    "city_ascii": "Harwich Center",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6923,
+    "lng": -70.0694,
+    "cafes": []
+  },
+  "Onset": {
+    "city": "Onset",
+    "city_ascii": "Onset",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7481,
+    "lng": -70.667,
+    "cafes": []
+  },
+  "Weweantic": {
+    "city": "Weweantic",
+    "city_ascii": "Weweantic",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7396,
+    "lng": -70.7346,
+    "cafes": []
+  },
+  "Oak Bluffs": {
+    "city": "Oak Bluffs",
+    "city_ascii": "Oak Bluffs",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.4551,
+    "lng": -70.5657,
+    "cafes": []
+  },
+  "West Chatham": {
+    "city": "West Chatham",
+    "city_ascii": "West Chatham",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6804,
+    "lng": -69.9918,
+    "cafes": []
+  },
+  "Green Harbor": {
+    "city": "Green Harbor",
+    "city_ascii": "Green Harbor",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.068,
+    "lng": -70.6499,
+    "cafes": []
+  },
+  "South Ashburnham": {
+    "city": "South Ashburnham",
+    "city_ascii": "South Ashburnham",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.6138,
+    "lng": -71.9384,
+    "cafes": []
+  },
+  "Marion Center": {
+    "city": "Marion Center",
+    "city_ascii": "Marion Center",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.7042,
+    "lng": -70.7629,
+    "cafes": []
+  },
+  "Millers Falls": {
+    "city": "Millers Falls",
+    "city_ascii": "Millers Falls",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.5792,
+    "lng": -72.4925,
+    "cafes": []
+  },
+  "Mashpee Neck": {
+    "city": "Mashpee Neck",
+    "city_ascii": "Mashpee Neck",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.6119,
+    "lng": -70.4666,
+    "cafes": []
+  },
+  "Housatonic": {
+    "city": "Housatonic",
+    "city_ascii": "Housatonic",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.2487,
+    "lng": -73.3626,
+    "cafes": []
+  },
+  "Woods Hole": {
+    "city": "Woods Hole",
+    "city_ascii": "Woods Hole",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.5303,
+    "lng": -70.6614,
+    "cafes": []
+  },
+  "New Seabury": {
+    "city": "New Seabury",
+    "city_ascii": "New Seabury",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.5689,
+    "lng": -70.4812,
+    "cafes": []
+  },
+  "West Warren": {
+    "city": "West Warren",
+    "city_ascii": "West Warren",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.2168,
+    "lng": -72.2366,
+    "cafes": []
+  },
+  "Seabrook": {
+    "city": "Seabrook",
+    "city_ascii": "Seabrook",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.5831,
+    "lng": -70.4992,
+    "cafes": []
+  },
+  "Popponesset": {
+    "city": "Popponesset",
+    "city_ascii": "Popponesset",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.5737,
+    "lng": -70.4636,
+    "cafes": []
+  },
+  "Madaket": {
+    "city": "Madaket",
+    "city_ascii": "Madaket",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.2826,
+    "lng": -70.1855,
+    "cafes": []
+  },
+  "Siasconset": {
+    "city": "Siasconset",
+    "city_ascii": "Siasconset",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.2636,
+    "lng": -69.9718,
+    "cafes": []
+  },
+  "Lenox Dale": {
+    "city": "Lenox Dale",
+    "city_ascii": "Lenox Dale",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3339,
+    "lng": -73.2496,
+    "cafes": []
+  },
+  "Seconsett Island": {
+    "city": "Seconsett Island",
+    "city_ascii": "Seconsett Island",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.5662,
+    "lng": -70.5123,
+    "cafes": []
+  },
+  "Monomoscoy Island": {
+    "city": "Monomoscoy Island",
+    "city_ascii": "Monomoscoy Island",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.5712,
+    "lng": -70.5026,
+    "cafes": []
+  },
+  "Popponesset Island": {
+    "city": "Popponesset Island",
+    "city_ascii": "Popponesset Island",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 41.5855,
+    "lng": -70.4591,
+    "cafes": []
+  }
+}

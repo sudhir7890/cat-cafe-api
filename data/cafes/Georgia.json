@@ -1,0 +1,6302 @@
+{
+  "Watkinsville": {
+    "city": "Watkinsville",
+    "city_ascii": "Watkinsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.861,
+    "lng": -83.4072,
+    "cafes": [
+      {
+        "name": "Entangled Cat Cafe",
+        "address": "6 Court Street, Watkinsville, GA 30677, USA",
+        "rating": 4.8,
+        "user_ratings_total": 48,
+        "website": "http://entangledcatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=2742653175811428464",
+        "lat": 33.8632876,
+        "lng": -83.4096181,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Jillian Warman",
+            "rating": 5,
+            "text": {
+              "text": "I'm so glad we visited! My daughter and I had such a great time with all the sweet kitties! All the staff are so incredibly nice too! We enjoyed our adorable cookies and cake pops. The little shop has lots of fun, adorable cat themed things too! It was definitely worth the hour drive from our house!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Ashley Irizarry",
+            "rating": 5,
+            "text": {
+              "text": "We traveled from Atlanta to come check this place out and we had a great time! The place is clean & there’s a lot of cool architecture for the cats which is awesome. They seemed well taken care of and happy! The staff were super friendly and the cafe was nice if you want a snack (or to buy a snack for the cats!). I can’t believe this spot doesn’t have more reviews— they’re doing a really great thing and you should stop by in support! (P.S. we loved Harvey ❤️)",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          },
+          {
+            "author": "Kayla Coven",
+            "rating": 5,
+            "text": {
+              "text": "My boyfriend took me here for Valentine’s day and we absolutely loved it!! They dressed up the cats in ties and pearls for the occasion! We also got cheesecake and champagne which were delightful. We will be coming back!",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1MMI9429-B_zj3DSc32PkemxKfVvphSoTtNvBnWcJL0xk-rTlU4gD8s0lfLis35JRHnIW_G7jzN9CfggYr-NAT6Y9ZU61l9cUpL9B8kCS5_qQxo9ikYdvAhyW09YWEPM0ujz3fpEj_aAfZJX5uHtqsUdAPePmP1nrnh-ZmIipTt0gz7bfGqZyI94mjFQZCPXBAtnl2Se8qPRA7kXFx2Iz9O8GSdYerS2VJwNgH4XOwE9QagiSltHcdrTAQE0InrQKv5JwFKastQnRDCsulYghYG30c2sT1nS0RtGUa2Cd2RQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Lawrenceville": {
+    "city": "Lawrenceville",
+    "city_ascii": "Lawrenceville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9523,
+    "lng": -83.9932,
+    "cafes": [
+      {
+        "name": "The Catfe",
+        "address": "426 Bethesda School Rd, Lawrenceville, GA 30044, USA",
+        "rating": 4.7,
+        "user_ratings_total": 325,
+        "website": "http://thecatfeco.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=16388805791061250041",
+        "lat": 33.9228641,
+        "lng": -84.083838,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "peyton alexandra",
+            "rating": 5,
+            "text": {
+              "text": "Very nice cat cafe! The food here is also really good and they have awesome prices. Cinnamon was the sweetest kitty. this place would be a million times better if u guys had like 10 more cats lol 😂",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Amy Sweeney",
+            "rating": 5,
+            "text": {
+              "text": "My mom, my kids and I visited this wonderful Catfe. First of all, the food is delicious. The drinks are made to order and the gentleman taking our order was super sweet. Secondly, the cats are lovely. There was one called Cinnamon who is a sweet cuddle bug. We saw two other large cats who were very beautiful. Also, the library had so many wonderful books. I highly recommend this place to whoever needs a little break in their day to enjoy delicious food, a lovely drink, and the company of adorable cats.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "A.A.D.",
+            "rating": 5,
+            "text": {
+              "text": "Super kind staff, cute and cuddly kitties, adorable cat art, and even a cat themed menu. Cannot recommend the catfe enough! I'll definitely be returning:)",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1gXtzjTKlMzbDiuWNPmvcdwDnGNHLYO8dns8lMKaap6hKVsFrqLIYqhNNLfUivYWgbV9L5Iet5Tg1dap3yp5D3qYKQpKZFNbrJ166aP23Zmq6qBEv_KqJjGfzvKA7D9dAjqEa86096Fe6EhnieXTMDA52TVaQubhlVoUxSpcsOTXZR0xW5KcvpWo4CqoJ47Pl2W2fsQT2uB_S_SM5UOVsSSr178rIAIA8qR6oE4F6IVqcjrMrCJkjdaO3sDzanENm-wHqcH4qije6Eb0Iym4pKSxtS_drmMMmiv33Uq3XqhUIO73aOHynC-h0qWxdOuuJ91JuFC7oPdcgozFSu0XlH-XXiwEh6h_92jheM6R0k_9zg5WcEX__ki5wKklWzxWgjgXeNG1s8wMtcNSP8KnUV9WOiYVInPcBN&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Perry": {
+    "city": "Perry",
+    "city_ascii": "Perry",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.472,
+    "lng": -83.7283,
+    "cafes": [
+      {
+        "name": "Paws Awhile Cat Cafe",
+        "address": "1200 Macon Rd, Perry, GA 31069, USA",
+        "rating": 5,
+        "user_ratings_total": 32,
+        "website": "https://www.pawsawhilecatcafe.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13106075503620741085",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=9707463842020487804",
+        "lat": 32.4634984,
+        "lng": -83.729682,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Cat Lady",
+            "rating": 5,
+            "text": {
+              "text": "I can't say enough about Paws Awhile Cat Cafe. We didn't order any food, but when we checked in, the owner was SO KIND. The little gift shop area has so many options and they are all cat themed. We didn't have a reservation, but they had availability to purchase the 30 min visit we had hoped for. There are a lot of beautiful cats and the place was very clean. There are no cat odors and a very impressive family-friendly area. The concept of this location is heartwarming. From what I understand, the cats ( some or all?) come from Paws Middle Georgia, and the dedication of the volunteers makes me proud to have adopted from them. I could go on and on but moral of my review...THIS PLACE IS a MUST SEE 😆😁🥰🥰🥰 We also met some very kind cat lovers during our visit as well",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "megan casselman",
+            "rating": 5,
+            "text": {
+              "text": "Love a cat cafe!! Didn't get any food, but I believe that had little cafe snacks and drinks. I just went for the cats and planned to eat a big meal afterwards. The decor was amazing and they had plenty of activities and enrichment for the cats. There was an abundance of toys and plenty of places to sit! My favorite were the window hammocks!\nI cannot wait to go back during an evening session with adults only. The group of four children that were there were feral. They ran the whole time, scaring most of the cats into hiding. They were picking the cats up and not putting them down when the cats wanted. I had to ask one kid to not put the laser pointer on me. These children  were not unsupervised, they had adults with them. I believe the age is 7 and up and I don't think all the kids were that old.\nOverall, I'm very excited to go back and love on some adoptable cats and kittens in a calmer environment.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Mary Jo",
+            "rating": 5,
+            "text": {
+              "text": "PERFECT spot for a quick lunch business meeting! Even the kitties were professional and had great input.\n\nThe staff is friendly and very helpful. You can tell that she is knowledgeable about cat care and that she cares for them.\n\nThe food is in a separate area from where the cats are so if you just want to enjoy a brownie (highly recommend) while you watch the cats through a window you can.\n\nYou can’t talk about the cafe without talking about the cats! If I could take on more pets the ones on the top of my list are Manon and Sir Meow Meow. I was so focused on loving on them I didn’t get pictures. I am coming back very soon.\n\nTips: if a bunch of cats surrounding you is not your thing, don’t sit in the floor. Make sure you wash your hands before for the safety of the kitties! Get there early because if you’re a first timer you need to sign a waiver and everything. If you get distracted easy maybe don’t set an hour long meeting, make it longer. You can have the second half of it in the cafe area.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1zJWdUF5hZjywixZksGGpblYibpdg6y28FA2Z3YykdzgQkFl6EJ2p5CjLYBK6sjE81dM_0pQFBluqwL4dMfudpm5BdtLQPrtBrzqHg3lt8BImNC9CimZdEsJOhi2JrTEd787WazogUP7PLdzeRrG9T3GVLu1pY0XTjBTXqIxh_rFOMW7WzXHtWvhVRIcQEi4WtGPExpN70RNo77MyB6Tez10zGi4FMXiEJAaaCirk4F6c6vgELWeqxnRYnXwfaJOIzehMyom5A4ZjRqjNcE-2vXp-qh495G1jt620vPvQ2tmXW4hX2wHAg-S5VJGD9eI9xscNt8w1k9YloynTVI9X6uBJW-DfI4TQ2m_VpJxsa0Oxb-o8y20mCjyN-q-S4xYo5D4AA0Wx9j3zLZCzdUk3aRnn29xBIBo8W&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Savannah": {
+    "city": "Savannah",
+    "city_ascii": "Savannah",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0286,
+    "lng": -81.1821,
+    "cafes": [
+      {
+        "name": "Pounce Cat Cafe",
+        "address": "404 W Broughton St, Savannah, GA 31401, USA",
+        "rating": 4.7,
+        "user_ratings_total": 505,
+        "website": "http://www.pouncecatcafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=3390231914089388831",
+        "lat": 32.0803162,
+        "lng": -81.09647629999999,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Rebecca Fitzgerald",
+            "rating": 5,
+            "text": {
+              "text": "I loved my visit at Pounce! The cats were so sweet and relaxed. They’re very well taken care of! Everything was so clean and the service was amazing. I had a meowmosa and I loved it. I wish I could’ve taken Shogun home with me, he was a sweetheart. I hope he finds a loving family soon!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Marissa Lopez",
+            "rating": 5,
+            "text": {
+              "text": "I’m not a cat person but this place was great. It’s a very calm and relaxing atmosphere. There are apparently people who come here for weekly therapy, which makes sense. The best part about it is the cats are adoptable. The store has adopted out so many cats over the years that they emptied out the Humane Society in the city and have to import their cats from the next nearby city’s Humane Society. This place helps humans and cats.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Carissa Brown",
+            "rating": 5,
+            "text": {
+              "text": "I didn’t get any food, but they do offer a few options. The staff is great- both with service and keeping the place clean. The environment is always spotless and never smells like it hosts 10+ cats daily. Candy Corn and Demeter were my favorites and I hope they get adopted soon!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0qbTHi0eb7rKxtBMrc_JUkTALr-hxKtHugtV7iMA_IQhUL02bVEe_Ru_qP_HqOZ38GwKvYZzorBNRC1xW3I_FSk0cJ5ISNGhvmdtJG_E2TcB89R5xMiH8laWhsmpwT-k6EOkV2xCysnCgKLxbDOpndRWORzpp0HqeMhOVEdpQU2j9lv3Q4xbYEOqJngPkA98IXCkcnF2O13rzfdm-i2JpbpemgnwYEWngux0dymfafjdP1iqq9c3iYzYCN2O55R7DspZTszy07fZezfmwZAQPpAgKhDAKGV-Eq9UvFjt0ufA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Carrollton": {
+    "city": "Carrollton",
+    "city_ascii": "Carrollton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5818,
+    "lng": -85.0838,
+    "cafes": [
+      {
+        "name": "Fur Babies Cat Cafe",
+        "address": "302 South St, Carrollton, GA 30117, USA",
+        "rating": 4.9,
+        "user_ratings_total": 115,
+        "website": "http://furbabiescatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=11147573165752972773",
+        "lat": 33.5748849,
+        "lng": -85.08314,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Adia S. German",
+            "rating": 5,
+            "text": {
+              "text": "Loved my experience here! The store clerk was friendly and very personable. They had recently “employed” a storefront cat—a regularly visiting stray—when I visited.\n\nThere were adult cats and kittens a plenty! Lots of toys and spaces to use for interacting. Ample space to sit and chill or pet the babies. The space was really clean as well.\n\nThe fee is reasonable for an hour AND includes a coffee / tea that you can prepare for yourself.\n\nI will definitely visit again when I’m in the area!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "wes levingston",
+            "rating": 5,
+            "text": {
+              "text": "Staff very informative and helpful. She took care of the place and the cats. We ended up adopting a very cute loving playful kittey named Odette that we renamed Olivia. The setting was different than just an animal shelter. In a shelter they are all in cages. At this place they are all roaming free inside the house (designated room). You pay a small hourly fee to play and chill with all the cats there. Staff was top notch! Thank you Cat Cafe!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Jamie Loeffler",
+            "rating": 5,
+            "text": {
+              "text": "This is the cutest place! You can go and play with so many cats!  The adoption fee is very reasonable too, no matter if you're adopting a kitten or an older cat.  We got a new kitten for our family and he's the best!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0vxnjTiaoh2KRBHZE9yeUdx_wh1zR4KJhWEMwUHrmjU1iJsoGgA1890sfPn1vDW7hPHleG8lDGrE6WR2H9cDwhw3uuF1zhg1YZLzRkJn79_MFQhreHmn1Z9cNA4yP0XW4K4yukN3GQv3LrdsMhA70-5S3wj9Yu9Im_zqk251u4XQRf9mcrZZiJxzZWypnhJtFC-Xr_sBxHGJNVNeuuu_1_m5m54LmhGxNU019ekSq7TyPkVZDHEjv0hyyNzhkGf9Z5C-wuZKgy2CLTsB2C40Cro012diiMuCsE45Uq5_mkguzae2fl9E1pPSgolDXe7ZlCMqnm1dW7BHgmZ9Tsib95p6QHROsZ8405TYJ4mEK-lhhyFX88d4gOiH3FhUwkN_rDKL5Cg1OJbnecIJaQCQhBLbAsh6WNfk27&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Atlanta": {
+    "city": "Atlanta",
+    "city_ascii": "Atlanta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7628,
+    "lng": -84.422,
+    "cafes": [
+      {
+        "name": "The Frisky Whisker (Whisker Lounge Cat Research and Therapy Center)",
+        "address": "94 Pryor St SW, Atlanta, GA 30303, USA",
+        "rating": 4.3,
+        "user_ratings_total": 130,
+        "website": "https://www.thefriskywhiskeratl.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=17053343140365639226",
+        "lat": 33.7521576,
+        "lng": -84.39021819999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Stacyluve **",
+            "rating": 5,
+            "text": {
+              "text": "It was an absolute pleasure to stop at this lounge  and spend time with all the cats. Each one was relaxed and loved being petted. The atmosphere was unique, with a cozy music area at the front and a peaceful kitty room in the back. I thoroughly enjoyed the entire experience and would definitely visit again.\"",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Marissa Heilig",
+            "rating": 5,
+            "text": {
+              "text": "Stopped in during a weekend trip and so glad I did, this lounge is clean and inviting and the cats are friendly. The staff were also helpful and obviously cared for the cats. The cat room has no smell or dust like can be found at other cat cafes. There are comfortable places to sit and the cats are soft and well-groomed.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Maya Iyer",
+            "rating": 5,
+            "text": {
+              "text": "such an adorable little place - i LOVE the decorations and atmosphere! the environment is just lovely. the cats are clearly loved by the employees, and while not the most friendly cuddly kitties ever, they were not mean at all. a few came and sat in my lap on their own accord! these little guys love to play too, with toys and with each other. the employees were very kind and engaged in conversation, making me feel welcome in the space. overall a wonderful experience and i will be going back. and only ten dollars for an unlimited time! was so pleasantly surprised by that",
+              "languageCode": "en"
+            },
+            "time": "9 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3O14azzhbc_2LsUvFVX85wdfFoe-OoOhYwBpJdvcQLQSzlG6l2GoK5xS8D7LRDoZVtLiX_eX3N4kUnTShEfB5ZAPp21DglKgo1El54_ujw-V_rrJLeUH_SToAFwbWwYg27ymBL8HvgsFxQDscD-pE0NnLU93mqfAQoGM_PClha6yIF4fqi2xhgJu-WAMyTMH_PUEVzpdfY-qLxaBRnQ2ts5aD9DmqDjsCLB3eYEoMISeMa2u4kQEw-ljijyBvYhM6hAz6KHeMEhrZHX43Q9FQntuFUWNDGPoPYoqQWmPgwMnWHZzEIovBT1leooUTmN9Y-riWccSTcN0PqVUQ5KHuwdm1b-ssTDplsYYqkkTnkfuGe5ahy61eHyf4Ne7KqM_NSEQP8KD2WzjEuPkUX2CT-rNiofWjD&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Augusta": {
+    "city": "Augusta",
+    "city_ascii": "Augusta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3645,
+    "lng": -82.0708,
+    "cafes": []
+  },
+  "Columbus": {
+    "city": "Columbus",
+    "city_ascii": "Columbus",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.51,
+    "lng": -84.8771,
+    "cafes": []
+  },
+  "Gainesville": {
+    "city": "Gainesville",
+    "city_ascii": "Gainesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2902,
+    "lng": -83.8294,
+    "cafes": []
+  },
+  "Macon": {
+    "city": "Macon",
+    "city_ascii": "Macon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8065,
+    "lng": -83.6974,
+    "cafes": []
+  },
+  "Warner Robins": {
+    "city": "Warner Robins",
+    "city_ascii": "Warner Robins",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5961,
+    "lng": -83.6527,
+    "cafes": []
+  },
+  "Athens": {
+    "city": "Athens",
+    "city_ascii": "Athens",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9508,
+    "lng": -83.3689,
+    "cafes": []
+  },
+  "South Fulton": {
+    "city": "South Fulton",
+    "city_ascii": "South Fulton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6273,
+    "lng": -84.58,
+    "cafes": []
+  },
+  "Sandy Springs": {
+    "city": "Sandy Springs",
+    "city_ascii": "Sandy Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9366,
+    "lng": -84.3703,
+    "cafes": []
+  },
+  "Roswell": {
+    "city": "Roswell",
+    "city_ascii": "Roswell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0391,
+    "lng": -84.3513,
+    "cafes": []
+  },
+  "Albany": {
+    "city": "Albany",
+    "city_ascii": "Albany",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5776,
+    "lng": -84.1762,
+    "cafes": []
+  },
+  "Johns Creek": {
+    "city": "Johns Creek",
+    "city_ascii": "Johns Creek",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0333,
+    "lng": -84.2027,
+    "cafes": []
+  },
+  "Valdosta": {
+    "city": "Valdosta",
+    "city_ascii": "Valdosta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.8502,
+    "lng": -83.2788,
+    "cafes": []
+  },
+  "Brunswick": {
+    "city": "Brunswick",
+    "city_ascii": "Brunswick",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1449,
+    "lng": -81.4746,
+    "cafes": []
+  },
+  "Alpharetta": {
+    "city": "Alpharetta",
+    "city_ascii": "Alpharetta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0704,
+    "lng": -84.2738,
+    "cafes": []
+  },
+  "Dalton": {
+    "city": "Dalton",
+    "city_ascii": "Dalton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.769,
+    "lng": -84.972,
+    "cafes": []
+  },
+  "Marietta": {
+    "city": "Marietta",
+    "city_ascii": "Marietta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9533,
+    "lng": -84.5422,
+    "cafes": []
+  },
+  "Stonecrest": {
+    "city": "Stonecrest",
+    "city_ascii": "Stonecrest",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6842,
+    "lng": -84.1372,
+    "cafes": []
+  },
+  "Brookhaven": {
+    "city": "Brookhaven",
+    "city_ascii": "Brookhaven",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8743,
+    "lng": -84.3314,
+    "cafes": []
+  },
+  "Smyrna": {
+    "city": "Smyrna",
+    "city_ascii": "Smyrna",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8633,
+    "lng": -84.5168,
+    "cafes": []
+  },
+  "Dunwoody": {
+    "city": "Dunwoody",
+    "city_ascii": "Dunwoody",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9418,
+    "lng": -84.3122,
+    "cafes": []
+  },
+  "Newnan": {
+    "city": "Newnan",
+    "city_ascii": "Newnan",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3767,
+    "lng": -84.7761,
+    "cafes": []
+  },
+  "Mableton": {
+    "city": "Mableton",
+    "city_ascii": "Mableton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8133,
+    "lng": -84.5655,
+    "cafes": []
+  },
+  "Peachtree Corners": {
+    "city": "Peachtree Corners",
+    "city_ascii": "Peachtree Corners",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.967,
+    "lng": -84.232,
+    "cafes": []
+  },
+  "Milton": {
+    "city": "Milton",
+    "city_ascii": "Milton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1353,
+    "lng": -84.3139,
+    "cafes": []
+  },
+  "Peachtree City": {
+    "city": "Peachtree City",
+    "city_ascii": "Peachtree City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3942,
+    "lng": -84.571,
+    "cafes": []
+  },
+  "East Point": {
+    "city": "East Point",
+    "city_ascii": "East Point",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6696,
+    "lng": -84.4701,
+    "cafes": []
+  },
+  "Rome": {
+    "city": "Rome",
+    "city_ascii": "Rome",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2662,
+    "lng": -85.1863,
+    "cafes": []
+  },
+  "Evans": {
+    "city": "Evans",
+    "city_ascii": "Evans",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5619,
+    "lng": -82.1351,
+    "cafes": []
+  },
+  "Tucker": {
+    "city": "Tucker",
+    "city_ascii": "Tucker",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8436,
+    "lng": -84.2024,
+    "cafes": []
+  },
+  "Woodstock": {
+    "city": "Woodstock",
+    "city_ascii": "Woodstock",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1026,
+    "lng": -84.5091,
+    "cafes": []
+  },
+  "Douglasville": {
+    "city": "Douglasville",
+    "city_ascii": "Douglasville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7384,
+    "lng": -84.7054,
+    "cafes": []
+  },
+  "Stockbridge": {
+    "city": "Stockbridge",
+    "city_ascii": "Stockbridge",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5254,
+    "lng": -84.2295,
+    "cafes": []
+  },
+  "Hinesville": {
+    "city": "Hinesville",
+    "city_ascii": "Hinesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8248,
+    "lng": -81.6137,
+    "cafes": []
+  },
+  "Canton": {
+    "city": "Canton",
+    "city_ascii": "Canton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2467,
+    "lng": -84.4897,
+    "cafes": []
+  },
+  "Statesboro": {
+    "city": "Statesboro",
+    "city_ascii": "Statesboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.4375,
+    "lng": -81.7751,
+    "cafes": []
+  },
+  "Kennesaw": {
+    "city": "Kennesaw",
+    "city_ascii": "Kennesaw",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.026,
+    "lng": -84.6177,
+    "cafes": []
+  },
+  "Martinez": {
+    "city": "Martinez",
+    "city_ascii": "Martinez",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5209,
+    "lng": -82.0985,
+    "cafes": []
+  },
+  "Duluth": {
+    "city": "Duluth",
+    "city_ascii": "Duluth",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0053,
+    "lng": -84.1492,
+    "cafes": []
+  },
+  "LaGrange": {
+    "city": "LaGrange",
+    "city_ascii": "LaGrange",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0274,
+    "lng": -85.0384,
+    "cafes": []
+  },
+  "Redan": {
+    "city": "Redan",
+    "city_ascii": "Redan",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7394,
+    "lng": -84.1644,
+    "cafes": []
+  },
+  "Chamblee": {
+    "city": "Chamblee",
+    "city_ascii": "Chamblee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8842,
+    "lng": -84.3007,
+    "cafes": []
+  },
+  "McDonough": {
+    "city": "McDonough",
+    "city_ascii": "McDonough",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4397,
+    "lng": -84.1505,
+    "cafes": []
+  },
+  "Union City": {
+    "city": "Union City",
+    "city_ascii": "Union City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5942,
+    "lng": -84.5629,
+    "cafes": []
+  },
+  "Pooler": {
+    "city": "Pooler",
+    "city_ascii": "Pooler",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1043,
+    "lng": -81.2569,
+    "cafes": []
+  },
+  "Sugar Hill": {
+    "city": "Sugar Hill",
+    "city_ascii": "Sugar Hill",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.108,
+    "lng": -84.0558,
+    "cafes": []
+  },
+  "Decatur": {
+    "city": "Decatur",
+    "city_ascii": "Decatur",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7711,
+    "lng": -84.2963,
+    "cafes": []
+  },
+  "Griffin": {
+    "city": "Griffin",
+    "city_ascii": "Griffin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2418,
+    "lng": -84.2748,
+    "cafes": []
+  },
+  "Cartersville": {
+    "city": "Cartersville",
+    "city_ascii": "Cartersville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1644,
+    "lng": -84.8009,
+    "cafes": []
+  },
+  "Acworth": {
+    "city": "Acworth",
+    "city_ascii": "Acworth",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0566,
+    "lng": -84.6716,
+    "cafes": []
+  },
+  "Suwanee": {
+    "city": "Suwanee",
+    "city_ascii": "Suwanee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0508,
+    "lng": -84.0686,
+    "cafes": []
+  },
+  "Candler-McAfee": {
+    "city": "Candler-McAfee",
+    "city_ascii": "Candler-McAfee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7267,
+    "lng": -84.2723,
+    "cafes": []
+  },
+  "Snellville": {
+    "city": "Snellville",
+    "city_ascii": "Snellville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8562,
+    "lng": -84.0038,
+    "cafes": []
+  },
+  "Forest Park": {
+    "city": "Forest Park",
+    "city_ascii": "Forest Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6209,
+    "lng": -84.359,
+    "cafes": []
+  },
+  "Fayetteville": {
+    "city": "Fayetteville",
+    "city_ascii": "Fayetteville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4501,
+    "lng": -84.471,
+    "cafes": []
+  },
+  "Kingsland": {
+    "city": "Kingsland",
+    "city_ascii": "Kingsland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.8194,
+    "lng": -81.7216,
+    "cafes": []
+  },
+  "Winder": {
+    "city": "Winder",
+    "city_ascii": "Winder",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9917,
+    "lng": -83.7218,
+    "cafes": []
+  },
+  "St. Marys": {
+    "city": "St. Marys",
+    "city_ascii": "St. Marys",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.7567,
+    "lng": -81.5722,
+    "cafes": []
+  },
+  "Thomasville": {
+    "city": "Thomasville",
+    "city_ascii": "Thomasville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.8394,
+    "lng": -83.9782,
+    "cafes": []
+  },
+  "North Decatur": {
+    "city": "North Decatur",
+    "city_ascii": "North Decatur",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8074,
+    "lng": -84.2889,
+    "cafes": []
+  },
+  "North Druid Hills": {
+    "city": "North Druid Hills",
+    "city_ascii": "North Druid Hills",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8185,
+    "lng": -84.3254,
+    "cafes": []
+  },
+  "Conyers": {
+    "city": "Conyers",
+    "city_ascii": "Conyers",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6646,
+    "lng": -83.9966,
+    "cafes": []
+  },
+  "Villa Rica": {
+    "city": "Villa Rica",
+    "city_ascii": "Villa Rica",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7294,
+    "lng": -84.9177,
+    "cafes": []
+  },
+  "Holly Springs": {
+    "city": "Holly Springs",
+    "city_ascii": "Holly Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1681,
+    "lng": -84.4847,
+    "cafes": []
+  },
+  "Norcross": {
+    "city": "Norcross",
+    "city_ascii": "Norcross",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9379,
+    "lng": -84.2065,
+    "cafes": []
+  },
+  "Calhoun": {
+    "city": "Calhoun",
+    "city_ascii": "Calhoun",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.491,
+    "lng": -84.9386,
+    "cafes": []
+  },
+  "Buford": {
+    "city": "Buford",
+    "city_ascii": "Buford",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1192,
+    "lng": -83.9903,
+    "cafes": []
+  },
+  "Powder Springs": {
+    "city": "Powder Springs",
+    "city_ascii": "Powder Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8659,
+    "lng": -84.684,
+    "cafes": []
+  },
+  "Richmond Hill": {
+    "city": "Richmond Hill",
+    "city_ascii": "Richmond Hill",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9012,
+    "lng": -81.3125,
+    "cafes": []
+  },
+  "Tifton": {
+    "city": "Tifton",
+    "city_ascii": "Tifton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.4624,
+    "lng": -83.5203,
+    "cafes": []
+  },
+  "Milledgeville": {
+    "city": "Milledgeville",
+    "city_ascii": "Milledgeville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0874,
+    "lng": -83.2414,
+    "cafes": []
+  },
+  "Fairburn": {
+    "city": "Fairburn",
+    "city_ascii": "Fairburn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5496,
+    "lng": -84.5914,
+    "cafes": []
+  },
+  "Grovetown": {
+    "city": "Grovetown",
+    "city_ascii": "Grovetown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4503,
+    "lng": -82.2073,
+    "cafes": []
+  },
+  "Lithia Springs": {
+    "city": "Lithia Springs",
+    "city_ascii": "Lithia Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7811,
+    "lng": -84.6487,
+    "cafes": []
+  },
+  "St. Simons": {
+    "city": "St. Simons",
+    "city_ascii": "St. Simons",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1775,
+    "lng": -81.3857,
+    "cafes": []
+  },
+  "Dublin": {
+    "city": "Dublin",
+    "city_ascii": "Dublin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.536,
+    "lng": -82.928,
+    "cafes": []
+  },
+  "Americus": {
+    "city": "Americus",
+    "city_ascii": "Americus",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0736,
+    "lng": -84.2248,
+    "cafes": []
+  },
+  "Monroe": {
+    "city": "Monroe",
+    "city_ascii": "Monroe",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.799,
+    "lng": -83.7161,
+    "cafes": []
+  },
+  "Lilburn": {
+    "city": "Lilburn",
+    "city_ascii": "Lilburn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8897,
+    "lng": -84.1364,
+    "cafes": []
+  },
+  "Loganville": {
+    "city": "Loganville",
+    "city_ascii": "Loganville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8353,
+    "lng": -83.8958,
+    "cafes": []
+  },
+  "Riverdale": {
+    "city": "Riverdale",
+    "city_ascii": "Riverdale",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5639,
+    "lng": -84.4103,
+    "cafes": []
+  },
+  "Clarkston": {
+    "city": "Clarkston",
+    "city_ascii": "Clarkston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8117,
+    "lng": -84.2403,
+    "cafes": []
+  },
+  "Moultrie": {
+    "city": "Moultrie",
+    "city_ascii": "Moultrie",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1591,
+    "lng": -83.7708,
+    "cafes": []
+  },
+  "Wilmington Island": {
+    "city": "Wilmington Island",
+    "city_ascii": "Wilmington Island",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0033,
+    "lng": -80.9752,
+    "cafes": []
+  },
+  "Dallas": {
+    "city": "Dallas",
+    "city_ascii": "Dallas",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9152,
+    "lng": -84.8416,
+    "cafes": []
+  },
+  "Belvedere Park": {
+    "city": "Belvedere Park",
+    "city_ascii": "Belvedere Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7489,
+    "lng": -84.2599,
+    "cafes": []
+  },
+  "Bainbridge": {
+    "city": "Bainbridge",
+    "city_ascii": "Bainbridge",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9052,
+    "lng": -84.5732,
+    "cafes": []
+  },
+  "Covington": {
+    "city": "Covington",
+    "city_ascii": "Covington",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6049,
+    "lng": -83.8463,
+    "cafes": []
+  },
+  "Jefferson": {
+    "city": "Jefferson",
+    "city_ascii": "Jefferson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1373,
+    "lng": -83.6021,
+    "cafes": []
+  },
+  "Braselton": {
+    "city": "Braselton",
+    "city_ascii": "Braselton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1087,
+    "lng": -83.8127,
+    "cafes": []
+  },
+  "College Park": {
+    "city": "College Park",
+    "city_ascii": "College Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6363,
+    "lng": -84.464,
+    "cafes": []
+  },
+  "Waycross": {
+    "city": "Waycross",
+    "city_ascii": "Waycross",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2108,
+    "lng": -82.3579,
+    "cafes": []
+  },
+  "Vinings": {
+    "city": "Vinings",
+    "city_ascii": "Vinings",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8608,
+    "lng": -84.4686,
+    "cafes": []
+  },
+  "Mountain Park": {
+    "city": "Mountain Park",
+    "city_ascii": "Mountain Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8458,
+    "lng": -84.1314,
+    "cafes": []
+  },
+  "Port Wentworth": {
+    "city": "Port Wentworth",
+    "city_ascii": "Port Wentworth",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1951,
+    "lng": -81.1991,
+    "cafes": []
+  },
+  "Douglas": {
+    "city": "Douglas",
+    "city_ascii": "Douglas",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5065,
+    "lng": -82.8544,
+    "cafes": []
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9849,
+    "lng": -81.226,
+    "cafes": []
+  },
+  "Rincon": {
+    "city": "Rincon",
+    "city_ascii": "Rincon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.2947,
+    "lng": -81.2353,
+    "cafes": []
+  },
+  "Lovejoy": {
+    "city": "Lovejoy",
+    "city_ascii": "Lovejoy",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4426,
+    "lng": -84.3177,
+    "cafes": []
+  },
+  "Vidalia": {
+    "city": "Vidalia",
+    "city_ascii": "Vidalia",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.2125,
+    "lng": -82.4019,
+    "cafes": []
+  },
+  "Doraville": {
+    "city": "Doraville",
+    "city_ascii": "Doraville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9073,
+    "lng": -84.2711,
+    "cafes": []
+  },
+  "Scottdale": {
+    "city": "Scottdale",
+    "city_ascii": "Scottdale",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.795,
+    "lng": -84.2634,
+    "cafes": []
+  },
+  "Fair Oaks": {
+    "city": "Fair Oaks",
+    "city_ascii": "Fair Oaks",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9193,
+    "lng": -84.5445,
+    "cafes": []
+  },
+  "Garden City": {
+    "city": "Garden City",
+    "city_ascii": "Garden City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0867,
+    "lng": -81.1773,
+    "cafes": []
+  },
+  "Fort Oglethorpe": {
+    "city": "Fort Oglethorpe",
+    "city_ascii": "Fort Oglethorpe",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9318,
+    "lng": -85.246,
+    "cafes": []
+  },
+  "Flowery Branch": {
+    "city": "Flowery Branch",
+    "city_ascii": "Flowery Branch",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1712,
+    "lng": -83.9142,
+    "cafes": []
+  },
+  "Cedartown": {
+    "city": "Cedartown",
+    "city_ascii": "Cedartown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0223,
+    "lng": -85.2479,
+    "cafes": []
+  },
+  "Cordele": {
+    "city": "Cordele",
+    "city_ascii": "Cordele",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9563,
+    "lng": -83.7694,
+    "cafes": []
+  },
+  "Cairo": {
+    "city": "Cairo",
+    "city_ascii": "Cairo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.879,
+    "lng": -84.205,
+    "cafes": []
+  },
+  "Fort Stewart": {
+    "city": "Fort Stewart",
+    "city_ascii": "Fort Stewart",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8811,
+    "lng": -81.6131,
+    "cafes": []
+  },
+  "Locust Grove": {
+    "city": "Locust Grove",
+    "city_ascii": "Locust Grove",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3446,
+    "lng": -84.1071,
+    "cafes": []
+  },
+  "Jesup": {
+    "city": "Jesup",
+    "city_ascii": "Jesup",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5992,
+    "lng": -81.8895,
+    "cafes": []
+  },
+  "Thomaston": {
+    "city": "Thomaston",
+    "city_ascii": "Thomaston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8907,
+    "lng": -84.3272,
+    "cafes": []
+  },
+  "Country Club Estates": {
+    "city": "Country Club Estates",
+    "city_ascii": "Country Club Estates",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2113,
+    "lng": -81.4622,
+    "cafes": []
+  },
+  "Cusseta": {
+    "city": "Cusseta",
+    "city_ascii": "Cusseta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.347,
+    "lng": -84.787,
+    "cafes": []
+  },
+  "Toccoa": {
+    "city": "Toccoa",
+    "city_ascii": "Toccoa",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.581,
+    "lng": -83.3263,
+    "cafes": []
+  },
+  "Fitzgerald": {
+    "city": "Fitzgerald",
+    "city_ascii": "Fitzgerald",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7134,
+    "lng": -83.2514,
+    "cafes": []
+  },
+  "Skidaway Island": {
+    "city": "Skidaway Island",
+    "city_ascii": "Skidaway Island",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9372,
+    "lng": -81.0449,
+    "cafes": []
+  },
+  "Panthersville": {
+    "city": "Panthersville",
+    "city_ascii": "Panthersville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7059,
+    "lng": -84.2763,
+    "cafes": []
+  },
+  "Fort Valley": {
+    "city": "Fort Valley",
+    "city_ascii": "Fort Valley",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.552,
+    "lng": -83.8817,
+    "cafes": []
+  },
+  "Dock Junction": {
+    "city": "Dock Junction",
+    "city_ascii": "Dock Junction",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2031,
+    "lng": -81.5155,
+    "cafes": []
+  },
+  "Irondale": {
+    "city": "Irondale",
+    "city_ascii": "Irondale",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4773,
+    "lng": -84.3601,
+    "cafes": []
+  },
+  "Hampton": {
+    "city": "Hampton",
+    "city_ascii": "Hampton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3774,
+    "lng": -84.2969,
+    "cafes": []
+  },
+  "Bemiss": {
+    "city": "Bemiss",
+    "city_ascii": "Bemiss",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9318,
+    "lng": -83.2386,
+    "cafes": []
+  },
+  "Austell": {
+    "city": "Austell",
+    "city_ascii": "Austell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8201,
+    "lng": -84.6451,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6342,
+    "lng": -83.6853,
+    "cafes": []
+  },
+  "Druid Hills": {
+    "city": "Druid Hills",
+    "city_ascii": "Druid Hills",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7842,
+    "lng": -84.3272,
+    "cafes": []
+  },
+  "Auburn": {
+    "city": "Auburn",
+    "city_ascii": "Auburn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0156,
+    "lng": -83.8319,
+    "cafes": []
+  },
+  "Cumming": {
+    "city": "Cumming",
+    "city_ascii": "Cumming",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2063,
+    "lng": -84.1339,
+    "cafes": []
+  },
+  "Tyrone": {
+    "city": "Tyrone",
+    "city_ascii": "Tyrone",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4752,
+    "lng": -84.5941,
+    "cafes": []
+  },
+  "Commerce": {
+    "city": "Commerce",
+    "city_ascii": "Commerce",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2134,
+    "lng": -83.4733,
+    "cafes": []
+  },
+  "Swainsboro": {
+    "city": "Swainsboro",
+    "city_ascii": "Swainsboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5866,
+    "lng": -82.3345,
+    "cafes": []
+  },
+  "Gresham Park": {
+    "city": "Gresham Park",
+    "city_ascii": "Gresham Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7053,
+    "lng": -84.3155,
+    "cafes": []
+  },
+  "Bremen": {
+    "city": "Bremen",
+    "city_ascii": "Bremen",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7085,
+    "lng": -85.1495,
+    "cafes": []
+  },
+  "Dahlonega": {
+    "city": "Dahlonega",
+    "city_ascii": "Dahlonega",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.5311,
+    "lng": -83.9804,
+    "cafes": []
+  },
+  "Dacula": {
+    "city": "Dacula",
+    "city_ascii": "Dacula",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9815,
+    "lng": -83.8952,
+    "cafes": []
+  },
+  "LaFayette": {
+    "city": "LaFayette",
+    "city_ascii": "LaFayette",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.7089,
+    "lng": -85.2815,
+    "cafes": []
+  },
+  "Whitemarsh Island": {
+    "city": "Whitemarsh Island",
+    "city_ascii": "Whitemarsh Island",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0304,
+    "lng": -81.0109,
+    "cafes": []
+  },
+  "Thomson": {
+    "city": "Thomson",
+    "city_ascii": "Thomson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4679,
+    "lng": -82.4968,
+    "cafes": []
+  },
+  "Stone Mountain": {
+    "city": "Stone Mountain",
+    "city_ascii": "Stone Mountain",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8035,
+    "lng": -84.1723,
+    "cafes": []
+  },
+  "Hapeville": {
+    "city": "Hapeville",
+    "city_ascii": "Hapeville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6609,
+    "lng": -84.4093,
+    "cafes": []
+  },
+  "Morrow": {
+    "city": "Morrow",
+    "city_ascii": "Morrow",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5815,
+    "lng": -84.3391,
+    "cafes": []
+  },
+  "Eatonton": {
+    "city": "Eatonton",
+    "city_ascii": "Eatonton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3258,
+    "lng": -83.3886,
+    "cafes": []
+  },
+  "Fairfield Plantation": {
+    "city": "Fairfield Plantation",
+    "city_ascii": "Fairfield Plantation",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6457,
+    "lng": -84.9254,
+    "cafes": []
+  },
+  "Jonesboro": {
+    "city": "Jonesboro",
+    "city_ascii": "Jonesboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5211,
+    "lng": -84.3548,
+    "cafes": []
+  },
+  "Barnesville": {
+    "city": "Barnesville",
+    "city_ascii": "Barnesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0508,
+    "lng": -84.1528,
+    "cafes": []
+  },
+  "McRae-Helena": {
+    "city": "McRae-Helena",
+    "city_ascii": "McRae-Helena",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0636,
+    "lng": -82.8968,
+    "cafes": []
+  },
+  "Byron": {
+    "city": "Byron",
+    "city_ascii": "Byron",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6476,
+    "lng": -83.7539,
+    "cafes": []
+  },
+  "Waynesboro": {
+    "city": "Waynesboro",
+    "city_ascii": "Waynesboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0909,
+    "lng": -82.0145,
+    "cafes": []
+  },
+  "Sandersville": {
+    "city": "Sandersville",
+    "city_ascii": "Sandersville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9827,
+    "lng": -82.8089,
+    "cafes": []
+  },
+  "Temple": {
+    "city": "Temple",
+    "city_ascii": "Temple",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7342,
+    "lng": -85.0289,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.292,
+    "lng": -83.9679,
+    "cafes": []
+  },
+  "Eastman": {
+    "city": "Eastman",
+    "city_ascii": "Eastman",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1973,
+    "lng": -83.1714,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9295,
+    "lng": -85.294,
+    "cafes": []
+  },
+  "Adel": {
+    "city": "Adel",
+    "city_ascii": "Adel",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1264,
+    "lng": -83.4229,
+    "cafes": []
+  },
+  "Sylvester": {
+    "city": "Sylvester",
+    "city_ascii": "Sylvester",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.53,
+    "lng": -83.8338,
+    "cafes": []
+  },
+  "Oakwood": {
+    "city": "Oakwood",
+    "city_ascii": "Oakwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2236,
+    "lng": -83.8851,
+    "cafes": []
+  },
+  "Conley": {
+    "city": "Conley",
+    "city_ascii": "Conley",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6399,
+    "lng": -84.3376,
+    "cafes": []
+  },
+  "Senoia": {
+    "city": "Senoia",
+    "city_ascii": "Senoia",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3082,
+    "lng": -84.5546,
+    "cafes": []
+  },
+  "Blakely": {
+    "city": "Blakely",
+    "city_ascii": "Blakely",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3827,
+    "lng": -84.9228,
+    "cafes": []
+  },
+  "Glennville": {
+    "city": "Glennville",
+    "city_ascii": "Glennville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9379,
+    "lng": -81.9305,
+    "cafes": []
+  },
+  "Camilla": {
+    "city": "Camilla",
+    "city_ascii": "Camilla",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2337,
+    "lng": -84.2088,
+    "cafes": []
+  },
+  "Rockmart": {
+    "city": "Rockmart",
+    "city_ascii": "Rockmart",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0103,
+    "lng": -85.044,
+    "cafes": []
+  },
+  "Social Circle": {
+    "city": "Social Circle",
+    "city_ascii": "Social Circle",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6505,
+    "lng": -83.7116,
+    "cafes": []
+  },
+  "Hiram": {
+    "city": "Hiram",
+    "city_ascii": "Hiram",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8777,
+    "lng": -84.771,
+    "cafes": []
+  },
+  "Baxley": {
+    "city": "Baxley",
+    "city_ascii": "Baxley",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7641,
+    "lng": -82.3509,
+    "cafes": []
+  },
+  "Adairsville": {
+    "city": "Adairsville",
+    "city_ascii": "Adairsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3709,
+    "lng": -84.9212,
+    "cafes": []
+  },
+  "Nashville": {
+    "city": "Nashville",
+    "city_ascii": "Nashville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2048,
+    "lng": -83.2478,
+    "cafes": []
+  },
+  "Chatsworth": {
+    "city": "Chatsworth",
+    "city_ascii": "Chatsworth",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.7808,
+    "lng": -84.7835,
+    "cafes": []
+  },
+  "Cochran": {
+    "city": "Cochran",
+    "city_ascii": "Cochran",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3875,
+    "lng": -83.3523,
+    "cafes": []
+  },
+  "Cornelia": {
+    "city": "Cornelia",
+    "city_ascii": "Cornelia",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.517,
+    "lng": -83.5311,
+    "cafes": []
+  },
+  "Lakeview": {
+    "city": "Lakeview",
+    "city_ascii": "Lakeview",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9777,
+    "lng": -85.2539,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5793,
+    "lng": -83.4758,
+    "cafes": []
+  },
+  "Montgomery": {
+    "city": "Montgomery",
+    "city_ascii": "Montgomery",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9438,
+    "lng": -81.1081,
+    "cafes": []
+  },
+  "Grayson": {
+    "city": "Grayson",
+    "city_ascii": "Grayson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8904,
+    "lng": -83.9576,
+    "cafes": []
+  },
+  "Elberton": {
+    "city": "Elberton",
+    "city_ascii": "Elberton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1063,
+    "lng": -82.8705,
+    "cafes": []
+  },
+  "Palmetto": {
+    "city": "Palmetto",
+    "city_ascii": "Palmetto",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.531,
+    "lng": -84.6678,
+    "cafes": []
+  },
+  "Forsyth": {
+    "city": "Forsyth",
+    "city_ascii": "Forsyth",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0352,
+    "lng": -83.939,
+    "cafes": []
+  },
+  "Buckhead": {
+    "city": "Buckhead",
+    "city_ascii": "Buckhead",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5686,
+    "lng": -83.3623,
+    "cafes": []
+  },
+  "Lindale": {
+    "city": "Lindale",
+    "city_ascii": "Lindale",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1884,
+    "lng": -85.1808,
+    "cafes": []
+  },
+  "Folkston": {
+    "city": "Folkston",
+    "city_ascii": "Folkston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.8392,
+    "lng": -82.0073,
+    "cafes": []
+  },
+  "Heron Bay": {
+    "city": "Heron Bay",
+    "city_ascii": "Heron Bay",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3393,
+    "lng": -84.1922,
+    "cafes": []
+  },
+  "Hartwell": {
+    "city": "Hartwell",
+    "city_ascii": "Hartwell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3496,
+    "lng": -82.9289,
+    "cafes": []
+  },
+  "Summerville": {
+    "city": "Summerville",
+    "city_ascii": "Summerville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4788,
+    "lng": -85.3491,
+    "cafes": []
+  },
+  "Jasper": {
+    "city": "Jasper",
+    "city_ascii": "Jasper",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.471,
+    "lng": -84.4497,
+    "cafes": []
+  },
+  "Chattanooga Valley": {
+    "city": "Chattanooga Valley",
+    "city_ascii": "Chattanooga Valley",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9241,
+    "lng": -85.3431,
+    "cafes": []
+  },
+  "Dawson": {
+    "city": "Dawson",
+    "city_ascii": "Dawson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7721,
+    "lng": -84.4437,
+    "cafes": []
+  },
+  "Euharlee": {
+    "city": "Euharlee",
+    "city_ascii": "Euharlee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1441,
+    "lng": -84.9327,
+    "cafes": []
+  },
+  "Ashburn": {
+    "city": "Ashburn",
+    "city_ascii": "Ashburn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7096,
+    "lng": -83.6528,
+    "cafes": []
+  },
+  "Lyons": {
+    "city": "Lyons",
+    "city_ascii": "Lyons",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.2062,
+    "lng": -82.3215,
+    "cafes": []
+  },
+  "Dawsonville": {
+    "city": "Dawsonville",
+    "city_ascii": "Dawsonville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4362,
+    "lng": -84.125,
+    "cafes": []
+  },
+  "Hazlehurst": {
+    "city": "Hazlehurst",
+    "city_ascii": "Hazlehurst",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8651,
+    "lng": -82.5994,
+    "cafes": []
+  },
+  "Quitman": {
+    "city": "Quitman",
+    "city_ascii": "Quitman",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.7849,
+    "lng": -83.5603,
+    "cafes": []
+  },
+  "Hawkinsville": {
+    "city": "Hawkinsville",
+    "city_ascii": "Hawkinsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.2965,
+    "lng": -83.4815,
+    "cafes": []
+  },
+  "Rossville": {
+    "city": "Rossville",
+    "city_ascii": "Rossville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9747,
+    "lng": -85.2898,
+    "cafes": []
+  },
+  "Metter": {
+    "city": "Metter",
+    "city_ascii": "Metter",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3958,
+    "lng": -82.0621,
+    "cafes": []
+  },
+  "Harlem": {
+    "city": "Harlem",
+    "city_ascii": "Harlem",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4275,
+    "lng": -82.3131,
+    "cafes": []
+  },
+  "Walthourville": {
+    "city": "Walthourville",
+    "city_ascii": "Walthourville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7716,
+    "lng": -81.6216,
+    "cafes": []
+  },
+  "Baldwin": {
+    "city": "Baldwin",
+    "city_ascii": "Baldwin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.486,
+    "lng": -83.5497,
+    "cafes": []
+  },
+  "Washington": {
+    "city": "Washington",
+    "city_ascii": "Washington",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7355,
+    "lng": -82.7426,
+    "cafes": []
+  },
+  "Hoschton": {
+    "city": "Hoschton",
+    "city_ascii": "Hoschton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0853,
+    "lng": -83.7594,
+    "cafes": []
+  },
+  "Hephzibah": {
+    "city": "Hephzibah",
+    "city_ascii": "Hephzibah",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2906,
+    "lng": -82.0994,
+    "cafes": []
+  },
+  "Greensboro": {
+    "city": "Greensboro",
+    "city_ascii": "Greensboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5687,
+    "lng": -83.1872,
+    "cafes": []
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8565,
+    "lng": -84.6329,
+    "cafes": []
+  },
+  "Bonanza": {
+    "city": "Bonanza",
+    "city_ascii": "Bonanza",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4589,
+    "lng": -84.3379,
+    "cafes": []
+  },
+  "Blackshear": {
+    "city": "Blackshear",
+    "city_ascii": "Blackshear",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2954,
+    "lng": -82.2453,
+    "cafes": []
+  },
+  "Chattahoochee Hills": {
+    "city": "Chattahoochee Hills",
+    "city_ascii": "Chattahoochee Hills",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5694,
+    "lng": -84.7441,
+    "cafes": []
+  },
+  "Cleveland": {
+    "city": "Cleveland",
+    "city_ascii": "Cleveland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.597,
+    "lng": -83.7622,
+    "cafes": []
+  },
+  "Avondale Estates": {
+    "city": "Avondale Estates",
+    "city_ascii": "Avondale Estates",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7699,
+    "lng": -84.2648,
+    "cafes": []
+  },
+  "Leesburg": {
+    "city": "Leesburg",
+    "city_ascii": "Leesburg",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7324,
+    "lng": -84.1688,
+    "cafes": []
+  },
+  "West Point": {
+    "city": "West Point",
+    "city_ascii": "West Point",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8937,
+    "lng": -85.1453,
+    "cafes": []
+  },
+  "Nicholls": {
+    "city": "Nicholls",
+    "city_ascii": "Nicholls",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5186,
+    "lng": -82.6396,
+    "cafes": []
+  },
+  "Wrightsville": {
+    "city": "Wrightsville",
+    "city_ascii": "Wrightsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.727,
+    "lng": -82.7191,
+    "cafes": []
+  },
+  "Pelham": {
+    "city": "Pelham",
+    "city_ascii": "Pelham",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1267,
+    "lng": -84.1515,
+    "cafes": []
+  },
+  "Gray": {
+    "city": "Gray",
+    "city_ascii": "Gray",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0021,
+    "lng": -83.5374,
+    "cafes": []
+  },
+  "Alma": {
+    "city": "Alma",
+    "city_ascii": "Alma",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5432,
+    "lng": -82.4745,
+    "cafes": []
+  },
+  "Ringgold": {
+    "city": "Ringgold",
+    "city_ascii": "Ringgold",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9136,
+    "lng": -85.1215,
+    "cafes": []
+  },
+  "Hahira": {
+    "city": "Hahira",
+    "city_ascii": "Hahira",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9941,
+    "lng": -83.3786,
+    "cafes": []
+  },
+  "Hannahs Mill": {
+    "city": "Hannahs Mill",
+    "city_ascii": "Hannahs Mill",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9369,
+    "lng": -84.3406,
+    "cafes": []
+  },
+  "Putney": {
+    "city": "Putney",
+    "city_ascii": "Putney",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.4755,
+    "lng": -84.101,
+    "cafes": []
+  },
+  "Hogansville": {
+    "city": "Hogansville",
+    "city_ascii": "Hogansville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.1674,
+    "lng": -84.9027,
+    "cafes": []
+  },
+  "Tallapoosa": {
+    "city": "Tallapoosa",
+    "city_ascii": "Tallapoosa",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7335,
+    "lng": -85.2859,
+    "cafes": []
+  },
+  "Ocilla": {
+    "city": "Ocilla",
+    "city_ascii": "Ocilla",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5987,
+    "lng": -83.2498,
+    "cafes": []
+  },
+  "Hardwick": {
+    "city": "Hardwick",
+    "city_ascii": "Hardwick",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0523,
+    "lng": -83.244,
+    "cafes": []
+  },
+  "Grantville": {
+    "city": "Grantville",
+    "city_ascii": "Grantville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2371,
+    "lng": -84.8293,
+    "cafes": []
+  },
+  "Experiment": {
+    "city": "Experiment",
+    "city_ascii": "Experiment",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.279,
+    "lng": -84.276,
+    "cafes": []
+  },
+  "Tybee Island": {
+    "city": "Tybee Island",
+    "city_ascii": "Tybee Island",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0095,
+    "lng": -80.8531,
+    "cafes": []
+  },
+  "Alamo": {
+    "city": "Alamo",
+    "city_ascii": "Alamo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1469,
+    "lng": -82.7798,
+    "cafes": []
+  },
+  "Unadilla": {
+    "city": "Unadilla",
+    "city_ascii": "Unadilla",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.2583,
+    "lng": -83.7356,
+    "cafes": []
+  },
+  "Lakeview Estates": {
+    "city": "Lakeview Estates",
+    "city_ascii": "Lakeview Estates",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7047,
+    "lng": -84.0367,
+    "cafes": []
+  },
+  "Cuthbert": {
+    "city": "Cuthbert",
+    "city_ascii": "Cuthbert",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7713,
+    "lng": -84.794,
+    "cafes": []
+  },
+  "Montezuma": {
+    "city": "Montezuma",
+    "city_ascii": "Montezuma",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.2997,
+    "lng": -84.0246,
+    "cafes": []
+  },
+  "Chickamauga": {
+    "city": "Chickamauga",
+    "city_ascii": "Chickamauga",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.8753,
+    "lng": -85.2885,
+    "cafes": []
+  },
+  "Bloomingdale": {
+    "city": "Bloomingdale",
+    "city_ascii": "Bloomingdale",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1249,
+    "lng": -81.3077,
+    "cafes": []
+  },
+  "Millen": {
+    "city": "Millen",
+    "city_ascii": "Millen",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8071,
+    "lng": -81.9423,
+    "cafes": []
+  },
+  "Lakeland": {
+    "city": "Lakeland",
+    "city_ascii": "Lakeland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0409,
+    "lng": -83.0748,
+    "cafes": []
+  },
+  "Lake City": {
+    "city": "Lake City",
+    "city_ascii": "Lake City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6065,
+    "lng": -84.3411,
+    "cafes": []
+  },
+  "Lula": {
+    "city": "Lula",
+    "city_ascii": "Lula",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3955,
+    "lng": -83.6659,
+    "cafes": []
+  },
+  "Statham": {
+    "city": "Statham",
+    "city_ascii": "Statham",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9647,
+    "lng": -83.6018,
+    "cafes": []
+  },
+  "Soperton": {
+    "city": "Soperton",
+    "city_ascii": "Soperton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3782,
+    "lng": -82.5945,
+    "cafes": []
+  },
+  "Vienna": {
+    "city": "Vienna",
+    "city_ascii": "Vienna",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0926,
+    "lng": -83.7868,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3636,
+    "lng": -81.303,
+    "cafes": []
+  },
+  "Donalsonville": {
+    "city": "Donalsonville",
+    "city_ascii": "Donalsonville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0404,
+    "lng": -84.8792,
+    "cafes": []
+  },
+  "Abbeville": {
+    "city": "Abbeville",
+    "city_ascii": "Abbeville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9925,
+    "lng": -83.3068,
+    "cafes": []
+  },
+  "East Dublin": {
+    "city": "East Dublin",
+    "city_ascii": "East Dublin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5468,
+    "lng": -82.8675,
+    "cafes": []
+  },
+  "Reed Creek": {
+    "city": "Reed Creek",
+    "city_ascii": "Reed Creek",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4395,
+    "lng": -82.9103,
+    "cafes": []
+  },
+  "Monticello": {
+    "city": "Monticello",
+    "city_ascii": "Monticello",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2955,
+    "lng": -83.686,
+    "cafes": []
+  },
+  "Ball Ground": {
+    "city": "Ball Ground",
+    "city_ascii": "Ball Ground",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3426,
+    "lng": -84.3637,
+    "cafes": []
+  },
+  "Pembroke": {
+    "city": "Pembroke",
+    "city_ascii": "Pembroke",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1455,
+    "lng": -81.6185,
+    "cafes": []
+  },
+  "Varnell": {
+    "city": "Varnell",
+    "city_ascii": "Varnell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9015,
+    "lng": -84.9645,
+    "cafes": []
+  },
+  "Sylvania": {
+    "city": "Sylvania",
+    "city_ascii": "Sylvania",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.7466,
+    "lng": -81.6409,
+    "cafes": []
+  },
+  "Berkeley Lake": {
+    "city": "Berkeley Lake",
+    "city_ascii": "Berkeley Lake",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9805,
+    "lng": -84.1839,
+    "cafes": []
+  },
+  "Lithonia": {
+    "city": "Lithonia",
+    "city_ascii": "Lithonia",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7129,
+    "lng": -84.106,
+    "cafes": []
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0102,
+    "lng": -81.2655,
+    "cafes": []
+  },
+  "Guyton": {
+    "city": "Guyton",
+    "city_ascii": "Guyton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.341,
+    "lng": -81.4224,
+    "cafes": []
+  },
+  "Thunderbolt": {
+    "city": "Thunderbolt",
+    "city_ascii": "Thunderbolt",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0339,
+    "lng": -81.0479,
+    "cafes": []
+  },
+  "Reidsville": {
+    "city": "Reidsville",
+    "city_ascii": "Reidsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0871,
+    "lng": -82.1244,
+    "cafes": []
+  },
+  "Lavonia": {
+    "city": "Lavonia",
+    "city_ascii": "Lavonia",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4341,
+    "lng": -83.1079,
+    "cafes": []
+  },
+  "Kennesaw State University": {
+    "city": "Kennesaw State University",
+    "city_ascii": "Kennesaw State University",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0379,
+    "lng": -84.5826,
+    "cafes": []
+  },
+  "Louisville": {
+    "city": "Louisville",
+    "city_ascii": "Louisville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9955,
+    "lng": -82.4001,
+    "cafes": []
+  },
+  "Claxton": {
+    "city": "Claxton",
+    "city_ascii": "Claxton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1613,
+    "lng": -81.9094,
+    "cafes": []
+  },
+  "Clayton": {
+    "city": "Clayton",
+    "city_ascii": "Clayton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.8775,
+    "lng": -83.4027,
+    "cafes": []
+  },
+  "Kings Bay Base": {
+    "city": "Kings Bay Base",
+    "city_ascii": "Kings Bay Base",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.7985,
+    "lng": -81.5628,
+    "cafes": []
+  },
+  "Deenwood": {
+    "city": "Deenwood",
+    "city_ascii": "Deenwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2477,
+    "lng": -82.3677,
+    "cafes": []
+  },
+  "Demorest": {
+    "city": "Demorest",
+    "city_ascii": "Demorest",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.5648,
+    "lng": -83.5424,
+    "cafes": []
+  },
+  "Royston": {
+    "city": "Royston",
+    "city_ascii": "Royston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2861,
+    "lng": -83.1106,
+    "cafes": []
+  },
+  "Aragon": {
+    "city": "Aragon",
+    "city_ascii": "Aragon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0458,
+    "lng": -85.057,
+    "cafes": []
+  },
+  "Gumlog": {
+    "city": "Gumlog",
+    "city_ascii": "Gumlog",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.495,
+    "lng": -83.0975,
+    "cafes": []
+  },
+  "Brooklet": {
+    "city": "Brooklet",
+    "city_ascii": "Brooklet",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3897,
+    "lng": -81.6668,
+    "cafes": []
+  },
+  "Mount Zion": {
+    "city": "Mount Zion",
+    "city_ascii": "Mount Zion",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6408,
+    "lng": -85.1803,
+    "cafes": []
+  },
+  "Bowdon": {
+    "city": "Bowdon",
+    "city_ascii": "Bowdon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5378,
+    "lng": -85.254,
+    "cafes": []
+  },
+  "Pendergrass": {
+    "city": "Pendergrass",
+    "city_ascii": "Pendergrass",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1646,
+    "lng": -83.6827,
+    "cafes": []
+  },
+  "Winterville": {
+    "city": "Winterville",
+    "city_ascii": "Winterville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9666,
+    "lng": -83.2815,
+    "cafes": []
+  },
+  "Homerville": {
+    "city": "Homerville",
+    "city_ascii": "Homerville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0385,
+    "lng": -82.742,
+    "cafes": []
+  },
+  "Sparks": {
+    "city": "Sparks",
+    "city_ascii": "Sparks",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1693,
+    "lng": -83.4405,
+    "cafes": []
+  },
+  "Trion": {
+    "city": "Trion",
+    "city_ascii": "Trion",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.548,
+    "lng": -85.3114,
+    "cafes": []
+  },
+  "Raoul": {
+    "city": "Raoul",
+    "city_ascii": "Raoul",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4548,
+    "lng": -83.5996,
+    "cafes": []
+  },
+  "Gordon": {
+    "city": "Gordon",
+    "city_ascii": "Gordon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8866,
+    "lng": -83.3349,
+    "cafes": []
+  },
+  "Midway": {
+    "city": "Midway",
+    "city_ascii": "Midway",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8003,
+    "lng": -81.419,
+    "cafes": []
+  },
+  "Davisboro": {
+    "city": "Davisboro",
+    "city_ascii": "Davisboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9826,
+    "lng": -82.6032,
+    "cafes": []
+  },
+  "Colquitt": {
+    "city": "Colquitt",
+    "city_ascii": "Colquitt",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1741,
+    "lng": -84.7319,
+    "cafes": []
+  },
+  "Mount Vernon": {
+    "city": "Mount Vernon",
+    "city_ascii": "Mount Vernon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1834,
+    "lng": -82.5959,
+    "cafes": []
+  },
+  "Trenton": {
+    "city": "Trenton",
+    "city_ascii": "Trenton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.8741,
+    "lng": -85.5096,
+    "cafes": []
+  },
+  "Wrens": {
+    "city": "Wrens",
+    "city_ascii": "Wrens",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.207,
+    "lng": -82.3878,
+    "cafes": []
+  },
+  "Wadley": {
+    "city": "Wadley",
+    "city_ascii": "Wadley",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8663,
+    "lng": -82.4014,
+    "cafes": []
+  },
+  "Twin City": {
+    "city": "Twin City",
+    "city_ascii": "Twin City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5829,
+    "lng": -82.1575,
+    "cafes": []
+  },
+  "Pearson": {
+    "city": "Pearson",
+    "city_ascii": "Pearson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.297,
+    "lng": -82.8544,
+    "cafes": []
+  },
+  "Buena Vista": {
+    "city": "Buena Vista",
+    "city_ascii": "Buena Vista",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3188,
+    "lng": -84.5177,
+    "cafes": []
+  },
+  "Indian Springs": {
+    "city": "Indian Springs",
+    "city_ascii": "Indian Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9606,
+    "lng": -85.159,
+    "cafes": []
+  },
+  "Oxford": {
+    "city": "Oxford",
+    "city_ascii": "Oxford",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6277,
+    "lng": -83.8721,
+    "cafes": []
+  },
+  "Isle of Hope": {
+    "city": "Isle of Hope",
+    "city_ascii": "Isle of Hope",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9848,
+    "lng": -81.0532,
+    "cafes": []
+  },
+  "Ellijay": {
+    "city": "Ellijay",
+    "city_ascii": "Ellijay",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.6914,
+    "lng": -84.4839,
+    "cafes": []
+  },
+  "Comer": {
+    "city": "Comer",
+    "city_ascii": "Comer",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0625,
+    "lng": -83.1263,
+    "cafes": []
+  },
+  "Butler": {
+    "city": "Butler",
+    "city_ascii": "Butler",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.557,
+    "lng": -84.2377,
+    "cafes": []
+  },
+  "Hamilton": {
+    "city": "Hamilton",
+    "city_ascii": "Hamilton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.7647,
+    "lng": -84.8753,
+    "cafes": []
+  },
+  "Nicholson": {
+    "city": "Nicholson",
+    "city_ascii": "Nicholson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1172,
+    "lng": -83.4289,
+    "cafes": []
+  },
+  "Cataula": {
+    "city": "Cataula",
+    "city_ascii": "Cataula",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6566,
+    "lng": -84.8674,
+    "cafes": []
+  },
+  "Morgan": {
+    "city": "Morgan",
+    "city_ascii": "Morgan",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5381,
+    "lng": -84.6033,
+    "cafes": []
+  },
+  "Sterling": {
+    "city": "Sterling",
+    "city_ascii": "Sterling",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2603,
+    "lng": -81.5525,
+    "cafes": []
+  },
+  "Maysville": {
+    "city": "Maysville",
+    "city_ascii": "Maysville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2555,
+    "lng": -83.5521,
+    "cafes": []
+  },
+  "Clarkesville": {
+    "city": "Clarkesville",
+    "city_ascii": "Clarkesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.6103,
+    "lng": -83.5284,
+    "cafes": []
+  },
+  "Sparta": {
+    "city": "Sparta",
+    "city_ascii": "Sparta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2766,
+    "lng": -82.9704,
+    "cafes": []
+  },
+  "Lookout Mountain": {
+    "city": "Lookout Mountain",
+    "city_ascii": "Lookout Mountain",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9664,
+    "lng": -85.3622,
+    "cafes": []
+  },
+  "Ludowici": {
+    "city": "Ludowici",
+    "city_ascii": "Ludowici",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7093,
+    "lng": -81.7452,
+    "cafes": []
+  },
+  "Warrenton": {
+    "city": "Warrenton",
+    "city_ascii": "Warrenton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4067,
+    "lng": -82.6653,
+    "cafes": []
+  },
+  "Union Point": {
+    "city": "Union Point",
+    "city_ascii": "Union Point",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6178,
+    "lng": -83.0751,
+    "cafes": []
+  },
+  "Emerson": {
+    "city": "Emerson",
+    "city_ascii": "Emerson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1303,
+    "lng": -84.7483,
+    "cafes": []
+  },
+  "Berry College": {
+    "city": "Berry College",
+    "city_ascii": "Berry College",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2911,
+    "lng": -85.1878,
+    "cafes": []
+  },
+  "Zebulon": {
+    "city": "Zebulon",
+    "city_ascii": "Zebulon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.093,
+    "lng": -84.3427,
+    "cafes": []
+  },
+  "Chester": {
+    "city": "Chester",
+    "city_ascii": "Chester",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3945,
+    "lng": -83.1551,
+    "cafes": []
+  },
+  "Arcade": {
+    "city": "Arcade",
+    "city_ascii": "Arcade",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0693,
+    "lng": -83.5399,
+    "cafes": []
+  },
+  "Ellaville": {
+    "city": "Ellaville",
+    "city_ascii": "Ellaville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.238,
+    "lng": -84.3089,
+    "cafes": []
+  },
+  "Lincolnton": {
+    "city": "Lincolnton",
+    "city_ascii": "Lincolnton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7931,
+    "lng": -82.4776,
+    "cafes": []
+  },
+  "Blue Ridge": {
+    "city": "Blue Ridge",
+    "city_ascii": "Blue Ridge",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.8666,
+    "lng": -84.3218,
+    "cafes": []
+  },
+  "Unionville": {
+    "city": "Unionville",
+    "city_ascii": "Unionville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.4363,
+    "lng": -83.5084,
+    "cafes": []
+  },
+  "Homer": {
+    "city": "Homer",
+    "city_ascii": "Homer",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3355,
+    "lng": -83.4986,
+    "cafes": []
+  },
+  "Fairplay": {
+    "city": "Fairplay",
+    "city_ascii": "Fairplay",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6187,
+    "lng": -84.8605,
+    "cafes": []
+  },
+  "Shannon": {
+    "city": "Shannon",
+    "city_ascii": "Shannon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3406,
+    "lng": -85.0854,
+    "cafes": []
+  },
+  "Tennille": {
+    "city": "Tennille",
+    "city_ascii": "Tennille",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9359,
+    "lng": -82.8134,
+    "cafes": []
+  },
+  "Walnut Grove": {
+    "city": "Walnut Grove",
+    "city_ascii": "Walnut Grove",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7452,
+    "lng": -83.8512,
+    "cafes": []
+  },
+  "McCaysville": {
+    "city": "McCaysville",
+    "city_ascii": "McCaysville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9811,
+    "lng": -84.3706,
+    "cafes": []
+  },
+  "Moody AFB": {
+    "city": "Moody AFB",
+    "city_ascii": "Moody AFB",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9714,
+    "lng": -83.1954,
+    "cafes": []
+  },
+  "Epworth": {
+    "city": "Epworth",
+    "city_ascii": "Epworth",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.951,
+    "lng": -84.3808,
+    "cafes": []
+  },
+  "Mount Airy": {
+    "city": "Mount Airy",
+    "city_ascii": "Mount Airy",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.5221,
+    "lng": -83.4976,
+    "cafes": []
+  },
+  "Hagan": {
+    "city": "Hagan",
+    "city_ascii": "Hagan",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1536,
+    "lng": -81.9304,
+    "cafes": []
+  },
+  "Remerton": {
+    "city": "Remerton",
+    "city_ascii": "Remerton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.8441,
+    "lng": -83.3085,
+    "cafes": []
+  },
+  "Willacoochee": {
+    "city": "Willacoochee",
+    "city_ascii": "Willacoochee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3358,
+    "lng": -83.0446,
+    "cafes": []
+  },
+  "Enigma": {
+    "city": "Enigma",
+    "city_ascii": "Enigma",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.4076,
+    "lng": -83.329,
+    "cafes": []
+  },
+  "Dutch Island": {
+    "city": "Dutch Island",
+    "city_ascii": "Dutch Island",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0047,
+    "lng": -81.0317,
+    "cafes": []
+  },
+  "Pine Mountain": {
+    "city": "Pine Mountain",
+    "city_ascii": "Pine Mountain",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8522,
+    "lng": -84.8521,
+    "cafes": []
+  },
+  "Russell": {
+    "city": "Russell",
+    "city_ascii": "Russell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9797,
+    "lng": -83.6919,
+    "cafes": []
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0322,
+    "lng": -84.7163,
+    "cafes": []
+  },
+  "Edison": {
+    "city": "Edison",
+    "city_ascii": "Edison",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5608,
+    "lng": -84.7374,
+    "cafes": []
+  },
+  "Flemington": {
+    "city": "Flemington",
+    "city_ascii": "Flemington",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8507,
+    "lng": -81.5603,
+    "cafes": []
+  },
+  "Buchanan": {
+    "city": "Buchanan",
+    "city_ascii": "Buchanan",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.803,
+    "lng": -85.1804,
+    "cafes": []
+  },
+  "Clermont": {
+    "city": "Clermont",
+    "city_ascii": "Clermont",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4783,
+    "lng": -83.772,
+    "cafes": []
+  },
+  "Rock Spring": {
+    "city": "Rock Spring",
+    "city_ascii": "Rock Spring",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.8147,
+    "lng": -85.2389,
+    "cafes": []
+  },
+  "Boston": {
+    "city": "Boston",
+    "city_ascii": "Boston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.792,
+    "lng": -83.7899,
+    "cafes": []
+  },
+  "Hiawassee": {
+    "city": "Hiawassee",
+    "city_ascii": "Hiawassee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9495,
+    "lng": -83.7531,
+    "cafes": []
+  },
+  "Bogart": {
+    "city": "Bogart",
+    "city_ascii": "Bogart",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9479,
+    "lng": -83.5341,
+    "cafes": []
+  },
+  "Porterdale": {
+    "city": "Porterdale",
+    "city_ascii": "Porterdale",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5739,
+    "lng": -83.8941,
+    "cafes": []
+  },
+  "Darien": {
+    "city": "Darien",
+    "city_ascii": "Darien",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3568,
+    "lng": -81.4314,
+    "cafes": []
+  },
+  "Resaca": {
+    "city": "Resaca",
+    "city_ascii": "Resaca",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.5789,
+    "lng": -84.9439,
+    "cafes": []
+  },
+  "West Brow": {
+    "city": "West Brow",
+    "city_ascii": "West Brow",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9148,
+    "lng": -85.4186,
+    "cafes": []
+  },
+  "Norman Park": {
+    "city": "Norman Park",
+    "city_ascii": "Norman Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2692,
+    "lng": -83.6843,
+    "cafes": []
+  },
+  "Roberta": {
+    "city": "Roberta",
+    "city_ascii": "Roberta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.7196,
+    "lng": -84.0104,
+    "cafes": []
+  },
+  "East Griffin": {
+    "city": "East Griffin",
+    "city_ascii": "East Griffin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2439,
+    "lng": -84.2318,
+    "cafes": []
+  },
+  "Richland": {
+    "city": "Richland",
+    "city_ascii": "Richland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0885,
+    "lng": -84.6625,
+    "cafes": []
+  },
+  "Fairmount": {
+    "city": "Fairmount",
+    "city_ascii": "Fairmount",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4383,
+    "lng": -84.6998,
+    "cafes": []
+  },
+  "Rochelle": {
+    "city": "Rochelle",
+    "city_ascii": "Rochelle",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9488,
+    "lng": -83.4569,
+    "cafes": []
+  },
+  "Dasher": {
+    "city": "Dasher",
+    "city_ascii": "Dasher",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.7462,
+    "lng": -83.2253,
+    "cafes": []
+  },
+  "Alto": {
+    "city": "Alto",
+    "city_ascii": "Alto",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4649,
+    "lng": -83.5727,
+    "cafes": []
+  },
+  "Robins AFB": {
+    "city": "Robins AFB",
+    "city_ascii": "Robins AFB",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6092,
+    "lng": -83.5846,
+    "cafes": []
+  },
+  "Nahunta": {
+    "city": "Nahunta",
+    "city_ascii": "Nahunta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2065,
+    "lng": -81.9814,
+    "cafes": []
+  },
+  "Fort Gaines": {
+    "city": "Fort Gaines",
+    "city_ascii": "Fort Gaines",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.6238,
+    "lng": -85.0528,
+    "cafes": []
+  },
+  "Cave Spring": {
+    "city": "Cave Spring",
+    "city_ascii": "Cave Spring",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1081,
+    "lng": -85.3388,
+    "cafes": []
+  },
+  "Baconton": {
+    "city": "Baconton",
+    "city_ascii": "Baconton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3804,
+    "lng": -84.1592,
+    "cafes": []
+  },
+  "Rutledge": {
+    "city": "Rutledge",
+    "city_ascii": "Rutledge",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6263,
+    "lng": -83.6112,
+    "cafes": []
+  },
+  "Sycamore": {
+    "city": "Sycamore",
+    "city_ascii": "Sycamore",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.6711,
+    "lng": -83.6352,
+    "cafes": []
+  },
+  "Tunnel Hill": {
+    "city": "Tunnel Hill",
+    "city_ascii": "Tunnel Hill",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.8496,
+    "lng": -85.0393,
+    "cafes": []
+  },
+  "Lumber City": {
+    "city": "Lumber City",
+    "city_ascii": "Lumber City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.933,
+    "lng": -82.6828,
+    "cafes": []
+  },
+  "Young Harris": {
+    "city": "Young Harris",
+    "city_ascii": "Young Harris",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9348,
+    "lng": -83.8472,
+    "cafes": []
+  },
+  "Franklin Springs": {
+    "city": "Franklin Springs",
+    "city_ascii": "Franklin Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.284,
+    "lng": -83.1459,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.4383,
+    "lng": -84.7253,
+    "cafes": []
+  },
+  "Jekyll Island": {
+    "city": "Jekyll Island",
+    "city_ascii": "Jekyll Island",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0732,
+    "lng": -81.4206,
+    "cafes": []
+  },
+  "Oglethorpe": {
+    "city": "Oglethorpe",
+    "city_ascii": "Oglethorpe",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.2934,
+    "lng": -84.0625,
+    "cafes": []
+  },
+  "Omega": {
+    "city": "Omega",
+    "city_ascii": "Omega",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3389,
+    "lng": -83.595,
+    "cafes": []
+  },
+  "Reynolds": {
+    "city": "Reynolds",
+    "city_ascii": "Reynolds",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5608,
+    "lng": -84.0943,
+    "cafes": []
+  },
+  "Ellerslie": {
+    "city": "Ellerslie",
+    "city_ascii": "Ellerslie",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6341,
+    "lng": -84.7978,
+    "cafes": []
+  },
+  "Talahi Island": {
+    "city": "Talahi Island",
+    "city_ascii": "Talahi Island",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0331,
+    "lng": -80.976,
+    "cafes": []
+  },
+  "Mountain City": {
+    "city": "Mountain City",
+    "city_ascii": "Mountain City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9196,
+    "lng": -83.3854,
+    "cafes": []
+  },
+  "Cohutta": {
+    "city": "Cohutta",
+    "city_ascii": "Cohutta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9539,
+    "lng": -84.9592,
+    "cafes": []
+  },
+  "Nelson": {
+    "city": "Nelson",
+    "city_ascii": "Nelson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3789,
+    "lng": -84.3707,
+    "cafes": []
+  },
+  "Flovilla": {
+    "city": "Flovilla",
+    "city_ascii": "Flovilla",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2524,
+    "lng": -83.903,
+    "cafes": []
+  },
+  "Dexter": {
+    "city": "Dexter",
+    "city_ascii": "Dexter",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.4331,
+    "lng": -83.0595,
+    "cafes": []
+  },
+  "Woodbine": {
+    "city": "Woodbine",
+    "city_ascii": "Woodbine",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9598,
+    "lng": -81.7176,
+    "cafes": []
+  },
+  "Crawford": {
+    "city": "Crawford",
+    "city_ascii": "Crawford",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8831,
+    "lng": -83.1551,
+    "cafes": []
+  },
+  "Marshallville": {
+    "city": "Marshallville",
+    "city_ascii": "Marshallville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.4564,
+    "lng": -83.9407,
+    "cafes": []
+  },
+  "Gibson": {
+    "city": "Gibson",
+    "city_ascii": "Gibson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2334,
+    "lng": -82.5959,
+    "cafes": []
+  },
+  "Tignall": {
+    "city": "Tignall",
+    "city_ascii": "Tignall",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8674,
+    "lng": -82.742,
+    "cafes": []
+  },
+  "Waynesville": {
+    "city": "Waynesville",
+    "city_ascii": "Waynesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2263,
+    "lng": -81.788,
+    "cafes": []
+  },
+  "Danielsville": {
+    "city": "Danielsville",
+    "city_ascii": "Danielsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1238,
+    "lng": -83.2202,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2797,
+    "lng": -85.0985,
+    "cafes": []
+  },
+  "Woodbury": {
+    "city": "Woodbury",
+    "city_ascii": "Woodbury",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9849,
+    "lng": -84.5819,
+    "cafes": []
+  },
+  "Ivey": {
+    "city": "Ivey",
+    "city_ascii": "Ivey",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9092,
+    "lng": -83.2983,
+    "cafes": []
+  },
+  "Lake Park": {
+    "city": "Lake Park",
+    "city_ascii": "Lake Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.6851,
+    "lng": -83.1873,
+    "cafes": []
+  },
+  "Eton": {
+    "city": "Eton",
+    "city_ascii": "Eton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.8282,
+    "lng": -84.7655,
+    "cafes": []
+  },
+  "Offerman": {
+    "city": "Offerman",
+    "city_ascii": "Offerman",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.4088,
+    "lng": -82.1132,
+    "cafes": []
+  },
+  "Riceboro": {
+    "city": "Riceboro",
+    "city_ascii": "Riceboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7264,
+    "lng": -81.4438,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2319,
+    "lng": -84.9444,
+    "cafes": []
+  },
+  "Doerun": {
+    "city": "Doerun",
+    "city_ascii": "Doerun",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3218,
+    "lng": -83.917,
+    "cafes": []
+  },
+  "Luthersville": {
+    "city": "Luthersville",
+    "city_ascii": "Luthersville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2096,
+    "lng": -84.7442,
+    "cafes": []
+  },
+  "Sardis": {
+    "city": "Sardis",
+    "city_ascii": "Sardis",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9756,
+    "lng": -81.7621,
+    "cafes": []
+  },
+  "Milstead": {
+    "city": "Milstead",
+    "city_ascii": "Milstead",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6867,
+    "lng": -83.9904,
+    "cafes": []
+  },
+  "Pine Lake": {
+    "city": "Pine Lake",
+    "city_ascii": "Pine Lake",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7906,
+    "lng": -84.2061,
+    "cafes": []
+  },
+  "Hoboken": {
+    "city": "Hoboken",
+    "city_ascii": "Hoboken",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1813,
+    "lng": -82.1313,
+    "cafes": []
+  },
+  "Ray City": {
+    "city": "Ray City",
+    "city_ascii": "Ray City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0729,
+    "lng": -83.196,
+    "cafes": []
+  },
+  "Shellman": {
+    "city": "Shellman",
+    "city_ascii": "Shellman",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7571,
+    "lng": -84.6159,
+    "cafes": []
+  },
+  "Coolidge": {
+    "city": "Coolidge",
+    "city_ascii": "Coolidge",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0113,
+    "lng": -83.866,
+    "cafes": []
+  },
+  "Jeffersonville": {
+    "city": "Jeffersonville",
+    "city_ascii": "Jeffersonville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6863,
+    "lng": -83.3433,
+    "cafes": []
+  },
+  "Bowman": {
+    "city": "Bowman",
+    "city_ascii": "Bowman",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2051,
+    "lng": -83.0309,
+    "cafes": []
+  },
+  "Canon": {
+    "city": "Canon",
+    "city_ascii": "Canon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3455,
+    "lng": -83.1107,
+    "cafes": []
+  },
+  "Homeland": {
+    "city": "Homeland",
+    "city_ascii": "Homeland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.8603,
+    "lng": -82.0214,
+    "cafes": []
+  },
+  "Eulonia": {
+    "city": "Eulonia",
+    "city_ascii": "Eulonia",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5254,
+    "lng": -81.432,
+    "cafes": []
+  },
+  "Blythe": {
+    "city": "Blythe",
+    "city_ascii": "Blythe",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3011,
+    "lng": -82.2025,
+    "cafes": []
+  },
+  "Broxton": {
+    "city": "Broxton",
+    "city_ascii": "Broxton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.6248,
+    "lng": -82.8877,
+    "cafes": []
+  },
+  "Crescent": {
+    "city": "Crescent",
+    "city_ascii": "Crescent",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5153,
+    "lng": -81.3752,
+    "cafes": []
+  },
+  "Patterson": {
+    "city": "Patterson",
+    "city_ascii": "Patterson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3853,
+    "lng": -82.1373,
+    "cafes": []
+  },
+  "Satilla": {
+    "city": "Satilla",
+    "city_ascii": "Satilla",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7919,
+    "lng": -82.5638,
+    "cafes": []
+  },
+  "Funston": {
+    "city": "Funston",
+    "city_ascii": "Funston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1989,
+    "lng": -83.8771,
+    "cafes": []
+  },
+  "Meigs": {
+    "city": "Meigs",
+    "city_ascii": "Meigs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0714,
+    "lng": -84.0922,
+    "cafes": []
+  },
+  "Blairsville": {
+    "city": "Blairsville",
+    "city_ascii": "Blairsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.876,
+    "lng": -83.9546,
+    "cafes": []
+  },
+  "Lumpkin": {
+    "city": "Lumpkin",
+    "city_ascii": "Lumpkin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0487,
+    "lng": -84.7981,
+    "cafes": []
+  },
+  "Sunset Village": {
+    "city": "Sunset Village",
+    "city_ascii": "Sunset Village",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8946,
+    "lng": -84.4057,
+    "cafes": []
+  },
+  "Talbotton": {
+    "city": "Talbotton",
+    "city_ascii": "Talbotton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6773,
+    "lng": -84.5406,
+    "cafes": []
+  },
+  "Antioch": {
+    "city": "Antioch",
+    "city_ascii": "Antioch",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.679,
+    "lng": -85.0577,
+    "cafes": []
+  },
+  "Waleska": {
+    "city": "Waleska",
+    "city_ascii": "Waleska",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3172,
+    "lng": -84.5499,
+    "cafes": []
+  },
+  "Lincoln Park": {
+    "city": "Lincoln Park",
+    "city_ascii": "Lincoln Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8674,
+    "lng": -84.3348,
+    "cafes": []
+  },
+  "White": {
+    "city": "White",
+    "city_ascii": "White",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2823,
+    "lng": -84.7481,
+    "cafes": []
+  },
+  "North High Shoals": {
+    "city": "North High Shoals",
+    "city_ascii": "North High Shoals",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8271,
+    "lng": -83.5014,
+    "cafes": []
+  },
+  "Appling": {
+    "city": "Appling",
+    "city_ascii": "Appling",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5588,
+    "lng": -82.3183,
+    "cafes": []
+  },
+  "Glenwood": {
+    "city": "Glenwood",
+    "city_ascii": "Glenwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1805,
+    "lng": -82.6709,
+    "cafes": []
+  },
+  "Attapulgus": {
+    "city": "Attapulgus",
+    "city_ascii": "Attapulgus",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.7495,
+    "lng": -84.4839,
+    "cafes": []
+  },
+  "Arabi": {
+    "city": "Arabi",
+    "city_ascii": "Arabi",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8282,
+    "lng": -83.7302,
+    "cafes": []
+  },
+  "Waverly Hall": {
+    "city": "Waverly Hall",
+    "city_ascii": "Waverly Hall",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6837,
+    "lng": -84.7378,
+    "cafes": []
+  },
+  "Milan": {
+    "city": "Milan",
+    "city_ascii": "Milan",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0194,
+    "lng": -83.0631,
+    "cafes": []
+  },
+  "McIntyre": {
+    "city": "McIntyre",
+    "city_ascii": "McIntyre",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8466,
+    "lng": -83.2011,
+    "cafes": []
+  },
+  "Carnesville": {
+    "city": "Carnesville",
+    "city_ascii": "Carnesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3729,
+    "lng": -83.2328,
+    "cafes": []
+  },
+  "Allenhurst": {
+    "city": "Allenhurst",
+    "city_ascii": "Allenhurst",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7839,
+    "lng": -81.6078,
+    "cafes": []
+  },
+  "Plains": {
+    "city": "Plains",
+    "city_ascii": "Plains",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0331,
+    "lng": -84.3946,
+    "cafes": []
+  },
+  "Dudley": {
+    "city": "Dudley",
+    "city_ascii": "Dudley",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.532,
+    "lng": -83.0805,
+    "cafes": []
+  },
+  "Williamson": {
+    "city": "Williamson",
+    "city_ascii": "Williamson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.1777,
+    "lng": -84.3581,
+    "cafes": []
+  },
+  "Poulan": {
+    "city": "Poulan",
+    "city_ascii": "Poulan",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5145,
+    "lng": -83.7898,
+    "cafes": []
+  },
+  "Lenox": {
+    "city": "Lenox",
+    "city_ascii": "Lenox",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2672,
+    "lng": -83.4673,
+    "cafes": []
+  },
+  "Brooks": {
+    "city": "Brooks",
+    "city_ascii": "Brooks",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2925,
+    "lng": -84.4588,
+    "cafes": []
+  },
+  "Waco": {
+    "city": "Waco",
+    "city_ascii": "Waco",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7026,
+    "lng": -85.1893,
+    "cafes": []
+  },
+  "Shiloh": {
+    "city": "Shiloh",
+    "city_ascii": "Shiloh",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8115,
+    "lng": -84.6989,
+    "cafes": []
+  },
+  "Newborn": {
+    "city": "Newborn",
+    "city_ascii": "Newborn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5164,
+    "lng": -83.6959,
+    "cafes": []
+  },
+  "Milner": {
+    "city": "Milner",
+    "city_ascii": "Milner",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.1176,
+    "lng": -84.1931,
+    "cafes": []
+  },
+  "Colbert": {
+    "city": "Colbert",
+    "city_ascii": "Colbert",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.037,
+    "lng": -83.2139,
+    "cafes": []
+  },
+  "Warwick": {
+    "city": "Warwick",
+    "city_ascii": "Warwick",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8298,
+    "lng": -83.9206,
+    "cafes": []
+  },
+  "Moreland": {
+    "city": "Moreland",
+    "city_ascii": "Moreland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2861,
+    "lng": -84.7699,
+    "cafes": []
+  },
+  "Bethlehem": {
+    "city": "Bethlehem",
+    "city_ascii": "Bethlehem",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9368,
+    "lng": -83.7102,
+    "cafes": []
+  },
+  "Molena": {
+    "city": "Molena",
+    "city_ascii": "Molena",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0122,
+    "lng": -84.5006,
+    "cafes": []
+  },
+  "Portal": {
+    "city": "Portal",
+    "city_ascii": "Portal",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5383,
+    "lng": -81.9297,
+    "cafes": []
+  },
+  "Screven": {
+    "city": "Screven",
+    "city_ascii": "Screven",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.484,
+    "lng": -82.0171,
+    "cafes": []
+  },
+  "Ideal": {
+    "city": "Ideal",
+    "city_ascii": "Ideal",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3726,
+    "lng": -84.1894,
+    "cafes": []
+  },
+  "Pavo": {
+    "city": "Pavo",
+    "city_ascii": "Pavo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9597,
+    "lng": -83.738,
+    "cafes": []
+  },
+  "Pineview": {
+    "city": "Pineview",
+    "city_ascii": "Pineview",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1084,
+    "lng": -83.5029,
+    "cafes": []
+  },
+  "Dearing": {
+    "city": "Dearing",
+    "city_ascii": "Dearing",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4149,
+    "lng": -82.3852,
+    "cafes": []
+  },
+  "Berlin": {
+    "city": "Berlin",
+    "city_ascii": "Berlin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.068,
+    "lng": -83.6232,
+    "cafes": []
+  },
+  "Ochlocknee": {
+    "city": "Ochlocknee",
+    "city_ascii": "Ochlocknee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9751,
+    "lng": -84.0517,
+    "cafes": []
+  },
+  "Byromville": {
+    "city": "Byromville",
+    "city_ascii": "Byromville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.2017,
+    "lng": -83.9072,
+    "cafes": []
+  },
+  "Graham": {
+    "city": "Graham",
+    "city_ascii": "Graham",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8292,
+    "lng": -82.503,
+    "cafes": []
+  },
+  "Menlo": {
+    "city": "Menlo",
+    "city_ascii": "Menlo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4835,
+    "lng": -85.4776,
+    "cafes": []
+  },
+  "Sunnyside": {
+    "city": "Sunnyside",
+    "city_ascii": "Sunnyside",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2406,
+    "lng": -82.3411,
+    "cafes": []
+  },
+  "Stillmore": {
+    "city": "Stillmore",
+    "city_ascii": "Stillmore",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.441,
+    "lng": -82.2145,
+    "cafes": []
+  },
+  "Sky Valley": {
+    "city": "Sky Valley",
+    "city_ascii": "Sky Valley",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9841,
+    "lng": -83.3314,
+    "cafes": []
+  },
+  "Ty Ty": {
+    "city": "Ty Ty",
+    "city_ascii": "Ty Ty",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.472,
+    "lng": -83.6509,
+    "cafes": []
+  },
+  "Crawfordville": {
+    "city": "Crawfordville",
+    "city_ascii": "Crawfordville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5545,
+    "lng": -82.8966,
+    "cafes": []
+  },
+  "Crooked Creek": {
+    "city": "Crooked Creek",
+    "city_ascii": "Crooked Creek",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2616,
+    "lng": -83.2679,
+    "cafes": []
+  },
+  "Warm Springs": {
+    "city": "Warm Springs",
+    "city_ascii": "Warm Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.887,
+    "lng": -84.6781,
+    "cafes": []
+  },
+  "Irwinton": {
+    "city": "Irwinton",
+    "city_ascii": "Irwinton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8107,
+    "lng": -83.1737,
+    "cafes": []
+  },
+  "Cobbtown": {
+    "city": "Cobbtown",
+    "city_ascii": "Cobbtown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.2806,
+    "lng": -82.1387,
+    "cafes": []
+  },
+  "Piney Grove": {
+    "city": "Piney Grove",
+    "city_ascii": "Piney Grove",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6218,
+    "lng": -85.0368,
+    "cafes": []
+  },
+  "Ephesus": {
+    "city": "Ephesus",
+    "city_ascii": "Ephesus",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4069,
+    "lng": -85.2568,
+    "cafes": []
+  },
+  "Alapaha": {
+    "city": "Alapaha",
+    "city_ascii": "Alapaha",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3832,
+    "lng": -83.2237,
+    "cafes": []
+  },
+  "Rhine": {
+    "city": "Rhine",
+    "city_ascii": "Rhine",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9891,
+    "lng": -83.2,
+    "cafes": []
+  },
+  "Bowersville": {
+    "city": "Bowersville",
+    "city_ascii": "Bowersville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.373,
+    "lng": -83.0838,
+    "cafes": []
+  },
+  "Argyle": {
+    "city": "Argyle",
+    "city_ascii": "Argyle",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0732,
+    "lng": -82.6489,
+    "cafes": []
+  },
+  "Whigham": {
+    "city": "Whigham",
+    "city_ascii": "Whigham",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.8845,
+    "lng": -84.3247,
+    "cafes": []
+  },
+  "Cadwell": {
+    "city": "Cadwell",
+    "city_ascii": "Cadwell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3396,
+    "lng": -83.042,
+    "cafes": []
+  },
+  "Adrian": {
+    "city": "Adrian",
+    "city_ascii": "Adrian",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5306,
+    "lng": -82.592,
+    "cafes": []
+  },
+  "Lyerly": {
+    "city": "Lyerly",
+    "city_ascii": "Lyerly",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4035,
+    "lng": -85.4041,
+    "cafes": []
+  },
+  "Ailey": {
+    "city": "Ailey",
+    "city_ascii": "Ailey",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1882,
+    "lng": -82.5698,
+    "cafes": []
+  },
+  "Morven": {
+    "city": "Morven",
+    "city_ascii": "Morven",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9434,
+    "lng": -83.5003,
+    "cafes": []
+  },
+  "Collins": {
+    "city": "Collins",
+    "city_ascii": "Collins",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1794,
+    "lng": -82.1103,
+    "cafes": []
+  },
+  "Pinehurst": {
+    "city": "Pinehurst",
+    "city_ascii": "Pinehurst",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1956,
+    "lng": -83.7596,
+    "cafes": []
+  },
+  "Toomsboro": {
+    "city": "Toomsboro",
+    "city_ascii": "Toomsboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8225,
+    "lng": -83.0826,
+    "cafes": []
+  },
+  "Phillipsburg": {
+    "city": "Phillipsburg",
+    "city_ascii": "Phillipsburg",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.4389,
+    "lng": -83.5203,
+    "cafes": []
+  },
+  "Sautee-Nacoochee": {
+    "city": "Sautee-Nacoochee",
+    "city_ascii": "Sautee-Nacoochee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.6895,
+    "lng": -83.686,
+    "cafes": []
+  },
+  "Centralhatchee": {
+    "city": "Centralhatchee",
+    "city_ascii": "Centralhatchee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3689,
+    "lng": -85.1037,
+    "cafes": []
+  },
+  "Between": {
+    "city": "Between",
+    "city_ascii": "Between",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8177,
+    "lng": -83.8043,
+    "cafes": []
+  },
+  "Uvalda": {
+    "city": "Uvalda",
+    "city_ascii": "Uvalda",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0371,
+    "lng": -82.5081,
+    "cafes": []
+  },
+  "Leslie": {
+    "city": "Leslie",
+    "city_ascii": "Leslie",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9545,
+    "lng": -84.0864,
+    "cafes": []
+  },
+  "Ila": {
+    "city": "Ila",
+    "city_ascii": "Ila",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1729,
+    "lng": -83.2929,
+    "cafes": []
+  },
+  "Newton": {
+    "city": "Newton",
+    "city_ascii": "Newton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3167,
+    "lng": -84.3379,
+    "cafes": []
+  },
+  "Concord": {
+    "city": "Concord",
+    "city_ascii": "Concord",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0917,
+    "lng": -84.4387,
+    "cafes": []
+  },
+  "East Newnan": {
+    "city": "East Newnan",
+    "city_ascii": "East Newnan",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3461,
+    "lng": -84.7763,
+    "cafes": []
+  },
+  "Bishop": {
+    "city": "Bishop",
+    "city_ascii": "Bishop",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8171,
+    "lng": -83.4372,
+    "cafes": []
+  },
+  "Good Hope": {
+    "city": "Good Hope",
+    "city_ascii": "Good Hope",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.785,
+    "lng": -83.6094,
+    "cafes": []
+  },
+  "Hiltonia": {
+    "city": "Hiltonia",
+    "city_ascii": "Hiltonia",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8833,
+    "lng": -81.6613,
+    "cafes": []
+  },
+  "New England": {
+    "city": "New England",
+    "city_ascii": "New England",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9079,
+    "lng": -85.488,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.8701,
+    "lng": -83.1102,
+    "cafes": []
+  },
+  "Fargo": {
+    "city": "Fargo",
+    "city_ascii": "Fargo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.6881,
+    "lng": -82.5721,
+    "cafes": []
+  },
+  "Helen": {
+    "city": "Helen",
+    "city_ascii": "Helen",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.7046,
+    "lng": -83.7214,
+    "cafes": []
+  },
+  "Arnoldsville": {
+    "city": "Arnoldsville",
+    "city_ascii": "Arnoldsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9103,
+    "lng": -83.218,
+    "cafes": []
+  },
+  "Sumner": {
+    "city": "Sumner",
+    "city_ascii": "Sumner",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5103,
+    "lng": -83.7369,
+    "cafes": []
+  },
+  "Oak Park": {
+    "city": "Oak Park",
+    "city_ascii": "Oak Park",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3822,
+    "lng": -82.3153,
+    "cafes": []
+  },
+  "Empire": {
+    "city": "Empire",
+    "city_ascii": "Empire",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3394,
+    "lng": -83.295,
+    "cafes": []
+  },
+  "Harrison": {
+    "city": "Harrison",
+    "city_ascii": "Harrison",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8263,
+    "lng": -82.7258,
+    "cafes": []
+  },
+  "Daisy": {
+    "city": "Daisy",
+    "city_ascii": "Daisy",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.151,
+    "lng": -81.8362,
+    "cafes": []
+  },
+  "Whitesburg": {
+    "city": "Whitesburg",
+    "city_ascii": "Whitesburg",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4928,
+    "lng": -84.9137,
+    "cafes": []
+  },
+  "Cecil": {
+    "city": "Cecil",
+    "city_ascii": "Cecil",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0466,
+    "lng": -83.3906,
+    "cafes": []
+  },
+  "Camak": {
+    "city": "Camak",
+    "city_ascii": "Camak",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4526,
+    "lng": -82.6462,
+    "cafes": []
+  },
+  "East Ellijay": {
+    "city": "East Ellijay",
+    "city_ascii": "East Ellijay",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.676,
+    "lng": -84.4761,
+    "cafes": []
+  },
+  "Roopville": {
+    "city": "Roopville",
+    "city_ascii": "Roopville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4566,
+    "lng": -85.1304,
+    "cafes": []
+  },
+  "Yatesville": {
+    "city": "Yatesville",
+    "city_ascii": "Yatesville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9133,
+    "lng": -84.1423,
+    "cafes": []
+  },
+  "Higgston": {
+    "city": "Higgston",
+    "city_ascii": "Higgston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.2164,
+    "lng": -82.467,
+    "cafes": []
+  },
+  "Bostwick": {
+    "city": "Bostwick",
+    "city_ascii": "Bostwick",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7373,
+    "lng": -83.5141,
+    "cafes": []
+  },
+  "Newington": {
+    "city": "Newington",
+    "city_ascii": "Newington",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5887,
+    "lng": -81.5063,
+    "cafes": []
+  },
+  "Braswell": {
+    "city": "Braswell",
+    "city_ascii": "Braswell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.9836,
+    "lng": -84.9591,
+    "cafes": []
+  },
+  "Taylorsville": {
+    "city": "Taylorsville",
+    "city_ascii": "Taylorsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.086,
+    "lng": -84.9875,
+    "cafes": []
+  },
+  "Iron City": {
+    "city": "Iron City",
+    "city_ascii": "Iron City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0136,
+    "lng": -84.8133,
+    "cafes": []
+  },
+  "Odum": {
+    "city": "Odum",
+    "city_ascii": "Odum",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.6665,
+    "lng": -82.0269,
+    "cafes": []
+  },
+  "Tiger": {
+    "city": "Tiger",
+    "city_ascii": "Tiger",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.8458,
+    "lng": -83.433,
+    "cafes": []
+  },
+  "Mansfield": {
+    "city": "Mansfield",
+    "city_ascii": "Mansfield",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.518,
+    "lng": -83.7348,
+    "cafes": []
+  },
+  "Sale City": {
+    "city": "Sale City",
+    "city_ascii": "Sale City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2626,
+    "lng": -84.0214,
+    "cafes": []
+  },
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.7588,
+    "lng": -84.1933,
+    "cafes": []
+  },
+  "Talmo": {
+    "city": "Talmo",
+    "city_ascii": "Talmo",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1831,
+    "lng": -83.721,
+    "cafes": []
+  },
+  "Keysville": {
+    "city": "Keysville",
+    "city_ascii": "Keysville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2374,
+    "lng": -82.229,
+    "cafes": []
+  },
+  "Pitts": {
+    "city": "Pitts",
+    "city_ascii": "Pitts",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9462,
+    "lng": -83.5417,
+    "cafes": []
+  },
+  "Culloden": {
+    "city": "Culloden",
+    "city_ascii": "Culloden",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8632,
+    "lng": -84.0939,
+    "cafes": []
+  },
+  "Junction City": {
+    "city": "Junction City",
+    "city_ascii": "Junction City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6032,
+    "lng": -84.4573,
+    "cafes": []
+  },
+  "Bolingbroke": {
+    "city": "Bolingbroke",
+    "city_ascii": "Bolingbroke",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9401,
+    "lng": -83.7985,
+    "cafes": []
+  },
+  "Bluffton": {
+    "city": "Bluffton",
+    "city_ascii": "Bluffton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5198,
+    "lng": -84.8691,
+    "cafes": []
+  },
+  "Midville": {
+    "city": "Midville",
+    "city_ascii": "Midville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8217,
+    "lng": -82.2347,
+    "cafes": []
+  },
+  "Maxeys": {
+    "city": "Maxeys",
+    "city_ascii": "Maxeys",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7555,
+    "lng": -83.1737,
+    "cafes": []
+  },
+  "Shady Dale": {
+    "city": "Shady Dale",
+    "city_ascii": "Shady Dale",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4008,
+    "lng": -83.588,
+    "cafes": []
+  },
+  "Turin": {
+    "city": "Turin",
+    "city_ascii": "Turin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3234,
+    "lng": -84.6374,
+    "cafes": []
+  },
+  "Jenkinsburg": {
+    "city": "Jenkinsburg",
+    "city_ascii": "Jenkinsburg",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3224,
+    "lng": -84.0389,
+    "cafes": []
+  },
+  "Avalon": {
+    "city": "Avalon",
+    "city_ascii": "Avalon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.5027,
+    "lng": -83.1967,
+    "cafes": []
+  },
+  "Plainville": {
+    "city": "Plainville",
+    "city_ascii": "Plainville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4053,
+    "lng": -85.0312,
+    "cafes": []
+  },
+  "Sharpsburg": {
+    "city": "Sharpsburg",
+    "city_ascii": "Sharpsburg",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.337,
+    "lng": -84.6504,
+    "cafes": []
+  },
+  "Barwick": {
+    "city": "Barwick",
+    "city_ascii": "Barwick",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.8933,
+    "lng": -83.7391,
+    "cafes": []
+  },
+  "Stapleton": {
+    "city": "Stapleton",
+    "city_ascii": "Stapleton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2169,
+    "lng": -82.4672,
+    "cafes": []
+  },
+  "Damascus": {
+    "city": "Damascus",
+    "city_ascii": "Damascus",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2989,
+    "lng": -84.717,
+    "cafes": []
+  },
+  "Mineral Bluff": {
+    "city": "Mineral Bluff",
+    "city_ascii": "Mineral Bluff",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.914,
+    "lng": -84.2776,
+    "cafes": []
+  },
+  "Bronwood": {
+    "city": "Bronwood",
+    "city_ascii": "Bronwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8305,
+    "lng": -84.3644,
+    "cafes": []
+  },
+  "Carlton": {
+    "city": "Carlton",
+    "city_ascii": "Carlton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0426,
+    "lng": -83.0386,
+    "cafes": []
+  },
+  "Martin": {
+    "city": "Martin",
+    "city_ascii": "Martin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.4856,
+    "lng": -83.1985,
+    "cafes": []
+  },
+  "Chauncey": {
+    "city": "Chauncey",
+    "city_ascii": "Chauncey",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1059,
+    "lng": -83.0646,
+    "cafes": []
+  },
+  "Leary": {
+    "city": "Leary",
+    "city_ascii": "Leary",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.4847,
+    "lng": -84.5133,
+    "cafes": []
+  },
+  "Denton": {
+    "city": "Denton",
+    "city_ascii": "Denton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7222,
+    "lng": -82.6968,
+    "cafes": []
+  },
+  "Gillsville": {
+    "city": "Gillsville",
+    "city_ascii": "Gillsville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.3085,
+    "lng": -83.6352,
+    "cafes": []
+  },
+  "Meansville": {
+    "city": "Meansville",
+    "city_ascii": "Meansville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0508,
+    "lng": -84.3082,
+    "cafes": []
+  },
+  "Rocky Ford": {
+    "city": "Rocky Ford",
+    "city_ascii": "Rocky Ford",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6636,
+    "lng": -81.8297,
+    "cafes": []
+  },
+  "Ellenton": {
+    "city": "Ellenton",
+    "city_ascii": "Ellenton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.176,
+    "lng": -83.5877,
+    "cafes": []
+  },
+  "Dillard": {
+    "city": "Dillard",
+    "city_ascii": "Dillard",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9749,
+    "lng": -83.382,
+    "cafes": []
+  },
+  "Hickox": {
+    "city": "Hickox",
+    "city_ascii": "Hickox",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1471,
+    "lng": -81.9952,
+    "cafes": []
+  },
+  "Woodland": {
+    "city": "Woodland",
+    "city_ascii": "Woodland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.7877,
+    "lng": -84.5606,
+    "cafes": []
+  },
+  "Smithville": {
+    "city": "Smithville",
+    "city_ascii": "Smithville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9011,
+    "lng": -84.2552,
+    "cafes": []
+  },
+  "Andersonville": {
+    "city": "Andersonville",
+    "city_ascii": "Andersonville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1965,
+    "lng": -84.1454,
+    "cafes": []
+  },
+  "Gumbranch": {
+    "city": "Gumbranch",
+    "city_ascii": "Gumbranch",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8367,
+    "lng": -81.6838,
+    "cafes": []
+  },
+  "Rebecca": {
+    "city": "Rebecca",
+    "city_ascii": "Rebecca",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8072,
+    "lng": -83.4876,
+    "cafes": []
+  },
+  "Montrose": {
+    "city": "Montrose",
+    "city_ascii": "Montrose",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5595,
+    "lng": -83.1535,
+    "cafes": []
+  },
+  "Ambrose": {
+    "city": "Ambrose",
+    "city_ascii": "Ambrose",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5945,
+    "lng": -83.0137,
+    "cafes": []
+  },
+  "Siloam": {
+    "city": "Siloam",
+    "city_ascii": "Siloam",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5367,
+    "lng": -83.0812,
+    "cafes": []
+  },
+  "Rentz": {
+    "city": "Rentz",
+    "city_ascii": "Rentz",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3835,
+    "lng": -82.9917,
+    "cafes": []
+  },
+  "Tallulah Falls": {
+    "city": "Tallulah Falls",
+    "city_ascii": "Tallulah Falls",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.7263,
+    "lng": -83.3826,
+    "cafes": []
+  },
+  "Sasser": {
+    "city": "Sasser",
+    "city_ascii": "Sasser",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7199,
+    "lng": -84.3478,
+    "cafes": []
+  },
+  "Morganton": {
+    "city": "Morganton",
+    "city_ascii": "Morganton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.8749,
+    "lng": -84.2442,
+    "cafes": []
+  },
+  "Hull": {
+    "city": "Hull",
+    "city_ascii": "Hull",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0155,
+    "lng": -83.2938,
+    "cafes": []
+  },
+  "Scotland": {
+    "city": "Scotland",
+    "city_ascii": "Scotland",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.0472,
+    "lng": -82.8181,
+    "cafes": []
+  },
+  "Woolsey": {
+    "city": "Woolsey",
+    "city_ascii": "Woolsey",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.3626,
+    "lng": -84.4113,
+    "cafes": []
+  },
+  "Hilltop": {
+    "city": "Hilltop",
+    "city_ascii": "Hilltop",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.1063,
+    "lng": -84.4382,
+    "cafes": []
+  },
+  "Faceville": {
+    "city": "Faceville",
+    "city_ascii": "Faceville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.7537,
+    "lng": -84.6372,
+    "cafes": []
+  },
+  "Oconee": {
+    "city": "Oconee",
+    "city_ascii": "Oconee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8535,
+    "lng": -82.9576,
+    "cafes": []
+  },
+  "Wildwood": {
+    "city": "Wildwood",
+    "city_ascii": "Wildwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9706,
+    "lng": -85.4078,
+    "cafes": []
+  },
+  "Oliver": {
+    "city": "Oliver",
+    "city_ascii": "Oliver",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5215,
+    "lng": -81.533,
+    "cafes": []
+  },
+  "Hortense": {
+    "city": "Hortense",
+    "city_ascii": "Hortense",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3327,
+    "lng": -81.9517,
+    "cafes": []
+  },
+  "Allentown": {
+    "city": "Allentown",
+    "city_ascii": "Allentown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5855,
+    "lng": -83.2273,
+    "cafes": []
+  },
+  "Wenona": {
+    "city": "Wenona",
+    "city_ascii": "Wenona",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9061,
+    "lng": -83.7552,
+    "cafes": []
+  },
+  "Climax": {
+    "city": "Climax",
+    "city_ascii": "Climax",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.8757,
+    "lng": -84.4312,
+    "cafes": []
+  },
+  "Norwood": {
+    "city": "Norwood",
+    "city_ascii": "Norwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4625,
+    "lng": -82.7055,
+    "cafes": []
+  },
+  "Avera": {
+    "city": "Avera",
+    "city_ascii": "Avera",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.1934,
+    "lng": -82.5287,
+    "cafes": []
+  },
+  "Surrency": {
+    "city": "Surrency",
+    "city_ascii": "Surrency",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.7215,
+    "lng": -82.1988,
+    "cafes": []
+  },
+  "Garfield": {
+    "city": "Garfield",
+    "city_ascii": "Garfield",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6496,
+    "lng": -82.0962,
+    "cafes": []
+  },
+  "Kite": {
+    "city": "Kite",
+    "city_ascii": "Kite",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6921,
+    "lng": -82.5136,
+    "cafes": []
+  },
+  "Haralson": {
+    "city": "Haralson",
+    "city_ascii": "Haralson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2285,
+    "lng": -84.569,
+    "cafes": []
+  },
+  "Summertown": {
+    "city": "Summertown",
+    "city_ascii": "Summertown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.7458,
+    "lng": -82.2763,
+    "cafes": []
+  },
+  "Axson": {
+    "city": "Axson",
+    "city_ascii": "Axson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2766,
+    "lng": -82.7236,
+    "cafes": []
+  },
+  "Smarr": {
+    "city": "Smarr",
+    "city_ascii": "Smarr",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.987,
+    "lng": -83.883,
+    "cafes": []
+  },
+  "Pulaski": {
+    "city": "Pulaski",
+    "city_ascii": "Pulaski",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3904,
+    "lng": -81.9565,
+    "cafes": []
+  },
+  "Naylor": {
+    "city": "Naylor",
+    "city_ascii": "Naylor",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9088,
+    "lng": -83.0774,
+    "cafes": []
+  },
+  "Woodville": {
+    "city": "Woodville",
+    "city_ascii": "Woodville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.6713,
+    "lng": -83.1068,
+    "cafes": []
+  },
+  "Bartow": {
+    "city": "Bartow",
+    "city_ascii": "Bartow",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8816,
+    "lng": -82.4712,
+    "cafes": []
+  },
+  "Dewy Rose": {
+    "city": "Dewy Rose",
+    "city_ascii": "Dewy Rose",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1681,
+    "lng": -82.9395,
+    "cafes": []
+  },
+  "Matthews": {
+    "city": "Matthews",
+    "city_ascii": "Matthews",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2176,
+    "lng": -82.3079,
+    "cafes": []
+  },
+  "Waresboro": {
+    "city": "Waresboro",
+    "city_ascii": "Waresboro",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2451,
+    "lng": -82.4721,
+    "cafes": []
+  },
+  "Mendes": {
+    "city": "Mendes",
+    "city_ascii": "Mendes",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9953,
+    "lng": -81.9709,
+    "cafes": []
+  },
+  "Du Pont": {
+    "city": "Du Pont",
+    "city_ascii": "Du Pont",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9891,
+    "lng": -82.8691,
+    "cafes": []
+  },
+  "Yonah": {
+    "city": "Yonah",
+    "city_ascii": "Yonah",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.6437,
+    "lng": -83.7411,
+    "cafes": []
+  },
+  "Box Springs": {
+    "city": "Box Springs",
+    "city_ascii": "Box Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5495,
+    "lng": -84.6568,
+    "cafes": []
+  },
+  "Jakin": {
+    "city": "Jakin",
+    "city_ascii": "Jakin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.0901,
+    "lng": -84.9822,
+    "cafes": []
+  },
+  "Mitchell": {
+    "city": "Mitchell",
+    "city_ascii": "Mitchell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.2198,
+    "lng": -82.7032,
+    "cafes": []
+  },
+  "Stockton": {
+    "city": "Stockton",
+    "city_ascii": "Stockton",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9428,
+    "lng": -83.0029,
+    "cafes": []
+  },
+  "Warthen": {
+    "city": "Warthen",
+    "city_ascii": "Warthen",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0997,
+    "lng": -82.8033,
+    "cafes": []
+  },
+  "Calvary": {
+    "city": "Calvary",
+    "city_ascii": "Calvary",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.7224,
+    "lng": -84.3541,
+    "cafes": []
+  },
+  "Girard": {
+    "city": "Girard",
+    "city_ascii": "Girard",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.04,
+    "lng": -81.7122,
+    "cafes": []
+  },
+  "Register": {
+    "city": "Register",
+    "city_ascii": "Register",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3658,
+    "lng": -81.8845,
+    "cafes": []
+  },
+  "Carl": {
+    "city": "Carl",
+    "city_ascii": "Carl",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.0045,
+    "lng": -83.8129,
+    "cafes": []
+  },
+  "White Plains": {
+    "city": "White Plains",
+    "city_ascii": "White Plains",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4804,
+    "lng": -83.0377,
+    "cafes": []
+  },
+  "Lone Oak": {
+    "city": "Lone Oak",
+    "city_ascii": "Lone Oak",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.1723,
+    "lng": -84.8173,
+    "cafes": []
+  },
+  "Brinson": {
+    "city": "Brinson",
+    "city_ascii": "Brinson",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.9784,
+    "lng": -84.7379,
+    "cafes": []
+  },
+  "Lilly": {
+    "city": "Lilly",
+    "city_ascii": "Lilly",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1465,
+    "lng": -83.8775,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1012,
+    "lng": -81.7279,
+    "cafes": []
+  },
+  "Santa Claus": {
+    "city": "Santa Claus",
+    "city_ascii": "Santa Claus",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1712,
+    "lng": -82.3297,
+    "cafes": []
+  },
+  "Manor": {
+    "city": "Manor",
+    "city_ascii": "Manor",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1044,
+    "lng": -82.5665,
+    "cafes": []
+  },
+  "Godfrey": {
+    "city": "Godfrey",
+    "city_ascii": "Godfrey",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.4513,
+    "lng": -83.503,
+    "cafes": []
+  },
+  "Alston": {
+    "city": "Alston",
+    "city_ascii": "Alston",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.081,
+    "lng": -82.4789,
+    "cafes": []
+  },
+  "Vidette": {
+    "city": "Vidette",
+    "city_ascii": "Vidette",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0376,
+    "lng": -82.2474,
+    "cafes": []
+  },
+  "Orchard Hill": {
+    "city": "Orchard Hill",
+    "city_ascii": "Orchard Hill",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.1851,
+    "lng": -84.2123,
+    "cafes": []
+  },
+  "Bellville": {
+    "city": "Bellville",
+    "city_ascii": "Bellville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1526,
+    "lng": -81.9743,
+    "cafes": []
+  },
+  "Clyattville": {
+    "city": "Clyattville",
+    "city_ascii": "Clyattville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.688,
+    "lng": -83.3154,
+    "cafes": []
+  },
+  "Jersey": {
+    "city": "Jersey",
+    "city_ascii": "Jersey",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7177,
+    "lng": -83.8,
+    "cafes": []
+  },
+  "Gough": {
+    "city": "Gough",
+    "city_ascii": "Gough",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.088,
+    "lng": -82.2286,
+    "cafes": []
+  },
+  "Dixie": {
+    "city": "Dixie",
+    "city_ascii": "Dixie",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 30.7875,
+    "lng": -83.668,
+    "cafes": []
+  },
+  "Deepstep": {
+    "city": "Deepstep",
+    "city_ascii": "Deepstep",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0176,
+    "lng": -82.9678,
+    "cafes": []
+  },
+  "Rockingham": {
+    "city": "Rockingham",
+    "city_ascii": "Rockingham",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5441,
+    "lng": -82.4145,
+    "cafes": []
+  },
+  "Vernonburg": {
+    "city": "Vernonburg",
+    "city_ascii": "Vernonburg",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9637,
+    "lng": -81.1259,
+    "cafes": []
+  },
+  "Jacksonville": {
+    "city": "Jacksonville",
+    "city_ascii": "Jacksonville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8125,
+    "lng": -82.979,
+    "cafes": []
+  },
+  "Nunez": {
+    "city": "Nunez",
+    "city_ascii": "Nunez",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.4919,
+    "lng": -82.3467,
+    "cafes": []
+  },
+  "Gay": {
+    "city": "Gay",
+    "city_ascii": "Gay",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0937,
+    "lng": -84.5755,
+    "cafes": []
+  },
+  "Danville": {
+    "city": "Danville",
+    "city_ascii": "Danville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.606,
+    "lng": -83.246,
+    "cafes": []
+  },
+  "Rayle": {
+    "city": "Rayle",
+    "city_ascii": "Rayle",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7902,
+    "lng": -82.9031,
+    "cafes": []
+  },
+  "Tarrytown": {
+    "city": "Tarrytown",
+    "city_ascii": "Tarrytown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3187,
+    "lng": -82.5595,
+    "cafes": []
+  },
+  "Juliette": {
+    "city": "Juliette",
+    "city_ascii": "Juliette",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.1109,
+    "lng": -83.8094,
+    "cafes": []
+  },
+  "Knoxville": {
+    "city": "Knoxville",
+    "city_ascii": "Knoxville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.7233,
+    "lng": -83.9959,
+    "cafes": []
+  },
+  "Geneva": {
+    "city": "Geneva",
+    "city_ascii": "Geneva",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.579,
+    "lng": -84.5516,
+    "cafes": []
+  },
+  "De Soto": {
+    "city": "De Soto",
+    "city_ascii": "De Soto",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9548,
+    "lng": -84.0636,
+    "cafes": []
+  },
+  "Parrott": {
+    "city": "Parrott",
+    "city_ascii": "Parrott",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.8944,
+    "lng": -84.5117,
+    "cafes": []
+  },
+  "Talking Rock": {
+    "city": "Talking Rock",
+    "city_ascii": "Talking Rock",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.5239,
+    "lng": -84.4895,
+    "cafes": []
+  },
+  "Aldora": {
+    "city": "Aldora",
+    "city_ascii": "Aldora",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.0508,
+    "lng": -84.1758,
+    "cafes": []
+  },
+  "Riddleville": {
+    "city": "Riddleville",
+    "city_ascii": "Riddleville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9069,
+    "lng": -82.6661,
+    "cafes": []
+  },
+  "Canoochee": {
+    "city": "Canoochee",
+    "city_ascii": "Canoochee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.6786,
+    "lng": -82.1785,
+    "cafes": []
+  },
+  "Tazewell": {
+    "city": "Tazewell",
+    "city_ascii": "Tazewell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.3796,
+    "lng": -84.4401,
+    "cafes": []
+  },
+  "Ranger": {
+    "city": "Ranger",
+    "city_ascii": "Ranger",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.5013,
+    "lng": -84.7111,
+    "cafes": []
+  },
+  "Millwood": {
+    "city": "Millwood",
+    "city_ascii": "Millwood",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.2656,
+    "lng": -82.6603,
+    "cafes": []
+  },
+  "Everett": {
+    "city": "Everett",
+    "city_ascii": "Everett",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3921,
+    "lng": -81.6398,
+    "cafes": []
+  },
+  "Bristol": {
+    "city": "Bristol",
+    "city_ascii": "Bristol",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.4507,
+    "lng": -82.2148,
+    "cafes": []
+  },
+  "Dixie Union": {
+    "city": "Dixie Union",
+    "city_ascii": "Dixie Union",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.3419,
+    "lng": -82.4608,
+    "cafes": []
+  },
+  "Perkins": {
+    "city": "Perkins",
+    "city_ascii": "Perkins",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9149,
+    "lng": -81.949,
+    "cafes": []
+  },
+  "Manassas": {
+    "city": "Manassas",
+    "city_ascii": "Manassas",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1603,
+    "lng": -82.02,
+    "cafes": []
+  },
+  "Sharon": {
+    "city": "Sharon",
+    "city_ascii": "Sharon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.5601,
+    "lng": -82.795,
+    "cafes": []
+  },
+  "Rest Haven": {
+    "city": "Rest Haven",
+    "city_ascii": "Rest Haven",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.1363,
+    "lng": -83.9747,
+    "cafes": []
+  },
+  "Mershon": {
+    "city": "Mershon",
+    "city_ascii": "Mershon",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.4636,
+    "lng": -82.2538,
+    "cafes": []
+  },
+  "Dooling": {
+    "city": "Dooling",
+    "city_ascii": "Dooling",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.23,
+    "lng": -83.9289,
+    "cafes": []
+  },
+  "Seville": {
+    "city": "Seville",
+    "city_ascii": "Seville",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.9608,
+    "lng": -83.6012,
+    "cafes": []
+  },
+  "The Rock": {
+    "city": "The Rock",
+    "city_ascii": "The Rock",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.9635,
+    "lng": -84.2378,
+    "cafes": []
+  },
+  "Cogdell": {
+    "city": "Cogdell",
+    "city_ascii": "Cogdell",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1663,
+    "lng": -82.7217,
+    "cafes": []
+  },
+  "Eagle Grove": {
+    "city": "Eagle Grove",
+    "city_ascii": "Eagle Grove",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.2918,
+    "lng": -83.0043,
+    "cafes": []
+  },
+  "Gardi": {
+    "city": "Gardi",
+    "city_ascii": "Gardi",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.5409,
+    "lng": -81.797,
+    "cafes": []
+  },
+  "Ohoopee": {
+    "city": "Ohoopee",
+    "city_ascii": "Ohoopee",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.1808,
+    "lng": -82.2209,
+    "cafes": []
+  },
+  "Boykin": {
+    "city": "Boykin",
+    "city_ascii": "Boykin",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1017,
+    "lng": -84.6848,
+    "cafes": []
+  },
+  "Norristown": {
+    "city": "Norristown",
+    "city_ascii": "Norristown",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5064,
+    "lng": -82.4982,
+    "cafes": []
+  },
+  "Coleman": {
+    "city": "Coleman",
+    "city_ascii": "Coleman",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.6717,
+    "lng": -84.8903,
+    "cafes": []
+  },
+  "Glenn": {
+    "city": "Glenn",
+    "city_ascii": "Glenn",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.1493,
+    "lng": -85.2092,
+    "cafes": []
+  },
+  "Edge Hill": {
+    "city": "Edge Hill",
+    "city_ascii": "Edge Hill",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.1534,
+    "lng": -82.625,
+    "cafes": []
+  },
+  "Cedar Springs": {
+    "city": "Cedar Springs",
+    "city_ascii": "Cedar Springs",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 31.1873,
+    "lng": -85.0324,
+    "cafes": []
+  },
+  "Cherry Log": {
+    "city": "Cherry Log",
+    "city_ascii": "Cherry Log",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.7864,
+    "lng": -84.3839,
+    "cafes": []
+  },
+  "Musella": {
+    "city": "Musella",
+    "city_ascii": "Musella",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.8009,
+    "lng": -84.0334,
+    "cafes": []
+  },
+  "Tate City": {
+    "city": "Tate City",
+    "city_ascii": "Tate City",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 34.9789,
+    "lng": -83.554,
+    "cafes": []
+  },
+  "Howard": {
+    "city": "Howard",
+    "city_ascii": "Howard",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 32.5982,
+    "lng": -84.3786,
+    "cafes": []
+  }
+}

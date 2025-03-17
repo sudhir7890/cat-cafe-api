@@ -1,0 +1,5979 @@
+{
+  "Birmingham": {
+    "city": "Birmingham",
+    "city_ascii": "Birmingham",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5279,
+    "lng": -86.7971,
+    "cafes": [
+      {
+        "name": "Gatos and Beans",
+        "address": "4348 3rd Ct S, Birmingham, AL 35222, USA",
+        "rating": 4.6,
+        "user_ratings_total": 248,
+        "website": "https://gatosandbeans.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=5500967105047524660",
+        "lat": 33.526523,
+        "lng": -86.76755209999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Stephanie Alexander",
+            "rating": 5,
+            "text": {
+              "text": "I had such a great time lounging with the adorable kitties! You pay to get a certain amount of time in the kitty lounge + it comes with a free drink! The place is clean and well maintained for the kitties to roam around and enjoy. The staff was very kind and the overall vibe was super nice! Highly recommend coming here just to chill and help support an awesome business that helps cats in need! Please consider adopting, fostering and donating/helping your local shelters! 🩷",
+              "languageCode": "en"
+            },
+            "time": "11 months ago"
+          },
+          {
+            "author": "Katie Lovelady",
+            "rating": 5,
+            "text": {
+              "text": "Gatos and Beans were so helpful during the adoption of Abby and Alec! They were very attentive and answered all of my questions. This is a great cafe with an awesome mission. Even if you are not looking to adopt, stop by and grab a coffee to support!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Jordan Rasnic",
+            "rating": 5,
+            "text": {
+              "text": "Coffee and cats, what more could you ask for? The decor is great and all looks handmade, they are essentially a shelter where you can adopt the cats as well. Such a great mission and such a great way of accomplishing it. New favorite spot in Bham!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ16mb_8qBvzhAYtL-ReyGedUxViLlzDh6qpksWt_EZE3kbTDRJ7DbMxQ51g11wjXoFzN_NdV4uLo2unnLYjxeOIqH07zj9cPkppfRyDlpKYiunXSqdPdzCqPd8aVxd5sQvZQ3_PgzUWUlUUHH0Wo--6WA-LHC9RaBrZCMSH4mVA4HlgRfRHGuB58zH7Hk2-RUrvUJe5EbY9Q_ugLuoYxDSDs8A5BL6t6VhwDOlQGpyUqp6e41XjKtPd0ohKfPoj8C4zMRgtyES1mot6p5ddUnHFhBjpTUhWqvKgF6A2FkQO0mC4SyzrxKn9ajk6epv4gdcBsTr3-a0KY7_C6ttGWt62cTt_BTXj-TXm1gAiTilWdhEePNwDbEK4WgUVeT_4uN8yR2ZD1_wlDkIMMwc4x8OHo9lgv5yqqA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "The Red Cat Coffeehouse @ Pepper Place",
+        "address": "2901 2nd Ave S #120, Birmingham, AL 35233, USA",
+        "rating": 4.6,
+        "user_ratings_total": 662,
+        "website": "https://theredcatcoffeehouse.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=17135889991866261431",
+        "lat": 33.5166667,
+        "lng": -86.79055559999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "daniel deutsch",
+            "rating": 5,
+            "text": {
+              "text": "Trendy upscale coffee shop with a wide variety of beverages and some things to eat. Prices are somewhat high but to be expected from this type of establishment. I ordered the cold brew which was quite good. Ample seating indoors. There is also outdoor seating. Service was fast and staff were friendly.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Shawnte Russell",
+            "rating": 5,
+            "text": {
+              "text": "First time here and definitely not my last. The staff provided great recommendations and great service. I had the Ham and Swiss Croissant & the Caramel Apple Spice Latte. They were both delicious! There were several seasonal drinks on the menu and a variety of breakfast items as well. I love the atmosphere as well with all the windows for the natural light to shine in and also the option of outdoor seating. This coffee shop was quite busy, but I understand why. I am adding The Red Cat to my list of favorite coffee shops in Birmingham. Great place to work or meet up with a friend!",
+              "languageCode": "en"
+            },
+            "time": "2 years ago"
+          },
+          {
+            "author": "Renee H",
+            "rating": 4,
+            "text": {
+              "text": "My son took me to this coffee shop. We had mocha macchiato's and they were delicious. The upbeat music is a bit loud but pretty common. There were lots of students posted up with laptops open. The staff was friendly. They offer some food options but we only have coffee. What I loved to see is the diversity of the population in this coffee shop. The only thing I didn't really care for was all the smoke (from\nthe kitchen, I assume) in the shop.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3_Kf4atm-H3kvBZk50btlygiL0fE5zEtk_no5rLmtKL40BIR9kXrvqVV3VRcIXIxYyrO2cNaqq3bd7nlWxIAnXmVMbVB9QWh_urIul-feGMaJOSSQfUCMFbrEttjFhzFmiC5H3sE9aRDwIWZXniq4r1hLyoswp0_CKK0-dCp0H_WPfLYeWiNfd94JaJ6-X1w5m6i5ESaSabDN4hQEn6gLMgWIAz2M5686XDkTQtQ9xiFM5WdKKX-2RYmDo4PPgjJcd_JKCcDpAKRk6u7ARD4LGruVksvabIyjiFNOnmunyXC2kmnVn3qBmAtFwcT6pN-vopDcYBmvhKW-5JwDcGH97K0UefSzaAD-kRMgpu10hCcu-U3kewVr423KehngRi__RxOcfnaD1apMIiSsxWEDzNlGHTB0OqGZH&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "The Red Cat @ Railroad Park",
+        "address": "1701 1st Ave S #101, Birmingham, AL 35233, USA",
+        "rating": 4.5,
+        "user_ratings_total": 505,
+        "website": "https://theredcatcoffeehouse.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=1668702931141383665",
+        "lat": 33.5097467,
+        "lng": -86.8078779,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Dave Diamond",
+            "rating": 5,
+            "text": {
+              "text": "Passed two Starbucks to get to this independently owned small business. But that was not the best part. The service was friendly and accurate and the taste of the coffee was excellent. They know how to use that big beautiful LaMarzocco for sure. Add to that the ambiance of the sitting area was welcoming and warm with decor that gave a nod to the history of the most important beverage goat ever helped many to uncover.  Well done on every level.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Edward Holmes",
+            "rating": 5,
+            "text": {
+              "text": "We were staying in a hotel nearby with rather limited and I ricy breakfast options.  What a treat it was to find the Red Cat.  Delicious food and coffee for every taste.  Unfortunately, they were out of grits the day we visited, so we didn't get to try their breakfast bowls, but the pastries were amazing.  The croissant for the sandwich was one of the best I had ever had.  Cold brew and lates, perfect.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Eric Hardiman",
+            "rating": 5,
+            "text": {
+              "text": "My favorite coffee shop in all of Birmingham. The staff here make me feel welcome. The coffee is delicious and fast. Within a week of becoming a regular, everyone knew my name and my order. After getting my coffee, I often drive to work feeling such a pick-me-up, and I realize it’s not the caffeine, it’s from the love and kindness of all the staff making my morning a little brighter.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3wbpWoh5TRuN2rkFOwG5oZvZ4nh8HpcWHH0ppBlf0tU7FIngtRUdZsvTt-lqD6P4TpIfIAv2vW8rEbrxciY6jUkDafSdxgofrpkm9MgdBD9lboX0yCevIbpng1iyLvehZOzcrVYhIvZJA07n6OEDbMPdp0tR6cQrlYtdMGOykxMk4C9_WIU2m2-pi8SqCbmQrvYS3th0ZcSL6m-HYFxkm2LFenDUEAN8scUF35JiASUXUO-zarydpmrnjN94fX_NusS1M7SjSiGP4M_qE24oMouxYg7goQWnVTCKokA3CEyA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "The Red Cat @ UAB Highlands",
+        "address": "1201 11th Ave S, Birmingham, AL 35205, USA",
+        "rating": 4.1,
+        "user_ratings_total": 11,
+        "website": "http://theredcatcoffeehouse.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=9648940522459647669",
+        "lat": 33.4948908,
+        "lng": -86.806499,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "April Bea",
+            "rating": 5,
+            "text": {
+              "text": "This was my 1st time trying the establishment. I ordered 3 Frappuccino caramel flavored drinks. It took about 10 to 15 minutes to receive my order, but the staff was so friendly, and the atmosphere was very pleasant. I would definitely try this location again, especially since they were helpful during a critical time of waiting for a family member to come out of surgery. I appreciate their service",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "CYNTHIA DAVISON",
+            "rating": 1,
+            "text": {
+              "text": "I was scheduled for an appointment at UAB Highlands,  my appointment was on today which was wrong date Oct 14th, should be on 15th. I accidentally left my purse with money and credit cards at home rushing out door for transportation...which was waiting 30 minutes at my driveway..I jumped up out bed and rushed to car, after being told wrong date, I really wanted a cup of coffee,  after I've been a customer here several times, but never again!\nI thought this company had a heart to serve, boy was I wrong!\nI asked the heavy set white lady with dark hair and not a friendly face , , \"Do you give courtesy cups, ? Her reply was, \"what?\"..I repeated my question.. her reply...\"No we don't  sorry\"\nMy God, it will cost you nothing to have compass! Not even a small light in her heart! Nothing! Boy I hope she doesn't have children,  I feel sorry for them if they're hungry!\nNever get my money, nor my family's,  nor our congregations, nor my friend's business 💯.\nI have a business too, I will never treat a customer, a living soul like this person working here today did to me....my God.. not even a cup!!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Pattie Jolly-Fleece",
+            "rating": 3,
+            "text": {
+              "text": "Wasn’t acknowledged by staff who were standing in front of me having, what appeared to be, personal conversation. I asked to be helped. I ordered and got my drink but had to ask if they would give me my muffin. The wait person scowled , got my food, and didn’t acknowledge my saying thank you and continued scowling. Ugh. Plus, I had tipped when ordering. I should have waited. Food and coffee quite good though.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0Lnva-oiMGLpMfTJO3m-TLIyjgRK-U4a3cvLEi3jZzl_WtMd4ZIcEqoVglS7HmTSMECdqmQmh0OVGiQSdh_rUjpHZ_Q8akktYnGo7yeRnPqmpWMBT4HzniQv9j3LnExASkg8RxVGaxDvsMDPyPzb7IAZjLa5f09xo99EEQPY2uEfmhDrSJQwYK9P7TdiD6wx2tczfNXOK1VgXH88TBtftfQQMvet_PwHqS8bGqD4nlea7My9p9u-JVuBK0Y2OLsPlgFhg9upMZJDewWTbEO5LK_AiczEtuVcnVOmev546uEA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Huntsville": {
+    "city": "Huntsville",
+    "city_ascii": "Huntsville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6981,
+    "lng": -86.6412,
+    "cafes": [
+      {
+        "name": "Cattyshack, Inc.",
+        "address": "2211 Seminole Dr SW Studio 1062, Huntsville, AL 35805, USA",
+        "rating": 4.7,
+        "user_ratings_total": 90,
+        "website": "http://cattyshackhuntsville.org/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=15966089849889505853",
+        "lat": 34.715725,
+        "lng": -86.59735909999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Aliza Brown",
+            "rating": 5,
+            "text": {
+              "text": "Reserve a one hour time slot online to come hangout with a bunch of kittens and maybe even adopt one! It is $10 per person per hour and up to 12 people per session. Adoptions are $95 each. This place is always hopping it seems. It is located in the Lowe Mill arts and entertainment building which is very deceiving from the outside. Follow the directions in the reservation email to find the booth inside! The kittens are super friendly and love to play. Tons of room to just sit on the couch and let the cats come to you. We enjoyed our hour of cat loving. Will come again another day!",
+              "languageCode": "en"
+            },
+            "time": "11 months ago"
+          },
+          {
+            "author": "bryan comer",
+            "rating": 5,
+            "text": {
+              "text": "Our first time here and we LOVE IT!!! These cats made us so happy. Please come visit them.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "SL Robinson",
+            "rating": 5,
+            "text": {
+              "text": "We love going to Cattyshack and playing with the cats and kittens. It is always fun to see different cats everytime we have gone.  We love supporting this organization as we have 3 feral rescues at home and want all the cats to find their furever home.  Go play and maybe find the cat for you.",
+              "languageCode": "en"
+            },
+            "time": "11 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2qJvE-oZH9GtnyilsFmSE4UBYCNoAWUwe74zYbbxIE2fVHsFy6_an5OuDA8FG7heEbDLfRtZxyDN-onmS3aJuaCajUUM4xBXrMKfmAs9UD8aG5Xc7UIJW5QgAGQt6hxRm9AtPJlSPHNs6pw3gS2UY94noMUTvrK_Xblw8riZDiMXJNVwqeGGUJQqvproQPSKO7jX-6GVQa3HYJ94xebiXKY9B51mVRUBzD0iDMBSePGOa4Wu9fkcQh5Il_M1Rt9blKjy1HX2sG85YG4O2tUminHhp3PHbx2OR3nrrj-J7ytw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Chattanooga": [
+    {
+      "name": "Naughty Cat Cafe",
+      "address": "3742 Tennessee Ave Suite 100, Chattanooga, TN 37409, USA",
+      "rating": 5,
+      "user_ratings_total": 3108,
+      "website": "http://www.naughtycatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=1574181244338059855",
+      "lat": 35.0112793,
+      "lng": -85.3265924,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Wolfgang Schmitz",
+          "rating": 5,
+          "text": {
+            "text": "What a wonderful experience !! They had approximately 40 cats in a couple of rooms. One room nicely decorated with couches and chairs and cat furniture. This room is a little dark on purpose. Fun to sit and let the cats come to you. There is a second room with full light and also lots of seating areas for cats and humans . Very clean! Amazingly friendly staff.\nThere are binders with all the cat information in case you like to adopt one.\nHighly recommended activity to have fun and support a good cause!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Katherine Stone",
+          "rating": 5,
+          "text": {
+            "text": "We had never experienced a cat cafe before and I hope they are all as well done at the Naughty Cat Cafe! Several rooms full of cats to love on! Even a quiet room for the new residents to get used to their new lodgings. Highly recommend if you love cats. You will want to take them all home!",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Tajela Richardson",
+          "rating": 5,
+          "text": {
+            "text": "They have so many cats right now (12/13/2024)! All of them have so much personality and they’re sooooo soft! I came here with friends as a birthday gift to myself, I’m so glad I did. It is very calming sitting with the cats! They dim the lights and play soothing music while the cats just roam around. It is also extremely clean and the restroom smells great as well! They do provide binders all around the sitting area so you can learn about each cat, along with how to adopt one if you fall in love with one of the fur babies! As well as the cat petting, they provide you one free drink — whether that be hot coffee, hot tea, soda, chocolate milk, or cold water! They also sell reasonably priced products, such as jewelry, cat toys, shot glasses, little pastries, and they even have cans of alcohol for sale (if that’s your thing!). I would 100% recommend this lovely place to anybody who even remotely enjoys cats! There are many different areas to sit, their one rule is to never pick up any of the cats.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ01pHoE4ts96AsXnEBdZV1NxGQdBJv2Ry2-DVldkufeGFyskldVNX7mLVlOkSm2SKF4DfUp6Ybdgf_8az_wX1iHyySMsx6MkcqcHAZzznFnNGKNkoX3ID2M3DttuKw2BESlF2094FkLtZqTIEpZnV_r75GkB7dfe7x7lI5_K84gtfet18i7visYpzEFIZXumW79gDj4N_4nDD4TLs7YjbNM8ev-wfAjTPOrflQPzh-mFDBafHJt4oBI_KX54FkhhxVjbGEi3UB5BismsmB6K9tYiVO4UIKIWbNAkxC4F31bIw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Alabaster": {
+    "city": "Alabaster",
+    "city_ascii": "Alabaster",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2198,
+    "lng": -86.8225,
+    "cafes": [
+      {
+        "name": "The Lotus Catfe",
+        "address": "7895 Hwy 119 Suite 5, Alabaster, AL 35007, USA",
+        "rating": 5,
+        "user_ratings_total": 12,
+        "website": "http://thelotuscatfe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1634344908932748224",
+        "lat": 33.1953417,
+        "lng": -86.8276108,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true
+        },
+        "reviews": [
+          {
+            "author": "Courtney D",
+            "rating": 5,
+            "text": {
+              "text": "Such a fun experience! The cats were so friendly and we really enjoyed spending time with them. The employee was very nice as well! Will definitely be coming back 🙂",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          },
+          {
+            "author": "james parsons",
+            "rating": 5,
+            "text": {
+              "text": "The perfect place to meet new friends, both human and feline. The sweetest Cats and kittens available for adoption are at this Catfe. I have adopted 2 and couldn't be happier with my choice. The Yoga classes are so good, and are tailored so every body can do them. The special events like the moon circles and tea rituals are so comforting and relaxing. There's also Kitty Kat story time and a room that's been designed for kids and families to enjoy with coloring books and a chalkboard. They also have a shop full of beautiful items. If that weren't enough they also do Birthday Parties and other special events!!!!",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Towanda Miller",
+            "rating": 5,
+            "text": {
+              "text": "The yoga classes here are amazing. And they have different classes for different people! So everyone can take a class!\n\nThe special classes they offer have been SO COOL!\nI’ve done a cacao meditation class and some tea classes where you watch the tea bloom and just chill out with some awesome people. The vibe here is so cool and the way they are with helping the cats out is such a joy to see. They really do care about you and your needs as well as the cats. Highly recommend!",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3nxWDcsEdtUyV7t2euH3EbbjOiZBvSM8ERqZHeOd1CUF_KUHVeoYmojoG7SHVHs3ADQSa9C1uBF5UJSdbxZ9rGeyACISQORayt5Q9pxDyoeJAMqnA4DebXerTPzyO1MHQ88OMLhblswKS7-dnF21wQSZyfYTSZk5FIX1WVxEv-KLUfa7wVqXAwXVAUASx_7MkW38z2q1vx90j-Ill-Ftzg__sm_vqvev-UiFs1NfkLvjj1iP_dtHuzNSbSY5Hy7Hzep2riFhyFCUQyO4C4q-AhOT7jBbtlaAMuZrsVxBTO6Q&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Carrollton": {
+    "city": "Carrollton",
+    "city_ascii": "Carrollton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2619,
+    "lng": -88.0951,
+    "cafes": [
+      {
+        "name": "Fur Babies Cat Cafe",
+        "address": "302 South St, Carrollton, GA 30117, USA",
+        "rating": 4.9,
+        "user_ratings_total": 115,
+        "website": "http://furbabiescatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=11147573165752972773",
+        "lat": 33.5748849,
+        "lng": -85.08314,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Adia S. German",
+            "rating": 5,
+            "text": {
+              "text": "Loved my experience here! The store clerk was friendly and very personable. They had recently “employed” a storefront cat—a regularly visiting stray—when I visited.\n\nThere were adult cats and kittens a plenty! Lots of toys and spaces to use for interacting. Ample space to sit and chill or pet the babies. The space was really clean as well.\n\nThe fee is reasonable for an hour AND includes a coffee / tea that you can prepare for yourself.\n\nI will definitely visit again when I’m in the area!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "wes levingston",
+            "rating": 5,
+            "text": {
+              "text": "Staff very informative and helpful. She took care of the place and the cats. We ended up adopting a very cute loving playful kittey named Odette that we renamed Olivia. The setting was different than just an animal shelter. In a shelter they are all in cages. At this place they are all roaming free inside the house (designated room). You pay a small hourly fee to play and chill with all the cats there. Staff was top notch! Thank you Cat Cafe!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Jamie Loeffler",
+            "rating": 5,
+            "text": {
+              "text": "This is the cutest place! You can go and play with so many cats!  The adoption fee is very reasonable too, no matter if you're adopting a kitten or an older cat.  We got a new kitten for our family and he's the best!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2JbaKmcOFIccW9UmeYKN-uT_TwEbcIppS2r87mnxxrJrk9X3dO5z4J84MVWbF_IQq6i7p-wgIHV9bveTBcZH7iCHulHTbe0vZW5A5M6lxyu40QV5anyN12ThjiZcv2nntzg02w3FgIMpQY8ai-g1HnagrFV5mY7ZV4sHRS9QNM75F8sM80DiG7eUQG-kWLNAVqdDLL_EN_eGQTt30NUuFdQJqVnHtCnKCEzVOq_-m-WZUVgcmLlx7V-Fy3uTENv-MyR0Li-yNt_08C1fkYuJ43o7aT5TEMaML2d0SweeR5zJ8lyfboLS81lCveSj_YOgJ9GzLABMPuWwcXw-0a5m1IFC5HbF0GZi_VJk_MDV1labkFBosYvQE-S5Xkzhf67FTRBIO3zNS2av7XsGG_1OmM5Y2EYAchcrjs&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Guntersville": {
+    "city": "Guntersville",
+    "city_ascii": "Guntersville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.3671,
+    "lng": -86.2637,
+    "cafes": [
+      {
+        "name": "Wildcat Cafe",
+        "address": "14164 US-431 n, Guntersville, AL 35976, USA",
+        "rating": 4.4,
+        "user_ratings_total": 103,
+        "website": "https://www.facebook.com/Wildcat-Cafe-612339862529018/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=12469988809321547403",
+        "lat": 34.3200899,
+        "lng": -86.3108656,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "David",
+            "rating": 5,
+            "text": {
+              "text": "Ordered the grilled chicken tender plate. Chicken had a nice flavor to it, and it was seasoned well. The fried Okra was very good too. I highly recommend this place, and great pricing to!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Jimmy Gebhart",
+            "rating": 5,
+            "text": {
+              "text": "This is a good place to eat good food friendly service always check to see if you need anything I love eating there my favorite thing to eat is the BBQ sandwich with coleslaw on it and the fries are delicious I love it there good place good environment clean fast and friendly",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Denise Edmondson",
+            "rating": 5,
+            "text": {
+              "text": "The Best grilled chicken fingers around.  Mojos and coleslaw are really tasty also.   Must try if you’ve never been here.  Will definitely recommend and will most definitely be back.   Go check them out",
+              "languageCode": "en"
+            },
+            "time": "2 years ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3obX7g6i1UVvU9Gh9hggIKh3Okv-_uD2nMhPkbHSAbXWjD9x6uedDM3ih_b9TIUy_MBYzyqNZJlCUr40Bdwsd8t0vhEWtTWRVTn4Zieijp49RpUusj_0CRDDQBHRZlz4p3f40sXQaLC0uSMuHk617PDqK3lZF0C9VeBmq7BZUSqMJse0CkT_-uE3_n_lygpEn_yJnxtCeFk6IKKNQpT3i2z-eXNsNJ6eySEQJsfTUllRL2ns_N-zhTbvTzE1r_ZHYceWbaaYMZuU7hOid0f9r-JEt_mi5oLLsAXlYDiLTpuLZqQ0dgp9FAE8gRJrX_Gu_FoM4gFrfpg75j4TyuiT-PuVHrq0KWA3ymFyj-gkE3qe6p05opNCTa4eNfwmLv59vTmHJ32162OlK6PW2XmAeRr2BGu6Vvlg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Hoover": {
+    "city": "Hoover",
+    "city_ascii": "Hoover",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3763,
+    "lng": -86.8068,
+    "cafes": [
+      {
+        "name": "Kitty Kat Haven & Rescue",
+        "address": "3432 Old Columbiana Rd, Hoover, AL 35226, USA",
+        "rating": 4.1,
+        "user_ratings_total": 297,
+        "website": "https://kittykathavenrescue.org/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=178600211593726305",
+        "lat": 33.3897903,
+        "lng": -86.8075834,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Olivia Bethel",
+            "rating": 5,
+            "text": {
+              "text": "Today I adopted the sweetest cat from Kitty Kat Haven. Brenda and the entire team was so kind and helpful. They care so well for the cats that come to them. Some of the negative reviews on here are very unfair. They are very clear about the expectations of adopting from them. Ensuring the cat’s safety is top priority (as it should be!) I cannot stress enough how kind and helpful the entire team was. I’m so grateful to them and I strongly recommend you come here if you are looking for you new furry baby!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Sara Beth Wade",
+            "rating": 5,
+            "text": {
+              "text": "Lovely place, great staff. You can drop by on weekends if you just want some kitty time. The \"kitty kabin\" in the back with all the \"teenage\" cats is the best place to just hang out and play with kitties. You'd be hard pressed not to walk out with one!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Jenny Duckworth",
+            "rating": 5,
+            "text": {
+              "text": "Very clean. Safe, loving space for the kitties. Hardworking, dedicated volunteers. Definitely check them out if you want to adopt, foster, or volunteer, or just spend some time with lots of kitties!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2c5knamymZOESy8O5kYBDf7mvnz4t0ga6r4wWUpphaze_s48VdhzHGjov57W8Xl8DkXwgA9lXIPQvA2ee57Qi88BkTvMhB3-ve0Oq8p8Kz4TkCpoBMJ61vuhmB6T17Iv2MGccYmo7NjJM1PnS2znPjsE8BUnajjmkh_3-dBYLCTX0dSIRwnmPkVZxvv0ioQm3RjNRaEj9KTxT9zkBbyBe3kwoF8LSjYRexYjKHG0dKgKKzIXlkCoZIeKzHw9KFxy5MXqwoGA3nf4h5FaJyTvWItPO6V8YyWnTYpxY24XQefCWdq3yNB6j8xuvmhSlLKcNvCajRWaFdkQOx-HiIC-1ES-8fiKbYyd3PRL_klN14oMqR_n918S0oWoUwtObt9csI8QU-QL94TC1HkC5RfftoH-ThKQBc&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Newbern": {
+    "city": "Newbern",
+    "city_ascii": "Newbern",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.592,
+    "lng": -87.5331,
+    "cafes": [
+      {
+        "name": "Blackkat lounge Inc CAT ’s CAFÈ",
+        "address": "625 Co Rd 48, Newbern, AL 36765, USA",
+        "rating": 4.7,
+        "user_ratings_total": 3,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=9612962139971193350",
+        "lat": 32.6195058,
+        "lng": -87.4959267,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Alondria Agnew",
+            "rating": 5,
+            "text": {
+              "text": "Favorite place to have a good time, great food, and great drinks while visiting my hometown...",
+              "languageCode": "en"
+            },
+            "time": "12 months ago"
+          },
+          {
+            "author": "Eddie McCollough Jr",
+            "rating": 4,
+            "text": {
+              "text": "Great Vibes",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "robert tabb",
+            "rating": 5,
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ07H6J5gEgKQxIZw9O6QOuJ0DCgBbj2_EK5cze_SPqnVxNkUxXmMElBE0oIeX1Kqu6n6NFvK_4NVnhlszDMkSvR3UIkrd3qyEyrc3bQllub0vm5z34Dx1pX5RYIuld0s81Ff-nXsDxGjDiM4VMD9RsUZfjQ2oloGA21rUd8ICsF13QLKCiMPjIdmmC8Zg7-7dJBWUaUzIxY9j12fNpOGhus0_gPsmjD616OAUc2Fh8SIoTAuTkxyWmUtpiFd6x_iPkuYUDzgcbvh9akg1T9-U50Y0cFcDynylrN0x1ciJna9g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Orange Beach": {
+    "city": "Orange Beach",
+    "city_ascii": "Orange Beach",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.2942,
+    "lng": -87.5849,
+    "cafes": [
+      {
+        "name": "BuzzCatz Coffee & Sweets",
+        "address": "25689 Canal Rd Suite A, Orange Beach, AL 36561, USA",
+        "rating": 4.5,
+        "user_ratings_total": 973,
+        "website": "http://www.buzzcatzcoffeeandsweets.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=16862084551630240680",
+        "lat": 30.2913516,
+        "lng": -87.5863854,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Nikki Timberlake",
+            "rating": 5,
+            "text": {
+              "text": "We ate here twice during our trip. The Buzzcat breakfast platter was delicious. I tried both the link sausage and the bacon, which were both perfectly cooked and very tasty.  The homemade whole wheat toast and the biscuits were to die for! The staff were very pleasant and did a great job. I would highly recommend this restaurant for a delicious breakfast!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Cayla Madaris",
+            "rating": 5,
+            "text": {
+              "text": "Best place I visited on my vacation! The vibes are really cool and friendly and everything is clean. The kitten head biscuits were my favorite, light and easy to tear off and dip. Definitely add the preserves and gravy! Coffee was great. Highly recommend.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Brittany M.",
+            "rating": 5,
+            "text": {
+              "text": "Best Mocha Frappe I've had! Fun, quirky atmosphere and good service! We stopped for the first time in 2018 and I remembered how delicious it was for this trip! Definitely a must in Orange Beach :)",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ18wNpo7cu1Mgj11N6Gfd6mUvXd5B-4EVP01buoMCTcHbvkQ8r9d4tH6FiHVCFBL5uF7aI7wiYpjfm1-rUrW5bNclJzQNktN4LjlC8McGWfnla97RzHpwleOw1yp2x3AjqEHqfXwlAzvjqo1SUqNrD20SyEt1_7zR1REg1mk6FrLzaHXQVeayMTlUvuLptnImO0hKm-fagQEwtg74ybJhMszS_Y7_nbNaAbgm6vwy98N0_srAMdBYarMgI1VU_GlKnqHFaBD7zIo9-C_IbBKi5ZQ3MBj9fyAGw5nriKadeE6jzN4uB_lNe2uWlohjd7l_Ecoo6HFad5u2YwXRshVdNqkxzt3pau8JFQzOcjmA7Qipw6AfiHYgv9WVo0GxaU3T-Yoqeq7Xw3QcbYXELyf-WXicmTIsc&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Murfreesboro": [
+    {
+      "name": "Catfeine Cat Cafe",
+      "address": "517 Cason Ln D, Murfreesboro, TN 37128, USA",
+      "rating": 4.8,
+      "user_ratings_total": 810,
+      "website": "http://www.catfeine.net/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=385356453214455974",
+      "lat": 35.8416278,
+      "lng": -86.4400522,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Tara Bryant",
+          "rating": 5,
+          "text": {
+            "text": "This place was a really sweet experience and IMMACULATE to boot. I wasn't sure what to expect but its such a humane way to provide an opportunity for cats to be fostered/adopted. The owner Taura is very kind and is very involved in the process and makes sure the cats are cared for. I have NEVER been in a cleaner environment with that many animals, anywhere!! The vibe was laid back, comfortable and you would not know there were 20 cats there. You could tell they were comfortable and cared for in that environment. Those cats aren't just fosters to that business, they're family. I would give more stars if I could!!!!!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Caleb Salas",
+          "rating": 5,
+          "text": {
+            "text": "Absolutely love this place, the environment was very friendly, the staff was super welcoming and the cats well they were really energetic today lol. Took some silly photos of the cats",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Jennifer Jordan",
+          "rating": 5,
+          "text": {
+            "text": "You have cat to be kitten me right meow!!! This place is everything a cat and coffee lover wants. The cats here are all so sweet and well taken care of. I set up my laptop and worked for a couple hours while the kitties played around me. I wish I could adopt them all!!!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3z5YLtTCW5kMpb4sSZn9KJ0VnwABiyZwR7m3is1iRZg4Z8gsrnBxh8Nriv-6KUXpH2fitv0-M9MHZC72Ikuxkkp1fb5TOjSgpmW8X-XGcuVyLFTUPB7H96g_8Yp0uOz1O-RRAfDnZNwsMTewe7BRFiRZAoSjjpqLFtoqvfwjJBz8t0xngTz0jswIhkXMbwtRdDIfTcWYOa9M6HfVkeCpc8DElfq9qW7IYAjRhcfkNfdHsqBHCpcT8CYpbedjSWrjUfBYTuRdWBqbLuX_l9TxcPrbriGlX-st3_-Rvn3btuwg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Gulf Shores": {
+    "city": "Gulf Shores",
+    "city_ascii": "Gulf Shores",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.2764,
+    "lng": -87.7017,
+    "cafes": [
+      {
+        "name": "Kitty's Kafe",
+        "address": "3800 Gulf Shores Pkwy #100, Gulf Shores, AL 36542, USA",
+        "rating": 4.6,
+        "user_ratings_total": 1215,
+        "website": "http://www.kittyskafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=17481950610786452452",
+        "lat": 30.302791299999996,
+        "lng": -87.68006380000001,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Doug Taylor (DixieDoug)",
+            "rating": 5,
+            "text": {
+              "text": "Excellent selection of Eggs Benedict!  I love this restaurant!  Friendly and fast service in an awesome environment!  Delicious breakfast taters!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Scott Williams",
+            "rating": 5,
+            "text": {
+              "text": "Hidden Gem should be the title.\nItalian so good that if the lights were dimmer, you could easily imagine a fat mafia boss in the corner... yet this place is family friendly.\nFood in pictures is about $15 bucks. So you don't need to be able to afford an Armani suit and some fat gold rings to try the joint.\nDoes live music sometimes.",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          },
+          {
+            "author": "Jason Grimard",
+            "rating": 5,
+            "text": {
+              "text": "The breakfast and lunch here is very good!... This is one of those places you go to expecting great service and food.  I've had a simple eggs, bacon and sausage breakfast(very good) many times. However, The Debris Po Boy sandwich was very good for lunch.  Stop by if you want great service along with excellent country valued cuisine.",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0533WJ46IXM9Be4W1r-2-AzfXZLJCQahR51q6Fs3GQy4dwoXRnFsF4MwXmmvXzMxPURR_obueW2fzcWpNqHuBW3Hx4POQPh4QP2o-7sGWRf524pEExSVkEsCkgFCRq95pVDa0MWWGaFUwNGRWVBUWVKoA-afzodFfqTYXY0Ntet6AXzZfj9O3TCUI79Wk9i-jhsS-450Jna8buuO1BzzplFUJ3eFvSKeBB1iKjA5ok-W9Qc8p4Dld8JhD5fSMQeuLk0uEm8LNULRhq2otNU46wYHbS_way-WSzgomln1-JOg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Mobile": {
+    "city": "Mobile",
+    "city_ascii": "Mobile",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.6782,
+    "lng": -88.1162,
+    "cafes": []
+  },
+  "Montgomery": {
+    "city": "Montgomery",
+    "city_ascii": "Montgomery",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.3482,
+    "lng": -86.2668,
+    "cafes": []
+  },
+  "Tuscaloosa": {
+    "city": "Tuscaloosa",
+    "city_ascii": "Tuscaloosa",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2348,
+    "lng": -87.5268,
+    "cafes": []
+  },
+  "Auburn": {
+    "city": "Auburn",
+    "city_ascii": "Auburn",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.6087,
+    "lng": -85.4903,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.8303,
+    "lng": -87.6655,
+    "cafes": []
+  },
+  "Anniston": {
+    "city": "Anniston",
+    "city_ascii": "Anniston",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6712,
+    "lng": -85.8135,
+    "cafes": []
+  },
+  "Dothan": {
+    "city": "Dothan",
+    "city_ascii": "Dothan",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2336,
+    "lng": -85.407,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.7114,
+    "lng": -86.7626,
+    "cafes": []
+  },
+  "Decatur": {
+    "city": "Decatur",
+    "city_ascii": "Decatur",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5731,
+    "lng": -86.9905,
+    "cafes": []
+  },
+  "Prattville": {
+    "city": "Prattville",
+    "city_ascii": "Prattville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4597,
+    "lng": -86.4573,
+    "cafes": []
+  },
+  "Vestavia Hills": {
+    "city": "Vestavia Hills",
+    "city_ascii": "Vestavia Hills",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4518,
+    "lng": -86.7437,
+    "cafes": []
+  },
+  "Phenix City": {
+    "city": "Phenix City",
+    "city_ascii": "Phenix City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4585,
+    "lng": -85.0253,
+    "cafes": []
+  },
+  "Gadsden": {
+    "city": "Gadsden",
+    "city_ascii": "Gadsden",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0086,
+    "lng": -86.0157,
+    "cafes": []
+  },
+  "Opelika": {
+    "city": "Opelika",
+    "city_ascii": "Opelika",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.6612,
+    "lng": -85.3769,
+    "cafes": []
+  },
+  "Northport": {
+    "city": "Northport",
+    "city_ascii": "Northport",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2586,
+    "lng": -87.5993,
+    "cafes": []
+  },
+  "Enterprise": {
+    "city": "Enterprise",
+    "city_ascii": "Enterprise",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3275,
+    "lng": -85.8463,
+    "cafes": []
+  },
+  "Daphne": {
+    "city": "Daphne",
+    "city_ascii": "Daphne",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.6263,
+    "lng": -87.8816,
+    "cafes": []
+  },
+  "Homewood": {
+    "city": "Homewood",
+    "city_ascii": "Homewood",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4619,
+    "lng": -86.809,
+    "cafes": []
+  },
+  "Athens": {
+    "city": "Athens",
+    "city_ascii": "Athens",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.7843,
+    "lng": -86.9503,
+    "cafes": []
+  },
+  "Trussville": {
+    "city": "Trussville",
+    "city_ascii": "Trussville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6405,
+    "lng": -86.5815,
+    "cafes": []
+  },
+  "Bessemer": {
+    "city": "Bessemer",
+    "city_ascii": "Bessemer",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3712,
+    "lng": -86.9728,
+    "cafes": []
+  },
+  "Pelham": {
+    "city": "Pelham",
+    "city_ascii": "Pelham",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3114,
+    "lng": -86.7573,
+    "cafes": []
+  },
+  "Fairhope": {
+    "city": "Fairhope",
+    "city_ascii": "Fairhope",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.5209,
+    "lng": -87.8813,
+    "cafes": []
+  },
+  "Albertville": {
+    "city": "Albertville",
+    "city_ascii": "Albertville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2633,
+    "lng": -86.2108,
+    "cafes": []
+  },
+  "Foley": {
+    "city": "Foley",
+    "city_ascii": "Foley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.3983,
+    "lng": -87.665,
+    "cafes": []
+  },
+  "Mountain Brook": {
+    "city": "Mountain Brook",
+    "city_ascii": "Mountain Brook",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4871,
+    "lng": -86.74,
+    "cafes": []
+  },
+  "Oxford": {
+    "city": "Oxford",
+    "city_ascii": "Oxford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5967,
+    "lng": -85.8687,
+    "cafes": []
+  },
+  "Helena": {
+    "city": "Helena",
+    "city_ascii": "Helena",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2837,
+    "lng": -86.8791,
+    "cafes": []
+  },
+  "Prichard": {
+    "city": "Prichard",
+    "city_ascii": "Prichard",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.7735,
+    "lng": -88.1301,
+    "cafes": []
+  },
+  "Cullman": {
+    "city": "Cullman",
+    "city_ascii": "Cullman",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1775,
+    "lng": -86.8407,
+    "cafes": []
+  },
+  "Troy": {
+    "city": "Troy",
+    "city_ascii": "Troy",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.8021,
+    "lng": -85.9664,
+    "cafes": []
+  },
+  "Tillmans Corner": {
+    "city": "Tillmans Corner",
+    "city_ascii": "Tillmans Corner",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.5819,
+    "lng": -88.2128,
+    "cafes": []
+  },
+  "Selma": {
+    "city": "Selma",
+    "city_ascii": "Selma",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4166,
+    "lng": -87.0336,
+    "cafes": []
+  },
+  "Calera": {
+    "city": "Calera",
+    "city_ascii": "Calera",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1254,
+    "lng": -86.7449,
+    "cafes": []
+  },
+  "Millbrook": {
+    "city": "Millbrook",
+    "city_ascii": "Millbrook",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.5027,
+    "lng": -86.3737,
+    "cafes": []
+  },
+  "Muscle Shoals": {
+    "city": "Muscle Shoals",
+    "city_ascii": "Muscle Shoals",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.7432,
+    "lng": -87.6343,
+    "cafes": []
+  },
+  "Hueytown": {
+    "city": "Hueytown",
+    "city_ascii": "Hueytown",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4239,
+    "lng": -87.022,
+    "cafes": []
+  },
+  "Saraland": {
+    "city": "Saraland",
+    "city_ascii": "Saraland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.8479,
+    "lng": -88.1004,
+    "cafes": []
+  },
+  "Center Point": {
+    "city": "Center Point",
+    "city_ascii": "Center Point",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6447,
+    "lng": -86.6852,
+    "cafes": []
+  },
+  "Gardendale": {
+    "city": "Gardendale",
+    "city_ascii": "Gardendale",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6677,
+    "lng": -86.8069,
+    "cafes": []
+  },
+  "Chelsea": {
+    "city": "Chelsea",
+    "city_ascii": "Chelsea",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3262,
+    "lng": -86.63,
+    "cafes": []
+  },
+  "Scottsboro": {
+    "city": "Scottsboro",
+    "city_ascii": "Scottsboro",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6438,
+    "lng": -86.0491,
+    "cafes": []
+  },
+  "Hartselle": {
+    "city": "Hartselle",
+    "city_ascii": "Hartselle",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.4391,
+    "lng": -86.9396,
+    "cafes": []
+  },
+  "Talladega": {
+    "city": "Talladega",
+    "city_ascii": "Talladega",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4333,
+    "lng": -86.0986,
+    "cafes": []
+  },
+  "Fort Payne": {
+    "city": "Fort Payne",
+    "city_ascii": "Fort Payne",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.4559,
+    "lng": -85.6965,
+    "cafes": []
+  },
+  "Alexander City": {
+    "city": "Alexander City",
+    "city_ascii": "Alexander City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.9229,
+    "lng": -85.9358,
+    "cafes": []
+  },
+  "Jasper": {
+    "city": "Jasper",
+    "city_ascii": "Jasper",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8508,
+    "lng": -87.271,
+    "cafes": []
+  },
+  "Ozark": {
+    "city": "Ozark",
+    "city_ascii": "Ozark",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4508,
+    "lng": -85.6473,
+    "cafes": []
+  },
+  "Jacksonville": {
+    "city": "Jacksonville",
+    "city_ascii": "Jacksonville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8088,
+    "lng": -85.7545,
+    "cafes": []
+  },
+  "McCalla": {
+    "city": "McCalla",
+    "city_ascii": "McCalla",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3023,
+    "lng": -87.0302,
+    "cafes": []
+  },
+  "Irondale": {
+    "city": "Irondale",
+    "city_ascii": "Irondale",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5439,
+    "lng": -86.6606,
+    "cafes": []
+  },
+  "Moody": {
+    "city": "Moody",
+    "city_ascii": "Moody",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5986,
+    "lng": -86.4963,
+    "cafes": []
+  },
+  "Pell City": {
+    "city": "Pell City",
+    "city_ascii": "Pell City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.561,
+    "lng": -86.2669,
+    "cafes": []
+  },
+  "Eufaula": {
+    "city": "Eufaula",
+    "city_ascii": "Eufaula",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.9102,
+    "lng": -85.1505,
+    "cafes": []
+  },
+  "Sylacauga": {
+    "city": "Sylacauga",
+    "city_ascii": "Sylacauga",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.178,
+    "lng": -86.2605,
+    "cafes": []
+  },
+  "Leeds": {
+    "city": "Leeds",
+    "city_ascii": "Leeds",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5436,
+    "lng": -86.5639,
+    "cafes": []
+  },
+  "Boaz": {
+    "city": "Boaz",
+    "city_ascii": "Boaz",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1985,
+    "lng": -86.1529,
+    "cafes": []
+  },
+  "Russellville": {
+    "city": "Russellville",
+    "city_ascii": "Russellville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5055,
+    "lng": -87.7283,
+    "cafes": []
+  },
+  "Saks": {
+    "city": "Saks",
+    "city_ascii": "Saks",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7118,
+    "lng": -85.8536,
+    "cafes": []
+  },
+  "Valley": {
+    "city": "Valley",
+    "city_ascii": "Valley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8088,
+    "lng": -85.181,
+    "cafes": []
+  },
+  "Spanish Fort": {
+    "city": "Spanish Fort",
+    "city_ascii": "Spanish Fort",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.7254,
+    "lng": -87.8597,
+    "cafes": []
+  },
+  "Clay": {
+    "city": "Clay",
+    "city_ascii": "Clay",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6951,
+    "lng": -86.609,
+    "cafes": []
+  },
+  "Meridianville": {
+    "city": "Meridianville",
+    "city_ascii": "Meridianville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.8729,
+    "lng": -86.5722,
+    "cafes": []
+  },
+  "Rainbow City": {
+    "city": "Rainbow City",
+    "city_ascii": "Rainbow City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9336,
+    "lng": -86.0922,
+    "cafes": []
+  },
+  "Pike Road": {
+    "city": "Pike Road",
+    "city_ascii": "Pike Road",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.2939,
+    "lng": -86.09,
+    "cafes": []
+  },
+  "Fairfield": {
+    "city": "Fairfield",
+    "city_ascii": "Fairfield",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4747,
+    "lng": -86.9194,
+    "cafes": []
+  },
+  "Fultondale": {
+    "city": "Fultondale",
+    "city_ascii": "Fultondale",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6174,
+    "lng": -86.8014,
+    "cafes": []
+  },
+  "Pleasant Grove": {
+    "city": "Pleasant Grove",
+    "city_ascii": "Pleasant Grove",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.494,
+    "lng": -86.9782,
+    "cafes": []
+  },
+  "Southside": {
+    "city": "Southside",
+    "city_ascii": "Southside",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9007,
+    "lng": -86.0238,
+    "cafes": []
+  },
+  "Sheffield": {
+    "city": "Sheffield",
+    "city_ascii": "Sheffield",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.757,
+    "lng": -87.6977,
+    "cafes": []
+  },
+  "Forestdale": {
+    "city": "Forestdale",
+    "city_ascii": "Forestdale",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5737,
+    "lng": -86.9,
+    "cafes": []
+  },
+  "Tuscumbia": {
+    "city": "Tuscumbia",
+    "city_ascii": "Tuscumbia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.7204,
+    "lng": -87.7035,
+    "cafes": []
+  },
+  "Tuskegee": {
+    "city": "Tuskegee",
+    "city_ascii": "Tuskegee",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4409,
+    "lng": -85.7131,
+    "cafes": []
+  },
+  "Meadowbrook": {
+    "city": "Meadowbrook",
+    "city_ascii": "Meadowbrook",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3935,
+    "lng": -86.7041,
+    "cafes": []
+  },
+  "Clanton": {
+    "city": "Clanton",
+    "city_ascii": "Clanton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8444,
+    "lng": -86.6233,
+    "cafes": []
+  },
+  "Andalusia": {
+    "city": "Andalusia",
+    "city_ascii": "Andalusia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3102,
+    "lng": -86.4781,
+    "cafes": []
+  },
+  "Arab": {
+    "city": "Arab",
+    "city_ascii": "Arab",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.3309,
+    "lng": -86.4991,
+    "cafes": []
+  },
+  "Brook Highland": {
+    "city": "Brook Highland",
+    "city_ascii": "Brook Highland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4359,
+    "lng": -86.6849,
+    "cafes": []
+  },
+  "Atmore": {
+    "city": "Atmore",
+    "city_ascii": "Atmore",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0927,
+    "lng": -87.4762,
+    "cafes": []
+  },
+  "Bay Minette": {
+    "city": "Bay Minette",
+    "city_ascii": "Bay Minette",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.893,
+    "lng": -87.7912,
+    "cafes": []
+  },
+  "Pinson": {
+    "city": "Pinson",
+    "city_ascii": "Pinson",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7055,
+    "lng": -86.6678,
+    "cafes": []
+  },
+  "Montevallo": {
+    "city": "Montevallo",
+    "city_ascii": "Montevallo",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1246,
+    "lng": -86.8477,
+    "cafes": []
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.8437,
+    "lng": -86.638,
+    "cafes": []
+  },
+  "Wetumpka": {
+    "city": "Wetumpka",
+    "city_ascii": "Wetumpka",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.5406,
+    "lng": -86.2053,
+    "cafes": []
+  },
+  "Lincoln": {
+    "city": "Lincoln",
+    "city_ascii": "Lincoln",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5935,
+    "lng": -86.1365,
+    "cafes": []
+  },
+  "Demopolis": {
+    "city": "Demopolis",
+    "city_ascii": "Demopolis",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.498,
+    "lng": -87.8298,
+    "cafes": []
+  },
+  "Robertsdale": {
+    "city": "Robertsdale",
+    "city_ascii": "Robertsdale",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.5535,
+    "lng": -87.7023,
+    "cafes": []
+  },
+  "Oneonta": {
+    "city": "Oneonta",
+    "city_ascii": "Oneonta",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9394,
+    "lng": -86.4932,
+    "cafes": []
+  },
+  "Hamilton": {
+    "city": "Hamilton",
+    "city_ascii": "Hamilton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1346,
+    "lng": -87.9755,
+    "cafes": []
+  },
+  "Lanett": {
+    "city": "Lanett",
+    "city_ascii": "Lanett",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8577,
+    "lng": -85.2078,
+    "cafes": []
+  },
+  "Satsuma": {
+    "city": "Satsuma",
+    "city_ascii": "Satsuma",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.8578,
+    "lng": -88.0631,
+    "cafes": []
+  },
+  "Opp": {
+    "city": "Opp",
+    "city_ascii": "Opp",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2848,
+    "lng": -86.257,
+    "cafes": []
+  },
+  "Harvest": {
+    "city": "Harvest",
+    "city_ascii": "Harvest",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.8558,
+    "lng": -86.752,
+    "cafes": []
+  },
+  "Chickasaw": {
+    "city": "Chickasaw",
+    "city_ascii": "Chickasaw",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.7715,
+    "lng": -88.0793,
+    "cafes": []
+  },
+  "Moores Mill": {
+    "city": "Moores Mill",
+    "city_ascii": "Moores Mill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.8491,
+    "lng": -86.5222,
+    "cafes": []
+  },
+  "Tarrant": {
+    "city": "Tarrant",
+    "city_ascii": "Tarrant",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5945,
+    "lng": -86.7685,
+    "cafes": []
+  },
+  "Grayson Valley": {
+    "city": "Grayson Valley",
+    "city_ascii": "Grayson Valley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6467,
+    "lng": -86.6417,
+    "cafes": []
+  },
+  "Monroeville": {
+    "city": "Monroeville",
+    "city_ascii": "Monroeville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.5162,
+    "lng": -87.3279,
+    "cafes": []
+  },
+  "Attalla": {
+    "city": "Attalla",
+    "city_ascii": "Attalla",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.005,
+    "lng": -86.1039,
+    "cafes": []
+  },
+  "Holtville": {
+    "city": "Holtville",
+    "city_ascii": "Holtville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.6314,
+    "lng": -86.3268,
+    "cafes": []
+  },
+  "Highland Lakes": {
+    "city": "Highland Lakes",
+    "city_ascii": "Highland Lakes",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3973,
+    "lng": -86.6495,
+    "cafes": []
+  },
+  "Rainsville": {
+    "city": "Rainsville",
+    "city_ascii": "Rainsville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.4938,
+    "lng": -85.8436,
+    "cafes": []
+  },
+  "Margaret": {
+    "city": "Margaret",
+    "city_ascii": "Margaret",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6734,
+    "lng": -86.468,
+    "cafes": []
+  },
+  "Smiths Station": {
+    "city": "Smiths Station",
+    "city_ascii": "Smiths Station",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.528,
+    "lng": -85.0943,
+    "cafes": []
+  },
+  "Semmes": {
+    "city": "Semmes",
+    "city_ascii": "Semmes",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.7899,
+    "lng": -88.2389,
+    "cafes": []
+  },
+  "Glencoe": {
+    "city": "Glencoe",
+    "city_ascii": "Glencoe",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9447,
+    "lng": -85.9322,
+    "cafes": []
+  },
+  "Roanoke": {
+    "city": "Roanoke",
+    "city_ascii": "Roanoke",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1453,
+    "lng": -85.3694,
+    "cafes": []
+  },
+  "Brewton": {
+    "city": "Brewton",
+    "city_ascii": "Brewton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1113,
+    "lng": -87.0737,
+    "cafes": []
+  },
+  "Redland": {
+    "city": "Redland",
+    "city_ascii": "Redland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4754,
+    "lng": -86.1375,
+    "cafes": []
+  },
+  "Fort Rucker": {
+    "city": "Fort Rucker",
+    "city_ascii": "Fort Rucker",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3428,
+    "lng": -85.7154,
+    "cafes": []
+  },
+  "Headland": {
+    "city": "Headland",
+    "city_ascii": "Headland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3501,
+    "lng": -85.3523,
+    "cafes": []
+  },
+  "Midfield": {
+    "city": "Midfield",
+    "city_ascii": "Midfield",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4553,
+    "lng": -86.9224,
+    "cafes": []
+  },
+  "Tallassee": {
+    "city": "Tallassee",
+    "city_ascii": "Tallassee",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.5315,
+    "lng": -85.8903,
+    "cafes": []
+  },
+  "Odenville": {
+    "city": "Odenville",
+    "city_ascii": "Odenville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6978,
+    "lng": -86.4228,
+    "cafes": []
+  },
+  "Winfield": {
+    "city": "Winfield",
+    "city_ascii": "Winfield",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9334,
+    "lng": -87.7961,
+    "cafes": []
+  },
+  "Theodore": {
+    "city": "Theodore",
+    "city_ascii": "Theodore",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.5408,
+    "lng": -88.1885,
+    "cafes": []
+  },
+  "Springville": {
+    "city": "Springville",
+    "city_ascii": "Springville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7643,
+    "lng": -86.4742,
+    "cafes": []
+  },
+  "Daleville": {
+    "city": "Daleville",
+    "city_ascii": "Daleville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2915,
+    "lng": -85.7117,
+    "cafes": []
+  },
+  "Piedmont": {
+    "city": "Piedmont",
+    "city_ascii": "Piedmont",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9269,
+    "lng": -85.6149,
+    "cafes": []
+  },
+  "Childersburg": {
+    "city": "Childersburg",
+    "city_ascii": "Childersburg",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2962,
+    "lng": -86.3456,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.5318,
+    "lng": -87.8915,
+    "cafes": []
+  },
+  "Columbiana": {
+    "city": "Columbiana",
+    "city_ascii": "Columbiana",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.193,
+    "lng": -86.6114,
+    "cafes": []
+  },
+  "Hokes Bluff": {
+    "city": "Hokes Bluff",
+    "city_ascii": "Hokes Bluff",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9902,
+    "lng": -85.8639,
+    "cafes": []
+  },
+  "Argo": {
+    "city": "Argo",
+    "city_ascii": "Argo",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6963,
+    "lng": -86.5063,
+    "cafes": []
+  },
+  "Kimberly": {
+    "city": "Kimberly",
+    "city_ascii": "Kimberly",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7758,
+    "lng": -86.7964,
+    "cafes": []
+  },
+  "Adamsville": {
+    "city": "Adamsville",
+    "city_ascii": "Adamsville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6073,
+    "lng": -86.974,
+    "cafes": []
+  },
+  "Haleyville": {
+    "city": "Haleyville",
+    "city_ascii": "Haleyville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2331,
+    "lng": -87.6175,
+    "cafes": []
+  },
+  "Lake View": {
+    "city": "Lake View",
+    "city_ascii": "Lake View",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2802,
+    "lng": -87.1259,
+    "cafes": []
+  },
+  "Pine Level": {
+    "city": "Pine Level",
+    "city_ascii": "Pine Level",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.5785,
+    "lng": -86.4523,
+    "cafes": []
+  },
+  "Geneva": {
+    "city": "Geneva",
+    "city_ascii": "Geneva",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0437,
+    "lng": -85.8763,
+    "cafes": []
+  },
+  "Fayette": {
+    "city": "Fayette",
+    "city_ascii": "Fayette",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6943,
+    "lng": -87.8307,
+    "cafes": []
+  },
+  "Valley Grande": {
+    "city": "Valley Grande",
+    "city_ascii": "Valley Grande",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4862,
+    "lng": -87.0305,
+    "cafes": []
+  },
+  "Loxley": {
+    "city": "Loxley",
+    "city_ascii": "Loxley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.6812,
+    "lng": -87.7416,
+    "cafes": []
+  },
+  "Ladonia": {
+    "city": "Ladonia",
+    "city_ascii": "Ladonia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4609,
+    "lng": -85.0877,
+    "cafes": []
+  },
+  "Citronelle": {
+    "city": "Citronelle",
+    "city_ascii": "Citronelle",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0952,
+    "lng": -88.2467,
+    "cafes": []
+  },
+  "Hazel Green": {
+    "city": "Hazel Green",
+    "city_ascii": "Hazel Green",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.9236,
+    "lng": -86.5671,
+    "cafes": []
+  },
+  "Grand Bay": {
+    "city": "Grand Bay",
+    "city_ascii": "Grand Bay",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.4717,
+    "lng": -88.345,
+    "cafes": []
+  },
+  "West End-Cobb Town": {
+    "city": "West End-Cobb Town",
+    "city_ascii": "West End-Cobb Town",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6526,
+    "lng": -85.8741,
+    "cafes": []
+  },
+  "Thomasville": {
+    "city": "Thomasville",
+    "city_ascii": "Thomasville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.911,
+    "lng": -87.7419,
+    "cafes": []
+  },
+  "Centre": {
+    "city": "Centre",
+    "city_ascii": "Centre",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1537,
+    "lng": -85.6689,
+    "cafes": []
+  },
+  "Priceville": {
+    "city": "Priceville",
+    "city_ascii": "Priceville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5246,
+    "lng": -86.8856,
+    "cafes": []
+  },
+  "Moundville": {
+    "city": "Moundville",
+    "city_ascii": "Moundville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.9968,
+    "lng": -87.6272,
+    "cafes": []
+  },
+  "Holt": {
+    "city": "Holt",
+    "city_ascii": "Holt",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2302,
+    "lng": -87.4827,
+    "cafes": []
+  },
+  "Triana": {
+    "city": "Triana",
+    "city_ascii": "Triana",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5888,
+    "lng": -86.7489,
+    "cafes": []
+  },
+  "Heflin": {
+    "city": "Heflin",
+    "city_ascii": "Heflin",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.647,
+    "lng": -85.5698,
+    "cafes": []
+  },
+  "Elba": {
+    "city": "Elba",
+    "city_ascii": "Elba",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4172,
+    "lng": -86.0759,
+    "cafes": []
+  },
+  "Mount Olive": {
+    "city": "Mount Olive",
+    "city_ascii": "Mount Olive",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6778,
+    "lng": -86.8727,
+    "cafes": []
+  },
+  "Evergreen": {
+    "city": "Evergreen",
+    "city_ascii": "Evergreen",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4342,
+    "lng": -86.9723,
+    "cafes": []
+  },
+  "Alexandria": {
+    "city": "Alexandria",
+    "city_ascii": "Alexandria",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7675,
+    "lng": -85.8792,
+    "cafes": []
+  },
+  "Moulton": {
+    "city": "Moulton",
+    "city_ascii": "Moulton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.4844,
+    "lng": -87.2833,
+    "cafes": []
+  },
+  "Emerald Mountain": {
+    "city": "Emerald Mountain",
+    "city_ascii": "Emerald Mountain",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4396,
+    "lng": -86.0857,
+    "cafes": []
+  },
+  "East Brewton": {
+    "city": "East Brewton",
+    "city_ascii": "East Brewton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0906,
+    "lng": -87.0556,
+    "cafes": []
+  },
+  "Weaver": {
+    "city": "Weaver",
+    "city_ascii": "Weaver",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7601,
+    "lng": -85.8117,
+    "cafes": []
+  },
+  "Union Springs": {
+    "city": "Union Springs",
+    "city_ascii": "Union Springs",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.1395,
+    "lng": -85.7141,
+    "cafes": []
+  },
+  "Hanceville": {
+    "city": "Hanceville",
+    "city_ascii": "Hanceville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0632,
+    "lng": -86.7645,
+    "cafes": []
+  },
+  "Livingston": {
+    "city": "Livingston",
+    "city_ascii": "Livingston",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.5982,
+    "lng": -88.1891,
+    "cafes": []
+  },
+  "Red Bay": {
+    "city": "Red Bay",
+    "city_ascii": "Red Bay",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.4357,
+    "lng": -88.1361,
+    "cafes": []
+  },
+  "Warrior": {
+    "city": "Warrior",
+    "city_ascii": "Warrior",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8149,
+    "lng": -86.8157,
+    "cafes": []
+  },
+  "Choccolocco": {
+    "city": "Choccolocco",
+    "city_ascii": "Choccolocco",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6683,
+    "lng": -85.7128,
+    "cafes": []
+  },
+  "Bon Secour": {
+    "city": "Bon Secour",
+    "city_ascii": "Bon Secour",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.3222,
+    "lng": -87.7271,
+    "cafes": []
+  },
+  "Brighton": {
+    "city": "Brighton",
+    "city_ascii": "Brighton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4396,
+    "lng": -86.9454,
+    "cafes": []
+  },
+  "Underwood-Petersville": {
+    "city": "Underwood-Petersville",
+    "city_ascii": "Underwood-Petersville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.877,
+    "lng": -87.6975,
+    "cafes": []
+  },
+  "Dadeville": {
+    "city": "Dadeville",
+    "city_ascii": "Dadeville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8326,
+    "lng": -85.7675,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.6318,
+    "lng": -87.3172,
+    "cafes": []
+  },
+  "Huguley": {
+    "city": "Huguley",
+    "city_ascii": "Huguley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8431,
+    "lng": -85.2396,
+    "cafes": []
+  },
+  "Eagle Point": {
+    "city": "Eagle Point",
+    "city_ascii": "Eagle Point",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3937,
+    "lng": -86.6779,
+    "cafes": []
+  },
+  "Taylor": {
+    "city": "Taylor",
+    "city_ascii": "Taylor",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1658,
+    "lng": -85.4697,
+    "cafes": []
+  },
+  "New Hope": {
+    "city": "New Hope",
+    "city_ascii": "New Hope",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.537,
+    "lng": -86.4128,
+    "cafes": []
+  },
+  "Eutaw": {
+    "city": "Eutaw",
+    "city_ascii": "Eutaw",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8436,
+    "lng": -87.8986,
+    "cafes": []
+  },
+  "Brent": {
+    "city": "Brent",
+    "city_ascii": "Brent",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.9421,
+    "lng": -87.1753,
+    "cafes": []
+  },
+  "Cottondale": {
+    "city": "Cottondale",
+    "city_ascii": "Cottondale",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1923,
+    "lng": -87.4543,
+    "cafes": []
+  },
+  "York": {
+    "city": "York",
+    "city_ascii": "York",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4998,
+    "lng": -88.2938,
+    "cafes": []
+  },
+  "Centreville": {
+    "city": "Centreville",
+    "city_ascii": "Centreville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.9598,
+    "lng": -87.1334,
+    "cafes": []
+  },
+  "Ashville": {
+    "city": "Ashville",
+    "city_ascii": "Ashville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8331,
+    "lng": -86.2698,
+    "cafes": []
+  },
+  "Jemison": {
+    "city": "Jemison",
+    "city_ascii": "Jemison",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.9696,
+    "lng": -86.7339,
+    "cafes": []
+  },
+  "Luverne": {
+    "city": "Luverne",
+    "city_ascii": "Luverne",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7186,
+    "lng": -86.2687,
+    "cafes": []
+  },
+  "Owens Cross Roads": {
+    "city": "Owens Cross Roads",
+    "city_ascii": "Owens Cross Roads",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5845,
+    "lng": -86.4574,
+    "cafes": []
+  },
+  "Hartford": {
+    "city": "Hartford",
+    "city_ascii": "Hartford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1055,
+    "lng": -85.6916,
+    "cafes": []
+  },
+  "La Fayette": {
+    "city": "La Fayette",
+    "city_ascii": "La Fayette",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8997,
+    "lng": -85.4007,
+    "cafes": []
+  },
+  "Indian Springs Village": {
+    "city": "Indian Springs Village",
+    "city_ascii": "Indian Springs Village",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.359,
+    "lng": -86.7492,
+    "cafes": []
+  },
+  "Lineville": {
+    "city": "Lineville",
+    "city_ascii": "Lineville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3129,
+    "lng": -85.7508,
+    "cafes": []
+  },
+  "Deatsville": {
+    "city": "Deatsville",
+    "city_ascii": "Deatsville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.5864,
+    "lng": -86.3917,
+    "cafes": []
+  },
+  "Dora": {
+    "city": "Dora",
+    "city_ascii": "Dora",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7288,
+    "lng": -87.0842,
+    "cafes": []
+  },
+  "Stapleton": {
+    "city": "Stapleton",
+    "city_ascii": "Stapleton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.7395,
+    "lng": -87.7943,
+    "cafes": []
+  },
+  "Thorsby": {
+    "city": "Thorsby",
+    "city_ascii": "Thorsby",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.9169,
+    "lng": -86.7203,
+    "cafes": []
+  },
+  "Graysville": {
+    "city": "Graysville",
+    "city_ascii": "Graysville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6567,
+    "lng": -86.9665,
+    "cafes": []
+  },
+  "Henagar": {
+    "city": "Henagar",
+    "city_ascii": "Henagar",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6306,
+    "lng": -85.7413,
+    "cafes": []
+  },
+  "Butler": {
+    "city": "Butler",
+    "city_ascii": "Butler",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.0965,
+    "lng": -88.2108,
+    "cafes": []
+  },
+  "Morris": {
+    "city": "Morris",
+    "city_ascii": "Morris",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7464,
+    "lng": -86.8042,
+    "cafes": []
+  },
+  "Good Hope": {
+    "city": "Good Hope",
+    "city_ascii": "Good Hope",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1102,
+    "lng": -86.8662,
+    "cafes": []
+  },
+  "Trinity": {
+    "city": "Trinity",
+    "city_ascii": "Trinity",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6011,
+    "lng": -87.0816,
+    "cafes": []
+  },
+  "Sumiton": {
+    "city": "Sumiton",
+    "city_ascii": "Sumiton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7502,
+    "lng": -87.0483,
+    "cafes": []
+  },
+  "Creola": {
+    "city": "Creola",
+    "city_ascii": "Creola",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.8906,
+    "lng": -88.0132,
+    "cafes": []
+  },
+  "Brookwood": {
+    "city": "Brookwood",
+    "city_ascii": "Brookwood",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2398,
+    "lng": -87.3277,
+    "cafes": []
+  },
+  "Abbeville": {
+    "city": "Abbeville",
+    "city_ascii": "Abbeville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.5664,
+    "lng": -85.2528,
+    "cafes": []
+  },
+  "Guin": {
+    "city": "Guin",
+    "city_ascii": "Guin",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9832,
+    "lng": -87.9023,
+    "cafes": []
+  },
+  "Ashford": {
+    "city": "Ashford",
+    "city_ascii": "Ashford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1858,
+    "lng": -85.2359,
+    "cafes": []
+  },
+  "Lipscomb": {
+    "city": "Lipscomb",
+    "city_ascii": "Lipscomb",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.426,
+    "lng": -86.9261,
+    "cafes": []
+  },
+  "Greensboro": {
+    "city": "Greensboro",
+    "city_ascii": "Greensboro",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.7014,
+    "lng": -87.595,
+    "cafes": []
+  },
+  "Bridgeport": {
+    "city": "Bridgeport",
+    "city_ascii": "Bridgeport",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.9496,
+    "lng": -85.7243,
+    "cafes": []
+  },
+  "Remlap": {
+    "city": "Remlap",
+    "city_ascii": "Remlap",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8049,
+    "lng": -86.597,
+    "cafes": []
+  },
+  "Aliceville": {
+    "city": "Aliceville",
+    "city_ascii": "Aliceville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1237,
+    "lng": -88.1593,
+    "cafes": []
+  },
+  "Westover": {
+    "city": "Westover",
+    "city_ascii": "Westover",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3684,
+    "lng": -86.5346,
+    "cafes": []
+  },
+  "Crossville": {
+    "city": "Crossville",
+    "city_ascii": "Crossville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2852,
+    "lng": -85.9996,
+    "cafes": []
+  },
+  "Clayton": {
+    "city": "Clayton",
+    "city_ascii": "Clayton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.8823,
+    "lng": -85.4605,
+    "cafes": []
+  },
+  "Coaling": {
+    "city": "Coaling",
+    "city_ascii": "Coaling",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1641,
+    "lng": -87.3534,
+    "cafes": []
+  },
+  "Riverside": {
+    "city": "Riverside",
+    "city_ascii": "Riverside",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6171,
+    "lng": -86.2042,
+    "cafes": []
+  },
+  "Elberta": {
+    "city": "Elberta",
+    "city_ascii": "Elberta",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.3855,
+    "lng": -87.5888,
+    "cafes": []
+  },
+  "Cowarts": {
+    "city": "Cowarts",
+    "city_ascii": "Cowarts",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2034,
+    "lng": -85.3057,
+    "cafes": []
+  },
+  "Kinsey": {
+    "city": "Kinsey",
+    "city_ascii": "Kinsey",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2926,
+    "lng": -85.3353,
+    "cafes": []
+  },
+  "Brundidge": {
+    "city": "Brundidge",
+    "city_ascii": "Brundidge",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7182,
+    "lng": -85.8178,
+    "cafes": []
+  },
+  "Selmont-West Selmont": {
+    "city": "Selmont-West Selmont",
+    "city_ascii": "Selmont-West Selmont",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.3784,
+    "lng": -87.0074,
+    "cafes": []
+  },
+  "Whitesboro": {
+    "city": "Whitesboro",
+    "city_ascii": "Whitesboro",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1682,
+    "lng": -86.0572,
+    "cafes": []
+  },
+  "Wilsonville": {
+    "city": "Wilsonville",
+    "city_ascii": "Wilsonville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2346,
+    "lng": -86.4884,
+    "cafes": []
+  },
+  "Camden": {
+    "city": "Camden",
+    "city_ascii": "Camden",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.0007,
+    "lng": -87.2967,
+    "cafes": []
+  },
+  "Sylvania": {
+    "city": "Sylvania",
+    "city_ascii": "Sylvania",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5616,
+    "lng": -85.8056,
+    "cafes": []
+  },
+  "Slocomb": {
+    "city": "Slocomb",
+    "city_ascii": "Slocomb",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1103,
+    "lng": -85.5954,
+    "cafes": []
+  },
+  "Bayou La Batre": {
+    "city": "Bayou La Batre",
+    "city_ascii": "Bayou La Batre",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.4126,
+    "lng": -88.2611,
+    "cafes": []
+  },
+  "Stevenson": {
+    "city": "Stevenson",
+    "city_ascii": "Stevenson",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.8487,
+    "lng": -85.8437,
+    "cafes": []
+  },
+  "Dauphin Island": {
+    "city": "Dauphin Island",
+    "city_ascii": "Dauphin Island",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.2525,
+    "lng": -88.1438,
+    "cafes": []
+  },
+  "Grove Hill": {
+    "city": "Grove Hill",
+    "city_ascii": "Grove Hill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7006,
+    "lng": -87.7748,
+    "cafes": []
+  },
+  "Lillian": {
+    "city": "Lillian",
+    "city_ascii": "Lillian",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.4122,
+    "lng": -87.432,
+    "cafes": []
+  },
+  "Linden": {
+    "city": "Linden",
+    "city_ascii": "Linden",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.3001,
+    "lng": -87.7926,
+    "cafes": []
+  },
+  "Concord": {
+    "city": "Concord",
+    "city_ascii": "Concord",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4674,
+    "lng": -87.0392,
+    "cafes": []
+  },
+  "Vincent": {
+    "city": "Vincent",
+    "city_ascii": "Vincent",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3849,
+    "lng": -86.4087,
+    "cafes": []
+  },
+  "Point Clear": {
+    "city": "Point Clear",
+    "city_ascii": "Point Clear",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.4898,
+    "lng": -87.9112,
+    "cafes": []
+  },
+  "Florala": {
+    "city": "Florala",
+    "city_ascii": "Florala",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0176,
+    "lng": -86.3138,
+    "cafes": []
+  },
+  "Malvern": {
+    "city": "Malvern",
+    "city_ascii": "Malvern",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1428,
+    "lng": -85.521,
+    "cafes": []
+  },
+  "Collinsville": {
+    "city": "Collinsville",
+    "city_ascii": "Collinsville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2664,
+    "lng": -85.8679,
+    "cafes": []
+  },
+  "Vance": {
+    "city": "Vance",
+    "city_ascii": "Vance",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1746,
+    "lng": -87.2314,
+    "cafes": []
+  },
+  "Vernon": {
+    "city": "Vernon",
+    "city_ascii": "Vernon",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7588,
+    "lng": -88.1143,
+    "cafes": []
+  },
+  "Sardis City": {
+    "city": "Sardis City",
+    "city_ascii": "Sardis City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1749,
+    "lng": -86.1125,
+    "cafes": []
+  },
+  "Midland City": {
+    "city": "Midland City",
+    "city_ascii": "Midland City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3157,
+    "lng": -85.4937,
+    "cafes": []
+  },
+  "Carlisle-Rockledge": {
+    "city": "Carlisle-Rockledge",
+    "city_ascii": "Carlisle-Rockledge",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.114,
+    "lng": -86.1191,
+    "cafes": []
+  },
+  "Ashland": {
+    "city": "Ashland",
+    "city_ascii": "Ashland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2703,
+    "lng": -85.8337,
+    "cafes": []
+  },
+  "Blountsville": {
+    "city": "Blountsville",
+    "city_ascii": "Blountsville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0814,
+    "lng": -86.5867,
+    "cafes": []
+  },
+  "Cordova": {
+    "city": "Cordova",
+    "city_ascii": "Cordova",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7613,
+    "lng": -87.1926,
+    "cafes": []
+  },
+  "Munford": {
+    "city": "Munford",
+    "city_ascii": "Munford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5258,
+    "lng": -85.9555,
+    "cafes": []
+  },
+  "Flomaton": {
+    "city": "Flomaton",
+    "city_ascii": "Flomaton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0127,
+    "lng": -87.2541,
+    "cafes": []
+  },
+  "Frisco City": {
+    "city": "Frisco City",
+    "city_ascii": "Frisco City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4353,
+    "lng": -87.4037,
+    "cafes": []
+  },
+  "Uniontown": {
+    "city": "Uniontown",
+    "city_ascii": "Uniontown",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.449,
+    "lng": -87.4958,
+    "cafes": []
+  },
+  "Harpersville": {
+    "city": "Harpersville",
+    "city_ascii": "Harpersville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3184,
+    "lng": -86.4286,
+    "cafes": []
+  },
+  "Rehobeth": {
+    "city": "Rehobeth",
+    "city_ascii": "Rehobeth",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1242,
+    "lng": -85.4383,
+    "cafes": []
+  },
+  "Hackleburg": {
+    "city": "Hackleburg",
+    "city_ascii": "Hackleburg",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2693,
+    "lng": -87.8303,
+    "cafes": []
+  },
+  "Reform": {
+    "city": "Reform",
+    "city_ascii": "Reform",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3788,
+    "lng": -88.0173,
+    "cafes": []
+  },
+  "Cedar Bluff": {
+    "city": "Cedar Bluff",
+    "city_ascii": "Cedar Bluff",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2217,
+    "lng": -85.5882,
+    "cafes": []
+  },
+  "Marbury": {
+    "city": "Marbury",
+    "city_ascii": "Marbury",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.6793,
+    "lng": -86.4608,
+    "cafes": []
+  },
+  "Level Plains": {
+    "city": "Level Plains",
+    "city_ascii": "Level Plains",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3071,
+    "lng": -85.7687,
+    "cafes": []
+  },
+  "Ragland": {
+    "city": "Ragland",
+    "city_ascii": "Ragland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7469,
+    "lng": -86.1384,
+    "cafes": []
+  },
+  "Summerdale": {
+    "city": "Summerdale",
+    "city_ascii": "Summerdale",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.4783,
+    "lng": -87.6904,
+    "cafes": []
+  },
+  "Fort Deposit": {
+    "city": "Fort Deposit",
+    "city_ascii": "Fort Deposit",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.9863,
+    "lng": -86.5664,
+    "cafes": []
+  },
+  "Sylvan Springs": {
+    "city": "Sylvan Springs",
+    "city_ascii": "Sylvan Springs",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5302,
+    "lng": -87.0312,
+    "cafes": []
+  },
+  "Stewartville": {
+    "city": "Stewartville",
+    "city_ascii": "Stewartville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0725,
+    "lng": -86.2658,
+    "cafes": []
+  },
+  "Snead": {
+    "city": "Snead",
+    "city_ascii": "Snead",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1162,
+    "lng": -86.3902,
+    "cafes": []
+  },
+  "Elmore": {
+    "city": "Elmore",
+    "city_ascii": "Elmore",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.5552,
+    "lng": -86.3425,
+    "cafes": []
+  },
+  "Samson": {
+    "city": "Samson",
+    "city_ascii": "Samson",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1124,
+    "lng": -86.0462,
+    "cafes": []
+  },
+  "Smoke Rise": {
+    "city": "Smoke Rise",
+    "city_ascii": "Smoke Rise",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8789,
+    "lng": -86.824,
+    "cafes": []
+  },
+  "Falkville": {
+    "city": "Falkville",
+    "city_ascii": "Falkville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.3793,
+    "lng": -86.9086,
+    "cafes": []
+  },
+  "Hayden": {
+    "city": "Hayden",
+    "city_ascii": "Hayden",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8818,
+    "lng": -86.7842,
+    "cafes": []
+  },
+  "Ardmore": {
+    "city": "Ardmore",
+    "city_ascii": "Ardmore",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.9847,
+    "lng": -86.8373,
+    "cafes": []
+  },
+  "Sulligent": {
+    "city": "Sulligent",
+    "city_ascii": "Sulligent",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8912,
+    "lng": -88.1266,
+    "cafes": []
+  },
+  "New Brockton": {
+    "city": "New Brockton",
+    "city_ascii": "New Brockton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3785,
+    "lng": -85.9228,
+    "cafes": []
+  },
+  "Carbon Hill": {
+    "city": "Carbon Hill",
+    "city_ascii": "Carbon Hill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8944,
+    "lng": -87.5224,
+    "cafes": []
+  },
+  "Gordo": {
+    "city": "Gordo",
+    "city_ascii": "Gordo",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3221,
+    "lng": -87.904,
+    "cafes": []
+  },
+  "Georgiana": {
+    "city": "Georgiana",
+    "city_ascii": "Georgiana",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.6391,
+    "lng": -86.7468,
+    "cafes": []
+  },
+  "Newton": {
+    "city": "Newton",
+    "city_ascii": "Newton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3423,
+    "lng": -85.5893,
+    "cafes": []
+  },
+  "Killen": {
+    "city": "Killen",
+    "city_ascii": "Killen",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.8607,
+    "lng": -87.5268,
+    "cafes": []
+  },
+  "Coats Bend": {
+    "city": "Coats Bend",
+    "city_ascii": "Coats Bend",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0774,
+    "lng": -85.8742,
+    "cafes": []
+  },
+  "Millport": {
+    "city": "Millport",
+    "city_ascii": "Millport",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5586,
+    "lng": -88.0817,
+    "cafes": []
+  },
+  "Grant": {
+    "city": "Grant",
+    "city_ascii": "Grant",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.519,
+    "lng": -86.2492,
+    "cafes": []
+  },
+  "Webb": {
+    "city": "Webb",
+    "city_ascii": "Webb",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2572,
+    "lng": -85.2896,
+    "cafes": []
+  },
+  "Clio": {
+    "city": "Clio",
+    "city_ascii": "Clio",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7085,
+    "lng": -85.6109,
+    "cafes": []
+  },
+  "Blue Ridge": {
+    "city": "Blue Ridge",
+    "city_ascii": "Blue Ridge",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.501,
+    "lng": -86.1839,
+    "cafes": []
+  },
+  "Goodwater": {
+    "city": "Goodwater",
+    "city_ascii": "Goodwater",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0608,
+    "lng": -86.0516,
+    "cafes": []
+  },
+  "Shoal Creek": {
+    "city": "Shoal Creek",
+    "city_ascii": "Shoal Creek",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4328,
+    "lng": -86.6071,
+    "cafes": []
+  },
+  "Cleveland": {
+    "city": "Cleveland",
+    "city_ascii": "Cleveland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9964,
+    "lng": -86.5671,
+    "cafes": []
+  },
+  "Geraldine": {
+    "city": "Geraldine",
+    "city_ascii": "Geraldine",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.3579,
+    "lng": -86.0037,
+    "cafes": []
+  },
+  "Mount Vernon": {
+    "city": "Mount Vernon",
+    "city_ascii": "Mount Vernon",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0889,
+    "lng": -88.0137,
+    "cafes": []
+  },
+  "Susan Moore": {
+    "city": "Susan Moore",
+    "city_ascii": "Susan Moore",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0804,
+    "lng": -86.4228,
+    "cafes": []
+  },
+  "West Blocton": {
+    "city": "West Blocton",
+    "city_ascii": "West Blocton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1186,
+    "lng": -87.1253,
+    "cafes": []
+  },
+  "Bear Creek": {
+    "city": "Bear Creek",
+    "city_ascii": "Bear Creek",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2651,
+    "lng": -87.7164,
+    "cafes": []
+  },
+  "Rock Creek": {
+    "city": "Rock Creek",
+    "city_ascii": "Rock Creek",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4772,
+    "lng": -87.0812,
+    "cafes": []
+  },
+  "Locust Fork": {
+    "city": "Locust Fork",
+    "city_ascii": "Locust Fork",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8957,
+    "lng": -86.6302,
+    "cafes": []
+  },
+  "New Market": {
+    "city": "New Market",
+    "city_ascii": "New Market",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.8892,
+    "lng": -86.4226,
+    "cafes": []
+  },
+  "Steele": {
+    "city": "Steele",
+    "city_ascii": "Steele",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.937,
+    "lng": -86.2004,
+    "cafes": []
+  },
+  "Woodstock": {
+    "city": "Woodstock",
+    "city_ascii": "Woodstock",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2193,
+    "lng": -87.149,
+    "cafes": []
+  },
+  "Magnolia Springs": {
+    "city": "Magnolia Springs",
+    "city_ascii": "Magnolia Springs",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.4003,
+    "lng": -87.7749,
+    "cafes": []
+  },
+  "Rogersville": {
+    "city": "Rogersville",
+    "city_ascii": "Rogersville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.8251,
+    "lng": -87.2821,
+    "cafes": []
+  },
+  "Fyffe": {
+    "city": "Fyffe",
+    "city_ascii": "Fyffe",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.449,
+    "lng": -85.9052,
+    "cafes": []
+  },
+  "Gallant": {
+    "city": "Gallant",
+    "city_ascii": "Gallant",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0013,
+    "lng": -86.2304,
+    "cafes": []
+  },
+  "Altoona": {
+    "city": "Altoona",
+    "city_ascii": "Altoona",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0308,
+    "lng": -86.3179,
+    "cafes": []
+  },
+  "Eclectic": {
+    "city": "Eclectic",
+    "city_ascii": "Eclectic",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.6387,
+    "lng": -86.0387,
+    "cafes": []
+  },
+  "Brookside": {
+    "city": "Brookside",
+    "city_ascii": "Brookside",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6372,
+    "lng": -86.9002,
+    "cafes": []
+  },
+  "Double Springs": {
+    "city": "Double Springs",
+    "city_ascii": "Double Springs",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1502,
+    "lng": -87.391,
+    "cafes": []
+  },
+  "Douglas": {
+    "city": "Douglas",
+    "city_ascii": "Douglas",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1705,
+    "lng": -86.3224,
+    "cafes": []
+  },
+  "Coker": {
+    "city": "Coker",
+    "city_ascii": "Coker",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2446,
+    "lng": -87.68,
+    "cafes": []
+  },
+  "Ballplay": {
+    "city": "Ballplay",
+    "city_ascii": "Ballplay",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0179,
+    "lng": -85.7852,
+    "cafes": []
+  },
+  "Fayetteville": {
+    "city": "Fayetteville",
+    "city_ascii": "Fayetteville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1643,
+    "lng": -86.4412,
+    "cafes": []
+  },
+  "Autaugaville": {
+    "city": "Autaugaville",
+    "city_ascii": "Autaugaville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.432,
+    "lng": -86.6578,
+    "cafes": []
+  },
+  "Camp Hill": {
+    "city": "Camp Hill",
+    "city_ascii": "Camp Hill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8002,
+    "lng": -85.6536,
+    "cafes": []
+  },
+  "Parrish": {
+    "city": "Parrish",
+    "city_ascii": "Parrish",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7323,
+    "lng": -87.2802,
+    "cafes": []
+  },
+  "Cottonwood": {
+    "city": "Cottonwood",
+    "city_ascii": "Cottonwood",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0552,
+    "lng": -85.3008,
+    "cafes": []
+  },
+  "Tidmore Bend": {
+    "city": "Tidmore Bend",
+    "city_ascii": "Tidmore Bend",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0324,
+    "lng": -85.9253,
+    "cafes": []
+  },
+  "Brilliant": {
+    "city": "Brilliant",
+    "city_ascii": "Brilliant",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0256,
+    "lng": -87.7691,
+    "cafes": []
+  },
+  "Lookout Mountain": {
+    "city": "Lookout Mountain",
+    "city_ascii": "Lookout Mountain",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1091,
+    "lng": -85.9585,
+    "cafes": []
+  },
+  "Notasulga": {
+    "city": "Notasulga",
+    "city_ascii": "Notasulga",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.5573,
+    "lng": -85.6692,
+    "cafes": []
+  },
+  "Berry": {
+    "city": "Berry",
+    "city_ascii": "Berry",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6623,
+    "lng": -87.6079,
+    "cafes": []
+  },
+  "Coosada": {
+    "city": "Coosada",
+    "city_ascii": "Coosada",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4984,
+    "lng": -86.3279,
+    "cafes": []
+  },
+  "Cherokee": {
+    "city": "Cherokee",
+    "city_ascii": "Cherokee",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.7577,
+    "lng": -87.967,
+    "cafes": []
+  },
+  "Ohatchee": {
+    "city": "Ohatchee",
+    "city_ascii": "Ohatchee",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7877,
+    "lng": -86.0281,
+    "cafes": []
+  },
+  "Egypt": {
+    "city": "Egypt",
+    "city_ascii": "Egypt",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.076,
+    "lng": -86.1651,
+    "cafes": []
+  },
+  "Leroy": {
+    "city": "Leroy",
+    "city_ascii": "Leroy",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4952,
+    "lng": -87.969,
+    "cafes": []
+  },
+  "Town Creek": {
+    "city": "Town Creek",
+    "city_ascii": "Town Creek",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6718,
+    "lng": -87.4063,
+    "cafes": []
+  },
+  "Woodville": {
+    "city": "Woodville",
+    "city_ascii": "Woodville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6256,
+    "lng": -86.2792,
+    "cafes": []
+  },
+  "Skyline": {
+    "city": "Skyline",
+    "city_ascii": "Skyline",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.7986,
+    "lng": -86.1228,
+    "cafes": []
+  },
+  "Dunnavant": {
+    "city": "Dunnavant",
+    "city_ascii": "Dunnavant",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4977,
+    "lng": -86.5421,
+    "cafes": []
+  },
+  "Pisgah": {
+    "city": "Pisgah",
+    "city_ascii": "Pisgah",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6844,
+    "lng": -85.846,
+    "cafes": []
+  },
+  "Section": {
+    "city": "Section",
+    "city_ascii": "Section",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5816,
+    "lng": -85.9849,
+    "cafes": []
+  },
+  "Baileyton": {
+    "city": "Baileyton",
+    "city_ascii": "Baileyton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2609,
+    "lng": -86.6083,
+    "cafes": []
+  },
+  "Redstone Arsenal": {
+    "city": "Redstone Arsenal",
+    "city_ascii": "Redstone Arsenal",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6645,
+    "lng": -86.653,
+    "cafes": []
+  },
+  "Hobson City": {
+    "city": "Hobson City",
+    "city_ascii": "Hobson City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6148,
+    "lng": -85.8561,
+    "cafes": []
+  },
+  "Hollywood": {
+    "city": "Hollywood",
+    "city_ascii": "Hollywood",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.7195,
+    "lng": -85.9641,
+    "cafes": []
+  },
+  "Silverhill": {
+    "city": "Silverhill",
+    "city_ascii": "Silverhill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.5455,
+    "lng": -87.7506,
+    "cafes": []
+  },
+  "New Union": {
+    "city": "New Union",
+    "city_ascii": "New Union",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1422,
+    "lng": -86.2218,
+    "cafes": []
+  },
+  "Brantley": {
+    "city": "Brantley",
+    "city_ascii": "Brantley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.5823,
+    "lng": -86.2569,
+    "cafes": []
+  },
+  "Powell": {
+    "city": "Powell",
+    "city_ascii": "Powell",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5326,
+    "lng": -85.8975,
+    "cafes": []
+  },
+  "Minor": {
+    "city": "Minor",
+    "city_ascii": "Minor",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.539,
+    "lng": -86.9401,
+    "cafes": []
+  },
+  "Oak Grove": {
+    "city": "Oak Grove",
+    "city_ascii": "Oak Grove",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1927,
+    "lng": -86.304,
+    "cafes": []
+  },
+  "Wedowee": {
+    "city": "Wedowee",
+    "city_ascii": "Wedowee",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3078,
+    "lng": -85.4864,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4513,
+    "lng": -85.7864,
+    "cafes": []
+  },
+  "Sterrett": {
+    "city": "Sterrett",
+    "city_ascii": "Sterrett",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.449,
+    "lng": -86.4645,
+    "cafes": []
+  },
+  "White Plains": {
+    "city": "White Plains",
+    "city_ascii": "White Plains",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7603,
+    "lng": -85.688,
+    "cafes": []
+  },
+  "Hayneville": {
+    "city": "Hayneville",
+    "city_ascii": "Hayneville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.1822,
+    "lng": -86.5787,
+    "cafes": []
+  },
+  "Vandiver": {
+    "city": "Vandiver",
+    "city_ascii": "Vandiver",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4601,
+    "lng": -86.5247,
+    "cafes": []
+  },
+  "Oakman": {
+    "city": "Oakman",
+    "city_ascii": "Oakman",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7141,
+    "lng": -87.389,
+    "cafes": []
+  },
+  "South Vinemont": {
+    "city": "South Vinemont",
+    "city_ascii": "South Vinemont",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2349,
+    "lng": -86.8642,
+    "cafes": []
+  },
+  "Walnut Grove": {
+    "city": "Walnut Grove",
+    "city_ascii": "Walnut Grove",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0641,
+    "lng": -86.2863,
+    "cafes": []
+  },
+  "Ider": {
+    "city": "Ider",
+    "city_ascii": "Ider",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.7026,
+    "lng": -85.669,
+    "cafes": []
+  },
+  "Littleville": {
+    "city": "Littleville",
+    "city_ascii": "Littleville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.595,
+    "lng": -87.6719,
+    "cafes": []
+  },
+  "Mosses": {
+    "city": "Mosses",
+    "city_ascii": "Mosses",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.1802,
+    "lng": -86.6888,
+    "cafes": []
+  },
+  "Pine Hill": {
+    "city": "Pine Hill",
+    "city_ascii": "Pine Hill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.9859,
+    "lng": -87.5872,
+    "cafes": []
+  },
+  "Belle Fontaine": {
+    "city": "Belle Fontaine",
+    "city_ascii": "Belle Fontaine",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.492,
+    "lng": -88.1131,
+    "cafes": []
+  },
+  "Wadley": {
+    "city": "Wadley",
+    "city_ascii": "Wadley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1239,
+    "lng": -85.5683,
+    "cafes": []
+  },
+  "Phil Campbell": {
+    "city": "Phil Campbell",
+    "city_ascii": "Phil Campbell",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.3519,
+    "lng": -87.7072,
+    "cafes": []
+  },
+  "Valley Head": {
+    "city": "Valley Head",
+    "city_ascii": "Valley Head",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5558,
+    "lng": -85.6224,
+    "cafes": []
+  },
+  "Lynn": {
+    "city": "Lynn",
+    "city_ascii": "Lynn",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0548,
+    "lng": -87.5555,
+    "cafes": []
+  },
+  "Mignon": {
+    "city": "Mignon",
+    "city_ascii": "Mignon",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1948,
+    "lng": -86.265,
+    "cafes": []
+  },
+  "Holly Pond": {
+    "city": "Holly Pond",
+    "city_ascii": "Holly Pond",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1696,
+    "lng": -86.6125,
+    "cafes": []
+  },
+  "Sand Rock": {
+    "city": "Sand Rock",
+    "city_ascii": "Sand Rock",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2312,
+    "lng": -85.7704,
+    "cafes": []
+  },
+  "Leesburg": {
+    "city": "Leesburg",
+    "city_ascii": "Leesburg",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1839,
+    "lng": -85.775,
+    "cafes": []
+  },
+  "Maplesville": {
+    "city": "Maplesville",
+    "city_ascii": "Maplesville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.7867,
+    "lng": -86.8783,
+    "cafes": []
+  },
+  "Pea Ridge": {
+    "city": "Pea Ridge",
+    "city_ascii": "Pea Ridge",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1454,
+    "lng": -86.9372,
+    "cafes": []
+  },
+  "Reece City": {
+    "city": "Reece City",
+    "city_ascii": "Reece City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0772,
+    "lng": -86.0345,
+    "cafes": []
+  },
+  "Allgood": {
+    "city": "Allgood",
+    "city_ascii": "Allgood",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9064,
+    "lng": -86.5178,
+    "cafes": []
+  },
+  "Courtland": {
+    "city": "Courtland",
+    "city_ascii": "Courtland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6703,
+    "lng": -87.326,
+    "cafes": []
+  },
+  "Rockford": {
+    "city": "Rockford",
+    "city_ascii": "Rockford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8895,
+    "lng": -86.215,
+    "cafes": []
+  },
+  "Pickensville": {
+    "city": "Pickensville",
+    "city_ascii": "Pickensville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2336,
+    "lng": -88.2744,
+    "cafes": []
+  },
+  "Gilbertown": {
+    "city": "Gilbertown",
+    "city_ascii": "Gilbertown",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.8663,
+    "lng": -88.3075,
+    "cafes": []
+  },
+  "Columbia": {
+    "city": "Columbia",
+    "city_ascii": "Columbia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2968,
+    "lng": -85.1103,
+    "cafes": []
+  },
+  "Kinston": {
+    "city": "Kinston",
+    "city_ascii": "Kinston",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.22,
+    "lng": -86.1705,
+    "cafes": []
+  },
+  "Rosa": {
+    "city": "Rosa",
+    "city_ascii": "Rosa",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9899,
+    "lng": -86.5045,
+    "cafes": []
+  },
+  "New Site": {
+    "city": "New Site",
+    "city_ascii": "New Site",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0282,
+    "lng": -85.7801,
+    "cafes": []
+  },
+  "St. Florian": {
+    "city": "St. Florian",
+    "city_ascii": "St. Florian",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.8739,
+    "lng": -87.6241,
+    "cafes": []
+  },
+  "McKenzie": {
+    "city": "McKenzie",
+    "city_ascii": "McKenzie",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.5429,
+    "lng": -86.7246,
+    "cafes": []
+  },
+  "Hollis Crossroads": {
+    "city": "Hollis Crossroads",
+    "city_ascii": "Hollis Crossroads",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5231,
+    "lng": -85.6437,
+    "cafes": []
+  },
+  "Brantleyville": {
+    "city": "Brantleyville",
+    "city_ascii": "Brantleyville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2196,
+    "lng": -86.882,
+    "cafes": []
+  },
+  "Forkland": {
+    "city": "Forkland",
+    "city_ascii": "Forkland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.6489,
+    "lng": -87.8671,
+    "cafes": []
+  },
+  "Leighton": {
+    "city": "Leighton",
+    "city_ascii": "Leighton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6941,
+    "lng": -87.5282,
+    "cafes": []
+  },
+  "Ariton": {
+    "city": "Ariton",
+    "city_ascii": "Ariton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.5978,
+    "lng": -85.7131,
+    "cafes": []
+  },
+  "McDonald Chapel": {
+    "city": "McDonald Chapel",
+    "city_ascii": "McDonald Chapel",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.519,
+    "lng": -86.9385,
+    "cafes": []
+  },
+  "Edgewater": {
+    "city": "Edgewater",
+    "city_ascii": "Edgewater",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5287,
+    "lng": -86.9572,
+    "cafes": []
+  },
+  "Eva": {
+    "city": "Eva",
+    "city_ascii": "Eva",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.3272,
+    "lng": -86.7614,
+    "cafes": []
+  },
+  "Somerville": {
+    "city": "Somerville",
+    "city_ascii": "Somerville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.4679,
+    "lng": -86.7909,
+    "cafes": []
+  },
+  "Wilton": {
+    "city": "Wilton",
+    "city_ascii": "Wilton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0813,
+    "lng": -86.8799,
+    "cafes": []
+  },
+  "Shelby": {
+    "city": "Shelby",
+    "city_ascii": "Shelby",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1068,
+    "lng": -86.5825,
+    "cafes": []
+  },
+  "Reeltown": {
+    "city": "Reeltown",
+    "city_ascii": "Reeltown",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.5788,
+    "lng": -85.8189,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2501,
+    "lng": -86.6846,
+    "cafes": []
+  },
+  "Pinckard": {
+    "city": "Pinckard",
+    "city_ascii": "Pinckard",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3173,
+    "lng": -85.543,
+    "cafes": []
+  },
+  "Chatom": {
+    "city": "Chatom",
+    "city_ascii": "Chatom",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4691,
+    "lng": -88.246,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.9652,
+    "lng": -87.3735,
+    "cafes": []
+  },
+  "Addison": {
+    "city": "Addison",
+    "city_ascii": "Addison",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2017,
+    "lng": -87.1765,
+    "cafes": []
+  },
+  "White Hall": {
+    "city": "White Hall",
+    "city_ascii": "White Hall",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.2993,
+    "lng": -86.7148,
+    "cafes": []
+  },
+  "Ivalee": {
+    "city": "Ivalee",
+    "city_ascii": "Ivalee",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0372,
+    "lng": -86.1472,
+    "cafes": []
+  },
+  "Midway": {
+    "city": "Midway",
+    "city_ascii": "Midway",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.0764,
+    "lng": -85.5244,
+    "cafes": []
+  },
+  "Louisville": {
+    "city": "Louisville",
+    "city_ascii": "Louisville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.781,
+    "lng": -85.5583,
+    "cafes": []
+  },
+  "Woodland": {
+    "city": "Woodland",
+    "city_ascii": "Woodland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3756,
+    "lng": -85.3974,
+    "cafes": []
+  },
+  "Hollins": {
+    "city": "Hollins",
+    "city_ascii": "Hollins",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1214,
+    "lng": -86.129,
+    "cafes": []
+  },
+  "Our Town": {
+    "city": "Our Town",
+    "city_ascii": "Our Town",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8304,
+    "lng": -85.9687,
+    "cafes": []
+  },
+  "Perdido Beach": {
+    "city": "Perdido Beach",
+    "city_ascii": "Perdido Beach",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.3554,
+    "lng": -87.5036,
+    "cafes": []
+  },
+  "Berlin": {
+    "city": "Berlin",
+    "city_ascii": "Berlin",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1862,
+    "lng": -86.7473,
+    "cafes": []
+  },
+  "Mulga": {
+    "city": "Mulga",
+    "city_ascii": "Mulga",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5521,
+    "lng": -86.973,
+    "cafes": []
+  },
+  "Newville": {
+    "city": "Newville",
+    "city_ascii": "Newville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4206,
+    "lng": -85.3367,
+    "cafes": []
+  },
+  "Garden City": {
+    "city": "Garden City",
+    "city_ascii": "Garden City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.015,
+    "lng": -86.7493,
+    "cafes": []
+  },
+  "Hytop": {
+    "city": "Hytop",
+    "city_ascii": "Hytop",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.8965,
+    "lng": -86.088,
+    "cafes": []
+  },
+  "Hurtsboro": {
+    "city": "Hurtsboro",
+    "city_ascii": "Hurtsboro",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.2401,
+    "lng": -85.4147,
+    "cafes": []
+  },
+  "West Point": {
+    "city": "West Point",
+    "city_ascii": "West Point",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2394,
+    "lng": -86.963,
+    "cafes": []
+  },
+  "Trafford": {
+    "city": "Trafford",
+    "city_ascii": "Trafford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8187,
+    "lng": -86.7465,
+    "cafes": []
+  },
+  "Red Level": {
+    "city": "Red Level",
+    "city_ascii": "Red Level",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4055,
+    "lng": -86.6084,
+    "cafes": []
+  },
+  "Babbie": {
+    "city": "Babbie",
+    "city_ascii": "Babbie",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3022,
+    "lng": -86.3229,
+    "cafes": []
+  },
+  "Jacksons' Gap": {
+    "city": "Jacksons' Gap",
+    "city_ascii": "Jacksons' Gap",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8831,
+    "lng": -85.8151,
+    "cafes": []
+  },
+  "Dodge City": {
+    "city": "Dodge City",
+    "city_ascii": "Dodge City",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0445,
+    "lng": -86.8853,
+    "cafes": []
+  },
+  "Millry": {
+    "city": "Millry",
+    "city_ascii": "Millry",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.6256,
+    "lng": -88.319,
+    "cafes": []
+  },
+  "Pine Ridge": {
+    "city": "Pine Ridge",
+    "city_ascii": "Pine Ridge",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.4487,
+    "lng": -85.7806,
+    "cafes": []
+  },
+  "Gurley": {
+    "city": "Gurley",
+    "city_ascii": "Gurley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.7072,
+    "lng": -86.3768,
+    "cafes": []
+  },
+  "Pennington": {
+    "city": "Pennington",
+    "city_ascii": "Pennington",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.201,
+    "lng": -88.0378,
+    "cafes": []
+  },
+  "River Falls": {
+    "city": "River Falls",
+    "city_ascii": "River Falls",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3525,
+    "lng": -86.5412,
+    "cafes": []
+  },
+  "Fruithurst": {
+    "city": "Fruithurst",
+    "city_ascii": "Fruithurst",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.7295,
+    "lng": -85.4313,
+    "cafes": []
+  },
+  "West Jefferson": {
+    "city": "West Jefferson",
+    "city_ascii": "West Jefferson",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6526,
+    "lng": -87.0562,
+    "cafes": []
+  },
+  "Ranburne": {
+    "city": "Ranburne",
+    "city_ascii": "Ranburne",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5259,
+    "lng": -85.339,
+    "cafes": []
+  },
+  "Hackneyville": {
+    "city": "Hackneyville",
+    "city_ascii": "Hackneyville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0567,
+    "lng": -85.9312,
+    "cafes": []
+  },
+  "Arley": {
+    "city": "Arley",
+    "city_ascii": "Arley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0885,
+    "lng": -87.2075,
+    "cafes": []
+  },
+  "Highland Lake": {
+    "city": "Highland Lake",
+    "city_ascii": "Highland Lake",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8876,
+    "lng": -86.4244,
+    "cafes": []
+  },
+  "Grimes": {
+    "city": "Grimes",
+    "city_ascii": "Grimes",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2999,
+    "lng": -85.4503,
+    "cafes": []
+  },
+  "Perdido": {
+    "city": "Perdido",
+    "city_ascii": "Perdido",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0034,
+    "lng": -87.6323,
+    "cafes": []
+  },
+  "Napier Field": {
+    "city": "Napier Field",
+    "city_ascii": "Napier Field",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3147,
+    "lng": -85.455,
+    "cafes": []
+  },
+  "Silas": {
+    "city": "Silas",
+    "city_ascii": "Silas",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7678,
+    "lng": -88.3258,
+    "cafes": []
+  },
+  "Kennedy": {
+    "city": "Kennedy",
+    "city_ascii": "Kennedy",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.581,
+    "lng": -87.9859,
+    "cafes": []
+  },
+  "Excel": {
+    "city": "Excel",
+    "city_ascii": "Excel",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4264,
+    "lng": -87.3433,
+    "cafes": []
+  },
+  "Clayhatchee": {
+    "city": "Clayhatchee",
+    "city_ascii": "Clayhatchee",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2434,
+    "lng": -85.7136,
+    "cafes": []
+  },
+  "Pleasant Groves": {
+    "city": "Pleasant Groves",
+    "city_ascii": "Pleasant Groves",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.735,
+    "lng": -86.2054,
+    "cafes": []
+  },
+  "Lisman": {
+    "city": "Lisman",
+    "city_ascii": "Lisman",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.1792,
+    "lng": -88.3002,
+    "cafes": []
+  },
+  "Ray": {
+    "city": "Ray",
+    "city_ascii": "Ray",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8795,
+    "lng": -86.0388,
+    "cafes": []
+  },
+  "Hillsboro": {
+    "city": "Hillsboro",
+    "city_ascii": "Hillsboro",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6407,
+    "lng": -87.1838,
+    "cafes": []
+  },
+  "Nectar": {
+    "city": "Nectar",
+    "city_ascii": "Nectar",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9686,
+    "lng": -86.6346,
+    "cafes": []
+  },
+  "Black": {
+    "city": "Black",
+    "city_ascii": "Black",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0099,
+    "lng": -85.744,
+    "cafes": []
+  },
+  "Shiloh": {
+    "city": "Shiloh",
+    "city_ascii": "Shiloh",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.4604,
+    "lng": -85.8767,
+    "cafes": []
+  },
+  "Nances Creek": {
+    "city": "Nances Creek",
+    "city_ascii": "Nances Creek",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8588,
+    "lng": -85.6733,
+    "cafes": []
+  },
+  "East Point": {
+    "city": "East Point",
+    "city_ascii": "East Point",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1857,
+    "lng": -86.7928,
+    "cafes": []
+  },
+  "Rock Mills": {
+    "city": "Rock Mills",
+    "city_ascii": "Rock Mills",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1563,
+    "lng": -85.2862,
+    "cafes": []
+  },
+  "Thomaston": {
+    "city": "Thomaston",
+    "city_ascii": "Thomaston",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.2683,
+    "lng": -87.6237,
+    "cafes": []
+  },
+  "Joppa": {
+    "city": "Joppa",
+    "city_ascii": "Joppa",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2982,
+    "lng": -86.5506,
+    "cafes": []
+  },
+  "Fulton": {
+    "city": "Fulton",
+    "city_ascii": "Fulton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7916,
+    "lng": -87.7396,
+    "cafes": []
+  },
+  "Nixburg": {
+    "city": "Nixburg",
+    "city_ascii": "Nixburg",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.864,
+    "lng": -86.0976,
+    "cafes": []
+  },
+  "Dozier": {
+    "city": "Dozier",
+    "city_ascii": "Dozier",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.5031,
+    "lng": -86.3694,
+    "cafes": []
+  },
+  "Dutton": {
+    "city": "Dutton",
+    "city_ascii": "Dutton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6062,
+    "lng": -85.9119,
+    "cafes": []
+  },
+  "Glen Allen": {
+    "city": "Glen Allen",
+    "city_ascii": "Glen Allen",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8922,
+    "lng": -87.7329,
+    "cafes": []
+  },
+  "North Courtland": {
+    "city": "North Courtland",
+    "city_ascii": "North Courtland",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6788,
+    "lng": -87.3083,
+    "cafes": []
+  },
+  "Stockton": {
+    "city": "Stockton",
+    "city_ascii": "Stockton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.9946,
+    "lng": -87.86,
+    "cafes": []
+  },
+  "Millerville": {
+    "city": "Millerville",
+    "city_ascii": "Millerville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1926,
+    "lng": -85.9302,
+    "cafes": []
+  },
+  "Avon": {
+    "city": "Avon",
+    "city_ascii": "Avon",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1797,
+    "lng": -85.279,
+    "cafes": []
+  },
+  "Gordon": {
+    "city": "Gordon",
+    "city_ascii": "Gordon",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1436,
+    "lng": -85.0925,
+    "cafes": []
+  },
+  "Goshen": {
+    "city": "Goshen",
+    "city_ascii": "Goshen",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7182,
+    "lng": -86.1242,
+    "cafes": []
+  },
+  "Cuba": {
+    "city": "Cuba",
+    "city_ascii": "Cuba",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.441,
+    "lng": -88.3755,
+    "cafes": []
+  },
+  "Vina": {
+    "city": "Vina",
+    "city_ascii": "Vina",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.3757,
+    "lng": -88.0602,
+    "cafes": []
+  },
+  "Twin": {
+    "city": "Twin",
+    "city_ascii": "Twin",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9978,
+    "lng": -87.8497,
+    "cafes": []
+  },
+  "Hatton": {
+    "city": "Hatton",
+    "city_ascii": "Hatton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5611,
+    "lng": -87.4136,
+    "cafes": []
+  },
+  "Epes": {
+    "city": "Epes",
+    "city_ascii": "Epes",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.6906,
+    "lng": -88.1405,
+    "cafes": []
+  },
+  "Mentone": {
+    "city": "Mentone",
+    "city_ascii": "Mentone",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5655,
+    "lng": -85.5846,
+    "cafes": []
+  },
+  "Akron": {
+    "city": "Akron",
+    "city_ascii": "Akron",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8785,
+    "lng": -87.7429,
+    "cafes": []
+  },
+  "St. Stephens": {
+    "city": "St. Stephens",
+    "city_ascii": "St. Stephens",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.5474,
+    "lng": -88.0556,
+    "cafes": []
+  },
+  "Macedonia": {
+    "city": "Macedonia",
+    "city_ascii": "Macedonia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4031,
+    "lng": -88.2392,
+    "cafes": []
+  },
+  "Hammondville": {
+    "city": "Hammondville",
+    "city_ascii": "Hammondville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5688,
+    "lng": -85.6394,
+    "cafes": []
+  },
+  "Shorter": {
+    "city": "Shorter",
+    "city_ascii": "Shorter",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4077,
+    "lng": -85.9413,
+    "cafes": []
+  },
+  "Elkmont": {
+    "city": "Elkmont",
+    "city_ascii": "Elkmont",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.9289,
+    "lng": -86.9765,
+    "cafes": []
+  },
+  "Belk": {
+    "city": "Belk",
+    "city_ascii": "Belk",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6517,
+    "lng": -87.9286,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.7333,
+    "lng": -85.5764,
+    "cafes": []
+  },
+  "Gordonville": {
+    "city": "Gordonville",
+    "city_ascii": "Gordonville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.1489,
+    "lng": -86.6995,
+    "cafes": []
+  },
+  "Cullomburg": {
+    "city": "Cullomburg",
+    "city_ascii": "Cullomburg",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7131,
+    "lng": -88.2917,
+    "cafes": []
+  },
+  "Anderson": {
+    "city": "Anderson",
+    "city_ascii": "Anderson",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.9147,
+    "lng": -87.2716,
+    "cafes": []
+  },
+  "Hodges": {
+    "city": "Hodges",
+    "city_ascii": "Hodges",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.334,
+    "lng": -87.9299,
+    "cafes": []
+  },
+  "Malcolm": {
+    "city": "Malcolm",
+    "city_ascii": "Malcolm",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1946,
+    "lng": -88.0016,
+    "cafes": []
+  },
+  "County Line": {
+    "city": "County Line",
+    "city_ascii": "County Line",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8208,
+    "lng": -86.7195,
+    "cafes": []
+  },
+  "Banks": {
+    "city": "Banks",
+    "city_ascii": "Banks",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.8132,
+    "lng": -85.8364,
+    "cafes": []
+  },
+  "Lockhart": {
+    "city": "Lockhart",
+    "city_ascii": "Lockhart",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0128,
+    "lng": -86.3505,
+    "cafes": []
+  },
+  "Castleberry": {
+    "city": "Castleberry",
+    "city_ascii": "Castleberry",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3001,
+    "lng": -87.0269,
+    "cafes": []
+  },
+  "Whatley": {
+    "city": "Whatley",
+    "city_ascii": "Whatley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.6463,
+    "lng": -87.7108,
+    "cafes": []
+  },
+  "Sipsey": {
+    "city": "Sipsey",
+    "city_ascii": "Sipsey",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8225,
+    "lng": -87.0835,
+    "cafes": []
+  },
+  "Waldo": {
+    "city": "Waldo",
+    "city_ascii": "Waldo",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3892,
+    "lng": -86.036,
+    "cafes": []
+  },
+  "Boykin": {
+    "city": "Boykin",
+    "city_ascii": "Boykin",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.0696,
+    "lng": -87.2915,
+    "cafes": []
+  },
+  "Bakerhill": {
+    "city": "Bakerhill",
+    "city_ascii": "Bakerhill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7769,
+    "lng": -85.2955,
+    "cafes": []
+  },
+  "Repton": {
+    "city": "Repton",
+    "city_ascii": "Repton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4096,
+    "lng": -87.2394,
+    "cafes": []
+  },
+  "Horn Hill": {
+    "city": "Horn Hill",
+    "city_ascii": "Horn Hill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2382,
+    "lng": -86.3211,
+    "cafes": []
+  },
+  "Geiger": {
+    "city": "Geiger",
+    "city_ascii": "Geiger",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8696,
+    "lng": -88.3133,
+    "cafes": []
+  },
+  "Gainesville": {
+    "city": "Gainesville",
+    "city_ascii": "Gainesville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8149,
+    "lng": -88.1608,
+    "cafes": []
+  },
+  "Maytown": {
+    "city": "Maytown",
+    "city_ascii": "Maytown",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5499,
+    "lng": -87.0001,
+    "cafes": []
+  },
+  "Langston": {
+    "city": "Langston",
+    "city_ascii": "Langston",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.5374,
+    "lng": -86.0899,
+    "cafes": []
+  },
+  "Colony": {
+    "city": "Colony",
+    "city_ascii": "Colony",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9413,
+    "lng": -86.9022,
+    "cafes": []
+  },
+  "Madrid": {
+    "city": "Madrid",
+    "city_ascii": "Madrid",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0356,
+    "lng": -85.3992,
+    "cafes": []
+  },
+  "Coffee Springs": {
+    "city": "Coffee Springs",
+    "city_ascii": "Coffee Springs",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.1664,
+    "lng": -85.9103,
+    "cafes": []
+  },
+  "Carolina": {
+    "city": "Carolina",
+    "city_ascii": "Carolina",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2337,
+    "lng": -86.5227,
+    "cafes": []
+  },
+  "Riverview": {
+    "city": "Riverview",
+    "city_ascii": "Riverview",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0587,
+    "lng": -87.0709,
+    "cafes": []
+  },
+  "Fredonia": {
+    "city": "Fredonia",
+    "city_ascii": "Fredonia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.9861,
+    "lng": -85.2912,
+    "cafes": []
+  },
+  "Weogufka": {
+    "city": "Weogufka",
+    "city_ascii": "Weogufka",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0219,
+    "lng": -86.3096,
+    "cafes": []
+  },
+  "Edwardsville": {
+    "city": "Edwardsville",
+    "city_ascii": "Edwardsville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.8409,
+    "lng": -85.4523,
+    "cafes": []
+  },
+  "Axis": {
+    "city": "Axis",
+    "city_ascii": "Axis",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.9309,
+    "lng": -88.018,
+    "cafes": []
+  },
+  "Toxey": {
+    "city": "Toxey",
+    "city_ascii": "Toxey",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.9109,
+    "lng": -88.3092,
+    "cafes": []
+  },
+  "Heath": {
+    "city": "Heath",
+    "city_ascii": "Heath",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3579,
+    "lng": -86.4673,
+    "cafes": []
+  },
+  "Coffeeville": {
+    "city": "Coffeeville",
+    "city_ascii": "Coffeeville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7666,
+    "lng": -88.0861,
+    "cafes": []
+  },
+  "Delta": {
+    "city": "Delta",
+    "city_ascii": "Delta",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.447,
+    "lng": -85.6746,
+    "cafes": []
+  },
+  "Nauvoo": {
+    "city": "Nauvoo",
+    "city_ascii": "Nauvoo",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9874,
+    "lng": -87.4875,
+    "cafes": []
+  },
+  "Detroit": {
+    "city": "Detroit",
+    "city_ascii": "Detroit",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0274,
+    "lng": -88.1678,
+    "cafes": []
+  },
+  "Sanford": {
+    "city": "Sanford",
+    "city_ascii": "Sanford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3007,
+    "lng": -86.3976,
+    "cafes": []
+  },
+  "Rutledge": {
+    "city": "Rutledge",
+    "city_ascii": "Rutledge",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7241,
+    "lng": -86.302,
+    "cafes": []
+  },
+  "Broomtown": {
+    "city": "Broomtown",
+    "city_ascii": "Broomtown",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.3657,
+    "lng": -85.5322,
+    "cafes": []
+  },
+  "Talladega Springs": {
+    "city": "Talladega Springs",
+    "city_ascii": "Talladega Springs",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1191,
+    "lng": -86.4421,
+    "cafes": []
+  },
+  "Loachapoka": {
+    "city": "Loachapoka",
+    "city_ascii": "Loachapoka",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.6049,
+    "lng": -85.5948,
+    "cafes": []
+  },
+  "Hissop": {
+    "city": "Hissop",
+    "city_ascii": "Hissop",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.8815,
+    "lng": -86.1285,
+    "cafes": []
+  },
+  "Uriah": {
+    "city": "Uriah",
+    "city_ascii": "Uriah",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3074,
+    "lng": -87.4992,
+    "cafes": []
+  },
+  "Chunchula": {
+    "city": "Chunchula",
+    "city_ascii": "Chunchula",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.9237,
+    "lng": -88.2072,
+    "cafes": []
+  },
+  "Boligee": {
+    "city": "Boligee",
+    "city_ascii": "Boligee",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.7699,
+    "lng": -88.0264,
+    "cafes": []
+  },
+  "Onycha": {
+    "city": "Onycha",
+    "city_ascii": "Onycha",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2246,
+    "lng": -86.2785,
+    "cafes": []
+  },
+  "Daviston": {
+    "city": "Daviston",
+    "city_ascii": "Daviston",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0557,
+    "lng": -85.6371,
+    "cafes": []
+  },
+  "Vinegar Bend": {
+    "city": "Vinegar Bend",
+    "city_ascii": "Vinegar Bend",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2594,
+    "lng": -88.3712,
+    "cafes": []
+  },
+  "Gantt": {
+    "city": "Gantt",
+    "city_ascii": "Gantt",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4092,
+    "lng": -86.4842,
+    "cafes": []
+  },
+  "McIntosh": {
+    "city": "McIntosh",
+    "city_ascii": "McIntosh",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2649,
+    "lng": -88.0284,
+    "cafes": []
+  },
+  "Spruce Pine": {
+    "city": "Spruce Pine",
+    "city_ascii": "Spruce Pine",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.3928,
+    "lng": -87.7294,
+    "cafes": []
+  },
+  "Bellamy": {
+    "city": "Bellamy",
+    "city_ascii": "Bellamy",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4582,
+    "lng": -88.1277,
+    "cafes": []
+  },
+  "Kellyton": {
+    "city": "Kellyton",
+    "city_ascii": "Kellyton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.9791,
+    "lng": -86.0358,
+    "cafes": []
+  },
+  "Beaverton": {
+    "city": "Beaverton",
+    "city_ascii": "Beaverton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9354,
+    "lng": -88.0218,
+    "cafes": []
+  },
+  "Paint Rock": {
+    "city": "Paint Rock",
+    "city_ascii": "Paint Rock",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6601,
+    "lng": -86.331,
+    "cafes": []
+  },
+  "Faunsdale": {
+    "city": "Faunsdale",
+    "city_ascii": "Faunsdale",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.4576,
+    "lng": -87.5938,
+    "cafes": []
+  },
+  "Glenwood": {
+    "city": "Glenwood",
+    "city_ascii": "Glenwood",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.6675,
+    "lng": -86.173,
+    "cafes": []
+  },
+  "Union": {
+    "city": "Union",
+    "city_ascii": "Union",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.9938,
+    "lng": -87.9071,
+    "cafes": []
+  },
+  "Spring Garden": {
+    "city": "Spring Garden",
+    "city_ascii": "Spring Garden",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.973,
+    "lng": -85.5558,
+    "cafes": []
+  },
+  "Beatrice": {
+    "city": "Beatrice",
+    "city_ascii": "Beatrice",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.7332,
+    "lng": -87.209,
+    "cafes": []
+  },
+  "Eunola": {
+    "city": "Eunola",
+    "city_ascii": "Eunola",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0326,
+    "lng": -85.8409,
+    "cafes": []
+  },
+  "Hanover": {
+    "city": "Hanover",
+    "city_ascii": "Hanover",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0029,
+    "lng": -86.199,
+    "cafes": []
+  },
+  "Five Points": {
+    "city": "Five Points",
+    "city_ascii": "Five Points",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0173,
+    "lng": -85.3516,
+    "cafes": []
+  },
+  "Pine Apple": {
+    "city": "Pine Apple",
+    "city_ascii": "Pine Apple",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.8722,
+    "lng": -86.9891,
+    "cafes": []
+  },
+  "Sweet Water": {
+    "city": "Sweet Water",
+    "city_ascii": "Sweet Water",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.1046,
+    "lng": -87.8619,
+    "cafes": []
+  },
+  "Hobson": {
+    "city": "Hobson",
+    "city_ascii": "Hobson",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4836,
+    "lng": -88.1513,
+    "cafes": []
+  },
+  "Fairford": {
+    "city": "Fairford",
+    "city_ascii": "Fairford",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.178,
+    "lng": -88.0728,
+    "cafes": []
+  },
+  "Cusseta": {
+    "city": "Cusseta",
+    "city_ascii": "Cusseta",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.7876,
+    "lng": -85.3057,
+    "cafes": []
+  },
+  "Bristow Cove": {
+    "city": "Bristow Cove",
+    "city_ascii": "Bristow Cove",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.1092,
+    "lng": -86.241,
+    "cafes": []
+  },
+  "Haleburg": {
+    "city": "Haleburg",
+    "city_ascii": "Haleburg",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4099,
+    "lng": -85.1381,
+    "cafes": []
+  },
+  "Yellow Bluff": {
+    "city": "Yellow Bluff",
+    "city_ascii": "Yellow Bluff",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.9623,
+    "lng": -87.4773,
+    "cafes": []
+  },
+  "Equality": {
+    "city": "Equality",
+    "city_ascii": "Equality",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.7634,
+    "lng": -86.106,
+    "cafes": []
+  },
+  "Lester": {
+    "city": "Lester",
+    "city_ascii": "Lester",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.9871,
+    "lng": -87.1513,
+    "cafes": []
+  },
+  "Gu-Win": {
+    "city": "Gu-Win",
+    "city_ascii": "Gu-Win",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9443,
+    "lng": -87.8705,
+    "cafes": []
+  },
+  "Kansas": {
+    "city": "Kansas",
+    "city_ascii": "Kansas",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.9029,
+    "lng": -87.5568,
+    "cafes": []
+  },
+  "Penton": {
+    "city": "Penton",
+    "city_ascii": "Penton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.009,
+    "lng": -85.4722,
+    "cafes": []
+  },
+  "Ridgeville": {
+    "city": "Ridgeville",
+    "city_ascii": "Ridgeville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0569,
+    "lng": -86.1029,
+    "cafes": []
+  },
+  "Morrison Crossroads": {
+    "city": "Morrison Crossroads",
+    "city_ascii": "Morrison Crossroads",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4198,
+    "lng": -85.4903,
+    "cafes": []
+  },
+  "Libertyville": {
+    "city": "Libertyville",
+    "city_ascii": "Libertyville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2428,
+    "lng": -86.46,
+    "cafes": []
+  },
+  "Gaylesville": {
+    "city": "Gaylesville",
+    "city_ascii": "Gaylesville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.2665,
+    "lng": -85.5603,
+    "cafes": []
+  },
+  "Orrville": {
+    "city": "Orrville",
+    "city_ascii": "Orrville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.3068,
+    "lng": -87.2454,
+    "cafes": []
+  },
+  "Bon Air": {
+    "city": "Bon Air",
+    "city_ascii": "Bon Air",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.2621,
+    "lng": -86.3319,
+    "cafes": []
+  },
+  "Pollard": {
+    "city": "Pollard",
+    "city_ascii": "Pollard",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0235,
+    "lng": -87.1736,
+    "cafes": []
+  },
+  "Movico": {
+    "city": "Movico",
+    "city_ascii": "Movico",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0628,
+    "lng": -88.0266,
+    "cafes": []
+  },
+  "Lowndesboro": {
+    "city": "Lowndesboro",
+    "city_ascii": "Lowndesboro",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.2764,
+    "lng": -86.6108,
+    "cafes": []
+  },
+  "Gulfcrest": {
+    "city": "Gulfcrest",
+    "city_ascii": "Gulfcrest",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 30.9925,
+    "lng": -88.2399,
+    "cafes": []
+  },
+  "Vredenburgh": {
+    "city": "Vredenburgh",
+    "city_ascii": "Vredenburgh",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.8237,
+    "lng": -87.3178,
+    "cafes": []
+  },
+  "North Johns": {
+    "city": "North Johns",
+    "city_ascii": "North Johns",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.3677,
+    "lng": -87.1008,
+    "cafes": []
+  },
+  "Myrtlewood": {
+    "city": "Myrtlewood",
+    "city_ascii": "Myrtlewood",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.2521,
+    "lng": -87.9492,
+    "cafes": []
+  },
+  "Providence": {
+    "city": "Providence",
+    "city_ascii": "Providence",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.3424,
+    "lng": -87.7761,
+    "cafes": []
+  },
+  "Eldridge": {
+    "city": "Eldridge",
+    "city_ascii": "Eldridge",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.922,
+    "lng": -87.6202,
+    "cafes": []
+  },
+  "Blue Springs": {
+    "city": "Blue Springs",
+    "city_ascii": "Blue Springs",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.6635,
+    "lng": -85.5035,
+    "cafes": []
+  },
+  "Waterloo": {
+    "city": "Waterloo",
+    "city_ascii": "Waterloo",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.9173,
+    "lng": -88.0654,
+    "cafes": []
+  },
+  "Ethelsville": {
+    "city": "Ethelsville",
+    "city_ascii": "Ethelsville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4141,
+    "lng": -88.2161,
+    "cafes": []
+  },
+  "Panola": {
+    "city": "Panola",
+    "city_ascii": "Panola",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.9477,
+    "lng": -88.2674,
+    "cafes": []
+  },
+  "Needham": {
+    "city": "Needham",
+    "city_ascii": "Needham",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.987,
+    "lng": -88.3366,
+    "cafes": []
+  },
+  "Goldville": {
+    "city": "Goldville",
+    "city_ascii": "Goldville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0842,
+    "lng": -85.7831,
+    "cafes": []
+  },
+  "Calvert": {
+    "city": "Calvert",
+    "city_ascii": "Calvert",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.154,
+    "lng": -88.0169,
+    "cafes": []
+  },
+  "Union Grove": {
+    "city": "Union Grove",
+    "city_ascii": "Union Grove",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.4025,
+    "lng": -86.4483,
+    "cafes": []
+  },
+  "Deer Park": {
+    "city": "Deer Park",
+    "city_ascii": "Deer Park",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2198,
+    "lng": -88.3226,
+    "cafes": []
+  },
+  "Billingsley": {
+    "city": "Billingsley",
+    "city_ascii": "Billingsley",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.661,
+    "lng": -86.7087,
+    "cafes": []
+  },
+  "Mooresville": {
+    "city": "Mooresville",
+    "city_ascii": "Mooresville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.6257,
+    "lng": -86.8802,
+    "cafes": []
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "city_ascii": "Dayton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.351,
+    "lng": -87.6416,
+    "cafes": []
+  },
+  "Petrey": {
+    "city": "Petrey",
+    "city_ascii": "Petrey",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.8495,
+    "lng": -86.2057,
+    "cafes": []
+  },
+  "Graham": {
+    "city": "Graham",
+    "city_ascii": "Graham",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.4552,
+    "lng": -85.323,
+    "cafes": []
+  },
+  "Putnam": {
+    "city": "Putnam",
+    "city_ascii": "Putnam",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.0181,
+    "lng": -88.0331,
+    "cafes": []
+  },
+  "Fruitdale": {
+    "city": "Fruitdale",
+    "city_ascii": "Fruitdale",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3429,
+    "lng": -88.4108,
+    "cafes": []
+  },
+  "Abanda": {
+    "city": "Abanda",
+    "city_ascii": "Abanda",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0926,
+    "lng": -85.5253,
+    "cafes": []
+  },
+  "Cardiff": {
+    "city": "Cardiff",
+    "city_ascii": "Cardiff",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.6473,
+    "lng": -86.9308,
+    "cafes": []
+  },
+  "Tibbie": {
+    "city": "Tibbie",
+    "city_ascii": "Tibbie",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3628,
+    "lng": -88.2471,
+    "cafes": []
+  },
+  "Emelle": {
+    "city": "Emelle",
+    "city_ascii": "Emelle",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.7287,
+    "lng": -88.3165,
+    "cafes": []
+  },
+  "Benton": {
+    "city": "Benton",
+    "city_ascii": "Benton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.3078,
+    "lng": -86.818,
+    "cafes": []
+  },
+  "Natural Bridge": {
+    "city": "Natural Bridge",
+    "city_ascii": "Natural Bridge",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.0904,
+    "lng": -87.6014,
+    "cafes": []
+  },
+  "Belgreen": {
+    "city": "Belgreen",
+    "city_ascii": "Belgreen",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 34.4767,
+    "lng": -87.8653,
+    "cafes": []
+  },
+  "Carlton": {
+    "city": "Carlton",
+    "city_ascii": "Carlton",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.343,
+    "lng": -87.8378,
+    "cafes": []
+  },
+  "Memphis": {
+    "city": "Memphis",
+    "city_ascii": "Memphis",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1369,
+    "lng": -88.3008,
+    "cafes": []
+  },
+  "Standing Rock": {
+    "city": "Standing Rock",
+    "city_ascii": "Standing Rock",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.0863,
+    "lng": -85.2449,
+    "cafes": []
+  },
+  "Peterman": {
+    "city": "Peterman",
+    "city_ascii": "Peterman",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.5837,
+    "lng": -87.2631,
+    "cafes": []
+  },
+  "McMullen": {
+    "city": "McMullen",
+    "city_ascii": "McMullen",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.1481,
+    "lng": -88.1757,
+    "cafes": []
+  },
+  "Nanafalia": {
+    "city": "Nanafalia",
+    "city_ascii": "Nanafalia",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.1114,
+    "lng": -87.9958,
+    "cafes": []
+  },
+  "Oak Hill": {
+    "city": "Oak Hill",
+    "city_ascii": "Oak Hill",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.9216,
+    "lng": -87.0852,
+    "cafes": []
+  },
+  "Megargel": {
+    "city": "Megargel",
+    "city_ascii": "Megargel",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.3781,
+    "lng": -87.4307,
+    "cafes": []
+  },
+  "Catherine": {
+    "city": "Catherine",
+    "city_ascii": "Catherine",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.186,
+    "lng": -87.4699,
+    "cafes": []
+  },
+  "Fitzpatrick": {
+    "city": "Fitzpatrick",
+    "city_ascii": "Fitzpatrick",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 32.2113,
+    "lng": -85.8784,
+    "cafes": []
+  },
+  "Sims Chapel": {
+    "city": "Sims Chapel",
+    "city_ascii": "Sims Chapel",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.2365,
+    "lng": -88.1435,
+    "cafes": []
+  },
+  "Bucks": {
+    "city": "Bucks",
+    "city_ascii": "Bucks",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.0169,
+    "lng": -88.0249,
+    "cafes": []
+  },
+  "Rockville": {
+    "city": "Rockville",
+    "city_ascii": "Rockville",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 31.4058,
+    "lng": -87.8442,
+    "cafes": []
+  }
+}

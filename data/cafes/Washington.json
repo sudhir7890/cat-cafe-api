@@ -1,0 +1,6072 @@
+{
+  "Washington": [
+    {
+      "name": "Crumbs & Whiskers | Kitten & Cat Cafe.",
+      "address": "3109 M St NW, Washington, DC 20007, USA",
+      "rating": 4.7,
+      "user_ratings_total": 934,
+      "website": "http://www.crumbsandwhiskers.com/",
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "google_maps_url": "https://maps.google.com/?cid=4645012754072052490",
+      "lat": 38.9053136,
+      "lng": -77.0614946,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleEntrance": false
+      },
+      "reviews": [
+        {
+          "author": "Amanda Rose",
+          "rating": 5,
+          "text": {
+            "text": "Really fantastic place that lets you hang out with adoptable cats in an awesome atmosphere! It’s especially nice for people like me who cannot adopt another animal myself but loves animal experiences and supporting rescue. The facility was clean, decorated beautifully, staff were really friendly and shared background stories on the cats and the kitty cats are all clearly well cared for. Visited Washington DC from Milwaukee, WI and I’m so glad we added this to our travel itinerary. The free Polaroid snapshot is such a nice touch and so unique (I’ve been to 10 cat cafes and this is the only one I’ve seen do this). I wish caffeine free tea options were available and would have preferred an hour long session for the price we paid but it’s for a fantastic cause so - 5/5 stars!",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Jillian Roth",
+          "rating": 5,
+          "text": {
+            "text": "The sweetest cats I've ever encountered at any cat cafe. They were all happy and chillin. Some would approach you and others were so relaxed and happy they didn't mind at all when you approached them. A sweet cat in particular climbed right into my lap ❤️😁 we got a nice polaroid taken of me and my friend and now have that as a keepsake. From what I overheard, it sounds like all of the cats get adopted pretty quick. It feels good to support a place like this that does a lot of good things for cats and also is quite fun for me too!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Asha Singh",
+          "rating": 5,
+          "text": {
+            "text": "Went for some kitty cuddle time and was not disappointed. The staff was friendly and kept a sharp eye on the cats. The cats were playful and energetic. We didn't get any food or drinks but they did have a menu. No shoes in the car hangout space so be sure to wear socks when you go. Also be patient, the cats operate on their own schedule.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1LqIlsdJdYZKXJHQCTX-CEsH50rfUSvnuCypI3QM3WZ2dw3bmYRP0q8OFWhTCL4NAaMjaLRpiNMI9pT8YaEbiyI13EQ4skBsYAqjm-BOKKw5Neefyg0hde3NJ51ZcVgg65lganwztYfcdcl_qCASlwa8waGHM3GCtHGp1a6I8BQV1lXVcU9d3Tm3lmMzqg5fbgk25MuTgYXXJp0L4zAHxII0hfVGGo89pgtsZyZiPUC4Rg93ZnYapsDS1JILJ9DXscnrWc4W3vpK-nb5jyJPbvkw62Gm5yQ_ymvqM-4G9xuMekMWqjd3bAi45l6Zc4LyhDAJig8pQKu91lGlW4WFXc61JtsxEPiEM9DOyIo4tZ_TrvpiVArx0G5ShL8iqtkT5XrD05I5hQLBc_K5wl4YTblqirINwe&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    },
+    {
+      "name": "Meow Maison",
+      "address": "1336 Wisconsin Ave NW, Washington, DC 20007, USA",
+      "rating": 4.5,
+      "user_ratings_total": 51,
+      "website": "https://www.meowmaison.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=11550092468627287723",
+      "lat": 38.907578699999995,
+      "lng": -77.06356939999999,
+      "accessibility_options": "N/A",
+      "reviews": [
+        {
+          "author": "Tony Wang",
+          "rating": 5,
+          "text": {
+            "text": "The second cat cafe in my tour of DC area ones. I definitely liked the vibe. It's not inexpensive but given that they only allow four people in at a time and their pricey location, it's understandable.\n\nThe cats are fun, and the staff are friendly. You do have to take off your shoes so be ready for that. Even the owner abides by that rule.\n\nThe staff will introduce you to the cats but you'll forget in a minute and they're happy to answer your questions about the cats time and again.\n\nThis is definitely a place to have fun with a bunch of furry friends.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Eugene Choi",
+          "rating": 5,
+          "text": {
+            "text": "I’ve been to Meow Maison multiple times to hang out with the kitties, and it has been a wonderful experience every time. The cats are very well taken care of, and the atmosphere is super cozy! The staff are also very friendly and helpful if you have any questions regarding adoption.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Leann Adams",
+          "rating": 5,
+          "text": {
+            "text": "I initially came into this cafe with my best friend just to chill with some cats, but ended up adopting two little ones! Everyone was super supportive and helpful with the process. The second adoption was very last second (during the adoption of the first), yet the people who were working that day, and the volunteer (Jessie), who helped me were INCREDIBLY accommodating. Not only that, they let me borrow a carrier because I came with just the one. The girl who helped me during the drop off of the carrier later is super appreciated as well.\n\nEvery step of the way, Meow Maison was 10/10",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2faLfIK9qMRNDWM7XaVjPMO4Dw8NzJeZRV5gzsn-7K11wHqAkd7keaYwBty1kdMXUPsM2IRJX810TA7CI509CzmSV7ZkiPt1Ds0w5R6L-LfORMHORYs7MUd33O3BMMLCVyYSzC7HEEP97cduq8pdZTvJ5vq-dRWgUSkf18jJg7_K6xHP73KOQyfghQndmA0eQTg3YCaijhRkA53Kmkw-FZtT_Gov7PUCOw4Zo-t1QiRu0qZKaufRpIv-6zq86obH_I0sVZblvJZhk-AgKTQ84nsqDG5p7TquNEG1ze3-p1oBU6Hbwr6lLB3Fxnu4So9OGoHtWxnvYH4Yrieh5ThqiU4p5PPhB2oNzCyoT7MZtC52qqhEDe5z81f7ALN8N048AUzLw4ywBCSfIiIBYsDcEzqKFoIobHWQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Seattle": {
+    "city": "Seattle",
+    "city_ascii": "Seattle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6211,
+    "lng": -122.3244,
+    "cafes": [
+      {
+        "name": "NEKO Cat Cafe Seattle",
+        "address": "519 E Pine St, Seattle, WA 98122, USA",
+        "rating": 4.8,
+        "user_ratings_total": 3206,
+        "website": "https://nekocatcafe.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=6878241804119406886",
+        "lat": 47.6150859,
+        "lng": -122.32479339999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": false,
+          "wheelchairAccessibleEntrance": false,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": false
+        },
+        "reviews": [
+          {
+            "author": "Sydney Slayter",
+            "rating": 5,
+            "text": {
+              "text": "This was such a great experience! we were in Seattle traveling for the week and missing our cats at home, so we decided to pop in for a visit! $25 for a 45 minute session with the cutest, sweetest, cats in Seattle! I definitely recommend coming here as the fee goes to a good cause, and you get a great experience out of it. It’s very clear that these cats are loved and well taken care of! I also recommend the Fez Mint Tea! It was delicious on that cold Seattle night. :)",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Grace Naseef",
+            "rating": 5,
+            "text": {
+              "text": "I booked an appointment in advance to visit the Neko kitties. The staff was friendly and it was nice to have drinks and snacks available. The visit was 45 minutes long and time was shared with 8-10 cats and a few other people who had booked. I loved the cats even if many of them were ready for naps during our visit. Some of the cats are residents while others are available for adoption. Staff wipe down the space between visits. Well run cafe!  I'd love to go back if I'm ever back in Seattle!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Lilian Franco",
+            "rating": 5,
+            "text": {
+              "text": "Great experience. I had visited once before in passing for a beverage and a peek at the kitties, but I'm happy to have been able to book a visit with the kitties this time around. It was definitely worth it! Be sure to check out the sweet pickles collar bow ties if you're looking to spice up your own kitty's wardrobe.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1a__xS0YZcFqm5kIMBQTDVHxqODGyNgB1FHCye0caICH-YW-VyUFPL9uJqvW_E2GmoU_0R1W3oMp-9-HRy47Lf2-tgXzlDooZ4KAxSni6BaGB0vKPTmBTfsqFG5TWJA5gjunvuqTGMjUrKsePTFj9pLacpgIYBwE6fFy5fi6leh4Xw49OXzKGRXQZw3MBFt7uxiXmZrJi5QjhA0gERDTk5vX263BGdFBqIt2xrRD9zpKkCXPDp1El4_A-uw7ogRrLuWbHOsGKiJi9B5xAhJicgv0Qrk_NrJ5iPsJr2Z7QMFXM11ptG8V0UoacAF_4XFnWy9ZQZZYOHpXg6WgHFkr3hsNTUPdq7ft34eXZssc5gPCc5HyeRjKqWhggreBjSYn7DfAsg5oTyxkMjFg6CvOiP0p7YtCmt7M6v&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Seattle Meowtropolitan",
+        "address": "1225 N 45th St, Seattle, WA 98103, USA",
+        "rating": 4.7,
+        "user_ratings_total": 1366,
+        "website": "https://www.seameow.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=2912580436617250247",
+        "lat": 47.6612247,
+        "lng": -122.34293579999998,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Serenity “SerenitySongWriter”",
+            "rating": 5,
+            "text": {
+              "text": "OMG what pretty kitty's! Reasonably priced and you can choose 30 minutes or 50 minutes to play with these beautiful creatures. There were only 2 cats up for adoption I'm sure they'll have more soon. Not much of a food selection just cookies mainly but would definitely recommend going here!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "JEN ZHANG",
+            "rating": 5,
+            "text": {
+              "text": "I went to Cat-o-latern-pumpkin carving session this year and it was an amazing experience! The cafe is very clean, and there’s a variety of drinks to choose from (coffee, tea,  juice and alcoholic beverages). The cafe also has a great merchandise section and everything is so cute (I got some gifts for myself and for my cat). The cat lounge itself has very cat-friendly layout, and you can tell it’s a very tidy and comfortable environment for those cats. The kitties are all very relaxed, and a few of them very playful and energetic. All staff at this place are super friendly and patient, and the cats show great affection for their human coworkers. I would recommend this place to all cat lovers, and I would definitely come back for another visit.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Renske Hagg",
+            "rating": 5,
+            "text": {
+              "text": "Must visit when in Seattle!\nEnjoy a cup of coffee while cudding with cats.\n\nThe coffee is the best ive had in the USA.\nUnfortunately only macaroons available for sweet snacks (im not a macaroon fan)\nThe service is phenomenal. From the moment we stepped in it was all smiles and the lady explained the process in detail.\n\nBookings are recommended if you want to interact with the cats. Half sessions or full sessions available. $10-$19. (No kids under 6 allowed in with the cats)\nWe are traveling with our 2year old and could not touch the cats - and we still had an amazing experience.\n\nAmazing little shop area too with everything cat. From shirts, card games, hair accessories, crystals and of-course, toys for cats.",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ11VavahWRHnMncGxbSlFs5lr6GkzXeIrf6qw-wuuLz707t12YMIzBSBvjFsUHZQPSDL2ZRgiBP5c39oHE024nmXLE4wWFp9Ig5qC7X-bD5D5BDkHvFzVS0RJoY8bh-CPtuXg1BK_mFbEngYzJeS1mDFNAV_-iWqLBLp_Y8Wo1Sb8ygZWjxoeYLZ92ElfsCwFMZSAI1Oq0gPCfLiQW991YgMjaXpPpbawDFAos40e-DZTLJyetVUgZurhF7cfpOdLgetP31ghHbIXhYDmRABNXX0tljW9nXD2QLFl9Zbi1FqJYqsPfhxsK81YJ1Z1X-6wism8DVFGyORvdkoyADML5sVHzMDSToFtzTK7kMDN5YNYr3XkNkz89mZf_fvG5u0pSYt3vrhtii7D6r1gdENg4-2MwE7mTbDZM7&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Bellingham": {
+    "city": "Bellingham",
+    "city_ascii": "Bellingham",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.7548,
+    "lng": -122.469,
+    "cafes": [
+      {
+        "name": "NEKO Cat Cafe Bellingham",
+        "address": "1130 Cornwall Ave, Bellingham, WA 98225, USA",
+        "rating": 4.9,
+        "user_ratings_total": 1581,
+        "website": "https://nekocatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1478082259188244763",
+        "lat": 48.7483668,
+        "lng": -122.4808399,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Margie Creen",
+            "rating": 5,
+            "text": {
+              "text": "Fun little experience! Pleasant staff, clean atmosphere, aloof cats. I made a mistake when booking tickets. I called them, and the nice young woman who answered was able to quickly fix my mistake. The experience was lovely and sweet. I'd recommend this for neurodivergent people who don't want to be overstimulated.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Natasha Reardon",
+            "rating": 5,
+            "text": {
+              "text": "My fiancé and I went for a day trip from Canada to the US and he brought me to the Neko Cat Cafe! We were very excited for the experience. When arriving, I could see how much they care for the cats; it almost felt like the cats ran the cafe and the employees were just there to feed them :D I was very pleased with how clean the environment was and how cat friendly everything was. They also serve alcohol and nonalcoholic beverages which was a bonus!\n\nSimon will forever be in my heart!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Sara Morrow",
+            "rating": 5,
+            "text": {
+              "text": "I love all the kitties! Luna, Prairie, Tilly, and Freya have all sat in my lap! The cats are all really chill, and super funny.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3o5iCQGGGMUEQcOM5Ztm9NgsFRoswcQdSVGV1F-Dwa6_ad2NPVYA3RnaibeQuvXcsLcfYbx8shOz9XL2hK9TQ_x1snQ6en_uzahWC0u2Fqg3w7MvB7OAABp2I9gWpoWeJYp39WjocDRgoR__p-JEPgXk8mAYLgxpgh9HkTbodLFMjmAhzXQ-NF4z_nytu0kScYd3QldFvU61t1c179Hr-cUWnwg8TjEDg_AFwik-xSCg8apNIPdj02SxETu0k-YTGHkjJlrNvV3Lu88h1FI54U4tng85nlVbKoflbK0-7Axg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Olympia": {
+    "city": "Olympia",
+    "city_ascii": "Olympia",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0417,
+    "lng": -122.8959,
+    "cafes": [
+      {
+        "name": "Pawsific NorthWest Cat Cafe",
+        "address": "3415 Pacific Ave SE F-1, Olympia, WA 98501, USA",
+        "rating": 4.7,
+        "user_ratings_total": 85,
+        "website": "https://www.pawsnwcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=18011566569729002948",
+        "lat": 47.04054300000001,
+        "lng": -122.84812199999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Ty Putnam",
+            "rating": 5,
+            "text": {
+              "text": "Support local businesses and artists by coming here! I can't say enough good about this place! I adopted my 2 kittens from here and they're so sweet and well socialized. The drinks are always delicious with a huge array of flavors, and the staff os super friendly. I love bringing my kids here and seeing all of the new cats and enjoying the clean, calming environment. They also sell and showcase different mediums of art from local artists! 11/10 my fave spot.",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "UnordinAerie",
+            "rating": 5,
+            "text": {
+              "text": "I had such a wonderful experience! I highly recommend you go, and it's only $10 on Wednesdays! Such a great deal for an unforgettable experience. The music is calm, the room is quiet and clean, and the staff is great too. The food and drink options are amazing too!\n\nThe cats are also really happy to be there and are very relaxed and warm. I could stay there all day if I could! :)\n\nNote: I read the negative reviews, and as a Veterinary assistant, I can easily state that the staff at the cafe absolutely are doing everything correctly when it comes to animal care including diet, handling of animals, cleanliness, and more.\n\nIt is very obvious that they are doing everything right.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Sierra Guerin",
+            "rating": 5,
+            "text": {
+              "text": "Adorable cats! We got there rather late in the evening and enjoyed some espresso while chilling with some sleepy playful kits, love the work this cafe is doing! We got a weekday special, $10 for entry to the cat room and some espresso free of charge! The staff is wonderful and really cares about the cats ♥️ definitely a neat place to check out if you’ve been curious about cat cafes!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1eJ6c6Y29upfw8mtu_dofU5WTYaYJ2mmfQkUqspiBJV1bIXTLN2spBu54fpf28zAC_OMkDbxosGuaVNvKK3xrjYcp7uOfiD39L7LvIIOCEezl8Tg47FOVHYJ6pBpAtgUdrFMW_imAxUG4OiyweBaFbfbNF0ppPPkPmbh8wlnQrHsTsmPVFSWhbazt4xoznJ9T2-AlBOlfIut1TQwXk3KskyDai7YZwheuDNoB6oc-jf6VNNQsnbrrRd9A4atSMrzeVfRHP1sAGJiXTMhrgsPxMqkg5eo4szn0Na6j4nDwZWQfJYzH-BmTTIdlJXsctBcTkfN5VaI8l1HndsBUmLfwW6_4PKglW0P2IlPRmLlVCOQjALctDjiIQaMWzZKHttDnJOyLuIurAbsUqbv4XTmzWUS6FRZ9q&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Spokane": {
+    "city": "Spokane",
+    "city_ascii": "Spokane",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6671,
+    "lng": -117.433,
+    "cafes": [
+      {
+        "name": "Kitty Cantina",
+        "address": "6704 N Nevada St #1, Spokane, WA 99208, USA",
+        "rating": 4.8,
+        "user_ratings_total": 495,
+        "website": "http://kittycantina.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=2948444536386501741",
+        "lat": 47.7188606,
+        "lng": -117.39477529999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Sara Andersen",
+            "rating": 5,
+            "text": {
+              "text": "I drove by the Kitty Cantina and decided to stop in on a whim. I’m so glad I did! The staff are so welcoming. The environment is really positive and upbeat and all the cats are super sweet and fun.\n\nI ordered an iced Matcha latte with oat milk, and made a walk-in appointment to spend time with the cats. They had a half hour and an hour option. a drink and a half hour cost about $13- well worth it in my opinion and I heard a couple other people mentioned it was the best money they spent all week!\n\nSome cats snoozed other cats liked to play and they were plenty of kitties to go around! in my session, there were four other people in the room and there were about 15 cats.\n\nHighly recommend a visit if you’re looking for some tasty food and time with some sweet cats!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Stephanie Milliette",
+            "rating": 5,
+            "text": {
+              "text": "The food here is so good! Very creative names of the food and it tastes just amazing. My son and I love to come here for a bagel or to get some lunch, it's always a treat. Drinks are good too and you can't beat being able to watch some adorable kittens run around while you enjoy your fare.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Soreya Leonard",
+            "rating": 5,
+            "text": {
+              "text": "Out of all the cat cafes i’ve been to this is one of the only ones that actually has good coffee and good food. The coffee is better than some local shops around town! The staff is very nice and well knowledgeable, and of course the kitties are insanely cute. everything is very reasonably priced too!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3NHSEBIXXgp3BrV34-vhM4RcVu8JzdLKq48F6_WUKmqnKRc0BmzNTLI5URATus3PqTrAi6wc6u7O8GzK5dFnHLlCY2rJ5z72W4239NeHQWvc04jRtJlU9HIPTPzO-U5wim6_ZpURBGogu9cld3dJky7plUNpx4Is5U3-iMIMNbxCXIJMW0vmsiIOtNoLJN_L9zyE7yDfxD_LPn-5lnVS34ly7Hax5spD0rIhKIkF-iPSu7yzeXbKlHH77MkFr8ln563uopgL3FaXha5LHhY3qlADz4027J3RcJZlxCSFglENRhE75QX9FlQhjxGneIlGhjlnhG0l2gDvDxz8wwB1EuAKuW6rVdidlR4X_msB5JWsdyeF5Y2vKblyL48KPi8dSWoyN6fV17p26UqKuWUL35VIMo1PWOfgJ2&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Bremerton": {
+    "city": "Bremerton",
+    "city_ascii": "Bremerton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5436,
+    "lng": -122.7121,
+    "cafes": [
+      {
+        "name": "Ziggy's Cat Lounge",
+        "address": "3627 Wheaton Wy Suite F, Bremerton, WA 98310, USA",
+        "rating": 4.8,
+        "user_ratings_total": 196,
+        "website": "http://ziggyscatlounge.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=6383820758661138091",
+        "lat": 47.599015099999995,
+        "lng": -122.63047159999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Jill Heistand",
+            "rating": 5,
+            "text": {
+              "text": "I love going to Ziggy’s! It’s such an awesome way to socialize with kitties and then being able to adopt them! You can tell the kitties are well taken care of and happy. I love going and have a blast every time! The coffee is super good too!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Megan Powell",
+            "rating": 5,
+            "text": {
+              "text": "Such a lovely place doing amazing work for kitties looking for forever homes! All of the cats here were sooo friendly, and it was such a good mix of ages and personalities. I've been to other cat lounges/cafes in the area and was a bit disappointed, but this place offered exactly the experience you hope for from a cat lounge! Caution: it will be very, very hard not to leave with one (or more!)",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Avery Gardiner",
+            "rating": 5,
+            "text": {
+              "text": "Surprised my partner with a visit here on his birthday and we both loved it!! The kittens are so sweet, lots of toys to play with them and I love that there’s a few spaces for them to get away when they get overwhelmed with all the attention. I didn’t try anything from the cafe but I love that you can take drinks into the cat room.\nI always check the bad reviews just for funsies and I love to see Shannon standing on business with the people that love to be difficult! I only talked to her very briefly but she seems sweet, the kitties are well taken care of and the rules are very clear so that everyone can enjoy the lounge and keep the kitties safe and happy. Just make sure you book ahead of time since it fills up quickly and read the rules you’re agreeing, it’s not that hard people!!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1RAKE1T4RQf61ZdmOuCmu6uF0_QohCSmYHmiZKBGSx2WwLKsz8R1Pt9zHjBUGd98ojUtKPqjRQvqNRLEJ0L508m8Ylsd3KaYs8cDkYB9aglUc_sEQIiubmHV8uSznNBjH6uvvONekysswbUu8MAJVyGCIQHoM34T3zwlXzO56s0dGIswH501uA1BWrcoXudiWmQ7QZoVCqY-g2eNoRggaIPnzJdZsyEngcaXWMUvhwGgFjdgT4YufxsS02tBAQ6t15XCSS1C5se8p4z28v-J5WNS0BTbmlN4GlxCWdKDWl1w&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Kennewick": {
+    "city": "Kennewick",
+    "city_ascii": "Kennewick",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.1978,
+    "lng": -119.1732,
+    "cafes": []
+  },
+  "Tacoma": {
+    "city": "Tacoma",
+    "city_ascii": "Tacoma",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2431,
+    "lng": -122.4531,
+    "cafes": []
+  },
+  "Vancouver": {
+    "city": "Vancouver",
+    "city_ascii": "Vancouver",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6366,
+    "lng": -122.5967,
+    "cafes": []
+  },
+  "Marysville": {
+    "city": "Marysville",
+    "city_ascii": "Marysville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0809,
+    "lng": -122.1561,
+    "cafes": []
+  },
+  "Bellevue": {
+    "city": "Bellevue",
+    "city_ascii": "Bellevue",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5951,
+    "lng": -122.1535,
+    "cafes": []
+  },
+  "Kent": {
+    "city": "Kent",
+    "city_ascii": "Kent",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3887,
+    "lng": -122.2128,
+    "cafes": []
+  },
+  "Yakima": {
+    "city": "Yakima",
+    "city_ascii": "Yakima",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5923,
+    "lng": -120.5496,
+    "cafes": []
+  },
+  "Everett": {
+    "city": "Everett",
+    "city_ascii": "Everett",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9525,
+    "lng": -122.1669,
+    "cafes": []
+  },
+  "Spokane Valley": {
+    "city": "Spokane Valley",
+    "city_ascii": "Spokane Valley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6626,
+    "lng": -117.2346,
+    "cafes": []
+  },
+  "Renton": {
+    "city": "Renton",
+    "city_ascii": "Renton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4784,
+    "lng": -122.1918,
+    "cafes": []
+  },
+  "Federal Way": {
+    "city": "Federal Way",
+    "city_ascii": "Federal Way",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3091,
+    "lng": -122.3358,
+    "cafes": []
+  },
+  "Kirkland": {
+    "city": "Kirkland",
+    "city_ascii": "Kirkland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.697,
+    "lng": -122.2057,
+    "cafes": []
+  },
+  "Auburn": {
+    "city": "Auburn",
+    "city_ascii": "Auburn",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3039,
+    "lng": -122.2108,
+    "cafes": []
+  },
+  "Wenatchee": {
+    "city": "Wenatchee",
+    "city_ascii": "Wenatchee",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.436,
+    "lng": -120.3295,
+    "cafes": []
+  },
+  "Pasco": {
+    "city": "Pasco",
+    "city_ascii": "Pasco",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2506,
+    "lng": -119.1305,
+    "cafes": []
+  },
+  "Redmond": {
+    "city": "Redmond",
+    "city_ascii": "Redmond",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6763,
+    "lng": -122.1169,
+    "cafes": []
+  },
+  "Longview": {
+    "city": "Longview",
+    "city_ascii": "Longview",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.1461,
+    "lng": -122.963,
+    "cafes": []
+  },
+  "South Hill": {
+    "city": "South Hill",
+    "city_ascii": "South Hill",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1198,
+    "lng": -122.2853,
+    "cafes": []
+  },
+  "Mount Vernon": {
+    "city": "Mount Vernon",
+    "city_ascii": "Mount Vernon",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.4203,
+    "lng": -122.3115,
+    "cafes": []
+  },
+  "Sammamish": {
+    "city": "Sammamish",
+    "city_ascii": "Sammamish",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6017,
+    "lng": -122.0416,
+    "cafes": []
+  },
+  "Lakewood": {
+    "city": "Lakewood",
+    "city_ascii": "Lakewood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1628,
+    "lng": -122.5299,
+    "cafes": []
+  },
+  "Richland": {
+    "city": "Richland",
+    "city_ascii": "Richland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2824,
+    "lng": -119.2939,
+    "cafes": []
+  },
+  "Shoreline": {
+    "city": "Shoreline",
+    "city_ascii": "Shoreline",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7564,
+    "lng": -122.3426,
+    "cafes": []
+  },
+  "Lacey": {
+    "city": "Lacey",
+    "city_ascii": "Lacey",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0462,
+    "lng": -122.7933,
+    "cafes": []
+  },
+  "Burien": {
+    "city": "Burien",
+    "city_ascii": "Burien",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4762,
+    "lng": -122.3394,
+    "cafes": []
+  },
+  "Bothell": {
+    "city": "Bothell",
+    "city_ascii": "Bothell",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7735,
+    "lng": -122.2044,
+    "cafes": []
+  },
+  "Edmonds": {
+    "city": "Edmonds",
+    "city_ascii": "Edmonds",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8115,
+    "lng": -122.3533,
+    "cafes": []
+  },
+  "Puyallup": {
+    "city": "Puyallup",
+    "city_ascii": "Puyallup",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1793,
+    "lng": -122.2902,
+    "cafes": []
+  },
+  "Lynnwood": {
+    "city": "Lynnwood",
+    "city_ascii": "Lynnwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8284,
+    "lng": -122.3033,
+    "cafes": []
+  },
+  "Lake Stevens": {
+    "city": "Lake Stevens",
+    "city_ascii": "Lake Stevens",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0024,
+    "lng": -122.0953,
+    "cafes": []
+  },
+  "Issaquah": {
+    "city": "Issaquah",
+    "city_ascii": "Issaquah",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5439,
+    "lng": -122.0471,
+    "cafes": []
+  },
+  "Parkland": {
+    "city": "Parkland",
+    "city_ascii": "Parkland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1417,
+    "lng": -122.4376,
+    "cafes": []
+  },
+  "Graham": {
+    "city": "Graham",
+    "city_ascii": "Graham",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0322,
+    "lng": -122.2827,
+    "cafes": []
+  },
+  "University Place": {
+    "city": "University Place",
+    "city_ascii": "University Place",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2147,
+    "lng": -122.5461,
+    "cafes": []
+  },
+  "Spanaway": {
+    "city": "Spanaway",
+    "city_ascii": "Spanaway",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0979,
+    "lng": -122.4233,
+    "cafes": []
+  },
+  "Walla Walla": {
+    "city": "Walla Walla",
+    "city_ascii": "Walla Walla",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.0671,
+    "lng": -118.3368,
+    "cafes": []
+  },
+  "Des Moines": {
+    "city": "Des Moines",
+    "city_ascii": "Des Moines",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3914,
+    "lng": -122.3156,
+    "cafes": []
+  },
+  "Pullman": {
+    "city": "Pullman",
+    "city_ascii": "Pullman",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7336,
+    "lng": -117.168,
+    "cafes": []
+  },
+  "SeaTac": {
+    "city": "SeaTac",
+    "city_ascii": "SeaTac",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4444,
+    "lng": -122.2986,
+    "cafes": []
+  },
+  "Orchards": {
+    "city": "Orchards",
+    "city_ascii": "Orchards",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.689,
+    "lng": -122.5306,
+    "cafes": []
+  },
+  "Maple Valley": {
+    "city": "Maple Valley",
+    "city_ascii": "Maple Valley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3659,
+    "lng": -122.0368,
+    "cafes": []
+  },
+  "Camas": {
+    "city": "Camas",
+    "city_ascii": "Camas",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6005,
+    "lng": -122.4304,
+    "cafes": []
+  },
+  "Tumwater": {
+    "city": "Tumwater",
+    "city_ascii": "Tumwater",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9891,
+    "lng": -122.9175,
+    "cafes": []
+  },
+  "Moses Lake": {
+    "city": "Moses Lake",
+    "city_ascii": "Moses Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1279,
+    "lng": -119.2759,
+    "cafes": []
+  },
+  "Mill Creek East": {
+    "city": "Mill Creek East",
+    "city_ascii": "Mill Creek East",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8361,
+    "lng": -122.1877,
+    "cafes": []
+  },
+  "Mercer Island": {
+    "city": "Mercer Island",
+    "city_ascii": "Mercer Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5661,
+    "lng": -122.232,
+    "cafes": []
+  },
+  "Bainbridge Island": {
+    "city": "Bainbridge Island",
+    "city_ascii": "Bainbridge Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6439,
+    "lng": -122.5434,
+    "cafes": []
+  },
+  "Oak Harbor": {
+    "city": "Oak Harbor",
+    "city_ascii": "Oak Harbor",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2964,
+    "lng": -122.6333,
+    "cafes": []
+  },
+  "Frederickson": {
+    "city": "Frederickson",
+    "city_ascii": "Frederickson",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0916,
+    "lng": -122.3603,
+    "cafes": []
+  },
+  "North Lynnwood": {
+    "city": "North Lynnwood",
+    "city_ascii": "North Lynnwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8533,
+    "lng": -122.2762,
+    "cafes": []
+  },
+  "Kenmore": {
+    "city": "Kenmore",
+    "city_ascii": "Kenmore",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7516,
+    "lng": -122.2489,
+    "cafes": []
+  },
+  "Eastmont": {
+    "city": "Eastmont",
+    "city_ascii": "Eastmont",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8968,
+    "lng": -122.1818,
+    "cafes": []
+  },
+  "Union Hill-Novelty Hill": {
+    "city": "Union Hill-Novelty Hill",
+    "city_ascii": "Union Hill-Novelty Hill",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6788,
+    "lng": -122.0284,
+    "cafes": []
+  },
+  "Cottage Lake": {
+    "city": "Cottage Lake",
+    "city_ascii": "Cottage Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7466,
+    "lng": -122.0755,
+    "cafes": []
+  },
+  "Hazel Dell": {
+    "city": "Hazel Dell",
+    "city_ascii": "Hazel Dell",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6797,
+    "lng": -122.6553,
+    "cafes": []
+  },
+  "Bonney Lake": {
+    "city": "Bonney Lake",
+    "city_ascii": "Bonney Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1791,
+    "lng": -122.17,
+    "cafes": []
+  },
+  "Martha Lake": {
+    "city": "Martha Lake",
+    "city_ascii": "Martha Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8479,
+    "lng": -122.2327,
+    "cafes": []
+  },
+  "Silver Firs": {
+    "city": "Silver Firs",
+    "city_ascii": "Silver Firs",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8635,
+    "lng": -122.1497,
+    "cafes": []
+  },
+  "Tukwila": {
+    "city": "Tukwila",
+    "city_ascii": "Tukwila",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.475,
+    "lng": -122.2728,
+    "cafes": []
+  },
+  "Five Corners": {
+    "city": "Five Corners",
+    "city_ascii": "Five Corners",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6883,
+    "lng": -122.5738,
+    "cafes": []
+  },
+  "Mountlake Terrace": {
+    "city": "Mountlake Terrace",
+    "city_ascii": "Mountlake Terrace",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7921,
+    "lng": -122.3077,
+    "cafes": []
+  },
+  "Mukilteo": {
+    "city": "Mukilteo",
+    "city_ascii": "Mukilteo",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9096,
+    "lng": -122.3035,
+    "cafes": []
+  },
+  "Battle Ground": {
+    "city": "Battle Ground",
+    "city_ascii": "Battle Ground",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7766,
+    "lng": -122.5413,
+    "cafes": []
+  },
+  "Silverdale": {
+    "city": "Silverdale",
+    "city_ascii": "Silverdale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6663,
+    "lng": -122.6828,
+    "cafes": []
+  },
+  "Bothell West": {
+    "city": "Bothell West",
+    "city_ascii": "Bothell West",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8056,
+    "lng": -122.2401,
+    "cafes": []
+  },
+  "Covington": {
+    "city": "Covington",
+    "city_ascii": "Covington",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3667,
+    "lng": -122.1045,
+    "cafes": []
+  },
+  "Mill Creek": {
+    "city": "Mill Creek",
+    "city_ascii": "Mill Creek",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8631,
+    "lng": -122.2037,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1701,
+    "lng": -122.1442,
+    "cafes": []
+  },
+  "Port Angeles": {
+    "city": "Port Angeles",
+    "city_ascii": "Port Angeles",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1141,
+    "lng": -123.4565,
+    "cafes": []
+  },
+  "Monroe": {
+    "city": "Monroe",
+    "city_ascii": "Monroe",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8595,
+    "lng": -121.9851,
+    "cafes": []
+  },
+  "Salmon Creek": {
+    "city": "Salmon Creek",
+    "city_ascii": "Salmon Creek",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7099,
+    "lng": -122.6632,
+    "cafes": []
+  },
+  "Ellensburg": {
+    "city": "Ellensburg",
+    "city_ascii": "Ellensburg",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9999,
+    "lng": -120.5475,
+    "cafes": []
+  },
+  "Centralia": {
+    "city": "Centralia",
+    "city_ascii": "Centralia",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7223,
+    "lng": -122.9696,
+    "cafes": []
+  },
+  "Fairwood": {
+    "city": "Fairwood",
+    "city_ascii": "Fairwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4467,
+    "lng": -122.143,
+    "cafes": []
+  },
+  "Anacortes": {
+    "city": "Anacortes",
+    "city_ascii": "Anacortes",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.4878,
+    "lng": -122.6292,
+    "cafes": []
+  },
+  "Bryn Mawr-Skyway": {
+    "city": "Bryn Mawr-Skyway",
+    "city_ascii": "Bryn Mawr-Skyway",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4949,
+    "lng": -122.241,
+    "cafes": []
+  },
+  "Camano": {
+    "city": "Camano",
+    "city_ascii": "Camano",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1865,
+    "lng": -122.4708,
+    "cafes": []
+  },
+  "West Richland": {
+    "city": "West Richland",
+    "city_ascii": "West Richland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3115,
+    "lng": -119.3999,
+    "cafes": []
+  },
+  "Aberdeen": {
+    "city": "Aberdeen",
+    "city_ascii": "Aberdeen",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9757,
+    "lng": -123.8094,
+    "cafes": []
+  },
+  "Washougal": {
+    "city": "Washougal",
+    "city_ascii": "Washougal",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.5825,
+    "lng": -122.3451,
+    "cafes": []
+  },
+  "Port Orchard": {
+    "city": "Port Orchard",
+    "city_ascii": "Port Orchard",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5163,
+    "lng": -122.661,
+    "cafes": []
+  },
+  "Sunnyside": {
+    "city": "Sunnyside",
+    "city_ascii": "Sunnyside",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3157,
+    "lng": -120.0058,
+    "cafes": []
+  },
+  "Lynden": {
+    "city": "Lynden",
+    "city_ascii": "Lynden",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9502,
+    "lng": -122.4545,
+    "cafes": []
+  },
+  "Lake Stickney": {
+    "city": "Lake Stickney",
+    "city_ascii": "Lake Stickney",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8733,
+    "lng": -122.2582,
+    "cafes": []
+  },
+  "Ferndale": {
+    "city": "Ferndale",
+    "city_ascii": "Ferndale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.8526,
+    "lng": -122.5894,
+    "cafes": []
+  },
+  "White Center": {
+    "city": "White Center",
+    "city_ascii": "White Center",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5086,
+    "lng": -122.3479,
+    "cafes": []
+  },
+  "Lakeland North": {
+    "city": "Lakeland North",
+    "city_ascii": "Lakeland North",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3374,
+    "lng": -122.2812,
+    "cafes": []
+  },
+  "Bothell East": {
+    "city": "Bothell East",
+    "city_ascii": "Bothell East",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8064,
+    "lng": -122.1844,
+    "cafes": []
+  },
+  "East Wenatchee": {
+    "city": "East Wenatchee",
+    "city_ascii": "East Wenatchee",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4174,
+    "lng": -120.2822,
+    "cafes": []
+  },
+  "Artondale": {
+    "city": "Artondale",
+    "city_ascii": "Artondale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3021,
+    "lng": -122.6406,
+    "cafes": []
+  },
+  "Fort Lewis": {
+    "city": "Fort Lewis",
+    "city_ascii": "Fort Lewis",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0955,
+    "lng": -122.5674,
+    "cafes": []
+  },
+  "Elk Plain": {
+    "city": "Elk Plain",
+    "city_ascii": "Elk Plain",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0425,
+    "lng": -122.3663,
+    "cafes": []
+  },
+  "Snoqualmie": {
+    "city": "Snoqualmie",
+    "city_ascii": "Snoqualmie",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5293,
+    "lng": -121.8412,
+    "cafes": []
+  },
+  "Woodinville": {
+    "city": "Woodinville",
+    "city_ascii": "Woodinville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.757,
+    "lng": -122.1477,
+    "cafes": []
+  },
+  "Lake Forest Park": {
+    "city": "Lake Forest Park",
+    "city_ascii": "Lake Forest Park",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7574,
+    "lng": -122.2864,
+    "cafes": []
+  },
+  "Newcastle": {
+    "city": "Newcastle",
+    "city_ascii": "Newcastle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5304,
+    "lng": -122.1633,
+    "cafes": []
+  },
+  "Lakeland South": {
+    "city": "Lakeland South",
+    "city_ascii": "Lakeland South",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2786,
+    "lng": -122.2826,
+    "cafes": []
+  },
+  "Cheney": {
+    "city": "Cheney",
+    "city_ascii": "Cheney",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4901,
+    "lng": -117.579,
+    "cafes": []
+  },
+  "Kelso": {
+    "city": "Kelso",
+    "city_ascii": "Kelso",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.1236,
+    "lng": -122.8909,
+    "cafes": []
+  },
+  "Edgewood": {
+    "city": "Edgewood",
+    "city_ascii": "Edgewood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2309,
+    "lng": -122.2832,
+    "cafes": []
+  },
+  "Enumclaw": {
+    "city": "Enumclaw",
+    "city_ascii": "Enumclaw",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2018,
+    "lng": -121.9897,
+    "cafes": []
+  },
+  "Sedro-Woolley": {
+    "city": "Sedro-Woolley",
+    "city_ascii": "Sedro-Woolley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.5112,
+    "lng": -122.2321,
+    "cafes": []
+  },
+  "Ridgefield": {
+    "city": "Ridgefield",
+    "city_ascii": "Ridgefield",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.8114,
+    "lng": -122.7051,
+    "cafes": []
+  },
+  "Liberty Lake": {
+    "city": "Liberty Lake",
+    "city_ascii": "Liberty Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6686,
+    "lng": -117.1036,
+    "cafes": []
+  },
+  "Lake Tapps": {
+    "city": "Lake Tapps",
+    "city_ascii": "Lake Tapps",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2307,
+    "lng": -122.1695,
+    "cafes": []
+  },
+  "East Renton Highlands": {
+    "city": "East Renton Highlands",
+    "city_ascii": "East Renton Highlands",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4718,
+    "lng": -122.0854,
+    "cafes": []
+  },
+  "Gig Harbor": {
+    "city": "Gig Harbor",
+    "city_ascii": "Gig Harbor",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3352,
+    "lng": -122.5964,
+    "cafes": []
+  },
+  "Minnehaha": {
+    "city": "Minnehaha",
+    "city_ascii": "Minnehaha",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6577,
+    "lng": -122.6204,
+    "cafes": []
+  },
+  "Prairie Ridge": {
+    "city": "Prairie Ridge",
+    "city_ascii": "Prairie Ridge",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1438,
+    "lng": -122.1408,
+    "cafes": []
+  },
+  "Poulsbo": {
+    "city": "Poulsbo",
+    "city_ascii": "Poulsbo",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7417,
+    "lng": -122.6407,
+    "cafes": []
+  },
+  "Birch Bay": {
+    "city": "Birch Bay",
+    "city_ascii": "Birch Bay",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9243,
+    "lng": -122.7519,
+    "cafes": []
+  },
+  "Grandview": {
+    "city": "Grandview",
+    "city_ascii": "Grandview",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2443,
+    "lng": -119.9092,
+    "cafes": []
+  },
+  "Fife": {
+    "city": "Fife",
+    "city_ascii": "Fife",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2329,
+    "lng": -122.3518,
+    "cafes": []
+  },
+  "Maltby": {
+    "city": "Maltby",
+    "city_ascii": "Maltby",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8027,
+    "lng": -122.1044,
+    "cafes": []
+  },
+  "Airway Heights": {
+    "city": "Airway Heights",
+    "city_ascii": "Airway Heights",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6459,
+    "lng": -117.5792,
+    "cafes": []
+  },
+  "Felida": {
+    "city": "Felida",
+    "city_ascii": "Felida",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7138,
+    "lng": -122.7103,
+    "cafes": []
+  },
+  "Sumner": {
+    "city": "Sumner",
+    "city_ascii": "Sumner",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2189,
+    "lng": -122.2338,
+    "cafes": []
+  },
+  "Mount Vista": {
+    "city": "Mount Vista",
+    "city_ascii": "Mount Vista",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7373,
+    "lng": -122.6316,
+    "cafes": []
+  },
+  "Shelton": {
+    "city": "Shelton",
+    "city_ascii": "Shelton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2186,
+    "lng": -123.1121,
+    "cafes": []
+  },
+  "Yelm": {
+    "city": "Yelm",
+    "city_ascii": "Yelm",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9398,
+    "lng": -122.6262,
+    "cafes": []
+  },
+  "Lake Morton-Berrydale": {
+    "city": "Lake Morton-Berrydale",
+    "city_ascii": "Lake Morton-Berrydale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3325,
+    "lng": -122.1032,
+    "cafes": []
+  },
+  "Vashon": {
+    "city": "Vashon",
+    "city_ascii": "Vashon",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4122,
+    "lng": -122.4726,
+    "cafes": []
+  },
+  "Port Townsend": {
+    "city": "Port Townsend",
+    "city_ascii": "Port Townsend",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.122,
+    "lng": -122.7877,
+    "cafes": []
+  },
+  "Snohomish": {
+    "city": "Snohomish",
+    "city_ascii": "Snohomish",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9276,
+    "lng": -122.0969,
+    "cafes": []
+  },
+  "Alderwood Manor": {
+    "city": "Alderwood Manor",
+    "city_ascii": "Alderwood Manor",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8146,
+    "lng": -122.2672,
+    "cafes": []
+  },
+  "DuPont": {
+    "city": "DuPont",
+    "city_ascii": "DuPont",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1079,
+    "lng": -122.6495,
+    "cafes": []
+  },
+  "Picnic Point": {
+    "city": "Picnic Point",
+    "city_ascii": "Picnic Point",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8744,
+    "lng": -122.3077,
+    "cafes": []
+  },
+  "College Place": {
+    "city": "College Place",
+    "city_ascii": "College Place",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.0419,
+    "lng": -118.3878,
+    "cafes": []
+  },
+  "Burlington": {
+    "city": "Burlington",
+    "city_ascii": "Burlington",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.4676,
+    "lng": -122.3298,
+    "cafes": []
+  },
+  "Terrace Heights": {
+    "city": "Terrace Heights",
+    "city_ascii": "Terrace Heights",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6045,
+    "lng": -120.4393,
+    "cafes": []
+  },
+  "Summit View": {
+    "city": "Summit View",
+    "city_ascii": "Summit View",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1343,
+    "lng": -122.3467,
+    "cafes": []
+  },
+  "Orting": {
+    "city": "Orting",
+    "city_ascii": "Orting",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0967,
+    "lng": -122.2112,
+    "cafes": []
+  },
+  "Summit": {
+    "city": "Summit",
+    "city_ascii": "Summit",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1694,
+    "lng": -122.3628,
+    "cafes": []
+  },
+  "Hoquiam": {
+    "city": "Hoquiam",
+    "city_ascii": "Hoquiam",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9863,
+    "lng": -123.9022,
+    "cafes": []
+  },
+  "Milton": {
+    "city": "Milton",
+    "city_ascii": "Milton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2524,
+    "lng": -122.3153,
+    "cafes": []
+  },
+  "Toppenish": {
+    "city": "Toppenish",
+    "city_ascii": "Toppenish",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3806,
+    "lng": -120.3122,
+    "cafes": []
+  },
+  "Othello": {
+    "city": "Othello",
+    "city_ascii": "Othello",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8221,
+    "lng": -119.1653,
+    "cafes": []
+  },
+  "Midland": {
+    "city": "Midland",
+    "city_ascii": "Midland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1734,
+    "lng": -122.412,
+    "cafes": []
+  },
+  "Ephrata": {
+    "city": "Ephrata",
+    "city_ascii": "Ephrata",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3122,
+    "lng": -119.5341,
+    "cafes": []
+  },
+  "Stanwood": {
+    "city": "Stanwood",
+    "city_ascii": "Stanwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2449,
+    "lng": -122.3426,
+    "cafes": []
+  },
+  "Selah": {
+    "city": "Selah",
+    "city_ascii": "Selah",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6481,
+    "lng": -120.539,
+    "cafes": []
+  },
+  "Duvall": {
+    "city": "Duvall",
+    "city_ascii": "Duvall",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7354,
+    "lng": -121.9726,
+    "cafes": []
+  },
+  "Barberton": {
+    "city": "Barberton",
+    "city_ascii": "Barberton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7136,
+    "lng": -122.6115,
+    "cafes": []
+  },
+  "Sequim": {
+    "city": "Sequim",
+    "city_ascii": "Sequim",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0746,
+    "lng": -123.0945,
+    "cafes": []
+  },
+  "Quincy": {
+    "city": "Quincy",
+    "city_ascii": "Quincy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2344,
+    "lng": -119.853,
+    "cafes": []
+  },
+  "Waller": {
+    "city": "Waller",
+    "city_ascii": "Waller",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2035,
+    "lng": -122.37,
+    "cafes": []
+  },
+  "North Bend": {
+    "city": "North Bend",
+    "city_ascii": "North Bend",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.49,
+    "lng": -121.7741,
+    "cafes": []
+  },
+  "Chehalis": {
+    "city": "Chehalis",
+    "city_ascii": "Chehalis",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6638,
+    "lng": -122.965,
+    "cafes": []
+  },
+  "Clarkston": {
+    "city": "Clarkston",
+    "city_ascii": "Clarkston",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4161,
+    "lng": -117.0505,
+    "cafes": []
+  },
+  "Mead": {
+    "city": "Mead",
+    "city_ascii": "Mead",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7795,
+    "lng": -117.35,
+    "cafes": []
+  },
+  "Clarkston Heights-Vineland": {
+    "city": "Clarkston Heights-Vineland",
+    "city_ascii": "Clarkston Heights-Vineland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.377,
+    "lng": -117.092,
+    "cafes": []
+  },
+  "Clover Creek": {
+    "city": "Clover Creek",
+    "city_ascii": "Clover Creek",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1404,
+    "lng": -122.3827,
+    "cafes": []
+  },
+  "Fircrest": {
+    "city": "Fircrest",
+    "city_ascii": "Fircrest",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2307,
+    "lng": -122.5157,
+    "cafes": []
+  },
+  "Ocean Shores": {
+    "city": "Ocean Shores",
+    "city_ascii": "Ocean Shores",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9684,
+    "lng": -124.152,
+    "cafes": []
+  },
+  "Pacific": {
+    "city": "Pacific",
+    "city_ascii": "Pacific",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.261,
+    "lng": -122.2507,
+    "cafes": []
+  },
+  "Woods Creek": {
+    "city": "Woods Creek",
+    "city_ascii": "Woods Creek",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8822,
+    "lng": -121.8981,
+    "cafes": []
+  },
+  "Parkwood": {
+    "city": "Parkwood",
+    "city_ascii": "Parkwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5266,
+    "lng": -122.5986,
+    "cafes": []
+  },
+  "Sudden Valley": {
+    "city": "Sudden Valley",
+    "city_ascii": "Sudden Valley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.7236,
+    "lng": -122.3442,
+    "cafes": []
+  },
+  "Wollochet": {
+    "city": "Wollochet",
+    "city_ascii": "Wollochet",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2828,
+    "lng": -122.5768,
+    "cafes": []
+  },
+  "Hobart": {
+    "city": "Hobart",
+    "city_ascii": "Hobart",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.412,
+    "lng": -121.996,
+    "cafes": []
+  },
+  "Tanglewilde": {
+    "city": "Tanglewilde",
+    "city_ascii": "Tanglewilde",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0512,
+    "lng": -122.7809,
+    "cafes": []
+  },
+  "Tehaleh": {
+    "city": "Tehaleh",
+    "city_ascii": "Tehaleh",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1165,
+    "lng": -122.1824,
+    "cafes": []
+  },
+  "Steilacoom": {
+    "city": "Steilacoom",
+    "city_ascii": "Steilacoom",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1703,
+    "lng": -122.5933,
+    "cafes": []
+  },
+  "Normandy Park": {
+    "city": "Normandy Park",
+    "city_ascii": "Normandy Park",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4342,
+    "lng": -122.3436,
+    "cafes": []
+  },
+  "Lake Shore": {
+    "city": "Lake Shore",
+    "city_ascii": "Lake Shore",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6911,
+    "lng": -122.6911,
+    "cafes": []
+  },
+  "Woodland": {
+    "city": "Woodland",
+    "city_ascii": "Woodland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.9145,
+    "lng": -122.7505,
+    "cafes": []
+  },
+  "Union Gap": {
+    "city": "Union Gap",
+    "city_ascii": "Union Gap",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5566,
+    "lng": -120.4979,
+    "cafes": []
+  },
+  "Brier": {
+    "city": "Brier",
+    "city_ascii": "Brier",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7924,
+    "lng": -122.2734,
+    "cafes": []
+  },
+  "Prosser": {
+    "city": "Prosser",
+    "city_ascii": "Prosser",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2068,
+    "lng": -119.7663,
+    "cafes": []
+  },
+  "Rochester": {
+    "city": "Rochester",
+    "city_ascii": "Rochester",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8198,
+    "lng": -123.0636,
+    "cafes": []
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5519,
+    "lng": -122.5517,
+    "cafes": []
+  },
+  "Hockinson": {
+    "city": "Hockinson",
+    "city_ascii": "Hockinson",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7302,
+    "lng": -122.4833,
+    "cafes": []
+  },
+  "North Fort Lewis": {
+    "city": "North Fort Lewis",
+    "city_ascii": "North Fort Lewis",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1222,
+    "lng": -122.5962,
+    "cafes": []
+  },
+  "Blaine": {
+    "city": "Blaine",
+    "city_ascii": "Blaine",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9839,
+    "lng": -122.7414,
+    "cafes": []
+  },
+  "Country Homes": {
+    "city": "Country Homes",
+    "city_ascii": "Country Homes",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7479,
+    "lng": -117.4199,
+    "cafes": []
+  },
+  "Bangor Base": {
+    "city": "Bangor Base",
+    "city_ascii": "Bangor Base",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7226,
+    "lng": -122.7144,
+    "cafes": []
+  },
+  "Sultan": {
+    "city": "Sultan",
+    "city_ascii": "Sultan",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.871,
+    "lng": -121.8043,
+    "cafes": []
+  },
+  "Maplewood": {
+    "city": "Maplewood",
+    "city_ascii": "Maplewood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3715,
+    "lng": -122.5689,
+    "cafes": []
+  },
+  "Finley": {
+    "city": "Finley",
+    "city_ascii": "Finley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.1697,
+    "lng": -119.0447,
+    "cafes": []
+  },
+  "Lake Goodwin": {
+    "city": "Lake Goodwin",
+    "city_ascii": "Lake Goodwin",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1343,
+    "lng": -122.2785,
+    "cafes": []
+  },
+  "Black Diamond": {
+    "city": "Black Diamond",
+    "city_ascii": "Black Diamond",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.313,
+    "lng": -122.0181,
+    "cafes": []
+  },
+  "West Clarkston-Highland": {
+    "city": "West Clarkston-Highland",
+    "city_ascii": "West Clarkston-Highland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4017,
+    "lng": -117.0624,
+    "cafes": []
+  },
+  "Tracyton": {
+    "city": "Tracyton",
+    "city_ascii": "Tracyton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6094,
+    "lng": -122.6533,
+    "cafes": []
+  },
+  "Suncrest": {
+    "city": "Suncrest",
+    "city_ascii": "Suncrest",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8297,
+    "lng": -117.6056,
+    "cafes": []
+  },
+  "East Port Orchard": {
+    "city": "East Port Orchard",
+    "city_ascii": "East Port Orchard",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5194,
+    "lng": -122.6183,
+    "cafes": []
+  },
+  "Otis Orchards-East Farms": {
+    "city": "Otis Orchards-East Farms",
+    "city_ascii": "Otis Orchards-East Farms",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.703,
+    "lng": -117.0854,
+    "cafes": []
+  },
+  "Town and Country": {
+    "city": "Town and Country",
+    "city_ascii": "Town and Country",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7259,
+    "lng": -117.422,
+    "cafes": []
+  },
+  "Buckley": {
+    "city": "Buckley",
+    "city_ascii": "Buckley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1615,
+    "lng": -122.02,
+    "cafes": []
+  },
+  "Connell": {
+    "city": "Connell",
+    "city_ascii": "Connell",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6622,
+    "lng": -118.8405,
+    "cafes": []
+  },
+  "Chain Lake": {
+    "city": "Chain Lake",
+    "city_ascii": "Chain Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9028,
+    "lng": -121.985,
+    "cafes": []
+  },
+  "Colville": {
+    "city": "Colville",
+    "city_ascii": "Colville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.5454,
+    "lng": -117.8985,
+    "cafes": []
+  },
+  "Omak": {
+    "city": "Omak",
+    "city_ascii": "Omak",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.4229,
+    "lng": -119.5159,
+    "cafes": []
+  },
+  "Medical Lake": {
+    "city": "Medical Lake",
+    "city_ascii": "Medical Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5712,
+    "lng": -117.6893,
+    "cafes": []
+  },
+  "Wauna": {
+    "city": "Wauna",
+    "city_ascii": "Wauna",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.386,
+    "lng": -122.6695,
+    "cafes": []
+  },
+  "Venersborg": {
+    "city": "Venersborg",
+    "city_ascii": "Venersborg",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.786,
+    "lng": -122.4721,
+    "cafes": []
+  },
+  "Prairie Heights": {
+    "city": "Prairie Heights",
+    "city_ascii": "Prairie Heights",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1529,
+    "lng": -122.1048,
+    "cafes": []
+  },
+  "Longbranch": {
+    "city": "Longbranch",
+    "city_ascii": "Longbranch",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2257,
+    "lng": -122.7739,
+    "cafes": []
+  },
+  "Moses Lake North": {
+    "city": "Moses Lake North",
+    "city_ascii": "Moses Lake North",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1949,
+    "lng": -119.3178,
+    "cafes": []
+  },
+  "Granite Falls": {
+    "city": "Granite Falls",
+    "city_ascii": "Granite Falls",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0874,
+    "lng": -121.9706,
+    "cafes": []
+  },
+  "Deer Park": {
+    "city": "Deer Park",
+    "city_ascii": "Deer Park",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9642,
+    "lng": -117.4398,
+    "cafes": []
+  },
+  "Belfair": {
+    "city": "Belfair",
+    "city_ascii": "Belfair",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4495,
+    "lng": -122.8487,
+    "cafes": []
+  },
+  "Wapato": {
+    "city": "Wapato",
+    "city_ascii": "Wapato",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4437,
+    "lng": -120.4215,
+    "cafes": []
+  },
+  "Moxee": {
+    "city": "Moxee",
+    "city_ascii": "Moxee",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.564,
+    "lng": -120.3966,
+    "cafes": []
+  },
+  "Suquamish": {
+    "city": "Suquamish",
+    "city_ascii": "Suquamish",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7238,
+    "lng": -122.583,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.1899,
+    "lng": -122.9125,
+    "cafes": []
+  },
+  "Longview Heights": {
+    "city": "Longview Heights",
+    "city_ascii": "Longview Heights",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.1794,
+    "lng": -122.9568,
+    "cafes": []
+  },
+  "Boulevard Park": {
+    "city": "Boulevard Park",
+    "city_ascii": "Boulevard Park",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5137,
+    "lng": -122.316,
+    "cafes": []
+  },
+  "Chelan": {
+    "city": "Chelan",
+    "city_ascii": "Chelan",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8415,
+    "lng": -120.0262,
+    "cafes": []
+  },
+  "Bethel": {
+    "city": "Bethel",
+    "city_ascii": "Bethel",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4874,
+    "lng": -122.6175,
+    "cafes": []
+  },
+  "Rosedale": {
+    "city": "Rosedale",
+    "city_ascii": "Rosedale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3452,
+    "lng": -122.6369,
+    "cafes": []
+  },
+  "Mirrormont": {
+    "city": "Mirrormont",
+    "city_ascii": "Mirrormont",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4616,
+    "lng": -121.9937,
+    "cafes": []
+  },
+  "Montesano": {
+    "city": "Montesano",
+    "city_ascii": "Montesano",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0102,
+    "lng": -123.5857,
+    "cafes": []
+  },
+  "Larch Way": {
+    "city": "Larch Way",
+    "city_ascii": "Larch Way",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8429,
+    "lng": -122.2528,
+    "cafes": []
+  },
+  "Esperance": {
+    "city": "Esperance",
+    "city_ascii": "Esperance",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7937,
+    "lng": -122.3469,
+    "cafes": []
+  },
+  "La Center": {
+    "city": "La Center",
+    "city_ascii": "La Center",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.8601,
+    "lng": -122.6756,
+    "cafes": []
+  },
+  "Cascade Valley": {
+    "city": "Cascade Valley",
+    "city_ascii": "Cascade Valley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1417,
+    "lng": -119.326,
+    "cafes": []
+  },
+  "Bunk Foss": {
+    "city": "Bunk Foss",
+    "city_ascii": "Bunk Foss",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9618,
+    "lng": -122.0944,
+    "cafes": []
+  },
+  "Grand Mound": {
+    "city": "Grand Mound",
+    "city_ascii": "Grand Mound",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8018,
+    "lng": -123.0118,
+    "cafes": []
+  },
+  "Port Hadlock-Irondale": {
+    "city": "Port Hadlock-Irondale",
+    "city_ascii": "Port Hadlock-Irondale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0316,
+    "lng": -122.789,
+    "cafes": []
+  },
+  "Maple Heights-Lake Desire": {
+    "city": "Maple Heights-Lake Desire",
+    "city_ascii": "Maple Heights-Lake Desire",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4441,
+    "lng": -122.0972,
+    "cafes": []
+  },
+  "Sunnyslope": {
+    "city": "Sunnyslope",
+    "city_ascii": "Sunnyslope",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4913,
+    "lng": -120.3493,
+    "cafes": []
+  },
+  "Lake Holm": {
+    "city": "Lake Holm",
+    "city_ascii": "Lake Holm",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2985,
+    "lng": -122.1335,
+    "cafes": []
+  },
+  "Granger": {
+    "city": "Granger",
+    "city_ascii": "Granger",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3454,
+    "lng": -120.1925,
+    "cafes": []
+  },
+  "Burbank": {
+    "city": "Burbank",
+    "city_ascii": "Burbank",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2016,
+    "lng": -118.9891,
+    "cafes": []
+  },
+  "Key Center": {
+    "city": "Key Center",
+    "city_ascii": "Key Center",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3376,
+    "lng": -122.7506,
+    "cafes": []
+  },
+  "Ahtanum": {
+    "city": "Ahtanum",
+    "city_ascii": "Ahtanum",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5573,
+    "lng": -120.6138,
+    "cafes": []
+  },
+  "Marietta-Alderwood": {
+    "city": "Marietta-Alderwood",
+    "city_ascii": "Marietta-Alderwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.7934,
+    "lng": -122.5573,
+    "cafes": []
+  },
+  "Benton City": {
+    "city": "Benton City",
+    "city_ascii": "Benton City",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2622,
+    "lng": -119.4812,
+    "cafes": []
+  },
+  "Canyon Creek": {
+    "city": "Canyon Creek",
+    "city_ascii": "Canyon Creek",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1157,
+    "lng": -121.9832,
+    "cafes": []
+  },
+  "Mattawa": {
+    "city": "Mattawa",
+    "city_ascii": "Mattawa",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.737,
+    "lng": -119.9043,
+    "cafes": []
+  },
+  "Hansville": {
+    "city": "Hansville",
+    "city_ascii": "Hansville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8979,
+    "lng": -122.5579,
+    "cafes": []
+  },
+  "Indianola": {
+    "city": "Indianola",
+    "city_ascii": "Indianola",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7564,
+    "lng": -122.5158,
+    "cafes": []
+  },
+  "Clearview": {
+    "city": "Clearview",
+    "city_ascii": "Clearview",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8292,
+    "lng": -122.1451,
+    "cafes": []
+  },
+  "Three Lakes": {
+    "city": "Three Lakes",
+    "city_ascii": "Three Lakes",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.942,
+    "lng": -121.9924,
+    "cafes": []
+  },
+  "Goldendale": {
+    "city": "Goldendale",
+    "city_ascii": "Goldendale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.8192,
+    "lng": -120.8233,
+    "cafes": []
+  },
+  "Elma": {
+    "city": "Elma",
+    "city_ascii": "Elma",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0055,
+    "lng": -123.4112,
+    "cafes": []
+  },
+  "Forks": {
+    "city": "Forks",
+    "city_ascii": "Forks",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9527,
+    "lng": -124.3903,
+    "cafes": []
+  },
+  "Fox Island": {
+    "city": "Fox Island",
+    "city_ascii": "Fox Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2477,
+    "lng": -122.6256,
+    "cafes": []
+  },
+  "Lake Cassidy": {
+    "city": "Lake Cassidy",
+    "city_ascii": "Lake Cassidy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0639,
+    "lng": -122.092,
+    "cafes": []
+  },
+  "Warm Beach": {
+    "city": "Warm Beach",
+    "city_ascii": "Warm Beach",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1665,
+    "lng": -122.3448,
+    "cafes": []
+  },
+  "Cashmere": {
+    "city": "Cashmere",
+    "city_ascii": "Cashmere",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5175,
+    "lng": -120.467,
+    "cafes": []
+  },
+  "Algona": {
+    "city": "Algona",
+    "city_ascii": "Algona",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.282,
+    "lng": -122.2504,
+    "cafes": []
+  },
+  "Central Park": {
+    "city": "Central Park",
+    "city_ascii": "Central Park",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9705,
+    "lng": -123.7018,
+    "cafes": []
+  },
+  "Zillah": {
+    "city": "Zillah",
+    "city_ascii": "Zillah",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4084,
+    "lng": -120.2727,
+    "cafes": []
+  },
+  "Raymond": {
+    "city": "Raymond",
+    "city_ascii": "Raymond",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6839,
+    "lng": -123.738,
+    "cafes": []
+  },
+  "High Bridge": {
+    "city": "High Bridge",
+    "city_ascii": "High Bridge",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7968,
+    "lng": -122.0281,
+    "cafes": []
+  },
+  "Gleed": {
+    "city": "Gleed",
+    "city_ascii": "Gleed",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6594,
+    "lng": -120.6025,
+    "cafes": []
+  },
+  "Clyde Hill": {
+    "city": "Clyde Hill",
+    "city_ascii": "Clyde Hill",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6304,
+    "lng": -122.218,
+    "cafes": []
+  },
+  "Lochsloy": {
+    "city": "Lochsloy",
+    "city_ascii": "Lochsloy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0598,
+    "lng": -122.0411,
+    "cafes": []
+  },
+  "Port Angeles East": {
+    "city": "Port Angeles East",
+    "city_ascii": "Port Angeles East",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1041,
+    "lng": -123.3694,
+    "cafes": []
+  },
+  "Chico": {
+    "city": "Chico",
+    "city_ascii": "Chico",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6226,
+    "lng": -122.7193,
+    "cafes": []
+  },
+  "Fairchild AFB": {
+    "city": "Fairchild AFB",
+    "city_ascii": "Fairchild AFB",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6187,
+    "lng": -117.6484,
+    "cafes": []
+  },
+  "Kalama": {
+    "city": "Kalama",
+    "city_ascii": "Kalama",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.0164,
+    "lng": -122.8402,
+    "cafes": []
+  },
+  "Arlington Heights": {
+    "city": "Arlington Heights",
+    "city_ascii": "Arlington Heights",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2119,
+    "lng": -122.063,
+    "cafes": []
+  },
+  "Everson": {
+    "city": "Everson",
+    "city_ascii": "Everson",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9125,
+    "lng": -122.3507,
+    "cafes": []
+  },
+  "Port Ludlow": {
+    "city": "Port Ludlow",
+    "city_ascii": "Port Ludlow",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9101,
+    "lng": -122.7006,
+    "cafes": []
+  },
+  "Canterwood": {
+    "city": "Canterwood",
+    "city_ascii": "Canterwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3765,
+    "lng": -122.6021,
+    "cafes": []
+  },
+  "Desert Aire": {
+    "city": "Desert Aire",
+    "city_ascii": "Desert Aire",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6873,
+    "lng": -119.931,
+    "cafes": []
+  },
+  "Meadowdale": {
+    "city": "Meadowdale",
+    "city_ascii": "Meadowdale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8583,
+    "lng": -122.316,
+    "cafes": []
+  },
+  "Sisco Heights": {
+    "city": "Sisco Heights",
+    "city_ascii": "Sisco Heights",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.118,
+    "lng": -122.1112,
+    "cafes": []
+  },
+  "McChord AFB": {
+    "city": "McChord AFB",
+    "city_ascii": "McChord AFB",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.133,
+    "lng": -122.4923,
+    "cafes": []
+  },
+  "Medina": {
+    "city": "Medina",
+    "city_ascii": "Medina",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6273,
+    "lng": -122.2427,
+    "cafes": []
+  },
+  "Alderton": {
+    "city": "Alderton",
+    "city_ascii": "Alderton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1728,
+    "lng": -122.2209,
+    "cafes": []
+  },
+  "Eatonville": {
+    "city": "Eatonville",
+    "city_ascii": "Eatonville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8682,
+    "lng": -122.2697,
+    "cafes": []
+  },
+  "Colfax": {
+    "city": "Colfax",
+    "city_ascii": "Colfax",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9029,
+    "lng": -117.34,
+    "cafes": []
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "city_ascii": "Dayton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3168,
+    "lng": -117.9767,
+    "cafes": []
+  },
+  "Friday Harbor": {
+    "city": "Friday Harbor",
+    "city_ascii": "Friday Harbor",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.5324,
+    "lng": -123.0657,
+    "cafes": []
+  },
+  "Fobes Hill": {
+    "city": "Fobes Hill",
+    "city_ascii": "Fobes Hill",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9392,
+    "lng": -122.1341,
+    "cafes": []
+  },
+  "Leavenworth": {
+    "city": "Leavenworth",
+    "city_ascii": "Leavenworth",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5952,
+    "lng": -120.6628,
+    "cafes": []
+  },
+  "Peaceful Valley": {
+    "city": "Peaceful Valley",
+    "city_ascii": "Peaceful Valley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9507,
+    "lng": -122.1484,
+    "cafes": []
+  },
+  "Allyn": {
+    "city": "Allyn",
+    "city_ascii": "Allyn",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3863,
+    "lng": -122.8386,
+    "cafes": []
+  },
+  "Big Lake": {
+    "city": "Big Lake",
+    "city_ascii": "Big Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.389,
+    "lng": -122.2435,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7927,
+    "lng": -122.5078,
+    "cafes": []
+  },
+  "Brush Prairie": {
+    "city": "Brush Prairie",
+    "city_ascii": "Brush Prairie",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.725,
+    "lng": -122.5483,
+    "cafes": []
+  },
+  "Carson": {
+    "city": "Carson",
+    "city_ascii": "Carson",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7354,
+    "lng": -121.8219,
+    "cafes": []
+  },
+  "Chewelah": {
+    "city": "Chewelah",
+    "city_ascii": "Chewelah",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.293,
+    "lng": -117.7336,
+    "cafes": []
+  },
+  "Navy Yard City": {
+    "city": "Navy Yard City",
+    "city_ascii": "Navy Yard City",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5508,
+    "lng": -122.6655,
+    "cafes": []
+  },
+  "Meadow Glade": {
+    "city": "Meadow Glade",
+    "city_ascii": "Meadow Glade",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7524,
+    "lng": -122.5615,
+    "cafes": []
+  },
+  "White Salmon": {
+    "city": "White Salmon",
+    "city_ascii": "White Salmon",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7283,
+    "lng": -121.4853,
+    "cafes": []
+  },
+  "Warden": {
+    "city": "Warden",
+    "city_ascii": "Warden",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9672,
+    "lng": -119.0523,
+    "cafes": []
+  },
+  "Burley": {
+    "city": "Burley",
+    "city_ascii": "Burley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4166,
+    "lng": -122.6377,
+    "cafes": []
+  },
+  "North Yelm": {
+    "city": "North Yelm",
+    "city_ascii": "North Yelm",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9648,
+    "lng": -122.6027,
+    "cafes": []
+  },
+  "Rainier": {
+    "city": "Rainier",
+    "city_ascii": "Rainier",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8917,
+    "lng": -122.6866,
+    "cafes": []
+  },
+  "Mabton": {
+    "city": "Mabton",
+    "city_ascii": "Mabton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2116,
+    "lng": -119.9938,
+    "cafes": []
+  },
+  "Okanogan": {
+    "city": "Okanogan",
+    "city_ascii": "Okanogan",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3673,
+    "lng": -119.578,
+    "cafes": []
+  },
+  "Carnation": {
+    "city": "Carnation",
+    "city_ascii": "Carnation",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6443,
+    "lng": -121.904,
+    "cafes": []
+  },
+  "Gold Bar": {
+    "city": "Gold Bar",
+    "city_ascii": "Gold Bar",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8563,
+    "lng": -121.6921,
+    "cafes": []
+  },
+  "Bryant": {
+    "city": "Bryant",
+    "city_ascii": "Bryant",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.24,
+    "lng": -122.1638,
+    "cafes": []
+  },
+  "Lewisville": {
+    "city": "Lewisville",
+    "city_ascii": "Lewisville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.8128,
+    "lng": -122.5143,
+    "cafes": []
+  },
+  "Bridgeport": {
+    "city": "Bridgeport",
+    "city_ascii": "Bridgeport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0069,
+    "lng": -119.6726,
+    "cafes": []
+  },
+  "Cosmopolis": {
+    "city": "Cosmopolis",
+    "city_ascii": "Cosmopolis",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.954,
+    "lng": -123.7726,
+    "cafes": []
+  },
+  "Castle Rock": {
+    "city": "Castle Rock",
+    "city_ascii": "Castle Rock",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2708,
+    "lng": -122.905,
+    "cafes": []
+  },
+  "Whidbey Island Station": {
+    "city": "Whidbey Island Station",
+    "city_ascii": "Whidbey Island Station",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3387,
+    "lng": -122.6616,
+    "cafes": []
+  },
+  "Newport": {
+    "city": "Newport",
+    "city_ascii": "Newport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1781,
+    "lng": -117.0546,
+    "cafes": []
+  },
+  "Walla Walla East": {
+    "city": "Walla Walla East",
+    "city_ascii": "Walla Walla East",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.046,
+    "lng": -118.3033,
+    "cafes": []
+  },
+  "McCleary": {
+    "city": "McCleary",
+    "city_ascii": "McCleary",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0584,
+    "lng": -123.2723,
+    "cafes": []
+  },
+  "Shadow Lake": {
+    "city": "Shadow Lake",
+    "city_ascii": "Shadow Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4017,
+    "lng": -122.0763,
+    "cafes": []
+  },
+  "Geneva": {
+    "city": "Geneva",
+    "city_ascii": "Geneva",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.7446,
+    "lng": -122.4043,
+    "cafes": []
+  },
+  "Westport": {
+    "city": "Westport",
+    "city_ascii": "Westport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8917,
+    "lng": -124.1118,
+    "cafes": []
+  },
+  "Riverbend": {
+    "city": "Riverbend",
+    "city_ascii": "Riverbend",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4653,
+    "lng": -121.7493,
+    "cafes": []
+  },
+  "Enetai": {
+    "city": "Enetai",
+    "city_ascii": "Enetai",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5885,
+    "lng": -122.6054,
+    "cafes": []
+  },
+  "Fern Prairie": {
+    "city": "Fern Prairie",
+    "city_ascii": "Fern Prairie",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.637,
+    "lng": -122.3963,
+    "cafes": []
+  },
+  "Southworth": {
+    "city": "Southworth",
+    "city_ascii": "Southworth",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5125,
+    "lng": -122.5298,
+    "cafes": []
+  },
+  "Cle Elum": {
+    "city": "Cle Elum",
+    "city_ascii": "Cle Elum",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1943,
+    "lng": -120.9539,
+    "cafes": []
+  },
+  "Monroe North": {
+    "city": "Monroe North",
+    "city_ascii": "Monroe North",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8828,
+    "lng": -121.9886,
+    "cafes": []
+  },
+  "Duluth": {
+    "city": "Duluth",
+    "city_ascii": "Duluth",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7838,
+    "lng": -122.647,
+    "cafes": []
+  },
+  "Lofall": {
+    "city": "Lofall",
+    "city_ascii": "Lofall",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8114,
+    "lng": -122.6563,
+    "cafes": []
+  },
+  "Beacon Hill": {
+    "city": "Beacon Hill",
+    "city_ascii": "Beacon Hill",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.177,
+    "lng": -122.9235,
+    "cafes": []
+  },
+  "Freeland": {
+    "city": "Freeland",
+    "city_ascii": "Freeland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0186,
+    "lng": -122.5359,
+    "cafes": []
+  },
+  "Tenino": {
+    "city": "Tenino",
+    "city_ascii": "Tenino",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8538,
+    "lng": -122.8606,
+    "cafes": []
+  },
+  "Winlock": {
+    "city": "Winlock",
+    "city_ascii": "Winlock",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4907,
+    "lng": -122.9341,
+    "cafes": []
+  },
+  "Ritzville": {
+    "city": "Ritzville",
+    "city_ascii": "Ritzville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1253,
+    "lng": -118.3809,
+    "cafes": []
+  },
+  "Coupeville": {
+    "city": "Coupeville",
+    "city_ascii": "Coupeville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2172,
+    "lng": -122.6775,
+    "cafes": []
+  },
+  "Tieton": {
+    "city": "Tieton",
+    "city_ascii": "Tieton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7027,
+    "lng": -120.756,
+    "cafes": []
+  },
+  "South Creek": {
+    "city": "South Creek",
+    "city_ascii": "South Creek",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9994,
+    "lng": -122.392,
+    "cafes": []
+  },
+  "Millwood": {
+    "city": "Millwood",
+    "city_ascii": "Millwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6856,
+    "lng": -117.2806,
+    "cafes": []
+  },
+  "Kitsap Lake": {
+    "city": "Kitsap Lake",
+    "city_ascii": "Kitsap Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5905,
+    "lng": -122.7088,
+    "cafes": []
+  },
+  "Cathcart": {
+    "city": "Cathcart",
+    "city_ascii": "Cathcart",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8526,
+    "lng": -122.1058,
+    "cafes": []
+  },
+  "South Bend": {
+    "city": "South Bend",
+    "city_ascii": "South Bend",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6678,
+    "lng": -123.8006,
+    "cafes": []
+  },
+  "Cavalero": {
+    "city": "Cavalero",
+    "city_ascii": "Cavalero",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9875,
+    "lng": -122.0748,
+    "cafes": []
+  },
+  "Long Beach": {
+    "city": "Long Beach",
+    "city_ascii": "Long Beach",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3558,
+    "lng": -124.0556,
+    "cafes": []
+  },
+  "Garrett": {
+    "city": "Garrett",
+    "city_ascii": "Garrett",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.0608,
+    "lng": -118.399,
+    "cafes": []
+  },
+  "Davenport": {
+    "city": "Davenport",
+    "city_ascii": "Davenport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.655,
+    "lng": -118.1519,
+    "cafes": []
+  },
+  "Ocean Park": {
+    "city": "Ocean Park",
+    "city_ascii": "Ocean Park",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4961,
+    "lng": -124.0443,
+    "cafes": []
+  },
+  "Wilderness Rim": {
+    "city": "Wilderness Rim",
+    "city_ascii": "Wilderness Rim",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4464,
+    "lng": -121.769,
+    "cafes": []
+  },
+  "Fords Prairie": {
+    "city": "Fords Prairie",
+    "city_ascii": "Fords Prairie",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7459,
+    "lng": -123.003,
+    "cafes": []
+  },
+  "Fall City": {
+    "city": "Fall City",
+    "city_ascii": "Fall City",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5717,
+    "lng": -121.9133,
+    "cafes": []
+  },
+  "Brewster": {
+    "city": "Brewster",
+    "city_ascii": "Brewster",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1015,
+    "lng": -119.7762,
+    "cafes": []
+  },
+  "Home": {
+    "city": "Home",
+    "city_ascii": "Home",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.279,
+    "lng": -122.7745,
+    "cafes": []
+  },
+  "Napavine": {
+    "city": "Napavine",
+    "city_ascii": "Napavine",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5843,
+    "lng": -122.9007,
+    "cafes": []
+  },
+  "Kettle Falls": {
+    "city": "Kettle Falls",
+    "city_ascii": "Kettle Falls",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.6055,
+    "lng": -118.062,
+    "cafes": []
+  },
+  "Oroville": {
+    "city": "Oroville",
+    "city_ascii": "Oroville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9419,
+    "lng": -119.4305,
+    "cafes": []
+  },
+  "Stevenson": {
+    "city": "Stevenson",
+    "city_ascii": "Stevenson",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6927,
+    "lng": -121.8949,
+    "cafes": []
+  },
+  "Kayak Point": {
+    "city": "Kayak Point",
+    "city_ascii": "Kayak Point",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1387,
+    "lng": -122.3342,
+    "cafes": []
+  },
+  "Rocky Point": {
+    "city": "Rocky Point",
+    "city_ascii": "Rocky Point",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5886,
+    "lng": -122.6673,
+    "cafes": []
+  },
+  "Yacolt": {
+    "city": "Yacolt",
+    "city_ascii": "Yacolt",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.8652,
+    "lng": -122.4062,
+    "cafes": []
+  },
+  "Royal City": {
+    "city": "Royal City",
+    "city_ascii": "Royal City",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9018,
+    "lng": -119.6205,
+    "cafes": []
+  },
+  "Lakeview": {
+    "city": "Lakeview",
+    "city_ascii": "Lakeview",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3755,
+    "lng": -119.5044,
+    "cafes": []
+  },
+  "Manson": {
+    "city": "Manson",
+    "city_ascii": "Manson",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8816,
+    "lng": -120.162,
+    "cafes": []
+  },
+  "Stansberry Lake": {
+    "city": "Stansberry Lake",
+    "city_ascii": "Stansberry Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3814,
+    "lng": -122.7153,
+    "cafes": []
+  },
+  "Nooksack": {
+    "city": "Nooksack",
+    "city_ascii": "Nooksack",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9276,
+    "lng": -122.3186,
+    "cafes": []
+  },
+  "Amboy": {
+    "city": "Amboy",
+    "city_ascii": "Amboy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.9122,
+    "lng": -122.4796,
+    "cafes": []
+  },
+  "Basin City": {
+    "city": "Basin City",
+    "city_ascii": "Basin City",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.589,
+    "lng": -119.1566,
+    "cafes": []
+  },
+  "Fife Heights": {
+    "city": "Fife Heights",
+    "city_ascii": "Fife Heights",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2596,
+    "lng": -122.346,
+    "cafes": []
+  },
+  "Lake Marcel-Stillwater": {
+    "city": "Lake Marcel-Stillwater",
+    "city_ascii": "Lake Marcel-Stillwater",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6926,
+    "lng": -121.9151,
+    "cafes": []
+  },
+  "Coulee Dam": {
+    "city": "Coulee Dam",
+    "city_ascii": "Coulee Dam",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9689,
+    "lng": -118.9759,
+    "cafes": []
+  },
+  "Dallesport": {
+    "city": "Dallesport",
+    "city_ascii": "Dallesport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6316,
+    "lng": -121.1749,
+    "cafes": []
+  },
+  "Pomeroy": {
+    "city": "Pomeroy",
+    "city_ascii": "Pomeroy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4738,
+    "lng": -117.5964,
+    "cafes": []
+  },
+  "Ilwaco": {
+    "city": "Ilwaco",
+    "city_ascii": "Ilwaco",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.31,
+    "lng": -124.0417,
+    "cafes": []
+  },
+  "Darrington": {
+    "city": "Darrington",
+    "city_ascii": "Darrington",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2546,
+    "lng": -121.6031,
+    "cafes": []
+  },
+  "Sumas": {
+    "city": "Sumas",
+    "city_ascii": "Sumas",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9955,
+    "lng": -122.2694,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9731,
+    "lng": -122.3577,
+    "cafes": []
+  },
+  "North Puyallup": {
+    "city": "North Puyallup",
+    "city_ascii": "North Puyallup",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2015,
+    "lng": -122.2742,
+    "cafes": []
+  },
+  "Waterville": {
+    "city": "Waterville",
+    "city_ascii": "Waterville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.648,
+    "lng": -120.0707,
+    "cafes": []
+  },
+  "Anderson Island": {
+    "city": "Anderson Island",
+    "city_ascii": "Anderson Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1578,
+    "lng": -122.7039,
+    "cafes": []
+  },
+  "McMillin": {
+    "city": "McMillin",
+    "city_ascii": "McMillin",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1286,
+    "lng": -122.2374,
+    "cafes": []
+  },
+  "Ruston": {
+    "city": "Ruston",
+    "city_ascii": "Ruston",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2982,
+    "lng": -122.5103,
+    "cafes": []
+  },
+  "Soap Lake": {
+    "city": "Soap Lake",
+    "city_ascii": "Soap Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3914,
+    "lng": -119.4893,
+    "cafes": []
+  },
+  "Point Roberts": {
+    "city": "Point Roberts",
+    "city_ascii": "Point Roberts",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9882,
+    "lng": -123.0577,
+    "cafes": []
+  },
+  "Clear Lake": {
+    "city": "Clear Lake",
+    "city_ascii": "Clear Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.931,
+    "lng": -122.2841,
+    "cafes": []
+  },
+  "Purdy": {
+    "city": "Purdy",
+    "city_ascii": "Purdy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3934,
+    "lng": -122.6117,
+    "cafes": []
+  },
+  "Sunday Lake": {
+    "city": "Sunday Lake",
+    "city_ascii": "Sunday Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2265,
+    "lng": -122.2537,
+    "cafes": []
+  },
+  "Yarrow Point": {
+    "city": "Yarrow Point",
+    "city_ascii": "Yarrow Point",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6492,
+    "lng": -122.2191,
+    "cafes": []
+  },
+  "Kittitas": {
+    "city": "Kittitas",
+    "city_ascii": "Kittitas",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9837,
+    "lng": -120.4189,
+    "cafes": []
+  },
+  "Woodway": {
+    "city": "Woodway",
+    "city_ascii": "Woodway",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7904,
+    "lng": -122.3851,
+    "cafes": []
+  },
+  "Crocker": {
+    "city": "Crocker",
+    "city_ascii": "Crocker",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0843,
+    "lng": -122.1226,
+    "cafes": []
+  },
+  "Swede Heaven": {
+    "city": "Swede Heaven",
+    "city_ascii": "Swede Heaven",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2829,
+    "lng": -121.7136,
+    "cafes": []
+  },
+  "West Pasco": {
+    "city": "West Pasco",
+    "city_ascii": "West Pasco",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2498,
+    "lng": -119.1687,
+    "cafes": []
+  },
+  "North Bonneville": {
+    "city": "North Bonneville",
+    "city_ascii": "North Bonneville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6425,
+    "lng": -121.9688,
+    "cafes": []
+  },
+  "Entiat": {
+    "city": "Entiat",
+    "city_ascii": "Entiat",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.678,
+    "lng": -120.2175,
+    "cafes": []
+  },
+  "Rock Island": {
+    "city": "Rock Island",
+    "city_ascii": "Rock Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3733,
+    "lng": -120.142,
+    "cafes": []
+  },
+  "Morton": {
+    "city": "Morton",
+    "city_ascii": "Morton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5575,
+    "lng": -122.2815,
+    "cafes": []
+  },
+  "Ames Lake": {
+    "city": "Ames Lake",
+    "city_ascii": "Ames Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6346,
+    "lng": -121.9664,
+    "cafes": []
+  },
+  "Puget Island": {
+    "city": "Puget Island",
+    "city_ascii": "Puget Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.1743,
+    "lng": -123.383,
+    "cafes": []
+  },
+  "George": {
+    "city": "George",
+    "city_ascii": "George",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0846,
+    "lng": -119.86,
+    "cafes": []
+  },
+  "Carlsborg": {
+    "city": "Carlsborg",
+    "city_ascii": "Carlsborg",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0842,
+    "lng": -123.1697,
+    "cafes": []
+  },
+  "Palouse": {
+    "city": "Palouse",
+    "city_ascii": "Palouse",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9104,
+    "lng": -117.0751,
+    "cafes": []
+  },
+  "Machias": {
+    "city": "Machias",
+    "city_ascii": "Machias",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9918,
+    "lng": -122.0517,
+    "cafes": []
+  },
+  "Langley": {
+    "city": "Langley",
+    "city_ascii": "Langley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0337,
+    "lng": -122.4084,
+    "cafes": []
+  },
+  "Lake Ketchum": {
+    "city": "Lake Ketchum",
+    "city_ascii": "Lake Ketchum",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2823,
+    "lng": -122.3423,
+    "cafes": []
+  },
+  "South Wenatchee": {
+    "city": "South Wenatchee",
+    "city_ascii": "South Wenatchee",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3885,
+    "lng": -120.2829,
+    "cafes": []
+  },
+  "Neah Bay": {
+    "city": "Neah Bay",
+    "city_ascii": "Neah Bay",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3612,
+    "lng": -124.6115,
+    "cafes": []
+  },
+  "Easton": {
+    "city": "Easton",
+    "city_ascii": "Easton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2405,
+    "lng": -121.1733,
+    "cafes": []
+  },
+  "Republic": {
+    "city": "Republic",
+    "city_ascii": "Republic",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.6483,
+    "lng": -118.7333,
+    "cafes": []
+  },
+  "Asotin": {
+    "city": "Asotin",
+    "city_ascii": "Asotin",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3366,
+    "lng": -117.0414,
+    "cafes": []
+  },
+  "Browns Point": {
+    "city": "Browns Point",
+    "city_ascii": "Browns Point",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3036,
+    "lng": -122.4369,
+    "cafes": []
+  },
+  "Twisp": {
+    "city": "Twisp",
+    "city_ascii": "Twisp",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3619,
+    "lng": -120.1171,
+    "cafes": []
+  },
+  "La Conner": {
+    "city": "La Conner",
+    "city_ascii": "La Conner",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3926,
+    "lng": -122.4945,
+    "cafes": []
+  },
+  "Dash Point": {
+    "city": "Dash Point",
+    "city_ascii": "Dash Point",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.313,
+    "lng": -122.4154,
+    "cafes": []
+  },
+  "Riverpoint": {
+    "city": "Riverpoint",
+    "city_ascii": "Riverpoint",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4842,
+    "lng": -121.7151,
+    "cafes": []
+  },
+  "Marrowstone": {
+    "city": "Marrowstone",
+    "city_ascii": "Marrowstone",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.057,
+    "lng": -122.6938,
+    "cafes": []
+  },
+  "Lake Roesiger": {
+    "city": "Lake Roesiger",
+    "city_ascii": "Lake Roesiger",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9837,
+    "lng": -121.9128,
+    "cafes": []
+  },
+  "Mossyrock": {
+    "city": "Mossyrock",
+    "city_ascii": "Mossyrock",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5305,
+    "lng": -122.4887,
+    "cafes": []
+  },
+  "Lake Bosworth": {
+    "city": "Lake Bosworth",
+    "city_ascii": "Lake Bosworth",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0553,
+    "lng": -121.9811,
+    "cafes": []
+  },
+  "Grand Coulee": {
+    "city": "Grand Coulee",
+    "city_ascii": "Grand Coulee",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9392,
+    "lng": -119.0029,
+    "cafes": []
+  },
+  "Tonasket": {
+    "city": "Tonasket",
+    "city_ascii": "Tonasket",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.7075,
+    "lng": -119.4409,
+    "cafes": []
+  },
+  "River Road": {
+    "city": "River Road",
+    "city_ascii": "River Road",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0677,
+    "lng": -123.1276,
+    "cafes": []
+  },
+  "Bell Hill": {
+    "city": "Bell Hill",
+    "city_ascii": "Bell Hill",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.055,
+    "lng": -123.0869,
+    "cafes": []
+  },
+  "Waitsburg": {
+    "city": "Waitsburg",
+    "city_ascii": "Waitsburg",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2698,
+    "lng": -118.1509,
+    "cafes": []
+  },
+  "Loon Lake": {
+    "city": "Loon Lake",
+    "city_ascii": "Loon Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0661,
+    "lng": -117.6288,
+    "cafes": []
+  },
+  "Vaughn": {
+    "city": "Vaughn",
+    "city_ascii": "Vaughn",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.355,
+    "lng": -122.7773,
+    "cafes": []
+  },
+  "Wilbur": {
+    "city": "Wilbur",
+    "city_ascii": "Wilbur",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7581,
+    "lng": -118.7117,
+    "cafes": []
+  },
+  "Naches": {
+    "city": "Naches",
+    "city_ascii": "Naches",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7258,
+    "lng": -120.6909,
+    "cafes": []
+  },
+  "Trout Lake": {
+    "city": "Trout Lake",
+    "city_ascii": "Trout Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.9976,
+    "lng": -121.529,
+    "cafes": []
+  },
+  "Roslyn": {
+    "city": "Roslyn",
+    "city_ascii": "Roslyn",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2511,
+    "lng": -121.099,
+    "cafes": []
+  },
+  "Grapeview": {
+    "city": "Grapeview",
+    "city_ascii": "Grapeview",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3316,
+    "lng": -122.8413,
+    "cafes": []
+  },
+  "Erlands Point": {
+    "city": "Erlands Point",
+    "city_ascii": "Erlands Point",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6038,
+    "lng": -122.694,
+    "cafes": []
+  },
+  "Bingen": {
+    "city": "Bingen",
+    "city_ascii": "Bingen",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7139,
+    "lng": -121.4704,
+    "cafes": []
+  },
+  "Concrete": {
+    "city": "Concrete",
+    "city_ascii": "Concrete",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.537,
+    "lng": -121.751,
+    "cafes": []
+  },
+  "Vader": {
+    "city": "Vader",
+    "city_ascii": "Vader",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4046,
+    "lng": -122.9569,
+    "cafes": []
+  },
+  "Kendall": {
+    "city": "Kendall",
+    "city_ascii": "Kendall",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9156,
+    "lng": -122.1336,
+    "cafes": []
+  },
+  "May Creek": {
+    "city": "May Creek",
+    "city_ascii": "May Creek",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8555,
+    "lng": -121.6745,
+    "cafes": []
+  },
+  "Electric City": {
+    "city": "Electric City",
+    "city_ascii": "Electric City",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9218,
+    "lng": -119.0475,
+    "cafes": []
+  },
+  "Roy": {
+    "city": "Roy",
+    "city_ascii": "Roy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.997,
+    "lng": -122.5423,
+    "cafes": []
+  },
+  "Brady": {
+    "city": "Brady",
+    "city_ascii": "Brady",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0064,
+    "lng": -123.5321,
+    "cafes": []
+  },
+  "Taholah": {
+    "city": "Taholah",
+    "city_ascii": "Taholah",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3283,
+    "lng": -124.2728,
+    "cafes": []
+  },
+  "Brinnon": {
+    "city": "Brinnon",
+    "city_ascii": "Brinnon",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6689,
+    "lng": -122.9248,
+    "cafes": []
+  },
+  "Seabeck": {
+    "city": "Seabeck",
+    "city_ascii": "Seabeck",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6436,
+    "lng": -122.8222,
+    "cafes": []
+  },
+  "Startup": {
+    "city": "Startup",
+    "city_ascii": "Startup",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8673,
+    "lng": -121.7501,
+    "cafes": []
+  },
+  "Odessa": {
+    "city": "Odessa",
+    "city_ascii": "Odessa",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3326,
+    "lng": -118.6894,
+    "cafes": []
+  },
+  "Oakville": {
+    "city": "Oakville",
+    "city_ascii": "Oakville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8403,
+    "lng": -123.2337,
+    "cafes": []
+  },
+  "Cherry Grove": {
+    "city": "Cherry Grove",
+    "city_ascii": "Cherry Grove",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.8022,
+    "lng": -122.5767,
+    "cafes": []
+  },
+  "Satsop": {
+    "city": "Satsop",
+    "city_ascii": "Satsop",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0223,
+    "lng": -123.4737,
+    "cafes": []
+  },
+  "Tekoa": {
+    "city": "Tekoa",
+    "city_ascii": "Tekoa",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2248,
+    "lng": -117.0731,
+    "cafes": []
+  },
+  "Clallam Bay": {
+    "city": "Clallam Bay",
+    "city_ascii": "Clallam Bay",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2534,
+    "lng": -124.2579,
+    "cafes": []
+  },
+  "Malott": {
+    "city": "Malott",
+    "city_ascii": "Malott",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2918,
+    "lng": -119.6955,
+    "cafes": []
+  },
+  "Reardan": {
+    "city": "Reardan",
+    "city_ascii": "Reardan",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6698,
+    "lng": -117.878,
+    "cafes": []
+  },
+  "South Cle Elum": {
+    "city": "South Cle Elum",
+    "city_ascii": "South Cle Elum",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1862,
+    "lng": -120.9526,
+    "cafes": []
+  },
+  "Roche Harbor": {
+    "city": "Roche Harbor",
+    "city_ascii": "Roche Harbor",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.6079,
+    "lng": -123.1347,
+    "cafes": []
+  },
+  "St. John": {
+    "city": "St. John",
+    "city_ascii": "St. John",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0915,
+    "lng": -117.5887,
+    "cafes": []
+  },
+  "Grayland": {
+    "city": "Grayland",
+    "city_ascii": "Grayland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8304,
+    "lng": -124.0898,
+    "cafes": []
+  },
+  "Buena": {
+    "city": "Buena",
+    "city_ascii": "Buena",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4277,
+    "lng": -120.3183,
+    "cafes": []
+  },
+  "East Cathlamet": {
+    "city": "East Cathlamet",
+    "city_ascii": "East Cathlamet",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.1956,
+    "lng": -123.3588,
+    "cafes": []
+  },
+  "Harrah": {
+    "city": "Harrah",
+    "city_ascii": "Harrah",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4061,
+    "lng": -120.541,
+    "cafes": []
+  },
+  "Onalaska": {
+    "city": "Onalaska",
+    "city_ascii": "Onalaska",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5782,
+    "lng": -122.7114,
+    "cafes": []
+  },
+  "Alger": {
+    "city": "Alger",
+    "city_ascii": "Alger",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.6175,
+    "lng": -122.3368,
+    "cafes": []
+  },
+  "Pateros": {
+    "city": "Pateros",
+    "city_ascii": "Pateros",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0536,
+    "lng": -119.8995,
+    "cafes": []
+  },
+  "McKenna": {
+    "city": "McKenna",
+    "city_ascii": "McKenna",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9365,
+    "lng": -122.5501,
+    "cafes": []
+  },
+  "Mesa": {
+    "city": "Mesa",
+    "city_ascii": "Mesa",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5735,
+    "lng": -119.0013,
+    "cafes": []
+  },
+  "Carbonado": {
+    "city": "Carbonado",
+    "city_ascii": "Carbonado",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0806,
+    "lng": -122.0536,
+    "cafes": []
+  },
+  "Rosalia": {
+    "city": "Rosalia",
+    "city_ascii": "Rosalia",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2363,
+    "lng": -117.3764,
+    "cafes": []
+  },
+  "Bay View": {
+    "city": "Bay View",
+    "city_ascii": "Bay View",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.487,
+    "lng": -122.4628,
+    "cafes": []
+  },
+  "Sprague": {
+    "city": "Sprague",
+    "city_ascii": "Sprague",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3048,
+    "lng": -117.9714,
+    "cafes": []
+  },
+  "Port Gamble Tribal Community": {
+    "city": "Port Gamble Tribal Community",
+    "city_ascii": "Port Gamble Tribal Community",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8488,
+    "lng": -122.5571,
+    "cafes": []
+  },
+  "Fairfield": {
+    "city": "Fairfield",
+    "city_ascii": "Fairfield",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3848,
+    "lng": -117.1748,
+    "cafes": []
+  },
+  "Curlew Lake": {
+    "city": "Curlew Lake",
+    "city_ascii": "Curlew Lake",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.7311,
+    "lng": -118.6663,
+    "cafes": []
+  },
+  "White Swan": {
+    "city": "White Swan",
+    "city_ascii": "White Swan",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.377,
+    "lng": -120.7382,
+    "cafes": []
+  },
+  "Deming": {
+    "city": "Deming",
+    "city_ascii": "Deming",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.8312,
+    "lng": -122.239,
+    "cafes": []
+  },
+  "Garfield": {
+    "city": "Garfield",
+    "city_ascii": "Garfield",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0103,
+    "lng": -117.1395,
+    "cafes": []
+  },
+  "Bow": {
+    "city": "Bow",
+    "city_ascii": "Bow",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.5613,
+    "lng": -122.4077,
+    "cafes": []
+  },
+  "Ashford": {
+    "city": "Ashford",
+    "city_ascii": "Ashford",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7551,
+    "lng": -122.0143,
+    "cafes": []
+  },
+  "Cathlamet": {
+    "city": "Cathlamet",
+    "city_ascii": "Cathlamet",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2056,
+    "lng": -123.3835,
+    "cafes": []
+  },
+  "Skokomish": {
+    "city": "Skokomish",
+    "city_ascii": "Skokomish",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3298,
+    "lng": -123.1573,
+    "cafes": []
+  },
+  "Chinook": {
+    "city": "Chinook",
+    "city_ascii": "Chinook",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2755,
+    "lng": -123.9425,
+    "cafes": []
+  },
+  "Wilkeson": {
+    "city": "Wilkeson",
+    "city_ascii": "Wilkeson",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1033,
+    "lng": -122.0494,
+    "cafes": []
+  },
+  "Lake McMurray": {
+    "city": "Lake McMurray",
+    "city_ascii": "Lake McMurray",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3178,
+    "lng": -122.232,
+    "cafes": []
+  },
+  "Toledo": {
+    "city": "Toledo",
+    "city_ascii": "Toledo",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4415,
+    "lng": -122.8497,
+    "cafes": []
+  },
+  "Pe Ell": {
+    "city": "Pe Ell",
+    "city_ascii": "Pe Ell",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5713,
+    "lng": -123.2982,
+    "cafes": []
+  },
+  "Naselle": {
+    "city": "Naselle",
+    "city_ascii": "Naselle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.365,
+    "lng": -123.8013,
+    "cafes": []
+  },
+  "Tampico": {
+    "city": "Tampico",
+    "city_ascii": "Tampico",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5332,
+    "lng": -120.8742,
+    "cafes": []
+  },
+  "Nisqually Indian Community": {
+    "city": "Nisqually Indian Community",
+    "city_ascii": "Nisqually Indian Community",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0164,
+    "lng": -122.6725,
+    "cafes": []
+  },
+  "Bucoda": {
+    "city": "Bucoda",
+    "city_ascii": "Bucoda",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7968,
+    "lng": -122.868,
+    "cafes": []
+  },
+  "Coulee City": {
+    "city": "Coulee City",
+    "city_ascii": "Coulee City",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6122,
+    "lng": -119.2895,
+    "cafes": []
+  },
+  "Outlook": {
+    "city": "Outlook",
+    "city_ascii": "Outlook",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3311,
+    "lng": -120.0924,
+    "cafes": []
+  },
+  "Lind": {
+    "city": "Lind",
+    "city_ascii": "Lind",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9705,
+    "lng": -118.6165,
+    "cafes": []
+  },
+  "Quilcene": {
+    "city": "Quilcene",
+    "city_ascii": "Quilcene",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8369,
+    "lng": -122.9058,
+    "cafes": []
+  },
+  "Four Lakes": {
+    "city": "Four Lakes",
+    "city_ascii": "Four Lakes",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5576,
+    "lng": -117.5818,
+    "cafes": []
+  },
+  "Rosburg": {
+    "city": "Rosburg",
+    "city_ascii": "Rosburg",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3076,
+    "lng": -123.6345,
+    "cafes": []
+  },
+  "Springdale": {
+    "city": "Springdale",
+    "city_ascii": "Springdale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0572,
+    "lng": -117.7466,
+    "cafes": []
+  },
+  "Klickitat": {
+    "city": "Klickitat",
+    "city_ascii": "Klickitat",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.818,
+    "lng": -121.1626,
+    "cafes": []
+  },
+  "Hatton": {
+    "city": "Hatton",
+    "city_ascii": "Hatton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7735,
+    "lng": -118.8277,
+    "cafes": []
+  },
+  "Riverside": {
+    "city": "Riverside",
+    "city_ascii": "Riverside",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.5048,
+    "lng": -119.51,
+    "cafes": []
+  },
+  "Kapowsin": {
+    "city": "Kapowsin",
+    "city_ascii": "Kapowsin",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9727,
+    "lng": -122.2273,
+    "cafes": []
+  },
+  "Cowiche": {
+    "city": "Cowiche",
+    "city_ascii": "Cowiche",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6719,
+    "lng": -120.712,
+    "cafes": []
+  },
+  "Albion": {
+    "city": "Albion",
+    "city_ascii": "Albion",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7916,
+    "lng": -117.2511,
+    "cafes": []
+  },
+  "Harrington": {
+    "city": "Harrington",
+    "city_ascii": "Harrington",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4803,
+    "lng": -118.2554,
+    "cafes": []
+  },
+  "Copalis Beach": {
+    "city": "Copalis Beach",
+    "city_ascii": "Copalis Beach",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1205,
+    "lng": -124.1721,
+    "cafes": []
+  },
+  "Lyman": {
+    "city": "Lyman",
+    "city_ascii": "Lyman",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.523,
+    "lng": -122.0634,
+    "cafes": []
+  },
+  "Wishram": {
+    "city": "Wishram",
+    "city_ascii": "Wishram",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6613,
+    "lng": -120.9714,
+    "cafes": []
+  },
+  "Endicott": {
+    "city": "Endicott",
+    "city_ascii": "Endicott",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9282,
+    "lng": -117.6867,
+    "cafes": []
+  },
+  "Oakesdale": {
+    "city": "Oakesdale",
+    "city_ascii": "Oakesdale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1305,
+    "lng": -117.2464,
+    "cafes": []
+  },
+  "Marine View": {
+    "city": "Marine View",
+    "city_ascii": "Marine View",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9637,
+    "lng": -119.3508,
+    "cafes": []
+  },
+  "Jamestown": {
+    "city": "Jamestown",
+    "city_ascii": "Jamestown",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1229,
+    "lng": -123.0911,
+    "cafes": []
+  },
+  "Rockford": {
+    "city": "Rockford",
+    "city_ascii": "Rockford",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4515,
+    "lng": -117.1307,
+    "cafes": []
+  },
+  "Aberdeen Gardens": {
+    "city": "Aberdeen Gardens",
+    "city_ascii": "Aberdeen Gardens",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0587,
+    "lng": -123.7791,
+    "cafes": []
+  },
+  "Gorst": {
+    "city": "Gorst",
+    "city_ascii": "Gorst",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5239,
+    "lng": -122.7053,
+    "cafes": []
+  },
+  "Winthrop": {
+    "city": "Winthrop",
+    "city_ascii": "Winthrop",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.4715,
+    "lng": -120.1792,
+    "cafes": []
+  },
+  "Cohassett Beach": {
+    "city": "Cohassett Beach",
+    "city_ascii": "Cohassett Beach",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8656,
+    "lng": -124.1054,
+    "cafes": []
+  },
+  "Oso": {
+    "city": "Oso",
+    "city_ascii": "Oso",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2836,
+    "lng": -121.9238,
+    "cafes": []
+  },
+  "Inchelium": {
+    "city": "Inchelium",
+    "city_ascii": "Inchelium",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3379,
+    "lng": -118.2372,
+    "cafes": []
+  },
+  "Verlot": {
+    "city": "Verlot",
+    "city_ascii": "Verlot",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1003,
+    "lng": -121.7679,
+    "cafes": []
+  },
+  "Ione": {
+    "city": "Ione",
+    "city_ascii": "Ione",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.74,
+    "lng": -117.4215,
+    "cafes": []
+  },
+  "South Prairie": {
+    "city": "South Prairie",
+    "city_ascii": "South Prairie",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1373,
+    "lng": -122.0939,
+    "cafes": []
+  },
+  "North Omak": {
+    "city": "North Omak",
+    "city_ascii": "North Omak",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.444,
+    "lng": -119.4459,
+    "cafes": []
+  },
+  "Ryderwood": {
+    "city": "Ryderwood",
+    "city_ascii": "Ryderwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.375,
+    "lng": -123.0441,
+    "cafes": []
+  },
+  "Almira": {
+    "city": "Almira",
+    "city_ascii": "Almira",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7105,
+    "lng": -118.9369,
+    "cafes": []
+  },
+  "Raft Island": {
+    "city": "Raft Island",
+    "city_ascii": "Raft Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.329,
+    "lng": -122.6687,
+    "cafes": []
+  },
+  "LaCrosse": {
+    "city": "LaCrosse",
+    "city_ascii": "LaCrosse",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8013,
+    "lng": -117.9025,
+    "cafes": []
+  },
+  "Uniontown": {
+    "city": "Uniontown",
+    "city_ascii": "Uniontown",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5391,
+    "lng": -117.0861,
+    "cafes": []
+  },
+  "Snoqualmie Pass": {
+    "city": "Snoqualmie Pass",
+    "city_ascii": "Snoqualmie Pass",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4014,
+    "lng": -121.411,
+    "cafes": []
+  },
+  "Schwana": {
+    "city": "Schwana",
+    "city_ascii": "Schwana",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8214,
+    "lng": -119.9232,
+    "cafes": []
+  },
+  "Touchet": {
+    "city": "Touchet",
+    "city_ascii": "Touchet",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.0411,
+    "lng": -118.6724,
+    "cafes": []
+  },
+  "Mansfield": {
+    "city": "Mansfield",
+    "city_ascii": "Mansfield",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8119,
+    "lng": -119.6379,
+    "cafes": []
+  },
+  "Lebam": {
+    "city": "Lebam",
+    "city_ascii": "Lebam",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.564,
+    "lng": -123.5508,
+    "cafes": []
+  },
+  "Malone": {
+    "city": "Malone",
+    "city_ascii": "Malone",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9779,
+    "lng": -123.3035,
+    "cafes": []
+  },
+  "Prescott": {
+    "city": "Prescott",
+    "city_ascii": "Prescott",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2988,
+    "lng": -118.3126,
+    "cafes": []
+  },
+  "Nespelem Community": {
+    "city": "Nespelem Community",
+    "city_ascii": "Nespelem Community",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1715,
+    "lng": -119.0244,
+    "cafes": []
+  },
+  "Lyle": {
+    "city": "Lyle",
+    "city_ascii": "Lyle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6956,
+    "lng": -121.2805,
+    "cafes": []
+  },
+  "Hunts Point": {
+    "city": "Hunts Point",
+    "city_ascii": "Hunts Point",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.647,
+    "lng": -122.2306,
+    "cafes": []
+  },
+  "Marblemount": {
+    "city": "Marblemount",
+    "city_ascii": "Marblemount",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.5418,
+    "lng": -121.4397,
+    "cafes": []
+  },
+  "Skamokawa Valley": {
+    "city": "Skamokawa Valley",
+    "city_ascii": "Skamokawa Valley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3004,
+    "lng": -123.4243,
+    "cafes": []
+  },
+  "Ravensdale": {
+    "city": "Ravensdale",
+    "city_ascii": "Ravensdale",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3589,
+    "lng": -121.9781,
+    "cafes": []
+  },
+  "Lake Cavanaugh": {
+    "city": "Lake Cavanaugh",
+    "city_ascii": "Lake Cavanaugh",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3225,
+    "lng": -122.0122,
+    "cafes": []
+  },
+  "Elmer City": {
+    "city": "Elmer City",
+    "city_ascii": "Elmer City",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.9999,
+    "lng": -118.954,
+    "cafes": []
+  },
+  "North Sultan": {
+    "city": "North Sultan",
+    "city_ascii": "North Sultan",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8829,
+    "lng": -121.8253,
+    "cafes": []
+  },
+  "Beaux Arts Village": {
+    "city": "Beaux Arts Village",
+    "city_ascii": "Beaux Arts Village",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5853,
+    "lng": -122.205,
+    "cafes": []
+  },
+  "Glacier": {
+    "city": "Glacier",
+    "city_ascii": "Glacier",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.8908,
+    "lng": -121.9351,
+    "cafes": []
+  },
+  "Colton": {
+    "city": "Colton",
+    "city_ascii": "Colton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5675,
+    "lng": -117.1284,
+    "cafes": []
+  },
+  "Metaline Falls": {
+    "city": "Metaline Falls",
+    "city_ascii": "Metaline Falls",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.8615,
+    "lng": -117.3718,
+    "cafes": []
+  },
+  "Acme": {
+    "city": "Acme",
+    "city_ascii": "Acme",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.7158,
+    "lng": -122.2077,
+    "cafes": []
+  },
+  "Beverly": {
+    "city": "Beverly",
+    "city_ascii": "Beverly",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8348,
+    "lng": -119.9301,
+    "cafes": []
+  },
+  "Union": {
+    "city": "Union",
+    "city_ascii": "Union",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.3475,
+    "lng": -123.0951,
+    "cafes": []
+  },
+  "Neilton": {
+    "city": "Neilton",
+    "city_ascii": "Neilton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4031,
+    "lng": -123.8782,
+    "cafes": []
+  },
+  "Spangle": {
+    "city": "Spangle",
+    "city_ascii": "Spangle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4299,
+    "lng": -117.3812,
+    "cafes": []
+  },
+  "Keyport": {
+    "city": "Keyport",
+    "city_ascii": "Keyport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6999,
+    "lng": -122.624,
+    "cafes": []
+  },
+  "Custer": {
+    "city": "Custer",
+    "city_ascii": "Custer",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9127,
+    "lng": -122.6369,
+    "cafes": []
+  },
+  "La Grande": {
+    "city": "La Grande",
+    "city_ascii": "La Grande",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8199,
+    "lng": -122.2962,
+    "cafes": []
+  },
+  "Torboy": {
+    "city": "Torboy",
+    "city_ascii": "Torboy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.6771,
+    "lng": -118.6689,
+    "cafes": []
+  },
+  "Edison": {
+    "city": "Edison",
+    "city_ascii": "Edison",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.564,
+    "lng": -122.4348,
+    "cafes": []
+  },
+  "Hamilton": {
+    "city": "Hamilton",
+    "city_ascii": "Hamilton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.5283,
+    "lng": -121.9839,
+    "cafes": []
+  },
+  "Ronald": {
+    "city": "Ronald",
+    "city_ascii": "Ronald",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2338,
+    "lng": -121.0336,
+    "cafes": []
+  },
+  "Nile": {
+    "city": "Nile",
+    "city_ascii": "Nile",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8349,
+    "lng": -120.9438,
+    "cafes": []
+  },
+  "Maple Falls": {
+    "city": "Maple Falls",
+    "city_ascii": "Maple Falls",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9179,
+    "lng": -122.0943,
+    "cafes": []
+  },
+  "Glenwood": {
+    "city": "Glenwood",
+    "city_ascii": "Glenwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.0228,
+    "lng": -121.2925,
+    "cafes": []
+  },
+  "Green Bluff": {
+    "city": "Green Bluff",
+    "city_ascii": "Green Bluff",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8184,
+    "lng": -117.2748,
+    "cafes": []
+  },
+  "Eschbach": {
+    "city": "Eschbach",
+    "city_ascii": "Eschbach",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.667,
+    "lng": -120.6337,
+    "cafes": []
+  },
+  "Lower Elochoman": {
+    "city": "Lower Elochoman",
+    "city_ascii": "Lower Elochoman",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2184,
+    "lng": -123.3697,
+    "cafes": []
+  },
+  "Wheeler": {
+    "city": "Wheeler",
+    "city_ascii": "Wheeler",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1349,
+    "lng": -119.176,
+    "cafes": []
+  },
+  "Latah": {
+    "city": "Latah",
+    "city_ascii": "Latah",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2822,
+    "lng": -117.1557,
+    "cafes": []
+  },
+  "Clayton": {
+    "city": "Clayton",
+    "city_ascii": "Clayton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0012,
+    "lng": -117.561,
+    "cafes": []
+  },
+  "Bay Center": {
+    "city": "Bay Center",
+    "city_ascii": "Bay Center",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6213,
+    "lng": -123.9533,
+    "cafes": []
+  },
+  "Washtucna": {
+    "city": "Washtucna",
+    "city_ascii": "Washtucna",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7539,
+    "lng": -118.3106,
+    "cafes": []
+  },
+  "Hartline": {
+    "city": "Hartline",
+    "city_ascii": "Hartline",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6894,
+    "lng": -119.1081,
+    "cafes": []
+  },
+  "Banks Lake South": {
+    "city": "Banks Lake South",
+    "city_ascii": "Banks Lake South",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6315,
+    "lng": -119.276,
+    "cafes": []
+  },
+  "Crescent Bar": {
+    "city": "Crescent Bar",
+    "city_ascii": "Crescent Bar",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.211,
+    "lng": -119.9959,
+    "cafes": []
+  },
+  "Northport": {
+    "city": "Northport",
+    "city_ascii": "Northport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9158,
+    "lng": -117.7797,
+    "cafes": []
+  },
+  "Marcus": {
+    "city": "Marcus",
+    "city_ascii": "Marcus",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.6642,
+    "lng": -118.0596,
+    "cafes": []
+  },
+  "Conconully": {
+    "city": "Conconully",
+    "city_ascii": "Conconully",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.5586,
+    "lng": -119.7521,
+    "cafes": []
+  },
+  "Deep River": {
+    "city": "Deep River",
+    "city_ascii": "Deep River",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3521,
+    "lng": -123.6985,
+    "cafes": []
+  },
+  "Blyn": {
+    "city": "Blyn",
+    "city_ascii": "Blyn",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0131,
+    "lng": -122.9897,
+    "cafes": []
+  },
+  "Creston": {
+    "city": "Creston",
+    "city_ascii": "Creston",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7594,
+    "lng": -118.52,
+    "cafes": []
+  },
+  "Keller": {
+    "city": "Keller",
+    "city_ascii": "Keller",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.0852,
+    "lng": -118.7164,
+    "cafes": []
+  },
+  "Willapa": {
+    "city": "Willapa",
+    "city_ascii": "Willapa",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6755,
+    "lng": -123.6648,
+    "cafes": []
+  },
+  "Humptulips": {
+    "city": "Humptulips",
+    "city_ascii": "Humptulips",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2491,
+    "lng": -123.9348,
+    "cafes": []
+  },
+  "Grays River": {
+    "city": "Grays River",
+    "city_ascii": "Grays River",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.3608,
+    "lng": -123.589,
+    "cafes": []
+  },
+  "Baring": {
+    "city": "Baring",
+    "city_ascii": "Baring",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7661,
+    "lng": -121.4803,
+    "cafes": []
+  },
+  "Wilson Creek": {
+    "city": "Wilson Creek",
+    "city_ascii": "Wilson Creek",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.423,
+    "lng": -119.1176,
+    "cafes": []
+  },
+  "Markham": {
+    "city": "Markham",
+    "city_ascii": "Markham",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.915,
+    "lng": -123.9823,
+    "cafes": []
+  },
+  "Kahlotus": {
+    "city": "Kahlotus",
+    "city_ascii": "Kahlotus",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6433,
+    "lng": -118.5559,
+    "cafes": []
+  },
+  "Cusick": {
+    "city": "Cusick",
+    "city_ascii": "Cusick",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3333,
+    "lng": -117.2944,
+    "cafes": []
+  },
+  "Ocosta": {
+    "city": "Ocosta",
+    "city_ascii": "Ocosta",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.8913,
+    "lng": -124.0236,
+    "cafes": []
+  },
+  "Roosevelt": {
+    "city": "Roosevelt",
+    "city_ascii": "Roosevelt",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.7476,
+    "lng": -120.2161,
+    "cafes": []
+  },
+  "Index": {
+    "city": "Index",
+    "city_ascii": "Index",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.8212,
+    "lng": -121.5561,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.338,
+    "lng": -117.2312,
+    "cafes": []
+  },
+  "Nespelem": {
+    "city": "Nespelem",
+    "city_ascii": "Nespelem",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.167,
+    "lng": -118.9722,
+    "cafes": []
+  },
+  "Steptoe": {
+    "city": "Steptoe",
+    "city_ascii": "Steptoe",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0075,
+    "lng": -117.3502,
+    "cafes": []
+  },
+  "Lamont": {
+    "city": "Lamont",
+    "city_ascii": "Lamont",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2007,
+    "lng": -117.9049,
+    "cafes": []
+  },
+  "Moclips": {
+    "city": "Moclips",
+    "city_ascii": "Moclips",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2348,
+    "lng": -124.2024,
+    "cafes": []
+  },
+  "Chelan Falls": {
+    "city": "Chelan Falls",
+    "city_ascii": "Chelan Falls",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7994,
+    "lng": -119.9882,
+    "cafes": []
+  },
+  "Greenwater": {
+    "city": "Greenwater",
+    "city_ascii": "Greenwater",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1465,
+    "lng": -121.632,
+    "cafes": []
+  },
+  "Hoodsport": {
+    "city": "Hoodsport",
+    "city_ascii": "Hoodsport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4022,
+    "lng": -123.1535,
+    "cafes": []
+  },
+  "Farmington": {
+    "city": "Farmington",
+    "city_ascii": "Farmington",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0887,
+    "lng": -117.0464,
+    "cafes": []
+  },
+  "Curlew": {
+    "city": "Curlew",
+    "city_ascii": "Curlew",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.8777,
+    "lng": -118.6046,
+    "cafes": []
+  },
+  "Metaline": {
+    "city": "Metaline",
+    "city_ascii": "Metaline",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.8533,
+    "lng": -117.3893,
+    "cafes": []
+  },
+  "Porter": {
+    "city": "Porter",
+    "city_ascii": "Porter",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9489,
+    "lng": -123.2736,
+    "cafes": []
+  },
+  "Dixie": {
+    "city": "Dixie",
+    "city_ascii": "Dixie",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.1399,
+    "lng": -118.1521,
+    "cafes": []
+  },
+  "Thorp": {
+    "city": "Thorp",
+    "city_ascii": "Thorp",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0656,
+    "lng": -120.6709,
+    "cafes": []
+  },
+  "Donald": {
+    "city": "Donald",
+    "city_ascii": "Donald",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4765,
+    "lng": -120.3975,
+    "cafes": []
+  },
+  "Wallula": {
+    "city": "Wallula",
+    "city_ascii": "Wallula",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.0847,
+    "lng": -118.9056,
+    "cafes": []
+  },
+  "Addy": {
+    "city": "Addy",
+    "city_ascii": "Addy",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3588,
+    "lng": -117.8372,
+    "cafes": []
+  },
+  "Packwood": {
+    "city": "Packwood",
+    "city_ascii": "Packwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.6085,
+    "lng": -121.6703,
+    "cafes": []
+  },
+  "Skykomish": {
+    "city": "Skykomish",
+    "city_ascii": "Skykomish",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.7104,
+    "lng": -121.3584,
+    "cafes": []
+  },
+  "Ocean City": {
+    "city": "Ocean City",
+    "city_ascii": "Ocean City",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0763,
+    "lng": -124.1619,
+    "cafes": []
+  },
+  "Pataha": {
+    "city": "Pataha",
+    "city_ascii": "Pataha",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.4727,
+    "lng": -117.5445,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.754,
+    "lng": -120.908,
+    "cafes": []
+  },
+  "Herron Island": {
+    "city": "Herron Island",
+    "city_ascii": "Herron Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2645,
+    "lng": -122.8348,
+    "cafes": []
+  },
+  "Starbuck": {
+    "city": "Starbuck",
+    "city_ascii": "Starbuck",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5186,
+    "lng": -118.1254,
+    "cafes": []
+  },
+  "Malden": {
+    "city": "Malden",
+    "city_ascii": "Malden",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2296,
+    "lng": -117.4731,
+    "cafes": []
+  },
+  "Loomis": {
+    "city": "Loomis",
+    "city_ascii": "Loomis",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.8234,
+    "lng": -119.6397,
+    "cafes": []
+  },
+  "Twin Lakes": {
+    "city": "Twin Lakes",
+    "city_ascii": "Twin Lakes",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2622,
+    "lng": -118.3591,
+    "cafes": []
+  },
+  "Tokeland": {
+    "city": "Tokeland",
+    "city_ascii": "Tokeland",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.709,
+    "lng": -123.9839,
+    "cafes": []
+  },
+  "Bickleton": {
+    "city": "Bickleton",
+    "city_ascii": "Bickleton",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.0056,
+    "lng": -120.3081,
+    "cafes": []
+  },
+  "Upper Elochoman": {
+    "city": "Upper Elochoman",
+    "city_ascii": "Upper Elochoman",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2404,
+    "lng": -123.3246,
+    "cafes": []
+  },
+  "Valley": {
+    "city": "Valley",
+    "city_ascii": "Valley",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.173,
+    "lng": -117.7244,
+    "cafes": []
+  },
+  "Methow": {
+    "city": "Methow",
+    "city_ascii": "Methow",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.1286,
+    "lng": -120.0055,
+    "cafes": []
+  },
+  "Parker": {
+    "city": "Parker",
+    "city_ascii": "Parker",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.5021,
+    "lng": -120.4668,
+    "cafes": []
+  },
+  "Sunland Estates": {
+    "city": "Sunland Estates",
+    "city_ascii": "Sunland Estates",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.074,
+    "lng": -120.0284,
+    "cafes": []
+  },
+  "Qui-nai-elt Village": {
+    "city": "Qui-nai-elt Village",
+    "city_ascii": "Qui-nai-elt Village",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2502,
+    "lng": -124.1902,
+    "cafes": []
+  },
+  "Santiago": {
+    "city": "Santiago",
+    "city_ascii": "Santiago",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2975,
+    "lng": -124.2327,
+    "cafes": []
+  },
+  "Amanda Park": {
+    "city": "Amanda Park",
+    "city_ascii": "Amanda Park",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4532,
+    "lng": -123.9194,
+    "cafes": []
+  },
+  "Alder": {
+    "city": "Alder",
+    "city_ascii": "Alder",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7872,
+    "lng": -122.2667,
+    "cafes": []
+  },
+  "Barstow": {
+    "city": "Barstow",
+    "city_ascii": "Barstow",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.7783,
+    "lng": -118.1329,
+    "cafes": []
+  },
+  "Northwest Stanwood": {
+    "city": "Northwest Stanwood",
+    "city_ascii": "Northwest Stanwood",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2624,
+    "lng": -122.3501,
+    "cafes": []
+  },
+  "Orient": {
+    "city": "Orient",
+    "city_ascii": "Orient",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.8637,
+    "lng": -118.2059,
+    "cafes": []
+  },
+  "Oyehut": {
+    "city": "Oyehut",
+    "city_ascii": "Oyehut",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.0233,
+    "lng": -124.1631,
+    "cafes": []
+  },
+  "Rockport": {
+    "city": "Rockport",
+    "city_ascii": "Rockport",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.485,
+    "lng": -121.6065,
+    "cafes": []
+  },
+  "Mineral": {
+    "city": "Mineral",
+    "city_ascii": "Mineral",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7193,
+    "lng": -122.186,
+    "cafes": []
+  },
+  "Disautel": {
+    "city": "Disautel",
+    "city_ascii": "Disautel",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3446,
+    "lng": -119.2301,
+    "cafes": []
+  },
+  "Altoona": {
+    "city": "Altoona",
+    "city_ascii": "Altoona",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.2699,
+    "lng": -123.6144,
+    "cafes": []
+  },
+  "Queets": {
+    "city": "Queets",
+    "city_ascii": "Queets",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.5314,
+    "lng": -124.3385,
+    "cafes": []
+  },
+  "Conway": {
+    "city": "Conway",
+    "city_ascii": "Conway",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.3357,
+    "lng": -122.3444,
+    "cafes": []
+  },
+  "Maryhill": {
+    "city": "Maryhill",
+    "city_ascii": "Maryhill",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 45.6928,
+    "lng": -120.807,
+    "cafes": []
+  },
+  "Danville": {
+    "city": "Danville",
+    "city_ascii": "Danville",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9938,
+    "lng": -118.5068,
+    "cafes": []
+  },
+  "Malo": {
+    "city": "Malo",
+    "city_ascii": "Malo",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.7997,
+    "lng": -118.6119,
+    "cafes": []
+  },
+  "Boyds": {
+    "city": "Boyds",
+    "city_ascii": "Boyds",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.7245,
+    "lng": -118.1321,
+    "cafes": []
+  },
+  "Krupp": {
+    "city": "Krupp",
+    "city_ascii": "Krupp",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.4105,
+    "lng": -118.9887,
+    "cafes": []
+  },
+  "Cougar": {
+    "city": "Cougar",
+    "city_ascii": "Cougar",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.0493,
+    "lng": -122.3034,
+    "cafes": []
+  },
+  "Cliffdell": {
+    "city": "Cliffdell",
+    "city_ascii": "Cliffdell",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9222,
+    "lng": -121.0431,
+    "cafes": []
+  },
+  "Pine Grove": {
+    "city": "Pine Grove",
+    "city_ascii": "Pine Grove",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.6501,
+    "lng": -118.6839,
+    "cafes": []
+  },
+  "Anatone": {
+    "city": "Anatone",
+    "city_ascii": "Anatone",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.1354,
+    "lng": -117.1322,
+    "cafes": []
+  },
+  "Pacific Beach": {
+    "city": "Pacific Beach",
+    "city_ascii": "Pacific Beach",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.2151,
+    "lng": -124.1967,
+    "cafes": []
+  },
+  "Vantage": {
+    "city": "Vantage",
+    "city_ascii": "Vantage",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.9453,
+    "lng": -119.9921,
+    "cafes": []
+  },
+  "Sekiu": {
+    "city": "Sekiu",
+    "city_ascii": "Sekiu",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2639,
+    "lng": -124.3015,
+    "cafes": []
+  },
+  "Ketron Island": {
+    "city": "Ketron Island",
+    "city_ascii": "Ketron Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.1569,
+    "lng": -122.6343,
+    "cafes": []
+  },
+  "Laurier": {
+    "city": "Laurier",
+    "city_ascii": "Laurier",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.9974,
+    "lng": -118.2248,
+    "cafes": []
+  },
+  "Silvana": {
+    "city": "Silvana",
+    "city_ascii": "Silvana",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.2018,
+    "lng": -122.2459,
+    "cafes": []
+  },
+  "Hat Island": {
+    "city": "Hat Island",
+    "city_ascii": "Hat Island",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 48.013,
+    "lng": -122.3201,
+    "cafes": []
+  },
+  "Elbe": {
+    "city": "Elbe",
+    "city_ascii": "Elbe",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 46.7653,
+    "lng": -122.1956,
+    "cafes": []
+  }
+}

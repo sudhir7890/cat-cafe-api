@@ -1,0 +1,8329 @@
+{
+  "New Hope": {
+    "city": "New Hope",
+    "city_ascii": "New Hope",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0375,
+    "lng": -93.3869,
+    "cafes": [
+      {
+        "name": "The Cafe Meow",
+        "address": "3524 Winnetka Ave N, New Hope, MN 55427, USA",
+        "rating": 4.5,
+        "user_ratings_total": 282,
+        "website": "http://thecafemeow.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=4687535016500907493",
+        "lat": 45.0210278,
+        "lng": -93.3794746,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Amber Smith",
+            "rating": 5,
+            "text": {
+              "text": "My daughter and I went here for her 7th birthday. It was a great experience! The employees were so friendly and kind, the coffee was so good, and we even bought some collars for our cats and macarons which were so yummy!\nThe Cafe is for anyone but to visit the cats you must be 7+ and it's an additional cost. I recommend scheduling an appointment online in advance, especially on the weekends. It was definitely worth every cent to play with the cats and see how excited and happy my daughter was!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Deana Hansen",
+            "rating": 5,
+            "text": {
+              "text": "The staff is extremely friendly and helpful. I enjoyed talking with them. The have cute items to purchase. I enjoyed the coffee drink I got and my boyfriend loved his hot chocolate.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Adria Sorensen",
+            "rating": 5,
+            "text": {
+              "text": "Loved the atmosphere, you can sip on coffee, kit-TEA, espurresso, soda, or nibble on a muffin or cookie while watching a bunch of cats play in a segregated room with a see through plastic/glass wall. That way, you don't have to worry about any animals getting into your food or spilling your drink and still be able to watch a bunch of cats play. They also have cute  names for the drinks such as kit-TEA (kitty) for instance, or esPURResso (espresso) with little cat puns in them. Or, Ex-purr-esso instead of expresso.  Cat-finated instead of caffeinated is another good pun that they had as well.  There are also gifts you can buy like cat merchandise such as a bag with cats on it, cat nip, etc. If you do go inside to see the cats, there's hand sanitizer to use before going inside and then after when you come out of the cat room. Cat play toys are inside the room, so you can play with the cats. There are chairs and tables for you to sit on (this way, kitties will jump onto your lap since they ask that you don't pick up cats). Cats are well socialized, so a number of them will actually walk up to you to be petted. Additionally, They have little biographies with the name of each cat and a photo describing what each kitty is like (for example, they might mention in the bio that a cat is \"shy at first but will be a love bug once getting to know you\", or \"loves human food\", or \"friendly with dogs and kids\"). My experience there was the cat's meow (bad pun, i know but twas really a dandy time.)",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2REgBr5T3k1en1BZ--91KnQJ8x29NJIOfmLKYepajaTx-mtNdvJ9oUtWUITo9xx40A6ft34LFi6Ga2_UX80fz_ZMb-xVUW6hat8p9JrM4Osq5v32cxcDnNSyZFdTIOqfOBrsge-orFgRjIfaaL861JTGlRB3_qDt40p-3uoLtbHuUHQzwgc15O0qr7Q-KTJMT_84buoci6u7eSsnrh0Uet2aXxfefTR5dQF9thWLVxpUYiZNeYMe7fTONgaoxnxrNMnjlqZHoY4eLP-PtwDOZkUoTEct_62e9pDb-1Aaly_w&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Roseville": {
+    "city": "Roseville",
+    "city_ascii": "Roseville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0155,
+    "lng": -93.1545,
+    "cafes": [
+      {
+        "name": "The Cafe Meow",
+        "address": "1718A Lexington Ave N, Roseville, MN 55113, USA",
+        "rating": 4.5,
+        "user_ratings_total": 1072,
+        "website": "https://thecafemeow.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=10403844584447903272",
+        "lat": 44.993314,
+        "lng": -93.1456571,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Kelly D",
+            "rating": 5,
+            "text": {
+              "text": "I had such a great time at this place! There are games, books, fun products to buy (I left with multiple things), GREAT coffee, and cute cats. The staff is wonderful. I highly recommend this place! You DO need to make a reservation online if you’d like to visit the area with the cats. It is so worth it!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Sarah Bullentini",
+            "rating": 5,
+            "text": {
+              "text": "I love to grab a coffee and play with kittens for an hour to forget that we still have 9 more months of winter. Just make sure you get a reservation because they’re popular! The kitties are well cared for by a staff who do a great job at keeping everyone safe and happy.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Jolie Zevallos",
+            "rating": 5,
+            "text": {
+              "text": "Super friendly staff and they really care about the cats here. I loved my time interacting with the cats. They were all so cute and playful at 11am.",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1i3qrUqcOkJ6PhWeDOihYItno_7v7U9qULVNVx16gGd2d0jCQOXDUW81dCNmHjY4xbjOG9NTOMhNwp8pLQpYytYwWzm86IaO8GJe5zk4maBMFPSWkE4m9BM8JvS7f3th4PssJTFMlAJ2noaDuuO3IeMgd3Vxn7VBnl2f7H7Wnic1TpnMtc99vLrcPHbMSHq7ujpIeYa_hK5Rq2MhI7MLhi8jF9_cPXmiOHR20BT8yrU1iTYScgvabqpyaVbOoUdVNPvL-N7fyj7jvbnRT04aOsO5K0nmdO34Si0xA6uU69Kg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Duluth": {
+    "city": "Duluth",
+    "city_ascii": "Duluth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7756,
+    "lng": -92.1393,
+    "cafes": [
+      {
+        "name": "Wired Whisker",
+        "address": "1823 E Superior St, Duluth, MN 55812, USA",
+        "rating": 4.8,
+        "user_ratings_total": 130,
+        "website": "https://www.wiredwhisker.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=3249699987983376010",
+        "lat": 46.8049112,
+        "lng": -92.0752119,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "AnchorOfTime",
+            "rating": 5,
+            "text": {
+              "text": "I went there for the grand opening, and i absolutely love it. The baked goods and coffee are wonderful and being able to socialize with the cats makes this a purrfect destination for locals and tourists alike. Bear in mind that you do have to book a reservation to access the cat lounge, but it's super easy to do and very affordable on their website. Their cat roster does also change periodically since they work with animal rescues, and you may very well meet your new fuzzy best friend here.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Laura Regal",
+            "rating": 5,
+            "text": {
+              "text": "Such an amazing place!! I actually didn't order any food or drink, but I did go into the kitty area! Ton of the cats were really interactive and wanted to sit on my lap. If you're looking to adopt, would highly recommend going here!! Kitties looked all so well taken care of!!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Sara DePew",
+            "rating": 5,
+            "text": {
+              "text": "I cannot say anything about the adoption process, but visiting the cats on my birthday was a treat! I had a tea and a delicious cat-themed macaron. I was able to walk in, as no one had booked online, but had to wait about 15 minutes for the next hour to rollover (which I fully expected). The cats were mostly napping, but there was one who played a bit and then sat in my lap.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0Fx8JUWN6lOnoPGyZZE5jMWDTye9ynDeJROTnsXECiUTNdyFx2yr5xaorByIiyTQ0BMKMd-6kRKyEcydh_VNVO27deL8bPhEag8YVBAoWH0-DP6URxoEzloD4T6OsFBa6JNajh8j9RdG0QVDSfOh7Qp1zo7uxfobef1x4BgIKeSrR6lAJF7X6iz0AI0KFYTQKWjqQi_2GJMGvksExZuEokMxUn6NDw8Z5A9Y9XU_9Er2o0piQiu-RF7frbaUqwJ7JEI07P1yuw54x0vXjlWuqGATEEiLSiFvgkgbKJSJeK4g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Saint Paul": [
+    {
+      "name": "Catzen Coffee",
+      "address": "1416 Grand Ave, St Paul, MN 55105, USA",
+      "rating": 4.2,
+      "user_ratings_total": 104,
+      "website": "https://www.catzencoffee.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=15193469849666671471",
+      "lat": 44.9399036,
+      "lng": -93.160202,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Thea Greenberg",
+          "rating": 5,
+          "text": {
+            "text": "So excited to have a new cat cafe in the twin cities! I made a reservation for the living room where the cats are, which was such a cute space. Keep in mind that the cats are able to come and go from the living room as they please, so you probably will not see them all. However I really liked that set up because I'm sure the cats are much more comfortable that way. I also liked that buying a drink counts as admission. Overall a great community space to drink some coffee, play some games, and see some cats!",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Alaina Franczak",
+          "rating": 5,
+          "text": {
+            "text": "The staff were very welcoming, I got the chocolate chip banana bread and vanilla latte . It was delicious the best latte I’ve had in awhile had a very rich flavoring to it. When I walked in someone at the door immediately greeted me and asked for my name to add me to the wait list to visit with the cats. I got there at about 10:20 and was able to go in the cat room at 10:45. Gave me just the right amount of time to enjoy my latte and banana bread. Got to stay in the cat den until 11:30, I feel 45 minutes was the perfect amount of time. I like that they use this system this was the cat den was not to full and crowded. The cats were so sweet and when I used the bathroom I noticed they had pads and tampons In the bathroom for no charge I thought that was really nice! Definitely will be coming back.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Lisa Andrews",
+          "rating": 5,
+          "text": {
+            "text": "Absolutely LOVE this place and wish I could give it more stars! We came at a busy time but everyone was friendly, service was fast, coffee & food was delicious and we were in to see the cats in only a few minutes.\n\nThe negative reviews are clearly from folks with an ax to grind, I wouldn’t pay any attention to them. Rules regarding children are for the cats safety and for everyone’s enjoyment. I’m all for their rules and it’s one of the main reasons I will continue to go back!\n\nI highly recommend checking Catzen Coffee out! You won’t be disappointed!",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3zntuH-qxe4qSgDoH4EsVsAMa3PLb__XJA9yA9Zm6P5CGzfvxUf9XoW14V55ujrtgjUbX52KjKzpcesnmJeZ4s1EOvLDSntZmRjq5EXdCuv-oEZBuvo9s-XMLT1kdDjh2VjYmJoDUBrbuNswLNsb1EY_cZOkqzdWwABTaa9TXJ_dYAeEzpYixx1R_zRC8PElN9XQiA096FxHkJcShmAhugdzkAxENBpmxOk0HmAjcbAamUWJKT6WDauW6s_cELYzYlkFRryyy5iIsQLIXyrKim6U3f030lELwgKHlWY1QQSQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Minneapolis": {
+    "city": "Minneapolis",
+    "city_ascii": "Minneapolis",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9635,
+    "lng": -93.2678,
+    "cafes": []
+  },
+  "St. Paul": {
+    "city": "St. Paul",
+    "city_ascii": "St. Paul",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9478,
+    "lng": -93.1039,
+    "cafes": []
+  },
+  "Rochester": {
+    "city": "Rochester",
+    "city_ascii": "Rochester",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0154,
+    "lng": -92.478,
+    "cafes": []
+  },
+  "St. Cloud": {
+    "city": "St. Cloud",
+    "city_ascii": "St. Cloud",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.534,
+    "lng": -94.1718,
+    "cafes": []
+  },
+  "Bloomington": {
+    "city": "Bloomington",
+    "city_ascii": "Bloomington",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8306,
+    "lng": -93.3151,
+    "cafes": []
+  },
+  "Brooklyn Park": {
+    "city": "Brooklyn Park",
+    "city_ascii": "Brooklyn Park",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1112,
+    "lng": -93.3505,
+    "cafes": []
+  },
+  "Plymouth": {
+    "city": "Plymouth",
+    "city_ascii": "Plymouth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0225,
+    "lng": -93.4617,
+    "cafes": []
+  },
+  "Woodbury": {
+    "city": "Woodbury",
+    "city_ascii": "Woodbury",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9057,
+    "lng": -92.923,
+    "cafes": []
+  },
+  "Lakeville": {
+    "city": "Lakeville",
+    "city_ascii": "Lakeville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6774,
+    "lng": -93.252,
+    "cafes": []
+  },
+  "Blaine": {
+    "city": "Blaine",
+    "city_ascii": "Blaine",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1696,
+    "lng": -93.2077,
+    "cafes": []
+  },
+  "Maple Grove": {
+    "city": "Maple Grove",
+    "city_ascii": "Maple Grove",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1089,
+    "lng": -93.4626,
+    "cafes": []
+  },
+  "Eagan": {
+    "city": "Eagan",
+    "city_ascii": "Eagan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.817,
+    "lng": -93.1638,
+    "cafes": []
+  },
+  "Burnsville": {
+    "city": "Burnsville",
+    "city_ascii": "Burnsville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7648,
+    "lng": -93.2793,
+    "cafes": []
+  },
+  "Coon Rapids": {
+    "city": "Coon Rapids",
+    "city_ascii": "Coon Rapids",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1755,
+    "lng": -93.3094,
+    "cafes": []
+  },
+  "Eden Prairie": {
+    "city": "Eden Prairie",
+    "city_ascii": "Eden Prairie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8488,
+    "lng": -93.4595,
+    "cafes": []
+  },
+  "Apple Valley": {
+    "city": "Apple Valley",
+    "city_ascii": "Apple Valley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7457,
+    "lng": -93.2004,
+    "cafes": []
+  },
+  "Minnetonka": {
+    "city": "Minnetonka",
+    "city_ascii": "Minnetonka",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9322,
+    "lng": -93.4598,
+    "cafes": []
+  },
+  "Edina": {
+    "city": "Edina",
+    "city_ascii": "Edina",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8914,
+    "lng": -93.3602,
+    "cafes": []
+  },
+  "St. Louis Park": {
+    "city": "St. Louis Park",
+    "city_ascii": "St. Louis Park",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9488,
+    "lng": -93.3649,
+    "cafes": []
+  },
+  "Shakopee": {
+    "city": "Shakopee",
+    "city_ascii": "Shakopee",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7745,
+    "lng": -93.4772,
+    "cafes": []
+  },
+  "Mankato": {
+    "city": "Mankato",
+    "city_ascii": "Mankato",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1715,
+    "lng": -93.9772,
+    "cafes": []
+  },
+  "Moorhead": {
+    "city": "Moorhead",
+    "city_ascii": "Moorhead",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8673,
+    "lng": -96.7461,
+    "cafes": []
+  },
+  "Maplewood": {
+    "city": "Maplewood",
+    "city_ascii": "Maplewood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9842,
+    "lng": -93.0247,
+    "cafes": []
+  },
+  "Cottage Grove": {
+    "city": "Cottage Grove",
+    "city_ascii": "Cottage Grove",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8161,
+    "lng": -92.9274,
+    "cafes": []
+  },
+  "Richfield": {
+    "city": "Richfield",
+    "city_ascii": "Richfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8763,
+    "lng": -93.2829,
+    "cafes": []
+  },
+  "Inver Grove Heights": {
+    "city": "Inver Grove Heights",
+    "city_ascii": "Inver Grove Heights",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8247,
+    "lng": -93.0596,
+    "cafes": []
+  },
+  "Andover": {
+    "city": "Andover",
+    "city_ascii": "Andover",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2571,
+    "lng": -93.3265,
+    "cafes": []
+  },
+  "Brooklyn Center": {
+    "city": "Brooklyn Center",
+    "city_ascii": "Brooklyn Center",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0681,
+    "lng": -93.3162,
+    "cafes": []
+  },
+  "Savage": {
+    "city": "Savage",
+    "city_ascii": "Savage",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7545,
+    "lng": -93.3632,
+    "cafes": []
+  },
+  "Fridley": {
+    "city": "Fridley",
+    "city_ascii": "Fridley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0841,
+    "lng": -93.2595,
+    "cafes": []
+  },
+  "Chaska": {
+    "city": "Chaska",
+    "city_ascii": "Chaska",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8164,
+    "lng": -93.6091,
+    "cafes": []
+  },
+  "Oakdale": {
+    "city": "Oakdale",
+    "city_ascii": "Oakdale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9876,
+    "lng": -92.9641,
+    "cafes": []
+  },
+  "Ramsey": {
+    "city": "Ramsey",
+    "city_ascii": "Ramsey",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2617,
+    "lng": -93.4494,
+    "cafes": []
+  },
+  "Prior Lake": {
+    "city": "Prior Lake",
+    "city_ascii": "Prior Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7246,
+    "lng": -93.4419,
+    "cafes": []
+  },
+  "Shoreview": {
+    "city": "Shoreview",
+    "city_ascii": "Shoreview",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0842,
+    "lng": -93.1358,
+    "cafes": []
+  },
+  "Rosemount": {
+    "city": "Rosemount",
+    "city_ascii": "Rosemount",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7466,
+    "lng": -93.0661,
+    "cafes": []
+  },
+  "Owatonna": {
+    "city": "Owatonna",
+    "city_ascii": "Owatonna",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0912,
+    "lng": -93.2312,
+    "cafes": []
+  },
+  "Elk River": {
+    "city": "Elk River",
+    "city_ascii": "Elk River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3314,
+    "lng": -93.567,
+    "cafes": []
+  },
+  "Austin": {
+    "city": "Austin",
+    "city_ascii": "Austin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6721,
+    "lng": -92.9784,
+    "cafes": []
+  },
+  "Chanhassen": {
+    "city": "Chanhassen",
+    "city_ascii": "Chanhassen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8546,
+    "lng": -93.5621,
+    "cafes": []
+  },
+  "Winona": {
+    "city": "Winona",
+    "city_ascii": "Winona",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0505,
+    "lng": -91.6684,
+    "cafes": []
+  },
+  "Faribault": {
+    "city": "Faribault",
+    "city_ascii": "Faribault",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2996,
+    "lng": -93.2789,
+    "cafes": []
+  },
+  "White Bear Lake": {
+    "city": "White Bear Lake",
+    "city_ascii": "White Bear Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0656,
+    "lng": -93.015,
+    "cafes": []
+  },
+  "Farmington": {
+    "city": "Farmington",
+    "city_ascii": "Farmington",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6572,
+    "lng": -93.1687,
+    "cafes": []
+  },
+  "Champlin": {
+    "city": "Champlin",
+    "city_ascii": "Champlin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1702,
+    "lng": -93.3903,
+    "cafes": []
+  },
+  "New Brighton": {
+    "city": "New Brighton",
+    "city_ascii": "New Brighton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0658,
+    "lng": -93.206,
+    "cafes": []
+  },
+  "Crystal": {
+    "city": "Crystal",
+    "city_ascii": "Crystal",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0377,
+    "lng": -93.3599,
+    "cafes": []
+  },
+  "Hastings": {
+    "city": "Hastings",
+    "city_ascii": "Hastings",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7318,
+    "lng": -92.8538,
+    "cafes": []
+  },
+  "Columbia Heights": {
+    "city": "Columbia Heights",
+    "city_ascii": "Columbia Heights",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0484,
+    "lng": -93.2472,
+    "cafes": []
+  },
+  "Golden Valley": {
+    "city": "Golden Valley",
+    "city_ascii": "Golden Valley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9901,
+    "lng": -93.3591,
+    "cafes": []
+  },
+  "Lino Lakes": {
+    "city": "Lino Lakes",
+    "city_ascii": "Lino Lakes",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1679,
+    "lng": -93.083,
+    "cafes": []
+  },
+  "Otsego": {
+    "city": "Otsego",
+    "city_ascii": "Otsego",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.266,
+    "lng": -93.6201,
+    "cafes": []
+  },
+  "Willmar": {
+    "city": "Willmar",
+    "city_ascii": "Willmar",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1216,
+    "lng": -95.0569,
+    "cafes": []
+  },
+  "West St. Paul": {
+    "city": "West St. Paul",
+    "city_ascii": "West St. Paul",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9018,
+    "lng": -93.0858,
+    "cafes": []
+  },
+  "Northfield": {
+    "city": "Northfield",
+    "city_ascii": "Northfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.455,
+    "lng": -93.1698,
+    "cafes": []
+  },
+  "Forest Lake": {
+    "city": "Forest Lake",
+    "city_ascii": "Forest Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2536,
+    "lng": -92.9582,
+    "cafes": []
+  },
+  "South St. Paul": {
+    "city": "South St. Paul",
+    "city_ascii": "South St. Paul",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8877,
+    "lng": -93.0411,
+    "cafes": []
+  },
+  "Sartell": {
+    "city": "Sartell",
+    "city_ascii": "Sartell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6188,
+    "lng": -94.2206,
+    "cafes": []
+  },
+  "Stillwater": {
+    "city": "Stillwater",
+    "city_ascii": "Stillwater",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0573,
+    "lng": -92.8313,
+    "cafes": []
+  },
+  "St. Michael": {
+    "city": "St. Michael",
+    "city_ascii": "St. Michael",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2014,
+    "lng": -93.692,
+    "cafes": []
+  },
+  "Hopkins": {
+    "city": "Hopkins",
+    "city_ascii": "Hopkins",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9259,
+    "lng": -93.4056,
+    "cafes": []
+  },
+  "Albert Lea": {
+    "city": "Albert Lea",
+    "city_ascii": "Albert Lea",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6548,
+    "lng": -93.3643,
+    "cafes": []
+  },
+  "Anoka": {
+    "city": "Anoka",
+    "city_ascii": "Anoka",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2099,
+    "lng": -93.3893,
+    "cafes": []
+  },
+  "Red Wing": {
+    "city": "Red Wing",
+    "city_ascii": "Red Wing",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5817,
+    "lng": -92.6036,
+    "cafes": []
+  },
+  "Ham Lake": {
+    "city": "Ham Lake",
+    "city_ascii": "Ham Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2545,
+    "lng": -93.2039,
+    "cafes": []
+  },
+  "Buffalo": {
+    "city": "Buffalo",
+    "city_ascii": "Buffalo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1794,
+    "lng": -93.8644,
+    "cafes": []
+  },
+  "Hibbing": {
+    "city": "Hibbing",
+    "city_ascii": "Hibbing",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.398,
+    "lng": -92.9486,
+    "cafes": []
+  },
+  "Hugo": {
+    "city": "Hugo",
+    "city_ascii": "Hugo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1671,
+    "lng": -92.9588,
+    "cafes": []
+  },
+  "Bemidji": {
+    "city": "Bemidji",
+    "city_ascii": "Bemidji",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4828,
+    "lng": -94.8797,
+    "cafes": []
+  },
+  "Hutchinson": {
+    "city": "Hutchinson",
+    "city_ascii": "Hutchinson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8855,
+    "lng": -94.3768,
+    "cafes": []
+  },
+  "Monticello": {
+    "city": "Monticello",
+    "city_ascii": "Monticello",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2991,
+    "lng": -93.7996,
+    "cafes": []
+  },
+  "Alexandria": {
+    "city": "Alexandria",
+    "city_ascii": "Alexandria",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8776,
+    "lng": -95.3767,
+    "cafes": []
+  },
+  "Brainerd": {
+    "city": "Brainerd",
+    "city_ascii": "Brainerd",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3553,
+    "lng": -94.1983,
+    "cafes": []
+  },
+  "Robbinsdale": {
+    "city": "Robbinsdale",
+    "city_ascii": "Robbinsdale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0261,
+    "lng": -93.3332,
+    "cafes": []
+  },
+  "North Mankato": {
+    "city": "North Mankato",
+    "city_ascii": "North Mankato",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.181,
+    "lng": -94.0391,
+    "cafes": []
+  },
+  "Fergus Falls": {
+    "city": "Fergus Falls",
+    "city_ascii": "Fergus Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.2854,
+    "lng": -96.0758,
+    "cafes": []
+  },
+  "New Ulm": {
+    "city": "New Ulm",
+    "city_ascii": "New Ulm",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.312,
+    "lng": -94.4685,
+    "cafes": []
+  },
+  "Marshall": {
+    "city": "Marshall",
+    "city_ascii": "Marshall",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4488,
+    "lng": -95.7897,
+    "cafes": []
+  },
+  "Sauk Rapids": {
+    "city": "Sauk Rapids",
+    "city_ascii": "Sauk Rapids",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5981,
+    "lng": -94.1538,
+    "cafes": []
+  },
+  "Worthington": {
+    "city": "Worthington",
+    "city_ascii": "Worthington",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6281,
+    "lng": -95.599,
+    "cafes": []
+  },
+  "Rogers": {
+    "city": "Rogers",
+    "city_ascii": "Rogers",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1865,
+    "lng": -93.5783,
+    "cafes": []
+  },
+  "Waconia": {
+    "city": "Waconia",
+    "city_ascii": "Waconia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8422,
+    "lng": -93.7896,
+    "cafes": []
+  },
+  "Mounds View": {
+    "city": "Mounds View",
+    "city_ascii": "Mounds View",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1071,
+    "lng": -93.2076,
+    "cafes": []
+  },
+  "Vadnais Heights": {
+    "city": "Vadnais Heights",
+    "city_ascii": "Vadnais Heights",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.057,
+    "lng": -93.0748,
+    "cafes": []
+  },
+  "Cloquet": {
+    "city": "Cloquet",
+    "city_ascii": "Cloquet",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7221,
+    "lng": -92.4923,
+    "cafes": []
+  },
+  "North St. Paul": {
+    "city": "North St. Paul",
+    "city_ascii": "North St. Paul",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0137,
+    "lng": -92.9995,
+    "cafes": []
+  },
+  "Lake Elmo": {
+    "city": "Lake Elmo",
+    "city_ascii": "Lake Elmo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9944,
+    "lng": -92.9031,
+    "cafes": []
+  },
+  "Big Lake": {
+    "city": "Big Lake",
+    "city_ascii": "Big Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3417,
+    "lng": -93.7434,
+    "cafes": []
+  },
+  "St. Peter": {
+    "city": "St. Peter",
+    "city_ascii": "St. Peter",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3295,
+    "lng": -93.9658,
+    "cafes": []
+  },
+  "East Bethel": {
+    "city": "East Bethel",
+    "city_ascii": "East Bethel",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3557,
+    "lng": -93.2038,
+    "cafes": []
+  },
+  "Mendota Heights": {
+    "city": "Mendota Heights",
+    "city_ascii": "Mendota Heights",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8815,
+    "lng": -93.14,
+    "cafes": []
+  },
+  "Grand Rapids": {
+    "city": "Grand Rapids",
+    "city_ascii": "Grand Rapids",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.238,
+    "lng": -93.5327,
+    "cafes": []
+  },
+  "North Branch": {
+    "city": "North Branch",
+    "city_ascii": "North Branch",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5137,
+    "lng": -92.9601,
+    "cafes": []
+  },
+  "Victoria": {
+    "city": "Victoria",
+    "city_ascii": "Victoria",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8634,
+    "lng": -93.6585,
+    "cafes": []
+  },
+  "Little Canada": {
+    "city": "Little Canada",
+    "city_ascii": "Little Canada",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0244,
+    "lng": -93.0863,
+    "cafes": []
+  },
+  "Fairmont": {
+    "city": "Fairmont",
+    "city_ascii": "Fairmont",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6441,
+    "lng": -94.4621,
+    "cafes": []
+  },
+  "Hermantown": {
+    "city": "Hermantown",
+    "city_ascii": "Hermantown",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8057,
+    "lng": -92.2407,
+    "cafes": []
+  },
+  "Detroit Lakes": {
+    "city": "Detroit Lakes",
+    "city_ascii": "Detroit Lakes",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.806,
+    "lng": -95.8449,
+    "cafes": []
+  },
+  "Cambridge": {
+    "city": "Cambridge",
+    "city_ascii": "Cambridge",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5612,
+    "lng": -93.2283,
+    "cafes": []
+  },
+  "Arden Hills": {
+    "city": "Arden Hills",
+    "city_ascii": "Arden Hills",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0721,
+    "lng": -93.167,
+    "cafes": []
+  },
+  "St. Anthony": {
+    "city": "St. Anthony",
+    "city_ascii": "St. Anthony",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0278,
+    "lng": -93.2174,
+    "cafes": []
+  },
+  "Waseca": {
+    "city": "Waseca",
+    "city_ascii": "Waseca",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0827,
+    "lng": -93.5029,
+    "cafes": []
+  },
+  "Mound": {
+    "city": "Mound",
+    "city_ascii": "Mound",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9328,
+    "lng": -93.6591,
+    "cafes": []
+  },
+  "Little Falls": {
+    "city": "Little Falls",
+    "city_ascii": "Little Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9862,
+    "lng": -94.3586,
+    "cafes": []
+  },
+  "East Grand Forks": {
+    "city": "East Grand Forks",
+    "city_ascii": "East Grand Forks",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.9286,
+    "lng": -97.0138,
+    "cafes": []
+  },
+  "Oak Grove": {
+    "city": "Oak Grove",
+    "city_ascii": "Oak Grove",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3409,
+    "lng": -93.3264,
+    "cafes": []
+  },
+  "Thief River Falls": {
+    "city": "Thief River Falls",
+    "city_ascii": "Thief River Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.1108,
+    "lng": -96.1778,
+    "cafes": []
+  },
+  "Baxter": {
+    "city": "Baxter",
+    "city_ascii": "Baxter",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3426,
+    "lng": -94.2793,
+    "cafes": []
+  },
+  "Minnetrista": {
+    "city": "Minnetrista",
+    "city_ascii": "Minnetrista",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9356,
+    "lng": -93.7107,
+    "cafes": []
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "city_ascii": "Dayton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1906,
+    "lng": -93.4758,
+    "cafes": []
+  },
+  "Virginia": {
+    "city": "Virginia",
+    "city_ascii": "Virginia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5168,
+    "lng": -92.5127,
+    "cafes": []
+  },
+  "Waite Park": {
+    "city": "Waite Park",
+    "city_ascii": "Waite Park",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5313,
+    "lng": -94.2528,
+    "cafes": []
+  },
+  "St. Francis": {
+    "city": "St. Francis",
+    "city_ascii": "St. Francis",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3991,
+    "lng": -93.3901,
+    "cafes": []
+  },
+  "Orono": {
+    "city": "Orono",
+    "city_ascii": "Orono",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9657,
+    "lng": -93.5908,
+    "cafes": []
+  },
+  "New Prague": {
+    "city": "New Prague",
+    "city_ascii": "New Prague",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5459,
+    "lng": -93.5755,
+    "cafes": []
+  },
+  "Mahtomedi": {
+    "city": "Mahtomedi",
+    "city_ascii": "Mahtomedi",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0619,
+    "lng": -92.966,
+    "cafes": []
+  },
+  "Albertville": {
+    "city": "Albertville",
+    "city_ascii": "Albertville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2364,
+    "lng": -93.6618,
+    "cafes": []
+  },
+  "Wyoming": {
+    "city": "Wyoming",
+    "city_ascii": "Wyoming",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3365,
+    "lng": -92.9766,
+    "cafes": []
+  },
+  "Shorewood": {
+    "city": "Shorewood",
+    "city_ascii": "Shorewood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9034,
+    "lng": -93.5905,
+    "cafes": []
+  },
+  "Belle Plaine": {
+    "city": "Belle Plaine",
+    "city_ascii": "Belle Plaine",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6196,
+    "lng": -93.7606,
+    "cafes": []
+  },
+  "Crookston": {
+    "city": "Crookston",
+    "city_ascii": "Crookston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.7747,
+    "lng": -96.6062,
+    "cafes": []
+  },
+  "St. Joseph": {
+    "city": "St. Joseph",
+    "city_ascii": "St. Joseph",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5655,
+    "lng": -94.3035,
+    "cafes": []
+  },
+  "Isanti": {
+    "city": "Isanti",
+    "city_ascii": "Isanti",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4925,
+    "lng": -93.2408,
+    "cafes": []
+  },
+  "Spring Lake Park": {
+    "city": "Spring Lake Park",
+    "city_ascii": "Spring Lake Park",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1161,
+    "lng": -93.2451,
+    "cafes": []
+  },
+  "Kasson": {
+    "city": "Kasson",
+    "city_ascii": "Kasson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0333,
+    "lng": -92.7479,
+    "cafes": []
+  },
+  "Medina": {
+    "city": "Medina",
+    "city_ascii": "Medina",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0326,
+    "lng": -93.5834,
+    "cafes": []
+  },
+  "Corcoran": {
+    "city": "Corcoran",
+    "city_ascii": "Corcoran",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1089,
+    "lng": -93.5837,
+    "cafes": []
+  },
+  "Stewartville": {
+    "city": "Stewartville",
+    "city_ascii": "Stewartville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8606,
+    "lng": -92.4896,
+    "cafes": []
+  },
+  "Delano": {
+    "city": "Delano",
+    "city_ascii": "Delano",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0384,
+    "lng": -93.793,
+    "cafes": []
+  },
+  "Jordan": {
+    "city": "Jordan",
+    "city_ascii": "Jordan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6648,
+    "lng": -93.6351,
+    "cafes": []
+  },
+  "Litchfield": {
+    "city": "Litchfield",
+    "city_ascii": "Litchfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1221,
+    "lng": -94.5253,
+    "cafes": []
+  },
+  "Byron": {
+    "city": "Byron",
+    "city_ascii": "Byron",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0378,
+    "lng": -92.6409,
+    "cafes": []
+  },
+  "Zimmerman": {
+    "city": "Zimmerman",
+    "city_ascii": "Zimmerman",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4416,
+    "lng": -93.598,
+    "cafes": []
+  },
+  "Carver": {
+    "city": "Carver",
+    "city_ascii": "Carver",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7648,
+    "lng": -93.6537,
+    "cafes": []
+  },
+  "International Falls": {
+    "city": "International Falls",
+    "city_ascii": "International Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.5884,
+    "lng": -93.4084,
+    "cafes": []
+  },
+  "Glencoe": {
+    "city": "Glencoe",
+    "city_ascii": "Glencoe",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7699,
+    "lng": -94.151,
+    "cafes": []
+  },
+  "Chisago City": {
+    "city": "Chisago City",
+    "city_ascii": "Chisago City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3473,
+    "lng": -92.9116,
+    "cafes": []
+  },
+  "Credit River": {
+    "city": "Credit River",
+    "city_ascii": "Credit River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6744,
+    "lng": -93.3791,
+    "cafes": []
+  },
+  "St. Paul Park": {
+    "city": "St. Paul Park",
+    "city_ascii": "St. Paul Park",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8359,
+    "lng": -92.9949,
+    "cafes": []
+  },
+  "Montevideo": {
+    "city": "Montevideo",
+    "city_ascii": "Montevideo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9505,
+    "lng": -95.7153,
+    "cafes": []
+  },
+  "La Crescent": {
+    "city": "La Crescent",
+    "city_ascii": "La Crescent",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.83,
+    "lng": -91.3042,
+    "cafes": []
+  },
+  "North Oaks": {
+    "city": "North Oaks",
+    "city_ascii": "North Oaks",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1002,
+    "lng": -93.0882,
+    "cafes": []
+  },
+  "Falcon Heights": {
+    "city": "Falcon Heights",
+    "city_ascii": "Falcon Heights",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9899,
+    "lng": -93.177,
+    "cafes": []
+  },
+  "Morris": {
+    "city": "Morris",
+    "city_ascii": "Morris",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5857,
+    "lng": -95.9046,
+    "cafes": []
+  },
+  "Redwood Falls": {
+    "city": "Redwood Falls",
+    "city_ascii": "Redwood Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.547,
+    "lng": -95.1031,
+    "cafes": []
+  },
+  "Lake City": {
+    "city": "Lake City",
+    "city_ascii": "Lake City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4453,
+    "lng": -92.2796,
+    "cafes": []
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "city_ascii": "Princeton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5688,
+    "lng": -93.5899,
+    "cafes": []
+  },
+  "Circle Pines": {
+    "city": "Circle Pines",
+    "city_ascii": "Circle Pines",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1409,
+    "lng": -93.1505,
+    "cafes": []
+  },
+  "Becker": {
+    "city": "Becker",
+    "city_ascii": "Becker",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3824,
+    "lng": -93.8772,
+    "cafes": []
+  },
+  "Lindstrom": {
+    "city": "Lindstrom",
+    "city_ascii": "Lindstrom",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.387,
+    "lng": -92.8477,
+    "cafes": []
+  },
+  "Elko New Market": {
+    "city": "Elko New Market",
+    "city_ascii": "Elko New Market",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5665,
+    "lng": -93.338,
+    "cafes": []
+  },
+  "Luverne": {
+    "city": "Luverne",
+    "city_ascii": "Luverne",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6531,
+    "lng": -96.2148,
+    "cafes": []
+  },
+  "Lonsdale": {
+    "city": "Lonsdale",
+    "city_ascii": "Lonsdale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4778,
+    "lng": -93.4225,
+    "cafes": []
+  },
+  "Windom": {
+    "city": "Windom",
+    "city_ascii": "Windom",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8736,
+    "lng": -95.1201,
+    "cafes": []
+  },
+  "Oak Park Heights": {
+    "city": "Oak Park Heights",
+    "city_ascii": "Oak Park Heights",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0324,
+    "lng": -92.8098,
+    "cafes": []
+  },
+  "Watertown": {
+    "city": "Watertown",
+    "city_ascii": "Watertown",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9604,
+    "lng": -93.8431,
+    "cafes": []
+  },
+  "St. James": {
+    "city": "St. James",
+    "city_ascii": "St. James",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9833,
+    "lng": -94.6249,
+    "cafes": []
+  },
+  "Chisholm": {
+    "city": "Chisholm",
+    "city_ascii": "Chisholm",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4877,
+    "lng": -92.8786,
+    "cafes": []
+  },
+  "Dilworth": {
+    "city": "Dilworth",
+    "city_ascii": "Dilworth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8795,
+    "lng": -96.6985,
+    "cafes": []
+  },
+  "Sauk Centre": {
+    "city": "Sauk Centre",
+    "city_ascii": "Sauk Centre",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.736,
+    "lng": -94.9523,
+    "cafes": []
+  },
+  "Nowthen": {
+    "city": "Nowthen",
+    "city_ascii": "Nowthen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3421,
+    "lng": -93.4495,
+    "cafes": []
+  },
+  "Rockford": {
+    "city": "Rockford",
+    "city_ascii": "Rockford",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.092,
+    "lng": -93.7453,
+    "cafes": []
+  },
+  "Newport": {
+    "city": "Newport",
+    "city_ascii": "Newport",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8743,
+    "lng": -92.9975,
+    "cafes": []
+  },
+  "Wayzata": {
+    "city": "Wayzata",
+    "city_ascii": "Wayzata",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.967,
+    "lng": -93.516,
+    "cafes": []
+  },
+  "Wadena": {
+    "city": "Wadena",
+    "city_ascii": "Wadena",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.445,
+    "lng": -95.1285,
+    "cafes": []
+  },
+  "Park Rapids": {
+    "city": "Park Rapids",
+    "city_ascii": "Park Rapids",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.9169,
+    "lng": -95.0576,
+    "cafes": []
+  },
+  "Cannon Falls": {
+    "city": "Cannon Falls",
+    "city_ascii": "Cannon Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5122,
+    "lng": -92.9034,
+    "cafes": []
+  },
+  "Columbus": {
+    "city": "Columbus",
+    "city_ascii": "Columbus",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2685,
+    "lng": -93.0809,
+    "cafes": []
+  },
+  "Le Sueur": {
+    "city": "Le Sueur",
+    "city_ascii": "Le Sueur",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4702,
+    "lng": -93.9026,
+    "cafes": []
+  },
+  "Cold Spring": {
+    "city": "Cold Spring",
+    "city_ascii": "Cold Spring",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.457,
+    "lng": -94.4297,
+    "cafes": []
+  },
+  "Pipestone": {
+    "city": "Pipestone",
+    "city_ascii": "Pipestone",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9958,
+    "lng": -96.3117,
+    "cafes": []
+  },
+  "Rice Lake": {
+    "city": "Rice Lake",
+    "city_ascii": "Rice Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8977,
+    "lng": -92.1137,
+    "cafes": []
+  },
+  "Goodview": {
+    "city": "Goodview",
+    "city_ascii": "Goodview",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0692,
+    "lng": -91.7166,
+    "cafes": []
+  },
+  "St. Charles": {
+    "city": "St. Charles",
+    "city_ascii": "St. Charles",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9687,
+    "lng": -92.0593,
+    "cafes": []
+  },
+  "Scandia": {
+    "city": "Scandia",
+    "city_ascii": "Scandia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.254,
+    "lng": -92.8278,
+    "cafes": []
+  },
+  "Grant": {
+    "city": "Grant",
+    "city_ascii": "Grant",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0825,
+    "lng": -92.909,
+    "cafes": []
+  },
+  "Bayport": {
+    "city": "Bayport",
+    "city_ascii": "Bayport",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0152,
+    "lng": -92.7789,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.164,
+    "lng": -93.054,
+    "cafes": []
+  },
+  "Norwood Young America": {
+    "city": "Norwood Young America",
+    "city_ascii": "Norwood Young America",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7721,
+    "lng": -93.9192,
+    "cafes": []
+  },
+  "Zumbrota": {
+    "city": "Zumbrota",
+    "city_ascii": "Zumbrota",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.295,
+    "lng": -92.6736,
+    "cafes": []
+  },
+  "Montrose": {
+    "city": "Montrose",
+    "city_ascii": "Montrose",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0669,
+    "lng": -93.9203,
+    "cafes": []
+  },
+  "Deephaven": {
+    "city": "Deephaven",
+    "city_ascii": "Deephaven",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9318,
+    "lng": -93.5293,
+    "cafes": []
+  },
+  "Mora": {
+    "city": "Mora",
+    "city_ascii": "Mora",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8768,
+    "lng": -93.2914,
+    "cafes": []
+  },
+  "Independence": {
+    "city": "Independence",
+    "city_ascii": "Independence",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0219,
+    "lng": -93.7076,
+    "cafes": []
+  },
+  "Pine Island": {
+    "city": "Pine Island",
+    "city_ascii": "Pine Island",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1968,
+    "lng": -92.6166,
+    "cafes": []
+  },
+  "Long Prairie": {
+    "city": "Long Prairie",
+    "city_ascii": "Long Prairie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9775,
+    "lng": -94.863,
+    "cafes": []
+  },
+  "Melrose": {
+    "city": "Melrose",
+    "city_ascii": "Melrose",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6757,
+    "lng": -94.8128,
+    "cafes": []
+  },
+  "Two Harbors": {
+    "city": "Two Harbors",
+    "city_ascii": "Two Harbors",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.0302,
+    "lng": -91.6752,
+    "cafes": []
+  },
+  "Perham": {
+    "city": "Perham",
+    "city_ascii": "Perham",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.5999,
+    "lng": -95.5771,
+    "cafes": []
+  },
+  "St. Augusta": {
+    "city": "St. Augusta",
+    "city_ascii": "St. Augusta",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4498,
+    "lng": -94.1995,
+    "cafes": []
+  },
+  "Plainview": {
+    "city": "Plainview",
+    "city_ascii": "Plainview",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1648,
+    "lng": -92.1697,
+    "cafes": []
+  },
+  "Hanover": {
+    "city": "Hanover",
+    "city_ascii": "Hanover",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1579,
+    "lng": -93.6634,
+    "cafes": []
+  },
+  "Eveleth": {
+    "city": "Eveleth",
+    "city_ascii": "Eveleth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4637,
+    "lng": -92.5444,
+    "cafes": []
+  },
+  "Benson": {
+    "city": "Benson",
+    "city_ascii": "Benson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3152,
+    "lng": -95.6058,
+    "cafes": []
+  },
+  "Sleepy Eye": {
+    "city": "Sleepy Eye",
+    "city_ascii": "Sleepy Eye",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.299,
+    "lng": -94.7234,
+    "cafes": []
+  },
+  "Breckenridge": {
+    "city": "Breckenridge",
+    "city_ascii": "Breckenridge",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.2662,
+    "lng": -96.585,
+    "cafes": []
+  },
+  "Montgomery": {
+    "city": "Montgomery",
+    "city_ascii": "Montgomery",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.445,
+    "lng": -93.5797,
+    "cafes": []
+  },
+  "Annandale": {
+    "city": "Annandale",
+    "city_ascii": "Annandale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2599,
+    "lng": -94.1205,
+    "cafes": []
+  },
+  "Pine City": {
+    "city": "Pine City",
+    "city_ascii": "Pine City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8368,
+    "lng": -92.9682,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6265,
+    "lng": -94.9891,
+    "cafes": []
+  },
+  "Moose Lake": {
+    "city": "Moose Lake",
+    "city_ascii": "Moose Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4442,
+    "lng": -92.7654,
+    "cafes": []
+  },
+  "Eagle Lake": {
+    "city": "Eagle Lake",
+    "city_ascii": "Eagle Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1636,
+    "lng": -93.8823,
+    "cafes": []
+  },
+  "Rush City": {
+    "city": "Rush City",
+    "city_ascii": "Rush City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6875,
+    "lng": -92.9655,
+    "cafes": []
+  },
+  "Ely": {
+    "city": "Ely",
+    "city_ascii": "Ely",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.9054,
+    "lng": -91.8517,
+    "cafes": []
+  },
+  "Blue Earth": {
+    "city": "Blue Earth",
+    "city_ascii": "Blue Earth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6409,
+    "lng": -94.1005,
+    "cafes": []
+  },
+  "Proctor": {
+    "city": "Proctor",
+    "city_ascii": "Proctor",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7407,
+    "lng": -92.2282,
+    "cafes": []
+  },
+  "Milaca": {
+    "city": "Milaca",
+    "city_ascii": "Milaca",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7574,
+    "lng": -93.6513,
+    "cafes": []
+  },
+  "Afton": {
+    "city": "Afton",
+    "city_ascii": "Afton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9041,
+    "lng": -92.8174,
+    "cafes": []
+  },
+  "Greenfield": {
+    "city": "Greenfield",
+    "city_ascii": "Greenfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0997,
+    "lng": -93.6884,
+    "cafes": []
+  },
+  "Mountain Iron": {
+    "city": "Mountain Iron",
+    "city_ascii": "Mountain Iron",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5474,
+    "lng": -92.6255,
+    "cafes": []
+  },
+  "Dodge Center": {
+    "city": "Dodge Center",
+    "city_ascii": "Dodge Center",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0284,
+    "lng": -92.8518,
+    "cafes": []
+  },
+  "Caledonia": {
+    "city": "Caledonia",
+    "city_ascii": "Caledonia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6344,
+    "lng": -91.5009,
+    "cafes": []
+  },
+  "Albany": {
+    "city": "Albany",
+    "city_ascii": "Albany",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6284,
+    "lng": -94.5675,
+    "cafes": []
+  },
+  "Cokato": {
+    "city": "Cokato",
+    "city_ascii": "Cokato",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.077,
+    "lng": -94.1877,
+    "cafes": []
+  },
+  "Barnesville": {
+    "city": "Barnesville",
+    "city_ascii": "Barnesville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6501,
+    "lng": -96.4164,
+    "cafes": []
+  },
+  "Roseau": {
+    "city": "Roseau",
+    "city_ascii": "Roseau",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.8445,
+    "lng": -95.7625,
+    "cafes": []
+  },
+  "Cohasset": {
+    "city": "Cohasset",
+    "city_ascii": "Cohasset",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2389,
+    "lng": -93.6396,
+    "cafes": []
+  },
+  "Chatfield": {
+    "city": "Chatfield",
+    "city_ascii": "Chatfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8445,
+    "lng": -92.1829,
+    "cafes": []
+  },
+  "Foley": {
+    "city": "Foley",
+    "city_ascii": "Foley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6636,
+    "lng": -93.9096,
+    "cafes": []
+  },
+  "Glenwood": {
+    "city": "Glenwood",
+    "city_ascii": "Glenwood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6521,
+    "lng": -95.3649,
+    "cafes": []
+  },
+  "Breezy Point": {
+    "city": "Breezy Point",
+    "city_ascii": "Breezy Point",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6081,
+    "lng": -94.218,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1381,
+    "lng": -93.1714,
+    "cafes": []
+  },
+  "Granite Falls": {
+    "city": "Granite Falls",
+    "city_ascii": "Granite Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8107,
+    "lng": -95.5376,
+    "cafes": []
+  },
+  "Osseo": {
+    "city": "Osseo",
+    "city_ascii": "Osseo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1179,
+    "lng": -93.3991,
+    "cafes": []
+  },
+  "Pelican Rapids": {
+    "city": "Pelican Rapids",
+    "city_ascii": "Pelican Rapids",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.57,
+    "lng": -96.0861,
+    "cafes": []
+  },
+  "Wabasha": {
+    "city": "Wabasha",
+    "city_ascii": "Wabasha",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3706,
+    "lng": -92.042,
+    "cafes": []
+  },
+  "Sandstone": {
+    "city": "Sandstone",
+    "city_ascii": "Sandstone",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1292,
+    "lng": -92.8646,
+    "cafes": []
+  },
+  "Lake Crystal": {
+    "city": "Lake Crystal",
+    "city_ascii": "Lake Crystal",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1053,
+    "lng": -94.2188,
+    "cafes": []
+  },
+  "Rockville": {
+    "city": "Rockville",
+    "city_ascii": "Rockville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4654,
+    "lng": -94.3218,
+    "cafes": []
+  },
+  "Le Center": {
+    "city": "Le Center",
+    "city_ascii": "Le Center",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3866,
+    "lng": -93.7311,
+    "cafes": []
+  },
+  "Mayer": {
+    "city": "Mayer",
+    "city_ascii": "Mayer",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8868,
+    "lng": -93.8904,
+    "cafes": []
+  },
+  "Paynesville": {
+    "city": "Paynesville",
+    "city_ascii": "Paynesville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3785,
+    "lng": -94.7216,
+    "cafes": []
+  },
+  "Janesville": {
+    "city": "Janesville",
+    "city_ascii": "Janesville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1198,
+    "lng": -93.7096,
+    "cafes": []
+  },
+  "Lauderdale": {
+    "city": "Lauderdale",
+    "city_ascii": "Lauderdale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9942,
+    "lng": -93.2026,
+    "cafes": []
+  },
+  "Madelia": {
+    "city": "Madelia",
+    "city_ascii": "Madelia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0482,
+    "lng": -94.4199,
+    "cafes": []
+  },
+  "Staples": {
+    "city": "Staples",
+    "city_ascii": "Staples",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.369,
+    "lng": -94.8019,
+    "cafes": []
+  },
+  "Excelsior": {
+    "city": "Excelsior",
+    "city_ascii": "Excelsior",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9025,
+    "lng": -93.5663,
+    "cafes": []
+  },
+  "Spring Valley": {
+    "city": "Spring Valley",
+    "city_ascii": "Spring Valley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6888,
+    "lng": -92.3897,
+    "cafes": []
+  },
+  "Wells": {
+    "city": "Wells",
+    "city_ascii": "Wells",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7427,
+    "lng": -93.7281,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6083,
+    "lng": -94.0768,
+    "cafes": []
+  },
+  "Crosby": {
+    "city": "Crosby",
+    "city_ascii": "Crosby",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4892,
+    "lng": -93.9573,
+    "cafes": []
+  },
+  "Olivia": {
+    "city": "Olivia",
+    "city_ascii": "Olivia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.777,
+    "lng": -94.9971,
+    "cafes": []
+  },
+  "Pequot Lakes": {
+    "city": "Pequot Lakes",
+    "city_ascii": "Pequot Lakes",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.5875,
+    "lng": -94.2983,
+    "cafes": []
+  },
+  "Aitkin": {
+    "city": "Aitkin",
+    "city_ascii": "Aitkin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.5262,
+    "lng": -93.7056,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2372,
+    "lng": -94.9819,
+    "cafes": []
+  },
+  "Cologne": {
+    "city": "Cologne",
+    "city_ascii": "Cologne",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7696,
+    "lng": -93.7931,
+    "cafes": []
+  },
+  "Maple Lake": {
+    "city": "Maple Lake",
+    "city_ascii": "Maple Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2334,
+    "lng": -94.0063,
+    "cafes": []
+  },
+  "Eyota": {
+    "city": "Eyota",
+    "city_ascii": "Eyota",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9883,
+    "lng": -92.2321,
+    "cafes": []
+  },
+  "Slayton": {
+    "city": "Slayton",
+    "city_ascii": "Slayton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9901,
+    "lng": -95.7576,
+    "cafes": []
+  },
+  "Hawley": {
+    "city": "Hawley",
+    "city_ascii": "Hawley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.877,
+    "lng": -96.318,
+    "cafes": []
+  },
+  "Hoyt Lakes": {
+    "city": "Hoyt Lakes",
+    "city_ascii": "Hoyt Lakes",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5601,
+    "lng": -92.1163,
+    "cafes": []
+  },
+  "Gaylord": {
+    "city": "Gaylord",
+    "city_ascii": "Gaylord",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5559,
+    "lng": -94.2133,
+    "cafes": []
+  },
+  "Warroad": {
+    "city": "Warroad",
+    "city_ascii": "Warroad",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.9168,
+    "lng": -95.3271,
+    "cafes": []
+  },
+  "Esko": {
+    "city": "Esko",
+    "city_ascii": "Esko",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.71,
+    "lng": -92.3721,
+    "cafes": []
+  },
+  "Winsted": {
+    "city": "Winsted",
+    "city_ascii": "Winsted",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9574,
+    "lng": -94.0498,
+    "cafes": []
+  },
+  "Rice": {
+    "city": "Rice",
+    "city_ascii": "Rice",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7525,
+    "lng": -94.2317,
+    "cafes": []
+  },
+  "Stacy": {
+    "city": "Stacy",
+    "city_ascii": "Stacy",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3841,
+    "lng": -92.9938,
+    "cafes": []
+  },
+  "St. Bonifacius": {
+    "city": "St. Bonifacius",
+    "city_ascii": "St. Bonifacius",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9054,
+    "lng": -93.7477,
+    "cafes": []
+  },
+  "Blooming Prairie": {
+    "city": "Blooming Prairie",
+    "city_ascii": "Blooming Prairie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8684,
+    "lng": -93.0552,
+    "cafes": []
+  },
+  "Ortonville": {
+    "city": "Ortonville",
+    "city_ascii": "Ortonville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3018,
+    "lng": -96.4415,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.065,
+    "lng": -93.967,
+    "cafes": []
+  },
+  "Clearwater": {
+    "city": "Clearwater",
+    "city_ascii": "Clearwater",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4102,
+    "lng": -94.0447,
+    "cafes": []
+  },
+  "Aurora": {
+    "city": "Aurora",
+    "city_ascii": "Aurora",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5312,
+    "lng": -92.24,
+    "cafes": []
+  },
+  "Maple Plain": {
+    "city": "Maple Plain",
+    "city_ascii": "Maple Plain",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0088,
+    "lng": -93.6618,
+    "cafes": []
+  },
+  "Coleraine": {
+    "city": "Coleraine",
+    "city_ascii": "Coleraine",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2639,
+    "lng": -93.4524,
+    "cafes": []
+  },
+  "Dundas": {
+    "city": "Dundas",
+    "city_ascii": "Dundas",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4276,
+    "lng": -93.2039,
+    "cafes": []
+  },
+  "Tracy": {
+    "city": "Tracy",
+    "city_ascii": "Tracy",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.239,
+    "lng": -95.6153,
+    "cafes": []
+  },
+  "Spring Park": {
+    "city": "Spring Park",
+    "city_ascii": "Spring Park",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9364,
+    "lng": -93.632,
+    "cafes": []
+  },
+  "Howard Lake": {
+    "city": "Howard Lake",
+    "city_ascii": "Howard Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0606,
+    "lng": -94.067,
+    "cafes": []
+  },
+  "Lester Prairie": {
+    "city": "Lester Prairie",
+    "city_ascii": "Lester Prairie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8829,
+    "lng": -94.0375,
+    "cafes": []
+  },
+  "Ada": {
+    "city": "Ada",
+    "city_ascii": "Ada",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2989,
+    "lng": -96.5165,
+    "cafes": []
+  },
+  "Mountain Lake": {
+    "city": "Mountain Lake",
+    "city_ascii": "Mountain Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9407,
+    "lng": -94.9277,
+    "cafes": []
+  },
+  "Kenyon": {
+    "city": "Kenyon",
+    "city_ascii": "Kenyon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2726,
+    "lng": -92.9858,
+    "cafes": []
+  },
+  "Silver Bay": {
+    "city": "Silver Bay",
+    "city_ascii": "Silver Bay",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2941,
+    "lng": -91.278,
+    "cafes": []
+  },
+  "Rushford": {
+    "city": "Rushford",
+    "city_ascii": "Rushford",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8132,
+    "lng": -91.7538,
+    "cafes": []
+  },
+  "Waterville": {
+    "city": "Waterville",
+    "city_ascii": "Waterville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2235,
+    "lng": -93.5746,
+    "cafes": []
+  },
+  "Mapleton": {
+    "city": "Mapleton",
+    "city_ascii": "Mapleton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9266,
+    "lng": -93.9546,
+    "cafes": []
+  },
+  "Nisswa": {
+    "city": "Nisswa",
+    "city_ascii": "Nisswa",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.5003,
+    "lng": -94.2977,
+    "cafes": []
+  },
+  "Rock Creek": {
+    "city": "Rock Creek",
+    "city_ascii": "Rock Creek",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7604,
+    "lng": -92.9088,
+    "cafes": []
+  },
+  "Long Lake": {
+    "city": "Long Lake",
+    "city_ascii": "Long Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.984,
+    "lng": -93.5689,
+    "cafes": []
+  },
+  "Grand Marais": {
+    "city": "Grand Marais",
+    "city_ascii": "Grand Marais",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.7588,
+    "lng": -90.3445,
+    "cafes": []
+  },
+  "Gilbert": {
+    "city": "Gilbert",
+    "city_ascii": "Gilbert",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4912,
+    "lng": -92.4612,
+    "cafes": []
+  },
+  "Lewiston": {
+    "city": "Lewiston",
+    "city_ascii": "Lewiston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9824,
+    "lng": -91.8694,
+    "cafes": []
+  },
+  "Braham": {
+    "city": "Braham",
+    "city_ascii": "Braham",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7223,
+    "lng": -93.1717,
+    "cafes": []
+  },
+  "Osakis": {
+    "city": "Osakis",
+    "city_ascii": "Osakis",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8649,
+    "lng": -95.1524,
+    "cafes": []
+  },
+  "Hinckley": {
+    "city": "Hinckley",
+    "city_ascii": "Hinckley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0122,
+    "lng": -92.9256,
+    "cafes": []
+  },
+  "Oronoco": {
+    "city": "Oronoco",
+    "city_ascii": "Oronoco",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1598,
+    "lng": -92.5401,
+    "cafes": []
+  },
+  "Lakefield": {
+    "city": "Lakefield",
+    "city_ascii": "Lakefield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.678,
+    "lng": -95.1695,
+    "cafes": []
+  },
+  "Warren": {
+    "city": "Warren",
+    "city_ascii": "Warren",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.194,
+    "lng": -96.7688,
+    "cafes": []
+  },
+  "Saint John's University": {
+    "city": "Saint John's University",
+    "city_ascii": "Saint John's University",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5798,
+    "lng": -94.3931,
+    "cafes": []
+  },
+  "Frazee": {
+    "city": "Frazee",
+    "city_ascii": "Frazee",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7282,
+    "lng": -95.7026,
+    "cafes": []
+  },
+  "Pierz": {
+    "city": "Pierz",
+    "city_ascii": "Pierz",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9772,
+    "lng": -94.1008,
+    "cafes": []
+  },
+  "Canby": {
+    "city": "Canby",
+    "city_ascii": "Canby",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7158,
+    "lng": -96.269,
+    "cafes": []
+  },
+  "Minneota": {
+    "city": "Minneota",
+    "city_ascii": "Minneota",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5625,
+    "lng": -95.9827,
+    "cafes": []
+  },
+  "Lakeland": {
+    "city": "Lakeland",
+    "city_ascii": "Lakeland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9503,
+    "lng": -92.77,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0127,
+    "lng": -96.189,
+    "cafes": []
+  },
+  "Red Lake": {
+    "city": "Red Lake",
+    "city_ascii": "Red Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.8701,
+    "lng": -95.0059,
+    "cafes": []
+  },
+  "Clara City": {
+    "city": "Clara City",
+    "city_ascii": "Clara City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9576,
+    "lng": -95.3671,
+    "cafes": []
+  },
+  "Avon": {
+    "city": "Avon",
+    "city_ascii": "Avon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.61,
+    "lng": -94.4618,
+    "cafes": []
+  },
+  "Dawson": {
+    "city": "Dawson",
+    "city_ascii": "Dawson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.929,
+    "lng": -96.0504,
+    "cafes": []
+  },
+  "Babbitt": {
+    "city": "Babbitt",
+    "city_ascii": "Babbitt",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.6443,
+    "lng": -91.9461,
+    "cafes": []
+  },
+  "Renville": {
+    "city": "Renville",
+    "city_ascii": "Renville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7908,
+    "lng": -95.2048,
+    "cafes": []
+  },
+  "Hayfield": {
+    "city": "Hayfield",
+    "city_ascii": "Hayfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8902,
+    "lng": -92.8471,
+    "cafes": []
+  },
+  "Tonka Bay": {
+    "city": "Tonka Bay",
+    "city_ascii": "Tonka Bay",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9167,
+    "lng": -93.5885,
+    "cafes": []
+  },
+  "Appleton": {
+    "city": "Appleton",
+    "city_ascii": "Appleton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1998,
+    "lng": -96.0225,
+    "cafes": []
+  },
+  "Fulda": {
+    "city": "Fulda",
+    "city_ascii": "Fulda",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8691,
+    "lng": -95.6023,
+    "cafes": []
+  },
+  "Richmond": {
+    "city": "Richmond",
+    "city_ascii": "Richmond",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4547,
+    "lng": -94.5135,
+    "cafes": []
+  },
+  "Wheaton": {
+    "city": "Wheaton",
+    "city_ascii": "Wheaton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8059,
+    "lng": -96.498,
+    "cafes": []
+  },
+  "Dassel": {
+    "city": "Dassel",
+    "city_ascii": "Dassel",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0831,
+    "lng": -94.315,
+    "cafes": []
+  },
+  "New York Mills": {
+    "city": "New York Mills",
+    "city_ascii": "New York Mills",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.5198,
+    "lng": -95.3732,
+    "cafes": []
+  },
+  "Preston": {
+    "city": "Preston",
+    "city_ascii": "Preston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6726,
+    "lng": -92.0828,
+    "cafes": []
+  },
+  "Starbuck": {
+    "city": "Starbuck",
+    "city_ascii": "Starbuck",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6116,
+    "lng": -95.5322,
+    "cafes": []
+  },
+  "Menahga": {
+    "city": "Menahga",
+    "city_ascii": "Menahga",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7471,
+    "lng": -95.1012,
+    "cafes": []
+  },
+  "Adrian": {
+    "city": "Adrian",
+    "city_ascii": "Adrian",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6332,
+    "lng": -95.9329,
+    "cafes": []
+  },
+  "Glyndon": {
+    "city": "Glyndon",
+    "city_ascii": "Glyndon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8709,
+    "lng": -96.5784,
+    "cafes": []
+  },
+  "Fosston": {
+    "city": "Fosston",
+    "city_ascii": "Fosston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5856,
+    "lng": -95.7577,
+    "cafes": []
+  },
+  "Winthrop": {
+    "city": "Winthrop",
+    "city_ascii": "Winthrop",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5424,
+    "lng": -94.3598,
+    "cafes": []
+  },
+  "Red Lake Falls": {
+    "city": "Red Lake Falls",
+    "city_ascii": "Red Lake Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.8837,
+    "lng": -96.2727,
+    "cafes": []
+  },
+  "Goodhue": {
+    "city": "Goodhue",
+    "city_ascii": "Goodhue",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3994,
+    "lng": -92.6255,
+    "cafes": []
+  },
+  "Winnebago": {
+    "city": "Winnebago",
+    "city_ascii": "Winnebago",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7645,
+    "lng": -94.1702,
+    "cafes": []
+  },
+  "Keewatin": {
+    "city": "Keewatin",
+    "city_ascii": "Keewatin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4005,
+    "lng": -93.0828,
+    "cafes": []
+  },
+  "Truman": {
+    "city": "Truman",
+    "city_ascii": "Truman",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8279,
+    "lng": -94.4366,
+    "cafes": []
+  },
+  "Spring Grove": {
+    "city": "Spring Grove",
+    "city_ascii": "Spring Grove",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5607,
+    "lng": -91.6373,
+    "cafes": []
+  },
+  "Spicer": {
+    "city": "Spicer",
+    "city_ascii": "Spicer",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2331,
+    "lng": -94.9401,
+    "cafes": []
+  },
+  "Bagley": {
+    "city": "Bagley",
+    "city_ascii": "Bagley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5244,
+    "lng": -95.4031,
+    "cafes": []
+  },
+  "Atwater": {
+    "city": "Atwater",
+    "city_ascii": "Atwater",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1356,
+    "lng": -94.7769,
+    "cafes": []
+  },
+  "Taylors Falls": {
+    "city": "Taylors Falls",
+    "city_ascii": "Taylors Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4121,
+    "lng": -92.6644,
+    "cafes": []
+  },
+  "Edgerton": {
+    "city": "Edgerton",
+    "city_ascii": "Edgerton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8753,
+    "lng": -96.1305,
+    "cafes": []
+  },
+  "Martin Lake": {
+    "city": "Martin Lake",
+    "city_ascii": "Martin Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3824,
+    "lng": -93.0885,
+    "cafes": []
+  },
+  "Medford": {
+    "city": "Medford",
+    "city_ascii": "Medford",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1685,
+    "lng": -93.2472,
+    "cafes": []
+  },
+  "Wanamingo": {
+    "city": "Wanamingo",
+    "city_ascii": "Wanamingo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3026,
+    "lng": -92.7872,
+    "cafes": []
+  },
+  "Madison Lake": {
+    "city": "Madison Lake",
+    "city_ascii": "Madison Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2074,
+    "lng": -93.8175,
+    "cafes": []
+  },
+  "Redby": {
+    "city": "Redby",
+    "city_ascii": "Redby",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.8715,
+    "lng": -94.9052,
+    "cafes": []
+  },
+  "East Gull Lake": {
+    "city": "East Gull Lake",
+    "city_ascii": "East Gull Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3948,
+    "lng": -94.3548,
+    "cafes": []
+  },
+  "Elbow Lake": {
+    "city": "Elbow Lake",
+    "city_ascii": "Elbow Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9902,
+    "lng": -95.9791,
+    "cafes": []
+  },
+  "New London": {
+    "city": "New London",
+    "city_ascii": "New London",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2974,
+    "lng": -94.9478,
+    "cafes": []
+  },
+  "Shafer": {
+    "city": "Shafer",
+    "city_ascii": "Shafer",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3901,
+    "lng": -92.7531,
+    "cafes": []
+  },
+  "Elgin": {
+    "city": "Elgin",
+    "city_ascii": "Elgin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1258,
+    "lng": -92.2478,
+    "cafes": []
+  },
+  "Dellwood": {
+    "city": "Dellwood",
+    "city_ascii": "Dellwood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0985,
+    "lng": -92.9672,
+    "cafes": []
+  },
+  "Fairfax": {
+    "city": "Fairfax",
+    "city_ascii": "Fairfax",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5283,
+    "lng": -94.7231,
+    "cafes": []
+  },
+  "Cottonwood": {
+    "city": "Cottonwood",
+    "city_ascii": "Cottonwood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6105,
+    "lng": -95.6721,
+    "cafes": []
+  },
+  "Lake Shore": {
+    "city": "Lake Shore",
+    "city_ascii": "Lake Shore",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.504,
+    "lng": -94.3635,
+    "cafes": []
+  },
+  "Baudette": {
+    "city": "Baudette",
+    "city_ascii": "Baudette",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.7119,
+    "lng": -94.5924,
+    "cafes": []
+  },
+  "Mahnomen": {
+    "city": "Mahnomen",
+    "city_ascii": "Mahnomen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3147,
+    "lng": -95.9673,
+    "cafes": []
+  },
+  "Hector": {
+    "city": "Hector",
+    "city_ascii": "Hector",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7412,
+    "lng": -94.712,
+    "cafes": []
+  },
+  "Lake St. Croix Beach": {
+    "city": "Lake St. Croix Beach",
+    "city_ascii": "Lake St. Croix Beach",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9245,
+    "lng": -92.7657,
+    "cafes": []
+  },
+  "Royalton": {
+    "city": "Royalton",
+    "city_ascii": "Royalton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8302,
+    "lng": -94.2931,
+    "cafes": []
+  },
+  "Parkers Prairie": {
+    "city": "Parkers Prairie",
+    "city_ascii": "Parkers Prairie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.153,
+    "lng": -95.329,
+    "cafes": []
+  },
+  "Harmony": {
+    "city": "Harmony",
+    "city_ascii": "Harmony",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.554,
+    "lng": -92.0075,
+    "cafes": []
+  },
+  "Scanlon": {
+    "city": "Scanlon",
+    "city_ascii": "Scanlon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7066,
+    "lng": -92.4287,
+    "cafes": []
+  },
+  "Eden Valley": {
+    "city": "Eden Valley",
+    "city_ascii": "Eden Valley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3255,
+    "lng": -94.5456,
+    "cafes": []
+  },
+  "Little Rock": {
+    "city": "Little Rock",
+    "city_ascii": "Little Rock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.8667,
+    "lng": -95.106,
+    "cafes": []
+  },
+  "New Richland": {
+    "city": "New Richland",
+    "city_ascii": "New Richland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8939,
+    "lng": -93.4939,
+    "cafes": []
+  },
+  "Hilltop": {
+    "city": "Hilltop",
+    "city_ascii": "Hilltop",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0536,
+    "lng": -93.2501,
+    "cafes": []
+  },
+  "Nashwauk": {
+    "city": "Nashwauk",
+    "city_ascii": "Nashwauk",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3805,
+    "lng": -93.1666,
+    "cafes": []
+  },
+  "Tyler": {
+    "city": "Tyler",
+    "city_ascii": "Tyler",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2785,
+    "lng": -96.1359,
+    "cafes": []
+  },
+  "Buhl": {
+    "city": "Buhl",
+    "city_ascii": "Buhl",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4994,
+    "lng": -92.7691,
+    "cafes": []
+  },
+  "Mantorville": {
+    "city": "Mantorville",
+    "city_ascii": "Mantorville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0656,
+    "lng": -92.7537,
+    "cafes": []
+  },
+  "Morristown": {
+    "city": "Morristown",
+    "city_ascii": "Morristown",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2239,
+    "lng": -93.4445,
+    "cafes": []
+  },
+  "Welcome": {
+    "city": "Welcome",
+    "city_ascii": "Welcome",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6662,
+    "lng": -94.6073,
+    "cafes": []
+  },
+  "Nicollet": {
+    "city": "Nicollet",
+    "city_ascii": "Nicollet",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2746,
+    "lng": -94.1881,
+    "cafes": []
+  },
+  "Bird Island": {
+    "city": "Bird Island",
+    "city_ascii": "Bird Island",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7648,
+    "lng": -94.8949,
+    "cafes": []
+  },
+  "Grand Meadow": {
+    "city": "Grand Meadow",
+    "city_ascii": "Grand Meadow",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7062,
+    "lng": -92.5701,
+    "cafes": []
+  },
+  "Mazeppa": {
+    "city": "Mazeppa",
+    "city_ascii": "Mazeppa",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2737,
+    "lng": -92.5403,
+    "cafes": []
+  },
+  "Sherburn": {
+    "city": "Sherburn",
+    "city_ascii": "Sherburn",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6549,
+    "lng": -94.7275,
+    "cafes": []
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5278,
+    "lng": -93.9091,
+    "cafes": []
+  },
+  "Pine River": {
+    "city": "Pine River",
+    "city_ascii": "Pine River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7224,
+    "lng": -94.3974,
+    "cafes": []
+  },
+  "Harris": {
+    "city": "Harris",
+    "city_ascii": "Harris",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5976,
+    "lng": -92.9869,
+    "cafes": []
+  },
+  "Browerville": {
+    "city": "Browerville",
+    "city_ascii": "Browerville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0805,
+    "lng": -94.8645,
+    "cafes": []
+  },
+  "Silver Lake": {
+    "city": "Silver Lake",
+    "city_ascii": "Silver Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9041,
+    "lng": -94.1986,
+    "cafes": []
+  },
+  "Carlton": {
+    "city": "Carlton",
+    "city_ascii": "Carlton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6628,
+    "lng": -92.4067,
+    "cafes": []
+  },
+  "Deer River": {
+    "city": "Deer River",
+    "city_ascii": "Deer River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3391,
+    "lng": -93.7929,
+    "cafes": []
+  },
+  "Houston": {
+    "city": "Houston",
+    "city_ascii": "Houston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7583,
+    "lng": -91.5706,
+    "cafes": []
+  },
+  "Biwabik": {
+    "city": "Biwabik",
+    "city_ascii": "Biwabik",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.555,
+    "lng": -92.3234,
+    "cafes": []
+  },
+  "Gibbon": {
+    "city": "Gibbon",
+    "city_ascii": "Gibbon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5332,
+    "lng": -94.5242,
+    "cafes": []
+  },
+  "Clarkfield": {
+    "city": "Clarkfield",
+    "city_ascii": "Clarkfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7907,
+    "lng": -95.8079,
+    "cafes": []
+  },
+  "Lamberton": {
+    "city": "Lamberton",
+    "city_ascii": "Lamberton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2306,
+    "lng": -95.2676,
+    "cafes": []
+  },
+  "Dover": {
+    "city": "Dover",
+    "city_ascii": "Dover",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9698,
+    "lng": -92.134,
+    "cafes": []
+  },
+  "Morgan": {
+    "city": "Morgan",
+    "city_ascii": "Morgan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4158,
+    "lng": -94.9248,
+    "cafes": []
+  },
+  "Brownsdale": {
+    "city": "Brownsdale",
+    "city_ascii": "Brownsdale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7404,
+    "lng": -92.8681,
+    "cafes": []
+  },
+  "Walker": {
+    "city": "Walker",
+    "city_ascii": "Walker",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.0906,
+    "lng": -94.5885,
+    "cafes": []
+  },
+  "Grove City": {
+    "city": "Grove City",
+    "city_ascii": "Grove City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1481,
+    "lng": -94.6815,
+    "cafes": []
+  },
+  "Courtland": {
+    "city": "Courtland",
+    "city_ascii": "Courtland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2701,
+    "lng": -94.3464,
+    "cafes": []
+  },
+  "Henning": {
+    "city": "Henning",
+    "city_ascii": "Henning",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3234,
+    "lng": -95.4424,
+    "cafes": []
+  },
+  "McIntosh": {
+    "city": "McIntosh",
+    "city_ascii": "McIntosh",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.6369,
+    "lng": -95.8864,
+    "cafes": []
+  },
+  "Hills": {
+    "city": "Hills",
+    "city_ascii": "Hills",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5277,
+    "lng": -96.3594,
+    "cafes": []
+  },
+  "Mabel": {
+    "city": "Mabel",
+    "city_ascii": "Mabel",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5198,
+    "lng": -91.768,
+    "cafes": []
+  },
+  "Westbrook": {
+    "city": "Westbrook",
+    "city_ascii": "Westbrook",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0422,
+    "lng": -95.4374,
+    "cafes": []
+  },
+  "Hallock": {
+    "city": "Hallock",
+    "city_ascii": "Hallock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.7659,
+    "lng": -96.9427,
+    "cafes": []
+  },
+  "Freeport": {
+    "city": "Freeport",
+    "city_ascii": "Freeport",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6626,
+    "lng": -94.6888,
+    "cafes": []
+  },
+  "Kerkhoven": {
+    "city": "Kerkhoven",
+    "city_ascii": "Kerkhoven",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1925,
+    "lng": -95.3202,
+    "cafes": []
+  },
+  "Hancock": {
+    "city": "Hancock",
+    "city_ascii": "Hancock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4977,
+    "lng": -95.795,
+    "cafes": []
+  },
+  "Loretto": {
+    "city": "Loretto",
+    "city_ascii": "Loretto",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0548,
+    "lng": -93.6353,
+    "cafes": []
+  },
+  "Lanesboro": {
+    "city": "Lanesboro",
+    "city_ascii": "Lanesboro",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7171,
+    "lng": -91.9719,
+    "cafes": []
+  },
+  "Landfall": {
+    "city": "Landfall",
+    "city_ascii": "Landfall",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9508,
+    "lng": -92.9766,
+    "cafes": []
+  },
+  "Watkins": {
+    "city": "Watkins",
+    "city_ascii": "Watkins",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3153,
+    "lng": -94.412,
+    "cafes": []
+  },
+  "Battle Lake": {
+    "city": "Battle Lake",
+    "city_ascii": "Battle Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.285,
+    "lng": -95.7186,
+    "cafes": []
+  },
+  "Le Roy": {
+    "city": "Le Roy",
+    "city_ascii": "Le Roy",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5133,
+    "lng": -92.5079,
+    "cafes": []
+  },
+  "St. Clair": {
+    "city": "St. Clair",
+    "city_ascii": "St. Clair",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0839,
+    "lng": -93.8605,
+    "cafes": []
+  },
+  "Fertile": {
+    "city": "Fertile",
+    "city_ascii": "Fertile",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5339,
+    "lng": -96.2893,
+    "cafes": []
+  },
+  "Holdingford": {
+    "city": "Holdingford",
+    "city_ascii": "Holdingford",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7304,
+    "lng": -94.4714,
+    "cafes": []
+  },
+  "Raymond": {
+    "city": "Raymond",
+    "city_ascii": "Raymond",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0184,
+    "lng": -95.2367,
+    "cafes": []
+  },
+  "Adams": {
+    "city": "Adams",
+    "city_ascii": "Adams",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5654,
+    "lng": -92.719,
+    "cafes": []
+  },
+  "Belgrade": {
+    "city": "Belgrade",
+    "city_ascii": "Belgrade",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4506,
+    "lng": -94.9998,
+    "cafes": []
+  },
+  "West Concord": {
+    "city": "West Concord",
+    "city_ascii": "West Concord",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1529,
+    "lng": -92.8995,
+    "cafes": []
+  },
+  "Lilydale": {
+    "city": "Lilydale",
+    "city_ascii": "Lilydale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9095,
+    "lng": -93.1305,
+    "cafes": []
+  },
+  "Isle": {
+    "city": "Isle",
+    "city_ascii": "Isle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1389,
+    "lng": -93.4592,
+    "cafes": []
+  },
+  "Jasper": {
+    "city": "Jasper",
+    "city_ascii": "Jasper",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8491,
+    "lng": -96.3999,
+    "cafes": []
+  },
+  "Ponemah": {
+    "city": "Ponemah",
+    "city_ascii": "Ponemah",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.0348,
+    "lng": -94.8983,
+    "cafes": []
+  },
+  "Foreston": {
+    "city": "Foreston",
+    "city_ascii": "Foreston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7321,
+    "lng": -93.7095,
+    "cafes": []
+  },
+  "Onamia": {
+    "city": "Onamia",
+    "city_ascii": "Onamia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0703,
+    "lng": -93.6669,
+    "cafes": []
+  },
+  "Rushford Village": {
+    "city": "Rushford Village",
+    "city_ascii": "Rushford Village",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8033,
+    "lng": -91.7915,
+    "cafes": []
+  },
+  "Twin Valley": {
+    "city": "Twin Valley",
+    "city_ascii": "Twin Valley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2588,
+    "lng": -96.2592,
+    "cafes": []
+  },
+  "Greenwood": {
+    "city": "Greenwood",
+    "city_ascii": "Greenwood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9122,
+    "lng": -93.555,
+    "cafes": []
+  },
+  "Walnut Grove": {
+    "city": "Walnut Grove",
+    "city_ascii": "Walnut Grove",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.225,
+    "lng": -95.4692,
+    "cafes": []
+  },
+  "Sebeka": {
+    "city": "Sebeka",
+    "city_ascii": "Sebeka",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6292,
+    "lng": -95.0879,
+    "cafes": []
+  },
+  "Blackduck": {
+    "city": "Blackduck",
+    "city_ascii": "Blackduck",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.7263,
+    "lng": -94.548,
+    "cafes": []
+  },
+  "Marine on St. Croix": {
+    "city": "Marine on St. Croix",
+    "city_ascii": "Marine on St. Croix",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1983,
+    "lng": -92.7783,
+    "cafes": []
+  },
+  "Vineland": {
+    "city": "Vineland",
+    "city_ascii": "Vineland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1832,
+    "lng": -93.7822,
+    "cafes": []
+  },
+  "Hoffman": {
+    "city": "Hoffman",
+    "city_ascii": "Hoffman",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8345,
+    "lng": -95.787,
+    "cafes": []
+  },
+  "Clarissa": {
+    "city": "Clarissa",
+    "city_ascii": "Clarissa",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1284,
+    "lng": -94.949,
+    "cafes": []
+  },
+  "Lake Benton": {
+    "city": "Lake Benton",
+    "city_ascii": "Lake Benton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2642,
+    "lng": -96.2891,
+    "cafes": []
+  },
+  "Bovey": {
+    "city": "Bovey",
+    "city_ascii": "Bovey",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2962,
+    "lng": -93.4036,
+    "cafes": []
+  },
+  "Warsaw": {
+    "city": "Warsaw",
+    "city_ascii": "Warsaw",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2576,
+    "lng": -93.3771,
+    "cafes": []
+  },
+  "Greenbush": {
+    "city": "Greenbush",
+    "city_ascii": "Greenbush",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.7011,
+    "lng": -96.1835,
+    "cafes": []
+  },
+  "Stockton": {
+    "city": "Stockton",
+    "city_ascii": "Stockton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0271,
+    "lng": -91.7697,
+    "cafes": []
+  },
+  "Clarks Grove": {
+    "city": "Clarks Grove",
+    "city_ascii": "Clarks Grove",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7617,
+    "lng": -93.3286,
+    "cafes": []
+  },
+  "Hokah": {
+    "city": "Hokah",
+    "city_ascii": "Hokah",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7599,
+    "lng": -91.3498,
+    "cafes": []
+  },
+  "St. Stephen": {
+    "city": "St. Stephen",
+    "city_ascii": "St. Stephen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.701,
+    "lng": -94.2742,
+    "cafes": []
+  },
+  "Center City": {
+    "city": "Center City",
+    "city_ascii": "Center City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3942,
+    "lng": -92.8142,
+    "cafes": []
+  },
+  "The Lakes": {
+    "city": "The Lakes",
+    "city_ascii": "The Lakes",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1359,
+    "lng": -95.7083,
+    "cafes": []
+  },
+  "Buffalo Lake": {
+    "city": "Buffalo Lake",
+    "city_ascii": "Buffalo Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7368,
+    "lng": -94.617,
+    "cafes": []
+  },
+  "Elysian": {
+    "city": "Elysian",
+    "city_ascii": "Elysian",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2067,
+    "lng": -93.6764,
+    "cafes": []
+  },
+  "Emily": {
+    "city": "Emily",
+    "city_ascii": "Emily",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7601,
+    "lng": -93.9665,
+    "cafes": []
+  },
+  "Trimont": {
+    "city": "Trimont",
+    "city_ascii": "Trimont",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7611,
+    "lng": -94.7162,
+    "cafes": []
+  },
+  "Alden": {
+    "city": "Alden",
+    "city_ascii": "Alden",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6695,
+    "lng": -93.5735,
+    "cafes": []
+  },
+  "Sabin": {
+    "city": "Sabin",
+    "city_ascii": "Sabin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7814,
+    "lng": -96.6542,
+    "cafes": []
+  },
+  "Deerwood": {
+    "city": "Deerwood",
+    "city_ascii": "Deerwood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4729,
+    "lng": -93.9,
+    "cafes": []
+  },
+  "Randall": {
+    "city": "Randall",
+    "city_ascii": "Randall",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0887,
+    "lng": -94.5007,
+    "cafes": []
+  },
+  "Kimball": {
+    "city": "Kimball",
+    "city_ascii": "Kimball",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3143,
+    "lng": -94.3008,
+    "cafes": []
+  },
+  "Clearbrook": {
+    "city": "Clearbrook",
+    "city_ascii": "Clearbrook",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.6962,
+    "lng": -95.4293,
+    "cafes": []
+  },
+  "Evansville": {
+    "city": "Evansville",
+    "city_ascii": "Evansville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0062,
+    "lng": -95.6869,
+    "cafes": []
+  },
+  "Ivanhoe": {
+    "city": "Ivanhoe",
+    "city_ascii": "Ivanhoe",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4655,
+    "lng": -96.2508,
+    "cafes": []
+  },
+  "Ellendale": {
+    "city": "Ellendale",
+    "city_ascii": "Ellendale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8727,
+    "lng": -93.2993,
+    "cafes": []
+  },
+  "Brownsville": {
+    "city": "Brownsville",
+    "city_ascii": "Brownsville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6993,
+    "lng": -91.2824,
+    "cafes": []
+  },
+  "Karlstad": {
+    "city": "Karlstad",
+    "city_ascii": "Karlstad",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.578,
+    "lng": -96.5169,
+    "cafes": []
+  },
+  "Cleveland": {
+    "city": "Cleveland",
+    "city_ascii": "Cleveland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3236,
+    "lng": -93.8353,
+    "cafes": []
+  },
+  "Minnesota Lake": {
+    "city": "Minnesota Lake",
+    "city_ascii": "Minnesota Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8409,
+    "lng": -93.8279,
+    "cafes": []
+  },
+  "La Prairie": {
+    "city": "La Prairie",
+    "city_ascii": "La Prairie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2302,
+    "lng": -93.4912,
+    "cafes": []
+  },
+  "Clear Lake": {
+    "city": "Clear Lake",
+    "city_ascii": "Clear Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4464,
+    "lng": -93.9986,
+    "cafes": []
+  },
+  "Eagle Bend": {
+    "city": "Eagle Bend",
+    "city_ascii": "Eagle Bend",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1643,
+    "lng": -95.0341,
+    "cafes": []
+  },
+  "Prinsburg": {
+    "city": "Prinsburg",
+    "city_ascii": "Prinsburg",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9349,
+    "lng": -95.187,
+    "cafes": []
+  },
+  "Brewster": {
+    "city": "Brewster",
+    "city_ascii": "Brewster",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6973,
+    "lng": -95.4645,
+    "cafes": []
+  },
+  "Kasota": {
+    "city": "Kasota",
+    "city_ascii": "Kasota",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2916,
+    "lng": -93.969,
+    "cafes": []
+  },
+  "Wabasso": {
+    "city": "Wabasso",
+    "city_ascii": "Wabasso",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4025,
+    "lng": -95.2554,
+    "cafes": []
+  },
+  "Glenville": {
+    "city": "Glenville",
+    "city_ascii": "Glenville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5734,
+    "lng": -93.2809,
+    "cafes": []
+  },
+  "Sunfish Lake": {
+    "city": "Sunfish Lake",
+    "city_ascii": "Sunfish Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8722,
+    "lng": -93.0943,
+    "cafes": []
+  },
+  "Motley": {
+    "city": "Motley",
+    "city_ascii": "Motley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3349,
+    "lng": -94.6423,
+    "cafes": []
+  },
+  "Heron Lake": {
+    "city": "Heron Lake",
+    "city_ascii": "Heron Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7981,
+    "lng": -95.3197,
+    "cafes": []
+  },
+  "Rollingstone": {
+    "city": "Rollingstone",
+    "city_ascii": "Rollingstone",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0993,
+    "lng": -91.8187,
+    "cafes": []
+  },
+  "Halstad": {
+    "city": "Halstad",
+    "city_ascii": "Halstad",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.351,
+    "lng": -96.8258,
+    "cafes": []
+  },
+  "Marble": {
+    "city": "Marble",
+    "city_ascii": "Marble",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.328,
+    "lng": -93.294,
+    "cafes": []
+  },
+  "Graceville": {
+    "city": "Graceville",
+    "city_ascii": "Graceville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5686,
+    "lng": -96.4372,
+    "cafes": []
+  },
+  "Brooten": {
+    "city": "Brooten",
+    "city_ascii": "Brooten",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5001,
+    "lng": -95.1157,
+    "cafes": []
+  },
+  "New Germany": {
+    "city": "New Germany",
+    "city_ascii": "New Germany",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8861,
+    "lng": -93.973,
+    "cafes": []
+  },
+  "Littlefork": {
+    "city": "Littlefork",
+    "city_ascii": "Littlefork",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.3964,
+    "lng": -93.5578,
+    "cafes": []
+  },
+  "Lake Park": {
+    "city": "Lake Park",
+    "city_ascii": "Lake Park",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8839,
+    "lng": -96.0989,
+    "cafes": []
+  },
+  "Hendricks": {
+    "city": "Hendricks",
+    "city_ascii": "Hendricks",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5084,
+    "lng": -96.427,
+    "cafes": []
+  },
+  "Lynd": {
+    "city": "Lynd",
+    "city_ascii": "Lynd",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3974,
+    "lng": -95.8811,
+    "cafes": []
+  },
+  "Stewart": {
+    "city": "Stewart",
+    "city_ascii": "Stewart",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7236,
+    "lng": -94.4869,
+    "cafes": []
+  },
+  "Bethel": {
+    "city": "Bethel",
+    "city_ascii": "Bethel",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4022,
+    "lng": -93.2711,
+    "cafes": []
+  },
+  "Ironton": {
+    "city": "Ironton",
+    "city_ascii": "Ironton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4817,
+    "lng": -93.9978,
+    "cafes": []
+  },
+  "Claremont": {
+    "city": "Claremont",
+    "city_ascii": "Claremont",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0449,
+    "lng": -92.9976,
+    "cafes": []
+  },
+  "Amboy": {
+    "city": "Amboy",
+    "city_ascii": "Amboy",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.888,
+    "lng": -94.1584,
+    "cafes": []
+  },
+  "Balaton": {
+    "city": "Balaton",
+    "city_ascii": "Balaton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2331,
+    "lng": -95.8707,
+    "cafes": []
+  },
+  "Hamburg": {
+    "city": "Hamburg",
+    "city_ascii": "Hamburg",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7327,
+    "lng": -93.9644,
+    "cafes": []
+  },
+  "Kiester": {
+    "city": "Kiester",
+    "city_ascii": "Kiester",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5365,
+    "lng": -93.7111,
+    "cafes": []
+  },
+  "Hill City": {
+    "city": "Hill City",
+    "city_ascii": "Hill City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.9831,
+    "lng": -93.5959,
+    "cafes": []
+  },
+  "White Earth": {
+    "city": "White Earth",
+    "city_ascii": "White Earth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.0978,
+    "lng": -95.8445,
+    "cafes": []
+  },
+  "Ranier": {
+    "city": "Ranier",
+    "city_ascii": "Ranier",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.6065,
+    "lng": -93.353,
+    "cafes": []
+  },
+  "Taconite": {
+    "city": "Taconite",
+    "city_ascii": "Taconite",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3315,
+    "lng": -93.3758,
+    "cafes": []
+  },
+  "Medicine Lake": {
+    "city": "Medicine Lake",
+    "city_ascii": "Medicine Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9999,
+    "lng": -93.4199,
+    "cafes": []
+  },
+  "Brownton": {
+    "city": "Brownton",
+    "city_ascii": "Brownton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7326,
+    "lng": -94.3508,
+    "cafes": []
+  },
+  "Cosmos": {
+    "city": "Cosmos",
+    "city_ascii": "Cosmos",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9354,
+    "lng": -94.6949,
+    "cafes": []
+  },
+  "Sturgeon Lake": {
+    "city": "Sturgeon Lake",
+    "city_ascii": "Sturgeon Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3863,
+    "lng": -92.8242,
+    "cafes": []
+  },
+  "Stephen": {
+    "city": "Stephen",
+    "city_ascii": "Stephen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.4524,
+    "lng": -96.8763,
+    "cafes": []
+  },
+  "Sacred Heart": {
+    "city": "Sacred Heart",
+    "city_ascii": "Sacred Heart",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7817,
+    "lng": -95.3507,
+    "cafes": []
+  },
+  "Gem Lake": {
+    "city": "Gem Lake",
+    "city_ascii": "Gem Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.058,
+    "lng": -93.0405,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5305,
+    "lng": -94.8841,
+    "cafes": []
+  },
+  "Pennock": {
+    "city": "Pennock",
+    "city_ascii": "Pennock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1459,
+    "lng": -95.175,
+    "cafes": []
+  },
+  "Hampton": {
+    "city": "Hampton",
+    "city_ascii": "Hampton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6085,
+    "lng": -93.0025,
+    "cafes": []
+  },
+  "Woodland": {
+    "city": "Woodland",
+    "city_ascii": "Woodland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9524,
+    "lng": -93.5155,
+    "cafes": []
+  },
+  "Rothsay": {
+    "city": "Rothsay",
+    "city_ascii": "Rothsay",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4731,
+    "lng": -96.2842,
+    "cafes": []
+  },
+  "Argyle": {
+    "city": "Argyle",
+    "city_ascii": "Argyle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.3366,
+    "lng": -96.8162,
+    "cafes": []
+  },
+  "Milan": {
+    "city": "Milan",
+    "city_ascii": "Milan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1127,
+    "lng": -95.9117,
+    "cafes": []
+  },
+  "Pillager": {
+    "city": "Pillager",
+    "city_ascii": "Pillager",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3295,
+    "lng": -94.4796,
+    "cafes": []
+  },
+  "Cass Lake": {
+    "city": "Cass Lake",
+    "city_ascii": "Cass Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3792,
+    "lng": -94.5993,
+    "cafes": []
+  },
+  "Barnum": {
+    "city": "Barnum",
+    "city_ascii": "Barnum",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.5054,
+    "lng": -92.6884,
+    "cafes": []
+  },
+  "Lyle": {
+    "city": "Lyle",
+    "city_ascii": "Lyle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5058,
+    "lng": -92.9412,
+    "cafes": []
+  },
+  "Fountain": {
+    "city": "Fountain",
+    "city_ascii": "Fountain",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7426,
+    "lng": -92.1342,
+    "cafes": []
+  },
+  "Ottertail": {
+    "city": "Ottertail",
+    "city_ascii": "Ottertail",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4267,
+    "lng": -95.5637,
+    "cafes": []
+  },
+  "Bertha": {
+    "city": "Bertha",
+    "city_ascii": "Bertha",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.2671,
+    "lng": -95.0618,
+    "cafes": []
+  },
+  "Danube": {
+    "city": "Danube",
+    "city_ascii": "Danube",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.791,
+    "lng": -95.1029,
+    "cafes": []
+  },
+  "Butterfield": {
+    "city": "Butterfield",
+    "city_ascii": "Butterfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9587,
+    "lng": -94.7942,
+    "cafes": []
+  },
+  "St. Marys Point": {
+    "city": "St. Marys Point",
+    "city_ascii": "St. Marys Point",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9128,
+    "lng": -92.7702,
+    "cafes": []
+  },
+  "Floodwood": {
+    "city": "Floodwood",
+    "city_ascii": "Floodwood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.9175,
+    "lng": -92.9186,
+    "cafes": []
+  },
+  "Verndale": {
+    "city": "Verndale",
+    "city_ascii": "Verndale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3969,
+    "lng": -95.0125,
+    "cafes": []
+  },
+  "Lafayette": {
+    "city": "Lafayette",
+    "city_ascii": "Lafayette",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4471,
+    "lng": -94.3927,
+    "cafes": []
+  },
+  "Racine": {
+    "city": "Racine",
+    "city_ascii": "Racine",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7755,
+    "lng": -92.481,
+    "cafes": []
+  },
+  "Jenkins": {
+    "city": "Jenkins",
+    "city_ascii": "Jenkins",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6528,
+    "lng": -94.3298,
+    "cafes": []
+  },
+  "Ellsworth": {
+    "city": "Ellsworth",
+    "city_ascii": "Ellsworth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5207,
+    "lng": -96.0186,
+    "cafes": []
+  },
+  "Newfolden": {
+    "city": "Newfolden",
+    "city_ascii": "Newfolden",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.3568,
+    "lng": -96.3297,
+    "cafes": []
+  },
+  "Willernie": {
+    "city": "Willernie",
+    "city_ascii": "Willernie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0539,
+    "lng": -92.9571,
+    "cafes": []
+  },
+  "Randolph": {
+    "city": "Randolph",
+    "city_ascii": "Randolph",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.526,
+    "lng": -93.0198,
+    "cafes": []
+  },
+  "Carlos": {
+    "city": "Carlos",
+    "city_ascii": "Carlos",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9735,
+    "lng": -95.2923,
+    "cafes": []
+  },
+  "Fifty Lakes": {
+    "city": "Fifty Lakes",
+    "city_ascii": "Fifty Lakes",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7618,
+    "lng": -94.0898,
+    "cafes": []
+  },
+  "Brandon": {
+    "city": "Brandon",
+    "city_ascii": "Brandon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9663,
+    "lng": -95.5946,
+    "cafes": []
+  },
+  "Kandiyohi": {
+    "city": "Kandiyohi",
+    "city_ascii": "Kandiyohi",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1315,
+    "lng": -94.9328,
+    "cafes": []
+  },
+  "Ghent": {
+    "city": "Ghent",
+    "city_ascii": "Ghent",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5116,
+    "lng": -95.8926,
+    "cafes": []
+  },
+  "Rose Creek": {
+    "city": "Rose Creek",
+    "city_ascii": "Rose Creek",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6045,
+    "lng": -92.8289,
+    "cafes": []
+  },
+  "Browns Valley": {
+    "city": "Browns Valley",
+    "city_ascii": "Browns Valley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5947,
+    "lng": -96.8327,
+    "cafes": []
+  },
+  "New Auburn": {
+    "city": "New Auburn",
+    "city_ascii": "New Auburn",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6728,
+    "lng": -94.232,
+    "cafes": []
+  },
+  "Nevis": {
+    "city": "Nevis",
+    "city_ascii": "Nevis",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.9646,
+    "lng": -94.8423,
+    "cafes": []
+  },
+  "Erskine": {
+    "city": "Erskine",
+    "city_ascii": "Erskine",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.6651,
+    "lng": -96.0139,
+    "cafes": []
+  },
+  "Vermillion": {
+    "city": "Vermillion",
+    "city_ascii": "Vermillion",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6736,
+    "lng": -92.9643,
+    "cafes": []
+  },
+  "Naytahwaush": {
+    "city": "Naytahwaush",
+    "city_ascii": "Naytahwaush",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2703,
+    "lng": -95.6335,
+    "cafes": []
+  },
+  "Elmore": {
+    "city": "Elmore",
+    "city_ascii": "Elmore",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5063,
+    "lng": -94.0883,
+    "cafes": []
+  },
+  "Kellogg": {
+    "city": "Kellogg",
+    "city_ascii": "Kellogg",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3074,
+    "lng": -91.9989,
+    "cafes": []
+  },
+  "Underwood": {
+    "city": "Underwood",
+    "city_ascii": "Underwood",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.2869,
+    "lng": -95.8722,
+    "cafes": []
+  },
+  "Green Isle": {
+    "city": "Green Isle",
+    "city_ascii": "Green Isle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6804,
+    "lng": -94.0052,
+    "cafes": []
+  },
+  "Soudan": {
+    "city": "Soudan",
+    "city_ascii": "Soudan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.813,
+    "lng": -92.2356,
+    "cafes": []
+  },
+  "Miltona": {
+    "city": "Miltona",
+    "city_ascii": "Miltona",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0462,
+    "lng": -95.2932,
+    "cafes": []
+  },
+  "Oklee": {
+    "city": "Oklee",
+    "city_ascii": "Oklee",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.8387,
+    "lng": -95.8496,
+    "cafes": []
+  },
+  "Morton": {
+    "city": "Morton",
+    "city_ascii": "Morton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5534,
+    "lng": -94.985,
+    "cafes": []
+  },
+  "McGregor": {
+    "city": "McGregor",
+    "city_ascii": "McGregor",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6087,
+    "lng": -93.3055,
+    "cafes": []
+  },
+  "Bigfork": {
+    "city": "Bigfork",
+    "city_ascii": "Bigfork",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.7473,
+    "lng": -93.6525,
+    "cafes": []
+  },
+  "Herman": {
+    "city": "Herman",
+    "city_ascii": "Herman",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8105,
+    "lng": -96.1414,
+    "cafes": []
+  },
+  "Cook": {
+    "city": "Cook",
+    "city_ascii": "Cook",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.8412,
+    "lng": -92.6887,
+    "cafes": []
+  },
+  "Chokio": {
+    "city": "Chokio",
+    "city_ascii": "Chokio",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5731,
+    "lng": -96.1742,
+    "cafes": []
+  },
+  "Tower": {
+    "city": "Tower",
+    "city_ascii": "Tower",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.8104,
+    "lng": -92.2806,
+    "cafes": []
+  },
+  "Fisher": {
+    "city": "Fisher",
+    "city_ascii": "Fisher",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.7992,
+    "lng": -96.7993,
+    "cafes": []
+  },
+  "Crown College": {
+    "city": "Crown College",
+    "city_ascii": "Crown College",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8847,
+    "lng": -93.7426,
+    "cafes": []
+  },
+  "Good Thunder": {
+    "city": "Good Thunder",
+    "city_ascii": "Good Thunder",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0068,
+    "lng": -94.0705,
+    "cafes": []
+  },
+  "Badger": {
+    "city": "Badger",
+    "city_ascii": "Badger",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.7768,
+    "lng": -96.0213,
+    "cafes": []
+  },
+  "Ulen": {
+    "city": "Ulen",
+    "city_ascii": "Ulen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.0781,
+    "lng": -96.2581,
+    "cafes": []
+  },
+  "Altura": {
+    "city": "Altura",
+    "city_ascii": "Altura",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0642,
+    "lng": -91.9435,
+    "cafes": []
+  },
+  "Wrenshall": {
+    "city": "Wrenshall",
+    "city_ascii": "Wrenshall",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6217,
+    "lng": -92.384,
+    "cafes": []
+  },
+  "Pine Springs": {
+    "city": "Pine Springs",
+    "city_ascii": "Pine Springs",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0368,
+    "lng": -92.9543,
+    "cafes": []
+  },
+  "Ashby": {
+    "city": "Ashby",
+    "city_ascii": "Ashby",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0931,
+    "lng": -95.8154,
+    "cafes": []
+  },
+  "Minnetonka Beach": {
+    "city": "Minnetonka Beach",
+    "city_ascii": "Minnetonka Beach",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9385,
+    "lng": -93.5865,
+    "cafes": []
+  },
+  "Canton": {
+    "city": "Canton",
+    "city_ascii": "Canton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5298,
+    "lng": -91.93,
+    "cafes": []
+  },
+  "Hartland": {
+    "city": "Hartland",
+    "city_ascii": "Hartland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8042,
+    "lng": -93.4843,
+    "cafes": []
+  },
+  "Belview": {
+    "city": "Belview",
+    "city_ascii": "Belview",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6065,
+    "lng": -95.3287,
+    "cafes": []
+  },
+  "Wood Lake": {
+    "city": "Wood Lake",
+    "city_ascii": "Wood Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6513,
+    "lng": -95.5358,
+    "cafes": []
+  },
+  "Upsala": {
+    "city": "Upsala",
+    "city_ascii": "Upsala",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.81,
+    "lng": -94.5674,
+    "cafes": []
+  },
+  "Waubun": {
+    "city": "Waubun",
+    "city_ascii": "Waubun",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.184,
+    "lng": -95.9401,
+    "cafes": []
+  },
+  "Hanska": {
+    "city": "Hanska",
+    "city_ascii": "Hanska",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1487,
+    "lng": -94.4945,
+    "cafes": []
+  },
+  "Orr": {
+    "city": "Orr",
+    "city_ascii": "Orr",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.0594,
+    "lng": -92.8249,
+    "cafes": []
+  },
+  "Ogilvie": {
+    "city": "Ogilvie",
+    "city_ascii": "Ogilvie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8301,
+    "lng": -93.4232,
+    "cafes": []
+  },
+  "Darwin": {
+    "city": "Darwin",
+    "city_ascii": "Darwin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0969,
+    "lng": -94.4137,
+    "cafes": []
+  },
+  "Bricelyn": {
+    "city": "Bricelyn",
+    "city_ascii": "Bricelyn",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5607,
+    "lng": -93.8131,
+    "cafes": []
+  },
+  "Round Lake": {
+    "city": "Round Lake",
+    "city_ascii": "Round Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5373,
+    "lng": -95.4701,
+    "cafes": []
+  },
+  "Hollandale": {
+    "city": "Hollandale",
+    "city_ascii": "Hollandale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7598,
+    "lng": -93.2043,
+    "cafes": []
+  },
+  "Cromwell": {
+    "city": "Cromwell",
+    "city_ascii": "Cromwell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6795,
+    "lng": -92.8731,
+    "cafes": []
+  },
+  "Plummer": {
+    "city": "Plummer",
+    "city_ascii": "Plummer",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.9151,
+    "lng": -96.0416,
+    "cafes": []
+  },
+  "Audubon": {
+    "city": "Audubon",
+    "city_ascii": "Audubon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8645,
+    "lng": -95.9841,
+    "cafes": []
+  },
+  "Lakeland Shores": {
+    "city": "Lakeland Shores",
+    "city_ascii": "Lakeland Shores",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9478,
+    "lng": -92.7612,
+    "cafes": []
+  },
+  "Mahtowa": {
+    "city": "Mahtowa",
+    "city_ascii": "Mahtowa",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.5616,
+    "lng": -92.6279,
+    "cafes": []
+  },
+  "Hitterdal": {
+    "city": "Hitterdal",
+    "city_ascii": "Hitterdal",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.9778,
+    "lng": -96.2584,
+    "cafes": []
+  },
+  "Dexter": {
+    "city": "Dexter",
+    "city_ascii": "Dexter",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7194,
+    "lng": -92.7017,
+    "cafes": []
+  },
+  "Wykoff": {
+    "city": "Wykoff",
+    "city_ascii": "Wykoff",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7086,
+    "lng": -92.2674,
+    "cafes": []
+  },
+  "Jeffers": {
+    "city": "Jeffers",
+    "city_ascii": "Jeffers",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0559,
+    "lng": -95.1953,
+    "cafes": []
+  },
+  "Rushmore": {
+    "city": "Rushmore",
+    "city_ascii": "Rushmore",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6197,
+    "lng": -95.799,
+    "cafes": []
+  },
+  "Willow River": {
+    "city": "Willow River",
+    "city_ascii": "Willow River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3206,
+    "lng": -92.8346,
+    "cafes": []
+  },
+  "Remer": {
+    "city": "Remer",
+    "city_ascii": "Remer",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.0569,
+    "lng": -93.9126,
+    "cafes": []
+  },
+  "Kelliher": {
+    "city": "Kelliher",
+    "city_ascii": "Kelliher",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.9438,
+    "lng": -94.4446,
+    "cafes": []
+  },
+  "Lancaster": {
+    "city": "Lancaster",
+    "city_ascii": "Lancaster",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.8577,
+    "lng": -96.8019,
+    "cafes": []
+  },
+  "Alvarado": {
+    "city": "Alvarado",
+    "city_ascii": "Alvarado",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.193,
+    "lng": -96.9984,
+    "cafes": []
+  },
+  "Lowry": {
+    "city": "Lowry",
+    "city_ascii": "Lowry",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.705,
+    "lng": -95.519,
+    "cafes": []
+  },
+  "Askov": {
+    "city": "Askov",
+    "city_ascii": "Askov",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1886,
+    "lng": -92.7824,
+    "cafes": []
+  },
+  "Geneva": {
+    "city": "Geneva",
+    "city_ascii": "Geneva",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8228,
+    "lng": -93.2683,
+    "cafes": []
+  },
+  "Sanborn": {
+    "city": "Sanborn",
+    "city_ascii": "Sanborn",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2098,
+    "lng": -95.1297,
+    "cafes": []
+  },
+  "Vernon Center": {
+    "city": "Vernon Center",
+    "city_ascii": "Vernon Center",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9626,
+    "lng": -94.1665,
+    "cafes": []
+  },
+  "Wilton": {
+    "city": "Wilton",
+    "city_ascii": "Wilton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5071,
+    "lng": -94.9985,
+    "cafes": []
+  },
+  "Ostrander": {
+    "city": "Ostrander",
+    "city_ascii": "Ostrander",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6137,
+    "lng": -92.4263,
+    "cafes": []
+  },
+  "Russell": {
+    "city": "Russell",
+    "city_ascii": "Russell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3199,
+    "lng": -95.9474,
+    "cafes": []
+  },
+  "Akeley": {
+    "city": "Akeley",
+    "city_ascii": "Akeley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.0005,
+    "lng": -94.728,
+    "cafes": []
+  },
+  "Barrett": {
+    "city": "Barrett",
+    "city_ascii": "Barrett",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9124,
+    "lng": -95.8943,
+    "cafes": []
+  },
+  "Chandler": {
+    "city": "Chandler",
+    "city_ascii": "Chandler",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9306,
+    "lng": -95.9512,
+    "cafes": []
+  },
+  "St. Martin": {
+    "city": "St. Martin",
+    "city_ascii": "St. Martin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5028,
+    "lng": -94.6676,
+    "cafes": []
+  },
+  "Freeborn": {
+    "city": "Freeborn",
+    "city_ascii": "Freeborn",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7659,
+    "lng": -93.5642,
+    "cafes": []
+  },
+  "Emmons": {
+    "city": "Emmons",
+    "city_ascii": "Emmons",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5071,
+    "lng": -93.485,
+    "cafes": []
+  },
+  "Cyrus": {
+    "city": "Cyrus",
+    "city_ascii": "Cyrus",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6147,
+    "lng": -95.7381,
+    "cafes": []
+  },
+  "Buckman": {
+    "city": "Buckman",
+    "city_ascii": "Buckman",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8973,
+    "lng": -94.094,
+    "cafes": []
+  },
+  "Vesta": {
+    "city": "Vesta",
+    "city_ascii": "Vesta",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5067,
+    "lng": -95.4139,
+    "cafes": []
+  },
+  "Gary": {
+    "city": "Gary",
+    "city_ascii": "Gary",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3725,
+    "lng": -96.2656,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9431,
+    "lng": -92.3531,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4632,
+    "lng": -96.4414,
+    "cafes": []
+  },
+  "Murdock": {
+    "city": "Murdock",
+    "city_ascii": "Murdock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2234,
+    "lng": -95.3946,
+    "cafes": []
+  },
+  "Long Beach": {
+    "city": "Long Beach",
+    "city_ascii": "Long Beach",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6509,
+    "lng": -95.4297,
+    "cafes": []
+  },
+  "Hackensack": {
+    "city": "Hackensack",
+    "city_ascii": "Hackensack",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.927,
+    "lng": -94.5161,
+    "cafes": []
+  },
+  "Frost": {
+    "city": "Frost",
+    "city_ascii": "Frost",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5846,
+    "lng": -93.9248,
+    "cafes": []
+  },
+  "Oslo": {
+    "city": "Oslo",
+    "city_ascii": "Oslo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.1954,
+    "lng": -97.1321,
+    "cafes": []
+  },
+  "Comfrey": {
+    "city": "Comfrey",
+    "city_ascii": "Comfrey",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1111,
+    "lng": -94.9029,
+    "cafes": []
+  },
+  "Garfield": {
+    "city": "Garfield",
+    "city_ascii": "Garfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9388,
+    "lng": -95.4945,
+    "cafes": []
+  },
+  "Storden": {
+    "city": "Storden",
+    "city_ascii": "Storden",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0396,
+    "lng": -95.3193,
+    "cafes": []
+  },
+  "Hanley Falls": {
+    "city": "Hanley Falls",
+    "city_ascii": "Hanley Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6918,
+    "lng": -95.6195,
+    "cafes": []
+  },
+  "Backus": {
+    "city": "Backus",
+    "city_ascii": "Backus",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8207,
+    "lng": -94.5148,
+    "cafes": []
+  },
+  "St. Hilaire": {
+    "city": "St. Hilaire",
+    "city_ascii": "St. Hilaire",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.0135,
+    "lng": -96.2137,
+    "cafes": []
+  },
+  "Eitzen": {
+    "city": "Eitzen",
+    "city_ascii": "Eitzen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.508,
+    "lng": -91.4636,
+    "cafes": []
+  },
+  "Middle River": {
+    "city": "Middle River",
+    "city_ascii": "Middle River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.4349,
+    "lng": -96.1617,
+    "cafes": []
+  },
+  "Fairhaven": {
+    "city": "Fairhaven",
+    "city_ascii": "Fairhaven",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3231,
+    "lng": -94.204,
+    "cafes": []
+  },
+  "Rutledge": {
+    "city": "Rutledge",
+    "city_ascii": "Rutledge",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.257,
+    "lng": -92.8696,
+    "cafes": []
+  },
+  "Dakota": {
+    "city": "Dakota",
+    "city_ascii": "Dakota",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9106,
+    "lng": -91.3605,
+    "cafes": []
+  },
+  "New Munich": {
+    "city": "New Munich",
+    "city_ascii": "New Munich",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6309,
+    "lng": -94.7525,
+    "cafes": []
+  },
+  "Pine Point": {
+    "city": "Pine Point",
+    "city_ascii": "Pine Point",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.9889,
+    "lng": -95.3883,
+    "cafes": []
+  },
+  "Deer Creek": {
+    "city": "Deer Creek",
+    "city_ascii": "Deer Creek",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3909,
+    "lng": -95.3217,
+    "cafes": []
+  },
+  "Riverland": {
+    "city": "Riverland",
+    "city_ascii": "Riverland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3228,
+    "lng": -95.9512,
+    "cafes": []
+  },
+  "Cuyuna": {
+    "city": "Cuyuna",
+    "city_ascii": "Cuyuna",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.5115,
+    "lng": -93.9264,
+    "cafes": []
+  },
+  "Grygla": {
+    "city": "Grygla",
+    "city_ascii": "Grygla",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.2996,
+    "lng": -95.6238,
+    "cafes": []
+  },
+  "Bigelow": {
+    "city": "Bigelow",
+    "city_ascii": "Bigelow",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5053,
+    "lng": -95.6892,
+    "cafes": []
+  },
+  "Maynard": {
+    "city": "Maynard",
+    "city_ascii": "Maynard",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9055,
+    "lng": -95.4687,
+    "cafes": []
+  },
+  "Hewitt": {
+    "city": "Hewitt",
+    "city_ascii": "Hewitt",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.324,
+    "lng": -95.0902,
+    "cafes": []
+  },
+  "Kensington": {
+    "city": "Kensington",
+    "city_ascii": "Kensington",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.778,
+    "lng": -95.6971,
+    "cafes": []
+  },
+  "Bowlus": {
+    "city": "Bowlus",
+    "city_ascii": "Bowlus",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8191,
+    "lng": -94.4072,
+    "cafes": []
+  },
+  "Millville": {
+    "city": "Millville",
+    "city_ascii": "Millville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2448,
+    "lng": -92.2958,
+    "cafes": []
+  },
+  "Skyline": {
+    "city": "Skyline",
+    "city_ascii": "Skyline",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1406,
+    "lng": -94.0341,
+    "cafes": []
+  },
+  "Dalton": {
+    "city": "Dalton",
+    "city_ascii": "Dalton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1739,
+    "lng": -95.9155,
+    "cafes": []
+  },
+  "Dresbach": {
+    "city": "Dresbach",
+    "city_ascii": "Dresbach",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8893,
+    "lng": -91.3438,
+    "cafes": []
+  },
+  "Bluffton": {
+    "city": "Bluffton",
+    "city_ascii": "Bluffton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4696,
+    "lng": -95.2338,
+    "cafes": []
+  },
+  "Lismore": {
+    "city": "Lismore",
+    "city_ascii": "Lismore",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7491,
+    "lng": -95.9481,
+    "cafes": []
+  },
+  "Grey Eagle": {
+    "city": "Grey Eagle",
+    "city_ascii": "Grey Eagle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8245,
+    "lng": -94.7492,
+    "cafes": []
+  },
+  "Peterson": {
+    "city": "Peterson",
+    "city_ascii": "Peterson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7868,
+    "lng": -91.8333,
+    "cafes": []
+  },
+  "Ceylon": {
+    "city": "Ceylon",
+    "city_ascii": "Ceylon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5329,
+    "lng": -94.6307,
+    "cafes": []
+  },
+  "Lewisville": {
+    "city": "Lewisville",
+    "city_ascii": "Lewisville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9241,
+    "lng": -94.4341,
+    "cafes": []
+  },
+  "Wahkon": {
+    "city": "Wahkon",
+    "city_ascii": "Wahkon",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1206,
+    "lng": -93.5223,
+    "cafes": []
+  },
+  "Beaver Creek": {
+    "city": "Beaver Creek",
+    "city_ascii": "Beaver Creek",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6123,
+    "lng": -96.3624,
+    "cafes": []
+  },
+  "Holland": {
+    "city": "Holland",
+    "city_ascii": "Holland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0897,
+    "lng": -96.1944,
+    "cafes": []
+  },
+  "Villard": {
+    "city": "Villard",
+    "city_ascii": "Villard",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7137,
+    "lng": -95.2689,
+    "cafes": []
+  },
+  "Donnelly": {
+    "city": "Donnelly",
+    "city_ascii": "Donnelly",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6895,
+    "lng": -96.0143,
+    "cafes": []
+  },
+  "Lake George": {
+    "city": "Lake George",
+    "city_ascii": "Lake George",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.1895,
+    "lng": -94.9822,
+    "cafes": []
+  },
+  "Currie": {
+    "city": "Currie",
+    "city_ascii": "Currie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0704,
+    "lng": -95.6668,
+    "cafes": []
+  },
+  "Swanville": {
+    "city": "Swanville",
+    "city_ascii": "Swanville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9162,
+    "lng": -94.6388,
+    "cafes": []
+  },
+  "Vergas": {
+    "city": "Vergas",
+    "city_ascii": "Vergas",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6547,
+    "lng": -95.8029,
+    "cafes": []
+  },
+  "Wilmont": {
+    "city": "Wilmont",
+    "city_ascii": "Wilmont",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.765,
+    "lng": -95.8269,
+    "cafes": []
+  },
+  "Pemberton": {
+    "city": "Pemberton",
+    "city_ascii": "Pemberton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0085,
+    "lng": -93.7837,
+    "cafes": []
+  },
+  "Lutsen": {
+    "city": "Lutsen",
+    "city_ascii": "Lutsen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.6715,
+    "lng": -90.6885,
+    "cafes": []
+  },
+  "Bellechester": {
+    "city": "Bellechester",
+    "city_ascii": "Bellechester",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.371,
+    "lng": -92.5113,
+    "cafes": []
+  },
+  "Ogema": {
+    "city": "Ogema",
+    "city_ascii": "Ogema",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.1016,
+    "lng": -95.9225,
+    "cafes": []
+  },
+  "Dent": {
+    "city": "Dent",
+    "city_ascii": "Dent",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.553,
+    "lng": -95.7189,
+    "cafes": []
+  },
+  "Twin Lakes": {
+    "city": "Twin Lakes",
+    "city_ascii": "Twin Lakes",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2261,
+    "lng": -95.6555,
+    "cafes": []
+  },
+  "Granada": {
+    "city": "Granada",
+    "city_ascii": "Granada",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.693,
+    "lng": -94.3496,
+    "cafes": []
+  },
+  "Finlayson": {
+    "city": "Finlayson",
+    "city_ascii": "Finlayson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.2053,
+    "lng": -92.9273,
+    "cafes": []
+  },
+  "Garden City": {
+    "city": "Garden City",
+    "city_ascii": "Garden City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0485,
+    "lng": -94.1712,
+    "cafes": []
+  },
+  "Lake Wilson": {
+    "city": "Lake Wilson",
+    "city_ascii": "Lake Wilson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9953,
+    "lng": -95.9533,
+    "cafes": []
+  },
+  "Beardsley": {
+    "city": "Beardsley",
+    "city_ascii": "Beardsley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5577,
+    "lng": -96.7139,
+    "cafes": []
+  },
+  "Gilman": {
+    "city": "Gilman",
+    "city_ascii": "Gilman",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7353,
+    "lng": -93.9486,
+    "cafes": []
+  },
+  "Osage": {
+    "city": "Osage",
+    "city_ascii": "Osage",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.9284,
+    "lng": -95.2586,
+    "cafes": []
+  },
+  "Heidelberg": {
+    "city": "Heidelberg",
+    "city_ascii": "Heidelberg",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4931,
+    "lng": -93.6265,
+    "cafes": []
+  },
+  "Greenwald": {
+    "city": "Greenwald",
+    "city_ascii": "Greenwald",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6014,
+    "lng": -94.8594,
+    "cafes": []
+  },
+  "Finland": {
+    "city": "Finland",
+    "city_ascii": "Finland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4288,
+    "lng": -91.2656,
+    "cafes": []
+  },
+  "Williams": {
+    "city": "Williams",
+    "city_ascii": "Williams",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.768,
+    "lng": -94.9533,
+    "cafes": []
+  },
+  "Hayward": {
+    "city": "Hayward",
+    "city_ascii": "Hayward",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6499,
+    "lng": -93.246,
+    "cafes": []
+  },
+  "Calumet": {
+    "city": "Calumet",
+    "city_ascii": "Calumet",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3196,
+    "lng": -93.2666,
+    "cafes": []
+  },
+  "Gonvick": {
+    "city": "Gonvick",
+    "city_ascii": "Gonvick",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.7391,
+    "lng": -95.5125,
+    "cafes": []
+  },
+  "Utica": {
+    "city": "Utica",
+    "city_ascii": "Utica",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9772,
+    "lng": -91.9494,
+    "cafes": []
+  },
+  "Chickamaw Beach": {
+    "city": "Chickamaw Beach",
+    "city_ascii": "Chickamaw Beach",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7452,
+    "lng": -94.3844,
+    "cafes": []
+  },
+  "Dennison": {
+    "city": "Dennison",
+    "city_ascii": "Dennison",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4088,
+    "lng": -93.0303,
+    "cafes": []
+  },
+  "Milroy": {
+    "city": "Milroy",
+    "city_ascii": "Milroy",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4178,
+    "lng": -95.5536,
+    "cafes": []
+  },
+  "Flensburg": {
+    "city": "Flensburg",
+    "city_ascii": "Flensburg",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.948,
+    "lng": -94.5301,
+    "cafes": []
+  },
+  "Northrop": {
+    "city": "Northrop",
+    "city_ascii": "Northrop",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.736,
+    "lng": -94.4366,
+    "cafes": []
+  },
+  "Searles": {
+    "city": "Searles",
+    "city_ascii": "Searles",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2307,
+    "lng": -94.4362,
+    "cafes": []
+  },
+  "Nerstrand": {
+    "city": "Nerstrand",
+    "city_ascii": "Nerstrand",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3429,
+    "lng": -93.0638,
+    "cafes": []
+  },
+  "South Haven": {
+    "city": "South Haven",
+    "city_ascii": "South Haven",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2927,
+    "lng": -94.2174,
+    "cafes": []
+  },
+  "Iona": {
+    "city": "Iona",
+    "city_ascii": "Iona",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9148,
+    "lng": -95.7857,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1959,
+    "lng": -94.311,
+    "cafes": []
+  },
+  "Echo": {
+    "city": "Echo",
+    "city_ascii": "Echo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6177,
+    "lng": -95.4139,
+    "cafes": []
+  },
+  "Tenstrike": {
+    "city": "Tenstrike",
+    "city_ascii": "Tenstrike",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.6603,
+    "lng": -94.6843,
+    "cafes": []
+  },
+  "Lucan": {
+    "city": "Lucan",
+    "city_ascii": "Lucan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.41,
+    "lng": -95.4134,
+    "cafes": []
+  },
+  "Okabena": {
+    "city": "Okabena",
+    "city_ascii": "Okabena",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7393,
+    "lng": -95.3187,
+    "cafes": []
+  },
+  "Hardwick": {
+    "city": "Hardwick",
+    "city_ascii": "Hardwick",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7742,
+    "lng": -96.1975,
+    "cafes": []
+  },
+  "Pease": {
+    "city": "Pease",
+    "city_ascii": "Pease",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6996,
+    "lng": -93.6491,
+    "cafes": []
+  },
+  "Callaway": {
+    "city": "Callaway",
+    "city_ascii": "Callaway",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.982,
+    "lng": -95.912,
+    "cafes": []
+  },
+  "Woodstock": {
+    "city": "Woodstock",
+    "city_ascii": "Woodstock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.011,
+    "lng": -96.0967,
+    "cafes": []
+  },
+  "Shelly": {
+    "city": "Shelly",
+    "city_ascii": "Shelly",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4584,
+    "lng": -96.8197,
+    "cafes": []
+  },
+  "Campbell": {
+    "city": "Campbell",
+    "city_ascii": "Campbell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0976,
+    "lng": -96.4055,
+    "cafes": []
+  },
+  "Elrosa": {
+    "city": "Elrosa",
+    "city_ascii": "Elrosa",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.563,
+    "lng": -94.9473,
+    "cafes": []
+  },
+  "Plato": {
+    "city": "Plato",
+    "city_ascii": "Plato",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7724,
+    "lng": -94.0397,
+    "cafes": []
+  },
+  "Magnolia": {
+    "city": "Magnolia",
+    "city_ascii": "Magnolia",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.644,
+    "lng": -96.0753,
+    "cafes": []
+  },
+  "Hendrum": {
+    "city": "Hendrum",
+    "city_ascii": "Hendrum",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2641,
+    "lng": -96.8107,
+    "cafes": []
+  },
+  "Porter": {
+    "city": "Porter",
+    "city_ascii": "Porter",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6428,
+    "lng": -96.1678,
+    "cafes": []
+  },
+  "Dunnell": {
+    "city": "Dunnell",
+    "city_ascii": "Dunnell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5604,
+    "lng": -94.7752,
+    "cafes": []
+  },
+  "Homer": {
+    "city": "Homer",
+    "city_ascii": "Homer",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0084,
+    "lng": -91.5601,
+    "cafes": []
+  },
+  "Watson": {
+    "city": "Watson",
+    "city_ascii": "Watson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.01,
+    "lng": -95.7998,
+    "cafes": []
+  },
+  "Sobieski": {
+    "city": "Sobieski",
+    "city_ascii": "Sobieski",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.923,
+    "lng": -94.482,
+    "cafes": []
+  },
+  "Boyd": {
+    "city": "Boyd",
+    "city_ascii": "Boyd",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8512,
+    "lng": -95.9008,
+    "cafes": []
+  },
+  "Waltham": {
+    "city": "Waltham",
+    "city_ascii": "Waltham",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8193,
+    "lng": -92.8746,
+    "cafes": []
+  },
+  "Kennedy": {
+    "city": "Kennedy",
+    "city_ascii": "Kennedy",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.6441,
+    "lng": -96.9106,
+    "cafes": []
+  },
+  "Elmdale": {
+    "city": "Elmdale",
+    "city_ascii": "Elmdale",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.834,
+    "lng": -94.4942,
+    "cafes": []
+  },
+  "Winger": {
+    "city": "Winger",
+    "city_ascii": "Winger",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5363,
+    "lng": -95.986,
+    "cafes": []
+  },
+  "Climax": {
+    "city": "Climax",
+    "city_ascii": "Climax",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.6095,
+    "lng": -96.8122,
+    "cafes": []
+  },
+  "Mendota": {
+    "city": "Mendota",
+    "city_ascii": "Mendota",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8876,
+    "lng": -93.1609,
+    "cafes": []
+  },
+  "Felton": {
+    "city": "Felton",
+    "city_ascii": "Felton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.0749,
+    "lng": -96.5058,
+    "cafes": []
+  },
+  "Northome": {
+    "city": "Northome",
+    "city_ascii": "Northome",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.8747,
+    "lng": -94.2676,
+    "cafes": []
+  },
+  "Ruthton": {
+    "city": "Ruthton",
+    "city_ascii": "Ruthton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1776,
+    "lng": -96.1035,
+    "cafes": []
+  },
+  "Biscay": {
+    "city": "Biscay",
+    "city_ascii": "Biscay",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.8263,
+    "lng": -94.2742,
+    "cafes": []
+  },
+  "Roosevelt": {
+    "city": "Roosevelt",
+    "city_ascii": "Roosevelt",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.807,
+    "lng": -95.101,
+    "cafes": []
+  },
+  "Wendell": {
+    "city": "Wendell",
+    "city_ascii": "Wendell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0359,
+    "lng": -96.1008,
+    "cafes": []
+  },
+  "Zumbro Falls": {
+    "city": "Zumbro Falls",
+    "city_ascii": "Zumbro Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2847,
+    "lng": -92.4262,
+    "cafes": []
+  },
+  "Lake Bronson": {
+    "city": "Lake Bronson",
+    "city_ascii": "Lake Bronson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.7322,
+    "lng": -96.664,
+    "cafes": []
+  },
+  "Delavan": {
+    "city": "Delavan",
+    "city_ascii": "Delavan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7677,
+    "lng": -94.0174,
+    "cafes": []
+  },
+  "Frontenac": {
+    "city": "Frontenac",
+    "city_ascii": "Frontenac",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5061,
+    "lng": -92.3512,
+    "cafes": []
+  },
+  "Marietta": {
+    "city": "Marietta",
+    "city_ascii": "Marietta",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0105,
+    "lng": -96.4189,
+    "cafes": []
+  },
+  "Easton": {
+    "city": "Easton",
+    "city_ascii": "Easton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7661,
+    "lng": -93.9,
+    "cafes": []
+  },
+  "Meire Grove": {
+    "city": "Meire Grove",
+    "city_ascii": "Meire Grove",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6264,
+    "lng": -94.8694,
+    "cafes": []
+  },
+  "Waldorf": {
+    "city": "Waldorf",
+    "city_ascii": "Waldorf",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9332,
+    "lng": -93.6976,
+    "cafes": []
+  },
+  "Warba": {
+    "city": "Warba",
+    "city_ascii": "Warba",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.1367,
+    "lng": -93.2657,
+    "cafes": []
+  },
+  "Big Falls": {
+    "city": "Big Falls",
+    "city_ascii": "Big Falls",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.1794,
+    "lng": -93.8092,
+    "cafes": []
+  },
+  "Silver Creek": {
+    "city": "Silver Creek",
+    "city_ascii": "Silver Creek",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3127,
+    "lng": -93.9827,
+    "cafes": []
+  },
+  "Kinney": {
+    "city": "Kinney",
+    "city_ascii": "Kinney",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5167,
+    "lng": -92.7227,
+    "cafes": []
+  },
+  "Erhard": {
+    "city": "Erhard",
+    "city_ascii": "Erhard",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4836,
+    "lng": -96.0965,
+    "cafes": []
+  },
+  "Lansing": {
+    "city": "Lansing",
+    "city_ascii": "Lansing",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7476,
+    "lng": -92.9657,
+    "cafes": []
+  },
+  "Elizabeth": {
+    "city": "Elizabeth",
+    "city_ascii": "Elizabeth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3798,
+    "lng": -96.1309,
+    "cafes": []
+  },
+  "Pickwick": {
+    "city": "Pickwick",
+    "city_ascii": "Pickwick",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9815,
+    "lng": -91.4946,
+    "cafes": []
+  },
+  "Longville": {
+    "city": "Longville",
+    "city_ascii": "Longville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.9877,
+    "lng": -94.212,
+    "cafes": []
+  },
+  "Bellingham": {
+    "city": "Bellingham",
+    "city_ascii": "Bellingham",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1367,
+    "lng": -96.284,
+    "cafes": []
+  },
+  "Minnesota City": {
+    "city": "Minnesota City",
+    "city_ascii": "Minnesota City",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0923,
+    "lng": -91.75,
+    "cafes": []
+  },
+  "Garrison": {
+    "city": "Garrison",
+    "city_ascii": "Garrison",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.2992,
+    "lng": -93.8264,
+    "cafes": []
+  },
+  "Meadowlands": {
+    "city": "Meadowlands",
+    "city_ascii": "Meadowlands",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.0731,
+    "lng": -92.7312,
+    "cafes": []
+  },
+  "Lake Lillian": {
+    "city": "Lake Lillian",
+    "city_ascii": "Lake Lillian",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9458,
+    "lng": -94.8801,
+    "cafes": []
+  },
+  "Riverton": {
+    "city": "Riverton",
+    "city_ascii": "Riverton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4584,
+    "lng": -94.0488,
+    "cafes": []
+  },
+  "Clements": {
+    "city": "Clements",
+    "city_ascii": "Clements",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3801,
+    "lng": -95.0548,
+    "cafes": []
+  },
+  "Federal Dam": {
+    "city": "Federal Dam",
+    "city_ascii": "Federal Dam",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2411,
+    "lng": -94.2152,
+    "cafes": []
+  },
+  "Blomkest": {
+    "city": "Blomkest",
+    "city_ascii": "Blomkest",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9428,
+    "lng": -95.0235,
+    "cafes": []
+  },
+  "Shevlin": {
+    "city": "Shevlin",
+    "city_ascii": "Shevlin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5302,
+    "lng": -95.2595,
+    "cafes": []
+  },
+  "Mentor": {
+    "city": "Mentor",
+    "city_ascii": "Mentor",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.6966,
+    "lng": -96.144,
+    "cafes": []
+  },
+  "Forada": {
+    "city": "Forada",
+    "city_ascii": "Forada",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7887,
+    "lng": -95.3574,
+    "cafes": []
+  },
+  "Taunton": {
+    "city": "Taunton",
+    "city_ascii": "Taunton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.5942,
+    "lng": -96.063,
+    "cafes": []
+  },
+  "Brooks": {
+    "city": "Brooks",
+    "city_ascii": "Brooks",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.8165,
+    "lng": -96.0036,
+    "cafes": []
+  },
+  "Leota": {
+    "city": "Leota",
+    "city_ascii": "Leota",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8298,
+    "lng": -96.0218,
+    "cafes": []
+  },
+  "Dumont": {
+    "city": "Dumont",
+    "city_ascii": "Dumont",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7174,
+    "lng": -96.4231,
+    "cafes": []
+  },
+  "Harding": {
+    "city": "Harding",
+    "city_ascii": "Harding",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1191,
+    "lng": -94.0368,
+    "cafes": []
+  },
+  "Borup": {
+    "city": "Borup",
+    "city_ascii": "Borup",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.1803,
+    "lng": -96.5058,
+    "cafes": []
+  },
+  "Wolverton": {
+    "city": "Wolverton",
+    "city_ascii": "Wolverton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.563,
+    "lng": -96.7363,
+    "cafes": []
+  },
+  "Palisade": {
+    "city": "Palisade",
+    "city_ascii": "Palisade",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7125,
+    "lng": -93.4894,
+    "cafes": []
+  },
+  "Danvers": {
+    "city": "Danvers",
+    "city_ascii": "Danvers",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2814,
+    "lng": -95.7559,
+    "cafes": []
+  },
+  "Squaw Lake": {
+    "city": "Squaw Lake",
+    "city_ascii": "Squaw Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.6276,
+    "lng": -94.1381,
+    "cafes": []
+  },
+  "Kettle River": {
+    "city": "Kettle River",
+    "city_ascii": "Kettle River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4862,
+    "lng": -92.8776,
+    "cafes": []
+  },
+  "High Forest": {
+    "city": "High Forest",
+    "city_ascii": "High Forest",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8462,
+    "lng": -92.548,
+    "cafes": []
+  },
+  "Foxhome": {
+    "city": "Foxhome",
+    "city_ascii": "Foxhome",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.2769,
+    "lng": -96.3122,
+    "cafes": []
+  },
+  "Merrifield": {
+    "city": "Merrifield",
+    "city_ascii": "Merrifield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4673,
+    "lng": -94.1746,
+    "cafes": []
+  },
+  "Odin": {
+    "city": "Odin",
+    "city_ascii": "Odin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8673,
+    "lng": -94.7428,
+    "cafes": []
+  },
+  "St. Leo": {
+    "city": "St. Leo",
+    "city_ascii": "St. Leo",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7173,
+    "lng": -96.0526,
+    "cafes": []
+  },
+  "Hammond": {
+    "city": "Hammond",
+    "city_ascii": "Hammond",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2226,
+    "lng": -92.3743,
+    "cafes": []
+  },
+  "Brook Park": {
+    "city": "Brook Park",
+    "city_ascii": "Brook Park",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9484,
+    "lng": -93.0728,
+    "cafes": []
+  },
+  "Ormsby": {
+    "city": "Ormsby",
+    "city_ascii": "Ormsby",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8503,
+    "lng": -94.6986,
+    "cafes": []
+  },
+  "Mapleview": {
+    "city": "Mapleview",
+    "city_ascii": "Mapleview",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6901,
+    "lng": -92.974,
+    "cafes": []
+  },
+  "Ball Club": {
+    "city": "Ball Club",
+    "city_ascii": "Ball Club",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3311,
+    "lng": -93.946,
+    "cafes": []
+  },
+  "Wright": {
+    "city": "Wright",
+    "city_ascii": "Wright",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6725,
+    "lng": -93.0069,
+    "cafes": []
+  },
+  "Viking": {
+    "city": "Viking",
+    "city_ascii": "Viking",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.2182,
+    "lng": -96.4068,
+    "cafes": []
+  },
+  "Miesville": {
+    "city": "Miesville",
+    "city_ascii": "Miesville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.599,
+    "lng": -92.8196,
+    "cafes": []
+  },
+  "Norcross": {
+    "city": "Norcross",
+    "city_ascii": "Norcross",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8687,
+    "lng": -96.1964,
+    "cafes": []
+  },
+  "Solway": {
+    "city": "Solway",
+    "city_ascii": "Solway",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5211,
+    "lng": -95.1303,
+    "cafes": []
+  },
+  "Grasston": {
+    "city": "Grasston",
+    "city_ascii": "Grasston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7958,
+    "lng": -93.1526,
+    "cafes": []
+  },
+  "Trommald": {
+    "city": "Trommald",
+    "city_ascii": "Trommald",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.5058,
+    "lng": -94.0154,
+    "cafes": []
+  },
+  "Nelson": {
+    "city": "Nelson",
+    "city_ascii": "Nelson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8865,
+    "lng": -95.2649,
+    "cafes": []
+  },
+  "Darfur": {
+    "city": "Darfur",
+    "city_ascii": "Darfur",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0535,
+    "lng": -94.8378,
+    "cafes": []
+  },
+  "Lastrup": {
+    "city": "Lastrup",
+    "city_ascii": "Lastrup",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0398,
+    "lng": -94.0621,
+    "cafes": []
+  },
+  "Coates": {
+    "city": "Coates",
+    "city_ascii": "Coates",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7151,
+    "lng": -93.0321,
+    "cafes": []
+  },
+  "Alpha": {
+    "city": "Alpha",
+    "city_ascii": "Alpha",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6377,
+    "lng": -94.8712,
+    "cafes": []
+  },
+  "Sunburg": {
+    "city": "Sunburg",
+    "city_ascii": "Sunburg",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.3476,
+    "lng": -95.24,
+    "cafes": []
+  },
+  "Perley": {
+    "city": "Perley",
+    "city_ascii": "Perley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.1761,
+    "lng": -96.8015,
+    "cafes": []
+  },
+  "Bingham Lake": {
+    "city": "Bingham Lake",
+    "city_ascii": "Bingham Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9095,
+    "lng": -95.046,
+    "cafes": []
+  },
+  "Steen": {
+    "city": "Steen",
+    "city_ascii": "Steen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5143,
+    "lng": -96.2631,
+    "cafes": []
+  },
+  "Minneiska": {
+    "city": "Minneiska",
+    "city_ascii": "Minneiska",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.1973,
+    "lng": -91.8757,
+    "cafes": []
+  },
+  "Winton": {
+    "city": "Winton",
+    "city_ascii": "Winton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.9284,
+    "lng": -91.8005,
+    "cafes": []
+  },
+  "Wolf Lake": {
+    "city": "Wolf Lake",
+    "city_ascii": "Wolf Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8066,
+    "lng": -95.3526,
+    "cafes": []
+  },
+  "Conger": {
+    "city": "Conger",
+    "city_ascii": "Conger",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6153,
+    "lng": -93.5275,
+    "cafes": []
+  },
+  "Seaforth": {
+    "city": "Seaforth",
+    "city_ascii": "Seaforth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.4761,
+    "lng": -95.331,
+    "cafes": []
+  },
+  "Avoca": {
+    "city": "Avoca",
+    "city_ascii": "Avoca",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.949,
+    "lng": -95.6465,
+    "cafes": []
+  },
+  "Millerville": {
+    "city": "Millerville",
+    "city_ascii": "Millerville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0691,
+    "lng": -95.5569,
+    "cafes": []
+  },
+  "McKinley": {
+    "city": "McKinley",
+    "city_ascii": "McKinley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5088,
+    "lng": -92.4057,
+    "cafes": []
+  },
+  "Stanchfield": {
+    "city": "Stanchfield",
+    "city_ascii": "Stanchfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6656,
+    "lng": -93.1831,
+    "cafes": []
+  },
+  "Knife River": {
+    "city": "Knife River",
+    "city_ascii": "Knife River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.9495,
+    "lng": -91.7837,
+    "cafes": []
+  },
+  "Spring Hill": {
+    "city": "Spring Hill",
+    "city_ascii": "Spring Hill",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5232,
+    "lng": -94.8317,
+    "cafes": []
+  },
+  "Roscoe": {
+    "city": "Roscoe",
+    "city_ascii": "Roscoe",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4323,
+    "lng": -94.6364,
+    "cafes": []
+  },
+  "Clitherall": {
+    "city": "Clitherall",
+    "city_ascii": "Clitherall",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.2743,
+    "lng": -95.631,
+    "cafes": []
+  },
+  "Iron Junction": {
+    "city": "Iron Junction",
+    "city_ascii": "Iron Junction",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.419,
+    "lng": -92.6086,
+    "cafes": []
+  },
+  "Burtrum": {
+    "city": "Burtrum",
+    "city_ascii": "Burtrum",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8658,
+    "lng": -94.6874,
+    "cafes": []
+  },
+  "Bejou": {
+    "city": "Bejou",
+    "city_ascii": "Bejou",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4429,
+    "lng": -95.9727,
+    "cafes": []
+  },
+  "Kilkenny": {
+    "city": "Kilkenny",
+    "city_ascii": "Kilkenny",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3151,
+    "lng": -93.5741,
+    "cafes": []
+  },
+  "Odessa": {
+    "city": "Odessa",
+    "city_ascii": "Odessa",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2622,
+    "lng": -96.3335,
+    "cafes": []
+  },
+  "Elkton": {
+    "city": "Elkton",
+    "city_ascii": "Elkton",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6602,
+    "lng": -92.7065,
+    "cafes": []
+  },
+  "Garvin": {
+    "city": "Garvin",
+    "city_ascii": "Garvin",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2142,
+    "lng": -95.7607,
+    "cafes": []
+  },
+  "Beaver Bay": {
+    "city": "Beaver Bay",
+    "city_ascii": "Beaver Bay",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2563,
+    "lng": -91.3065,
+    "cafes": []
+  },
+  "Vining": {
+    "city": "Vining",
+    "city_ascii": "Vining",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.262,
+    "lng": -95.535,
+    "cafes": []
+  },
+  "Strandquist": {
+    "city": "Strandquist",
+    "city_ascii": "Strandquist",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.4894,
+    "lng": -96.4479,
+    "cafes": []
+  },
+  "Alberta": {
+    "city": "Alberta",
+    "city_ascii": "Alberta",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5749,
+    "lng": -96.0504,
+    "cafes": []
+  },
+  "Ebro": {
+    "city": "Ebro",
+    "city_ascii": "Ebro",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4942,
+    "lng": -95.5411,
+    "cafes": []
+  },
+  "West Union": {
+    "city": "West Union",
+    "city_ascii": "West Union",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7965,
+    "lng": -95.0925,
+    "cafes": []
+  },
+  "Nimrod": {
+    "city": "Nimrod",
+    "city_ascii": "Nimrod",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6375,
+    "lng": -94.8805,
+    "cafes": []
+  },
+  "Walters": {
+    "city": "Walters",
+    "city_ascii": "Walters",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.6049,
+    "lng": -93.6743,
+    "cafes": []
+  },
+  "Elba": {
+    "city": "Elba",
+    "city_ascii": "Elba",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0867,
+    "lng": -92.0169,
+    "cafes": []
+  },
+  "Lake Henry": {
+    "city": "Lake Henry",
+    "city_ascii": "Lake Henry",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.462,
+    "lng": -94.7965,
+    "cafes": []
+  },
+  "Effie": {
+    "city": "Effie",
+    "city_ascii": "Effie",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.8412,
+    "lng": -93.6377,
+    "cafes": []
+  },
+  "Wanda": {
+    "city": "Wanda",
+    "city_ascii": "Wanda",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3148,
+    "lng": -95.2131,
+    "cafes": []
+  },
+  "Evan": {
+    "city": "Evan",
+    "city_ascii": "Evan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3549,
+    "lng": -94.8361,
+    "cafes": []
+  },
+  "Dundee": {
+    "city": "Dundee",
+    "city_ascii": "Dundee",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.844,
+    "lng": -95.4666,
+    "cafes": []
+  },
+  "Inger": {
+    "city": "Inger",
+    "city_ascii": "Inger",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.558,
+    "lng": -93.9794,
+    "cafes": []
+  },
+  "New Trier": {
+    "city": "New Trier",
+    "city_ascii": "New Trier",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.6038,
+    "lng": -92.9329,
+    "cafes": []
+  },
+  "Comstock": {
+    "city": "Comstock",
+    "city_ascii": "Comstock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6596,
+    "lng": -96.7466,
+    "cafes": []
+  },
+  "Holt": {
+    "city": "Holt",
+    "city_ascii": "Holt",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.2929,
+    "lng": -96.1945,
+    "cafes": []
+  },
+  "Laporte": {
+    "city": "Laporte",
+    "city_ascii": "Laporte",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.2147,
+    "lng": -94.7573,
+    "cafes": []
+  },
+  "Hazel Run": {
+    "city": "Hazel Run",
+    "city_ascii": "Hazel Run",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.7484,
+    "lng": -95.7165,
+    "cafes": []
+  },
+  "De Graff": {
+    "city": "De Graff",
+    "city_ascii": "De Graff",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.26,
+    "lng": -95.4683,
+    "cafes": []
+  },
+  "Zemple": {
+    "city": "Zemple",
+    "city_ascii": "Zemple",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3207,
+    "lng": -93.7859,
+    "cafes": []
+  },
+  "Brookston": {
+    "city": "Brookston",
+    "city_ascii": "Brookston",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8654,
+    "lng": -92.6026,
+    "cafes": []
+  },
+  "Whipholt": {
+    "city": "Whipholt",
+    "city_ascii": "Whipholt",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.0436,
+    "lng": -94.386,
+    "cafes": []
+  },
+  "Nielsville": {
+    "city": "Nielsville",
+    "city_ascii": "Nielsville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5293,
+    "lng": -96.8157,
+    "cafes": []
+  },
+  "Nashua": {
+    "city": "Nashua",
+    "city_ascii": "Nashua",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0377,
+    "lng": -96.3059,
+    "cafes": []
+  },
+  "Quamba": {
+    "city": "Quamba",
+    "city_ascii": "Quamba",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9155,
+    "lng": -93.1752,
+    "cafes": []
+  },
+  "Turtle River": {
+    "city": "Turtle River",
+    "city_ascii": "Turtle River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5882,
+    "lng": -94.7581,
+    "cafes": []
+  },
+  "Revere": {
+    "city": "Revere",
+    "city_ascii": "Revere",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2215,
+    "lng": -95.3611,
+    "cafes": []
+  },
+  "Ihlen": {
+    "city": "Ihlen",
+    "city_ascii": "Ihlen",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9122,
+    "lng": -96.3709,
+    "cafes": []
+  },
+  "Goodridge": {
+    "city": "Goodridge",
+    "city_ascii": "Goodridge",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.1442,
+    "lng": -95.8039,
+    "cafes": []
+  },
+  "Genola": {
+    "city": "Genola",
+    "city_ascii": "Genola",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.9653,
+    "lng": -94.1129,
+    "cafes": []
+  },
+  "Holloway": {
+    "city": "Holloway",
+    "city_ascii": "Holloway",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.2441,
+    "lng": -95.9112,
+    "cafes": []
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.0784,
+    "lng": -96.7959,
+    "cafes": []
+  },
+  "Fort Ripley": {
+    "city": "Fort Ripley",
+    "city_ascii": "Fort Ripley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.169,
+    "lng": -94.363,
+    "cafes": []
+  },
+  "Ronneby": {
+    "city": "Ronneby",
+    "city_ascii": "Ronneby",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.6853,
+    "lng": -93.8601,
+    "cafes": []
+  },
+  "Clontarf": {
+    "city": "Clontarf",
+    "city_ascii": "Clontarf",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.377,
+    "lng": -95.677,
+    "cafes": []
+  },
+  "Kent": {
+    "city": "Kent",
+    "city_ascii": "Kent",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.4374,
+    "lng": -96.6833,
+    "cafes": []
+  },
+  "Funkley": {
+    "city": "Funkley",
+    "city_ascii": "Funkley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.7869,
+    "lng": -94.4267,
+    "cafes": []
+  },
+  "Arco": {
+    "city": "Arco",
+    "city_ascii": "Arco",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3838,
+    "lng": -96.1826,
+    "cafes": []
+  },
+  "Tintah": {
+    "city": "Tintah",
+    "city_ascii": "Tintah",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0108,
+    "lng": -96.3201,
+    "cafes": []
+  },
+  "Whalan": {
+    "city": "Whalan",
+    "city_ascii": "Whalan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7341,
+    "lng": -91.9238,
+    "cafes": []
+  },
+  "Gully": {
+    "city": "Gully",
+    "city_ascii": "Gully",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.7684,
+    "lng": -95.6229,
+    "cafes": []
+  },
+  "Bena": {
+    "city": "Bena",
+    "city_ascii": "Bena",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3404,
+    "lng": -94.206,
+    "cafes": []
+  },
+  "Bock": {
+    "city": "Bock",
+    "city_ascii": "Bock",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7845,
+    "lng": -93.5528,
+    "cafes": []
+  },
+  "Roy Lake": {
+    "city": "Roy Lake",
+    "city_ascii": "Roy Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3176,
+    "lng": -95.5428,
+    "cafes": []
+  },
+  "Trail": {
+    "city": "Trail",
+    "city_ascii": "Trail",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.7833,
+    "lng": -95.6981,
+    "cafes": []
+  },
+  "Beltrami": {
+    "city": "Beltrami",
+    "city_ascii": "Beltrami",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5425,
+    "lng": -96.527,
+    "cafes": []
+  },
+  "La Salle": {
+    "city": "La Salle",
+    "city_ascii": "La Salle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0711,
+    "lng": -94.5713,
+    "cafes": []
+  },
+  "St. Rosa": {
+    "city": "St. Rosa",
+    "city_ascii": "St. Rosa",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7286,
+    "lng": -94.7162,
+    "cafes": []
+  },
+  "Trosky": {
+    "city": "Trosky",
+    "city_ascii": "Trosky",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8884,
+    "lng": -96.2509,
+    "cafes": []
+  },
+  "Mizpah": {
+    "city": "Mizpah",
+    "city_ascii": "Mizpah",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.9209,
+    "lng": -94.2132,
+    "cafes": []
+  },
+  "Nassau": {
+    "city": "Nassau",
+    "city_ascii": "Nassau",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.0677,
+    "lng": -96.4417,
+    "cafes": []
+  },
+  "Beaulieu": {
+    "city": "Beaulieu",
+    "city_ascii": "Beaulieu",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3389,
+    "lng": -95.8054,
+    "cafes": []
+  },
+  "Baker": {
+    "city": "Baker",
+    "city_ascii": "Baker",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.7105,
+    "lng": -96.5579,
+    "cafes": []
+  },
+  "Essig": {
+    "city": "Essig",
+    "city_ascii": "Essig",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.3283,
+    "lng": -94.6034,
+    "cafes": []
+  },
+  "Taopi": {
+    "city": "Taopi",
+    "city_ascii": "Taopi",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5575,
+    "lng": -92.6407,
+    "cafes": []
+  },
+  "Kenneth": {
+    "city": "Kenneth",
+    "city_ascii": "Kenneth",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7543,
+    "lng": -96.0725,
+    "cafes": []
+  },
+  "St. Vincent": {
+    "city": "St. Vincent",
+    "city_ascii": "St. Vincent",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.9693,
+    "lng": -97.2264,
+    "cafes": []
+  },
+  "Bruno": {
+    "city": "Bruno",
+    "city_ascii": "Bruno",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.281,
+    "lng": -92.668,
+    "cafes": []
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.7254,
+    "lng": -93.4509,
+    "cafes": []
+  },
+  "Halma": {
+    "city": "Halma",
+    "city_ascii": "Halma",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.66,
+    "lng": -96.5972,
+    "cafes": []
+  },
+  "Delhi": {
+    "city": "Delhi",
+    "city_ascii": "Delhi",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.598,
+    "lng": -95.2134,
+    "cafes": []
+  },
+  "Westport": {
+    "city": "Westport",
+    "city_ascii": "Westport",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7145,
+    "lng": -95.1681,
+    "cafes": []
+  },
+  "Richville": {
+    "city": "Richville",
+    "city_ascii": "Richville",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.506,
+    "lng": -95.6263,
+    "cafes": []
+  },
+  "Tamarack": {
+    "city": "Tamarack",
+    "city_ascii": "Tamarack",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.6529,
+    "lng": -93.125,
+    "cafes": []
+  },
+  "West Roy Lake": {
+    "city": "West Roy Lake",
+    "city_ascii": "West Roy Lake",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3116,
+    "lng": -95.5954,
+    "cafes": []
+  },
+  "Lengby": {
+    "city": "Lengby",
+    "city_ascii": "Lengby",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.5156,
+    "lng": -95.6345,
+    "cafes": []
+  },
+  "Humboldt": {
+    "city": "Humboldt",
+    "city_ascii": "Humboldt",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.9214,
+    "lng": -97.0944,
+    "cafes": []
+  },
+  "Sargeant": {
+    "city": "Sargeant",
+    "city_ascii": "Sargeant",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8057,
+    "lng": -92.8006,
+    "cafes": []
+  },
+  "Myrtle": {
+    "city": "Myrtle",
+    "city_ascii": "Myrtle",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.5632,
+    "lng": -93.163,
+    "cafes": []
+  },
+  "South End": {
+    "city": "South End",
+    "city_ascii": "South End",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3231,
+    "lng": -95.4788,
+    "cafes": []
+  },
+  "Dovray": {
+    "city": "Dovray",
+    "city_ascii": "Dovray",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.0545,
+    "lng": -95.5477,
+    "cafes": []
+  },
+  "Leonidas": {
+    "city": "Leonidas",
+    "city_ascii": "Leonidas",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.468,
+    "lng": -92.5681,
+    "cafes": []
+  },
+  "Farwell": {
+    "city": "Farwell",
+    "city_ascii": "Farwell",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.7524,
+    "lng": -95.6189,
+    "cafes": []
+  },
+  "Hubbard": {
+    "city": "Hubbard",
+    "city_ascii": "Hubbard",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.8375,
+    "lng": -95.009,
+    "cafes": []
+  },
+  "Sedan": {
+    "city": "Sedan",
+    "city_ascii": "Sedan",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5782,
+    "lng": -95.2453,
+    "cafes": []
+  },
+  "Hadley": {
+    "city": "Hadley",
+    "city_ascii": "Hadley",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9987,
+    "lng": -95.8575,
+    "cafes": []
+  },
+  "Urbank": {
+    "city": "Urbank",
+    "city_ascii": "Urbank",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1242,
+    "lng": -95.5104,
+    "cafes": []
+  },
+  "Midway": {
+    "city": "Midway",
+    "city_ascii": "Midway",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.317,
+    "lng": -95.7838,
+    "cafes": []
+  },
+  "Henriette": {
+    "city": "Henriette",
+    "city_ascii": "Henriette",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.8711,
+    "lng": -93.12,
+    "cafes": []
+  },
+  "Regal": {
+    "city": "Regal",
+    "city_ascii": "Regal",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.4054,
+    "lng": -94.8397,
+    "cafes": []
+  },
+  "Kerrick": {
+    "city": "Kerrick",
+    "city_ascii": "Kerrick",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3386,
+    "lng": -92.5843,
+    "cafes": []
+  },
+  "Aldrich": {
+    "city": "Aldrich",
+    "city_ascii": "Aldrich",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3747,
+    "lng": -94.9395,
+    "cafes": []
+  },
+  "Denham": {
+    "city": "Denham",
+    "city_ascii": "Denham",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.3617,
+    "lng": -92.9415,
+    "cafes": []
+  },
+  "Cedar Mills": {
+    "city": "Cedar Mills",
+    "city_ascii": "Cedar Mills",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9434,
+    "lng": -94.5194,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2372,
+    "lng": -96.0516,
+    "cafes": []
+  },
+  "McGrath": {
+    "city": "McGrath",
+    "city_ascii": "McGrath",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.2421,
+    "lng": -93.2751,
+    "cafes": []
+  },
+  "Manhattan Beach": {
+    "city": "Manhattan Beach",
+    "city_ascii": "Manhattan Beach",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.737,
+    "lng": -94.1396,
+    "cafes": []
+  },
+  "Hatfield": {
+    "city": "Hatfield",
+    "city_ascii": "Hatfield",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.9546,
+    "lng": -96.1905,
+    "cafes": []
+  },
+  "Hillman": {
+    "city": "Hillman",
+    "city_ascii": "Hillman",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.0063,
+    "lng": -93.8887,
+    "cafes": []
+  },
+  "Louisburg": {
+    "city": "Louisburg",
+    "city_ascii": "Louisburg",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.1645,
+    "lng": -96.1711,
+    "cafes": []
+  },
+  "Leonard": {
+    "city": "Leonard",
+    "city_ascii": "Leonard",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.6513,
+    "lng": -95.2672,
+    "cafes": []
+  },
+  "Johnson": {
+    "city": "Johnson",
+    "city_ascii": "Johnson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5722,
+    "lng": -96.2941,
+    "cafes": []
+  },
+  "Wilder": {
+    "city": "Wilder",
+    "city_ascii": "Wilder",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.828,
+    "lng": -95.2058,
+    "cafes": []
+  },
+  "Pine Bend": {
+    "city": "Pine Bend",
+    "city_ascii": "Pine Bend",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.4222,
+    "lng": -95.5979,
+    "cafes": []
+  },
+  "Correll": {
+    "city": "Correll",
+    "city_ascii": "Correll",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.232,
+    "lng": -96.1627,
+    "cafes": []
+  },
+  "Strathcona": {
+    "city": "Strathcona",
+    "city_ascii": "Strathcona",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.5537,
+    "lng": -96.1671,
+    "cafes": []
+  },
+  "Cobden": {
+    "city": "Cobden",
+    "city_ascii": "Cobden",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.2825,
+    "lng": -94.8466,
+    "cafes": []
+  },
+  "Doran": {
+    "city": "Doran",
+    "city_ascii": "Doran",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 46.1852,
+    "lng": -96.4857,
+    "cafes": []
+  },
+  "Goodland": {
+    "city": "Goodland",
+    "city_ascii": "Goodland",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.1636,
+    "lng": -93.1376,
+    "cafes": []
+  },
+  "Boy River": {
+    "city": "Boy River",
+    "city_ascii": "Boy River",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.1679,
+    "lng": -94.1242,
+    "cafes": []
+  },
+  "Donaldson": {
+    "city": "Donaldson",
+    "city_ascii": "Donaldson",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 48.5749,
+    "lng": -96.8992,
+    "cafes": []
+  },
+  "Barry": {
+    "city": "Barry",
+    "city_ascii": "Barry",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 45.5581,
+    "lng": -96.5604,
+    "cafes": []
+  },
+  "The Ranch": {
+    "city": "The Ranch",
+    "city_ascii": "The Ranch",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 47.3198,
+    "lng": -95.6952,
+    "cafes": []
+  },
+  "Kinbrae": {
+    "city": "Kinbrae",
+    "city_ascii": "Kinbrae",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 43.8266,
+    "lng": -95.4823,
+    "cafes": []
+  },
+  "Angle Inlet": {
+    "city": "Angle Inlet",
+    "city_ascii": "Angle Inlet",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 49.3465,
+    "lng": -95.0732,
+    "cafes": []
+  }
+}

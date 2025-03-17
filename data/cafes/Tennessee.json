@@ -1,0 +1,5175 @@
+{
+  "Chattanooga": {
+    "city": "Chattanooga",
+    "city_ascii": "Chattanooga",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.066,
+    "lng": -85.2481,
+    "cafes": [
+      {
+        "name": "Naughty Cat Cafe",
+        "address": "3742 Tennessee Ave Suite 100, Chattanooga, TN 37409, USA",
+        "rating": 5,
+        "user_ratings_total": 3108,
+        "website": "http://www.naughtycatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1574181244338059855",
+        "lat": 35.0112793,
+        "lng": -85.3265924,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Wolfgang Schmitz",
+            "rating": 5,
+            "text": {
+              "text": "What a wonderful experience !! They had approximately 40 cats in a couple of rooms. One room nicely decorated with couches and chairs and cat furniture. This room is a little dark on purpose. Fun to sit and let the cats come to you. There is a second room with full light and also lots of seating areas for cats and humans . Very clean! Amazingly friendly staff.\nThere are binders with all the cat information in case you like to adopt one.\nHighly recommended activity to have fun and support a good cause!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Katherine Stone",
+            "rating": 5,
+            "text": {
+              "text": "We had never experienced a cat cafe before and I hope they are all as well done at the Naughty Cat Cafe! Several rooms full of cats to love on! Even a quiet room for the new residents to get used to their new lodgings. Highly recommend if you love cats. You will want to take them all home!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Tajela Richardson",
+            "rating": 5,
+            "text": {
+              "text": "They have so many cats right now (12/13/2024)! All of them have so much personality and they’re sooooo soft! I came here with friends as a birthday gift to myself, I’m so glad I did. It is very calming sitting with the cats! They dim the lights and play soothing music while the cats just roam around. It is also extremely clean and the restroom smells great as well! They do provide binders all around the sitting area so you can learn about each cat, along with how to adopt one if you fall in love with one of the fur babies! As well as the cat petting, they provide you one free drink — whether that be hot coffee, hot tea, soda, chocolate milk, or cold water! They also sell reasonably priced products, such as jewelry, cat toys, shot glasses, little pastries, and they even have cans of alcohol for sale (if that’s your thing!). I would 100% recommend this lovely place to anybody who even remotely enjoys cats! There are many different areas to sit, their one rule is to never pick up any of the cats.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2jv0XZAPR70bR1V_88bqWTCZEMb4Vvo2SqO07jRnjRpbHIGfa9vpEsvQh8ZtsFecEE_p5ofz3-7KiFQeHevV-SUVsfWGlqamzRQMB66e4RtybVv-S_hQAiI3_fsX0L6PfIvu1mncV-Weqbf_x_cC0AR2U44hL_EGZSEAW5WqrMAfWj-jnTSoNCgOL7jnHQ7RXrHAQazQ50vPxg5kmZcMAcyiRqMKB7eD_70UNsxhL9HYwGK4xCFoN63L13ueE9CDQLxTYLsbfCdBlrkL89l-1dcCE-kWU3Ij7niZamdSE2Kg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Murfreesboro": {
+    "city": "Murfreesboro",
+    "city_ascii": "Murfreesboro",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.849,
+    "lng": -86.4121,
+    "cafes": [
+      {
+        "name": "Catfeine Cat Cafe",
+        "address": "517 Cason Ln D, Murfreesboro, TN 37128, USA",
+        "rating": 4.8,
+        "user_ratings_total": 810,
+        "website": "http://www.catfeine.net/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=385356453214455974",
+        "lat": 35.8416278,
+        "lng": -86.4400522,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Tara Bryant",
+            "rating": 5,
+            "text": {
+              "text": "This place was a really sweet experience and IMMACULATE to boot. I wasn't sure what to expect but its such a humane way to provide an opportunity for cats to be fostered/adopted. The owner Taura is very kind and is very involved in the process and makes sure the cats are cared for. I have NEVER been in a cleaner environment with that many animals, anywhere!! The vibe was laid back, comfortable and you would not know there were 20 cats there. You could tell they were comfortable and cared for in that environment. Those cats aren't just fosters to that business, they're family. I would give more stars if I could!!!!!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Caleb Salas",
+            "rating": 5,
+            "text": {
+              "text": "Absolutely love this place, the environment was very friendly, the staff was super welcoming and the cats well they were really energetic today lol. Took some silly photos of the cats",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Jennifer Jordan",
+            "rating": 5,
+            "text": {
+              "text": "You have cat to be kitten me right meow!!! This place is everything a cat and coffee lover wants. The cats here are all so sweet and well taken care of. I set up my laptop and worked for a couple hours while the kitties played around me. I wish I could adopt them all!!!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2WdFnWhnq2qWjvqjUaomgxYgHV_0tgwaLSQeTovtYp5HNDfP989nkzOsQjIJULgFGvp8dfc2OuAyk3O8WQ8dOk-zC_7Qf24Ng7vn9JTSpqqaB-LC7mBGAp5gHwZetWlKqLXZM4TDarkyw9WxdPF6UtytWnmLnymg6eWqKK_NZCCzYkm9kGWN6hJ6hV9_mQFhfQ814Vyrh3Q_BoD1EHKd6_QOQ2cyR9tfR5riANENVWen8d9NZEM7blPRITJgH8DFZwozNZWXeQ1JGI6PjYRDECx5T8AICuyAw1wdrb8WDFcA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Sherman",
+        "address": "5408 Middlebury Dr, Murfreesboro, TN 37128, USA",
+        "rating": "N/A",
+        "user_ratings_total": 0,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=2922014096166142731",
+        "lat": 35.8642161,
+        "lng": -86.4946549,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [],
+        "photoUri": "https://maps.google.com/?cid=2922014096166142731&output=embed"
+      }
+    ]
+  },
+  "Oak Ridge": {
+    "city": "Oak Ridge",
+    "city_ascii": "Oak Ridge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9639,
+    "lng": -84.2938,
+    "cafes": [
+      {
+        "name": "Cleo's Cat Cafe",
+        "address": "134 Bus Terminal Rd, Oak Ridge, TN 37830, USA",
+        "rating": 4.8,
+        "user_ratings_total": 50,
+        "website": "https://www.cleoscafeofcats.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9466069083789593439",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=18289074231852721035",
+        "lat": 36.023280199999995,
+        "lng": -84.2414625,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "A",
+            "rating": 5,
+            "text": {
+              "text": "I absolutely loved coming here! The cats were all well taken care of, and they all seemed comfortable. I wish I could take them all home! The woman working was really nice and their customer service is on par! I would definitely recommend it and I'll be back!",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Alicia",
+            "rating": 5,
+            "text": {
+              "text": "A coworker and I have relocated over to Cleo’s a couple of times and it is so awesome to sit and work with a kitty by your side. Our first time, one sat next to my laptop and just watched me type. All of the cats are so loving and sweet! The cafe is clean and well taken care of. Their coffee was fantastic too! I had a s’mores latte that was delicious. I will absolutely be going back again and again. I wish they would add a membership for a monthly fee that would cover a number of visits :)",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Katia Karkkainen",
+            "rating": 5,
+            "text": {
+              "text": "We enjoyed our time here!! All cats were so cute! Some of them were very friendly and playful, some were more cautions - they were probably new ones, but they will get used to the environment. Those cautions ones were also so incredibly cute. They are all for adoption too.\n\nThe place is clean and friendly, nice coffee, we’ll certainly come back here!\n\nIf you are considering to get a pet, cats are an awesome choice. We have four cats that we adopted just from the streets, three of them were already adults, one was a 2 months old kitten. They bring us a lot of joy.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ26_0fxSl8PDN-Y0NmS111944NGCoEyCWagDu9BnXpvdhLTuABGao4k6F3Tna2I4UXjHBWjNswhrh29qZqHDaqDdcx5zmSWbDrAXO74o8lx9LITvHj-XMvRQeXuHOt8aMypissdXtbw143bB21V_eJK51qq4pQP1gN4dOTWK7OlNXinpMBS9SQ0XHlMisVQvn6CkefS9imN1qq6IqMtSTXG2IZRL-cmoexs9drkJFDaVyFdYPod4YpZjNUJAGYTQrtxwO-rDW5pqorHEkiXTG1lkfgwmUFqujd8EPuv8Lpe1g&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Nashville": {
+    "city": "Nashville",
+    "city_ascii": "Nashville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1715,
+    "lng": -86.7842,
+    "cafes": [
+      {
+        "name": "The Catio Cat Lounge",
+        "address": "2416 Music Valley Dr Suite 119, Nashville, TN 37214, USA",
+        "rating": 4.8,
+        "user_ratings_total": 775,
+        "website": "http://www.thecationashville.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=13391754803267822196",
+        "lat": 36.2199531,
+        "lng": -86.69706389999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Brooke Bugg",
+            "rating": 5,
+            "text": {
+              "text": "My family went to the cat lounge on Saturday and had the best time. The staff were friendly and we loved having time to visit with all of the cats. We had plenty of time to take pictures and pet several cats. Some cats even wanted to play with the toys. We got lots of cat snuggles and will definitely visit again the next time we are in Nashville! I definitely recommend visiting this cat lounge.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Chris Watson",
+            "rating": 5,
+            "text": {
+              "text": "So many cute kitties. They are well taken for and have so many toys and places to chill. The staff is friendly and compassionate. I was glad to see my fellow patrons were kind and respectful of the cats' spaces. Please donate to this place if you can. And adopt if possible.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Tyler Robinson",
+            "rating": 5,
+            "text": {
+              "text": "This has been one of the best Cat Cafe / Cat Lounges I’ve visited. While traveling I always try to seek out new cat cafes… and I’m really glad I found this one. The place is massive, and they had a bunch of really sweet cats. In addition o kittens and younger cats, they also had a “senior” and special needs cat room. All of it is very well done, and the cats all appear very happy. While there I didn’t buy any of their packaged snacks or drinks, but I did buy a ton of their awesome branded merch. Really great place to relax!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1NCNyppiX8JpYgEsH95ncMWB8l-6LOzmcoD5SIZPWrPlX3Z-jcJcA6LM4wtggbQvxpNPZsf4UfK7a-QO1_BYxUBc9bQbrLrdMGK5ymEvm2Fk_16Bzw3UvIheNjWJcEjGIyk0OIS94yXPx1mI-NVWqIoKHCMzSx_SG0tzTl0hidSL8j5dBUJLCYmj25kEz3Cmn2me_Sdrcb-MAyP3W4neQOpR-FOOUxqMY9_wAsEIRIrZFqqUZW3XpDTXY59oBxu-_9GxVU2MpX_dWm9ic4nnsGLPpxEE80BaTZjQKX-YRmIA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "The Senior Catio",
+        "address": "2416 Music Valley Dr Suite 119, Nashville, TN 37214, USA",
+        "rating": 5,
+        "user_ratings_total": 10,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=14770542787397021238",
+        "lat": 36.2199531,
+        "lng": -86.69706389999999,
+        "accessibility_options": "N/A",
+        "reviews": [
+          {
+            "author": "Verónica Nava",
+            "rating": 5,
+            "text": {
+              "text": "This is such a beautiful, calming, therapeutic place to hang out and the people who work there are so kind and sweet (specially the lady with glasses who received me and my boyfriend on my first visit and explained me how this cat lounge experience works). I couldn't contain my happiness being surrounded by so many beautiful cats walking around. I went with my boyfriend and we had a blast! They also have tons of toys for you to play with the cats and lots of couches and areas to just sit and play. This is such a great and cute place to go with the family, on my next trip to Tennessee this will definitely be one of my first places to visit!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Lorena R",
+            "rating": 5,
+            "text": {
+              "text": "Today was my first visit (of many more to come!) to the Senior Catio. It is a lovely and peaceful place to meet the sweetest cats! I definitely recommend it if you are looking for a cat to adopt or just need to de-stress. There are lots of snacks and merch available for purchase.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Nick Paglia",
+            "rating": 5,
+            "text": {
+              "text": "The Senior Catio is a must-do experience for any cat lover. The Senior Catio is the sister location to the well-loved Catio Cat Lounge and is focused on the well-being and placement of senior cats. This environment is perfect for the older cats and allows them to flourish in a comfortable and safe environment. We spent an hour amongst the cats and had a wonderful experience. I highly recommend taking the trip out to see and/or adopt one of these wonderful cats. We miss them already. ❤️🐈",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ24sYPCE6MKd-KNmx3nGoKkcDwshkHc7Qmn9kDJbEZL92yYLNbb9w12d7eqkLKDFm4aX2cNJvGxm4zHBKRwfCtE44l65Gnl1_b7PTyide3OW-cQ-VGgoar-YG-_roTPsm9duZHCVj7LAnmLnUrxjQhw7PCkYEaXSrcxTwMxP5_GM82IuD4TKk6UdNyx3ZbS8sSZHNQXorwAbivlUP0PNFfRlKrowocr36vYcdwwcAQ20nN-TnVZ9bY8ra4am74a1uIxNdvwksi56mlyeCra55wVdmezfl7S4lMCsCb8bn7tTRpxS3GTetN8iWawVn5Hi7RFIkgLQ4lgdNzCcqD5ecHrCvPC6wfHSYIBRmsEsIReszi6WTq0ePhu6Y8Jd3jaZ6AqJgeezRrWBot2e0RKOsL_pdOcgy7L&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Knoxville": {
+    "city": "Knoxville",
+    "city_ascii": "Knoxville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9692,
+    "lng": -83.9496,
+    "cafes": [
+      {
+        "name": "Scruffy's Cafe",
+        "address": "1015 N Broadway, Knoxville, TN 37917, USA",
+        "rating": 4.8,
+        "user_ratings_total": 266,
+        "website": "https://www.scruffyscafeknox.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=18164163336039286619",
+        "lat": 35.9819391,
+        "lng": -83.9233418,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Jennifer Gillis",
+            "rating": 5,
+            "text": {
+              "text": "My experience was so great! These kitties are all very well taken care of and they're all up for adoption. You can get a bite to eat and drink and hang out with these cute kitties by the hour. There is plenty of room to sit and chill, have some fun playing with kitties, and getting some much needed kitty time in if you're away from home. The staff is very friendly and you can just tell that they love what they do. Very much recommend!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Amy G",
+            "rating": 5,
+            "text": {
+              "text": "I recently visited Scruffy’s Cafe and it was an amazing experience from start to finish! The cafe offers a cozy and welcoming atmosphere where you can enjoy delicious lattes while spending time with some incredibly friendly and well-cared-for cats. The cats are all available for adoption, and you can tell they are loved and treated with the utmost care by the staff. The staff themselves were wonderful—knowledgeable, kind, and always happy to share a bit of info about the cats and their personalities. Whether you're looking to adopt or just unwind with some cute cats, I highly recommend this place.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Misti Rivers",
+            "rating": 5,
+            "text": {
+              "text": "This cat café is adorable! The atmosphere here is so chill and you can tell all of the kitties are well taken care of. Had a wonderful time playing with and petting the kitties. I also tried a hot chocolate and cake pop while here and it was super yummy. I would definitely recommend this place if you like cats and chill vibes.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1tZortmjSRS7s3b2ioDe6416ZBnpXpFpN4JFnLJZHGLi9AHDB0DYQGbJtNe-ptAPGXLzW-RYIO6AvkGUsB-dJaliMWLVI8A-tzwkanlyFsQzLYuHZmATo0hmuYgb1ipJLz60JHzIl4Rrx68vov9WSTxnoU54a1WxeoDnG0pthN6q8-mI1E6pZae1Swu36Qm-f5kROB0nJXgNwC7P100TgTcBBVG0Kz_LdVzUlfzXH2jg9QEKjVnmfaCs7jr_aLKxLwajSvErgucI_LRimOoVwIyaAQOMh5G6vgqRcBPQVPcrNfXXprBiDdfvYcpMOMLe5XAi4oCjwnPkRRrBU9zPp9HIXNPUGo7CWQlD6LJewYNMC6HcHMmEXeT4GQC_r0rXViHGimpk1Lqqj67tGcaapgcL5hKEUYra-Q&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Memphis": {
+    "city": "Memphis",
+    "city_ascii": "Memphis",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1087,
+    "lng": -89.9663,
+    "cafes": [
+      {
+        "name": "Cat House Café",
+        "address": "2000 Prentiss Pl, Memphis, TN 38112, USA",
+        "rating": 3,
+        "user_ratings_total": 49,
+        "website": "https://www.memphiszoo.org/cathouse-cafe",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1656024955403704300",
+        "lat": 35.150984099999995,
+        "lng": -89.99464479999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Harley Mom",
+            "rating": 4,
+            "text": {
+              "text": "Compared to the rest of the zoo, the cafeteria has a little that could be improved on. Mainly, ok solely, the food.\n\nIt’s quick to order because there are several kiosks to order from. Food is expensive as it usually is at a zoo. Burger was bleh. I didn’t eat it all. It was gross actually lol! I enjoyed the free refill zoo cup though!",
+              "languageCode": "en"
+            },
+            "time": "11 months ago"
+          },
+          {
+            "author": "Sue Russell",
+            "rating": 1,
+            "text": {
+              "text": "Food was cold. Cheese on hamburger didn't even melt. Fries would have been good if not cold.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Bethanyk",
+            "rating": 4,
+            "text": {
+              "text": "The line went fairly quick and the food was actually pretty good! We got burgers and fries. You can sit and watch the monkeys while you eat altho not sure that's a good idea 🤣. Overall a pretty reasonable priced good place to grab a bite to eat while visiting the zoo.",
+              "languageCode": "en"
+            },
+            "time": "2 years ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1A1x8OhEgmLkYBWBv7EeSv8ETmep11Kb0vAzLO9NOTpfJz_6Y3X8crQ1Q1Fwgc7kWWJRF9vyJF6uOYo0S7YQFAOTYW9_6y5IjR5YgfW-drM6firiS8Xlx7547j5XYN2oGvQPm0SQV0elyYIKBm4ztgzzXUCDF4ZAHJ-h3j0wqcq4y6T6XPhyhOAZRyThrOEP6QsXgx5qbcoszoL4sQB7Tzhdjg1eP8UDEJj9AjmRhOso35ca5b7pJK3YOHukKaGeGEsfKyMFyHY34B-SF-XwcLsp0AGVZGtba_pRDtgyRhrgqEw-Jcyw7eCRnIX0Uyv89UlzVGSK3BdevdJzUzglEZ_HokXCj1irw55gjXz2f2LHrvmc1TRIeqC__MS1HPMGVoglQ0OcBTXUI9VNMOV_kp18XzrQAZrg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Selmer": {
+    "city": "Selmer",
+    "city_ascii": "Selmer",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1708,
+    "lng": -88.5955,
+    "cafes": [
+      {
+        "name": "Moody Cat Coffee Shop",
+        "address": "114 Houston Ave, Selmer, TN 38375, USA",
+        "rating": 4.9,
+        "user_ratings_total": 28,
+        "website": "https://www.facebook.com/profile.php?id=61550350854900&mibextid=ZbWKwL",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=3603771534085889823",
+        "lat": 35.1689645,
+        "lng": -88.5924431,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Logan Summers",
+            "rating": 5,
+            "text": {
+              "text": "I've become a regular to this coffee shop over the last year, and I'm never disappointed in its service, environment, and drinks! The staff are very nice and show how much they care about their customers and the service they provide. As a college student, it is perfect for me to go here and knock out some studying for a few hours in a day. They are very involved in the community as well, holding events consistently throughout each month. I would easily recommend this place to anyone.",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "F Munoz",
+            "rating": 5,
+            "text": {
+              "text": "An AMAZING addition to selmer , it’s like our own Starbucks but with that cozy home feel, the Barista even brought me the drink as I was on the sofa.\n\nAdorable cat themed, 100% will be a returning customer. And recommend to everyone",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          },
+          {
+            "author": "Michelle Allen",
+            "rating": 5,
+            "text": {
+              "text": "This coffee shop is absolutely adorable, tons of room and space to do your work in privacy. The theme is cats and I just love how they brought everything together and made it one beautiful place with great Coffee, delicious snacks, and the perfect atmosphere.\nThe workers are very nice, knowledgeable and personable. Definitely give this coffee shop a try.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ33nYTLIGbN9t4W6e85730oP6Z46fRkOPNz28dwgq3TAcdZkAlLOWMLBah1Lg0kAnhnJEx2tksuWK6TMFkeeeqBjGs6Wkc1f7-abvQ-Iiwx3y_jGwfq-k1pa-0kAcVcUloOmN0Z3mxce35bsmSocay9zPadPhrrdsX1WWuO7JuHk_RKe1xPo7t2PpwtxriJDATTlTitElLh51wWM-ej33BgSS2uDLxej6vtZ6bvBxy6tYjnhEOL2eIS3ea1SDary4JyRZ30vUvpfxVF_6DpJgGgyQrXNtqgxFMe6CoQ8RjI5bFNrBjdycu1CWtt3asmDNn99ekxMV5p0e9kHJb1AiQDkkXseLPY7yx5YB1IRxroV6PdlTO90y4Wc1hrIoQUXecuyIXHDEua01YNHSYjuTw2o_CTnQh51aBN&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Greeneville": {
+    "city": "Greeneville",
+    "city_ascii": "Greeneville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.168,
+    "lng": -82.8197,
+    "cafes": [
+      {
+        "name": "The Phat Cat Cafe",
+        "address": "515 E Church St, Greeneville, TN 37743, USA",
+        "rating": 4.3,
+        "user_ratings_total": 185,
+        "website": "https://www.facebook.com/The-Phat-Cat-Cafe-Brasserie-245559712458452/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=6061520398724854617",
+        "lat": 36.162406,
+        "lng": -82.82137399999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "JoAnne Bratton",
+            "rating": 5,
+            "text": {
+              "text": "Delicious food. Great service. Would definitely recommend eating lunch here. My friend and I both had the club sandwich. It was loaded with plenty of meat. It was really good. I had loaded potato soup and it was delicious. My friend really liked her tomato soup. My husband had taco salad. It is huge. He loved it. French fries are to die for. So glad I picked this restaurant. Thank you for the wonderful food.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Alyssa",
+            "rating": 5,
+            "text": {
+              "text": "Their food was absolutely amazing, it was probably the best salad i’ve ever had. My only problem is their hours! I wish they closed later than 2:30 so I could go there more often.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Bryan Ebbs",
+            "rating": 5,
+            "text": {
+              "text": "This was our first time eating here and we was amazed at how good the food was! I tried the club sandwich and it was with out a doubt the best I've ever had! The cheeseburger is fresh patted out meat and was awesome too. The fries are hand cut and amazing. The owner is very nice and friendly and makes sure everything is just right and makes you feel welcomed. The inside of this place is very nice and cozy with real hard wood floors that has a very nice cozy feeling. I HIGHLY recommend eating here. As for us it won't be our last time coming here to eat!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0x55smUwa4sLP-jqdTh9dBb0bacFypC6axPoMX12OMuLtu92jsApK0ddEOsQspluDBNrFZIeLc6NFlV8y2IzjVOUim87NVkrJrq2nMPaMdYitxtd5nXTU6AZbVvrnIXBm9gGZGacqSSHfsI4PAvfMus-_svsKG55b5FRdsUpemgXdaPOBIkvHJwk1_bwK39Vf09JfBjjLbD3UNQ2ZCmxFs1dFqSvycZGnFYGNmYsFIcYUsbcTxjOo8SJubzB3cae1RRG8y0Mz5QkK3f3_YhFHvIrPxKewDI-cXp6MQ2YGXjA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Asheville": [
+    {
+      "name": "Cats at Play Cafe",
+      "address": "12 Eagle St, Asheville, NC 28801, USA",
+      "rating": 4.7,
+      "user_ratings_total": 170,
+      "website": "https://www.catsatplaycafeasheville.com/reservations",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=1746454672292026878",
+      "lat": 35.594178,
+      "lng": -82.550792,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Joe Barrett",
+          "rating": 5,
+          "text": {
+            "text": "Visited at 11:30am, because we arrived downtown thirty minutes before our appointment and needed a place to appreciate Life and Living. The Heart warming energy of the resident Cats is wonderful. Highly recommended, bring a partner, friend, date. If you really Love cats, get closer right here.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Matthew",
+          "rating": 5,
+          "text": {
+            "text": "I have just moved out to Asheville, walking around the area I wasn't looking for a cat cafe, but the second I saw it I knew I had to check it out. First the aesthetic of this Cafe is amazing, beautiful design that makes it feel like it was made for the cats, and for the people of Asheville. The employees were very friendly and helpful when it came to understanding how the cafe worked and what all can be done here. I grabbed a drink, which regrettably I don't remember the name of as it was a long day, and throughly enjoy it! Once I got to hang out with the cats I felt such joy, not being able to have a cat at the moment this was the perfect opportunity to experience being around them again. All of them were very sweet and the kittens were adorable to see and play with. I will be coming back here to enjoy the Cafe and experience they offer!",
+            "languageCode": "en"
+          },
+          "time": "8 months ago"
+        },
+        {
+          "author": "Stephanie Dorr",
+          "rating": 5,
+          "text": {
+            "text": "What a cute and cute wonderful place! Offers coffee, tea, beers, wine, while you play with kitties. Adorably decorated and VERY clean - no kitty smell at all! $12pp for 30 min got you access to 2 rooms. One with older cats and one for kittens. Buy a tube of treats for $1 and you’ll get lots of attention! Kitties are for adoption and they seem to have helped over 150 cats get homes since the start of the year. This is my new retirement plan LOL",
+            "languageCode": "en"
+          },
+          "time": "8 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ29bWICMKH0KK8lVAmqwuS7HXWhv0lke85YgIQM9q5b5W0FAaGmVwxpcXEQg1sCrw7HjZcQFfKZw_C1NixyYCRFu98X3_7G1Y6-KYHUHqjtV8MvVJo4CHegbcYLR5uxCO6m9FLgJSWAVCOqTdKrOr5zVSoVxraB6Y0J9b2Ak3oR7BMdtk8nNX3nXEJyZou4mdG01ppjDixelJSgxsayxLNjmGV4SHiDqUs9Cs5S6k6jX-ih6zNLdaCe3KRAsD-8-fP4Sa6aEmLJ67EL2KUf-_WQIArrRkpgDViTEiqrwMk8m3QH_z_bx4s6-MT_Rqc5mwRS4E55k34rbkCu4TLEUU9kbGCWOVHDMshkGw57cKYeTM9pKqc87q9jEIJP8ErjXZ0K2MLaqBUX2qz_Vk6eTFNbNd1i1B_8Lu_I&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Lenoir": [
+    {
+      "name": "Brews and Mews Cat Cafe",
+      "address": "219 N Main St, Lenoir, NC 28645, USA",
+      "rating": 4.7,
+      "user_ratings_total": 137,
+      "website": "http://www.brewsandmewscafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=877460520456136451",
+      "lat": 35.9152796,
+      "lng": -81.54038,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Eliza",
+          "rating": 4,
+          "text": {
+            "text": "Came for a friend's birthday with high expectations and was not disappointed. The Moon boba tea was delicious, and the cats made my heart melt. The cat area was a little dirty, but the rest of the cafe had a chill atmosphere that made me feel right at home. Will definitely be coming back the next time I'm in the area!",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Belial Jephcote",
+          "rating": 5,
+          "text": {
+            "text": "wanted to say today was such a wonderful experience! my partner and i had a great time during our 3PM appointment, and during our appointment they introduced a new cat to the room. as someone who has worked in cat cafes in the past, they are doing top tier work to take care of these cats. the cats are very sweet, very social, and i can tell the staff goes to great efforts to make all of this happen. every drink i’ve gotten from here has been amazing as well, and i see why people stop in just for the drinks all the time! definitely support this business, whether it’s booking an appointment or just getting a sweet drink!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Playa Squirrel",
+          "rating": 5,
+          "text": {
+            "text": "Great coffee and boba drinks and fun to watch and play with the cats. Definitely stop for drinks even if you don't like cats. You can just watch them if you don't want to play. The holiday decorations are lovely and the staff are great fun.",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1EbHQ1GnUUHXtq1dRC7DdQxg3CxuxJygn_KWrn8yX_DqDB1L6Y9tJ9VcmzuccEXOLsn2JhZOI_qVoMCJTHaCv7bqjHmT8IEkFX6p0QJQtvKN2NQ4zrTDh1xb3s8K8NKxIUDjPy5jWkyHbtGIppA-cM7BEVKJ_mz-H2MVIQZ2x0sLLc_-QFpVVE3Z8zQNM1PEODJ5G3VHC3WYFTsokTTh7bXIraHNInqNgysX6t5fjkjlkLpaqmmwu51DymUvfR0jlPpIHLqBztHhpHBhqtkzi9_qgRv8XUYEOJ7U6FNEk4NcIwtKv5IRhfEj3ii7cNpKwEjrHW3F6l8CRZncnu2zYm5tfZG5LIxD_wrU0PUhXYKQsfUlI8Eaz0X582v-rhoNC4xkSmB4U8IZ4PjxdHb_nOQ9jqM2Y&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Cleveland": {
+    "city": "Cleveland",
+    "city_ascii": "Cleveland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1817,
+    "lng": -84.8707,
+    "cafes": [
+      {
+        "name": "Goodies Bar & Grill",
+        "address": "673 Inman St E, Cleveland, TN 37311, USA",
+        "rating": 4.8,
+        "user_ratings_total": 5,
+        "website": "https://order.online/business/goodies-bar-12969293",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=5852776387449067196",
+        "lat": 35.1555263,
+        "lng": -84.8666171,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Youssef Metyas",
+            "rating": 4,
+            "text": {
+              "text": "Guys, please open during the week day it’s not good to close 3 days. What about to open Tuesday and Wednesday so you can close Monday?",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          },
+          {
+            "author": "Ras Rambo",
+            "rating": 5,
+            "text": {
+              "text": "It was definitely a grown and sexy vibe. Liquor flowing hookah blowing 💪🏾",
+              "languageCode": "en"
+            },
+            "time": "2 years ago"
+          },
+          {
+            "author": "Kimika Bryant",
+            "rating": 5,
+            "text": {
+              "text": "Nice place to have drinks and listen to music",
+              "languageCode": "en"
+            },
+            "time": "12 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0BUHR1V_q_ngDGbE-zvM0UWalBE-gpyu_dGuOllor3ZVeUFWYqq9fx6yj-mZay-rz-7svJC_-GF_dVhNq8VNEDPOXQjlwXSP5IIDcs5Z_BfWzdns23U-QmaQdHYxyEvub_n36EoPoSBjy83Y0Bn0Fg3z8gW_8NzZnlyp4yCEl2u0SclibNVhdDg8Pg7zyySBDpyaiBHhjbJFs_A2GDJy9dijlIDWjPPRW0xgzMOWFcCUP2gXtaXLdhYNt9ANM5h_ksU1KXxZg0hDpjeDkpkzjzgklWoURgzf5lhG-yid8q5A&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Adamsville": {
+    "city": "Adamsville",
+    "city_ascii": "Adamsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2564,
+    "lng": -88.3862,
+    "cafes": [
+      {
+        "name": "Alley Cat's Cafe",
+        "address": "224 N Maple St, Adamsville, TN 38310, USA",
+        "rating": 4.3,
+        "user_ratings_total": 4,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=15957022121136765817",
+        "lat": 35.2387261,
+        "lng": -88.389996,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Sherry Young",
+            "rating": 5,
+            "text": {
+              "text": "Love the food and the staff! Great atmosphere",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Darrell Bible",
+            "rating": 5,
+            "text": {
+              "text": "Nice quiet place to eat.  Friendly service and food cooked right.",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          },
+          {
+            "author": "Bob Burchwell",
+            "rating": 5,
+            "text": {
+              "text": "You come here you have to have the LOADED BAKE POTATO, very unique and good",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2lkdhKFsI5IK40RCfB-ImMiEbX7RBBF5wsIkU7d95NAXuIyZahfN5PM_wV5w7dYxZ4Ty_vrNvqrjctTAmyYuXEwDpYR6jzAS1T6bvZ-iSjCKKORlZDGaht9LFaVor61RJnBvEUPK2viGQ0ALFSIJGIVUQ2mIbsIvlB5D3RFNwQHr8yDrYcmssYMorP1JoEmY1TIzjwf-363lBAo1FDABrueA2-DyDGRiA-Cc1n50hTKRTGACByBPDxu6t3cMNShbWNd92DTx_pjvwem8_0XveLt9X5pnDHYsbpFexgB9bGMTnmf_j5cboG9GmuuTmie2UQJxQVA0aJLPtjSZHZZGleBYqbl_i9BG1DN9A84dgjLGSNIJCv1UPYe_aoDHrE7nE1voOb0KTmD61E6cnNAgfgcRyFeN_SNA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "McMinnville": {
+    "city": "McMinnville",
+    "city_ascii": "McMinnville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6864,
+    "lng": -85.7812,
+    "cafes": [
+      {
+        "name": "Coffee Cat",
+        "address": "231 Northgate Dr #280, McMinnville, TN 37110, USA",
+        "rating": 4.4,
+        "user_ratings_total": 163,
+        "website": "https://www.facebook.com/coffeecattn",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=17143866438657185235",
+        "lat": 35.7003443,
+        "lng": -85.784773,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": false,
+          "wheelchairAccessibleEntrance": false,
+          "wheelchairAccessibleRestroom": false,
+          "wheelchairAccessibleSeating": false
+        },
+        "reviews": [
+          {
+            "author": "Tal S",
+            "rating": 5,
+            "text": {
+              "text": "Great coffee spot!! building is actually red, not blue as on older pictures. drive through works great, you can stop on either side and order from a large menu of items. we went with classic lattes, regular milk 🥛 it tasted great! i love my coffee strong, so would take an extra shot of espresso next time! overall great experience and friendly service! nice people working in here!",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "L. Kay",
+            "rating": 2,
+            "text": {
+              "text": "Their prices are good. I got a caramel frappe and a cream cheese danish. I really wanted to love this place since it's a small business and there aren't many places to get coffee nearby. The Danish was good but the frappe was not. I was disappointed. I drank half of it and was left with just a big pile of weird flavorless sno-cone-like ice filling half the cup. I've never had a frappe separate and be like that before. It didn't stay blended somehow and my drink just didn't taste that good. Maybe it was just that particular drink. I might go back one more time and just try their iced coffee instead.\nIf I do, I will adjust my review.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Olga Schmidt",
+            "rating": 5,
+            "text": {
+              "text": "Pretty cute drive thru coffee booth. Latte is good, if you like your coffee strong then an extra shot will not hurt. Overall very fast and friendly service.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ34V0hE4fAW9fY8rZfsoc4WEEAV_NuNvkZ2PVOQKe2LbiaI1fncLa8_-lpCutp85soa_yESqJCmoR9IdUYA4JyirI4WmNOYW96wwYqFKM33yw_xOzfa9vANFLDhdBb_odtjcYN-4nyJIQtdWb6BB3nn_bGjyt72tTx6pvTHiP40O8N0-pV7fqaGWuGYbB5dHmSuudXNqeFjJJw_gHIvyaFNkuLNaP4_6ISzWjZBX5wL3sGsDFuuRmrAfuyMJUJ9iENVXcxbvTkNu-tXhOenu1rB4XmjksvKuk77jeD7gygsgQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Clarksville": {
+    "city": "Clarksville",
+    "city_ascii": "Clarksville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5692,
+    "lng": -87.3413,
+    "cafes": []
+  },
+  "Johnson City": {
+    "city": "Johnson City",
+    "city_ascii": "Johnson City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3406,
+    "lng": -82.3806,
+    "cafes": []
+  },
+  "Kingsport": {
+    "city": "Kingsport",
+    "city_ascii": "Kingsport",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5224,
+    "lng": -82.5454,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.92,
+    "lng": -86.8516,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6538,
+    "lng": -88.8354,
+    "cafes": []
+  },
+  "Spring Hill": {
+    "city": "Spring Hill",
+    "city_ascii": "Spring Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7437,
+    "lng": -86.9116,
+    "cafes": []
+  },
+  "Bristol": {
+    "city": "Bristol",
+    "city_ascii": "Bristol",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5572,
+    "lng": -82.2154,
+    "cafes": []
+  },
+  "Morristown": {
+    "city": "Morristown",
+    "city_ascii": "Morristown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2043,
+    "lng": -83.3001,
+    "cafes": []
+  },
+  "Hendersonville": {
+    "city": "Hendersonville",
+    "city_ascii": "Hendersonville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3063,
+    "lng": -86.5997,
+    "cafes": []
+  },
+  "Bartlett": {
+    "city": "Bartlett",
+    "city_ascii": "Bartlett",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2337,
+    "lng": -89.8195,
+    "cafes": []
+  },
+  "Smyrna": {
+    "city": "Smyrna",
+    "city_ascii": "Smyrna",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9687,
+    "lng": -86.5264,
+    "cafes": []
+  },
+  "Collierville": {
+    "city": "Collierville",
+    "city_ascii": "Collierville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.047,
+    "lng": -89.6987,
+    "cafes": []
+  },
+  "Gallatin": {
+    "city": "Gallatin",
+    "city_ascii": "Gallatin",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3782,
+    "lng": -86.4698,
+    "cafes": []
+  },
+  "Brentwood": {
+    "city": "Brentwood",
+    "city_ascii": "Brentwood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9918,
+    "lng": -86.7758,
+    "cafes": []
+  },
+  "Columbia": {
+    "city": "Columbia",
+    "city_ascii": "Columbia",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6238,
+    "lng": -87.0484,
+    "cafes": []
+  },
+  "Lebanon": {
+    "city": "Lebanon",
+    "city_ascii": "Lebanon",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.204,
+    "lng": -86.3481,
+    "cafes": []
+  },
+  "Mount Juliet": {
+    "city": "Mount Juliet",
+    "city_ascii": "Mount Juliet",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.199,
+    "lng": -86.5115,
+    "cafes": []
+  },
+  "Germantown": {
+    "city": "Germantown",
+    "city_ascii": "Germantown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0829,
+    "lng": -89.7824,
+    "cafes": []
+  },
+  "La Vergne": {
+    "city": "La Vergne",
+    "city_ascii": "La Vergne",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.02,
+    "lng": -86.5586,
+    "cafes": []
+  },
+  "Cookeville": {
+    "city": "Cookeville",
+    "city_ascii": "Cookeville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1482,
+    "lng": -85.5109,
+    "cafes": []
+  },
+  "Maryville": {
+    "city": "Maryville",
+    "city_ascii": "Maryville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7468,
+    "lng": -83.9789,
+    "cafes": []
+  },
+  "Farragut": {
+    "city": "Farragut",
+    "city_ascii": "Farragut",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8731,
+    "lng": -84.1821,
+    "cafes": []
+  },
+  "Shelbyville": {
+    "city": "Shelbyville",
+    "city_ascii": "Shelbyville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4987,
+    "lng": -86.4517,
+    "cafes": []
+  },
+  "East Ridge": {
+    "city": "East Ridge",
+    "city_ascii": "East Ridge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 34.9973,
+    "lng": -85.2285,
+    "cafes": []
+  },
+  "Tullahoma": {
+    "city": "Tullahoma",
+    "city_ascii": "Tullahoma",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3721,
+    "lng": -86.2172,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4949,
+    "lng": -86.8711,
+    "cafes": []
+  },
+  "Sevierville": {
+    "city": "Sevierville",
+    "city_ascii": "Sevierville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8872,
+    "lng": -83.5678,
+    "cafes": []
+  },
+  "Goodlettsville": {
+    "city": "Goodlettsville",
+    "city_ascii": "Goodlettsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.333,
+    "lng": -86.7026,
+    "cafes": []
+  },
+  "Dickson": {
+    "city": "Dickson",
+    "city_ascii": "Dickson",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0637,
+    "lng": -87.3665,
+    "cafes": []
+  },
+  "Dyersburg": {
+    "city": "Dyersburg",
+    "city_ascii": "Dyersburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0465,
+    "lng": -89.3777,
+    "cafes": []
+  },
+  "Seymour": {
+    "city": "Seymour",
+    "city_ascii": "Seymour",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8783,
+    "lng": -83.7669,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2594,
+    "lng": -89.668,
+    "cafes": []
+  },
+  "Nolensville": {
+    "city": "Nolensville",
+    "city_ascii": "Nolensville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9572,
+    "lng": -86.6719,
+    "cafes": []
+  },
+  "Elizabethton": {
+    "city": "Elizabethton",
+    "city_ascii": "Elizabethton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3367,
+    "lng": -82.237,
+    "cafes": []
+  },
+  "Athens": {
+    "city": "Athens",
+    "city_ascii": "Athens",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4573,
+    "lng": -84.6045,
+    "cafes": []
+  },
+  "Lakeland": {
+    "city": "Lakeland",
+    "city_ascii": "Lakeland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2585,
+    "lng": -89.7308,
+    "cafes": []
+  },
+  "White House": {
+    "city": "White House",
+    "city_ascii": "White House",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4648,
+    "lng": -86.6666,
+    "cafes": []
+  },
+  "Powell": {
+    "city": "Powell",
+    "city_ascii": "Powell",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0358,
+    "lng": -84.0296,
+    "cafes": []
+  },
+  "Portland": {
+    "city": "Portland",
+    "city_ascii": "Portland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5921,
+    "lng": -86.5239,
+    "cafes": []
+  },
+  "Soddy-Daisy": {
+    "city": "Soddy-Daisy",
+    "city_ascii": "Soddy-Daisy",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2571,
+    "lng": -85.1739,
+    "cafes": []
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.463,
+    "lng": -86.0774,
+    "cafes": []
+  },
+  "Lewisburg": {
+    "city": "Lewisburg",
+    "city_ascii": "Lewisburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.451,
+    "lng": -86.7901,
+    "cafes": []
+  },
+  "Crossville": {
+    "city": "Crossville",
+    "city_ascii": "Crossville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9526,
+    "lng": -85.0295,
+    "cafes": []
+  },
+  "Red Bank": {
+    "city": "Red Bank",
+    "city_ascii": "Red Bank",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1117,
+    "lng": -85.2962,
+    "cafes": []
+  },
+  "Middle Valley": {
+    "city": "Middle Valley",
+    "city_ascii": "Middle Valley",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1877,
+    "lng": -85.1959,
+    "cafes": []
+  },
+  "Hartsville": {
+    "city": "Hartsville",
+    "city_ascii": "Hartsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3921,
+    "lng": -86.1568,
+    "cafes": []
+  },
+  "Lawrenceburg": {
+    "city": "Lawrenceburg",
+    "city_ascii": "Lawrenceburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2497,
+    "lng": -87.3325,
+    "cafes": []
+  },
+  "Alcoa": {
+    "city": "Alcoa",
+    "city_ascii": "Alcoa",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8076,
+    "lng": -83.9753,
+    "cafes": []
+  },
+  "Collegedale": {
+    "city": "Collegedale",
+    "city_ascii": "Collegedale",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0526,
+    "lng": -85.0488,
+    "cafes": []
+  },
+  "Millington": {
+    "city": "Millington",
+    "city_ascii": "Millington",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.335,
+    "lng": -89.8991,
+    "cafes": []
+  },
+  "Union City": {
+    "city": "Union City",
+    "city_ascii": "Union City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4267,
+    "lng": -89.0474,
+    "cafes": []
+  },
+  "Martin": {
+    "city": "Martin",
+    "city_ascii": "Martin",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3385,
+    "lng": -88.8513,
+    "cafes": []
+  },
+  "Lenoir City": {
+    "city": "Lenoir City",
+    "city_ascii": "Lenoir City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8111,
+    "lng": -84.2818,
+    "cafes": []
+  },
+  "Paris": {
+    "city": "Paris",
+    "city_ascii": "Paris",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2933,
+    "lng": -88.3065,
+    "cafes": []
+  },
+  "Atoka": {
+    "city": "Atoka",
+    "city_ascii": "Atoka",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4239,
+    "lng": -89.7861,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0981,
+    "lng": -84.1283,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9815,
+    "lng": -87.1291,
+    "cafes": []
+  },
+  "Brownsville": {
+    "city": "Brownsville",
+    "city_ascii": "Brownsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.589,
+    "lng": -89.2578,
+    "cafes": []
+  },
+  "Winchester": {
+    "city": "Winchester",
+    "city_ascii": "Winchester",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1898,
+    "lng": -86.1075,
+    "cafes": []
+  },
+  "Oakland": {
+    "city": "Oakland",
+    "city_ascii": "Oakland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2256,
+    "lng": -89.5372,
+    "cafes": []
+  },
+  "Halls": {
+    "city": "Halls",
+    "city_ascii": "Halls",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8795,
+    "lng": -89.405,
+    "cafes": []
+  },
+  "Fairfield Glade": {
+    "city": "Fairfield Glade",
+    "city_ascii": "Fairfield Glade",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0028,
+    "lng": -84.8711,
+    "cafes": []
+  },
+  "Signal Mountain": {
+    "city": "Signal Mountain",
+    "city_ascii": "Signal Mountain",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1448,
+    "lng": -85.3457,
+    "cafes": []
+  },
+  "Bloomingdale": {
+    "city": "Bloomingdale",
+    "city_ascii": "Bloomingdale",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5793,
+    "lng": -82.5096,
+    "cafes": []
+  },
+  "Covington": {
+    "city": "Covington",
+    "city_ascii": "Covington",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.566,
+    "lng": -89.6482,
+    "cafes": []
+  },
+  "Jefferson City": {
+    "city": "Jefferson City",
+    "city_ascii": "Jefferson City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1201,
+    "lng": -83.4829,
+    "cafes": []
+  },
+  "Harrison": {
+    "city": "Harrison",
+    "city_ascii": "Harrison",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1271,
+    "lng": -85.1453,
+    "cafes": []
+  },
+  "Pulaski": {
+    "city": "Pulaski",
+    "city_ascii": "Pulaski",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1933,
+    "lng": -87.035,
+    "cafes": []
+  },
+  "Milan": {
+    "city": "Milan",
+    "city_ascii": "Milan",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9126,
+    "lng": -88.7554,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6618,
+    "lng": -88.3944,
+    "cafes": []
+  },
+  "Thompson's Station": {
+    "city": "Thompson's Station",
+    "city_ascii": "Thompson's Station",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8106,
+    "lng": -86.9003,
+    "cafes": []
+  },
+  "Humboldt": {
+    "city": "Humboldt",
+    "city_ascii": "Humboldt",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8271,
+    "lng": -88.9058,
+    "cafes": []
+  },
+  "South Cleveland": {
+    "city": "South Cleveland",
+    "city_ascii": "South Cleveland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1096,
+    "lng": -84.9097,
+    "cafes": []
+  },
+  "Ripley": {
+    "city": "Ripley",
+    "city_ascii": "Ripley",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7449,
+    "lng": -89.5358,
+    "cafes": []
+  },
+  "La Follette": {
+    "city": "La Follette",
+    "city_ascii": "La Follette",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3718,
+    "lng": -84.1256,
+    "cafes": []
+  },
+  "Savannah": {
+    "city": "Savannah",
+    "city_ascii": "Savannah",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.221,
+    "lng": -88.236,
+    "cafes": []
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "city_ascii": "Dayton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4912,
+    "lng": -85.012,
+    "cafes": []
+  },
+  "Church Hill": {
+    "city": "Church Hill",
+    "city_ascii": "Church Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5204,
+    "lng": -82.7151,
+    "cafes": []
+  },
+  "Fayetteville": {
+    "city": "Fayetteville",
+    "city_ascii": "Fayetteville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.149,
+    "lng": -86.5634,
+    "cafes": []
+  },
+  "Greenbrier": {
+    "city": "Greenbrier",
+    "city_ascii": "Greenbrier",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4243,
+    "lng": -86.7975,
+    "cafes": []
+  },
+  "Tellico Village": {
+    "city": "Tellico Village",
+    "city_ascii": "Tellico Village",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6984,
+    "lng": -84.2641,
+    "cafes": []
+  },
+  "Newport": {
+    "city": "Newport",
+    "city_ascii": "Newport",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9617,
+    "lng": -83.1976,
+    "cafes": []
+  },
+  "Green Hill": {
+    "city": "Green Hill",
+    "city_ascii": "Green Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2349,
+    "lng": -86.5733,
+    "cafes": []
+  },
+  "Lynchburg": {
+    "city": "Lynchburg",
+    "city_ascii": "Lynchburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2846,
+    "lng": -86.3587,
+    "cafes": []
+  },
+  "Sweetwater": {
+    "city": "Sweetwater",
+    "city_ascii": "Sweetwater",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6029,
+    "lng": -84.4716,
+    "cafes": []
+  },
+  "Munford": {
+    "city": "Munford",
+    "city_ascii": "Munford",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4434,
+    "lng": -89.8147,
+    "cafes": []
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4446,
+    "lng": -88.6531,
+    "cafes": []
+  },
+  "Pigeon Forge": {
+    "city": "Pigeon Forge",
+    "city_ascii": "Pigeon Forge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7977,
+    "lng": -83.5623,
+    "cafes": []
+  },
+  "Loudon": {
+    "city": "Loudon",
+    "city_ascii": "Loudon",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7414,
+    "lng": -84.3701,
+    "cafes": []
+  },
+  "Jonesborough": {
+    "city": "Jonesborough",
+    "city_ascii": "Jonesborough",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2959,
+    "lng": -82.4766,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8713,
+    "lng": -84.4959,
+    "cafes": []
+  },
+  "Harriman": {
+    "city": "Harriman",
+    "city_ascii": "Harriman",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9307,
+    "lng": -84.5602,
+    "cafes": []
+  },
+  "Erwin": {
+    "city": "Erwin",
+    "city_ascii": "Erwin",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1456,
+    "lng": -82.4115,
+    "cafes": []
+  },
+  "Millersville": {
+    "city": "Millersville",
+    "city_ascii": "Millersville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3969,
+    "lng": -86.7111,
+    "cafes": []
+  },
+  "Eagleton Village": {
+    "city": "Eagleton Village",
+    "city_ascii": "Eagleton Village",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7882,
+    "lng": -83.9363,
+    "cafes": []
+  },
+  "McKenzie": {
+    "city": "McKenzie",
+    "city_ascii": "McKenzie",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1372,
+    "lng": -88.5077,
+    "cafes": []
+  },
+  "Lafayette": {
+    "city": "Lafayette",
+    "city_ascii": "Lafayette",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5241,
+    "lng": -86.0304,
+    "cafes": []
+  },
+  "Dunlap": {
+    "city": "Dunlap",
+    "city_ascii": "Dunlap",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3675,
+    "lng": -85.3899,
+    "cafes": []
+  },
+  "Rockwood": {
+    "city": "Rockwood",
+    "city_ascii": "Rockwood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8692,
+    "lng": -84.6731,
+    "cafes": []
+  },
+  "Mount Carmel": {
+    "city": "Mount Carmel",
+    "city_ascii": "Mount Carmel",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.562,
+    "lng": -82.6618,
+    "cafes": []
+  },
+  "Ashland City": {
+    "city": "Ashland City",
+    "city_ascii": "Ashland City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2607,
+    "lng": -87.0412,
+    "cafes": []
+  },
+  "Medina": {
+    "city": "Medina",
+    "city_ascii": "Medina",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8152,
+    "lng": -88.7901,
+    "cafes": []
+  },
+  "Madisonville": {
+    "city": "Madisonville",
+    "city_ascii": "Madisonville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5232,
+    "lng": -84.363,
+    "cafes": []
+  },
+  "Bolivar": {
+    "city": "Bolivar",
+    "city_ascii": "Bolivar",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2645,
+    "lng": -89.0118,
+    "cafes": []
+  },
+  "Smithville": {
+    "city": "Smithville",
+    "city_ascii": "Smithville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9584,
+    "lng": -85.8211,
+    "cafes": []
+  },
+  "Pleasant View": {
+    "city": "Pleasant View",
+    "city_ascii": "Pleasant View",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3893,
+    "lng": -87.0455,
+    "cafes": []
+  },
+  "Sparta": {
+    "city": "Sparta",
+    "city_ascii": "Sparta",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9347,
+    "lng": -85.4726,
+    "cafes": []
+  },
+  "Mount Pleasant": {
+    "city": "Mount Pleasant",
+    "city_ascii": "Mount Pleasant",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5483,
+    "lng": -87.1872,
+    "cafes": []
+  },
+  "Forest Hills": {
+    "city": "Forest Hills",
+    "city_ascii": "Forest Hills",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0652,
+    "lng": -86.8403,
+    "cafes": []
+  },
+  "Christiana": {
+    "city": "Christiana",
+    "city_ascii": "Christiana",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7193,
+    "lng": -86.4129,
+    "cafes": []
+  },
+  "Oak Hill": {
+    "city": "Oak Hill",
+    "city_ascii": "Oak Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0735,
+    "lng": -86.7856,
+    "cafes": []
+  },
+  "Whiteville": {
+    "city": "Whiteville",
+    "city_ascii": "Whiteville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.318,
+    "lng": -89.1498,
+    "cafes": []
+  },
+  "Rogersville": {
+    "city": "Rogersville",
+    "city_ascii": "Rogersville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4081,
+    "lng": -83.0043,
+    "cafes": []
+  },
+  "Coopertown": {
+    "city": "Coopertown",
+    "city_ascii": "Coopertown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4142,
+    "lng": -86.9658,
+    "cafes": []
+  },
+  "Lake Tansi": {
+    "city": "Lake Tansi",
+    "city_ascii": "Lake Tansi",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8701,
+    "lng": -85.0614,
+    "cafes": []
+  },
+  "Oak Grove": {
+    "city": "Oak Grove",
+    "city_ascii": "Oak Grove",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4222,
+    "lng": -82.4293,
+    "cafes": []
+  },
+  "Huntingdon": {
+    "city": "Huntingdon",
+    "city_ascii": "Huntingdon",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0052,
+    "lng": -88.4181,
+    "cafes": []
+  },
+  "Apison": {
+    "city": "Apison",
+    "city_ascii": "Apison",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0104,
+    "lng": -85.0142,
+    "cafes": []
+  },
+  "Louisville": {
+    "city": "Louisville",
+    "city_ascii": "Louisville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8247,
+    "lng": -84.0552,
+    "cafes": []
+  },
+  "Harrogate": {
+    "city": "Harrogate",
+    "city_ascii": "Harrogate",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5752,
+    "lng": -83.6462,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0939,
+    "lng": -87.7847,
+    "cafes": []
+  },
+  "Trenton": {
+    "city": "Trenton",
+    "city_ascii": "Trenton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9689,
+    "lng": -88.945,
+    "cafes": []
+  },
+  "Shackle Island": {
+    "city": "Shackle Island",
+    "city_ascii": "Shackle Island",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3775,
+    "lng": -86.6168,
+    "cafes": []
+  },
+  "Algood": {
+    "city": "Algood",
+    "city_ascii": "Algood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2,
+    "lng": -85.4468,
+    "cafes": []
+  },
+  "White Bluff": {
+    "city": "White Bluff",
+    "city_ascii": "White Bluff",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1005,
+    "lng": -87.2117,
+    "cafes": []
+  },
+  "Livingston": {
+    "city": "Livingston",
+    "city_ascii": "Livingston",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3875,
+    "lng": -85.3265,
+    "cafes": []
+  },
+  "Karns": {
+    "city": "Karns",
+    "city_ascii": "Karns",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9778,
+    "lng": -84.1091,
+    "cafes": []
+  },
+  "Unicoi": {
+    "city": "Unicoi",
+    "city_ascii": "Unicoi",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2217,
+    "lng": -82.3292,
+    "cafes": []
+  },
+  "Oneida": {
+    "city": "Oneida",
+    "city_ascii": "Oneida",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5171,
+    "lng": -84.5108,
+    "cafes": []
+  },
+  "Hohenwald": {
+    "city": "Hohenwald",
+    "city_ascii": "Hohenwald",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5515,
+    "lng": -87.5539,
+    "cafes": []
+  },
+  "Spurgeon": {
+    "city": "Spurgeon",
+    "city_ascii": "Spurgeon",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.443,
+    "lng": -82.4621,
+    "cafes": []
+  },
+  "Tiptonville": {
+    "city": "Tiptonville",
+    "city_ascii": "Tiptonville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3871,
+    "lng": -89.4712,
+    "cafes": []
+  },
+  "Camden": {
+    "city": "Camden",
+    "city_ascii": "Camden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0663,
+    "lng": -88.1047,
+    "cafes": []
+  },
+  "Gatlinburg": {
+    "city": "Gatlinburg",
+    "city_ascii": "Gatlinburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.725,
+    "lng": -83.4938,
+    "cafes": []
+  },
+  "Etowah": {
+    "city": "Etowah",
+    "city_ascii": "Etowah",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3381,
+    "lng": -84.5282,
+    "cafes": []
+  },
+  "Jasper": {
+    "city": "Jasper",
+    "city_ascii": "Jasper",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0663,
+    "lng": -85.6227,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8042,
+    "lng": -87.4577,
+    "cafes": []
+  },
+  "Wildwood Lake": {
+    "city": "Wildwood Lake",
+    "city_ascii": "Wildwood Lake",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0893,
+    "lng": -84.8512,
+    "cafes": []
+  },
+  "Somerville": {
+    "city": "Somerville",
+    "city_ascii": "Somerville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2352,
+    "lng": -89.3869,
+    "cafes": []
+  },
+  "Dandridge": {
+    "city": "Dandridge",
+    "city_ascii": "Dandridge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0284,
+    "lng": -83.4308,
+    "cafes": []
+  },
+  "Oliver Springs": {
+    "city": "Oliver Springs",
+    "city_ascii": "Oliver Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0399,
+    "lng": -84.3285,
+    "cafes": []
+  },
+  "Newbern": {
+    "city": "Newbern",
+    "city_ascii": "Newbern",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1169,
+    "lng": -89.2713,
+    "cafes": []
+  },
+  "Tusculum": {
+    "city": "Tusculum",
+    "city_ascii": "Tusculum",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.175,
+    "lng": -82.7454,
+    "cafes": []
+  },
+  "Blountville": {
+    "city": "Blountville",
+    "city_ascii": "Blountville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.533,
+    "lng": -82.329,
+    "cafes": []
+  },
+  "Park City": {
+    "city": "Park City",
+    "city_ascii": "Park City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0782,
+    "lng": -86.5834,
+    "cafes": []
+  },
+  "South Pittsburg": {
+    "city": "South Pittsburg",
+    "city_ascii": "South Pittsburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0111,
+    "lng": -85.7183,
+    "cafes": []
+  },
+  "Sewanee": {
+    "city": "Sewanee",
+    "city_ascii": "Sewanee",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1975,
+    "lng": -85.9213,
+    "cafes": []
+  },
+  "Bean Station": {
+    "city": "Bean Station",
+    "city_ascii": "Bean Station",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3323,
+    "lng": -83.2852,
+    "cafes": []
+  },
+  "Dresden": {
+    "city": "Dresden",
+    "city_ascii": "Dresden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.279,
+    "lng": -88.694,
+    "cafes": []
+  },
+  "Mascot": {
+    "city": "Mascot",
+    "city_ascii": "Mascot",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0673,
+    "lng": -83.7649,
+    "cafes": []
+  },
+  "Brighton": {
+    "city": "Brighton",
+    "city_ascii": "Brighton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4813,
+    "lng": -89.7353,
+    "cafes": []
+  },
+  "Tazewell": {
+    "city": "Tazewell",
+    "city_ascii": "Tazewell",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4625,
+    "lng": -83.5669,
+    "cafes": []
+  },
+  "Belle Meade": {
+    "city": "Belle Meade",
+    "city_ascii": "Belle Meade",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0994,
+    "lng": -86.8562,
+    "cafes": []
+  },
+  "Decherd": {
+    "city": "Decherd",
+    "city_ascii": "Decherd",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2156,
+    "lng": -86.0757,
+    "cafes": []
+  },
+  "Kingston Springs": {
+    "city": "Kingston Springs",
+    "city_ascii": "Kingston Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0842,
+    "lng": -87.1039,
+    "cafes": []
+  },
+  "Blaine": {
+    "city": "Blaine",
+    "city_ascii": "Blaine",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1478,
+    "lng": -83.6939,
+    "cafes": []
+  },
+  "Colonial Heights": {
+    "city": "Colonial Heights",
+    "city_ascii": "Colonial Heights",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4853,
+    "lng": -82.5069,
+    "cafes": []
+  },
+  "Coalfield": {
+    "city": "Coalfield",
+    "city_ascii": "Coalfield",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0219,
+    "lng": -84.4414,
+    "cafes": []
+  },
+  "Jacksboro": {
+    "city": "Jacksboro",
+    "city_ascii": "Jacksboro",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3351,
+    "lng": -84.1928,
+    "cafes": []
+  },
+  "New Tazewell": {
+    "city": "New Tazewell",
+    "city_ascii": "New Tazewell",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4381,
+    "lng": -83.6053,
+    "cafes": []
+  },
+  "Sale Creek": {
+    "city": "Sale Creek",
+    "city_ascii": "Sale Creek",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3894,
+    "lng": -85.0874,
+    "cafes": []
+  },
+  "Monterey": {
+    "city": "Monterey",
+    "city_ascii": "Monterey",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1447,
+    "lng": -85.2643,
+    "cafes": []
+  },
+  "Woodbury": {
+    "city": "Woodbury",
+    "city_ascii": "Woodbury",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8247,
+    "lng": -86.0723,
+    "cafes": []
+  },
+  "Westmoreland": {
+    "city": "Westmoreland",
+    "city_ascii": "Westmoreland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.562,
+    "lng": -86.246,
+    "cafes": []
+  },
+  "Pikeville": {
+    "city": "Pikeville",
+    "city_ascii": "Pikeville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6027,
+    "lng": -85.1984,
+    "cafes": []
+  },
+  "Clifton": {
+    "city": "Clifton",
+    "city_ascii": "Clifton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3792,
+    "lng": -87.9927,
+    "cafes": []
+  },
+  "Hopewell": {
+    "city": "Hopewell",
+    "city_ascii": "Hopewell",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2388,
+    "lng": -84.9139,
+    "cafes": []
+  },
+  "Parsons": {
+    "city": "Parsons",
+    "city_ascii": "Parsons",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6513,
+    "lng": -88.1231,
+    "cafes": []
+  },
+  "Alamo": {
+    "city": "Alamo",
+    "city_ascii": "Alamo",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.783,
+    "lng": -89.1168,
+    "cafes": []
+  },
+  "White Pine": {
+    "city": "White Pine",
+    "city_ascii": "White Pine",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1087,
+    "lng": -83.297,
+    "cafes": []
+  },
+  "Bells": {
+    "city": "Bells",
+    "city_ascii": "Bells",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7203,
+    "lng": -89.0859,
+    "cafes": []
+  },
+  "Strawberry Plains": {
+    "city": "Strawberry Plains",
+    "city_ascii": "Strawberry Plains",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0632,
+    "lng": -83.6594,
+    "cafes": []
+  },
+  "Maynardville": {
+    "city": "Maynardville",
+    "city_ascii": "Maynardville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.247,
+    "lng": -83.8057,
+    "cafes": []
+  },
+  "Mosheim": {
+    "city": "Mosheim",
+    "city_ascii": "Mosheim",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1955,
+    "lng": -82.9655,
+    "cafes": []
+  },
+  "Waynesboro": {
+    "city": "Waynesboro",
+    "city_ascii": "Waynesboro",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3235,
+    "lng": -87.7593,
+    "cafes": []
+  },
+  "Walnut Hill": {
+    "city": "Walnut Hill",
+    "city_ascii": "Walnut Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5679,
+    "lng": -82.2655,
+    "cafes": []
+  },
+  "Piperton": {
+    "city": "Piperton",
+    "city_ascii": "Piperton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0512,
+    "lng": -89.6091,
+    "cafes": []
+  },
+  "Rural Hill": {
+    "city": "Rural Hill",
+    "city_ascii": "Rural Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1157,
+    "lng": -86.5145,
+    "cafes": []
+  },
+  "Carthage": {
+    "city": "Carthage",
+    "city_ascii": "Carthage",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2566,
+    "lng": -85.943,
+    "cafes": []
+  },
+  "Dyer": {
+    "city": "Dyer",
+    "city_ascii": "Dyer",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.071,
+    "lng": -88.9921,
+    "cafes": []
+  },
+  "Spring City": {
+    "city": "Spring City",
+    "city_ascii": "Spring City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6881,
+    "lng": -84.8622,
+    "cafes": []
+  },
+  "Plainview": {
+    "city": "Plainview",
+    "city_ascii": "Plainview",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1807,
+    "lng": -83.7933,
+    "cafes": []
+  },
+  "Mountain City": {
+    "city": "Mountain City",
+    "city_ascii": "Mountain City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4696,
+    "lng": -81.8049,
+    "cafes": []
+  },
+  "Bluff City": {
+    "city": "Bluff City",
+    "city_ascii": "Bluff City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4589,
+    "lng": -82.2768,
+    "cafes": []
+  },
+  "Gladeville": {
+    "city": "Gladeville",
+    "city_ascii": "Gladeville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1158,
+    "lng": -86.4316,
+    "cafes": []
+  },
+  "Surgoinsville": {
+    "city": "Surgoinsville",
+    "city_ascii": "Surgoinsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4745,
+    "lng": -82.8593,
+    "cafes": []
+  },
+  "Pegram": {
+    "city": "Pegram",
+    "city_ascii": "Pegram",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1037,
+    "lng": -87.0565,
+    "cafes": []
+  },
+  "New Union": {
+    "city": "New Union",
+    "city_ascii": "New Union",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.534,
+    "lng": -86.0832,
+    "cafes": []
+  },
+  "East Cleveland": {
+    "city": "East Cleveland",
+    "city_ascii": "East Cleveland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1524,
+    "lng": -84.8541,
+    "cafes": []
+  },
+  "Ridgetop": {
+    "city": "Ridgetop",
+    "city_ascii": "Ridgetop",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4044,
+    "lng": -86.7681,
+    "cafes": []
+  },
+  "Pine Crest": {
+    "city": "Pine Crest",
+    "city_ascii": "Pine Crest",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2965,
+    "lng": -82.3106,
+    "cafes": []
+  },
+  "Jamestown": {
+    "city": "Jamestown",
+    "city_ascii": "Jamestown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4319,
+    "lng": -84.9341,
+    "cafes": []
+  },
+  "Lookout Mountain": {
+    "city": "Lookout Mountain",
+    "city_ascii": "Lookout Mountain",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 34.9944,
+    "lng": -85.3516,
+    "cafes": []
+  },
+  "South Fulton": {
+    "city": "South Fulton",
+    "city_ascii": "South Fulton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4931,
+    "lng": -88.8835,
+    "cafes": []
+  },
+  "Falling Water": {
+    "city": "Falling Water",
+    "city_ascii": "Falling Water",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1959,
+    "lng": -85.2594,
+    "cafes": []
+  },
+  "Greenfield": {
+    "city": "Greenfield",
+    "city_ascii": "Greenfield",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.16,
+    "lng": -88.8036,
+    "cafes": []
+  },
+  "Dover": {
+    "city": "Dover",
+    "city_ascii": "Dover",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4818,
+    "lng": -87.8438,
+    "cafes": []
+  },
+  "Caryville": {
+    "city": "Caryville",
+    "city_ascii": "Caryville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3252,
+    "lng": -84.2199,
+    "cafes": []
+  },
+  "South Carthage": {
+    "city": "South Carthage",
+    "city_ascii": "South Carthage",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2414,
+    "lng": -85.9575,
+    "cafes": []
+  },
+  "Lakesite": {
+    "city": "Lakesite",
+    "city_ascii": "Lakesite",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2027,
+    "lng": -85.1413,
+    "cafes": []
+  },
+  "Estill Springs": {
+    "city": "Estill Springs",
+    "city_ascii": "Estill Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2755,
+    "lng": -86.14,
+    "cafes": []
+  },
+  "Biltmore": {
+    "city": "Biltmore",
+    "city_ascii": "Biltmore",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3675,
+    "lng": -82.2243,
+    "cafes": []
+  },
+  "Hunter": {
+    "city": "Hunter",
+    "city_ascii": "Hunter",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3978,
+    "lng": -82.1511,
+    "cafes": []
+  },
+  "Three Way": {
+    "city": "Three Way",
+    "city_ascii": "Three Way",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.772,
+    "lng": -88.8572,
+    "cafes": []
+  },
+  "Berry Hill": {
+    "city": "Berry Hill",
+    "city_ascii": "Berry Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1196,
+    "lng": -86.7673,
+    "cafes": []
+  },
+  "Central": {
+    "city": "Central",
+    "city_ascii": "Central",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3289,
+    "lng": -82.294,
+    "cafes": []
+  },
+  "Fairmount": {
+    "city": "Fairmount",
+    "city_ascii": "Fairmount",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1865,
+    "lng": -85.3303,
+    "cafes": []
+  },
+  "New Johnsonville": {
+    "city": "New Johnsonville",
+    "city_ascii": "New Johnsonville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0163,
+    "lng": -87.9696,
+    "cafes": []
+  },
+  "Tracy City": {
+    "city": "Tracy City",
+    "city_ascii": "Tracy City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.262,
+    "lng": -85.7515,
+    "cafes": []
+  },
+  "Troy": {
+    "city": "Troy",
+    "city_ascii": "Troy",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.342,
+    "lng": -89.1583,
+    "cafes": []
+  },
+  "Valley Forge": {
+    "city": "Valley Forge",
+    "city_ascii": "Valley Forge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3043,
+    "lng": -82.1948,
+    "cafes": []
+  },
+  "Bon Aqua Junction": {
+    "city": "Bon Aqua Junction",
+    "city_ascii": "Bon Aqua Junction",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9281,
+    "lng": -87.3124,
+    "cafes": []
+  },
+  "Charlotte": {
+    "city": "Charlotte",
+    "city_ascii": "Charlotte",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1861,
+    "lng": -87.3389,
+    "cafes": []
+  },
+  "Whitwell": {
+    "city": "Whitwell",
+    "city_ascii": "Whitwell",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1918,
+    "lng": -85.5212,
+    "cafes": []
+  },
+  "Decatur": {
+    "city": "Decatur",
+    "city_ascii": "Decatur",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.529,
+    "lng": -84.7933,
+    "cafes": []
+  },
+  "Cornersville": {
+    "city": "Cornersville",
+    "city_ascii": "Cornersville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3634,
+    "lng": -86.8584,
+    "cafes": []
+  },
+  "Rocky Top": {
+    "city": "Rocky Top",
+    "city_ascii": "Rocky Top",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.225,
+    "lng": -84.1548,
+    "cafes": []
+  },
+  "Vonore": {
+    "city": "Vonore",
+    "city_ascii": "Vonore",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5977,
+    "lng": -84.2364,
+    "cafes": []
+  },
+  "Jellico": {
+    "city": "Jellico",
+    "city_ascii": "Jellico",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5651,
+    "lng": -84.1355,
+    "cafes": []
+  },
+  "Monteagle": {
+    "city": "Monteagle",
+    "city_ascii": "Monteagle",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2367,
+    "lng": -85.8513,
+    "cafes": []
+  },
+  "McEwen": {
+    "city": "McEwen",
+    "city_ascii": "McEwen",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1099,
+    "lng": -87.6355,
+    "cafes": []
+  },
+  "Cross Plains": {
+    "city": "Cross Plains",
+    "city_ascii": "Cross Plains",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5412,
+    "lng": -86.6765,
+    "cafes": []
+  },
+  "Mowbray Mountain": {
+    "city": "Mowbray Mountain",
+    "city_ascii": "Mowbray Mountain",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2751,
+    "lng": -85.2225,
+    "cafes": []
+  },
+  "New Market": {
+    "city": "New Market",
+    "city_ascii": "New Market",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1096,
+    "lng": -83.5493,
+    "cafes": []
+  },
+  "Celina": {
+    "city": "Celina",
+    "city_ascii": "Celina",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5469,
+    "lng": -85.5043,
+    "cafes": []
+  },
+  "Cowan": {
+    "city": "Cowan",
+    "city_ascii": "Cowan",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1629,
+    "lng": -86.0142,
+    "cafes": []
+  },
+  "Walden": {
+    "city": "Walden",
+    "city_ascii": "Walden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1635,
+    "lng": -85.3098,
+    "cafes": []
+  },
+  "Loretto": {
+    "city": "Loretto",
+    "city_ascii": "Loretto",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0792,
+    "lng": -87.4401,
+    "cafes": []
+  },
+  "Unionville": {
+    "city": "Unionville",
+    "city_ascii": "Unionville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6117,
+    "lng": -86.5739,
+    "cafes": []
+  },
+  "Burns": {
+    "city": "Burns",
+    "city_ascii": "Burns",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0508,
+    "lng": -87.2984,
+    "cafes": []
+  },
+  "Ridgely": {
+    "city": "Ridgely",
+    "city_ascii": "Ridgely",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2632,
+    "lng": -89.4806,
+    "cafes": []
+  },
+  "Kimball": {
+    "city": "Kimball",
+    "city_ascii": "Kimball",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0469,
+    "lng": -85.674,
+    "cafes": []
+  },
+  "Hampton": {
+    "city": "Hampton",
+    "city_ascii": "Hampton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2772,
+    "lng": -82.1728,
+    "cafes": []
+  },
+  "Sneedville": {
+    "city": "Sneedville",
+    "city_ascii": "Sneedville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5366,
+    "lng": -83.2098,
+    "cafes": []
+  },
+  "Englewood": {
+    "city": "Englewood",
+    "city_ascii": "Englewood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4228,
+    "lng": -84.4883,
+    "cafes": []
+  },
+  "Huntsville": {
+    "city": "Huntsville",
+    "city_ascii": "Huntsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4112,
+    "lng": -84.5056,
+    "cafes": []
+  },
+  "Greenback": {
+    "city": "Greenback",
+    "city_ascii": "Greenback",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6487,
+    "lng": -84.1725,
+    "cafes": []
+  },
+  "Gruetli-Laager": {
+    "city": "Gruetli-Laager",
+    "city_ascii": "Gruetli-Laager",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3726,
+    "lng": -85.6375,
+    "cafes": []
+  },
+  "Olivet": {
+    "city": "Olivet",
+    "city_ascii": "Olivet",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2048,
+    "lng": -88.1939,
+    "cafes": []
+  },
+  "Gray": {
+    "city": "Gray",
+    "city_ascii": "Gray",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4219,
+    "lng": -82.4767,
+    "cafes": []
+  },
+  "Tennessee Ridge": {
+    "city": "Tennessee Ridge",
+    "city_ascii": "Tennessee Ridge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3194,
+    "lng": -87.7631,
+    "cafes": []
+  },
+  "Chapel Hill": {
+    "city": "Chapel Hill",
+    "city_ascii": "Chapel Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6283,
+    "lng": -86.697,
+    "cafes": []
+  },
+  "Rutledge": {
+    "city": "Rutledge",
+    "city_ascii": "Rutledge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2757,
+    "lng": -83.5311,
+    "cafes": []
+  },
+  "Banner Hill": {
+    "city": "Banner Hill",
+    "city_ascii": "Banner Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1223,
+    "lng": -82.4203,
+    "cafes": []
+  },
+  "Watertown": {
+    "city": "Watertown",
+    "city_ascii": "Watertown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1007,
+    "lng": -86.1394,
+    "cafes": []
+  },
+  "Spencer": {
+    "city": "Spencer",
+    "city_ascii": "Spencer",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7393,
+    "lng": -85.456,
+    "cafes": []
+  },
+  "Kenton": {
+    "city": "Kenton",
+    "city_ascii": "Kenton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2021,
+    "lng": -89.0155,
+    "cafes": []
+  },
+  "Norris": {
+    "city": "Norris",
+    "city_ascii": "Norris",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2137,
+    "lng": -84.0629,
+    "cafes": []
+  },
+  "Lone Oak": {
+    "city": "Lone Oak",
+    "city_ascii": "Lone Oak",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2007,
+    "lng": -85.3685,
+    "cafes": []
+  },
+  "Powells Crossroads": {
+    "city": "Powells Crossroads",
+    "city_ascii": "Powells Crossroads",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1849,
+    "lng": -85.4848,
+    "cafes": []
+  },
+  "Red Boiling Springs": {
+    "city": "Red Boiling Springs",
+    "city_ascii": "Red Boiling Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5301,
+    "lng": -85.8481,
+    "cafes": []
+  },
+  "Linden": {
+    "city": "Linden",
+    "city_ascii": "Linden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6123,
+    "lng": -87.8429,
+    "cafes": []
+  },
+  "Gordonsville": {
+    "city": "Gordonsville",
+    "city_ascii": "Gordonsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1817,
+    "lng": -85.9324,
+    "cafes": []
+  },
+  "Huntland": {
+    "city": "Huntland",
+    "city_ascii": "Huntland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0579,
+    "lng": -86.2689,
+    "cafes": []
+  },
+  "Graysville": {
+    "city": "Graysville",
+    "city_ascii": "Graysville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4494,
+    "lng": -85.0762,
+    "cafes": []
+  },
+  "Bruceton": {
+    "city": "Bruceton",
+    "city_ascii": "Bruceton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0349,
+    "lng": -88.2466,
+    "cafes": []
+  },
+  "Benton": {
+    "city": "Benton",
+    "city_ascii": "Benton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1749,
+    "lng": -84.6516,
+    "cafes": []
+  },
+  "Byrdstown": {
+    "city": "Byrdstown",
+    "city_ascii": "Byrdstown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5737,
+    "lng": -85.1342,
+    "cafes": []
+  },
+  "Sullivan Gardens": {
+    "city": "Sullivan Gardens",
+    "city_ascii": "Sullivan Gardens",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4877,
+    "lng": -82.5912,
+    "cafes": []
+  },
+  "Fincastle": {
+    "city": "Fincastle",
+    "city_ascii": "Fincastle",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4038,
+    "lng": -84.048,
+    "cafes": []
+  },
+  "Midtown": {
+    "city": "Midtown",
+    "city_ascii": "Midtown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8813,
+    "lng": -84.5715,
+    "cafes": []
+  },
+  "Ardmore": {
+    "city": "Ardmore",
+    "city_ascii": "Ardmore",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0031,
+    "lng": -86.8548,
+    "cafes": []
+  },
+  "Baxter": {
+    "city": "Baxter",
+    "city_ascii": "Baxter",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1536,
+    "lng": -85.6348,
+    "cafes": []
+  },
+  "Wartburg": {
+    "city": "Wartburg",
+    "city_ascii": "Wartburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1038,
+    "lng": -84.5859,
+    "cafes": []
+  },
+  "Henning": {
+    "city": "Henning",
+    "city_ascii": "Henning",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.682,
+    "lng": -89.577,
+    "cafes": []
+  },
+  "Crump": {
+    "city": "Crump",
+    "city_ascii": "Crump",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2315,
+    "lng": -88.3381,
+    "cafes": []
+  },
+  "Bradford": {
+    "city": "Bradford",
+    "city_ascii": "Bradford",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0737,
+    "lng": -88.8163,
+    "cafes": []
+  },
+  "Atwood": {
+    "city": "Atwood",
+    "city_ascii": "Atwood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9747,
+    "lng": -88.6689,
+    "cafes": []
+  },
+  "Rockvale": {
+    "city": "Rockvale",
+    "city_ascii": "Rockvale",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7669,
+    "lng": -86.521,
+    "cafes": []
+  },
+  "Erin": {
+    "city": "Erin",
+    "city_ascii": "Erin",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.316,
+    "lng": -87.7025,
+    "cafes": []
+  },
+  "Rutherford": {
+    "city": "Rutherford",
+    "city_ascii": "Rutherford",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1249,
+    "lng": -88.992,
+    "cafes": []
+  },
+  "Gleason": {
+    "city": "Gleason",
+    "city_ascii": "Gleason",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2174,
+    "lng": -88.6107,
+    "cafes": []
+  },
+  "Rossville": {
+    "city": "Rossville",
+    "city_ascii": "Rossville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0324,
+    "lng": -89.5612,
+    "cafes": []
+  },
+  "Winfield": {
+    "city": "Winfield",
+    "city_ascii": "Winfield",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.564,
+    "lng": -84.4455,
+    "cafes": []
+  },
+  "Dodson Branch": {
+    "city": "Dodson Branch",
+    "city_ascii": "Dodson Branch",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3149,
+    "lng": -85.5322,
+    "cafes": []
+  },
+  "Scotts Hill": {
+    "city": "Scotts Hill",
+    "city_ascii": "Scotts Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5188,
+    "lng": -88.2527,
+    "cafes": []
+  },
+  "Alexandria": {
+    "city": "Alexandria",
+    "city_ascii": "Alexandria",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0791,
+    "lng": -86.0382,
+    "cafes": []
+  },
+  "Wildwood": {
+    "city": "Wildwood",
+    "city_ascii": "Wildwood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7999,
+    "lng": -83.8685,
+    "cafes": []
+  },
+  "Mason": {
+    "city": "Mason",
+    "city_ascii": "Mason",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4128,
+    "lng": -89.5412,
+    "cafes": []
+  },
+  "Tellico Plains": {
+    "city": "Tellico Plains",
+    "city_ascii": "Tellico Plains",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3665,
+    "lng": -84.2982,
+    "cafes": []
+  },
+  "Sharon": {
+    "city": "Sharon",
+    "city_ascii": "Sharon",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2349,
+    "lng": -88.8252,
+    "cafes": []
+  },
+  "Coalmont": {
+    "city": "Coalmont",
+    "city_ascii": "Coalmont",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3458,
+    "lng": -85.7113,
+    "cafes": []
+  },
+  "Altamont": {
+    "city": "Altamont",
+    "city_ascii": "Altamont",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4325,
+    "lng": -85.7433,
+    "cafes": []
+  },
+  "Orlinda": {
+    "city": "Orlinda",
+    "city_ascii": "Orlinda",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5938,
+    "lng": -86.7015,
+    "cafes": []
+  },
+  "Obion": {
+    "city": "Obion",
+    "city_ascii": "Obion",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2647,
+    "lng": -89.1948,
+    "cafes": []
+  },
+  "Gainesboro": {
+    "city": "Gainesboro",
+    "city_ascii": "Gainesboro",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3617,
+    "lng": -85.6496,
+    "cafes": []
+  },
+  "Lyles": {
+    "city": "Lyles",
+    "city_ascii": "Lyles",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9195,
+    "lng": -87.345,
+    "cafes": []
+  },
+  "Allardt": {
+    "city": "Allardt",
+    "city_ascii": "Allardt",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3811,
+    "lng": -84.8814,
+    "cafes": []
+  },
+  "Fall Branch": {
+    "city": "Fall Branch",
+    "city_ascii": "Fall Branch",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4161,
+    "lng": -82.6242,
+    "cafes": []
+  },
+  "Friendsville": {
+    "city": "Friendsville",
+    "city_ascii": "Friendsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7563,
+    "lng": -84.1319,
+    "cafes": []
+  },
+  "Flat Top Mountain": {
+    "city": "Flat Top Mountain",
+    "city_ascii": "Flat Top Mountain",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3319,
+    "lng": -85.2,
+    "cafes": []
+  },
+  "Collinwood": {
+    "city": "Collinwood",
+    "city_ascii": "Collinwood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1746,
+    "lng": -87.7442,
+    "cafes": []
+  },
+  "Trezevant": {
+    "city": "Trezevant",
+    "city_ascii": "Trezevant",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.011,
+    "lng": -88.6206,
+    "cafes": []
+  },
+  "Lakewood Park": {
+    "city": "Lakewood Park",
+    "city_ascii": "Lakewood Park",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6481,
+    "lng": -86.1357,
+    "cafes": []
+  },
+  "Clarksburg": {
+    "city": "Clarksburg",
+    "city_ascii": "Clarksburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8705,
+    "lng": -88.3937,
+    "cafes": []
+  },
+  "Embreeville": {
+    "city": "Embreeville",
+    "city_ascii": "Embreeville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1767,
+    "lng": -82.4494,
+    "cafes": []
+  },
+  "Luttrell": {
+    "city": "Luttrell",
+    "city_ascii": "Luttrell",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2096,
+    "lng": -83.7485,
+    "cafes": []
+  },
+  "John Sevier": {
+    "city": "John Sevier",
+    "city_ascii": "John Sevier",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.038,
+    "lng": -83.8257,
+    "cafes": []
+  },
+  "Roan Mountain": {
+    "city": "Roan Mountain",
+    "city_ascii": "Roan Mountain",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1866,
+    "lng": -82.0706,
+    "cafes": []
+  },
+  "Lobelville": {
+    "city": "Lobelville",
+    "city_ascii": "Lobelville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7508,
+    "lng": -87.7958,
+    "cafes": []
+  },
+  "Grimsley": {
+    "city": "Grimsley",
+    "city_ascii": "Grimsley",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2761,
+    "lng": -84.997,
+    "cafes": []
+  },
+  "Eagleville": {
+    "city": "Eagleville",
+    "city_ascii": "Eagleville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7391,
+    "lng": -86.6528,
+    "cafes": []
+  },
+  "New Hope": {
+    "city": "New Hope",
+    "city_ascii": "New Hope",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0044,
+    "lng": -85.6598,
+    "cafes": []
+  },
+  "Bulls Gap": {
+    "city": "Bulls Gap",
+    "city_ascii": "Bulls Gap",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2615,
+    "lng": -83.0788,
+    "cafes": []
+  },
+  "Ridgeside": {
+    "city": "Ridgeside",
+    "city_ascii": "Ridgeside",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0349,
+    "lng": -85.247,
+    "cafes": []
+  },
+  "Fowlkes": {
+    "city": "Fowlkes",
+    "city_ascii": "Fowlkes",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.972,
+    "lng": -89.388,
+    "cafes": []
+  },
+  "Decaturville": {
+    "city": "Decaturville",
+    "city_ascii": "Decaturville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5819,
+    "lng": -88.1195,
+    "cafes": []
+  },
+  "Telford": {
+    "city": "Telford",
+    "city_ascii": "Telford",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2534,
+    "lng": -82.5478,
+    "cafes": []
+  },
+  "Moscow": {
+    "city": "Moscow",
+    "city_ascii": "Moscow",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0611,
+    "lng": -89.3893,
+    "cafes": []
+  },
+  "Crab Orchard": {
+    "city": "Crab Orchard",
+    "city_ascii": "Crab Orchard",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9066,
+    "lng": -84.8847,
+    "cafes": []
+  },
+  "Mooresburg": {
+    "city": "Mooresburg",
+    "city_ascii": "Mooresburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3531,
+    "lng": -83.2362,
+    "cafes": []
+  },
+  "Charleston": {
+    "city": "Charleston",
+    "city_ascii": "Charleston",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2862,
+    "lng": -84.7611,
+    "cafes": []
+  },
+  "Morrison": {
+    "city": "Morrison",
+    "city_ascii": "Morrison",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6048,
+    "lng": -85.9117,
+    "cafes": []
+  },
+  "Summertown": {
+    "city": "Summertown",
+    "city_ascii": "Summertown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4344,
+    "lng": -87.3084,
+    "cafes": []
+  },
+  "St. Joseph": {
+    "city": "St. Joseph",
+    "city_ascii": "St. Joseph",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0331,
+    "lng": -87.5007,
+    "cafes": []
+  },
+  "Sunbright": {
+    "city": "Sunbright",
+    "city_ascii": "Sunbright",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2428,
+    "lng": -84.6798,
+    "cafes": []
+  },
+  "Baneberry": {
+    "city": "Baneberry",
+    "city_ascii": "Baneberry",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0465,
+    "lng": -83.2782,
+    "cafes": []
+  },
+  "Orebank": {
+    "city": "Orebank",
+    "city_ascii": "Orebank",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.556,
+    "lng": -82.4642,
+    "cafes": []
+  },
+  "Riceville": {
+    "city": "Riceville",
+    "city_ascii": "Riceville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3895,
+    "lng": -84.6989,
+    "cafes": []
+  },
+  "Delano": {
+    "city": "Delano",
+    "city_ascii": "Delano",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2545,
+    "lng": -84.5579,
+    "cafes": []
+  },
+  "Puryear": {
+    "city": "Puryear",
+    "city_ascii": "Puryear",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4413,
+    "lng": -88.3324,
+    "cafes": []
+  },
+  "Middleton": {
+    "city": "Middleton",
+    "city_ascii": "Middleton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0593,
+    "lng": -88.8902,
+    "cafes": []
+  },
+  "Eastview": {
+    "city": "Eastview",
+    "city_ascii": "Eastview",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0877,
+    "lng": -88.5518,
+    "cafes": []
+  },
+  "Rockford": {
+    "city": "Rockford",
+    "city_ascii": "Rockford",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8328,
+    "lng": -83.9358,
+    "cafes": []
+  },
+  "Bethel Springs": {
+    "city": "Bethel Springs",
+    "city_ascii": "Bethel Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2342,
+    "lng": -88.6131,
+    "cafes": []
+  },
+  "Saltillo": {
+    "city": "Saltillo",
+    "city_ascii": "Saltillo",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3821,
+    "lng": -88.2396,
+    "cafes": []
+  },
+  "Wartrace": {
+    "city": "Wartrace",
+    "city_ascii": "Wartrace",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5253,
+    "lng": -86.3301,
+    "cafes": []
+  },
+  "Niota": {
+    "city": "Niota",
+    "city_ascii": "Niota",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5171,
+    "lng": -84.5499,
+    "cafes": []
+  },
+  "Palmer": {
+    "city": "Palmer",
+    "city_ascii": "Palmer",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3576,
+    "lng": -85.5656,
+    "cafes": []
+  },
+  "Philadelphia": {
+    "city": "Philadelphia",
+    "city_ascii": "Philadelphia",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6791,
+    "lng": -84.3999,
+    "cafes": []
+  },
+  "Russellville": {
+    "city": "Russellville",
+    "city_ascii": "Russellville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.258,
+    "lng": -83.1966,
+    "cafes": []
+  },
+  "Hollow Rock": {
+    "city": "Hollow Rock",
+    "city_ascii": "Hollow Rock",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0355,
+    "lng": -88.274,
+    "cafes": []
+  },
+  "Kahite": {
+    "city": "Kahite",
+    "city_ascii": "Kahite",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.569,
+    "lng": -84.2358,
+    "cafes": []
+  },
+  "Maury City": {
+    "city": "Maury City",
+    "city_ascii": "Maury City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8145,
+    "lng": -89.2239,
+    "cafes": []
+  },
+  "Ethridge": {
+    "city": "Ethridge",
+    "city_ascii": "Ethridge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3218,
+    "lng": -87.3013,
+    "cafes": []
+  },
+  "Friendship": {
+    "city": "Friendship",
+    "city_ascii": "Friendship",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9084,
+    "lng": -89.2414,
+    "cafes": []
+  },
+  "Vanleer": {
+    "city": "Vanleer",
+    "city_ascii": "Vanleer",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2358,
+    "lng": -87.4446,
+    "cafes": []
+  },
+  "Adams": {
+    "city": "Adams",
+    "city_ascii": "Adams",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5828,
+    "lng": -87.0651,
+    "cafes": []
+  },
+  "Bell Buckle": {
+    "city": "Bell Buckle",
+    "city_ascii": "Bell Buckle",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5908,
+    "lng": -86.3538,
+    "cafes": []
+  },
+  "Chesterfield": {
+    "city": "Chesterfield",
+    "city_ascii": "Chesterfield",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6468,
+    "lng": -88.27,
+    "cafes": []
+  },
+  "Castalian Springs": {
+    "city": "Castalian Springs",
+    "city_ascii": "Castalian Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4012,
+    "lng": -86.3067,
+    "cafes": []
+  },
+  "Clarkrange": {
+    "city": "Clarkrange",
+    "city_ascii": "Clarkrange",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1857,
+    "lng": -85.0096,
+    "cafes": []
+  },
+  "Watauga": {
+    "city": "Watauga",
+    "city_ascii": "Watauga",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3687,
+    "lng": -82.2919,
+    "cafes": []
+  },
+  "Darden": {
+    "city": "Darden",
+    "city_ascii": "Darden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6384,
+    "lng": -88.2261,
+    "cafes": []
+  },
+  "Gates": {
+    "city": "Gates",
+    "city_ascii": "Gates",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8406,
+    "lng": -89.4081,
+    "cafes": []
+  },
+  "Beersheba Springs": {
+    "city": "Beersheba Springs",
+    "city_ascii": "Beersheba Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.459,
+    "lng": -85.6689,
+    "cafes": []
+  },
+  "Finger": {
+    "city": "Finger",
+    "city_ascii": "Finger",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.357,
+    "lng": -88.6169,
+    "cafes": []
+  },
+  "Minor Hill": {
+    "city": "Minor Hill",
+    "city_ascii": "Minor Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0424,
+    "lng": -87.1654,
+    "cafes": []
+  },
+  "Big Sandy": {
+    "city": "Big Sandy",
+    "city_ascii": "Big Sandy",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2327,
+    "lng": -88.085,
+    "cafes": []
+  },
+  "Henry": {
+    "city": "Henry",
+    "city_ascii": "Henry",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2011,
+    "lng": -88.4114,
+    "cafes": []
+  },
+  "Woodland Mills": {
+    "city": "Woodland Mills",
+    "city_ascii": "Woodland Mills",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4766,
+    "lng": -89.1104,
+    "cafes": []
+  },
+  "Petersburg": {
+    "city": "Petersburg",
+    "city_ascii": "Petersburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3173,
+    "lng": -86.6407,
+    "cafes": []
+  },
+  "Parker's Crossroads": {
+    "city": "Parker's Crossroads",
+    "city_ascii": "Parker's Crossroads",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7894,
+    "lng": -88.3905,
+    "cafes": []
+  },
+  "Walnut Grove": {
+    "city": "Walnut Grove",
+    "city_ascii": "Walnut Grove",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.489,
+    "lng": -86.6057,
+    "cafes": []
+  },
+  "Townsend": {
+    "city": "Townsend",
+    "city_ascii": "Townsend",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6763,
+    "lng": -83.7529,
+    "cafes": []
+  },
+  "Grand Junction": {
+    "city": "Grand Junction",
+    "city_ascii": "Grand Junction",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.05,
+    "lng": -89.1889,
+    "cafes": []
+  },
+  "Trimble": {
+    "city": "Trimble",
+    "city_ascii": "Trimble",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.202,
+    "lng": -89.1879,
+    "cafes": []
+  },
+  "Pleasant Hill": {
+    "city": "Pleasant Hill",
+    "city_ascii": "Pleasant Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9767,
+    "lng": -85.1996,
+    "cafes": []
+  },
+  "Gallaway": {
+    "city": "Gallaway",
+    "city_ascii": "Gallaway",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3272,
+    "lng": -89.608,
+    "cafes": []
+  },
+  "McDonald": {
+    "city": "McDonald",
+    "city_ascii": "McDonald",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1088,
+    "lng": -84.9853,
+    "cafes": []
+  },
+  "Gibson": {
+    "city": "Gibson",
+    "city_ascii": "Gibson",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8743,
+    "lng": -88.8437,
+    "cafes": []
+  },
+  "Michie": {
+    "city": "Michie",
+    "city_ascii": "Michie",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0604,
+    "lng": -88.4257,
+    "cafes": []
+  },
+  "Pittman Center": {
+    "city": "Pittman Center",
+    "city_ascii": "Pittman Center",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7595,
+    "lng": -83.3886,
+    "cafes": []
+  },
+  "Cosby": {
+    "city": "Cosby",
+    "city_ascii": "Cosby",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7952,
+    "lng": -83.2457,
+    "cafes": []
+  },
+  "Beech Bluff": {
+    "city": "Beech Bluff",
+    "city_ascii": "Beech Bluff",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6047,
+    "lng": -88.6292,
+    "cafes": []
+  },
+  "Calhoun": {
+    "city": "Calhoun",
+    "city_ascii": "Calhoun",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2993,
+    "lng": -84.7472,
+    "cafes": []
+  },
+  "Gilt Edge": {
+    "city": "Gilt Edge",
+    "city_ascii": "Gilt Edge",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5336,
+    "lng": -89.8303,
+    "cafes": []
+  },
+  "Hornbeak": {
+    "city": "Hornbeak",
+    "city_ascii": "Hornbeak",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3352,
+    "lng": -89.2983,
+    "cafes": []
+  },
+  "Sequatchie": {
+    "city": "Sequatchie",
+    "city_ascii": "Sequatchie",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1115,
+    "lng": -85.5965,
+    "cafes": []
+  },
+  "Stanton": {
+    "city": "Stanton",
+    "city_ascii": "Stanton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4613,
+    "lng": -89.4012,
+    "cafes": []
+  },
+  "Baileyton": {
+    "city": "Baileyton",
+    "city_ascii": "Baileyton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3304,
+    "lng": -82.8292,
+    "cafes": []
+  },
+  "Bethpage": {
+    "city": "Bethpage",
+    "city_ascii": "Bethpage",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4843,
+    "lng": -86.3085,
+    "cafes": []
+  },
+  "Finley": {
+    "city": "Finley",
+    "city_ascii": "Finley",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0357,
+    "lng": -89.4799,
+    "cafes": []
+  },
+  "Williston": {
+    "city": "Williston",
+    "city_ascii": "Williston",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1585,
+    "lng": -89.3754,
+    "cafes": []
+  },
+  "Ooltewah": {
+    "city": "Ooltewah",
+    "city_ascii": "Ooltewah",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0723,
+    "lng": -85.0545,
+    "cafes": []
+  },
+  "Doyle": {
+    "city": "Doyle",
+    "city_ascii": "Doyle",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8553,
+    "lng": -85.512,
+    "cafes": []
+  },
+  "Cumberland City": {
+    "city": "Cumberland City",
+    "city_ascii": "Cumberland City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3828,
+    "lng": -87.6403,
+    "cafes": []
+  },
+  "Flintville": {
+    "city": "Flintville",
+    "city_ascii": "Flintville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0602,
+    "lng": -86.4164,
+    "cafes": []
+  },
+  "Garland": {
+    "city": "Garland",
+    "city_ascii": "Garland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5823,
+    "lng": -89.7525,
+    "cafes": []
+  },
+  "Ducktown": {
+    "city": "Ducktown",
+    "city_ascii": "Ducktown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.036,
+    "lng": -84.3848,
+    "cafes": []
+  },
+  "Elkton": {
+    "city": "Elkton",
+    "city_ascii": "Elkton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0627,
+    "lng": -86.8957,
+    "cafes": []
+  },
+  "Pinson": {
+    "city": "Pinson",
+    "city_ascii": "Pinson",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4818,
+    "lng": -88.7306,
+    "cafes": []
+  },
+  "Sardis": {
+    "city": "Sardis",
+    "city_ascii": "Sardis",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4424,
+    "lng": -88.2913,
+    "cafes": []
+  },
+  "Walland": {
+    "city": "Walland",
+    "city_ascii": "Walland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.732,
+    "lng": -83.8069,
+    "cafes": []
+  },
+  "Bowman": {
+    "city": "Bowman",
+    "city_ascii": "Bowman",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0586,
+    "lng": -85.0305,
+    "cafes": []
+  },
+  "Pelham": {
+    "city": "Pelham",
+    "city_ascii": "Pelham",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3342,
+    "lng": -85.8703,
+    "cafes": []
+  },
+  "Mayland": {
+    "city": "Mayland",
+    "city_ascii": "Mayland",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0459,
+    "lng": -85.2069,
+    "cafes": []
+  },
+  "McLemoresville": {
+    "city": "McLemoresville",
+    "city_ascii": "McLemoresville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9863,
+    "lng": -88.58,
+    "cafes": []
+  },
+  "Copperhill": {
+    "city": "Copperhill",
+    "city_ascii": "Copperhill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 34.9952,
+    "lng": -84.3749,
+    "cafes": []
+  },
+  "Griffith Creek": {
+    "city": "Griffith Creek",
+    "city_ascii": "Griffith Creek",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2761,
+    "lng": -85.5361,
+    "cafes": []
+  },
+  "Fairgarden": {
+    "city": "Fairgarden",
+    "city_ascii": "Fairgarden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8982,
+    "lng": -83.4119,
+    "cafes": []
+  },
+  "Lynnville": {
+    "city": "Lynnville",
+    "city_ascii": "Lynnville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3782,
+    "lng": -87.0054,
+    "cafes": []
+  },
+  "Dowelltown": {
+    "city": "Dowelltown",
+    "city_ascii": "Dowelltown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0125,
+    "lng": -85.9426,
+    "cafes": []
+  },
+  "Cedar Hill": {
+    "city": "Cedar Hill",
+    "city_ascii": "Cedar Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5512,
+    "lng": -87.001,
+    "cafes": []
+  },
+  "Hillsboro": {
+    "city": "Hillsboro",
+    "city_ascii": "Hillsboro",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4085,
+    "lng": -85.9639,
+    "cafes": []
+  },
+  "Liberty": {
+    "city": "Liberty",
+    "city_ascii": "Liberty",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0046,
+    "lng": -85.9779,
+    "cafes": []
+  },
+  "Gadsden": {
+    "city": "Gadsden",
+    "city_ascii": "Gadsden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7768,
+    "lng": -88.9861,
+    "cafes": []
+  },
+  "Burlison": {
+    "city": "Burlison",
+    "city_ascii": "Burlison",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5569,
+    "lng": -89.7847,
+    "cafes": []
+  },
+  "Hickman": {
+    "city": "Hickman",
+    "city_ascii": "Hickman",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1451,
+    "lng": -85.9413,
+    "cafes": []
+  },
+  "Guys": {
+    "city": "Guys",
+    "city_ascii": "Guys",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0191,
+    "lng": -88.5427,
+    "cafes": []
+  },
+  "Counce": {
+    "city": "Counce",
+    "city_ascii": "Counce",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0404,
+    "lng": -88.2717,
+    "cafes": []
+  },
+  "Parrottsville": {
+    "city": "Parrottsville",
+    "city_ascii": "Parrottsville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0082,
+    "lng": -83.0916,
+    "cafes": []
+  },
+  "Leoma": {
+    "city": "Leoma",
+    "city_ascii": "Leoma",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1582,
+    "lng": -87.3464,
+    "cafes": []
+  },
+  "Cottontown": {
+    "city": "Cottontown",
+    "city_ascii": "Cottontown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.449,
+    "lng": -86.5336,
+    "cafes": []
+  },
+  "Cumberland Gap": {
+    "city": "Cumberland Gap",
+    "city_ascii": "Cumberland Gap",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5974,
+    "lng": -83.6658,
+    "cafes": []
+  },
+  "Auburntown": {
+    "city": "Auburntown",
+    "city_ascii": "Auburntown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9511,
+    "lng": -86.0969,
+    "cafes": []
+  },
+  "Stantonville": {
+    "city": "Stantonville",
+    "city_ascii": "Stantonville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1569,
+    "lng": -88.4302,
+    "cafes": []
+  },
+  "Lenox": {
+    "city": "Lenox",
+    "city_ascii": "Lenox",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0876,
+    "lng": -89.4972,
+    "cafes": []
+  },
+  "Hilham": {
+    "city": "Hilham",
+    "city_ascii": "Hilham",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.41,
+    "lng": -85.4421,
+    "cafes": []
+  },
+  "Taft": {
+    "city": "Taft",
+    "city_ascii": "Taft",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0261,
+    "lng": -86.7176,
+    "cafes": []
+  },
+  "Yorkville": {
+    "city": "Yorkville",
+    "city_ascii": "Yorkville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0976,
+    "lng": -89.1183,
+    "cafes": []
+  },
+  "Braden": {
+    "city": "Braden",
+    "city_ascii": "Braden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3685,
+    "lng": -89.5718,
+    "cafes": []
+  },
+  "Toone": {
+    "city": "Toone",
+    "city_ascii": "Toone",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3565,
+    "lng": -88.9542,
+    "cafes": []
+  },
+  "Andersonville": {
+    "city": "Andersonville",
+    "city_ascii": "Andersonville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.197,
+    "lng": -84.033,
+    "cafes": []
+  },
+  "Milledgeville": {
+    "city": "Milledgeville",
+    "city_ascii": "Milledgeville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3776,
+    "lng": -88.366,
+    "cafes": []
+  },
+  "Nixon": {
+    "city": "Nixon",
+    "city_ascii": "Nixon",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1148,
+    "lng": -88.2583,
+    "cafes": []
+  },
+  "Ramer": {
+    "city": "Ramer",
+    "city_ascii": "Ramer",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0718,
+    "lng": -88.6147,
+    "cafes": []
+  },
+  "Fairfield": {
+    "city": "Fairfield",
+    "city_ascii": "Fairfield",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.6208,
+    "lng": -86.3425,
+    "cafes": []
+  },
+  "Petros": {
+    "city": "Petros",
+    "city_ascii": "Petros",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1028,
+    "lng": -84.4504,
+    "cafes": []
+  },
+  "Statesville": {
+    "city": "Statesville",
+    "city_ascii": "Statesville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0198,
+    "lng": -86.1206,
+    "cafes": []
+  },
+  "Hornsby": {
+    "city": "Hornsby",
+    "city_ascii": "Hornsby",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2285,
+    "lng": -88.8293,
+    "cafes": []
+  },
+  "Centertown": {
+    "city": "Centertown",
+    "city_ascii": "Centertown",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7251,
+    "lng": -85.9197,
+    "cafes": []
+  },
+  "Norene": {
+    "city": "Norene",
+    "city_ascii": "Norene",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0541,
+    "lng": -86.2382,
+    "cafes": []
+  },
+  "Bon Air": {
+    "city": "Bon Air",
+    "city_ascii": "Bon Air",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9359,
+    "lng": -85.3644,
+    "cafes": []
+  },
+  "Pocahontas": {
+    "city": "Pocahontas",
+    "city_ascii": "Pocahontas",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0547,
+    "lng": -88.8019,
+    "cafes": []
+  },
+  "Rives": {
+    "city": "Rives",
+    "city_ascii": "Rives",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.356,
+    "lng": -89.0495,
+    "cafes": []
+  },
+  "Saulsbury": {
+    "city": "Saulsbury",
+    "city_ascii": "Saulsbury",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0488,
+    "lng": -89.0884,
+    "cafes": []
+  },
+  "Medon": {
+    "city": "Medon",
+    "city_ascii": "Medon",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4556,
+    "lng": -88.8636,
+    "cafes": []
+  },
+  "Graball": {
+    "city": "Graball",
+    "city_ascii": "Graball",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4838,
+    "lng": -86.4396,
+    "cafes": []
+  },
+  "Westpoint": {
+    "city": "Westpoint",
+    "city_ascii": "Westpoint",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1349,
+    "lng": -87.5377,
+    "cafes": []
+  },
+  "Morris Chapel": {
+    "city": "Morris Chapel",
+    "city_ascii": "Morris Chapel",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3139,
+    "lng": -88.3558,
+    "cafes": []
+  },
+  "Iron City": {
+    "city": "Iron City",
+    "city_ascii": "Iron City",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0227,
+    "lng": -87.5855,
+    "cafes": []
+  },
+  "Randolph": {
+    "city": "Randolph",
+    "city_ascii": "Randolph",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5195,
+    "lng": -89.8825,
+    "cafes": []
+  },
+  "New Deal": {
+    "city": "New Deal",
+    "city_ascii": "New Deal",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5139,
+    "lng": -86.5629,
+    "cafes": []
+  },
+  "Ocoee": {
+    "city": "Ocoee",
+    "city_ascii": "Ocoee",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1235,
+    "lng": -84.7167,
+    "cafes": []
+  },
+  "Briceville": {
+    "city": "Briceville",
+    "city_ascii": "Briceville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1777,
+    "lng": -84.1837,
+    "cafes": []
+  },
+  "Farner": {
+    "city": "Farner",
+    "city_ascii": "Farner",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1543,
+    "lng": -84.3191,
+    "cafes": []
+  },
+  "Elgin": {
+    "city": "Elgin",
+    "city_ascii": "Elgin",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3285,
+    "lng": -84.6091,
+    "cafes": []
+  },
+  "Samburg": {
+    "city": "Samburg",
+    "city_ascii": "Samburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3823,
+    "lng": -89.3533,
+    "cafes": []
+  },
+  "Oakdale": {
+    "city": "Oakdale",
+    "city_ascii": "Oakdale",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9895,
+    "lng": -84.5573,
+    "cafes": []
+  },
+  "Chewalla": {
+    "city": "Chewalla",
+    "city_ascii": "Chewalla",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0209,
+    "lng": -88.6426,
+    "cafes": []
+  },
+  "Blanche": {
+    "city": "Blanche",
+    "city_ascii": "Blanche",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0437,
+    "lng": -86.7532,
+    "cafes": []
+  },
+  "Prospect": {
+    "city": "Prospect",
+    "city_ascii": "Prospect",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0219,
+    "lng": -86.999,
+    "cafes": []
+  },
+  "Enville": {
+    "city": "Enville",
+    "city_ascii": "Enville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3911,
+    "lng": -88.4303,
+    "cafes": []
+  },
+  "Big Rock": {
+    "city": "Big Rock",
+    "city_ascii": "Big Rock",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5767,
+    "lng": -87.7579,
+    "cafes": []
+  },
+  "Dukedom": {
+    "city": "Dukedom",
+    "city_ascii": "Dukedom",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4949,
+    "lng": -88.7163,
+    "cafes": []
+  },
+  "Coker Creek": {
+    "city": "Coker Creek",
+    "city_ascii": "Coker Creek",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.2632,
+    "lng": -84.2882,
+    "cafes": []
+  },
+  "Bransford": {
+    "city": "Bransford",
+    "city_ascii": "Bransford",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.5133,
+    "lng": -86.2853,
+    "cafes": []
+  },
+  "Butler": {
+    "city": "Butler",
+    "city_ascii": "Butler",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3562,
+    "lng": -82.0347,
+    "cafes": []
+  },
+  "Mitchellville": {
+    "city": "Mitchellville",
+    "city_ascii": "Mitchellville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.6344,
+    "lng": -86.54,
+    "cafes": []
+  },
+  "Wildersville": {
+    "city": "Wildersville",
+    "city_ascii": "Wildersville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.7766,
+    "lng": -88.3561,
+    "cafes": []
+  },
+  "Palmersville": {
+    "city": "Palmersville",
+    "city_ascii": "Palmersville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4084,
+    "lng": -88.5842,
+    "cafes": []
+  },
+  "Hickory Valley": {
+    "city": "Hickory Valley",
+    "city_ascii": "Hickory Valley",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.155,
+    "lng": -89.126,
+    "cafes": []
+  },
+  "Luray": {
+    "city": "Luray",
+    "city_ascii": "Luray",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.6017,
+    "lng": -88.5703,
+    "cafes": []
+  },
+  "Bogota": {
+    "city": "Bogota",
+    "city_ascii": "Bogota",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.162,
+    "lng": -89.439,
+    "cafes": []
+  },
+  "Slayden": {
+    "city": "Slayden",
+    "city_ascii": "Slayden",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2913,
+    "lng": -87.4656,
+    "cafes": []
+  },
+  "Greenvale": {
+    "city": "Greenvale",
+    "city_ascii": "Greenvale",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0055,
+    "lng": -86.2012,
+    "cafes": []
+  },
+  "Viola": {
+    "city": "Viola",
+    "city_ascii": "Viola",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5387,
+    "lng": -85.8604,
+    "cafes": []
+  },
+  "Eva": {
+    "city": "Eva",
+    "city_ascii": "Eva",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.0687,
+    "lng": -88.0081,
+    "cafes": []
+  },
+  "Walterhill": {
+    "city": "Walterhill",
+    "city_ascii": "Walterhill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9573,
+    "lng": -86.3679,
+    "cafes": []
+  },
+  "Buchanan": {
+    "city": "Buchanan",
+    "city_ascii": "Buchanan",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.434,
+    "lng": -88.2027,
+    "cafes": []
+  },
+  "Helenwood": {
+    "city": "Helenwood",
+    "city_ascii": "Helenwood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.4227,
+    "lng": -84.5429,
+    "cafes": []
+  },
+  "Wrigley": {
+    "city": "Wrigley",
+    "city_ascii": "Wrigley",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8997,
+    "lng": -87.3536,
+    "cafes": []
+  },
+  "Conasauga": {
+    "city": "Conasauga",
+    "city_ascii": "Conasauga",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0052,
+    "lng": -84.7276,
+    "cafes": []
+  },
+  "Shiloh": {
+    "city": "Shiloh",
+    "city_ascii": "Shiloh",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1104,
+    "lng": -88.3638,
+    "cafes": []
+  },
+  "Robbins": {
+    "city": "Robbins",
+    "city_ascii": "Robbins",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3536,
+    "lng": -84.5839,
+    "cafes": []
+  },
+  "Normandy": {
+    "city": "Normandy",
+    "city_ascii": "Normandy",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4523,
+    "lng": -86.2582,
+    "cafes": []
+  },
+  "Tuckers Crossroads": {
+    "city": "Tuckers Crossroads",
+    "city_ascii": "Tuckers Crossroads",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.2066,
+    "lng": -86.1676,
+    "cafes": []
+  },
+  "Miston": {
+    "city": "Miston",
+    "city_ascii": "Miston",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1604,
+    "lng": -89.494,
+    "cafes": []
+  },
+  "Dellrose": {
+    "city": "Dellrose",
+    "city_ascii": "Dellrose",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1159,
+    "lng": -86.8036,
+    "cafes": []
+  },
+  "Belvidere": {
+    "city": "Belvidere",
+    "city_ascii": "Belvidere",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1281,
+    "lng": -86.1881,
+    "cafes": []
+  },
+  "Frankewing": {
+    "city": "Frankewing",
+    "city_ascii": "Frankewing",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1943,
+    "lng": -86.857,
+    "cafes": []
+  },
+  "Essary Springs": {
+    "city": "Essary Springs",
+    "city_ascii": "Essary Springs",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0113,
+    "lng": -88.8025,
+    "cafes": []
+  },
+  "Lavinia": {
+    "city": "Lavinia",
+    "city_ascii": "Lavinia",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8508,
+    "lng": -88.6527,
+    "cafes": []
+  },
+  "Silerton": {
+    "city": "Silerton",
+    "city_ascii": "Silerton",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.3424,
+    "lng": -88.8098,
+    "cafes": []
+  },
+  "Huron": {
+    "city": "Huron",
+    "city_ascii": "Huron",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.5935,
+    "lng": -88.5361,
+    "cafes": []
+  },
+  "Yuma": {
+    "city": "Yuma",
+    "city_ascii": "Yuma",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.8438,
+    "lng": -88.3372,
+    "cafes": []
+  },
+  "Mercer": {
+    "city": "Mercer",
+    "city_ascii": "Mercer",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4745,
+    "lng": -89.0394,
+    "cafes": []
+  },
+  "Cottage Grove": {
+    "city": "Cottage Grove",
+    "city_ascii": "Cottage Grove",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3783,
+    "lng": -88.4786,
+    "cafes": []
+  },
+  "Orme": {
+    "city": "Orme",
+    "city_ascii": "Orme",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0147,
+    "lng": -85.8048,
+    "cafes": []
+  },
+  "La Grange": {
+    "city": "La Grange",
+    "city_ascii": "La Grange",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0476,
+    "lng": -89.2409,
+    "cafes": []
+  },
+  "Whiteside": {
+    "city": "Whiteside",
+    "city_ascii": "Whiteside",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 34.9946,
+    "lng": -85.4868,
+    "cafes": []
+  },
+  "Dancyville": {
+    "city": "Dancyville",
+    "city_ascii": "Dancyville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4067,
+    "lng": -89.297,
+    "cafes": []
+  },
+  "Holladay": {
+    "city": "Holladay",
+    "city_ascii": "Holladay",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.872,
+    "lng": -88.1449,
+    "cafes": []
+  },
+  "Whitlock": {
+    "city": "Whitlock",
+    "city_ascii": "Whitlock",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3707,
+    "lng": -88.3612,
+    "cafes": []
+  },
+  "Childers Hill": {
+    "city": "Childers Hill",
+    "city_ascii": "Childers Hill",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0816,
+    "lng": -88.3267,
+    "cafes": []
+  },
+  "Wynnburg": {
+    "city": "Wynnburg",
+    "city_ascii": "Wynnburg",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.3301,
+    "lng": -89.4686,
+    "cafes": []
+  },
+  "Jacks Creek": {
+    "city": "Jacks Creek",
+    "city_ascii": "Jacks Creek",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.4691,
+    "lng": -88.5146,
+    "cafes": []
+  },
+  "Sherwood": {
+    "city": "Sherwood",
+    "city_ascii": "Sherwood",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.0749,
+    "lng": -85.9259,
+    "cafes": []
+  }
+}

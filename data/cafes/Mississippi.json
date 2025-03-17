@@ -1,0 +1,4092 @@
+{
+  "Hattiesburg": {
+    "city": "Hattiesburg",
+    "city_ascii": "Hattiesburg",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.3074,
+    "lng": -89.317,
+    "cafes": [
+      {
+        "name": "Cattiesburg Cafe",
+        "address": "5268 Old Hwy 11, Hattiesburg, MS 39402, USA",
+        "rating": 4.8,
+        "user_ratings_total": 44,
+        "website": "https://cattiesburgcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=18362029061770866421",
+        "lat": 31.312287499999996,
+        "lng": -89.40973559999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Alley Cat",
+            "rating": 5,
+            "text": {
+              "text": "Nicole is such a big help!! You can definitely tell that she loves these babies. She is also incredibly knowledgeable as far as the vetting. Excellent customer service along with a beautiful welcoming smile and kind eyes!! Nicole truly will treat you like a family member and strive to help these babies find forever homes. Thank you Nicole for making my experience here an unforgettable outstanding one. The love you have in your heart for these fur babies definitely shines bright. Thank you for the friendliest customer service I have ever received. If you’re in the market for a kitty, I definitely recommend Nicole to help you find the right fit.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Joelle Anderson",
+            "rating": 5,
+            "text": {
+              "text": "They’re the best! I go here on Fridays during my lunch break for my end of the work week serotonin boost and they always deliver. 20/10 would recommend!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Aaron Bullock",
+            "rating": 5,
+            "text": {
+              "text": "My wife and I LOVE this place!! We adopted 3 cats from Cattiesburg Cafe over the past year. And all of them are wonderful. I love that the cafe gives you an opportunity to really know the cats before you commit. Plus it’s just a great place to relax if you aren’t looking to adopt! 10/10 would recommend!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1bECgoecIeLvzjmF-cPJrVyCcEWRe-aJcVVoyLCe4vTlfJ2BY8ZSnFc4JwTZhjw3weIW-i6YUvF895RuiAuif_lhRAln4ADbaHS5WbyYXebl2SHGl8ZAosrRafzXxDf5kYIgoqe1A2gaqm8bXLIZd7KwxWiprqVrZMPfaRtbWf5gBts5R33Y6VXXhlvStnAb3Bf2qwNG0uIOI7rfvJ5o8pQ5NmV-yYw1Z6khnunpqD118JrB9ra-gujQV5AbcVunKBTEaQbiGEAc8RueBt4glRyZJ4zWPzNAlOeW9qJMyWTknzhe0Q5unDnRjgVxT0Q7V9PWUApo_vhg1oXzF5XrmiHOWSCy7GkBLcNmFhCGcWMzGaP52_TtyWZNILDhm_Yf-Sa__erVCng0MaIKClHcDKrW5dhM49Hhfq&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Café 1321 | Cat Café",
+        "address": "98 S 11th Ave, Hattiesburg, MS 39401, USA",
+        "rating": "N/A",
+        "user_ratings_total": 0,
+        "website": "https://cafe1321catcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=16696456705500035857",
+        "lat": 31.3241578,
+        "lng": -89.3068007,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2e_4cdvAjiE0sP6icWnc6Td8oYZf-vY7ko3Gei0kd4924LQcAdIPRnZYqZxc5A6AJjhF4uZ8vlWA4FsAqgQw4PW-YQYqxgcfQm22BQIDioUZ_S5ZqP5ob2AKuHHrBRtrxRGEerhUBCpQjZjPlcx_TePX0w6VRxDDOKAmvoyOWWbC34XjWaMzu97FyMJM9kFA-Kurnm2NwzhnBr95wzeAka8pP34ZwCs4hE12eWbZlNq2YHVi1ixd9XtlJ9nxKPrsu_0XveFgCRdhHIPklE-gy6oZkapbuebf0PFFbgYVolQg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Gulfport": {
+    "city": "Gulfport",
+    "city_ascii": "Gulfport",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4274,
+    "lng": -89.0704,
+    "cafes": [
+      {
+        "name": "Cat Island Coffeehouse Gulfport",
+        "address": "360 Courthouse Rd C, Gulfport, MS 39507, USA",
+        "rating": 4.9,
+        "user_ratings_total": 114,
+        "website": "http://catislandcoffeehouse.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=12870846509337446613",
+        "lat": 30.384351499999998,
+        "lng": -89.0436101,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Tanya “Mocadulce” Bell",
+            "rating": 5,
+            "text": {
+              "text": "This is such a great coffee shop. It has a very warm and welcome environment. Everyone was very nice. Service was excellent!!! The coffee and food were delicious. There are books and books posters framed on the walls. I will definitely visit again.",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Jim Webb",
+            "rating": 5,
+            "text": {
+              "text": "The atmosphere is wonderful!!!  Very relaxing and have a delicious gourmet coffee. I've been all over the world and this place impressed me.  The food was fresh and flavorful. They even asked if I'm a sweet or non sweet coffee drinker which majority of places never do.  If you are looking for good food,coffee, and atmosphere.  You have to give this place a try.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Chels F",
+            "rating": 5,
+            "text": {
+              "text": "Everything you want in a cozy coffee house. The staff are all warm and welcoming. The Mississippi Mocha is perfect, as is the amazing buttery croissant.  I chose sausage, egg, and chedar. It was flaky gooey perfection.  The book collection is refreshingly diverse and has a little something for everyone, and yes, you are welcome to read through one while you enjoy your food and beverages.",
+              "languageCode": "en"
+            },
+            "time": "11 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3Y2-4BaFpHpbGqwKR5T6tg5jxPBgUhdENkXJlVEvSZCa_ar6TGq7oRLmjfiW-b6NADhxFQlZf8tAhHfBoLE9ngjYQIdoPNAJfXSutGmwQCnkWmQiBcp0yEuv-0nDL_PfOClFgAttwsJLw4KRvgCMNfAhNNZFYkSftqGevDl2fQ50VUDT4FZ3myidIYRZIwwjmt6JIOVtj7hXFz_zRSMPIxWbMN1PM3OzV5uaj0qBLePW422IQbT39K4fasvn35Wyk7QKqsfqmVu0ETbFy-welfYLLUy9zSoQgU6M39VegALA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Pass Christian": {
+    "city": "Pass Christian",
+    "city_ascii": "Pass Christian",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.327,
+    "lng": -89.2436,
+    "cafes": [
+      {
+        "name": "Cat Island Coffeehouse",
+        "address": "300 E Scenic Dr, Pass Christian, MS 39571, USA",
+        "rating": 4.7,
+        "user_ratings_total": 719,
+        "website": "http://catislandcoffeehouse.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=1409821781069057307",
+        "lat": 30.3161116,
+        "lng": -89.2416259,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Nicholas Dittmar",
+            "rating": 5,
+            "text": {
+              "text": "Really cool coffee shop/book store. If you're looking for a cozy place to grab some coffee and read a book, then look no further. This place is somewhat quiet and very cozy. I could hang out here all day drinking coffee while reading a book.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Mark Losset",
+            "rating": 5,
+            "text": {
+              "text": "There are a few great coffee shops along the Gulf Coast of Mississippi and Cat Island Coffee Shop ranks near the top. The coffee and Lattes are great but the views of the MS sound are what sets it apart. The seating is limited but we have always had a place to sit and an excellent experience. It's a great place to stop off when driving the beach on a pretty day.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "R.B. Chaffee",
+            "rating": 5,
+            "text": {
+              "text": "A very special little Coffee and Book haven situated across the Beach Hwy from the Gulf and the Pass Christian Harbor.  It is located right on the corner.\nThis place is so warm and comfortable. While you enjoy their wonderful coffee brews accompanied  by selections of b'fast sandwiches or cobbler or muffins, etc. I was in town visiting a great couple that live just down the elevated road. They walk down to the coffeehouse just about every day. That is informative about the coffee consistency, because my buddy, Artie is very frugal...",
+              "languageCode": "en"
+            },
+            "time": "9 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ31l_BcMpzU-qbZZJe36OcHNJXL-f3ew4jfP7P5prOdDwZ3X7C966gdeY5tNtH9_qw7thxWwXIcS77sCriUr-Dy25mUezM6d94534W2sayVRnjbEOURwQZF-egqjgr16mkC_aEz_IqLFVhk6rGIeZTAkJ6muym5Ac2rAcQMLLsWNmODivGM7SoWNkRpNlhgPxT5ti0ueBLi2TUdW_eoFuW4ZvAx8skbj84_mJxXyh1SemWecI2Nx7RnFtra2RomgDGpfpcQUKpXCYQpmFfkmrGnqdzr0pxDUDQNX6QF10VoQyEkInTIEVkqulNdTNoDDJkQ3AxzJQUqpxyPwil8C8RUJ3BVDjsW9sLqT33iZYw9YxuyO7Tc1GST1s8Jt6Pj-kpb2zZTQBYasVMJs6RbQTucwAeWCQPFPeu-&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Flowood": {
+    "city": "Flowood",
+    "city_ascii": "Flowood",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3359,
+    "lng": -90.0802,
+    "cafes": [
+      {
+        "name": "Fat Cat Art Cafe",
+        "address": "5352 MS-25 #1700, Flowood, MS 39232, USA",
+        "rating": 4.3,
+        "user_ratings_total": 73,
+        "website": "http://www.fatcatartcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=8292212033220672922",
+        "lat": 32.3521453,
+        "lng": -90.0338628,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Farah Jaentschke",
+            "rating": 5,
+            "text": {
+              "text": "I had such an amazing time at Fat Cat this Valentine’s Day! Even though it was super busy, the owner, Pepper,  took time to speak to us and even captured a picture of us painting! She was so was so welcoming and helped make my Valentine’s Day painting date a memory I will always cherish.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Caroline Kimbro",
+            "rating": 1,
+            "text": {
+              "text": "We did a pottery class here and it was a great experience! Andrea was an amazing teacher. However during the last part of the class, the owner of the shop came in and was incredibly controlling and condescending. It really threw off the energy of the group and I don’t think we’ll be going back.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Steve Tuttle",
+            "rating": 5,
+            "text": {
+              "text": "My wife & I did the canvas painting & it was awesome! You have a template so that you don’t have to be an expert w/ perspective or proportionality - you just paint!\n\nAnd it’s not paint by number: you are free to mix paints to achieve what you want. I was so delighted with the results! A thoroughly enjoyable evening.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0LrrNFYH51DwmWrHUtIk0ydv3f1kuqI8SoyUXA9digkcrMSHtOFh3UINYPIuYlhbBBPXozpYDj-e_oKbZwuX70im8a_p8gMQuKokDS4KFZJeKr--NLC6cfXghLAz6KGmIaiQIqI40EV2_Xna5V-SZvgcvVTskEiiHxriArtDQnaiNUu0Hg2HIA4jMHrE0GCsHs4GRlHw91YzYsmgscbNqWZRF24OBvrHSCGm56_6UJHYFvN1My2vm82Y5xw9qgKTDx8u0dKTmo9H_0-Fy44RbU_vOPN0jEubtKcGX2gVKvfVg9XoQ3wUxBDh4tF4BRQ8WW-fzWQYLRSKahz2nsA2WyyCUa0TsbI-LzkCn0XYeImTKg7u6emWiwiZvmD15DjBKkW29ZWAj7cQMU6_82MunEJZyMYrUiYWzk&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3157,
+    "lng": -90.2125,
+    "cafes": [
+      {
+        "name": "Crazy Cat Eat Up",
+        "address": "1491 Canton Mart Rd, Jackson, MS 39211, USA",
+        "rating": 4.6,
+        "user_ratings_total": 175,
+        "website": "http://www.crazycateatup.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=10483785751895317612",
+        "lat": 32.3657337,
+        "lng": -90.14717309999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Nonie G",
+            "rating": 5,
+            "text": {
+              "text": "What an amazing place to eat and hang out with your friends. The food is DIVINE and the atmosphere is great!! The wait staff are absolutely wonderful. Very friendly and helpful. The food tho...we have some pretty amazing places to satisfy our tummies in JXN and the surrounding areas. This place is easily in the top 3. Thinking I will even put it at the very top of my own personal list. It will not disappoint, you MUST give them a try!! Get the Crazy Good Veggie Sammie 😉",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Marjorie Pevey",
+            "rating": 5,
+            "text": {
+              "text": "This was such a cute place to have brunch. We got there at almost closing and our waitress sat us down without complaining she was so nice and very helpful with recommendations.  We didn't feel rushed we kept an eye on the time ourselves. It truly was a wonderful experience from food to service!!",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Charlotte Walker",
+            "rating": 5,
+            "text": {
+              "text": "Fun place for unique treats. Our girls' lunch was a big hit. But show up early or be prepared to wait- it's a popular spot. But definitely worth the wait.",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3qF9O8HhOT_KzAH4WfL5R5C_AH55KWARUIembir5amBId_IQN-nLhQjFcUToEky04TpZ91mCD1V6H9c1Q-_Z--Qw78gdbcL-z0uZ64QQkNJyEYg2dNGI0iVomVUbklmgHYf5JiIjxlfi7dK0arZpAu4ZecRZDBVtpGteedVHA1jJNVEcdi42n0WiSHlK0bxJOh6ln_6en4cCqqVJqwY6kRBWxyCKyt7iN0vFx1y6bQGvVS55EwNqsDgCl7H3RmTHirKdBOSqK5RHxhspZQbiIMsV0rblyoGJ0RcYMMO4LrFg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Southaven": {
+    "city": "Southaven",
+    "city_ascii": "Southaven",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.9514,
+    "lng": -89.9786,
+    "cafes": []
+  },
+  "Biloxi": {
+    "city": "Biloxi",
+    "city_ascii": "Biloxi",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4426,
+    "lng": -88.9514,
+    "cafes": []
+  },
+  "Olive Branch": {
+    "city": "Olive Branch",
+    "city_ascii": "Olive Branch",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.961,
+    "lng": -89.8469,
+    "cafes": []
+  },
+  "Tupelo": {
+    "city": "Tupelo",
+    "city_ascii": "Tupelo",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2692,
+    "lng": -88.7318,
+    "cafes": []
+  },
+  "Meridian": {
+    "city": "Meridian",
+    "city_ascii": "Meridian",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3846,
+    "lng": -88.6896,
+    "cafes": []
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.385,
+    "lng": -91.0514,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.4738,
+    "lng": -90.13,
+    "cafes": []
+  },
+  "Pearl": {
+    "city": "Pearl",
+    "city_ascii": "Pearl",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.273,
+    "lng": -90.0918,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.354,
+    "lng": -90.3403,
+    "cafes": []
+  },
+  "Horn Lake": {
+    "city": "Horn Lake",
+    "city_ascii": "Horn Lake",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.9512,
+    "lng": -90.0501,
+    "cafes": []
+  },
+  "Oxford": {
+    "city": "Oxford",
+    "city_ascii": "Oxford",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3627,
+    "lng": -89.5336,
+    "cafes": []
+  },
+  "Starkville": {
+    "city": "Starkville",
+    "city_ascii": "Starkville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4608,
+    "lng": -88.8297,
+    "cafes": []
+  },
+  "Brandon": {
+    "city": "Brandon",
+    "city_ascii": "Brandon",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.2778,
+    "lng": -89.9896,
+    "cafes": []
+  },
+  "Ridgeland": {
+    "city": "Ridgeland",
+    "city_ascii": "Ridgeland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.4236,
+    "lng": -90.1481,
+    "cafes": []
+  },
+  "Columbus": {
+    "city": "Columbus",
+    "city_ascii": "Columbus",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5088,
+    "lng": -88.4096,
+    "cafes": []
+  },
+  "Pascagoula": {
+    "city": "Pascagoula",
+    "city_ascii": "Pascagoula",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.3666,
+    "lng": -88.5506,
+    "cafes": []
+  },
+  "Vicksburg": {
+    "city": "Vicksburg",
+    "city_ascii": "Vicksburg",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3173,
+    "lng": -90.8868,
+    "cafes": []
+  },
+  "Gautier": {
+    "city": "Gautier",
+    "city_ascii": "Gautier",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4106,
+    "lng": -88.6568,
+    "cafes": []
+  },
+  "Ocean Springs": {
+    "city": "Ocean Springs",
+    "city_ascii": "Ocean Springs",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4082,
+    "lng": -88.7861,
+    "cafes": []
+  },
+  "Hernando": {
+    "city": "Hernando",
+    "city_ascii": "Hernando",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.85,
+    "lng": -89.9921,
+    "cafes": []
+  },
+  "Laurel": {
+    "city": "Laurel",
+    "city_ascii": "Laurel",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.6956,
+    "lng": -89.1449,
+    "cafes": []
+  },
+  "Long Beach": {
+    "city": "Long Beach",
+    "city_ascii": "Long Beach",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.3608,
+    "lng": -89.1651,
+    "cafes": []
+  },
+  "Corinth": {
+    "city": "Corinth",
+    "city_ascii": "Corinth",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.9474,
+    "lng": -88.5143,
+    "cafes": []
+  },
+  "Clarksdale": {
+    "city": "Clarksdale",
+    "city_ascii": "Clarksdale",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.1933,
+    "lng": -90.5693,
+    "cafes": []
+  },
+  "Natchez": {
+    "city": "Natchez",
+    "city_ascii": "Natchez",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5437,
+    "lng": -91.3867,
+    "cafes": []
+  },
+  "Greenwood": {
+    "city": "Greenwood",
+    "city_ascii": "Greenwood",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5126,
+    "lng": -90.1993,
+    "cafes": []
+  },
+  "D'Iberville": {
+    "city": "D'Iberville",
+    "city_ascii": "D'Iberville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4709,
+    "lng": -88.9011,
+    "cafes": []
+  },
+  "Byram": {
+    "city": "Byram",
+    "city_ascii": "Byram",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.189,
+    "lng": -90.2861,
+    "cafes": []
+  },
+  "Grenada": {
+    "city": "Grenada",
+    "city_ascii": "Grenada",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7816,
+    "lng": -89.813,
+    "cafes": []
+  },
+  "McComb": {
+    "city": "McComb",
+    "city_ascii": "McComb",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.2442,
+    "lng": -90.4716,
+    "cafes": []
+  },
+  "Moss Point": {
+    "city": "Moss Point",
+    "city_ascii": "Moss Point",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4241,
+    "lng": -88.5289,
+    "cafes": []
+  },
+  "Picayune": {
+    "city": "Picayune",
+    "city_ascii": "Picayune",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.5322,
+    "lng": -89.6724,
+    "cafes": []
+  },
+  "Brookhaven": {
+    "city": "Brookhaven",
+    "city_ascii": "Brookhaven",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5803,
+    "lng": -90.4432,
+    "cafes": []
+  },
+  "Petal": {
+    "city": "Petal",
+    "city_ascii": "Petal",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.3477,
+    "lng": -89.2359,
+    "cafes": []
+  },
+  "Canton": {
+    "city": "Canton",
+    "city_ascii": "Canton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5975,
+    "lng": -90.0317,
+    "cafes": []
+  },
+  "Cleveland": {
+    "city": "Cleveland",
+    "city_ascii": "Cleveland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.744,
+    "lng": -90.7285,
+    "cafes": []
+  },
+  "Yazoo City": {
+    "city": "Yazoo City",
+    "city_ascii": "Yazoo City",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.8619,
+    "lng": -90.4075,
+    "cafes": []
+  },
+  "Bay St. Louis": {
+    "city": "Bay St. Louis",
+    "city_ascii": "Bay St. Louis",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.3281,
+    "lng": -89.3774,
+    "cafes": []
+  },
+  "West Point": {
+    "city": "West Point",
+    "city_ascii": "West Point",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6064,
+    "lng": -88.6572,
+    "cafes": []
+  },
+  "Indianola": {
+    "city": "Indianola",
+    "city_ascii": "Indianola",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4492,
+    "lng": -90.6447,
+    "cafes": []
+  },
+  "Diamondhead": {
+    "city": "Diamondhead",
+    "city_ascii": "Diamondhead",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.3791,
+    "lng": -89.3707,
+    "cafes": []
+  },
+  "Booneville": {
+    "city": "Booneville",
+    "city_ascii": "Booneville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6643,
+    "lng": -88.5684,
+    "cafes": []
+  },
+  "Senatobia": {
+    "city": "Senatobia",
+    "city_ascii": "Senatobia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6081,
+    "lng": -89.9762,
+    "cafes": []
+  },
+  "Gulf Hills": {
+    "city": "Gulf Hills",
+    "city_ascii": "Gulf Hills",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4367,
+    "lng": -88.815,
+    "cafes": []
+  },
+  "St. Martin": {
+    "city": "St. Martin",
+    "city_ascii": "St. Martin",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.44,
+    "lng": -88.8652,
+    "cafes": []
+  },
+  "New Albany": {
+    "city": "New Albany",
+    "city_ascii": "New Albany",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.4909,
+    "lng": -89.0201,
+    "cafes": []
+  },
+  "Batesville": {
+    "city": "Batesville",
+    "city_ascii": "Batesville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3148,
+    "lng": -89.9249,
+    "cafes": []
+  },
+  "Richland": {
+    "city": "Richland",
+    "city_ascii": "Richland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.2309,
+    "lng": -90.1591,
+    "cafes": []
+  },
+  "Waveland": {
+    "city": "Waveland",
+    "city_ascii": "Waveland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.293,
+    "lng": -89.3905,
+    "cafes": []
+  },
+  "Philadelphia": {
+    "city": "Philadelphia",
+    "city_ascii": "Philadelphia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.7761,
+    "lng": -89.1221,
+    "cafes": []
+  },
+  "Kosciusko": {
+    "city": "Kosciusko",
+    "city_ascii": "Kosciusko",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.0585,
+    "lng": -89.5893,
+    "cafes": []
+  },
+  "Holly Springs": {
+    "city": "Holly Springs",
+    "city_ascii": "Holly Springs",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.7768,
+    "lng": -89.4466,
+    "cafes": []
+  },
+  "Amory": {
+    "city": "Amory",
+    "city_ascii": "Amory",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9814,
+    "lng": -88.4823,
+    "cafes": []
+  },
+  "Gulf Park Estates": {
+    "city": "Gulf Park Estates",
+    "city_ascii": "Gulf Park Estates",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.3802,
+    "lng": -88.7581,
+    "cafes": []
+  },
+  "West Hattiesburg": {
+    "city": "West Hattiesburg",
+    "city_ascii": "West Hattiesburg",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.3114,
+    "lng": -89.374,
+    "cafes": []
+  },
+  "Latimer": {
+    "city": "Latimer",
+    "city_ascii": "Latimer",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4974,
+    "lng": -88.8607,
+    "cafes": []
+  },
+  "Louisville": {
+    "city": "Louisville",
+    "city_ascii": "Louisville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.1224,
+    "lng": -89.0553,
+    "cafes": []
+  },
+  "Columbia": {
+    "city": "Columbia",
+    "city_ascii": "Columbia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.2564,
+    "lng": -89.8266,
+    "cafes": []
+  },
+  "Pontotoc": {
+    "city": "Pontotoc",
+    "city_ascii": "Pontotoc",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2531,
+    "lng": -89.0091,
+    "cafes": []
+  },
+  "Leakesville": {
+    "city": "Leakesville",
+    "city_ascii": "Leakesville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.1497,
+    "lng": -88.5557,
+    "cafes": []
+  },
+  "Ripley": {
+    "city": "Ripley",
+    "city_ascii": "Ripley",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.7321,
+    "lng": -88.9444,
+    "cafes": []
+  },
+  "Forest": {
+    "city": "Forest",
+    "city_ascii": "Forest",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3595,
+    "lng": -89.4761,
+    "cafes": []
+  },
+  "Vancleave": {
+    "city": "Vancleave",
+    "city_ascii": "Vancleave",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.5483,
+    "lng": -88.6675,
+    "cafes": []
+  },
+  "Saltillo": {
+    "city": "Saltillo",
+    "city_ascii": "Saltillo",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.379,
+    "lng": -88.6938,
+    "cafes": []
+  },
+  "Aberdeen": {
+    "city": "Aberdeen",
+    "city_ascii": "Aberdeen",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8287,
+    "lng": -88.5539,
+    "cafes": []
+  },
+  "University": {
+    "city": "University",
+    "city_ascii": "University",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3655,
+    "lng": -89.5379,
+    "cafes": []
+  },
+  "Carthage": {
+    "city": "Carthage",
+    "city_ascii": "Carthage",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.7431,
+    "lng": -89.5337,
+    "cafes": []
+  },
+  "Crystal Springs": {
+    "city": "Crystal Springs",
+    "city_ascii": "Crystal Springs",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.9903,
+    "lng": -90.354,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.1557,
+    "lng": -90.1225,
+    "cafes": []
+  },
+  "Ellisville": {
+    "city": "Ellisville",
+    "city_ascii": "Ellisville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5969,
+    "lng": -89.2091,
+    "cafes": []
+  },
+  "Waynesboro": {
+    "city": "Waynesboro",
+    "city_ascii": "Waynesboro",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.6774,
+    "lng": -88.6353,
+    "cafes": []
+  },
+  "Fulton": {
+    "city": "Fulton",
+    "city_ascii": "Fulton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2616,
+    "lng": -88.4021,
+    "cafes": []
+  },
+  "Pearl River": {
+    "city": "Pearl River",
+    "city_ascii": "Pearl River",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.7889,
+    "lng": -89.2384,
+    "cafes": []
+  },
+  "Mississippi State": {
+    "city": "Mississippi State",
+    "city_ascii": "Mississippi State",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4516,
+    "lng": -88.7912,
+    "cafes": []
+  },
+  "Winona": {
+    "city": "Winona",
+    "city_ascii": "Winona",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4899,
+    "lng": -89.728,
+    "cafes": []
+  },
+  "Wiggins": {
+    "city": "Wiggins",
+    "city_ascii": "Wiggins",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.8557,
+    "lng": -89.1386,
+    "cafes": []
+  },
+  "Magee": {
+    "city": "Magee",
+    "city_ascii": "Magee",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.873,
+    "lng": -89.734,
+    "cafes": []
+  },
+  "Leland": {
+    "city": "Leland",
+    "city_ascii": "Leland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4051,
+    "lng": -90.8909,
+    "cafes": []
+  },
+  "Houston": {
+    "city": "Houston",
+    "city_ascii": "Houston",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8963,
+    "lng": -89.0031,
+    "cafes": []
+  },
+  "Beechwood": {
+    "city": "Beechwood",
+    "city_ascii": "Beechwood",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3303,
+    "lng": -90.819,
+    "cafes": []
+  },
+  "Morton": {
+    "city": "Morton",
+    "city_ascii": "Morton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3455,
+    "lng": -89.6572,
+    "cafes": []
+  },
+  "Escatawpa": {
+    "city": "Escatawpa",
+    "city_ascii": "Escatawpa",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4912,
+    "lng": -88.5495,
+    "cafes": []
+  },
+  "New Hope": {
+    "city": "New Hope",
+    "city_ascii": "New Hope",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4521,
+    "lng": -88.3399,
+    "cafes": []
+  },
+  "Hazlehurst": {
+    "city": "Hazlehurst",
+    "city_ascii": "Hazlehurst",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.8646,
+    "lng": -90.3929,
+    "cafes": []
+  },
+  "Macon": {
+    "city": "Macon",
+    "city_ascii": "Macon",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.1217,
+    "lng": -88.5564,
+    "cafes": []
+  },
+  "Water Valley": {
+    "city": "Water Valley",
+    "city_ascii": "Water Valley",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.1622,
+    "lng": -89.63,
+    "cafes": []
+  },
+  "Magnolia": {
+    "city": "Magnolia",
+    "city_ascii": "Magnolia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.1619,
+    "lng": -90.467,
+    "cafes": []
+  },
+  "Newton": {
+    "city": "Newton",
+    "city_ascii": "Newton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3296,
+    "lng": -89.1534,
+    "cafes": []
+  },
+  "Iuka": {
+    "city": "Iuka",
+    "city_ascii": "Iuka",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.8077,
+    "lng": -88.1978,
+    "cafes": []
+  },
+  "Baldwyn": {
+    "city": "Baldwyn",
+    "city_ascii": "Baldwyn",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5071,
+    "lng": -88.6416,
+    "cafes": []
+  },
+  "Bridgetown": {
+    "city": "Bridgetown",
+    "city_ascii": "Bridgetown",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.8907,
+    "lng": -89.9069,
+    "cafes": []
+  },
+  "Lucedale": {
+    "city": "Lucedale",
+    "city_ascii": "Lucedale",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.9312,
+    "lng": -88.5959,
+    "cafes": []
+  },
+  "Ruleville": {
+    "city": "Ruleville",
+    "city_ascii": "Ruleville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7245,
+    "lng": -90.55,
+    "cafes": []
+  },
+  "Poplarville": {
+    "city": "Poplarville",
+    "city_ascii": "Poplarville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.8391,
+    "lng": -89.5306,
+    "cafes": []
+  },
+  "Gluckstadt": {
+    "city": "Gluckstadt",
+    "city_ascii": "Gluckstadt",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5322,
+    "lng": -90.1034,
+    "cafes": []
+  },
+  "Verona": {
+    "city": "Verona",
+    "city_ascii": "Verona",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.1907,
+    "lng": -88.7204,
+    "cafes": []
+  },
+  "Summit": {
+    "city": "Summit",
+    "city_ascii": "Summit",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.2808,
+    "lng": -90.467,
+    "cafes": []
+  },
+  "Okolona": {
+    "city": "Okolona",
+    "city_ascii": "Okolona",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.0053,
+    "lng": -88.7479,
+    "cafes": []
+  },
+  "Hide-A-Way Lake": {
+    "city": "Hide-A-Way Lake",
+    "city_ascii": "Hide-A-Way Lake",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.574,
+    "lng": -89.6418,
+    "cafes": []
+  },
+  "Belmont": {
+    "city": "Belmont",
+    "city_ascii": "Belmont",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5046,
+    "lng": -88.208,
+    "cafes": []
+  },
+  "Sardis": {
+    "city": "Sardis",
+    "city_ascii": "Sardis",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.4355,
+    "lng": -89.9114,
+    "cafes": []
+  },
+  "Nicholson": {
+    "city": "Nicholson",
+    "city_ascii": "Nicholson",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4866,
+    "lng": -89.6997,
+    "cafes": []
+  },
+  "Kiln": {
+    "city": "Kiln",
+    "city_ascii": "Kiln",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4171,
+    "lng": -89.4322,
+    "cafes": []
+  },
+  "Flora": {
+    "city": "Flora",
+    "city_ascii": "Flora",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5433,
+    "lng": -90.3141,
+    "cafes": []
+  },
+  "Mendenhall": {
+    "city": "Mendenhall",
+    "city_ascii": "Mendenhall",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.9609,
+    "lng": -89.8692,
+    "cafes": []
+  },
+  "Centreville": {
+    "city": "Centreville",
+    "city_ascii": "Centreville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.087,
+    "lng": -91.0655,
+    "cafes": []
+  },
+  "Wesson": {
+    "city": "Wesson",
+    "city_ascii": "Wesson",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.6999,
+    "lng": -90.3961,
+    "cafes": []
+  },
+  "Charleston": {
+    "city": "Charleston",
+    "city_ascii": "Charleston",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.0075,
+    "lng": -90.0552,
+    "cafes": []
+  },
+  "Union": {
+    "city": "Union",
+    "city_ascii": "Union",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5711,
+    "lng": -89.1152,
+    "cafes": []
+  },
+  "Hollandale": {
+    "city": "Hollandale",
+    "city_ascii": "Hollandale",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.1761,
+    "lng": -90.8529,
+    "cafes": []
+  },
+  "Sharon": {
+    "city": "Sharon",
+    "city_ascii": "Sharon",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.7922,
+    "lng": -89.0983,
+    "cafes": []
+  },
+  "Oak Grove": {
+    "city": "Oak Grove",
+    "city_ascii": "Oak Grove",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.2867,
+    "lng": -89.4145,
+    "cafes": []
+  },
+  "Drew": {
+    "city": "Drew",
+    "city_ascii": "Drew",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8101,
+    "lng": -90.5304,
+    "cafes": []
+  },
+  "Collins": {
+    "city": "Collins",
+    "city_ascii": "Collins",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.6469,
+    "lng": -89.5669,
+    "cafes": []
+  },
+  "Guntown": {
+    "city": "Guntown",
+    "city_ascii": "Guntown",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.4447,
+    "lng": -88.6641,
+    "cafes": []
+  },
+  "Tchula": {
+    "city": "Tchula",
+    "city_ascii": "Tchula",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.1831,
+    "lng": -90.2232,
+    "cafes": []
+  },
+  "Sumrall": {
+    "city": "Sumrall",
+    "city_ascii": "Sumrall",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.4172,
+    "lng": -89.5423,
+    "cafes": []
+  },
+  "Cleary": {
+    "city": "Cleary",
+    "city_ascii": "Cleary",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.1635,
+    "lng": -90.1819,
+    "cafes": []
+  },
+  "Mooreville": {
+    "city": "Mooreville",
+    "city_ascii": "Mooreville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2649,
+    "lng": -88.5768,
+    "cafes": []
+  },
+  "Tutwiler": {
+    "city": "Tutwiler",
+    "city_ascii": "Tutwiler",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.0172,
+    "lng": -90.4333,
+    "cafes": []
+  },
+  "Farmington": {
+    "city": "Farmington",
+    "city_ascii": "Farmington",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.9224,
+    "lng": -88.4432,
+    "cafes": []
+  },
+  "Lyman": {
+    "city": "Lyman",
+    "city_ascii": "Lyman",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.5044,
+    "lng": -89.1348,
+    "cafes": []
+  },
+  "Eupora": {
+    "city": "Eupora",
+    "city_ascii": "Eupora",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5435,
+    "lng": -89.2765,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.4303,
+    "lng": -88.646,
+    "cafes": []
+  },
+  "Decatur": {
+    "city": "Decatur",
+    "city_ascii": "Decatur",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.4339,
+    "lng": -89.1092,
+    "cafes": []
+  },
+  "Tylertown": {
+    "city": "Tylertown",
+    "city_ascii": "Tylertown",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.1173,
+    "lng": -90.1445,
+    "cafes": []
+  },
+  "Nettleton": {
+    "city": "Nettleton",
+    "city_ascii": "Nettleton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.0852,
+    "lng": -88.6248,
+    "cafes": []
+  },
+  "Bay Springs": {
+    "city": "Bay Springs",
+    "city_ascii": "Bay Springs",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.9772,
+    "lng": -89.2792,
+    "cafes": []
+  },
+  "Rolling Fork": {
+    "city": "Rolling Fork",
+    "city_ascii": "Rolling Fork",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.9073,
+    "lng": -90.8769,
+    "cafes": []
+  },
+  "Taylorsville": {
+    "city": "Taylorsville",
+    "city_ascii": "Taylorsville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.8322,
+    "lng": -89.4342,
+    "cafes": []
+  },
+  "Tunica Resorts": {
+    "city": "Tunica Resorts",
+    "city_ascii": "Tunica Resorts",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.8299,
+    "lng": -90.3208,
+    "cafes": []
+  },
+  "Quitman": {
+    "city": "Quitman",
+    "city_ascii": "Quitman",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.0417,
+    "lng": -88.7202,
+    "cafes": []
+  },
+  "Byhalia": {
+    "city": "Byhalia",
+    "city_ascii": "Byhalia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.869,
+    "lng": -89.689,
+    "cafes": []
+  },
+  "Ackerman": {
+    "city": "Ackerman",
+    "city_ascii": "Ackerman",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.311,
+    "lng": -89.1711,
+    "cafes": []
+  },
+  "Durant": {
+    "city": "Durant",
+    "city_ascii": "Durant",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.0799,
+    "lng": -89.8566,
+    "cafes": []
+  },
+  "Lynchburg": {
+    "city": "Lynchburg",
+    "city_ascii": "Lynchburg",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.9623,
+    "lng": -90.1052,
+    "cafes": []
+  },
+  "Rosedale": {
+    "city": "Rosedale",
+    "city_ascii": "Rosedale",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8525,
+    "lng": -91.0339,
+    "cafes": []
+  },
+  "Raymond": {
+    "city": "Raymond",
+    "city_ascii": "Raymond",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.261,
+    "lng": -90.409,
+    "cafes": []
+  },
+  "Collinsville": {
+    "city": "Collinsville",
+    "city_ascii": "Collinsville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.4912,
+    "lng": -88.8452,
+    "cafes": []
+  },
+  "Terry": {
+    "city": "Terry",
+    "city_ascii": "Terry",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.1047,
+    "lng": -90.298,
+    "cafes": []
+  },
+  "Calhoun City": {
+    "city": "Calhoun City",
+    "city_ascii": "Calhoun City",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8588,
+    "lng": -89.3145,
+    "cafes": []
+  },
+  "Mantachie": {
+    "city": "Mantachie",
+    "city_ascii": "Mantachie",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3251,
+    "lng": -88.4961,
+    "cafes": []
+  },
+  "Itta Bena": {
+    "city": "Itta Bena",
+    "city_ascii": "Itta Bena",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5003,
+    "lng": -90.3256,
+    "cafes": []
+  },
+  "Shannon": {
+    "city": "Shannon",
+    "city_ascii": "Shannon",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.1144,
+    "lng": -88.6932,
+    "cafes": []
+  },
+  "Shelby": {
+    "city": "Shelby",
+    "city_ascii": "Shelby",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9508,
+    "lng": -90.7653,
+    "cafes": []
+  },
+  "Purvis": {
+    "city": "Purvis",
+    "city_ascii": "Purvis",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.145,
+    "lng": -89.4054,
+    "cafes": []
+  },
+  "Belzoni": {
+    "city": "Belzoni",
+    "city_ascii": "Belzoni",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.1804,
+    "lng": -90.4863,
+    "cafes": []
+  },
+  "Pelahatchie": {
+    "city": "Pelahatchie",
+    "city_ascii": "Pelahatchie",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3148,
+    "lng": -89.8083,
+    "cafes": []
+  },
+  "Fayette": {
+    "city": "Fayette",
+    "city_ascii": "Fayette",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.7122,
+    "lng": -91.062,
+    "cafes": []
+  },
+  "Shaw": {
+    "city": "Shaw",
+    "city_ascii": "Shaw",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6015,
+    "lng": -90.772,
+    "cafes": []
+  },
+  "Ecru": {
+    "city": "Ecru",
+    "city_ascii": "Ecru",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.355,
+    "lng": -89.0222,
+    "cafes": []
+  },
+  "Rawls Springs": {
+    "city": "Rawls Springs",
+    "city_ascii": "Rawls Springs",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.3797,
+    "lng": -89.3878,
+    "cafes": []
+  },
+  "Mound Bayou": {
+    "city": "Mound Bayou",
+    "city_ascii": "Mound Bayou",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8808,
+    "lng": -90.728,
+    "cafes": []
+  },
+  "Glendale": {
+    "city": "Glendale",
+    "city_ascii": "Glendale",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.368,
+    "lng": -89.3086,
+    "cafes": []
+  },
+  "Lumberton": {
+    "city": "Lumberton",
+    "city_ascii": "Lumberton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.0064,
+    "lng": -89.4592,
+    "cafes": []
+  },
+  "DeLisle": {
+    "city": "DeLisle",
+    "city_ascii": "DeLisle",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.3848,
+    "lng": -89.2746,
+    "cafes": []
+  },
+  "Marks": {
+    "city": "Marks",
+    "city_ascii": "Marks",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2535,
+    "lng": -90.2723,
+    "cafes": []
+  },
+  "Como": {
+    "city": "Como",
+    "city_ascii": "Como",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5134,
+    "lng": -89.9391,
+    "cafes": []
+  },
+  "Blue Mountain": {
+    "city": "Blue Mountain",
+    "city_ascii": "Blue Mountain",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6739,
+    "lng": -89.0262,
+    "cafes": []
+  },
+  "Bruce": {
+    "city": "Bruce",
+    "city_ascii": "Bruce",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9909,
+    "lng": -89.3454,
+    "cafes": []
+  },
+  "Maben": {
+    "city": "Maben",
+    "city_ascii": "Maben",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5544,
+    "lng": -89.0805,
+    "cafes": []
+  },
+  "Arnold Line": {
+    "city": "Arnold Line",
+    "city_ascii": "Arnold Line",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.3372,
+    "lng": -89.3771,
+    "cafes": []
+  },
+  "Walls": {
+    "city": "Walls",
+    "city_ascii": "Walls",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.9257,
+    "lng": -90.1604,
+    "cafes": []
+  },
+  "Wade": {
+    "city": "Wade",
+    "city_ascii": "Wade",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.6401,
+    "lng": -88.5579,
+    "cafes": []
+  },
+  "Moorhead": {
+    "city": "Moorhead",
+    "city_ascii": "Moorhead",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4494,
+    "lng": -90.5063,
+    "cafes": []
+  },
+  "Columbus AFB": {
+    "city": "Columbus AFB",
+    "city_ascii": "Columbus AFB",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6276,
+    "lng": -88.4454,
+    "cafes": []
+  },
+  "Vaiden": {
+    "city": "Vaiden",
+    "city_ascii": "Vaiden",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.3332,
+    "lng": -89.7533,
+    "cafes": []
+  },
+  "Hurley": {
+    "city": "Hurley",
+    "city_ascii": "Hurley",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.6638,
+    "lng": -88.4994,
+    "cafes": []
+  },
+  "Robinhood": {
+    "city": "Robinhood",
+    "city_ascii": "Robinhood",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.2045,
+    "lng": -89.9671,
+    "cafes": []
+  },
+  "Nellieburg": {
+    "city": "Nellieburg",
+    "city_ascii": "Nellieburg",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3974,
+    "lng": -88.783,
+    "cafes": []
+  },
+  "Coldwater": {
+    "city": "Coldwater",
+    "city_ascii": "Coldwater",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6902,
+    "lng": -89.9757,
+    "cafes": []
+  },
+  "Caledonia": {
+    "city": "Caledonia",
+    "city_ascii": "Caledonia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6836,
+    "lng": -88.326,
+    "cafes": []
+  },
+  "Monticello": {
+    "city": "Monticello",
+    "city_ascii": "Monticello",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5525,
+    "lng": -90.1145,
+    "cafes": []
+  },
+  "Mount Olive": {
+    "city": "Mount Olive",
+    "city_ascii": "Mount Olive",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.7539,
+    "lng": -89.656,
+    "cafes": []
+  },
+  "Goodman": {
+    "city": "Goodman",
+    "city_ascii": "Goodman",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.9677,
+    "lng": -89.9128,
+    "cafes": []
+  },
+  "Pickens": {
+    "city": "Pickens",
+    "city_ascii": "Pickens",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.8913,
+    "lng": -89.9696,
+    "cafes": []
+  },
+  "Victoria": {
+    "city": "Victoria",
+    "city_ascii": "Victoria",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.8387,
+    "lng": -89.6144,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.1163,
+    "lng": -90.0498,
+    "cafes": []
+  },
+  "Gloster": {
+    "city": "Gloster",
+    "city_ascii": "Gloster",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.1951,
+    "lng": -91.0176,
+    "cafes": []
+  },
+  "Courtland": {
+    "city": "Courtland",
+    "city_ascii": "Courtland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2411,
+    "lng": -89.9433,
+    "cafes": []
+  },
+  "Richton": {
+    "city": "Richton",
+    "city_ascii": "Richton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.3495,
+    "lng": -88.9407,
+    "cafes": []
+  },
+  "Metcalfe": {
+    "city": "Metcalfe",
+    "city_ascii": "Metcalfe",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4505,
+    "lng": -91.0018,
+    "cafes": []
+  },
+  "Port Gibson": {
+    "city": "Port Gibson",
+    "city_ascii": "Port Gibson",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.9558,
+    "lng": -90.9834,
+    "cafes": []
+  },
+  "Conehatta": {
+    "city": "Conehatta",
+    "city_ascii": "Conehatta",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.4601,
+    "lng": -89.2785,
+    "cafes": []
+  },
+  "Raleigh": {
+    "city": "Raleigh",
+    "city_ascii": "Raleigh",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.0322,
+    "lng": -89.5247,
+    "cafes": []
+  },
+  "Algoma": {
+    "city": "Algoma",
+    "city_ascii": "Algoma",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.1788,
+    "lng": -89.0336,
+    "cafes": []
+  },
+  "Stonewall": {
+    "city": "Stonewall",
+    "city_ascii": "Stonewall",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.1364,
+    "lng": -88.7958,
+    "cafes": []
+  },
+  "Sunflower": {
+    "city": "Sunflower",
+    "city_ascii": "Sunflower",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5444,
+    "lng": -90.5373,
+    "cafes": []
+  },
+  "Prentiss": {
+    "city": "Prentiss",
+    "city_ascii": "Prentiss",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5995,
+    "lng": -89.8746,
+    "cafes": []
+  },
+  "Alcorn State University": {
+    "city": "Alcorn State University",
+    "city_ascii": "Alcorn State University",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.8804,
+    "lng": -91.1407,
+    "cafes": []
+  },
+  "Vardaman": {
+    "city": "Vardaman",
+    "city_ascii": "Vardaman",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8822,
+    "lng": -89.1778,
+    "cafes": []
+  },
+  "Friars Point": {
+    "city": "Friars Point",
+    "city_ascii": "Friars Point",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3679,
+    "lng": -90.6379,
+    "cafes": []
+  },
+  "Pearlington": {
+    "city": "Pearlington",
+    "city_ascii": "Pearlington",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.2492,
+    "lng": -89.6048,
+    "cafes": []
+  },
+  "Hillsboro": {
+    "city": "Hillsboro",
+    "city_ascii": "Hillsboro",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.4491,
+    "lng": -89.4889,
+    "cafes": []
+  },
+  "Tunica": {
+    "city": "Tunica",
+    "city_ascii": "Tunica",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6881,
+    "lng": -90.3809,
+    "cafes": []
+  },
+  "Plantersville": {
+    "city": "Plantersville",
+    "city_ascii": "Plantersville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2103,
+    "lng": -88.6655,
+    "cafes": []
+  },
+  "Jonestown": {
+    "city": "Jonestown",
+    "city_ascii": "Jonestown",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3222,
+    "lng": -90.4541,
+    "cafes": []
+  },
+  "Lambert": {
+    "city": "Lambert",
+    "city_ascii": "Lambert",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2006,
+    "lng": -90.2845,
+    "cafes": []
+  },
+  "De Kalb": {
+    "city": "De Kalb",
+    "city_ascii": "De Kalb",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.7707,
+    "lng": -88.656,
+    "cafes": []
+  },
+  "Morgantown": {
+    "city": "Morgantown",
+    "city_ascii": "Morgantown",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5751,
+    "lng": -91.3521,
+    "cafes": []
+  },
+  "Beaumont": {
+    "city": "Beaumont",
+    "city_ascii": "Beaumont",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.1707,
+    "lng": -88.9252,
+    "cafes": []
+  },
+  "Woodville": {
+    "city": "Woodville",
+    "city_ascii": "Woodville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.1029,
+    "lng": -91.2992,
+    "cafes": []
+  },
+  "Edwards": {
+    "city": "Edwards",
+    "city_ascii": "Edwards",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3326,
+    "lng": -90.6055,
+    "cafes": []
+  },
+  "Brooksville": {
+    "city": "Brooksville",
+    "city_ascii": "Brooksville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.2367,
+    "lng": -88.5781,
+    "cafes": []
+  },
+  "Coffeeville": {
+    "city": "Coffeeville",
+    "city_ascii": "Coffeeville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9764,
+    "lng": -89.6845,
+    "cafes": []
+  },
+  "Big Point": {
+    "city": "Big Point",
+    "city_ascii": "Big Point",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.5905,
+    "lng": -88.4846,
+    "cafes": []
+  },
+  "Helena": {
+    "city": "Helena",
+    "city_ascii": "Helena",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.4881,
+    "lng": -88.5056,
+    "cafes": []
+  },
+  "Derma": {
+    "city": "Derma",
+    "city_ascii": "Derma",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8589,
+    "lng": -89.2878,
+    "cafes": []
+  },
+  "State Line": {
+    "city": "State Line",
+    "city_ascii": "State Line",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.436,
+    "lng": -88.4738,
+    "cafes": []
+  },
+  "Liberty": {
+    "city": "Liberty",
+    "city_ascii": "Liberty",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.1611,
+    "lng": -90.8006,
+    "cafes": []
+  },
+  "Isola": {
+    "city": "Isola",
+    "city_ascii": "Isola",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.2634,
+    "lng": -90.5923,
+    "cafes": []
+  },
+  "Mathiston": {
+    "city": "Mathiston",
+    "city_ascii": "Mathiston",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5391,
+    "lng": -89.1275,
+    "cafes": []
+  },
+  "Saucier": {
+    "city": "Saucier",
+    "city_ascii": "Saucier",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.6237,
+    "lng": -89.1432,
+    "cafes": []
+  },
+  "Bude": {
+    "city": "Bude",
+    "city_ascii": "Bude",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.463,
+    "lng": -90.8509,
+    "cafes": []
+  },
+  "Burnsville": {
+    "city": "Burnsville",
+    "city_ascii": "Burnsville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.8348,
+    "lng": -88.3177,
+    "cafes": []
+  },
+  "Falkner": {
+    "city": "Falkner",
+    "city_ascii": "Falkner",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.838,
+    "lng": -88.9424,
+    "cafes": []
+  },
+  "Duck Hill": {
+    "city": "Duck Hill",
+    "city_ascii": "Duck Hill",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6316,
+    "lng": -89.7154,
+    "cafes": []
+  },
+  "Utica": {
+    "city": "Utica",
+    "city_ascii": "Utica",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.1061,
+    "lng": -90.6221,
+    "cafes": []
+  },
+  "Weir": {
+    "city": "Weir",
+    "city_ascii": "Weir",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.2635,
+    "lng": -89.2905,
+    "cafes": []
+  },
+  "Inverness": {
+    "city": "Inverness",
+    "city_ascii": "Inverness",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.3543,
+    "lng": -90.5913,
+    "cafes": []
+  },
+  "New Houlka": {
+    "city": "New Houlka",
+    "city_ascii": "New Houlka",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.0363,
+    "lng": -89.0211,
+    "cafes": []
+  },
+  "Myrtle": {
+    "city": "Myrtle",
+    "city_ascii": "Myrtle",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5605,
+    "lng": -89.1179,
+    "cafes": []
+  },
+  "Mississippi Valley State University": {
+    "city": "Mississippi Valley State University",
+    "city_ascii": "Mississippi Valley State University",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5172,
+    "lng": -90.3444,
+    "cafes": []
+  },
+  "Crowder": {
+    "city": "Crowder",
+    "city_ascii": "Crowder",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.1729,
+    "lng": -90.1376,
+    "cafes": []
+  },
+  "Meridian Station": {
+    "city": "Meridian Station",
+    "city_ascii": "Meridian Station",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5484,
+    "lng": -88.609,
+    "cafes": []
+  },
+  "Scooba": {
+    "city": "Scooba",
+    "city_ascii": "Scooba",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.8302,
+    "lng": -88.4771,
+    "cafes": []
+  },
+  "Renova": {
+    "city": "Renova",
+    "city_ascii": "Renova",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7805,
+    "lng": -90.7232,
+    "cafes": []
+  },
+  "Cloverdale": {
+    "city": "Cloverdale",
+    "city_ascii": "Cloverdale",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.496,
+    "lng": -91.4152,
+    "cafes": []
+  },
+  "Hickory Flat": {
+    "city": "Hickory Flat",
+    "city_ascii": "Hickory Flat",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.616,
+    "lng": -89.1913,
+    "cafes": []
+  },
+  "Heidelberg": {
+    "city": "Heidelberg",
+    "city_ascii": "Heidelberg",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.8897,
+    "lng": -88.9878,
+    "cafes": []
+  },
+  "Anguilla": {
+    "city": "Anguilla",
+    "city_ascii": "Anguilla",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.9719,
+    "lng": -90.8284,
+    "cafes": []
+  },
+  "Kearney Park": {
+    "city": "Kearney Park",
+    "city_ascii": "Kearney Park",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5897,
+    "lng": -90.3158,
+    "cafes": []
+  },
+  "Bolton": {
+    "city": "Bolton",
+    "city_ascii": "Bolton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3546,
+    "lng": -90.4586,
+    "cafes": []
+  },
+  "Crenshaw": {
+    "city": "Crenshaw",
+    "city_ascii": "Crenshaw",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5047,
+    "lng": -90.1946,
+    "cafes": []
+  },
+  "Redwater": {
+    "city": "Redwater",
+    "city_ascii": "Redwater",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.7835,
+    "lng": -89.5559,
+    "cafes": []
+  },
+  "Polkville": {
+    "city": "Polkville",
+    "city_ascii": "Polkville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.1909,
+    "lng": -89.696,
+    "cafes": []
+  },
+  "Randolph": {
+    "city": "Randolph",
+    "city_ascii": "Randolph",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.181,
+    "lng": -89.1677,
+    "cafes": []
+  },
+  "Thaxton": {
+    "city": "Thaxton",
+    "city_ascii": "Thaxton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3071,
+    "lng": -89.1745,
+    "cafes": []
+  },
+  "Elliott": {
+    "city": "Elliott",
+    "city_ascii": "Elliott",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6913,
+    "lng": -89.7525,
+    "cafes": []
+  },
+  "Walnut Grove": {
+    "city": "Walnut Grove",
+    "city_ascii": "Walnut Grove",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5931,
+    "lng": -89.4578,
+    "cafes": []
+  },
+  "Boyle": {
+    "city": "Boyle",
+    "city_ascii": "Boyle",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7065,
+    "lng": -90.7249,
+    "cafes": []
+  },
+  "Merigold": {
+    "city": "Merigold",
+    "city_ascii": "Merigold",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8392,
+    "lng": -90.7264,
+    "cafes": []
+  },
+  "Walnut": {
+    "city": "Walnut",
+    "city_ascii": "Walnut",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.9497,
+    "lng": -88.9236,
+    "cafes": []
+  },
+  "Roxie": {
+    "city": "Roxie",
+    "city_ascii": "Roxie",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5077,
+    "lng": -91.0711,
+    "cafes": []
+  },
+  "Hatley": {
+    "city": "Hatley",
+    "city_ascii": "Hatley",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9773,
+    "lng": -88.4184,
+    "cafes": []
+  },
+  "Eudora": {
+    "city": "Eudora",
+    "city_ascii": "Eudora",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.831,
+    "lng": -90.1488,
+    "cafes": []
+  },
+  "Benoit": {
+    "city": "Benoit",
+    "city_ascii": "Benoit",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6517,
+    "lng": -91.0087,
+    "cafes": []
+  },
+  "Meadville": {
+    "city": "Meadville",
+    "city_ascii": "Meadville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.472,
+    "lng": -90.8931,
+    "cafes": []
+  },
+  "Smithville": {
+    "city": "Smithville",
+    "city_ascii": "Smithville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.068,
+    "lng": -88.3983,
+    "cafes": []
+  },
+  "Ashland": {
+    "city": "Ashland",
+    "city_ascii": "Ashland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.8341,
+    "lng": -89.1778,
+    "cafes": []
+  },
+  "Wheeler": {
+    "city": "Wheeler",
+    "city_ascii": "Wheeler",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5836,
+    "lng": -88.6025,
+    "cafes": []
+  },
+  "Pope": {
+    "city": "Pope",
+    "city_ascii": "Pope",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2158,
+    "lng": -89.9447,
+    "cafes": []
+  },
+  "North Carrollton": {
+    "city": "North Carrollton",
+    "city_ascii": "North Carrollton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5187,
+    "lng": -89.9193,
+    "cafes": []
+  },
+  "Standing Pine": {
+    "city": "Standing Pine",
+    "city_ascii": "Standing Pine",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.6749,
+    "lng": -89.4529,
+    "cafes": []
+  },
+  "Noxapater": {
+    "city": "Noxapater",
+    "city_ascii": "Noxapater",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.9936,
+    "lng": -89.0636,
+    "cafes": []
+  },
+  "White Oak": {
+    "city": "White Oak",
+    "city_ascii": "White Oak",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6438,
+    "lng": -90.3495,
+    "cafes": []
+  },
+  "Mantee": {
+    "city": "Mantee",
+    "city_ascii": "Mantee",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7226,
+    "lng": -89.0597,
+    "cafes": []
+  },
+  "Hermanville": {
+    "city": "Hermanville",
+    "city_ascii": "Hermanville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.957,
+    "lng": -90.8405,
+    "cafes": []
+  },
+  "Lake": {
+    "city": "Lake",
+    "city_ascii": "Lake",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3359,
+    "lng": -89.3158,
+    "cafes": []
+  },
+  "Kilmichael": {
+    "city": "Kilmichael",
+    "city_ascii": "Kilmichael",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4403,
+    "lng": -89.5665,
+    "cafes": []
+  },
+  "Lakeview": {
+    "city": "Lakeview",
+    "city_ascii": "Lakeview",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.9874,
+    "lng": -90.1395,
+    "cafes": []
+  },
+  "Sherman": {
+    "city": "Sherman",
+    "city_ascii": "Sherman",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3611,
+    "lng": -88.8387,
+    "cafes": []
+  },
+  "North Tunica": {
+    "city": "North Tunica",
+    "city_ascii": "North Tunica",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.7031,
+    "lng": -90.3797,
+    "cafes": []
+  },
+  "Sandersville": {
+    "city": "Sandersville",
+    "city_ascii": "Sandersville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.7879,
+    "lng": -89.0362,
+    "cafes": []
+  },
+  "Shubuta": {
+    "city": "Shubuta",
+    "city_ascii": "Shubuta",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.862,
+    "lng": -88.7021,
+    "cafes": []
+  },
+  "Soso": {
+    "city": "Soso",
+    "city_ascii": "Soso",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.7536,
+    "lng": -89.2759,
+    "cafes": []
+  },
+  "Tucker": {
+    "city": "Tucker",
+    "city_ascii": "Tucker",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.708,
+    "lng": -89.0498,
+    "cafes": []
+  },
+  "New Hamilton": {
+    "city": "New Hamilton",
+    "city_ascii": "New Hamilton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7435,
+    "lng": -88.4389,
+    "cafes": []
+  },
+  "Tishomingo": {
+    "city": "Tishomingo",
+    "city_ascii": "Tishomingo",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6382,
+    "lng": -88.2291,
+    "cafes": []
+  },
+  "New Hebron": {
+    "city": "New Hebron",
+    "city_ascii": "New Hebron",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.7332,
+    "lng": -89.9833,
+    "cafes": []
+  },
+  "Enterprise": {
+    "city": "Enterprise",
+    "city_ascii": "Enterprise",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.1731,
+    "lng": -88.8163,
+    "cafes": []
+  },
+  "Hickory": {
+    "city": "Hickory",
+    "city_ascii": "Hickory",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3167,
+    "lng": -89.0217,
+    "cafes": []
+  },
+  "Beauregard": {
+    "city": "Beauregard",
+    "city_ascii": "Beauregard",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.721,
+    "lng": -90.3859,
+    "cafes": []
+  },
+  "New Augusta": {
+    "city": "New Augusta",
+    "city_ascii": "New Augusta",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.2036,
+    "lng": -89.0272,
+    "cafes": []
+  },
+  "Benton": {
+    "city": "Benton",
+    "city_ascii": "Benton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.823,
+    "lng": -90.2634,
+    "cafes": []
+  },
+  "D'Lo": {
+    "city": "D'Lo",
+    "city_ascii": "D'Lo",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.9869,
+    "lng": -89.9011,
+    "cafes": []
+  },
+  "Louin": {
+    "city": "Louin",
+    "city_ascii": "Louin",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.0722,
+    "lng": -89.2627,
+    "cafes": []
+  },
+  "Bogue Chitto": {
+    "city": "Bogue Chitto",
+    "city_ascii": "Bogue Chitto",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.8338,
+    "lng": -88.9189,
+    "cafes": []
+  },
+  "Potts Camp": {
+    "city": "Potts Camp",
+    "city_ascii": "Potts Camp",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6492,
+    "lng": -89.3065,
+    "cafes": []
+  },
+  "Carrollton": {
+    "city": "Carrollton",
+    "city_ascii": "Carrollton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5056,
+    "lng": -89.9218,
+    "cafes": []
+  },
+  "Webb": {
+    "city": "Webb",
+    "city_ascii": "Webb",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9477,
+    "lng": -90.3463,
+    "cafes": []
+  },
+  "Baxterville": {
+    "city": "Baxterville",
+    "city_ascii": "Baxterville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.0837,
+    "lng": -89.5891,
+    "cafes": []
+  },
+  "Puckett": {
+    "city": "Puckett",
+    "city_ascii": "Puckett",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.0872,
+    "lng": -89.7819,
+    "cafes": []
+  },
+  "Snow Lake Shores": {
+    "city": "Snow Lake Shores",
+    "city_ascii": "Snow Lake Shores",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.824,
+    "lng": -89.2385,
+    "cafes": []
+  },
+  "Oakland": {
+    "city": "Oakland",
+    "city_ascii": "Oakland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.0576,
+    "lng": -89.9132,
+    "cafes": []
+  },
+  "Sumner": {
+    "city": "Sumner",
+    "city_ascii": "Sumner",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9693,
+    "lng": -90.3693,
+    "cafes": []
+  },
+  "McLain": {
+    "city": "McLain",
+    "city_ascii": "McLain",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.1037,
+    "lng": -88.8239,
+    "cafes": []
+  },
+  "Jumpertown": {
+    "city": "Jumpertown",
+    "city_ascii": "Jumpertown",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.7079,
+    "lng": -88.6619,
+    "cafes": []
+  },
+  "Glen": {
+    "city": "Glen",
+    "city_ascii": "Glen",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.8585,
+    "lng": -88.4199,
+    "cafes": []
+  },
+  "Artesia": {
+    "city": "Artesia",
+    "city_ascii": "Artesia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4164,
+    "lng": -88.6424,
+    "cafes": []
+  },
+  "Mount Pleasant": {
+    "city": "Mount Pleasant",
+    "city_ascii": "Mount Pleasant",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.954,
+    "lng": -89.5256,
+    "cafes": []
+  },
+  "Cary": {
+    "city": "Cary",
+    "city_ascii": "Cary",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.8056,
+    "lng": -90.9247,
+    "cafes": []
+  },
+  "Eagle Bend": {
+    "city": "Eagle Bend",
+    "city_ascii": "Eagle Bend",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5227,
+    "lng": -91.0229,
+    "cafes": []
+  },
+  "Osyka": {
+    "city": "Osyka",
+    "city_ascii": "Osyka",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.0072,
+    "lng": -90.4719,
+    "cafes": []
+  },
+  "Bond": {
+    "city": "Bond",
+    "city_ascii": "Bond",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.897,
+    "lng": -89.1637,
+    "cafes": []
+  },
+  "Lyon": {
+    "city": "Lyon",
+    "city_ascii": "Lyon",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2169,
+    "lng": -90.543,
+    "cafes": []
+  },
+  "Abbeville": {
+    "city": "Abbeville",
+    "city_ascii": "Abbeville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5034,
+    "lng": -89.5025,
+    "cafes": []
+  },
+  "Dumas": {
+    "city": "Dumas",
+    "city_ascii": "Dumas",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6381,
+    "lng": -88.8431,
+    "cafes": []
+  },
+  "Duncan": {
+    "city": "Duncan",
+    "city_ascii": "Duncan",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.0418,
+    "lng": -90.7459,
+    "cafes": []
+  },
+  "Clara": {
+    "city": "Clara",
+    "city_ascii": "Clara",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5831,
+    "lng": -88.6916,
+    "cafes": []
+  },
+  "Toomsuba": {
+    "city": "Toomsuba",
+    "city_ascii": "Toomsuba",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.4267,
+    "lng": -88.51,
+    "cafes": []
+  },
+  "Crawford": {
+    "city": "Crawford",
+    "city_ascii": "Crawford",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.3023,
+    "lng": -88.6255,
+    "cafes": []
+  },
+  "Runnelstown": {
+    "city": "Runnelstown",
+    "city_ascii": "Runnelstown",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.3779,
+    "lng": -89.1143,
+    "cafes": []
+  },
+  "Gunnison": {
+    "city": "Gunnison",
+    "city_ascii": "Gunnison",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9437,
+    "lng": -90.9468,
+    "cafes": []
+  },
+  "Bovina": {
+    "city": "Bovina",
+    "city_ascii": "Bovina",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3499,
+    "lng": -90.7359,
+    "cafes": []
+  },
+  "Pittsboro": {
+    "city": "Pittsboro",
+    "city_ascii": "Pittsboro",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.94,
+    "lng": -89.3373,
+    "cafes": []
+  },
+  "Foxworth": {
+    "city": "Foxworth",
+    "city_ascii": "Foxworth",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.2385,
+    "lng": -89.8828,
+    "cafes": []
+  },
+  "Cruger": {
+    "city": "Cruger",
+    "city_ascii": "Cruger",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.323,
+    "lng": -90.2355,
+    "cafes": []
+  },
+  "Sledge": {
+    "city": "Sledge",
+    "city_ascii": "Sledge",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.4326,
+    "lng": -90.2212,
+    "cafes": []
+  },
+  "Tremont": {
+    "city": "Tremont",
+    "city_ascii": "Tremont",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2326,
+    "lng": -88.2507,
+    "cafes": []
+  },
+  "Hamilton": {
+    "city": "Hamilton",
+    "city_ascii": "Hamilton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.746,
+    "lng": -88.4095,
+    "cafes": []
+  },
+  "Rienzi": {
+    "city": "Rienzi",
+    "city_ascii": "Rienzi",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.7633,
+    "lng": -88.534,
+    "cafes": []
+  },
+  "Buckatunna": {
+    "city": "Buckatunna",
+    "city_ascii": "Buckatunna",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5424,
+    "lng": -88.5292,
+    "cafes": []
+  },
+  "Beulah": {
+    "city": "Beulah",
+    "city_ascii": "Beulah",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7905,
+    "lng": -90.9802,
+    "cafes": []
+  },
+  "Toccopola": {
+    "city": "Toccopola",
+    "city_ascii": "Toccopola",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2561,
+    "lng": -89.2211,
+    "cafes": []
+  },
+  "Agricola": {
+    "city": "Agricola",
+    "city_ascii": "Agricola",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.812,
+    "lng": -88.5224,
+    "cafes": []
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.8698,
+    "lng": -90.1648,
+    "cafes": []
+  },
+  "Crosby": {
+    "city": "Crosby",
+    "city_ascii": "Crosby",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.2791,
+    "lng": -91.063,
+    "cafes": []
+  },
+  "Bentonia": {
+    "city": "Bentonia",
+    "city_ascii": "Bentonia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.6437,
+    "lng": -90.3692,
+    "cafes": []
+  },
+  "Lauderdale": {
+    "city": "Lauderdale",
+    "city_ascii": "Lauderdale",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5104,
+    "lng": -88.5264,
+    "cafes": []
+  },
+  "Blue Springs": {
+    "city": "Blue Springs",
+    "city_ascii": "Blue Springs",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3922,
+    "lng": -88.8779,
+    "cafes": []
+  },
+  "Kokomo": {
+    "city": "Kokomo",
+    "city_ascii": "Kokomo",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.1991,
+    "lng": -90.0008,
+    "cafes": []
+  },
+  "Kirkville": {
+    "city": "Kirkville",
+    "city_ascii": "Kirkville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.442,
+    "lng": -88.4854,
+    "cafes": []
+  },
+  "Shuqualak": {
+    "city": "Shuqualak",
+    "city_ascii": "Shuqualak",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.9793,
+    "lng": -88.5693,
+    "cafes": []
+  },
+  "Redwood": {
+    "city": "Redwood",
+    "city_ascii": "Redwood",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.4734,
+    "lng": -90.7969,
+    "cafes": []
+  },
+  "Pachuta": {
+    "city": "Pachuta",
+    "city_ascii": "Pachuta",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.0441,
+    "lng": -88.8844,
+    "cafes": []
+  },
+  "Glen Allan": {
+    "city": "Glen Allan",
+    "city_ascii": "Glen Allan",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.0267,
+    "lng": -91.0226,
+    "cafes": []
+  },
+  "Holcomb": {
+    "city": "Holcomb",
+    "city_ascii": "Holcomb",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7642,
+    "lng": -89.9732,
+    "cafes": []
+  },
+  "Taylor": {
+    "city": "Taylor",
+    "city_ascii": "Taylor",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2691,
+    "lng": -89.5833,
+    "cafes": []
+  },
+  "Harperville": {
+    "city": "Harperville",
+    "city_ascii": "Harperville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.4928,
+    "lng": -89.4879,
+    "cafes": []
+  },
+  "Mize": {
+    "city": "Mize",
+    "city_ascii": "Mize",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.8665,
+    "lng": -89.5542,
+    "cafes": []
+  },
+  "Braxton": {
+    "city": "Braxton",
+    "city_ascii": "Braxton",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.0264,
+    "lng": -89.9715,
+    "cafes": []
+  },
+  "French Camp": {
+    "city": "French Camp",
+    "city_ascii": "French Camp",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.2931,
+    "lng": -89.3993,
+    "cafes": []
+  },
+  "Paris": {
+    "city": "Paris",
+    "city_ascii": "Paris",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.1749,
+    "lng": -89.4519,
+    "cafes": []
+  },
+  "Schlater": {
+    "city": "Schlater",
+    "city_ascii": "Schlater",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6397,
+    "lng": -90.3494,
+    "cafes": []
+  },
+  "Seminary": {
+    "city": "Seminary",
+    "city_ascii": "Seminary",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5581,
+    "lng": -89.4987,
+    "cafes": []
+  },
+  "New Site": {
+    "city": "New Site",
+    "city_ascii": "New Site",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5553,
+    "lng": -88.4153,
+    "cafes": []
+  },
+  "Doddsville": {
+    "city": "Doddsville",
+    "city_ascii": "Doddsville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6598,
+    "lng": -90.5214,
+    "cafes": []
+  },
+  "Grace": {
+    "city": "Grace",
+    "city_ascii": "Grace",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.9915,
+    "lng": -90.9569,
+    "cafes": []
+  },
+  "Lula": {
+    "city": "Lula",
+    "city_ascii": "Lula",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.4545,
+    "lng": -90.4779,
+    "cafes": []
+  },
+  "Bethlehem": {
+    "city": "Bethlehem",
+    "city_ascii": "Bethlehem",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5774,
+    "lng": -89.3289,
+    "cafes": []
+  },
+  "Ethel": {
+    "city": "Ethel",
+    "city_ascii": "Ethel",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.122,
+    "lng": -89.465,
+    "cafes": []
+  },
+  "Farrell": {
+    "city": "Farrell",
+    "city_ascii": "Farrell",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2617,
+    "lng": -90.675,
+    "cafes": []
+  },
+  "Chunky": {
+    "city": "Chunky",
+    "city_ascii": "Chunky",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.3275,
+    "lng": -88.9302,
+    "cafes": []
+  },
+  "Bassfield": {
+    "city": "Bassfield",
+    "city_ascii": "Bassfield",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.4959,
+    "lng": -89.7449,
+    "cafes": []
+  },
+  "Alligator": {
+    "city": "Alligator",
+    "city_ascii": "Alligator",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.0899,
+    "lng": -90.7206,
+    "cafes": []
+  },
+  "Sebastopol": {
+    "city": "Sebastopol",
+    "city_ascii": "Sebastopol",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5679,
+    "lng": -89.334,
+    "cafes": []
+  },
+  "Coahoma": {
+    "city": "Coahoma",
+    "city_ascii": "Coahoma",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3664,
+    "lng": -90.522,
+    "cafes": []
+  },
+  "Mayersville": {
+    "city": "Mayersville",
+    "city_ascii": "Mayersville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.8963,
+    "lng": -91.0467,
+    "cafes": []
+  },
+  "Elizabeth": {
+    "city": "Elizabeth",
+    "city_ascii": "Elizabeth",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4271,
+    "lng": -90.8808,
+    "cafes": []
+  },
+  "Arkabutla": {
+    "city": "Arkabutla",
+    "city_ascii": "Arkabutla",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.7003,
+    "lng": -90.1216,
+    "cafes": []
+  },
+  "Sallis": {
+    "city": "Sallis",
+    "city_ascii": "Sallis",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.0215,
+    "lng": -89.7647,
+    "cafes": []
+  },
+  "West": {
+    "city": "West",
+    "city_ascii": "West",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.1977,
+    "lng": -89.7821,
+    "cafes": []
+  },
+  "Henderson Point": {
+    "city": "Henderson Point",
+    "city_ascii": "Henderson Point",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.3153,
+    "lng": -89.2864,
+    "cafes": []
+  },
+  "Eden": {
+    "city": "Eden",
+    "city_ascii": "Eden",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.9837,
+    "lng": -90.324,
+    "cafes": []
+  },
+  "Silver Creek": {
+    "city": "Silver Creek",
+    "city_ascii": "Silver Creek",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.6048,
+    "lng": -90.0023,
+    "cafes": []
+  },
+  "Panther Burn": {
+    "city": "Panther Burn",
+    "city_ascii": "Panther Burn",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.0659,
+    "lng": -90.8726,
+    "cafes": []
+  },
+  "Golden": {
+    "city": "Golden",
+    "city_ascii": "Golden",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.4866,
+    "lng": -88.1863,
+    "cafes": []
+  },
+  "Morgan City": {
+    "city": "Morgan City",
+    "city_ascii": "Morgan City",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.3787,
+    "lng": -90.3461,
+    "cafes": []
+  },
+  "Falcon": {
+    "city": "Falcon",
+    "city_ascii": "Falcon",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.391,
+    "lng": -90.2555,
+    "cafes": []
+  },
+  "Ovett": {
+    "city": "Ovett",
+    "city_ascii": "Ovett",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.4849,
+    "lng": -89.0273,
+    "cafes": []
+  },
+  "Arcola": {
+    "city": "Arcola",
+    "city_ascii": "Arcola",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.2705,
+    "lng": -90.88,
+    "cafes": []
+  },
+  "Marietta": {
+    "city": "Marietta",
+    "city_ascii": "Marietta",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5,
+    "lng": -88.4726,
+    "cafes": []
+  },
+  "Silver City": {
+    "city": "Silver City",
+    "city_ascii": "Silver City",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.0951,
+    "lng": -90.4968,
+    "cafes": []
+  },
+  "Louise": {
+    "city": "Louise",
+    "city_ascii": "Louise",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.9816,
+    "lng": -90.5904,
+    "cafes": []
+  },
+  "Kossuth": {
+    "city": "Kossuth",
+    "city_ascii": "Kossuth",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.8726,
+    "lng": -88.6428,
+    "cafes": []
+  },
+  "Longview": {
+    "city": "Longview",
+    "city_ascii": "Longview",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4027,
+    "lng": -88.9256,
+    "cafes": []
+  },
+  "Gattman": {
+    "city": "Gattman",
+    "city_ascii": "Gattman",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8848,
+    "lng": -88.2367,
+    "cafes": []
+  },
+  "Skene": {
+    "city": "Skene",
+    "city_ascii": "Skene",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.704,
+    "lng": -90.7974,
+    "cafes": []
+  },
+  "Bobo": {
+    "city": "Bobo",
+    "city_ascii": "Bobo",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.1336,
+    "lng": -90.6776,
+    "cafes": []
+  },
+  "Woodland": {
+    "city": "Woodland",
+    "city_ascii": "Woodland",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7797,
+    "lng": -89.0507,
+    "cafes": []
+  },
+  "Lena": {
+    "city": "Lena",
+    "city_ascii": "Lena",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.5939,
+    "lng": -89.5948,
+    "cafes": []
+  },
+  "Pace": {
+    "city": "Pace",
+    "city_ascii": "Pace",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7922,
+    "lng": -90.8594,
+    "cafes": []
+  },
+  "Darling": {
+    "city": "Darling",
+    "city_ascii": "Darling",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.3591,
+    "lng": -90.2754,
+    "cafes": []
+  },
+  "Montrose": {
+    "city": "Montrose",
+    "city_ascii": "Montrose",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.1257,
+    "lng": -89.2344,
+    "cafes": []
+  },
+  "Sidon": {
+    "city": "Sidon",
+    "city_ascii": "Sidon",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4079,
+    "lng": -90.2081,
+    "cafes": []
+  },
+  "Walthall": {
+    "city": "Walthall",
+    "city_ascii": "Walthall",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6069,
+    "lng": -89.2787,
+    "cafes": []
+  },
+  "Sturgis": {
+    "city": "Sturgis",
+    "city_ascii": "Sturgis",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.3452,
+    "lng": -89.0458,
+    "cafes": []
+  },
+  "Paden": {
+    "city": "Paden",
+    "city_ascii": "Paden",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6603,
+    "lng": -88.2606,
+    "cafes": []
+  },
+  "Pheba": {
+    "city": "Pheba",
+    "city_ascii": "Pheba",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5835,
+    "lng": -88.9494,
+    "cafes": []
+  },
+  "Big Creek": {
+    "city": "Big Creek",
+    "city_ascii": "Big Creek",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8464,
+    "lng": -89.4159,
+    "cafes": []
+  },
+  "Glendora": {
+    "city": "Glendora",
+    "city_ascii": "Glendora",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8275,
+    "lng": -90.2926,
+    "cafes": []
+  },
+  "Strayhorn": {
+    "city": "Strayhorn",
+    "city_ascii": "Strayhorn",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6159,
+    "lng": -90.1525,
+    "cafes": []
+  },
+  "Winstonville": {
+    "city": "Winstonville",
+    "city_ascii": "Winstonville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9123,
+    "lng": -90.7528,
+    "cafes": []
+  },
+  "Stewart": {
+    "city": "Stewart",
+    "city_ascii": "Stewart",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4522,
+    "lng": -89.4381,
+    "cafes": []
+  },
+  "De Soto": {
+    "city": "De Soto",
+    "city_ascii": "De Soto",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.9699,
+    "lng": -88.7205,
+    "cafes": []
+  },
+  "Tula": {
+    "city": "Tula",
+    "city_ascii": "Tula",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.2359,
+    "lng": -89.3656,
+    "cafes": []
+  },
+  "Rena Lara": {
+    "city": "Rena Lara",
+    "city_ascii": "Rena Lara",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.1587,
+    "lng": -90.7749,
+    "cafes": []
+  },
+  "Independence": {
+    "city": "Independence",
+    "city_ascii": "Independence",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.7078,
+    "lng": -89.8075,
+    "cafes": []
+  },
+  "Sylvarena": {
+    "city": "Sylvarena",
+    "city_ascii": "Sylvarena",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.0144,
+    "lng": -89.3818,
+    "cafes": []
+  },
+  "Biggersville": {
+    "city": "Biggersville",
+    "city_ascii": "Biggersville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.8367,
+    "lng": -88.5639,
+    "cafes": []
+  },
+  "Dennis": {
+    "city": "Dennis",
+    "city_ascii": "Dennis",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.559,
+    "lng": -88.2303,
+    "cafes": []
+  },
+  "Slate Springs": {
+    "city": "Slate Springs",
+    "city_ascii": "Slate Springs",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.7417,
+    "lng": -89.3752,
+    "cafes": []
+  },
+  "Dundee": {
+    "city": "Dundee",
+    "city_ascii": "Dundee",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.5271,
+    "lng": -90.4533,
+    "cafes": []
+  },
+  "McCool": {
+    "city": "McCool",
+    "city_ascii": "McCool",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.1995,
+    "lng": -89.3418,
+    "cafes": []
+  },
+  "Eastabuchie": {
+    "city": "Eastabuchie",
+    "city_ascii": "Eastabuchie",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.4335,
+    "lng": -89.2847,
+    "cafes": []
+  },
+  "Valley Park": {
+    "city": "Valley Park",
+    "city_ascii": "Valley Park",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.6371,
+    "lng": -90.8619,
+    "cafes": []
+  },
+  "Moselle": {
+    "city": "Moselle",
+    "city_ascii": "Moselle",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.5087,
+    "lng": -89.2824,
+    "cafes": []
+  },
+  "Learned": {
+    "city": "Learned",
+    "city_ascii": "Learned",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.1972,
+    "lng": -90.5486,
+    "cafes": []
+  },
+  "Red Banks": {
+    "city": "Red Banks",
+    "city_ascii": "Red Banks",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.8347,
+    "lng": -89.5634,
+    "cafes": []
+  },
+  "Pattison": {
+    "city": "Pattison",
+    "city_ascii": "Pattison",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.8908,
+    "lng": -90.8839,
+    "cafes": []
+  },
+  "Bolivar": {
+    "city": "Bolivar",
+    "city_ascii": "Bolivar",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.6606,
+    "lng": -91.0519,
+    "cafes": []
+  },
+  "Winterville": {
+    "city": "Winterville",
+    "city_ascii": "Winterville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5024,
+    "lng": -91.0603,
+    "cafes": []
+  },
+  "Tillatoba": {
+    "city": "Tillatoba",
+    "city_ascii": "Tillatoba",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9851,
+    "lng": -89.896,
+    "cafes": []
+  },
+  "Symonds": {
+    "city": "Symonds",
+    "city_ascii": "Symonds",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.8339,
+    "lng": -90.8895,
+    "cafes": []
+  },
+  "Scott": {
+    "city": "Scott",
+    "city_ascii": "Scott",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.5945,
+    "lng": -91.076,
+    "cafes": []
+  },
+  "Satartia": {
+    "city": "Satartia",
+    "city_ascii": "Satartia",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.6719,
+    "lng": -90.5445,
+    "cafes": []
+  },
+  "Waterford": {
+    "city": "Waterford",
+    "city_ascii": "Waterford",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6494,
+    "lng": -89.4575,
+    "cafes": []
+  },
+  "Leaf": {
+    "city": "Leaf",
+    "city_ascii": "Leaf",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.0276,
+    "lng": -88.798,
+    "cafes": []
+  },
+  "Fernwood": {
+    "city": "Fernwood",
+    "city_ascii": "Fernwood",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 31.1847,
+    "lng": -90.4531,
+    "cafes": []
+  },
+  "Benndale": {
+    "city": "Benndale",
+    "city_ascii": "Benndale",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 30.8686,
+    "lng": -88.8055,
+    "cafes": []
+  },
+  "Van Vleet": {
+    "city": "Van Vleet",
+    "city_ascii": "Van Vleet",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.9833,
+    "lng": -88.8972,
+    "cafes": []
+  },
+  "Jacinto": {
+    "city": "Jacinto",
+    "city_ascii": "Jacinto",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.7622,
+    "lng": -88.4276,
+    "cafes": []
+  },
+  "Dublin": {
+    "city": "Dublin",
+    "city_ascii": "Dublin",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.0727,
+    "lng": -90.4892,
+    "cafes": []
+  },
+  "Lamar": {
+    "city": "Lamar",
+    "city_ascii": "Lamar",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.9123,
+    "lng": -89.3151,
+    "cafes": []
+  },
+  "Delta City": {
+    "city": "Delta City",
+    "city_ascii": "Delta City",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.0738,
+    "lng": -90.7925,
+    "cafes": []
+  },
+  "Stoneville": {
+    "city": "Stoneville",
+    "city_ascii": "Stoneville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.4238,
+    "lng": -90.9216,
+    "cafes": []
+  },
+  "Porterville": {
+    "city": "Porterville",
+    "city_ascii": "Porterville",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 32.6855,
+    "lng": -88.4714,
+    "cafes": []
+  },
+  "Chalybeate": {
+    "city": "Chalybeate",
+    "city_ascii": "Chalybeate",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.9319,
+    "lng": -88.8703,
+    "cafes": []
+  },
+  "Austin": {
+    "city": "Austin",
+    "city_ascii": "Austin",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 34.6423,
+    "lng": -90.448,
+    "cafes": []
+  },
+  "Nitta Yuma": {
+    "city": "Nitta Yuma",
+    "city_ascii": "Nitta Yuma",
+    "state_id": "MS",
+    "state_name": "Mississippi",
+    "lat": 33.0236,
+    "lng": -90.8487,
+    "cafes": []
+  }
+}

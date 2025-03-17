@@ -1,0 +1,5074 @@
+{
+  "Rock Hill": {
+    "city": "Rock Hill",
+    "city_ascii": "Rock Hill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9415,
+    "lng": -81.0241,
+    "cafes": [
+      {
+        "name": "Purrfect Pair Cat Cafe",
+        "address": "1125 N Anderson Rd #101, Rock Hill, SC 29730, USA",
+        "rating": 4.8,
+        "user_ratings_total": 131,
+        "website": "https://www.purrfectpaircatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=11614829669169692170",
+        "lat": 34.967535399999996,
+        "lng": -80.9933916,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Shannon Hamrick",
+            "rating": 5,
+            "text": {
+              "text": "We had a great time at the cat cafe. The cafe is super clean. The cats were so happy and enjoyed all of the rubs and love. The staff is super friendly and helpful with any questions asked. It’s so warm and inviting. We felt right at home. My daughter and I had an amazing time relaxing with the cats. I highly recommend the Cat Cafe if you are looking to relax and enjoy the cats.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "T Horowitz",
+            "rating": 5,
+            "text": {
+              "text": "This place is fun! The kitties are all very nice and sociable. The 30 min went by super fast. Time flies when your having fun! They have great coffee and hot chocolate too! We'll be back to pet cute cats and drink some coffee. Highly recommend!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Victoria Coglianese",
+            "rating": 5,
+            "text": {
+              "text": "Purrfect Pair Cat Cafe is an asset to Rock Hill. The cats are well cared for and clearly happy. The staff is friendly and treats each cat as their own. The cat lounge smells fresh and clean despite housing so many cats. The good that they are doing for the community is undeniable.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0NlDJvJIS4Stp7hdVZfMX7rPjmpg7r9ML7dIEi7-X6qinrBNLj1ToS77_HaAnyQx8BweXpj2njTELiapFDS_rTbRvvL4YRy7qUVxce7oYX8IEwSn9MjZ5WI3TmjQxLfT7ug7NVboyINJyJkqDRSxwQdsF4osHLMeAoQoccoYJ7xVmQa-sNpyf6mFXAF59Vvtv2FPTlWWU0whWl97tos-dSZxRMk44utxVK5Ye8EI__A9udH3RjEju6OKs8CMQCfLnO1n8vCOnzQH_uWnCg-qruFLhXZDM7akH8LSRa9cJULg9pA9XcyhI0rreFULuIol7km2rDrinqzn20t_bNsZ60mAYg-ui4M7I9mZkwCoom1azThnApjisFq4hD8BVgwR_07yzzVEoiRBKgPuOeXxVaYLhlPK-t&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3594,
+    "lng": -79.2958,
+    "cafes": [
+      {
+        "name": "Purr & Pour Cat Cafe",
+        "address": "908 Front St, Georgetown, SC 29440, USA",
+        "rating": 5,
+        "user_ratings_total": 628,
+        "website": "http://www.purrandpour.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=2507002919751854769",
+        "lat": 33.3676713,
+        "lng": -79.2849433,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Bradley Coleman",
+            "rating": 5,
+            "text": {
+              "text": "This was one of the best experience's my girls and I have ever had. The place was so well kept and clean. Unfortunately, since we already have so many animals of our own, we weren’t able to adopt, But every cat in the cafe is needing a good home! Every entry offers one drink which I thought was very cool. I am so glad we stumbled upon this place. It was affordable and such a great memory for my kids.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Ashley A",
+            "rating": 5,
+            "text": {
+              "text": "Such a cute place that is doing a good thing. My teenage daughter absolutely adores cats and wanted to come here. It’s $12 per person to do an hour long session with that cats. It comes with one free beverage of choice each. All of the staff was incredibly kind. I enjoyed looking all around at the many fun things they had for the cats. We had the last hour scheduled (you can reserve your spot online prior to arriving) and one of the owners showed up to help the ladies close. He was also kind and friendly. Highly recommend. I took more videos than I did photos and I can’t add videos. The kittens are in the cage bc they aren’t old enough for their shots but will soon be out to play!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Misty",
+            "rating": 5,
+            "text": {
+              "text": "Absolutely loved it here, one of my favorites. The cats were so cute and lovey, the staff were so attentive and so lovely to talk to. Definitely recommend to stop here if you’re passing through.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3ovbwlLCrB9988e5AGK3_-UTEmaIRlC1LMT4iMP55LLCleYE00HHXSb2f7m5XpRWQqaEq8JSRaxIkXC3-7Wx-NTnwAH9CSv1gimv0SAVcg7GNGQuYjrZl0YUJw-xVaZEZxzJcIAOYbV2q5U71Gh-g34EN9pdZ56130tRPVe5lYQvIShAIuTpUGTc-Qfe2DjTMijqSSAFo6pToBbTUEzHRne3c5R-ztq4k-zEcrJSpyz3pnAXn87lZwmp4yZsy9_gbbsX82Vl8VZSEtXwB3Tc0zsOEC3SU71CesapxpSMktyw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Fuquay-Varina": [
+    {
+      "name": "Right Meow Cat Cafe",
+      "address": "913 S Main St, Fuquay-Varina, NC 27526, USA",
+      "rating": 4.9,
+      "user_ratings_total": 398,
+      "website": "https://rightmeowcatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=16308796525521779219",
+      "lat": 35.5710488,
+      "lng": -78.8002777,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Tina Goss",
+          "rating": 5,
+          "text": {
+            "text": "Brought my daughter and friends here for her birthday.  Was an adorable place, super well done.  Decor was fabulous, cats were lovely and atmosphere is tranquil.  They also serve beverages.  I'm guessing we will be coming back!  Love the mission of the place for adopting cats and finding them forever homes!",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Rocio R M",
+          "rating": 5,
+          "text": {
+            "text": "Lovely and unique cafe! We made a last minute reservation online. As suggested, we arrived 10 minutes early to park and order our drinks (highly recommend arriving early!). The place was immaculate. It was very clean and free of odors. I’m not a cat person (my daughter is though- hence why we went!), and I fell in love with cats right there and then.\nYou can really tell they care about the safety and wellbeing on the cats. They’re all very clean and healthy. The place is calm and welcoming for both cats and humans. The cats have a large variety of places to go play, hide, sleep, etc., and cat toys are available in every room. We loved reading about each cat and getting to know them all. We were even given treats to feed the cats. The drinks were great, and my daughter tried the (“very artistic”) red velvet cakepop. A friendly staff member kept coming in to check in and answer any questions. If we ever decide to adopt a cat, this would be the only place we would adopt from.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Jennifer Webb",
+          "rating": 5,
+          "text": {
+            "text": "We love this place!! It has awesome drinks and booking time with the kitties is so special. You can tell the priority is the well being of the cats because they have so many amazing places throughout for them to hide and get out of reach if they are not feeling people-y. You will not find a cleaner establishment. (And if you didn't know, all the cats are up for adoption! Sadly we cannot due to allergies in the family but we love to go and support them).",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2oBCjneWf-AiFc5zG5uwulBetTMtP9tQu37HGbI-yanHh9FteEakjtAt4O0jXMkj4wOmhLDJr-bSXs4jnWQVgVyG286urI62oNBXXAXHgaZh6Bp4SSOmrZziNzH5ZkeZBq4JTPrEXp6TtLMQSFdV6HPEGlY3rx4T_n9snwgBOYFyGZLueJajSp66NqmXsTCXb-QZa9FGUrhKN8QHrGnN5pwv35fywyjPhDARWMPdxkJv4ykhpmZm4cCZg23Lkduf3CCcgi0c6iYjXA3asNVGECCr3WWVwpbXUtayWLIaJTyO4dmK4E5ywKS5purs2YXuv6O522NI_4u1IiWeSU9zjBev60QvjKF_M8jWlAdgp_A7ih0oo-3h9zUNYGPLPQo5rL1oqk-H4i9Bq7aUhMWlBWgR6rZ82t&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Columbia": {
+    "city": "Columbia",
+    "city_ascii": "Columbia",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0378,
+    "lng": -80.9036,
+    "cafes": [
+      {
+        "name": "Cat Daddy's Cat Café",
+        "address": "2533 Main St, Columbia, SC 29201, USA",
+        "rating": 5,
+        "user_ratings_total": 21,
+        "website": "https://www.facebook.com/share/1GxWpirdip/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=17021465948274308377",
+        "lat": 34.019918499999996,
+        "lng": -81.0421488,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Isabel Gunnels",
+            "rating": 5,
+            "text": {
+              "text": "I absolutely adore this cat cafe. I have been to other cat cafes and this is definitely my favorite one so far. The price to see the cats is the best I have seen, the drink and food options are good (the dalgona coffee is so delicious!), and the gift shop is so cute! I have been here twice so far and I plan to be a regular when I need to destress. Please see the photos I took below. Feel free to use them if you want Cat Daddy!",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Brianne A.",
+            "rating": 5,
+            "text": {
+              "text": "Had a wonderful time at Cat Daddy’s Cafe! The cats were absolutely lovely and so friendly, making the experience even more special. The staff was just as welcoming and kind. A perfect spot for cat lovers—I’ll definitely be back!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Emma Butch",
+            "rating": 5,
+            "text": {
+              "text": "Such an amazing experience that everyone deserves to be apart of! Everyone was so welcoming and you can just tell the furry friends are so loved and well taken care of! For only $10 a person, this was truly such an amazing day spent here. Don't forget to grab a delicious treat on your way out :).",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1315An8a9M03eIZNTXuf4HgUtpc6WNA8Jbpf5juFrC_I74ymBN652Nkwuc7rxwrTgzBHdXOJbvopixhrMvTec58rgZtnE5m0l-_X0CqZdg8nKy_-edUYnerl9eqtkmzeu17eT5fQVzB9E1PrEGbhH2lppZhRMx98m3ez2xNyw99bV4mkJplbdHPgdkBHj-n307LqqhvRrD7MwGJ3MkF0Nm6_SMLwGXbs9xWuHlugsYSkNknXIDZT048z2Pol4di4y03nTapi-knp1SbBqZJskVJTKkrp3I2morz4yH5p5FScQWTyaHrgPbB8a8fXdgkgTScE1IhiTlR1HwsGJW3ywD_lidrfPExBuBcmZHoxBa-k2LWvvGmJvcZ-5GZk_57yMaN-lcWyGrO9rynOvM1OPj2ba1rZE&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Charleston": {
+    "city": "Charleston",
+    "city_ascii": "Charleston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.8168,
+    "lng": -79.9687,
+    "cafes": [
+      {
+        "name": "Pounce Cat Cafe + Wine Bar",
+        "address": "283 Meeting St, Charleston, SC 29401, USA",
+        "rating": 4.7,
+        "user_ratings_total": 1001,
+        "website": "https://www.pouncecatcafe.com/about",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=7270186334739866306",
+        "lat": 32.7845935,
+        "lng": -79.9331385,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": false,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Sandra Wojak",
+            "rating": 5,
+            "text": {
+              "text": "Loved our experience here! I was impressed at how clean it was. There were 16 adorable cats but there was zero smell.\nMy girls and I had a great time playing with the kitties and eating our snacks.\nI love the idea that cats who need a home stay in this lovely environment instead of a cage at the animal shelter. They all seemed happy and well taken care of.\nThe staff was super friendly and knowledgeable on each cat there.\nMaybe next time we go we will adopt one of the cuties!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "angelica delafuente",
+            "rating": 5,
+            "text": {
+              "text": "We had an amazing experience at Pounce Cat Cafe, and the Team at Pounce were wonderful! There should be more places like this everywhere. I purchased the date night package which includes drinks and snacks while we interact and play with the kitties. The hubby and I got there and didn't know what to expect, we just knew we wanted to add a fur baby to our family. We were quite surprised and happy that we were chosen by a little girl and we couldn't say no to her. We filled out the application and we get to give her a forever home. I would definitely recommend a cat cafe if you are thinking of growing your family.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "p win",
+            "rating": 5,
+            "text": {
+              "text": "Pounce cafe was delightful.  If you’re looking for a relaxing little break in your day exploring charleston, or if you’re looking for a cat to adopt, check out Pounce Cafe.  Every person in there was just happy and relaxed and smiling the entire time. If you’re looking to adopt, this is a great option. Even in just an hour you can really get to know the temperament and personality of some of the cats.  Some are more snuggly, others more playful, and of course there are some that are a bit more spicy.  They partner with local shelters, and the people there are amazing to talk to about each cat, and how long they’ve been there and what they’re like.\n\nWe actually ended up going in twice during our stay in Charleston, and the second time decided to go with the ‘Cat Whisperer’ package. If you really want to make sure you get a few cats interacting with you, or in your lap, then they give you a little bit of treats and catnip. It’s still a great time without it, and there are toys and things all around to play with for everyone to use.  Be careful though, it’s gonna be hard to leave without wanting to bring one home with you.",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1dgOBu9eIcMfpPxc68jANbh84Yc_7RaYZsJzjM9ffvr7iMcACJsy3gZLs95Otll8OV3NZkHq5L0eMPlCD_IAnzjo5UiSL-SG1qZTsp-xJ954zKoEeWuDfGwbCKekRz6_640y6wIKaTgUGF7i36A_cTBlVpdJfl6r4pXgzn8mq0sr0DhOqlduD3LwOsQ13eQkk9Wy3B53eILZKXnVktNGh8He_JfkOsEtt2yjdmZEOpobRfMx6041nDudLHDyKA0Y7X_QRbhkvoPOfGJO_ze_acAOPV97om4bPYAaIM1h272w&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Charlotte": [
+    {
+      "name": "Mac Tabby Cat Cafe - Charlotte",
+      "address": "3204 N Davidson St, Charlotte, NC 28205, USA",
+      "rating": 4.8,
+      "user_ratings_total": 1042,
+      "website": "http://www.mactabby.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=7912872156771054440",
+      "lat": 35.247082999999996,
+      "lng": -80.8054386,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": false,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": false
+      },
+      "reviews": [
+        {
+          "author": "Hannah",
+          "rating": 5,
+          "text": {
+            "text": "Such a great place and I have to say the staff do such a good job taking care of the cats. The cats seem so happy, well fed, and playful.\n\nThe coffee was great as well!! I got the brown sugar oat latte. It was perfect. Very sweet though - if that’s not your thing.\n\nCute cats + great coffee? We even did cat tarot card readings 🐈‍⬛. It was a phenomenal time.",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Amber Eskridge",
+          "rating": 5,
+          "text": {
+            "text": "I had so much fun here. The woman working the counter was so nice. Their decor was super cute. The best part of course was the cats. I had the best time playing with them. Especially their two senior cats they have right now.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Colleen McArdelle",
+          "rating": 5,
+          "text": {
+            "text": "We flew into Charlotte in the morning and were looking for things to do until we could check into our hotel. We found Mac Tabby and easily made a reservation.When we arrived, we were greeted by a staff member and escorted to the cat room. It was great! There were other people in the room, but it wasn’t crowded at all. There were plenty of places to sit and many interactive toys to play with. It was clean and the cats were well cared for. They had places to climb and they could get away from the humans if they wanted to. All the cats were so sweet and playful. The hour went way too quickly! If we find ourselves in Charlotte again, we’ll definitely be back!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1St67Yiqp-vEMucWD_wQeoUKI46P5uTV3OML075B26Pc0LQVPTGMHw97gOwHuwUIRraadtfxGbk4FUoalV6sWoxk8ArBtQniy2dQWxU2HoXACfAwtxp7iD_iO6n4VljtFIL6KOC7ko7dZjpEwMuAEN6L3zHPpan9bTlE7a2QafH9XPD_2x_vnYqQxRC6djlh3zdwnRiSjYxgUu2zoGYQgzE3YjutpB6IxjoVoasXrx9SAG8JxZS04QoU97VQDZeOlp4gIloKPVxSRmSy6d2xhJ92BW70qgUvo3fR-3BxR4Qw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    },
+    {
+      "name": "Smelly Cat Coffee House & Roastery",
+      "address": "514 E 36th St, Charlotte, NC 28205, USA",
+      "rating": 4.5,
+      "user_ratings_total": 934,
+      "website": "http://www.smellycatcoffee.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=8877206224451834607",
+      "lat": 35.247177,
+      "lng": -80.804324,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Katie",
+          "rating": 5,
+          "text": {
+            "text": "I was actually quite surprised how good the coffee  and food was here and with decent pricing considering it is in the NODA area. My husband and I ordered a Dirty Chai, A latte, a biscuit, bagel and breakfast for Burrito all for $35.\n\nYou do have to ordered through an iPad yourself at a self order kiosk station which you may or may not like. It luckily wasn’t busy and had to wait long, but I can definitely see getting annoyed with people in front of you ordering and taking forever not knowing how to use an iPad ordering system and have multiple things to order. After you order they then will call out your name at the next window to the left of the kiosk station.\n\nEither way, I definitely would come back here again because of the quality of the coffee and food were really good in my opinion.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "James Moller",
+          "rating": 3,
+          "text": {
+            "text": "I wanted to like Smelly Cat more than I did. While the coffee and food was great, the service experience was very subpar. Not only was ordering done on iPads but you then had to wait 20+ minutes by the pick up window. If they expect that sort of wait, a better pickup system needs to be in place, whether it be a text or buzzer. Rather than spend time with my friends, I had to spend 15 minutes waiting for my bagel and then another 15 waiting for my cappuccino.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Tia Walker",
+          "rating": 5,
+          "text": {
+            "text": "We’re just visiting Charlotte for the weekend and found this place & are so glad we did! The owner was more than accommodating- she explained the menu and even suggested samples before we ordered to make sure we got coffee that we really enjoyed! She went above and beyond to make sure our experience was excellent. They make all of their syrups and even roast their own coffee! The inside has a few tables and does have AC, she does lock the front door though always so just order at the window first and she will give you a table inside if you’d like, or there are lots of spaces outside to sit too! I had the lavender cold brew and it was delicious. My friend who came with got a decaf latte with spiced brown sugar syrup (which was homemade) & that was fantastic too! They also have some Cuban coffee that I would love to give a try too! We didn’t order food, but would’ve gotten a bagel, frittata (only served on weekends), donut, or sandwich. Highly recommend this cozy, welcoming coffee shop!",
+            "languageCode": "en"
+          },
+          "time": "a year ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ01_iCczrxi-A_AIO22xnudF24llS5vm0aPdbMb2nBEX_1RakIKnkMUmaL4LOXG8mBrhuLvH4TFx5HpIHAnO_QRL7V4v-WSpLRRA-IAO3tpFUo5gtvz7F2bpR6cM9ZxZIJ14OqfVBwQVrF_jfUyIurUtEjcvKEWbQI58acQyUA6e2RlstTRuxsz5nMig9vGQYmWtXUPStXyTDBzCFhLa8hBuSP1I-_D3QXRiaxiwdPSqZ-GcWmLykX8lhP0mDJBNVdKIPBFyUQmAEGmhcOvQ5FzKkIKHetj2RTzCED0EJv4Ng&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Concord": [
+    {
+      "name": "Mac Tabby Cat Cafe - Concord",
+      "address": "25 Market St SW, Concord, NC 28025, USA",
+      "rating": 4.9,
+      "user_ratings_total": 280,
+      "website": "http://mactabby.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=15910965298377115772",
+      "lat": 35.4096832,
+      "lng": -80.5810394,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true
+      },
+      "reviews": [
+        {
+          "author": "Amanda",
+          "rating": 5,
+          "text": {
+            "text": "Had the most amazing time here today! The staff were very friendly and patient, coffee was done quick and it was really delicious. I would come here for just the drinks. Hanging with the kitties was also amazing. They were all so chill and it's really fun to watch them all interact with each other/do their own things. There's something therapeutic about being in such a cozy environment with so many kitties. Will definitely be coming back, absolutely worth the 40 minute drive :)",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Kathy",
+          "rating": 5,
+          "text": {
+            "text": "A MUST visit if you loveeee cats 🐈 ☕ Coffee, latte, smoothies, beer/wine 🍷 The kitties are all adoptable, yall! Come experience this place. The ambience is so inviting and extremely clean. Outdoor patio with string lights and patio heater /fans. You know you want a great drink and pet the sweetest funniest cats. 😍 Solid 10/10",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Ollie D",
+          "rating": 5,
+          "text": {
+            "text": "Phenomenal place! The staff were friendly, the place itself was inviting, and the cats were adorable. It's 10$ for half an hour and 14$ for an hour in the cat lounge, and the coffees are about 4.50$ on average. I tried a coffee and a cream soda and both were delicious. Drinks were allowed into the cat lounge. They had seasonal flavors for coffee, and the cafe was decorated very nicely for the holiday season. The cat room itself was spacious, with a variety of cat toys to use. There was a TV in the corner of the room that played a slideshow with images and names of the cats, and all of the cats are listed online as well. Overall it was an amazing experience and I'll be sure to visit again when I'm in town.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2c5GbRMi8dLodnUdLTKljtCfmN5ujon3klNNoWI0Hbj3trRBT0VKF9kO0yu0T6j_YfL1aHe-wa8uXoI2kj4LW2kvofKBBFtuvD9lTz-9coTEO95cfVwQ0wuzpLGL_vv2O0jpvgT59XsE5qMIIhmK_aU4fMtHS48OpSk0VEsFRsL2zzSCq5cmCG1FcEnDzBH4uPpJQjlbJj4eH9d3d8A5RNGqQGdsLRWop3JdVEiSL8C6RIFAnjMuWhzvXkn5BROTnrsHYM6thLminhnIPuCgIHsrKCXQuNnQPoFfNR_dRYpVIrs6_03Zo4EslB-rvIiBZ9It62zdRyn__oGR7gFg6JrY0rO9s1dsqZKvSs6k7V4G_JbHyhpoTpyTGcqE0X9CYppStkYrNXShssp8mH5x-TSCuaIko-sA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Gastonia": [
+    {
+      "name": "Cool Beans Cat Cafe",
+      "address": "176 S Chester St, Gastonia, NC 28052, USA",
+      "rating": 4.8,
+      "user_ratings_total": 258,
+      "website": "https://m.facebook.com/coolbeansgastonia/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=15930298311947721177",
+      "lat": 35.2627233,
+      "lng": -81.1869042,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Sophia Benoit",
+          "rating": 5,
+          "text": {
+            "text": "This place is so adorable and amazing you can tell they really care about the cats and there’s some rooms that’s off limits(i believe just for the cats/employees) and it’s an amazing idea to let the cats be able to take time away if it’s crowded!!\n\nThe rules are very simple and easy to follow for their safety and all of the cats are sweet they either rubbed against my hand or gave me a kiss, some are silly about trying to get the straw to your drink. (we didn’t pick up the black kitty i think his name is Sags he hopped onto my BF to try to get his straw but we respected every rule for their safety)\nI also love how you can adopt them as well, MASON MY BELOVED ILL MISS YOU FOREVER i wish i could have gotten him i love his little curly belly and his cuddliness!!\n\nWe got a hazelnut frappe and a lavender frappe and it was so yummy! The girl who helped serve us was also so sweet and informative on all their names and personalities this place is an 11/10 we’ll definitely be back soon hopefully to adopt! Thank you so much :D",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Eric Mayfield",
+          "rating": 5,
+          "text": {
+            "text": "Amazing little cat cafe in the heart of downtown Gastonia. They have an assortment of coffee, tea, bakery items, and snacks for you to enjoy while indulging in the absolute cuteness of adoptable cats.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "jonmarkheaner",
+          "rating": 5,
+          "text": {
+            "text": "Summary: superb coffee, fun atmosphere, great place to chill yourself or with some friends or family!\n\nI got a plain latte, as I usually do and it was exceptionally tasty- bold and smooth.\n\nI stumbled on this place on the way home from a family outing and thought I’d treat everyone to a fun experience- and fun it was!\n\nYou pay a fee to get in the 3 rooms where the cats are and you must chill and pet them as they come up to you. There’s little toys if you want to try to entice them to play.\n\nI highly recommend going here, even if you only like coffee- there’s plenty of seating away from the cats, with a book area and a table.\n\nMy family knows I’m not normally a cat fan, but I had a good time!\nAll in all it was a great experience and we’ll certainly be back soon- me mainly for the coffee, my family mainly for the cats.",
+            "languageCode": "en"
+          },
+          "time": "a year ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0aOYa0jscT1pPJbN04Iwb_iF0UEyeNrlNdg75ugjNeLbjTnIdFCqAJCF4Pg8l7eT058OAYc5bBBdv_mk2X37QS_4dapn1MXwmkW317bO1fKxyGZdaU7kl3rm5lxavMvk9SvbWpJ3xA-3fzbd8fNkZUfLQnhIMCAKecsVqZSyZmhNp8i171nAkApIT3oIUcReAeLzUjf4jcb1Eh9oi0Njybph93Ce47EXDWGd177i1sHixbmox19DmdYslPZ8z-DD_13pfcvEDAGMq_33BcmfG9ra9eDiQkDmHD22rqP4Ly2Pt-HEWsJhuT7iJdzkPmRlNOwrEtSq-0ckhpxlCJExcZFNggRuDherswiEMmToifEqW2wYS7SbsNrJv6rz1OUz1ISXT_fwxND-h3Ct43sS9rcvDdb9k&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Raleigh": [
+    {
+      "name": "Purr Cup Cafe",
+      "address": "210 Prospect Ave, Raleigh, NC 27603, USA",
+      "rating": 4.7,
+      "user_ratings_total": 521,
+      "website": "http://www.purrcupcafe.com/",
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "google_maps_url": "https://maps.google.com/?cid=9506324057567138101",
+      "lat": 35.7630905,
+      "lng": -78.64857280000001,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Ajay Shirali",
+          "rating": 5,
+          "text": {
+            "text": "I had a fantastic time at Purr Cup Cafe! The cats are very healthy and well taken care of, which made the experience even more enjoyable. The setup is great, providing a perfect environment to play and relax with the kitties. Plus, the coffee was excellent! Highly recommend this place for any cat lover.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Katya Кейнс",
+          "rating": 5,
+          "text": {
+            "text": "This is such a cute little cafe! Went to see the cats and had a great time + bought some cute cat-related items for cat lovers I know. Lots of cute merchandise! Hats, shirts, pins, cards, etc. you’ll definitely find something cute for someone who loves cats! Check it out!\n\nThe cats were also friendly and curious when we went, especially the orange cat, Chives! He thought he was the king in the castle 🏰 and owner of the cafe 😀. Full of personality! If you are looking to adopt a cat, definitely check this place out and maybe you’ll be lucky enough to meet Chives while there 🥰. He was up for adoption too!\n\nEach time slots 1 hour. Plenty of time to finish your drinks and pet/play with the cats! The cats like the really fluffy toy that looked like bird feathers. If you shake it real fast, cats get very into it (maybe thinking it’s a fluttering bird 🦅😀)!\n\nI wish there was a larger waiting room area. We arrived kind of early and there’s just one table with 2 chairs in the waiting room. But the place is tiny, so I understand the space constrains. You can always wait outside on the porch or look around for cute merchandise.\n\nBy the way, I got a lavender matcha tea at the cafe and it was excellent! Unusual taste, which I really enjoyed!\n\nThe place is LGBTQ-friendly and has lots of pride merchandise.",
+            "languageCode": "en"
+          },
+          "time": "8 months ago"
+        },
+        {
+          "author": "Zac Foster",
+          "rating": 5,
+          "text": {
+            "text": "Purr Cafe is amazing!! What a wonderful place. Coffee + kitties? Yes please. The kitties are adorable and lots of fun to be around. There are lots of toys for the cats and tons of joy all around. The atmosphere is excellent and the service is top notch. We were fortunate enough to be well taken care of by Nia and Leif on our visit this weekend. Thank you both so much for making us feel so welcome and raising our experience level even more by your thoughtfulness!\n\nGood coffee, too. Fun merch available. Definitely a must visit if in the area and you like cats and or coffee!",
+            "languageCode": "en"
+          },
+          "time": "8 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2MwBlUl0783SaqhgQrCtxgdHJlK6KBuzpgEhaJTgGBFlaxbWVlmlCc8hniDRAJXUaokjOebaUCeVt1V7KkrdX5c-8FqV9b0LqZ3Kfh6IAwA_ttdZHG4FyI561GL0HaiGYvKkknj7chDQfWFr-mTSO2cz353U7Ze8Jpk8IlLpX9flQWiZyRpgWnapH4ZZi8oibg5IoPBHhTTQRS9qUXT_ynndDuYiYR09yzKe4NjnIlPCLfWtysiyqgp37YxZp7UpWaNBVf-NSmPFe5vtmNT4aDDmqyfHI2pGDfS9VRykU3AQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Lincolnton": [
+    {
+      "name": "The Purrfect Pour Cat Cafe",
+      "address": "145 Vandiver Dr, Lincolnton, NC 28092, USA",
+      "rating": 4.9,
+      "user_ratings_total": 57,
+      "website": "https://thepurrfectpourcatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=4219890033417430956",
+      "lat": 35.4963567,
+      "lng": -81.2428193,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      },
+      "reviews": [
+        {
+          "author": "Jennifer Ahern",
+          "rating": 5,
+          "text": {
+            "text": "Booked an hour to play with the kitties and did not disappoint! It was the best way to celebrate my birthday. The cafe is super cute, the latte was really good and very reasonably priced! The owners are the sweetest and could tell they care deeply for the cats. They had some kittens that were so playful! Please go by and support this local business even just for the coffee if you're not a cat lover.. I will be back for sure!!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "kristal Howell",
+          "rating": 5,
+          "text": {
+            "text": "We took our daughter for her birthday and it was amazing. The owner is so sweet, the coffee was amazing and it doesn’t get any better than spending time with kitty’s! It’s super clean and the adoption fee is so affordable. Highly recommend you go grab a beverage, a snack and adopt a cat!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Hailey Farver",
+          "rating": 5,
+          "text": {
+            "text": "They were absolutely amazing! My husband and I recently adopted our sweet girl from the cafe and we absolutely love her. She was a bit shy at first but has since opened up with our other cat and our dogs. We can not thank you enough for our newest addition❤️",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0yxGVtQuJ09rVHg3xtrQun69D3RdDW-ZDNkVzHja_owF8_nUxjxupdbfIc06HVf0sBLYij9m16ejpit4A7DU2WkjDcFVnfy5pWJaJaOm78KKLmf-BYHGBujjs80EFU30tD_raTmpmtP-ZXkJMkp2Ex2djgCU72rApKxkzIj8qNZZf2SeL4Hmk4b8vUIpnzlrrauUAxVXRizUbrMcEgag-MZ5HS2RQ_o779K4wDUPuM-XauJNKjtRqZkDyN9zsfVD8xeXDnXo50MP2ejRl42OWM_bgAdwyQC3ckK1XtqDjufQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Fayetteville": [
+    {
+      "name": "The Farmer's Cat Cafe",
+      "address": "2589 Gillespie St, Fayetteville, NC 28306, USA",
+      "rating": 5,
+      "user_ratings_total": 16,
+      "website": "https://farmerscatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=15612696136439103233",
+      "lat": 35.0081401,
+      "lng": -78.8974259,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true
+      },
+      "reviews": [
+        {
+          "author": "Addison A",
+          "rating": 5,
+          "text": {
+            "text": "This place is adorable! We made a reservation as a pit stop while on a day trip, and it was amazing! The cats were adorable and fun to be around, the food was good, and the owners were so kind! Highly recommend if you’re in the area!",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Susie Sullo",
+          "rating": 5,
+          "text": {
+            "text": "We had a great time visiting with the cats and kittens . I ordered an ice coffee and it was delicious !!! My kids ordered a smoothie and enjoyed it as well. The owners are super nice . Will be back for sure",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Charlea Malin",
+          "rating": 5,
+          "text": {
+            "text": "This place is phenomenal!! 13/10 recommend! The owners are amazing and the kitties are so stinking cute! If you have time, this is a great place to relax and have your stress melt away!",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ04d7sTv14kgR6bZy3gAlPUTpgSKh9k8UGRMUxkSF8PlwwHxiAvXfTFH4Th08FJfZvHWH26qxLhKCrPFm-i3WjaTC8YulOs3bSGnmFvR84fwCjzGynldHlYAkI4wjI-DT6Fu9UtHpBLQJGzyaHpTZXPQ41I6t1XPKHgvLB2SLmeCJHKAM3ZJMbWkthfKV-G_3cKEjT0ZwiUV_hKFRNkmSbQzzuswjN9Z1G5HSm75PQlpuFKkcV7Wl42l5-paFTkm9jBxzeOMMCAfluBHdctmSXwZaP0oHawdPcqpySGjXVDdQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Savannah": [
+    {
+      "name": "Pounce Cat Cafe",
+      "address": "404 W Broughton St, Savannah, GA 31401, USA",
+      "rating": 4.7,
+      "user_ratings_total": 505,
+      "website": "http://www.pouncecatcafe.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=3390231914089388831",
+      "lat": 32.0803162,
+      "lng": -81.09647629999999,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Rebecca Fitzgerald",
+          "rating": 5,
+          "text": {
+            "text": "I loved my visit at Pounce! The cats were so sweet and relaxed. They’re very well taken care of! Everything was so clean and the service was amazing. I had a meowmosa and I loved it. I wish I could’ve taken Shogun home with me, he was a sweetheart. I hope he finds a loving family soon!",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Marissa Lopez",
+          "rating": 5,
+          "text": {
+            "text": "I’m not a cat person but this place was great. It’s a very calm and relaxing atmosphere. There are apparently people who come here for weekly therapy, which makes sense. The best part about it is the cats are adoptable. The store has adopted out so many cats over the years that they emptied out the Humane Society in the city and have to import their cats from the next nearby city’s Humane Society. This place helps humans and cats.",
+            "languageCode": "en"
+          },
+          "time": "6 months ago"
+        },
+        {
+          "author": "Carissa Brown",
+          "rating": 5,
+          "text": {
+            "text": "I didn’t get any food, but they do offer a few options. The staff is great- both with service and keeping the place clean. The environment is always spotless and never smells like it hosts 10+ cats daily. Candy Corn and Demeter were my favorites and I hope they get adopted soon!",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0Bkm3HMndQTCZJ-_gTNiXQYVYcwVOipI1SYiWVTbn7HIJqaMht5t9Z6PJWKGGfX1hWjSPMJ29bQgi3MN9N5uXO9OdPpx7SGcZFtyyeOfrGYgh7SFjmlNNYkx-r39Fw_ot24RrocK2cN8aHhUV0dtUVLVhr_wvyOHvGBuWMYWXFO76glaKJFJ3tKtj0T5J2ej4LRR-iF0FJVu3wB2SrGC5_8lH9fz0lYv-tnZifRfg8hsBug83lqX18m5L3_dKsAA5e5-1DNB58JBHy74DRDE7E-DvLNA-Q-G8NvNiqI8GRGg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Salisbury": [
+    {
+      "name": "Mac Tabby Cat Cafe - Salisbury",
+      "address": "103 S Main St, Salisbury, NC 28144, USA",
+      "rating": 4.9,
+      "user_ratings_total": 53,
+      "website": "http://www.mactabby.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=1713090076004610017",
+      "lat": 35.667119299999996,
+      "lng": -80.4700125,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      },
+      "reviews": [
+        {
+          "author": "Mark Wilhelm",
+          "rating": 5,
+          "text": {
+            "text": "First time at a cat cafe. Bought an hour for my wife and I to hang out Valentine’s Day. Cool place. All the cats are adoptable. Have a latte and pet some cats. Nice relaxing experience and the money goes to care for the cats. 1900+ adoptions. Feel good place!!",
+            "languageCode": "en"
+          },
+          "time": "3 weeks ago"
+        },
+        {
+          "author": "J D",
+          "rating": 3,
+          "text": {
+            "text": "We’ve driven by this cat café many times, and our kids have been wanting to check it out. We finally visited with six of us in our family(we are typically 8). While we appreciate that the entry fee helps support stray cats, the $8 per person charge for just 30 minutes felt excessive—especially for a larger family. On top of that, purchasing drinks added to the overall cost, making it an expensive outing.\n\nWhat made it even more disappointing was that there were only three cats out to play, and with another couple in the room, interaction was minimal. We mostly just sat and watched the cats, which we could have done from the window without paying admission.\n\nWe understand that caring for the cats requires funding, but a lower entry fee—or at least ensuring more active interaction with the cats—would make it a better experience. If the pricing were more reasonable, we’d be happy to visit more often and support the cause. Unfortunately, at its current cost, we won’t be returning.",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Heather Stewart",
+          "rating": 5,
+          "text": {
+            "text": "1st time at the Salisbury Mac Tabby location. Great place to grab a coffee and socialize with the kitties. Loved the windows for the cats and there was even a window seat for people too. The staff were friendly and helpful.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3Fh9Y2uj7q9ksB6RBE-w2cR-jsbUk0AHO2R33OS851z5L3G72SajUM2zf_Pt_6pTe1d_JYcWdgj-rop38K-1OmHUvTH9EvWNg1zcBPhTgUvqgXq5wG_ZVgxvzEpdngbAwwbDkMCRwWn58NIL9S64jfXyQxalit2DPqaXbckSMn_A8lBP7S4o_IQoWMNYA_GVoNdMnloig5FcG9QS0qwY10wdrK0Djstzn_Yib4AYLHNudRTl4z9p5wqV1Fgh1wL0M59HU9gWCSB1wDRrP_NNYYmeGD6dNYRPYu437pPgmXnA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Chapel Hill": [
+    {
+      "name": "Cat Tales Cat Cafe",
+      "address": "431 W Franklin St, Chapel Hill, NC 27516, USA",
+      "rating": 4.8,
+      "user_ratings_total": 266,
+      "website": "https://cattalescatcafe.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=14301029077570464908",
+      "lat": 35.910265599999995,
+      "lng": -79.0626892,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true
+      },
+      "reviews": [
+        {
+          "author": "Dave Cameron",
+          "rating": 5,
+          "text": {
+            "text": "Great place that takes care of cats - and allows people (for a fee) an hour to play with and pet the cats. There were about 9 of them when we went. You can buy drinks and get ice cream when you get in. Some cats wanted to be petted and would purr; others wanted to play and there were many toys. We spent the whole hour and it went by quickly. The cats are meant to be adopted.",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Phyllis Hobson",
+          "rating": 5,
+          "text": {
+            "text": "Such a wonderful Cat Cafe and a great experience! The cats are obviously well cared for, the place was very clean, and it was a very relaxed atmosphere to visit the kitties. There were about seven of us in the location, and it never seemed crowded. The person helping at the front desk was very knowledgeable and patient with everyone, and they had a lot of cute things to shop for as well. Would definitely recommend this place!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "ellie",
+          "rating": 5,
+          "text": {
+            "text": "An amazing place! Employees were so kind in helping me find a cat to adopt and very communicative during the transition period of bringing her home. The cafe itself is very clean and entertaining for cats and people with plenty of well cared for and well socialized cats. Cannot recommend this place enough!",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ17cEkG0URBV3EWMs5OuxVU6moyWr5xyuGRQqY5RJYZPlayQghq4rmqlg42AYez9ivLXeGUb96bDPzSTmJCeI3keNT_3r55nXXgiIpAGJmmqXg8uQkjX4yXNA5ksB5Fj_6OkOWeGs1IgFlKmgDK75gkOEvlyulQpCrOzN_QJZ-_WrL8Iq_K9IbXsn9xbzojBX61I4kC0E6Fwqjjh9bIBppJVXiuFOIxMJOgOJP-3GSnMXzuFMIYsqKxHJKUczPRUydbbCcVlLF0CWsvP4uqQzXa28VVzTt7RYQnUv076L_gX3-GOhhDZ1hO5Jqgmj-fIbfU9SbZZhhr73nPBnuJ8vFDCG907QtqI8wERXuXK-cH8FcZJXI4DhgkiEE8KHvE5SPWmGcvwvv7NnNWUS3H44oC3s64lUcXWAKj&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Wake Forest": [
+    {
+      "name": "Frabjous Catfe",
+      "address": "12261 Capital Blvd, Wake Forest, NC 27587, USA",
+      "rating": 4.8,
+      "user_ratings_total": 83,
+      "website": "http://www.frabjouscatfe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=8089513195589628244",
+      "lat": 35.9808046,
+      "lng": -78.5412061,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true
+      },
+      "reviews": [
+        {
+          "author": "Del Duaned",
+          "rating": 5,
+          "text": {
+            "text": "Such a beautiful and welcoming little gem! My sister took me there for some matcha and chai. The girls at the counter were very welcoming, took our orders and answered all of my questions (I tend to ask a lot)…. I love that they showcase artwork from local artists! I  did not get to see or interact with any cats but that’s okay… I’ll be back!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Natalie Holthouser",
+          "rating": 5,
+          "text": {
+            "text": "I was blown away with this place!  From the friendly and helpful staff to the delicious drinks and cupcakes to the cats, this place definitely deserves way more than just 5 stars!  As someone that rents a home and unable to have cats, this is the best place to go and get my cat fix!  The cats were all super friendly especially with my 9 year old and they literally had everything you could ever need including a lint roller you can use if needed on the way out.  We cannot wait to go back!",
+            "languageCode": "en"
+          },
+          "time": "8 months ago"
+        },
+        {
+          "author": "Maegan Hunsucker",
+          "rating": 5,
+          "text": {
+            "text": "I love a good coffee shop & this one also has Kitty cats! Bonus! I have visited the kitty room to pet the kitties. I'd take them all home if I didn't already have 2 at home. I recently attended Yoga with Cori in the kitty room & it made all my dreams come true! I think I'll be a regular here. :)",
+            "languageCode": "en"
+          },
+          "time": "10 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2_RL90D7sxN7mC2J5L1HsS0kMa4RxogrmdAal3_-jYWx47vVVEbJaQS_ClHDCFzXkBF6yKGS6_6K95M26etmimNuRh6abnXvGzKEiXozmSzTRnuJ2yQrkpmmF93DkLCwnqs0Eca-wvfPPYFQYRgOmZwOHZ9GnAwrn08TYdDHB6GrEXL6ZI5EVjmQZgdsvbr0olgYK8csSU95U-nQjgz1oYblIQS3v-qu2eFIl_yo3MNOYr2X0voK49BU-21JYBzf0HW4s94hKGIc2_rp7DSU8nS9w4cQ5hFVMKNZfHpaUnQg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Wendell": [
+    {
+      "name": "Elias Cattery Cat Cafe",
+      "address": "1612 Marshburn Rd, Wendell, NC 27591, USA",
+      "rating": 5,
+      "user_ratings_total": 6,
+      "website": "https://www.scottishfoldbritish.com/cat-cafe",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=3060420362037892689",
+      "lat": 35.8121046,
+      "lng": -78.3734011,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true
+      },
+      "reviews": [
+        {
+          "author": "Maya S",
+          "rating": 5,
+          "text": {
+            "text": "Selecting a breeder is a huge decision. As first-timers, we wanted to make sure that we went with someone who is TICA certified, breeds award-winning cats, and uses best practices and care.\n\nWe are SO thrilled with our little Penelope. Maria truly breeds the most perfect, healthy, beautiful Scottish cats of all colors. We love our little brown teddy bear and are holding ourselves back from getting another! (just yet). Delivery was quick and seamless with a direct door-to-door drop off, even though we are a few states away.\n\nThank you, Maria! We couldn't be happier.",
+            "languageCode": "en"
+          },
+          "time": "9 months ago"
+        },
+        {
+          "author": "SOME GUY",
+          "rating": 5,
+          "text": {
+            "text": "I honsetly love it bc theres cat and i holded one for too long it tryed to follow me home❤️ so Heart warming  🥰",
+            "languageCode": "en"
+          },
+          "time": "a year ago"
+        },
+        {
+          "author": "Zain Anderson",
+          "rating": 5,
+          "text": {
+            "text": "Maria was very welcoming and knowledgeable. The cats were fun & cuddly. We enjoyed our time and plan to come back.",
+            "languageCode": "en"
+          },
+          "time": "a year ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2uCFVr-4hsO_s_FKXgT5_xXZYEtlabsbQBXCLjuQSmENiZVm9TWH8-79U5uKXBfKgTcIPPa7OFD0JMrVu4gMpH2mZMDagPwOKiYowR5mX4-12pibbPVbFJ0FZ2qIaex4gOBwGU1UhPJqysKe_8y4wM1xSD1do4aq4j20-j2mA-d_2-HDfccvVVvtpVF0_cBphi0kxFrgX2bJozDpzXaQGR6mRexRbDEyjTpuU7NuHAq-HXSGIcUZVommWJi7Gx9Ca7I3B3WtYs7kCI6FeDZmj5XfV29Kta4LvfMT1tMQsz2w&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Newberry": {
+    "city": "Newberry",
+    "city_ascii": "Newberry",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2813,
+    "lng": -81.601,
+    "cafes": [
+      {
+        "name": "Phat Cat Cafe",
+        "address": "687 Hillbrook Ln, Newberry, SC 29108, USA",
+        "rating": "N/A",
+        "user_ratings_total": 0,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=17898175468047243024",
+        "lat": 34.2923309,
+        "lng": -81.57183189999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [],
+        "photoUri": "https://maps.google.com/?cid=17898175468047243024&output=embed"
+      }
+    ]
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8354,
+    "lng": -82.3646,
+    "cafes": []
+  },
+  "Myrtle Beach": {
+    "city": "Myrtle Beach",
+    "city_ascii": "Myrtle Beach",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7094,
+    "lng": -78.8844,
+    "cafes": []
+  },
+  "Spartanburg": {
+    "city": "Spartanburg",
+    "city_ascii": "Spartanburg",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9442,
+    "lng": -81.9251,
+    "cafes": []
+  },
+  "Mauldin": {
+    "city": "Mauldin",
+    "city_ascii": "Mauldin",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7821,
+    "lng": -82.3032,
+    "cafes": []
+  },
+  "North Charleston": {
+    "city": "North Charleston",
+    "city_ascii": "North Charleston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.9067,
+    "lng": -80.0722,
+    "cafes": []
+  },
+  "Mount Pleasant": {
+    "city": "Mount Pleasant",
+    "city_ascii": "Mount Pleasant",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.8537,
+    "lng": -79.8203,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.178,
+    "lng": -79.7898,
+    "cafes": []
+  },
+  "Sumter": {
+    "city": "Sumter",
+    "city_ascii": "Sumter",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9392,
+    "lng": -80.393,
+    "cafes": []
+  },
+  "Summerville": {
+    "city": "Summerville",
+    "city_ascii": "Summerville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0016,
+    "lng": -80.1799,
+    "cafes": []
+  },
+  "Goose Creek": {
+    "city": "Goose Creek",
+    "city_ascii": "Goose Creek",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.9927,
+    "lng": -80.0055,
+    "cafes": []
+  },
+  "Greer": {
+    "city": "Greer",
+    "city_ascii": "Greer",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.933,
+    "lng": -82.2313,
+    "cafes": []
+  },
+  "Hilton Head Island": {
+    "city": "Hilton Head Island",
+    "city_ascii": "Hilton Head Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.1896,
+    "lng": -80.7499,
+    "cafes": []
+  },
+  "Aiken": {
+    "city": "Aiken",
+    "city_ascii": "Aiken",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5303,
+    "lng": -81.7271,
+    "cafes": []
+  },
+  "Bluffton": {
+    "city": "Bluffton",
+    "city_ascii": "Bluffton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.2135,
+    "lng": -80.9316,
+    "cafes": []
+  },
+  "Anderson": {
+    "city": "Anderson",
+    "city_ascii": "Anderson",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5211,
+    "lng": -82.6478,
+    "cafes": []
+  },
+  "Fort Mill": {
+    "city": "Fort Mill",
+    "city_ascii": "Fort Mill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0061,
+    "lng": -80.9389,
+    "cafes": []
+  },
+  "Carolina Forest": {
+    "city": "Carolina Forest",
+    "city_ascii": "Carolina Forest",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7651,
+    "lng": -78.913,
+    "cafes": []
+  },
+  "Conway": {
+    "city": "Conway",
+    "city_ascii": "Conway",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8401,
+    "lng": -79.0431,
+    "cafes": []
+  },
+  "Simpsonville": {
+    "city": "Simpsonville",
+    "city_ascii": "Simpsonville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7287,
+    "lng": -82.2569,
+    "cafes": []
+  },
+  "North Augusta": {
+    "city": "North Augusta",
+    "city_ascii": "North Augusta",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5214,
+    "lng": -81.9547,
+    "cafes": []
+  },
+  "Socastee": {
+    "city": "Socastee",
+    "city_ascii": "Socastee",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6871,
+    "lng": -79.0086,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.989,
+    "lng": -81.2202,
+    "cafes": []
+  },
+  "Easley": {
+    "city": "Easley",
+    "city_ascii": "Easley",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8188,
+    "lng": -82.5827,
+    "cafes": []
+  },
+  "Taylors": {
+    "city": "Taylors",
+    "city_ascii": "Taylors",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9157,
+    "lng": -82.3124,
+    "cafes": []
+  },
+  "Greenwood": {
+    "city": "Greenwood",
+    "city_ascii": "Greenwood",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1947,
+    "lng": -82.1542,
+    "cafes": []
+  },
+  "Hanahan": {
+    "city": "Hanahan",
+    "city_ascii": "Hanahan",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.9302,
+    "lng": -80.0027,
+    "cafes": []
+  },
+  "St. Andrews": {
+    "city": "St. Andrews",
+    "city_ascii": "St. Andrews",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.051,
+    "lng": -81.1057,
+    "cafes": []
+  },
+  "Wade Hampton": {
+    "city": "Wade Hampton",
+    "city_ascii": "Wade Hampton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8821,
+    "lng": -82.3336,
+    "cafes": []
+  },
+  "North Myrtle Beach": {
+    "city": "North Myrtle Beach",
+    "city_ascii": "North Myrtle Beach",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8232,
+    "lng": -78.7082,
+    "cafes": []
+  },
+  "Five Forks": {
+    "city": "Five Forks",
+    "city_ascii": "Five Forks",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8069,
+    "lng": -82.2271,
+    "cafes": []
+  },
+  "Clemson": {
+    "city": "Clemson",
+    "city_ascii": "Clemson",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6837,
+    "lng": -82.8124,
+    "cafes": []
+  },
+  "West Columbia": {
+    "city": "West Columbia",
+    "city_ascii": "West Columbia",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9932,
+    "lng": -81.0936,
+    "cafes": []
+  },
+  "Berea": {
+    "city": "Berea",
+    "city_ascii": "Berea",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8802,
+    "lng": -82.465,
+    "cafes": []
+  },
+  "Red Hill": {
+    "city": "Red Hill",
+    "city_ascii": "Red Hill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7777,
+    "lng": -79.0111,
+    "cafes": []
+  },
+  "Ladson": {
+    "city": "Ladson",
+    "city_ascii": "Ladson",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0093,
+    "lng": -80.1078,
+    "cafes": []
+  },
+  "Seven Oaks": {
+    "city": "Seven Oaks",
+    "city_ascii": "Seven Oaks",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0475,
+    "lng": -81.1435,
+    "cafes": []
+  },
+  "Dentsville": {
+    "city": "Dentsville",
+    "city_ascii": "Dentsville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0754,
+    "lng": -80.9547,
+    "cafes": []
+  },
+  "Lake Wylie": {
+    "city": "Lake Wylie",
+    "city_ascii": "Lake Wylie",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0997,
+    "lng": -81.0678,
+    "cafes": []
+  },
+  "Gantt": {
+    "city": "Gantt",
+    "city_ascii": "Gantt",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7837,
+    "lng": -82.4027,
+    "cafes": []
+  },
+  "Port Royal": {
+    "city": "Port Royal",
+    "city_ascii": "Port Royal",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.3557,
+    "lng": -80.7029,
+    "cafes": []
+  },
+  "Moncks Corner": {
+    "city": "Moncks Corner",
+    "city_ascii": "Moncks Corner",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.173,
+    "lng": -80.0107,
+    "cafes": []
+  },
+  "Cayce": {
+    "city": "Cayce",
+    "city_ascii": "Cayce",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9459,
+    "lng": -81.0429,
+    "cafes": []
+  },
+  "Beaufort": {
+    "city": "Beaufort",
+    "city_ascii": "Beaufort",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.4597,
+    "lng": -80.7235,
+    "cafes": []
+  },
+  "Tega Cay": {
+    "city": "Tega Cay",
+    "city_ascii": "Tega Cay",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.039,
+    "lng": -81.0111,
+    "cafes": []
+  },
+  "Orangeburg": {
+    "city": "Orangeburg",
+    "city_ascii": "Orangeburg",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4928,
+    "lng": -80.8671,
+    "cafes": []
+  },
+  "Gaffney": {
+    "city": "Gaffney",
+    "city_ascii": "Gaffney",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0743,
+    "lng": -81.6552,
+    "cafes": []
+  },
+  "Boiling Springs": {
+    "city": "Boiling Springs",
+    "city_ascii": "Boiling Springs",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.045,
+    "lng": -81.9779,
+    "cafes": []
+  },
+  "Parker": {
+    "city": "Parker",
+    "city_ascii": "Parker",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8513,
+    "lng": -82.4512,
+    "cafes": []
+  },
+  "Oak Grove": {
+    "city": "Oak Grove",
+    "city_ascii": "Oak Grove",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.978,
+    "lng": -81.1468,
+    "cafes": []
+  },
+  "Irmo": {
+    "city": "Irmo",
+    "city_ascii": "Irmo",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1018,
+    "lng": -81.1956,
+    "cafes": []
+  },
+  "James Island": {
+    "city": "James Island",
+    "city_ascii": "James Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.7353,
+    "lng": -79.9394,
+    "cafes": []
+  },
+  "Powdersville": {
+    "city": "Powdersville",
+    "city_ascii": "Powdersville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7826,
+    "lng": -82.4959,
+    "cafes": []
+  },
+  "Fountain Inn": {
+    "city": "Fountain Inn",
+    "city_ascii": "Fountain Inn",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6989,
+    "lng": -82.2005,
+    "cafes": []
+  },
+  "Red Bank": {
+    "city": "Red Bank",
+    "city_ascii": "Red Bank",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9309,
+    "lng": -81.2322,
+    "cafes": []
+  },
+  "Garden City": {
+    "city": "Garden City",
+    "city_ascii": "Garden City",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5926,
+    "lng": -79.0071,
+    "cafes": []
+  },
+  "Forest Acres": {
+    "city": "Forest Acres",
+    "city_ascii": "Forest Acres",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0323,
+    "lng": -80.9716,
+    "cafes": []
+  },
+  "Little River": {
+    "city": "Little River",
+    "city_ascii": "Little River",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8786,
+    "lng": -78.6393,
+    "cafes": []
+  },
+  "Murrells Inlet": {
+    "city": "Murrells Inlet",
+    "city_ascii": "Murrells Inlet",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.556,
+    "lng": -79.0594,
+    "cafes": []
+  },
+  "Woodfield": {
+    "city": "Woodfield",
+    "city_ascii": "Woodfield",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0587,
+    "lng": -80.9309,
+    "cafes": []
+  },
+  "Litchfield Beach": {
+    "city": "Litchfield Beach",
+    "city_ascii": "Litchfield Beach",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4773,
+    "lng": -79.1181,
+    "cafes": []
+  },
+  "Lugoff": {
+    "city": "Lugoff",
+    "city_ascii": "Lugoff",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2113,
+    "lng": -80.6973,
+    "cafes": []
+  },
+  "Laurens": {
+    "city": "Laurens",
+    "city_ascii": "Laurens",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5022,
+    "lng": -82.0207,
+    "cafes": []
+  },
+  "Hardeeville": {
+    "city": "Hardeeville",
+    "city_ascii": "Hardeeville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.2949,
+    "lng": -81.0321,
+    "cafes": []
+  },
+  "Seneca": {
+    "city": "Seneca",
+    "city_ascii": "Seneca",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6818,
+    "lng": -82.96,
+    "cafes": []
+  },
+  "Lancaster": {
+    "city": "Lancaster",
+    "city_ascii": "Lancaster",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7248,
+    "lng": -80.7804,
+    "cafes": []
+  },
+  "York": {
+    "city": "York",
+    "city_ascii": "York",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9967,
+    "lng": -81.2341,
+    "cafes": []
+  },
+  "Sangaree": {
+    "city": "Sangaree",
+    "city_ascii": "Sangaree",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0327,
+    "lng": -80.1253,
+    "cafes": []
+  },
+  "Sans Souci": {
+    "city": "Sans Souci",
+    "city_ascii": "Sans Souci",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8901,
+    "lng": -82.4241,
+    "cafes": []
+  },
+  "Travelers Rest": {
+    "city": "Travelers Rest",
+    "city_ascii": "Travelers Rest",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9582,
+    "lng": -82.4412,
+    "cafes": []
+  },
+  "Union": {
+    "city": "Union",
+    "city_ascii": "Union",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7235,
+    "lng": -81.6248,
+    "cafes": []
+  },
+  "Camden": {
+    "city": "Camden",
+    "city_ascii": "Camden",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.257,
+    "lng": -80.609,
+    "cafes": []
+  },
+  "White Knoll": {
+    "city": "White Knoll",
+    "city_ascii": "White Knoll",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8902,
+    "lng": -81.2391,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4781,
+    "lng": -81.8638,
+    "cafes": []
+  },
+  "Forestbrook": {
+    "city": "Forestbrook",
+    "city_ascii": "Forestbrook",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7242,
+    "lng": -78.9677,
+    "cafes": []
+  },
+  "Welcome": {
+    "city": "Welcome",
+    "city_ascii": "Welcome",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8203,
+    "lng": -82.46,
+    "cafes": []
+  },
+  "Hartsville": {
+    "city": "Hartsville",
+    "city_ascii": "Hartsville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3675,
+    "lng": -80.0829,
+    "cafes": []
+  },
+  "Valley Falls": {
+    "city": "Valley Falls",
+    "city_ascii": "Valley Falls",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0073,
+    "lng": -81.9692,
+    "cafes": []
+  },
+  "Burton": {
+    "city": "Burton",
+    "city_ascii": "Burton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.4232,
+    "lng": -80.7456,
+    "cafes": []
+  },
+  "Lake Murray of Richland": {
+    "city": "Lake Murray of Richland",
+    "city_ascii": "Lake Murray of Richland",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1209,
+    "lng": -81.2653,
+    "cafes": []
+  },
+  "Clover": {
+    "city": "Clover",
+    "city_ascii": "Clover",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.1125,
+    "lng": -81.2202,
+    "cafes": []
+  },
+  "Homeland Park": {
+    "city": "Homeland Park",
+    "city_ascii": "Homeland Park",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4644,
+    "lng": -82.6593,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5257,
+    "lng": -82.7161,
+    "cafes": []
+  },
+  "Bennettsville": {
+    "city": "Bennettsville",
+    "city_ascii": "Bennettsville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6303,
+    "lng": -79.6875,
+    "cafes": []
+  },
+  "Clemson University": {
+    "city": "Clemson University",
+    "city_ascii": "Clemson University",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.675,
+    "lng": -82.8344,
+    "cafes": []
+  },
+  "Dillon": {
+    "city": "Dillon",
+    "city_ascii": "Dillon",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4233,
+    "lng": -79.3689,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1787,
+    "lng": -79.3956,
+    "cafes": []
+  },
+  "Lyman": {
+    "city": "Lyman",
+    "city_ascii": "Lyman",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9667,
+    "lng": -82.1232,
+    "cafes": []
+  },
+  "Darlington": {
+    "city": "Darlington",
+    "city_ascii": "Darlington",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3015,
+    "lng": -79.867,
+    "cafes": []
+  },
+  "Lake City": {
+    "city": "Lake City",
+    "city_ascii": "Lake City",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8676,
+    "lng": -79.7534,
+    "cafes": []
+  },
+  "Piedmont": {
+    "city": "Piedmont",
+    "city_ascii": "Piedmont",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7074,
+    "lng": -82.4651,
+    "cafes": []
+  },
+  "Laurel Bay": {
+    "city": "Laurel Bay",
+    "city_ascii": "Laurel Bay",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.4599,
+    "lng": -80.7869,
+    "cafes": []
+  },
+  "Walterboro": {
+    "city": "Walterboro",
+    "city_ascii": "Walterboro",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.901,
+    "lng": -80.676,
+    "cafes": []
+  },
+  "Belvedere": {
+    "city": "Belvedere",
+    "city_ascii": "Belvedere",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.537,
+    "lng": -81.9424,
+    "cafes": []
+  },
+  "Hollywood": {
+    "city": "Hollywood",
+    "city_ascii": "Hollywood",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.752,
+    "lng": -80.2118,
+    "cafes": []
+  },
+  "Blythewood": {
+    "city": "Blythewood",
+    "city_ascii": "Blythewood",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2121,
+    "lng": -80.9921,
+    "cafes": []
+  },
+  "Central": {
+    "city": "Central",
+    "city_ascii": "Central",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7235,
+    "lng": -82.7788,
+    "cafes": []
+  },
+  "Chester": {
+    "city": "Chester",
+    "city_ascii": "Chester",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7051,
+    "lng": -81.2132,
+    "cafes": []
+  },
+  "Cheraw": {
+    "city": "Cheraw",
+    "city_ascii": "Cheraw",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6956,
+    "lng": -79.9084,
+    "cafes": []
+  },
+  "Batesburg-Leesville": {
+    "city": "Batesburg-Leesville",
+    "city_ascii": "Batesburg-Leesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9126,
+    "lng": -81.5313,
+    "cafes": []
+  },
+  "Abbeville": {
+    "city": "Abbeville",
+    "city_ascii": "Abbeville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1787,
+    "lng": -82.3774,
+    "cafes": []
+  },
+  "Barnwell": {
+    "city": "Barnwell",
+    "city_ascii": "Barnwell",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.2419,
+    "lng": -81.3659,
+    "cafes": []
+  },
+  "Belton": {
+    "city": "Belton",
+    "city_ascii": "Belton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5237,
+    "lng": -82.4938,
+    "cafes": []
+  },
+  "Baxter Village": {
+    "city": "Baxter Village",
+    "city_ascii": "Baxter Village",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.028,
+    "lng": -80.9792,
+    "cafes": []
+  },
+  "Isle of Palms": {
+    "city": "Isle of Palms",
+    "city_ascii": "Isle of Palms",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.8043,
+    "lng": -79.7552,
+    "cafes": []
+  },
+  "Woodruff": {
+    "city": "Woodruff",
+    "city_ascii": "Woodruff",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7421,
+    "lng": -82.0371,
+    "cafes": []
+  },
+  "Surfside Beach": {
+    "city": "Surfside Beach",
+    "city_ascii": "Surfside Beach",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6093,
+    "lng": -78.9772,
+    "cafes": []
+  },
+  "East Camden": {
+    "city": "East Camden",
+    "city_ascii": "East Camden",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2687,
+    "lng": -80.5681,
+    "cafes": []
+  },
+  "Duncan": {
+    "city": "Duncan",
+    "city_ascii": "Duncan",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9342,
+    "lng": -82.1443,
+    "cafes": []
+  },
+  "Capitol View": {
+    "city": "Capitol View",
+    "city_ascii": "Capitol View",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.965,
+    "lng": -80.9223,
+    "cafes": []
+  },
+  "Newport": {
+    "city": "Newport",
+    "city_ascii": "Newport",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9833,
+    "lng": -81.0992,
+    "cafes": []
+  },
+  "Saxon": {
+    "city": "Saxon",
+    "city_ascii": "Saxon",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9616,
+    "lng": -81.9713,
+    "cafes": []
+  },
+  "Walhalla": {
+    "city": "Walhalla",
+    "city_ascii": "Walhalla",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7705,
+    "lng": -83.0615,
+    "cafes": []
+  },
+  "Williamston": {
+    "city": "Williamston",
+    "city_ascii": "Williamston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6194,
+    "lng": -82.4794,
+    "cafes": []
+  },
+  "Brookdale": {
+    "city": "Brookdale",
+    "city_ascii": "Brookdale",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5183,
+    "lng": -80.8332,
+    "cafes": []
+  },
+  "Southern Shops": {
+    "city": "Southern Shops",
+    "city_ascii": "Southern Shops",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9846,
+    "lng": -81.9934,
+    "cafes": []
+  },
+  "Edgefield": {
+    "city": "Edgefield",
+    "city_ascii": "Edgefield",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.787,
+    "lng": -81.9291,
+    "cafes": []
+  },
+  "Mullins": {
+    "city": "Mullins",
+    "city_ascii": "Mullins",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.204,
+    "lng": -79.2536,
+    "cafes": []
+  },
+  "Northlake": {
+    "city": "Northlake",
+    "city_ascii": "Northlake",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5691,
+    "lng": -82.6838,
+    "cafes": []
+  },
+  "Manning": {
+    "city": "Manning",
+    "city_ascii": "Manning",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6933,
+    "lng": -80.2167,
+    "cafes": []
+  },
+  "India Hook": {
+    "city": "India Hook",
+    "city_ascii": "India Hook",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0142,
+    "lng": -81.0378,
+    "cafes": []
+  },
+  "Ridgeland": {
+    "city": "Ridgeland",
+    "city_ascii": "Ridgeland",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.4681,
+    "lng": -80.9178,
+    "cafes": []
+  },
+  "Honea Path": {
+    "city": "Honea Path",
+    "city_ascii": "Honea Path",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4476,
+    "lng": -82.395,
+    "cafes": []
+  },
+  "Dunean": {
+    "city": "Dunean",
+    "city_ascii": "Dunean",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8203,
+    "lng": -82.4225,
+    "cafes": []
+  },
+  "Whitney": {
+    "city": "Whitney",
+    "city_ascii": "Whitney",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9835,
+    "lng": -81.926,
+    "cafes": []
+  },
+  "Wyboo": {
+    "city": "Wyboo",
+    "city_ascii": "Wyboo",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5613,
+    "lng": -80.2148,
+    "cafes": []
+  },
+  "Pendleton": {
+    "city": "Pendleton",
+    "city_ascii": "Pendleton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6451,
+    "lng": -82.7818,
+    "cafes": []
+  },
+  "Roebuck": {
+    "city": "Roebuck",
+    "city_ascii": "Roebuck",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8789,
+    "lng": -81.9646,
+    "cafes": []
+  },
+  "Wellford": {
+    "city": "Wellford",
+    "city_ascii": "Wellford",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.962,
+    "lng": -82.0937,
+    "cafes": []
+  },
+  "Pickens": {
+    "city": "Pickens",
+    "city_ascii": "Pickens",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8856,
+    "lng": -82.7104,
+    "cafes": []
+  },
+  "Liberty": {
+    "city": "Liberty",
+    "city_ascii": "Liberty",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7904,
+    "lng": -82.6961,
+    "cafes": []
+  },
+  "Winnsboro": {
+    "city": "Winnsboro",
+    "city_ascii": "Winnsboro",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3718,
+    "lng": -81.0907,
+    "cafes": []
+  },
+  "Keowee Key": {
+    "city": "Keowee Key",
+    "city_ascii": "Keowee Key",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8257,
+    "lng": -82.9158,
+    "cafes": []
+  },
+  "North Hartsville": {
+    "city": "North Hartsville",
+    "city_ascii": "North Hartsville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.401,
+    "lng": -80.071,
+    "cafes": []
+  },
+  "Lesslie": {
+    "city": "Lesslie",
+    "city_ascii": "Lesslie",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8856,
+    "lng": -80.9541,
+    "cafes": []
+  },
+  "East Gaffney": {
+    "city": "East Gaffney",
+    "city_ascii": "East Gaffney",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0846,
+    "lng": -81.6218,
+    "cafes": []
+  },
+  "Kingstree": {
+    "city": "Kingstree",
+    "city_ascii": "Kingstree",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6665,
+    "lng": -79.8292,
+    "cafes": []
+  },
+  "Lakewood": {
+    "city": "Lakewood",
+    "city_ascii": "Lakewood",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8428,
+    "lng": -80.3492,
+    "cafes": []
+  },
+  "Denmark": {
+    "city": "Denmark",
+    "city_ascii": "Denmark",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3152,
+    "lng": -81.1364,
+    "cafes": []
+  },
+  "Cherryvale": {
+    "city": "Cherryvale",
+    "city_ascii": "Cherryvale",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9543,
+    "lng": -80.4609,
+    "cafes": []
+  },
+  "Clearwater": {
+    "city": "Clearwater",
+    "city_ascii": "Clearwater",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5038,
+    "lng": -81.91,
+    "cafes": []
+  },
+  "Saluda": {
+    "city": "Saluda",
+    "city_ascii": "Saluda",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0009,
+    "lng": -81.7713,
+    "cafes": []
+  },
+  "Burnettown": {
+    "city": "Burnettown",
+    "city_ascii": "Burnettown",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5186,
+    "lng": -81.8635,
+    "cafes": []
+  },
+  "Inman": {
+    "city": "Inman",
+    "city_ascii": "Inman",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0463,
+    "lng": -82.0897,
+    "cafes": []
+  },
+  "Golden Grove": {
+    "city": "Golden Grove",
+    "city_ascii": "Golden Grove",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7324,
+    "lng": -82.4407,
+    "cafes": []
+  },
+  "Arthurtown": {
+    "city": "Arthurtown",
+    "city_ascii": "Arthurtown",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9644,
+    "lng": -81.0023,
+    "cafes": []
+  },
+  "Hilltop": {
+    "city": "Hilltop",
+    "city_ascii": "Hilltop",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9755,
+    "lng": -81.9586,
+    "cafes": []
+  },
+  "Bamberg": {
+    "city": "Bamberg",
+    "city_ascii": "Bamberg",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.2995,
+    "lng": -81.0323,
+    "cafes": []
+  },
+  "Bishopville": {
+    "city": "Bishopville",
+    "city_ascii": "Bishopville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2202,
+    "lng": -80.2483,
+    "cafes": []
+  },
+  "Dalzell": {
+    "city": "Dalzell",
+    "city_ascii": "Dalzell",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0189,
+    "lng": -80.4297,
+    "cafes": []
+  },
+  "Arkwright": {
+    "city": "Arkwright",
+    "city_ascii": "Arkwright",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9131,
+    "lng": -81.9395,
+    "cafes": []
+  },
+  "Williston": {
+    "city": "Williston",
+    "city_ascii": "Williston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4018,
+    "lng": -81.422,
+    "cafes": []
+  },
+  "Springdale": {
+    "city": "Springdale",
+    "city_ascii": "Springdale",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9616,
+    "lng": -81.1119,
+    "cafes": []
+  },
+  "Arcadia": {
+    "city": "Arcadia",
+    "city_ascii": "Arcadia",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9609,
+    "lng": -81.9929,
+    "cafes": []
+  },
+  "Pine Ridge": {
+    "city": "Pine Ridge",
+    "city_ascii": "Pine Ridge",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3927,
+    "lng": -80.1679,
+    "cafes": []
+  },
+  "Hampton": {
+    "city": "Hampton",
+    "city_ascii": "Hampton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.8676,
+    "lng": -81.1093,
+    "cafes": []
+  },
+  "McCormick": {
+    "city": "McCormick",
+    "city_ascii": "McCormick",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9128,
+    "lng": -82.2876,
+    "cafes": []
+  },
+  "Ninety Six": {
+    "city": "Ninety Six",
+    "city_ascii": "Ninety Six",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1696,
+    "lng": -82.0239,
+    "cafes": []
+  },
+  "New Ellenton": {
+    "city": "New Ellenton",
+    "city_ascii": "New Ellenton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4199,
+    "lng": -81.6826,
+    "cafes": []
+  },
+  "Allendale": {
+    "city": "Allendale",
+    "city_ascii": "Allendale",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.008,
+    "lng": -81.3092,
+    "cafes": []
+  },
+  "Ravenel": {
+    "city": "Ravenel",
+    "city_ascii": "Ravenel",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.778,
+    "lng": -80.2281,
+    "cafes": []
+  },
+  "Loris": {
+    "city": "Loris",
+    "city_ascii": "Loris",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0578,
+    "lng": -78.8876,
+    "cafes": []
+  },
+  "Landrum": {
+    "city": "Landrum",
+    "city_ascii": "Landrum",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.1747,
+    "lng": -82.1848,
+    "cafes": []
+  },
+  "Andrews": {
+    "city": "Andrews",
+    "city_ascii": "Andrews",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4494,
+    "lng": -79.566,
+    "cafes": []
+  },
+  "Johnston": {
+    "city": "Johnston",
+    "city_ascii": "Johnston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8328,
+    "lng": -81.8051,
+    "cafes": []
+  },
+  "Pageland": {
+    "city": "Pageland",
+    "city_ascii": "Pageland",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.772,
+    "lng": -80.3897,
+    "cafes": []
+  },
+  "McColl": {
+    "city": "McColl",
+    "city_ascii": "McColl",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6665,
+    "lng": -79.5447,
+    "cafes": []
+  },
+  "Varnville": {
+    "city": "Varnville",
+    "city_ascii": "Varnville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.8521,
+    "lng": -81.0802,
+    "cafes": []
+  },
+  "Gloverville": {
+    "city": "Gloverville",
+    "city_ascii": "Gloverville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5274,
+    "lng": -81.8144,
+    "cafes": []
+  },
+  "Ben Avon": {
+    "city": "Ben Avon",
+    "city_ascii": "Ben Avon",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9328,
+    "lng": -81.8763,
+    "cafes": []
+  },
+  "Privateer": {
+    "city": "Privateer",
+    "city_ascii": "Privateer",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8169,
+    "lng": -80.3946,
+    "cafes": []
+  },
+  "Estill": {
+    "city": "Estill",
+    "city_ascii": "Estill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.7538,
+    "lng": -81.2412,
+    "cafes": []
+  },
+  "Edisto": {
+    "city": "Edisto",
+    "city_ascii": "Edisto",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4777,
+    "lng": -80.8999,
+    "cafes": []
+  },
+  "Elgin": {
+    "city": "Elgin",
+    "city_ascii": "Elgin",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6724,
+    "lng": -80.7215,
+    "cafes": []
+  },
+  "Watts Mills": {
+    "city": "Watts Mills",
+    "city_ascii": "Watts Mills",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5164,
+    "lng": -81.9856,
+    "cafes": []
+  },
+  "Westminster": {
+    "city": "Westminster",
+    "city_ascii": "Westminster",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6656,
+    "lng": -83.0911,
+    "cafes": []
+  },
+  "Kershaw": {
+    "city": "Kershaw",
+    "city_ascii": "Kershaw",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5462,
+    "lng": -80.5873,
+    "cafes": []
+  },
+  "Riverview": {
+    "city": "Riverview",
+    "city_ascii": "Riverview",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0119,
+    "lng": -80.9828,
+    "cafes": []
+  },
+  "Ware Shoals": {
+    "city": "Ware Shoals",
+    "city_ascii": "Ware Shoals",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3894,
+    "lng": -82.239,
+    "cafes": []
+  },
+  "Judson": {
+    "city": "Judson",
+    "city_ascii": "Judson",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8335,
+    "lng": -82.4272,
+    "cafes": []
+  },
+  "Kiawah Island": {
+    "city": "Kiawah Island",
+    "city_ascii": "Kiawah Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.6157,
+    "lng": -80.0613,
+    "cafes": []
+  },
+  "Graniteville": {
+    "city": "Graniteville",
+    "city_ascii": "Graniteville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5646,
+    "lng": -81.8078,
+    "cafes": []
+  },
+  "Pacolet": {
+    "city": "Pacolet",
+    "city_ascii": "Pacolet",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9102,
+    "lng": -81.7662,
+    "cafes": []
+  },
+  "Blacksburg": {
+    "city": "Blacksburg",
+    "city_ascii": "Blacksburg",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.122,
+    "lng": -81.5182,
+    "cafes": []
+  },
+  "Timmonsville": {
+    "city": "Timmonsville",
+    "city_ascii": "Timmonsville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1334,
+    "lng": -79.9408,
+    "cafes": []
+  },
+  "Sullivan's Island": {
+    "city": "Sullivan's Island",
+    "city_ascii": "Sullivan's Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.7684,
+    "lng": -79.8355,
+    "cafes": []
+  },
+  "Seabrook Island": {
+    "city": "Seabrook Island",
+    "city_ascii": "Seabrook Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.5823,
+    "lng": -80.1738,
+    "cafes": []
+  },
+  "Fairfax": {
+    "city": "Fairfax",
+    "city_ascii": "Fairfax",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.9594,
+    "lng": -81.2363,
+    "cafes": []
+  },
+  "Cowpens": {
+    "city": "Cowpens",
+    "city_ascii": "Cowpens",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0186,
+    "lng": -81.8041,
+    "cafes": []
+  },
+  "Gaston": {
+    "city": "Gaston",
+    "city_ascii": "Gaston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.818,
+    "lng": -81.0997,
+    "cafes": []
+  },
+  "Arial": {
+    "city": "Arial",
+    "city_ascii": "Arial",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8463,
+    "lng": -82.6405,
+    "cafes": []
+  },
+  "Shell Point": {
+    "city": "Shell Point",
+    "city_ascii": "Shell Point",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.3746,
+    "lng": -80.7523,
+    "cafes": []
+  },
+  "Mayo": {
+    "city": "Mayo",
+    "city_ascii": "Mayo",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0857,
+    "lng": -81.8535,
+    "cafes": []
+  },
+  "Hopkins": {
+    "city": "Hopkins",
+    "city_ascii": "Hopkins",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8983,
+    "lng": -80.8599,
+    "cafes": []
+  },
+  "Tigerville": {
+    "city": "Tigerville",
+    "city_ascii": "Tigerville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0669,
+    "lng": -82.3695,
+    "cafes": []
+  },
+  "Reidville": {
+    "city": "Reidville",
+    "city_ascii": "Reidville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8657,
+    "lng": -82.1063,
+    "cafes": []
+  },
+  "Pimlico": {
+    "city": "Pimlico",
+    "city_ascii": "Pimlico",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0989,
+    "lng": -79.9606,
+    "cafes": []
+  },
+  "St. George": {
+    "city": "St. George",
+    "city_ascii": "St. George",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.1861,
+    "lng": -80.5794,
+    "cafes": []
+  },
+  "Slater-Marietta": {
+    "city": "Slater-Marietta",
+    "city_ascii": "Slater-Marietta",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0348,
+    "lng": -82.4926,
+    "cafes": []
+  },
+  "South Congaree": {
+    "city": "South Congaree",
+    "city_ascii": "South Congaree",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9094,
+    "lng": -81.1375,
+    "cafes": []
+  },
+  "Calhoun Falls": {
+    "city": "Calhoun Falls",
+    "city_ascii": "Calhoun Falls",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0933,
+    "lng": -82.5963,
+    "cafes": []
+  },
+  "Stateburg": {
+    "city": "Stateburg",
+    "city_ascii": "Stateburg",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9752,
+    "lng": -80.5263,
+    "cafes": []
+  },
+  "Wilkinson Heights": {
+    "city": "Wilkinson Heights",
+    "city_ascii": "Wilkinson Heights",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4919,
+    "lng": -80.8286,
+    "cafes": []
+  },
+  "Monarch Mill": {
+    "city": "Monarch Mill",
+    "city_ascii": "Monarch Mill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7161,
+    "lng": -81.5847,
+    "cafes": []
+  },
+  "South Sumter": {
+    "city": "South Sumter",
+    "city_ascii": "South Sumter",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8855,
+    "lng": -80.3378,
+    "cafes": []
+  },
+  "Irwin": {
+    "city": "Irwin",
+    "city_ascii": "Irwin",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6942,
+    "lng": -80.8197,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3283,
+    "lng": -81.7925,
+    "cafes": []
+  },
+  "Blackville": {
+    "city": "Blackville",
+    "city_ascii": "Blackville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3552,
+    "lng": -81.2835,
+    "cafes": []
+  },
+  "Great Falls": {
+    "city": "Great Falls",
+    "city_ascii": "Great Falls",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5753,
+    "lng": -80.9048,
+    "cafes": []
+  },
+  "Eureka Mill": {
+    "city": "Eureka Mill",
+    "city_ascii": "Eureka Mill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.718,
+    "lng": -81.1929,
+    "cafes": []
+  },
+  "Langley": {
+    "city": "Langley",
+    "city_ascii": "Langley",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.512,
+    "lng": -81.8344,
+    "cafes": []
+  },
+  "Fairforest": {
+    "city": "Fairforest",
+    "city_ascii": "Fairforest",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9532,
+    "lng": -82.0157,
+    "cafes": []
+  },
+  "St. Matthews": {
+    "city": "St. Matthews",
+    "city_ascii": "St. Matthews",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.664,
+    "lng": -80.778,
+    "cafes": []
+  },
+  "Camp Croft": {
+    "city": "Camp Croft",
+    "city_ascii": "Camp Croft",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9102,
+    "lng": -81.8595,
+    "cafes": []
+  },
+  "Ridgeville": {
+    "city": "Ridgeville",
+    "city_ascii": "Ridgeville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.09,
+    "lng": -80.3071,
+    "cafes": []
+  },
+  "Awendaw": {
+    "city": "Awendaw",
+    "city_ascii": "Awendaw",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.9661,
+    "lng": -79.6586,
+    "cafes": []
+  },
+  "Pelzer": {
+    "city": "Pelzer",
+    "city_ascii": "Pelzer",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6433,
+    "lng": -82.4588,
+    "cafes": []
+  },
+  "Bonneau Beach": {
+    "city": "Bonneau Beach",
+    "city_ascii": "Bonneau Beach",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3229,
+    "lng": -79.99,
+    "cafes": []
+  },
+  "Utica": {
+    "city": "Utica",
+    "city_ascii": "Utica",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6764,
+    "lng": -82.9252,
+    "cafes": []
+  },
+  "Chesterfield": {
+    "city": "Chesterfield",
+    "city_ascii": "Chesterfield",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.733,
+    "lng": -80.0778,
+    "cafes": []
+  },
+  "Cane Savannah": {
+    "city": "Cane Savannah",
+    "city_ascii": "Cane Savannah",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8923,
+    "lng": -80.4396,
+    "cafes": []
+  },
+  "Wedgefield": {
+    "city": "Wedgefield",
+    "city_ascii": "Wedgefield",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.883,
+    "lng": -80.5156,
+    "cafes": []
+  },
+  "St. Stephen": {
+    "city": "St. Stephen",
+    "city_ascii": "St. Stephen",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4047,
+    "lng": -79.9264,
+    "cafes": []
+  },
+  "Lamar": {
+    "city": "Lamar",
+    "city_ascii": "Lamar",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1695,
+    "lng": -80.0649,
+    "cafes": []
+  },
+  "Winnsboro Mills": {
+    "city": "Winnsboro Mills",
+    "city_ascii": "Winnsboro Mills",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3561,
+    "lng": -81.0708,
+    "cafes": []
+  },
+  "Holly Hill": {
+    "city": "Holly Hill",
+    "city_ascii": "Holly Hill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3245,
+    "lng": -80.413,
+    "cafes": []
+  },
+  "Chapin": {
+    "city": "Chapin",
+    "city_ascii": "Chapin",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.165,
+    "lng": -81.3446,
+    "cafes": []
+  },
+  "Homewood": {
+    "city": "Homewood",
+    "city_ascii": "Homewood",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8927,
+    "lng": -79.0518,
+    "cafes": []
+  },
+  "Joanna": {
+    "city": "Joanna",
+    "city_ascii": "Joanna",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4149,
+    "lng": -81.8086,
+    "cafes": []
+  },
+  "Olympia": {
+    "city": "Olympia",
+    "city_ascii": "Olympia",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9768,
+    "lng": -81.0349,
+    "cafes": []
+  },
+  "Latta": {
+    "city": "Latta",
+    "city_ascii": "Latta",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.339,
+    "lng": -79.4337,
+    "cafes": []
+  },
+  "West Pelzer": {
+    "city": "West Pelzer",
+    "city_ascii": "West Pelzer",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.645,
+    "lng": -82.4738,
+    "cafes": []
+  },
+  "Edmund": {
+    "city": "Edmund",
+    "city_ascii": "Edmund",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8629,
+    "lng": -81.1996,
+    "cafes": []
+  },
+  "Meggett": {
+    "city": "Meggett",
+    "city_ascii": "Meggett",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.6968,
+    "lng": -80.273,
+    "cafes": []
+  },
+  "Whitmire": {
+    "city": "Whitmire",
+    "city_ascii": "Whitmire",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5041,
+    "lng": -81.6144,
+    "cafes": []
+  },
+  "Buffalo": {
+    "city": "Buffalo",
+    "city_ascii": "Buffalo",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7244,
+    "lng": -81.6844,
+    "cafes": []
+  },
+  "Catawba": {
+    "city": "Catawba",
+    "city_ascii": "Catawba",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8464,
+    "lng": -80.9061,
+    "cafes": []
+  },
+  "Lake Secession": {
+    "city": "Lake Secession",
+    "city_ascii": "Lake Secession",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2821,
+    "lng": -82.5904,
+    "cafes": []
+  },
+  "Prosperity": {
+    "city": "Prosperity",
+    "city_ascii": "Prosperity",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2121,
+    "lng": -81.5329,
+    "cafes": []
+  },
+  "Murphys Estates": {
+    "city": "Murphys Estates",
+    "city_ascii": "Murphys Estates",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6003,
+    "lng": -81.9439,
+    "cafes": []
+  },
+  "Due West": {
+    "city": "Due West",
+    "city_ascii": "Due West",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3335,
+    "lng": -82.3885,
+    "cafes": []
+  },
+  "Santee": {
+    "city": "Santee",
+    "city_ascii": "Santee",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4801,
+    "lng": -80.4852,
+    "cafes": []
+  },
+  "Conestee": {
+    "city": "Conestee",
+    "city_ascii": "Conestee",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7638,
+    "lng": -82.3497,
+    "cafes": []
+  },
+  "City View": {
+    "city": "City View",
+    "city_ascii": "City View",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.862,
+    "lng": -82.425,
+    "cafes": []
+  },
+  "Wagener": {
+    "city": "Wagener",
+    "city_ascii": "Wagener",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6512,
+    "lng": -81.3625,
+    "cafes": []
+  },
+  "Branchville": {
+    "city": "Branchville",
+    "city_ascii": "Branchville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.2517,
+    "lng": -80.8161,
+    "cafes": []
+  },
+  "Cottageville": {
+    "city": "Cottageville",
+    "city_ascii": "Cottageville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.9362,
+    "lng": -80.4803,
+    "cafes": []
+  },
+  "Pelion": {
+    "city": "Pelion",
+    "city_ascii": "Pelion",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.775,
+    "lng": -81.2502,
+    "cafes": []
+  },
+  "Fort Lawn": {
+    "city": "Fort Lawn",
+    "city_ascii": "Fort Lawn",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7003,
+    "lng": -80.8991,
+    "cafes": []
+  },
+  "Beech Island": {
+    "city": "Beech Island",
+    "city_ascii": "Beech Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4288,
+    "lng": -81.8905,
+    "cafes": []
+  },
+  "Gadsden": {
+    "city": "Gadsden",
+    "city_ascii": "Gadsden",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.848,
+    "lng": -80.7663,
+    "cafes": []
+  },
+  "Gayle Mill": {
+    "city": "Gayle Mill",
+    "city_ascii": "Gayle Mill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7023,
+    "lng": -81.2391,
+    "cafes": []
+  },
+  "Aynor": {
+    "city": "Aynor",
+    "city_ascii": "Aynor",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0002,
+    "lng": -79.2071,
+    "cafes": []
+  },
+  "Drayton": {
+    "city": "Drayton",
+    "city_ascii": "Drayton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9762,
+    "lng": -81.9026,
+    "cafes": []
+  },
+  "Johnsonville": {
+    "city": "Johnsonville",
+    "city_ascii": "Johnsonville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.815,
+    "lng": -79.4443,
+    "cafes": []
+  },
+  "Jonesville": {
+    "city": "Jonesville",
+    "city_ascii": "Jonesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8348,
+    "lng": -81.6811,
+    "cafes": []
+  },
+  "Dovesville": {
+    "city": "Dovesville",
+    "city_ascii": "Dovesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4028,
+    "lng": -79.903,
+    "cafes": []
+  },
+  "Yemassee": {
+    "city": "Yemassee",
+    "city_ascii": "Yemassee",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.6733,
+    "lng": -80.8515,
+    "cafes": []
+  },
+  "Elloree": {
+    "city": "Elloree",
+    "city_ascii": "Elloree",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5301,
+    "lng": -80.5712,
+    "cafes": []
+  },
+  "McBee": {
+    "city": "McBee",
+    "city_ascii": "McBee",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.467,
+    "lng": -80.2571,
+    "cafes": []
+  },
+  "Cateechee": {
+    "city": "Cateechee",
+    "city_ascii": "Cateechee",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7694,
+    "lng": -82.7767,
+    "cafes": []
+  },
+  "Edisto Beach": {
+    "city": "Edisto Beach",
+    "city_ascii": "Edisto Beach",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.4922,
+    "lng": -80.3239,
+    "cafes": []
+  },
+  "Six Mile": {
+    "city": "Six Mile",
+    "city_ascii": "Six Mile",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8082,
+    "lng": -82.8154,
+    "cafes": []
+  },
+  "Van Wyck": {
+    "city": "Van Wyck",
+    "city_ascii": "Van Wyck",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8531,
+    "lng": -80.8333,
+    "cafes": []
+  },
+  "Newtown": {
+    "city": "Newtown",
+    "city_ascii": "Newtown",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4013,
+    "lng": -79.3566,
+    "cafes": []
+  },
+  "Seabrook": {
+    "city": "Seabrook",
+    "city_ascii": "Seabrook",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.5227,
+    "lng": -80.7479,
+    "cafes": []
+  },
+  "Folly Beach": {
+    "city": "Folly Beach",
+    "city_ascii": "Folly Beach",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.6692,
+    "lng": -79.95,
+    "cafes": []
+  },
+  "Sandy Springs": {
+    "city": "Sandy Springs",
+    "city_ascii": "Sandy Springs",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5974,
+    "lng": -82.7493,
+    "cafes": []
+  },
+  "Pamplico": {
+    "city": "Pamplico",
+    "city_ascii": "Pamplico",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9957,
+    "lng": -79.5698,
+    "cafes": []
+  },
+  "Pinopolis": {
+    "city": "Pinopolis",
+    "city_ascii": "Pinopolis",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.2287,
+    "lng": -80.0386,
+    "cafes": []
+  },
+  "Iva": {
+    "city": "Iva",
+    "city_ascii": "Iva",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3071,
+    "lng": -82.6636,
+    "cafes": []
+  },
+  "Warrenville": {
+    "city": "Warrenville",
+    "city_ascii": "Warrenville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5461,
+    "lng": -81.799,
+    "cafes": []
+  },
+  "La France": {
+    "city": "La France",
+    "city_ascii": "La France",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6115,
+    "lng": -82.7667,
+    "cafes": []
+  },
+  "Oakland": {
+    "city": "Oakland",
+    "city_ascii": "Oakland",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9868,
+    "lng": -80.4972,
+    "cafes": []
+  },
+  "Inman Mills": {
+    "city": "Inman Mills",
+    "city_ascii": "Inman Mills",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0408,
+    "lng": -82.1024,
+    "cafes": []
+  },
+  "Campobello": {
+    "city": "Campobello",
+    "city_ascii": "Campobello",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.126,
+    "lng": -82.1488,
+    "cafes": []
+  },
+  "Quinby": {
+    "city": "Quinby",
+    "city_ascii": "Quinby",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2282,
+    "lng": -79.7357,
+    "cafes": []
+  },
+  "Clifton": {
+    "city": "Clifton",
+    "city_ascii": "Clifton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9846,
+    "lng": -81.8222,
+    "cafes": []
+  },
+  "East Sumter": {
+    "city": "East Sumter",
+    "city_ascii": "East Sumter",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9261,
+    "lng": -80.295,
+    "cafes": []
+  },
+  "Ridge Spring": {
+    "city": "Ridge Spring",
+    "city_ascii": "Ridge Spring",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8453,
+    "lng": -81.6617,
+    "cafes": []
+  },
+  "Arcadia Lakes": {
+    "city": "Arcadia Lakes",
+    "city_ascii": "Arcadia Lakes",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0536,
+    "lng": -80.9615,
+    "cafes": []
+  },
+  "Norris": {
+    "city": "Norris",
+    "city_ascii": "Norris",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7661,
+    "lng": -82.7525,
+    "cafes": []
+  },
+  "Lincolnville": {
+    "city": "Lincolnville",
+    "city_ascii": "Lincolnville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0079,
+    "lng": -80.156,
+    "cafes": []
+  },
+  "Heath Springs": {
+    "city": "Heath Springs",
+    "city_ascii": "Heath Springs",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5933,
+    "lng": -80.675,
+    "cafes": []
+  },
+  "Scranton": {
+    "city": "Scranton",
+    "city_ascii": "Scranton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9174,
+    "lng": -79.7441,
+    "cafes": []
+  },
+  "The Cliffs Valley": {
+    "city": "The Cliffs Valley",
+    "city_ascii": "The Cliffs Valley",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.1458,
+    "lng": -82.4481,
+    "cafes": []
+  },
+  "Manville": {
+    "city": "Manville",
+    "city_ascii": "Manville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1597,
+    "lng": -80.2974,
+    "cafes": []
+  },
+  "Chesnee": {
+    "city": "Chesnee",
+    "city_ascii": "Chesnee",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.1461,
+    "lng": -81.863,
+    "cafes": []
+  },
+  "Mayesville": {
+    "city": "Mayesville",
+    "city_ascii": "Mayesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9849,
+    "lng": -80.2044,
+    "cafes": []
+  },
+  "Bowman": {
+    "city": "Bowman",
+    "city_ascii": "Bowman",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3483,
+    "lng": -80.6843,
+    "cafes": []
+  },
+  "North": {
+    "city": "North",
+    "city_ascii": "North",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6164,
+    "lng": -81.103,
+    "cafes": []
+  },
+  "Jefferson": {
+    "city": "Jefferson",
+    "city_ascii": "Jefferson",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6512,
+    "lng": -80.3866,
+    "cafes": []
+  },
+  "Fripp Island": {
+    "city": "Fripp Island",
+    "city_ascii": "Fripp Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.3231,
+    "lng": -80.4789,
+    "cafes": []
+  },
+  "Dunbar": {
+    "city": "Dunbar",
+    "city_ascii": "Dunbar",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5341,
+    "lng": -79.3533,
+    "cafes": []
+  },
+  "DeBordieu Colony": {
+    "city": "DeBordieu Colony",
+    "city_ascii": "DeBordieu Colony",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3707,
+    "lng": -79.1776,
+    "cafes": []
+  },
+  "Furman": {
+    "city": "Furman",
+    "city_ascii": "Furman",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.6813,
+    "lng": -81.1877,
+    "cafes": []
+  },
+  "Hamer": {
+    "city": "Hamer",
+    "city_ascii": "Hamer",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4741,
+    "lng": -79.3258,
+    "cafes": []
+  },
+  "McClellanville": {
+    "city": "McClellanville",
+    "city_ascii": "McClellanville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0865,
+    "lng": -79.468,
+    "cafes": []
+  },
+  "Gray Court": {
+    "city": "Gray Court",
+    "city_ascii": "Gray Court",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6079,
+    "lng": -82.1143,
+    "cafes": []
+  },
+  "Chickasaw Point": {
+    "city": "Chickasaw Point",
+    "city_ascii": "Chickasaw Point",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5363,
+    "lng": -83.0751,
+    "cafes": []
+  },
+  "Summerton": {
+    "city": "Summerton",
+    "city_ascii": "Summerton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6013,
+    "lng": -80.3527,
+    "cafes": []
+  },
+  "Olanta": {
+    "city": "Olanta",
+    "city_ascii": "Olanta",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9357,
+    "lng": -79.932,
+    "cafes": []
+  },
+  "Turbeville": {
+    "city": "Turbeville",
+    "city_ascii": "Turbeville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8895,
+    "lng": -80.0161,
+    "cafes": []
+  },
+  "Swansea": {
+    "city": "Swansea",
+    "city_ascii": "Swansea",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7397,
+    "lng": -81.1052,
+    "cafes": []
+  },
+  "Wallace": {
+    "city": "Wallace",
+    "city_ascii": "Wallace",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7201,
+    "lng": -79.8479,
+    "cafes": []
+  },
+  "Coward": {
+    "city": "Coward",
+    "city_ascii": "Coward",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9721,
+    "lng": -79.749,
+    "cafes": []
+  },
+  "Lake View": {
+    "city": "Lake View",
+    "city_ascii": "Lake View",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3405,
+    "lng": -79.1664,
+    "cafes": []
+  },
+  "Unity": {
+    "city": "Unity",
+    "city_ascii": "Unity",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8024,
+    "lng": -80.6936,
+    "cafes": []
+  },
+  "Harleyville": {
+    "city": "Harleyville",
+    "city_ascii": "Harleyville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.213,
+    "lng": -80.4478,
+    "cafes": []
+  },
+  "Cash": {
+    "city": "Cash",
+    "city_ascii": "Cash",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6197,
+    "lng": -79.8895,
+    "cafes": []
+  },
+  "Daufuskie Island": {
+    "city": "Daufuskie Island",
+    "city_ascii": "Daufuskie Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.1181,
+    "lng": -80.8656,
+    "cafes": []
+  },
+  "Dale": {
+    "city": "Dale",
+    "city_ascii": "Dale",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.5555,
+    "lng": -80.7015,
+    "cafes": []
+  },
+  "Summit": {
+    "city": "Summit",
+    "city_ascii": "Summit",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9246,
+    "lng": -81.4226,
+    "cafes": []
+  },
+  "Clio": {
+    "city": "Clio",
+    "city_ascii": "Clio",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5791,
+    "lng": -79.5461,
+    "cafes": []
+  },
+  "Bucksport": {
+    "city": "Bucksport",
+    "city_ascii": "Bucksport",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6706,
+    "lng": -79.1102,
+    "cafes": []
+  },
+  "Fair Play": {
+    "city": "Fair Play",
+    "city_ascii": "Fair Play",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5077,
+    "lng": -82.9862,
+    "cafes": []
+  },
+  "Modoc": {
+    "city": "Modoc",
+    "city_ascii": "Modoc",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7192,
+    "lng": -82.2174,
+    "cafes": []
+  },
+  "Helena": {
+    "city": "Helena",
+    "city_ascii": "Helena",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2807,
+    "lng": -81.6445,
+    "cafes": []
+  },
+  "Eastover": {
+    "city": "Eastover",
+    "city_ascii": "Eastover",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8779,
+    "lng": -80.6949,
+    "cafes": []
+  },
+  "Gilbert": {
+    "city": "Gilbert",
+    "city_ascii": "Gilbert",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9245,
+    "lng": -81.3928,
+    "cafes": []
+  },
+  "Little Rock": {
+    "city": "Little Rock",
+    "city_ascii": "Little Rock",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4691,
+    "lng": -79.39,
+    "cafes": []
+  },
+  "Pinewood": {
+    "city": "Pinewood",
+    "city_ascii": "Pinewood",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7396,
+    "lng": -80.462,
+    "cafes": []
+  },
+  "Hickory Grove": {
+    "city": "Hickory Grove",
+    "city_ascii": "Hickory Grove",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9785,
+    "lng": -81.418,
+    "cafes": []
+  },
+  "Sheldon": {
+    "city": "Sheldon",
+    "city_ascii": "Sheldon",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.5985,
+    "lng": -80.7961,
+    "cafes": []
+  },
+  "Bonneau": {
+    "city": "Bonneau",
+    "city_ascii": "Bonneau",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3081,
+    "lng": -79.9573,
+    "cafes": []
+  },
+  "Lane": {
+    "city": "Lane",
+    "city_ascii": "Lane",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5251,
+    "lng": -79.8797,
+    "cafes": []
+  },
+  "Eutawville": {
+    "city": "Eutawville",
+    "city_ascii": "Eutawville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3978,
+    "lng": -80.343,
+    "cafes": []
+  },
+  "North Santee": {
+    "city": "North Santee",
+    "city_ascii": "North Santee",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5368,
+    "lng": -80.4182,
+    "cafes": []
+  },
+  "Fairview Crossroads": {
+    "city": "Fairview Crossroads",
+    "city_ascii": "Fairview Crossroads",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7577,
+    "lng": -81.3621,
+    "cafes": []
+  },
+  "Sharon": {
+    "city": "Sharon",
+    "city_ascii": "Sharon",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.952,
+    "lng": -81.3435,
+    "cafes": []
+  },
+  "Hilda": {
+    "city": "Hilda",
+    "city_ascii": "Hilda",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.274,
+    "lng": -81.2466,
+    "cafes": []
+  },
+  "Cross Hill": {
+    "city": "Cross Hill",
+    "city_ascii": "Cross Hill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3045,
+    "lng": -81.9836,
+    "cafes": []
+  },
+  "Briarcliffe Acres": {
+    "city": "Briarcliffe Acres",
+    "city_ascii": "Briarcliffe Acres",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7901,
+    "lng": -78.749,
+    "cafes": []
+  },
+  "Enoree": {
+    "city": "Enoree",
+    "city_ascii": "Enoree",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6593,
+    "lng": -81.9609,
+    "cafes": []
+  },
+  "Society Hill": {
+    "city": "Society Hill",
+    "city_ascii": "Society Hill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5098,
+    "lng": -79.8539,
+    "cafes": []
+  },
+  "Brunson": {
+    "city": "Brunson",
+    "city_ascii": "Brunson",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.9241,
+    "lng": -81.1886,
+    "cafes": []
+  },
+  "Centenary": {
+    "city": "Centenary",
+    "city_ascii": "Centenary",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0258,
+    "lng": -79.3524,
+    "cafes": []
+  },
+  "Cameron": {
+    "city": "Cameron",
+    "city_ascii": "Cameron",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.558,
+    "lng": -80.715,
+    "cafes": []
+  },
+  "Little Mountain": {
+    "city": "Little Mountain",
+    "city_ascii": "Little Mountain",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1968,
+    "lng": -81.4124,
+    "cafes": []
+  },
+  "Carlisle": {
+    "city": "Carlisle",
+    "city_ascii": "Carlisle",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5921,
+    "lng": -81.4645,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4967,
+    "lng": -81.2795,
+    "cafes": []
+  },
+  "Neeses": {
+    "city": "Neeses",
+    "city_ascii": "Neeses",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5365,
+    "lng": -81.1236,
+    "cafes": []
+  },
+  "Alcolu": {
+    "city": "Alcolu",
+    "city_ascii": "Alcolu",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7547,
+    "lng": -80.2221,
+    "cafes": []
+  },
+  "Converse": {
+    "city": "Converse",
+    "city_ascii": "Converse",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.994,
+    "lng": -81.8421,
+    "cafes": []
+  },
+  "Bethune": {
+    "city": "Bethune",
+    "city_ascii": "Bethune",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4143,
+    "lng": -80.3487,
+    "cafes": []
+  },
+  "Startex": {
+    "city": "Startex",
+    "city_ascii": "Startex",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9305,
+    "lng": -82.0942,
+    "cafes": []
+  },
+  "Ehrhardt": {
+    "city": "Ehrhardt",
+    "city_ascii": "Ehrhardt",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0985,
+    "lng": -81.0138,
+    "cafes": []
+  },
+  "Hemingway": {
+    "city": "Hemingway",
+    "city_ascii": "Hemingway",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7534,
+    "lng": -79.4462,
+    "cafes": []
+  },
+  "Lockhart": {
+    "city": "Lockhart",
+    "city_ascii": "Lockhart",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7922,
+    "lng": -81.4613,
+    "cafes": []
+  },
+  "Rowesville": {
+    "city": "Rowesville",
+    "city_ascii": "Rowesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3722,
+    "lng": -80.8362,
+    "cafes": []
+  },
+  "Finklea": {
+    "city": "Finklea",
+    "city_ascii": "Finklea",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0989,
+    "lng": -78.9858,
+    "cafes": []
+  },
+  "Richburg": {
+    "city": "Richburg",
+    "city_ascii": "Richburg",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7168,
+    "lng": -81.0196,
+    "cafes": []
+  },
+  "West Union": {
+    "city": "West Union",
+    "city_ascii": "West Union",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.759,
+    "lng": -83.0432,
+    "cafes": []
+  },
+  "Newry": {
+    "city": "Newry",
+    "city_ascii": "Newry",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.724,
+    "lng": -82.9141,
+    "cafes": []
+  },
+  "Grover": {
+    "city": "Grover",
+    "city_ascii": "Grover",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.1092,
+    "lng": -80.592,
+    "cafes": []
+  },
+  "Paxville": {
+    "city": "Paxville",
+    "city_ascii": "Paxville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.739,
+    "lng": -80.3586,
+    "cafes": []
+  },
+  "Danwood": {
+    "city": "Danwood",
+    "city_ascii": "Danwood",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0903,
+    "lng": -79.7695,
+    "cafes": []
+  },
+  "Lynchburg": {
+    "city": "Lynchburg",
+    "city_ascii": "Lynchburg",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.06,
+    "lng": -80.077,
+    "cafes": []
+  },
+  "Adams Run": {
+    "city": "Adams Run",
+    "city_ascii": "Adams Run",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.7219,
+    "lng": -80.3465,
+    "cafes": []
+  },
+  "Greeleyville": {
+    "city": "Greeleyville",
+    "city_ascii": "Greeleyville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5801,
+    "lng": -79.9901,
+    "cafes": []
+  },
+  "Lowrys": {
+    "city": "Lowrys",
+    "city_ascii": "Lowrys",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.804,
+    "lng": -81.2372,
+    "cafes": []
+  },
+  "Donalds": {
+    "city": "Donalds",
+    "city_ascii": "Donalds",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3766,
+    "lng": -82.3467,
+    "cafes": []
+  },
+  "Elliott": {
+    "city": "Elliott",
+    "city_ascii": "Elliott",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1087,
+    "lng": -80.1703,
+    "cafes": []
+  },
+  "Patrick": {
+    "city": "Patrick",
+    "city_ascii": "Patrick",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5752,
+    "lng": -80.0446,
+    "cafes": []
+  },
+  "Cokesbury": {
+    "city": "Cokesbury",
+    "city_ascii": "Cokesbury",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.29,
+    "lng": -82.2087,
+    "cafes": []
+  },
+  "Mount Carmel": {
+    "city": "Mount Carmel",
+    "city_ascii": "Mount Carmel",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0185,
+    "lng": -82.5045,
+    "cafes": []
+  },
+  "Salley": {
+    "city": "Salley",
+    "city_ascii": "Salley",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5671,
+    "lng": -81.3038,
+    "cafes": []
+  },
+  "Perry": {
+    "city": "Perry",
+    "city_ascii": "Perry",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6281,
+    "lng": -81.3079,
+    "cafes": []
+  },
+  "South Union": {
+    "city": "South Union",
+    "city_ascii": "South Union",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5536,
+    "lng": -83.0509,
+    "cafes": []
+  },
+  "Trenton": {
+    "city": "Trenton",
+    "city_ascii": "Trenton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7401,
+    "lng": -81.8404,
+    "cafes": []
+  },
+  "Gillisonville": {
+    "city": "Gillisonville",
+    "city_ascii": "Gillisonville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.6116,
+    "lng": -81.0001,
+    "cafes": []
+  },
+  "McConnells": {
+    "city": "McConnells",
+    "city_ascii": "McConnells",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8695,
+    "lng": -81.2266,
+    "cafes": []
+  },
+  "Harbor Island": {
+    "city": "Harbor Island",
+    "city_ascii": "Harbor Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.4033,
+    "lng": -80.4377,
+    "cafes": []
+  },
+  "Reevesville": {
+    "city": "Reevesville",
+    "city_ascii": "Reevesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.2021,
+    "lng": -80.6456,
+    "cafes": []
+  },
+  "Ward": {
+    "city": "Ward",
+    "city_ascii": "Ward",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8573,
+    "lng": -81.7313,
+    "cafes": []
+  },
+  "Atlantic Beach": {
+    "city": "Atlantic Beach",
+    "city_ascii": "Atlantic Beach",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8035,
+    "lng": -78.7177,
+    "cafes": []
+  },
+  "Snelling": {
+    "city": "Snelling",
+    "city_ascii": "Snelling",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.2416,
+    "lng": -81.4622,
+    "cafes": []
+  },
+  "Buford": {
+    "city": "Buford",
+    "city_ascii": "Buford",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.748,
+    "lng": -80.6285,
+    "cafes": []
+  },
+  "Norway": {
+    "city": "Norway",
+    "city_ascii": "Norway",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4503,
+    "lng": -81.1266,
+    "cafes": []
+  },
+  "Russellville": {
+    "city": "Russellville",
+    "city_ascii": "Russellville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.397,
+    "lng": -79.9637,
+    "cafes": []
+  },
+  "Daviston": {
+    "city": "Daviston",
+    "city_ascii": "Daviston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8862,
+    "lng": -79.3718,
+    "cafes": []
+  },
+  "Pauline": {
+    "city": "Pauline",
+    "city_ascii": "Pauline",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8321,
+    "lng": -81.8693,
+    "cafes": []
+  },
+  "Central Pacolet": {
+    "city": "Central Pacolet",
+    "city_ascii": "Central Pacolet",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9096,
+    "lng": -81.7527,
+    "cafes": []
+  },
+  "Antreville": {
+    "city": "Antreville",
+    "city_ascii": "Antreville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2971,
+    "lng": -82.5541,
+    "cafes": []
+  },
+  "Ruby": {
+    "city": "Ruby",
+    "city_ascii": "Ruby",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7462,
+    "lng": -80.1799,
+    "cafes": []
+  },
+  "Windsor": {
+    "city": "Windsor",
+    "city_ascii": "Windsor",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4809,
+    "lng": -81.5137,
+    "cafes": []
+  },
+  "Ridgeway": {
+    "city": "Ridgeway",
+    "city_ascii": "Ridgeway",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3066,
+    "lng": -80.9601,
+    "cafes": []
+  },
+  "Fingerville": {
+    "city": "Fingerville",
+    "city_ascii": "Fingerville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.1351,
+    "lng": -82.0002,
+    "cafes": []
+  },
+  "Lydia": {
+    "city": "Lydia",
+    "city_ascii": "Lydia",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2866,
+    "lng": -80.1185,
+    "cafes": []
+  },
+  "Floydale": {
+    "city": "Floydale",
+    "city_ascii": "Floydale",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.321,
+    "lng": -79.3371,
+    "cafes": []
+  },
+  "Stuckey": {
+    "city": "Stuckey",
+    "city_ascii": "Stuckey",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7321,
+    "lng": -79.5132,
+    "cafes": []
+  },
+  "Starr": {
+    "city": "Starr",
+    "city_ascii": "Starr",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3774,
+    "lng": -82.6954,
+    "cafes": []
+  },
+  "Mulberry": {
+    "city": "Mulberry",
+    "city_ascii": "Mulberry",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9565,
+    "lng": -80.3315,
+    "cafes": []
+  },
+  "Luray": {
+    "city": "Luray",
+    "city_ascii": "Luray",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.8142,
+    "lng": -81.2403,
+    "cafes": []
+  },
+  "Jacksonboro": {
+    "city": "Jacksonboro",
+    "city_ascii": "Jacksonboro",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.7718,
+    "lng": -80.4768,
+    "cafes": []
+  },
+  "Dacusville": {
+    "city": "Dacusville",
+    "city_ascii": "Dacusville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9343,
+    "lng": -82.5606,
+    "cafes": []
+  },
+  "Oswego": {
+    "city": "Oswego",
+    "city_ascii": "Oswego",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0056,
+    "lng": -80.2862,
+    "cafes": []
+  },
+  "Monetta": {
+    "city": "Monetta",
+    "city_ascii": "Monetta",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8501,
+    "lng": -81.61,
+    "cafes": []
+  },
+  "Abney Crossroads": {
+    "city": "Abney Crossroads",
+    "city_ascii": "Abney Crossroads",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5063,
+    "lng": -80.5107,
+    "cafes": []
+  },
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8879,
+    "lng": -82.9752,
+    "cafes": []
+  },
+  "Bradley": {
+    "city": "Bradley",
+    "city_ascii": "Bradley",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0391,
+    "lng": -82.2435,
+    "cafes": []
+  },
+  "Vance": {
+    "city": "Vance",
+    "city_ascii": "Vance",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4365,
+    "lng": -80.4201,
+    "cafes": []
+  },
+  "Gifford": {
+    "city": "Gifford",
+    "city_ascii": "Gifford",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.8601,
+    "lng": -81.2385,
+    "cafes": []
+  },
+  "Rembert": {
+    "city": "Rembert",
+    "city_ascii": "Rembert",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1037,
+    "lng": -80.5306,
+    "cafes": []
+  },
+  "Elko": {
+    "city": "Elko",
+    "city_ascii": "Elko",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3808,
+    "lng": -81.3805,
+    "cafes": []
+  },
+  "Nichols": {
+    "city": "Nichols",
+    "city_ascii": "Nichols",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.235,
+    "lng": -79.149,
+    "cafes": []
+  },
+  "Waterloo": {
+    "city": "Waterloo",
+    "city_ascii": "Waterloo",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3561,
+    "lng": -82.0572,
+    "cafes": []
+  },
+  "Olar": {
+    "city": "Olar",
+    "city_ascii": "Olar",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.1799,
+    "lng": -81.1854,
+    "cafes": []
+  },
+  "Sellers": {
+    "city": "Sellers",
+    "city_ascii": "Sellers",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2826,
+    "lng": -79.4724,
+    "cafes": []
+  },
+  "Lobeco": {
+    "city": "Lobeco",
+    "city_ascii": "Lobeco",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.5512,
+    "lng": -80.7354,
+    "cafes": []
+  },
+  "Hodges": {
+    "city": "Hodges",
+    "city_ascii": "Hodges",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2876,
+    "lng": -82.248,
+    "cafes": []
+  },
+  "Wisacky": {
+    "city": "Wisacky",
+    "city_ascii": "Wisacky",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1465,
+    "lng": -80.1905,
+    "cafes": []
+  },
+  "Glendale": {
+    "city": "Glendale",
+    "city_ascii": "Glendale",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.9452,
+    "lng": -81.8364,
+    "cafes": []
+  },
+  "Glenn Springs": {
+    "city": "Glenn Springs",
+    "city_ascii": "Glenn Springs",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8134,
+    "lng": -81.8415,
+    "cafes": []
+  },
+  "Livingston": {
+    "city": "Livingston",
+    "city_ascii": "Livingston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.5531,
+    "lng": -81.1196,
+    "cafes": []
+  },
+  "Lowndesville": {
+    "city": "Lowndesville",
+    "city_ascii": "Lowndesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2099,
+    "lng": -82.6476,
+    "cafes": []
+  },
+  "Shiloh": {
+    "city": "Shiloh",
+    "city_ascii": "Shiloh",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9462,
+    "lng": -80.0208,
+    "cafes": []
+  },
+  "Troy": {
+    "city": "Troy",
+    "city_ascii": "Troy",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.988,
+    "lng": -82.2974,
+    "cafes": []
+  },
+  "Silverstreet": {
+    "city": "Silverstreet",
+    "city_ascii": "Silverstreet",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2177,
+    "lng": -81.7146,
+    "cafes": []
+  },
+  "Cordova": {
+    "city": "Cordova",
+    "city_ascii": "Cordova",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4345,
+    "lng": -80.9211,
+    "cafes": []
+  },
+  "Lodge": {
+    "city": "Lodge",
+    "city_ascii": "Lodge",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0678,
+    "lng": -80.9537,
+    "cafes": []
+  },
+  "Smoaks": {
+    "city": "Smoaks",
+    "city_ascii": "Smoaks",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0895,
+    "lng": -80.8142,
+    "cafes": []
+  },
+  "Woodford": {
+    "city": "Woodford",
+    "city_ascii": "Woodford",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6687,
+    "lng": -81.112,
+    "cafes": []
+  },
+  "Mount Croghan": {
+    "city": "Mount Croghan",
+    "city_ascii": "Mount Croghan",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7697,
+    "lng": -80.2264,
+    "cafes": []
+  },
+  "Kline": {
+    "city": "Kline",
+    "city_ascii": "Kline",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.1252,
+    "lng": -81.3426,
+    "cafes": []
+  },
+  "Boykin": {
+    "city": "Boykin",
+    "city_ascii": "Boykin",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1198,
+    "lng": -80.5886,
+    "cafes": []
+  },
+  "Sycamore": {
+    "city": "Sycamore",
+    "city_ascii": "Sycamore",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0362,
+    "lng": -81.2223,
+    "cafes": []
+  },
+  "Promised Land": {
+    "city": "Promised Land",
+    "city_ascii": "Promised Land",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1276,
+    "lng": -82.2307,
+    "cafes": []
+  },
+  "Scotia": {
+    "city": "Scotia",
+    "city_ascii": "Scotia",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.6805,
+    "lng": -81.2433,
+    "cafes": []
+  },
+  "Rockville": {
+    "city": "Rockville",
+    "city_ascii": "Rockville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.6024,
+    "lng": -80.1935,
+    "cafes": []
+  },
+  "Clarks Hill": {
+    "city": "Clarks Hill",
+    "city_ascii": "Clarks Hill",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6582,
+    "lng": -82.166,
+    "cafes": []
+  },
+  "Ulmer": {
+    "city": "Ulmer",
+    "city_ascii": "Ulmer",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0987,
+    "lng": -81.208,
+    "cafes": []
+  },
+  "Williams": {
+    "city": "Williams",
+    "city_ascii": "Williams",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.0341,
+    "lng": -80.8428,
+    "cafes": []
+  },
+  "Pawleys Island": {
+    "city": "Pawleys Island",
+    "city_ascii": "Pawleys Island",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.4269,
+    "lng": -79.1246,
+    "cafes": []
+  },
+  "Pomaria": {
+    "city": "Pomaria",
+    "city_ascii": "Pomaria",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2677,
+    "lng": -81.4192,
+    "cafes": []
+  },
+  "Ware Place": {
+    "city": "Ware Place",
+    "city_ascii": "Ware Place",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6266,
+    "lng": -82.3881,
+    "cafes": []
+  },
+  "Mountville": {
+    "city": "Mountville",
+    "city_ascii": "Mountville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3664,
+    "lng": -81.9758,
+    "cafes": []
+  },
+  "Tatum": {
+    "city": "Tatum",
+    "city_ascii": "Tatum",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.6438,
+    "lng": -79.5867,
+    "cafes": []
+  },
+  "Plum Branch": {
+    "city": "Plum Branch",
+    "city_ascii": "Plum Branch",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.8482,
+    "lng": -82.2587,
+    "cafes": []
+  },
+  "Saint Charles": {
+    "city": "Saint Charles",
+    "city_ascii": "Saint Charles",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0806,
+    "lng": -80.2249,
+    "cafes": []
+  },
+  "Parksville": {
+    "city": "Parksville",
+    "city_ascii": "Parksville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.7866,
+    "lng": -82.2174,
+    "cafes": []
+  },
+  "Cross Anchor": {
+    "city": "Cross Anchor",
+    "city_ascii": "Cross Anchor",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.644,
+    "lng": -81.8585,
+    "cafes": []
+  },
+  "Gramling": {
+    "city": "Gramling",
+    "city_ascii": "Gramling",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0782,
+    "lng": -82.1332,
+    "cafes": []
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "city_ascii": "Princeton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.4913,
+    "lng": -82.2958,
+    "cafes": []
+  },
+  "Willington": {
+    "city": "Willington",
+    "city_ascii": "Willington",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.9687,
+    "lng": -82.4576,
+    "cafes": []
+  },
+  "Browntown": {
+    "city": "Browntown",
+    "city_ascii": "Browntown",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2053,
+    "lng": -80.316,
+    "cafes": []
+  },
+  "Peak": {
+    "city": "Peak",
+    "city_ascii": "Peak",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2363,
+    "lng": -81.3288,
+    "cafes": []
+  },
+  "Zion": {
+    "city": "Zion",
+    "city_ascii": "Zion",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2587,
+    "lng": -79.3116,
+    "cafes": []
+  },
+  "Tradesville": {
+    "city": "Tradesville",
+    "city_ascii": "Tradesville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7705,
+    "lng": -80.5487,
+    "cafes": []
+  },
+  "Jamestown": {
+    "city": "Jamestown",
+    "city_ascii": "Jamestown",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.2858,
+    "lng": -79.6945,
+    "cafes": []
+  },
+  "Tamassee": {
+    "city": "Tamassee",
+    "city_ascii": "Tamassee",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.8812,
+    "lng": -83.0175,
+    "cafes": []
+  },
+  "Foreston": {
+    "city": "Foreston",
+    "city_ascii": "Foreston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.6367,
+    "lng": -80.0607,
+    "cafes": []
+  },
+  "Govan": {
+    "city": "Govan",
+    "city_ascii": "Govan",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.2227,
+    "lng": -81.1748,
+    "cafes": []
+  },
+  "Green Sea": {
+    "city": "Green Sea",
+    "city_ascii": "Green Sea",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1288,
+    "lng": -78.9721,
+    "cafes": []
+  },
+  "Islandton": {
+    "city": "Islandton",
+    "city_ascii": "Islandton",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.9093,
+    "lng": -80.9359,
+    "cafes": []
+  },
+  "Smyrna": {
+    "city": "Smyrna",
+    "city_ascii": "Smyrna",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.042,
+    "lng": -81.4094,
+    "cafes": []
+  },
+  "Jenkinsville": {
+    "city": "Jenkinsville",
+    "city_ascii": "Jenkinsville",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.3129,
+    "lng": -81.2874,
+    "cafes": []
+  },
+  "Coronaca": {
+    "city": "Coronaca",
+    "city_ascii": "Coronaca",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.2595,
+    "lng": -82.0969,
+    "cafes": []
+  },
+  "Blenheim": {
+    "city": "Blenheim",
+    "city_ascii": "Blenheim",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.5098,
+    "lng": -79.6526,
+    "cafes": []
+  },
+  "Ketchuptown": {
+    "city": "Ketchuptown",
+    "city_ascii": "Ketchuptown",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1091,
+    "lng": -79.1557,
+    "cafes": []
+  },
+  "Rains": {
+    "city": "Rains",
+    "city_ascii": "Rains",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0942,
+    "lng": -79.3214,
+    "cafes": []
+  },
+  "Caesars Head": {
+    "city": "Caesars Head",
+    "city_ascii": "Caesars Head",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.1072,
+    "lng": -82.6182,
+    "cafes": []
+  },
+  "Coosawhatchie": {
+    "city": "Coosawhatchie",
+    "city_ascii": "Coosawhatchie",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.5851,
+    "lng": -80.9328,
+    "cafes": []
+  },
+  "Ashwood": {
+    "city": "Ashwood",
+    "city_ascii": "Ashwood",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.1142,
+    "lng": -80.3039,
+    "cafes": []
+  },
+  "Cherokee Falls": {
+    "city": "Cherokee Falls",
+    "city_ascii": "Cherokee Falls",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 35.0645,
+    "lng": -81.5436,
+    "cafes": []
+  },
+  "Cope": {
+    "city": "Cope",
+    "city_ascii": "Cope",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 33.3777,
+    "lng": -81.0079,
+    "cafes": []
+  },
+  "Longcreek": {
+    "city": "Longcreek",
+    "city_ascii": "Longcreek",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.7776,
+    "lng": -83.2602,
+    "cafes": []
+  },
+  "Live Oak": {
+    "city": "Live Oak",
+    "city_ascii": "Live Oak",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.056,
+    "lng": -78.9397,
+    "cafes": []
+  }
+}

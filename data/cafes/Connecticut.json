@@ -1,0 +1,1875 @@
+{
+  "New Haven": {
+    "city": "New Haven",
+    "city_ascii": "New Haven",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3113,
+    "lng": -72.9246,
+    "cafes": [
+      {
+        "name": "Mew Haven Cat Cafe",
+        "address": "904 Whalley Ave, New Haven, CT 06515, USA",
+        "rating": 4.8,
+        "user_ratings_total": 1436,
+        "website": "https://mewhavencatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=8099127131922963035",
+        "lat": 41.3271622,
+        "lng": -72.9604342,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true
+        },
+        "reviews": [
+          {
+            "author": "Maria E. Tapia-Paez",
+            "rating": 5,
+            "text": {
+              "text": "We visited Mew Heaven Cat Cafe on Sunday, and it was such a delightful experience! Booking our tickets ahead of time online was super easy and convenient. Once we arrived, we enjoyed some delicious coffee and tea while spending time with the adorable cats. The space is cozy, and the staff, especially Angela, the owner, was super friendly and welcoming. She really made our visit even more special. It’s the perfect place to relax and enjoy some time with furry friends. We had a great time and will definitely be back! Highly recommend for any cat lover!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Jack VK",
+            "rating": 5,
+            "text": {
+              "text": "This was such an amazing experience! The staff was so friendly. The gift shop prices were amazing! They also have a sheet on how each cat acts. A cat climbed up on my lap for around 30-40 minutes. It is such a beautiful and simple experience. I recommend that everyone goes here at least once. My only complaints are  that it's is only around 1 hour! Lol! I would spend all day here if I was able to! Also, It was around 30 minutes away! I wish there were so many more of these across the world!!!!! Overall, this was one of the best experiences of my life! If it is so relaxing and so enjoyable. I really hope to go back again soon!!!!!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Diamanto Antonellis",
+            "rating": 5,
+            "text": {
+              "text": "This place is amazing! My granddaughter loved loved to pet the cats and she had a great time. I had a good relaxing time as well! I had cats as long as I can remember my self, so seeing all these babies today it was an amazing experience!! We will definitely visit you again.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0gTgpzg8wCGxU36CiPr3G7z403RFcSq9rZRrKbXo68PVswJSySv8pGCNQX_mbXct-kf0X3cDhpr-hukEKadsEJMbX1TTwTqYnLKn39R47joC7yQogxbmO4L9ZVeHgfX1yofOEDAHG9J200Nx9OhX9QGEgGrF7WM1Jud-QRdMFrABOci76KDJgGK-K80hvDfe7VkmligkANQn35geojDJzkcIWq67yFDX77D051xq1FF69bXlZ6AcBsbq8AEmosRsHyuQuy5_0llZE9b6HtW-u4MiuEGq0xy81w6WKHIJjCwpVYvQyBwHlwJeCJ8FvhQbw2NB9ij-UjIxka6tVHC-Z2XICIZdL5RMKITyMMu1FPFi94mVn9-vNcLu5hkLGwf2WbDTFxKwS02aVL588lm09KCPHYycHcRg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Glastonbury": [
+    {
+      "name": "Marcie's Angels Cat Cafe",
+      "address": "3045 Main St, Glastonbury, CT 06033, USA",
+      "rating": 4.6,
+      "user_ratings_total": 55,
+      "website": "https://www.marciesangelscatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=576108072797678694",
+      "lat": 41.726937,
+      "lng": -72.6178831,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Akeemah Codrington",
+          "rating": 5,
+          "text": {
+            "text": "I smile from ear to ear every time I visit because CATS!!!  Marcie's is warm, inviting, tastefully decorated, tidy. They offer a variety of events like sip and paints, cat yoga, etc.  If you'd like to directly help their cause, book a session and spend some time with the kitties or better yet, think about fostering. Knowing that you're helping animals in need by providing a safe and loving home is such a\nrewarding feeling. Thank you Marcie's for bringing such a special little place to the area!!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Carrie Alice",
+          "rating": 5,
+          "text": {
+            "text": "Such a wonderful experience, love the services that this facility provides to the otherwise forgotten about, felines.\n\nThe owner was there to welcome us and was a very humble, caring individual. Would definitely recommend going in the morning or earlier in the day since the kitties get tired near the end of the day. What a special place though, highly recommend and love the cute gift shop they have there too.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        },
+        {
+          "author": "Crystal Flaherty",
+          "rating": 5,
+          "text": {
+            "text": "Absolutely amazing place! We love what they are doing for those sweet animals. There is a fee to enter and see the cats. However, the cafe side is always open to the public. The desserts are 10/10 and so delicious! They also offer gluten free options. My 7 and 4 year old had a blast. The owner is the sweetest and we felt so welcomed! We love what they are doing for our local community and can’t wait to go again.",
+            "languageCode": "en"
+          },
+          "time": "6 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2491qfHkANtA66B-KaskwPV3GGfTnWVD3FMMsGcicg05-7lxj9Ug9gAejKjp_vyJd5P3yK59TWg6jdz8klzA7ae1PCpfPVwtqYvaygPdTRG9yYWH_hUYJIHFptdHroY0tkqhZWAahrFE69aGbNQVkHhTM_mFwwNizb66rVieUB2ssIxwhbinQ6iySgJxieazngSA0Lz5YVqWzYfJ7bkxN10co_IfbIDiSv2d87JMbfSWl7nQC31MMox495fyRmuKsCAr1dvPZ-tgRvvdKIK9-0q9MTPqj8B-TL5j-WNKmD1w&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Torrington": {
+    "city": "Torrington",
+    "city_ascii": "Torrington",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8349,
+    "lng": -73.1282,
+    "cafes": [
+      {
+        "name": "Perk and Paws Cat Cafe",
+        "address": "100 Franklin St Suite A, Torrington, CT 06790, USA",
+        "rating": 4.7,
+        "user_ratings_total": 29,
+        "website": "https://www.perkandpawscatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=3698925023923149427",
+        "lat": 41.8002884,
+        "lng": -73.118854,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Alison DiFiore",
+            "rating": 5,
+            "text": {
+              "text": "What a wonderful little spot!! It was a calm and clean environment. The owner was taking care of the customers himself and he was so kind and fun to chat with.\n\nThe cat area was so relaxing, cute and well-decorated. They let in just a small amount of people at a time for the cats' sake, so you do not feel overcrowded. There is plenty of space and time to visit all the kitties in the room (I believe there were 6 or 7) and there are plenty of toys to use with them. They seemed well-cared for and content. We aren't in a position to adopt sadly, but there is no pressure at all if you just want to hang with them.\n\nThe beverages were so reasonably priced that I tried both an iced coffee and a hot chocolate. Both were SO GOOD and they have a variety of flavors to add to anything.\n\n10/10 will return!! The hour drive for me is worth it.",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Christina Lagrave",
+            "rating": 5,
+            "text": {
+              "text": "We went this past weekend for a visit. There were 5-6 beautiful friendly cats to visit, all available for adoption. We had some coffee and hot tea. The owners were friendly and welcoming and very passionate about their business! Highly recommend visiting! We will be back!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Hannah Sussman",
+            "rating": 5,
+            "text": {
+              "text": "I brought my mom here for her birthday and we had the best time. The staff are all incredibly kind and friendly and it's a very relaxed environment. They clearly take excellent care of their cats, who are all adoptable. The kitties that were there were very playful and sweet, and had we been in the market for adopting it would have been an impossible choice. Highly recommend for a cozy afternoon or if you're beginning your cat adoption journey.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3w6PZD_l_I297Rv4kyrCnQGFfEDYn-yDA4vXOkhCs4tNVr7Pdm9kwqtVJKcxc5OoqBIpSavna2nMJp2ulRaNXynI5OQ-SHWRXY3f0P0JtUJ5KfOT4edT2SuOtZQgVqExSzE6krKW6P8CdYGFJKXZ7cqk7HRuuJrpwgZ8ZXINkadrCm1ZOg4pZwclP-OjSGmamHB6gqGDBrl67vAVMAKcddaUERpr4rVhoMAqbmpOV720Bohs4V5yq-cBz1ZGZtAP1jxHArQuVFO8BKimzUXdepG00TF0peMPlqpvTfMuU3RA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "East Haddam": [
+    {
+      "name": "Two Wrasslin' Cats Coffee House & Cafe",
+      "address": "374 Town St, East Haddam, CT 06423, USA",
+      "rating": 4.7,
+      "user_ratings_total": 783,
+      "website": "http://twowrasslincats.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=17827479456716653416",
+      "lat": 41.4638784,
+      "lng": -72.44309439999999,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Jesse Madrid",
+          "rating": 5,
+          "text": {
+            "text": "Came for the coffee and croissant, stayed for the cats 😁. Great spot to go out for a drive. The outdoor seating looks like it would be amazing during the spring and summertime. There's great seating outside next to the creek. Inside, what can be said, if you ever thought of a cat themed decoration, they have it. The coffee tasted great, and they offer a good choice of sandwiches.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Dan Ryan",
+          "rating": 5,
+          "text": {
+            "text": "This was a super cool cafe to stop in on our day of adventure. The customer service was phenomenal and everyone was super chill. Coffee was very good, my wrap was good, and my girlfriend very much enjoyed her bagel sandwich. Cat themed and eccentric design alone was worth checking out, you can also hangout with the 6 residence cats in their playroom for a small donation.",
+            "languageCode": "en"
+          },
+          "time": "6 months ago"
+        },
+        {
+          "author": "Bonnie Gleicher",
+          "rating": 5,
+          "text": {
+            "text": "An adorable cat cafe where you can hang with cats, drink cappuccino, and talk with the very kind owner. Great spot to just hang out in and you can either look through the glass window at the cats or play with them yourself, but either way, adorable.\n\n5 stars!!!!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ29AJ0ldLFCmUGinbNwb1yQw6yebFtLUTx3YPfR5e5tTuSJBOswPN5O4rd7HE_bcVqPvBelurwC_DVElxakJ9D5nUmLSpgeSCDvcZTeuQqNnykMfYqTAZZJjU14S-epqRjmMoMW8h4FJiVDPNx-dzwHpI7UElHO3vQK6ZF8c_oggVo36zaX_hNVkpZaDgx-z9XV3PJYloqKwXEqPwVa_785o31Zxu4_mlcXa399HaIIqSZyOXSbfSLFlYVqnBQ3mKOyCP4KC1TTCHFa2_EM8dSys4JgbTsFlBJCmMRo_kIr3Mfk5Agnb0pZl-sa78gXqX0Pk2nkdhnUlogMVk-RC_NNiphViD00sx-9GdjnbdLNW1ULIYvZYUuoRFxjUV9rl99W5habi04zEr1qqfcFv8ZTxTq_JtCNobNf&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Old Saybrook": [
+    {
+      "name": "Cat cafe",
+      "address": "242 Main St, Old Saybrook, CT 06475, USA",
+      "rating": 5,
+      "user_ratings_total": 1,
+      "website": "http://www.allthesinglekitties.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=16312697654873134481",
+      "lat": 41.2914222,
+      "lng": -72.3757744,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true
+      },
+      "reviews": [
+        {
+          "author": "Nicolas Houle",
+          "rating": 5,
+          "text": {
+            "text": "Cat",
+            "languageCode": "en"
+          },
+          "time": "6 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2mNjnoqsNtIN0Zrb0zdhiX64Rj2p5vCD9ALMaY5gcy75M1sJd_MD4PoImAl2RGA_fn-Vi5sNB4RRRnaAAPCMkitAO-XStF4r3sGpq0-ezbcArR9aUdyX_RgoIoX8qrNTtWA-vPsMAnbRZWGVv36AC4wcAFpf0DixNge2EtxnBKWhXlKwMA6nhdKcoUERcHkhJS1Q_-3Llh_hlNj25dRry44AUwkhkEpxxSJtd58jmKqIL4sREhjHPGl3r9r7FCFRi6A-IMnAFPkPXA6OAUfaiTEhaD9gpb4D9TGfpnhAOzIEt645vvlAfw4_YSfo8IAGwo_Q8p10XdK1QsJxxQ0p0_xY6UtEPArsP38hWfTtyE4yNXyxzQdm0xUAt-Avy7Qv3lSg6DVE8lmQ0R3JxcJ9cot4NQkUk&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Hartford": {
+    "city": "Hartford",
+    "city_ascii": "Hartford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7661,
+    "lng": -72.6834,
+    "cafes": []
+  },
+  "Bridgeport": {
+    "city": "Bridgeport",
+    "city_ascii": "Bridgeport",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1918,
+    "lng": -73.1954,
+    "cafes": []
+  },
+  "Waterbury": {
+    "city": "Waterbury",
+    "city_ascii": "Waterbury",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5582,
+    "lng": -73.0361,
+    "cafes": []
+  },
+  "Danbury": {
+    "city": "Danbury",
+    "city_ascii": "Danbury",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4015,
+    "lng": -73.4709,
+    "cafes": []
+  },
+  "Norwich": {
+    "city": "Norwich",
+    "city_ascii": "Norwich",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5495,
+    "lng": -72.0882,
+    "cafes": []
+  },
+  "Stamford": {
+    "city": "Stamford",
+    "city_ascii": "Stamford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1039,
+    "lng": -73.5585,
+    "cafes": []
+  },
+  "Norwalk": {
+    "city": "Norwalk",
+    "city_ascii": "Norwalk",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1144,
+    "lng": -73.4215,
+    "cafes": []
+  },
+  "New Britain": {
+    "city": "New Britain",
+    "city_ascii": "New Britain",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.6759,
+    "lng": -72.7862,
+    "cafes": []
+  },
+  "Bristol": {
+    "city": "Bristol",
+    "city_ascii": "Bristol",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.6812,
+    "lng": -72.9407,
+    "cafes": []
+  },
+  "Meriden": {
+    "city": "Meriden",
+    "city_ascii": "Meriden",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5369,
+    "lng": -72.7946,
+    "cafes": []
+  },
+  "West Haven": {
+    "city": "West Haven",
+    "city_ascii": "West Haven",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2739,
+    "lng": -72.9672,
+    "cafes": []
+  },
+  "Milford city": {
+    "city": "Milford city ",
+    "city_ascii": "Milford city ",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2255,
+    "lng": -73.0625,
+    "cafes": []
+  },
+  "Middletown": {
+    "city": "Middletown",
+    "city_ascii": "Middletown",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5476,
+    "lng": -72.6549,
+    "cafes": []
+  },
+  "Shelton": {
+    "city": "Shelton",
+    "city_ascii": "Shelton",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.306,
+    "lng": -73.1383,
+    "cafes": []
+  },
+  "Naugatuck": {
+    "city": "Naugatuck",
+    "city_ascii": "Naugatuck",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.489,
+    "lng": -73.0518,
+    "cafes": []
+  },
+  "New London": {
+    "city": "New London",
+    "city_ascii": "New London",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3502,
+    "lng": -72.1022,
+    "cafes": []
+  },
+  "Ansonia": {
+    "city": "Ansonia",
+    "city_ascii": "Ansonia",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3443,
+    "lng": -73.0689,
+    "cafes": []
+  },
+  "Wallingford Center": {
+    "city": "Wallingford Center",
+    "city_ascii": "Wallingford Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4499,
+    "lng": -72.8189,
+    "cafes": []
+  },
+  "Willimantic": {
+    "city": "Willimantic",
+    "city_ascii": "Willimantic",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7171,
+    "lng": -72.2114,
+    "cafes": []
+  },
+  "Storrs": {
+    "city": "Storrs",
+    "city_ascii": "Storrs",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8083,
+    "lng": -72.2514,
+    "cafes": []
+  },
+  "Derby": {
+    "city": "Derby",
+    "city_ascii": "Derby",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3265,
+    "lng": -73.0833,
+    "cafes": []
+  },
+  "Trumbull Center": {
+    "city": "Trumbull Center",
+    "city_ascii": "Trumbull Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2415,
+    "lng": -73.1836,
+    "cafes": []
+  },
+  "Kensington": {
+    "city": "Kensington",
+    "city_ascii": "Kensington",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.6284,
+    "lng": -72.7686,
+    "cafes": []
+  },
+  "Sandy Hook": {
+    "city": "Sandy Hook",
+    "city_ascii": "Sandy Hook",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4128,
+    "lng": -73.244,
+    "cafes": []
+  },
+  "Oakville": {
+    "city": "Oakville",
+    "city_ascii": "Oakville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5893,
+    "lng": -73.0905,
+    "cafes": []
+  },
+  "Riverside": {
+    "city": "Riverside",
+    "city_ascii": "Riverside",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0318,
+    "lng": -73.5827,
+    "cafes": []
+  },
+  "Long Hill": {
+    "city": "Long Hill",
+    "city_ascii": "Long Hill",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3536,
+    "lng": -72.0517,
+    "cafes": []
+  },
+  "Conning Towers Nautilus Park": {
+    "city": "Conning Towers Nautilus Park",
+    "city_ascii": "Conning Towers Nautilus Park",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.385,
+    "lng": -72.0684,
+    "cafes": []
+  },
+  "Southwood Acres": {
+    "city": "Southwood Acres",
+    "city_ascii": "Southwood Acres",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9582,
+    "lng": -72.5726,
+    "cafes": []
+  },
+  "Glastonbury Center": {
+    "city": "Glastonbury Center",
+    "city_ascii": "Glastonbury Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7016,
+    "lng": -72.6002,
+    "cafes": []
+  },
+  "Thompsonville": {
+    "city": "Thompsonville",
+    "city_ascii": "Thompsonville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9915,
+    "lng": -72.5965,
+    "cafes": []
+  },
+  "Cos Cob": {
+    "city": "Cos Cob",
+    "city_ascii": "Cos Cob",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0513,
+    "lng": -73.5934,
+    "cafes": []
+  },
+  "Winsted": {
+    "city": "Winsted",
+    "city_ascii": "Winsted",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9262,
+    "lng": -73.0675,
+    "cafes": []
+  },
+  "New Canaan": {
+    "city": "New Canaan",
+    "city_ascii": "New Canaan",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.142,
+    "lng": -73.4905,
+    "cafes": []
+  },
+  "Staples": {
+    "city": "Staples",
+    "city_ascii": "Staples",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1508,
+    "lng": -73.3283,
+    "cafes": []
+  },
+  "Old Greenwich": {
+    "city": "Old Greenwich",
+    "city_ascii": "Old Greenwich",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0254,
+    "lng": -73.5692,
+    "cafes": []
+  },
+  "Rockville": {
+    "city": "Rockville",
+    "city_ascii": "Rockville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8665,
+    "lng": -72.4512,
+    "cafes": []
+  },
+  "Hazardville": {
+    "city": "Hazardville",
+    "city_ascii": "Hazardville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9921,
+    "lng": -72.5344,
+    "cafes": []
+  },
+  "Simsbury Center": {
+    "city": "Simsbury Center",
+    "city_ascii": "Simsbury Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8808,
+    "lng": -72.8111,
+    "cafes": []
+  },
+  "Northford": {
+    "city": "Northford",
+    "city_ascii": "Northford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3949,
+    "lng": -72.7826,
+    "cafes": []
+  },
+  "Branford Center": {
+    "city": "Branford Center",
+    "city_ascii": "Branford Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.278,
+    "lng": -72.8148,
+    "cafes": []
+  },
+  "Cheshire Village": {
+    "city": "Cheshire Village",
+    "city_ascii": "Cheshire Village",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5041,
+    "lng": -72.8969,
+    "cafes": []
+  },
+  "Daniels Farm": {
+    "city": "Daniels Farm",
+    "city_ascii": "Daniels Farm",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2778,
+    "lng": -73.2022,
+    "cafes": []
+  },
+  "Sherwood Manor": {
+    "city": "Sherwood Manor",
+    "city_ascii": "Sherwood Manor",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 42.0101,
+    "lng": -72.5667,
+    "cafes": []
+  },
+  "Noroton": {
+    "city": "Noroton",
+    "city_ascii": "Noroton",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0595,
+    "lng": -73.4922,
+    "cafes": []
+  },
+  "Pawcatuck": {
+    "city": "Pawcatuck",
+    "city_ascii": "Pawcatuck",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3774,
+    "lng": -71.8492,
+    "cafes": []
+  },
+  "Terryville": {
+    "city": "Terryville",
+    "city_ascii": "Terryville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.6784,
+    "lng": -73.0064,
+    "cafes": []
+  },
+  "Byram": {
+    "city": "Byram",
+    "city_ascii": "Byram",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0011,
+    "lng": -73.6528,
+    "cafes": []
+  },
+  "Stafford Springs": {
+    "city": "Stafford Springs",
+    "city_ascii": "Stafford Springs",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9595,
+    "lng": -72.3105,
+    "cafes": []
+  },
+  "Lake Pocotopaug": {
+    "city": "Lake Pocotopaug",
+    "city_ascii": "Lake Pocotopaug",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.596,
+    "lng": -72.51,
+    "cafes": []
+  },
+  "Heritage Village": {
+    "city": "Heritage Village",
+    "city_ascii": "Heritage Village",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4855,
+    "lng": -73.2349,
+    "cafes": []
+  },
+  "Mystic": {
+    "city": "Mystic",
+    "city_ascii": "Mystic",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3562,
+    "lng": -71.9546,
+    "cafes": []
+  },
+  "Danielson": {
+    "city": "Danielson",
+    "city_ascii": "Danielson",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8086,
+    "lng": -71.8854,
+    "cafes": []
+  },
+  "Collinsville": {
+    "city": "Collinsville",
+    "city_ascii": "Collinsville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8189,
+    "lng": -72.922,
+    "cafes": []
+  },
+  "Oronoque": {
+    "city": "Oronoque",
+    "city_ascii": "Oronoque",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2527,
+    "lng": -73.1089,
+    "cafes": []
+  },
+  "Quinnipiac University": {
+    "city": "Quinnipiac University",
+    "city_ascii": "Quinnipiac University",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4174,
+    "lng": -72.8992,
+    "cafes": []
+  },
+  "East Village": {
+    "city": "East Village",
+    "city_ascii": "East Village",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3612,
+    "lng": -73.1845,
+    "cafes": []
+  },
+  "Lordship": {
+    "city": "Lordship",
+    "city_ascii": "Lordship",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1533,
+    "lng": -73.1197,
+    "cafes": []
+  },
+  "Compo": {
+    "city": "Compo",
+    "city_ascii": "Compo",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1225,
+    "lng": -73.3516,
+    "cafes": []
+  },
+  "Broad Brook": {
+    "city": "Broad Brook",
+    "city_ascii": "Broad Brook",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9097,
+    "lng": -72.5426,
+    "cafes": []
+  },
+  "Stepney": {
+    "city": "Stepney",
+    "city_ascii": "Stepney",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3256,
+    "lng": -73.2674,
+    "cafes": []
+  },
+  "Coleytown": {
+    "city": "Coleytown",
+    "city_ascii": "Coleytown",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1742,
+    "lng": -73.3461,
+    "cafes": []
+  },
+  "Pemberwick": {
+    "city": "Pemberwick",
+    "city_ascii": "Pemberwick",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0225,
+    "lng": -73.6564,
+    "cafes": []
+  },
+  "Tashua": {
+    "city": "Tashua",
+    "city_ascii": "Tashua",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2761,
+    "lng": -73.2536,
+    "cafes": []
+  },
+  "Jewett City": {
+    "city": "Jewett City",
+    "city_ascii": "Jewett City",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.607,
+    "lng": -71.9806,
+    "cafes": []
+  },
+  "Niantic": {
+    "city": "Niantic",
+    "city_ascii": "Niantic",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3258,
+    "lng": -72.1952,
+    "cafes": []
+  },
+  "Moosup": {
+    "city": "Moosup",
+    "city_ascii": "Moosup",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7173,
+    "lng": -71.8757,
+    "cafes": []
+  },
+  "Old Mystic": {
+    "city": "Old Mystic",
+    "city_ascii": "Old Mystic",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3852,
+    "lng": -71.9851,
+    "cafes": []
+  },
+  "Northwest Harwinton": {
+    "city": "Northwest Harwinton",
+    "city_ascii": "Northwest Harwinton",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7769,
+    "lng": -73.0794,
+    "cafes": []
+  },
+  "Saugatuck": {
+    "city": "Saugatuck",
+    "city_ascii": "Saugatuck",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1143,
+    "lng": -73.3717,
+    "cafes": []
+  },
+  "Old Hill": {
+    "city": "Old Hill",
+    "city_ascii": "Old Hill",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1491,
+    "lng": -73.3764,
+    "cafes": []
+  },
+  "Greens Farms": {
+    "city": "Greens Farms",
+    "city_ascii": "Greens Farms",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1264,
+    "lng": -73.322,
+    "cafes": []
+  },
+  "Noroton Heights": {
+    "city": "Noroton Heights",
+    "city_ascii": "Noroton Heights",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0741,
+    "lng": -73.4972,
+    "cafes": []
+  },
+  "Oxoboxo River": {
+    "city": "Oxoboxo River",
+    "city_ascii": "Oxoboxo River",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4441,
+    "lng": -72.1249,
+    "cafes": []
+  },
+  "West Simsbury": {
+    "city": "West Simsbury",
+    "city_ascii": "West Simsbury",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8757,
+    "lng": -72.845,
+    "cafes": []
+  },
+  "Westport Village": {
+    "city": "Westport Village",
+    "city_ascii": "Westport Village",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1428,
+    "lng": -73.3609,
+    "cafes": []
+  },
+  "Weatogue": {
+    "city": "Weatogue",
+    "city_ascii": "Weatogue",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8459,
+    "lng": -72.8294,
+    "cafes": []
+  },
+  "Essex Village": {
+    "city": "Essex Village",
+    "city_ascii": "Essex Village",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3559,
+    "lng": -72.3919,
+    "cafes": []
+  },
+  "Glenville": {
+    "city": "Glenville",
+    "city_ascii": "Glenville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0351,
+    "lng": -73.6657,
+    "cafes": []
+  },
+  "Deep River Center": {
+    "city": "Deep River Center",
+    "city_ascii": "Deep River Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3789,
+    "lng": -72.4411,
+    "cafes": []
+  },
+  "Ball Pond": {
+    "city": "Ball Pond",
+    "city_ascii": "Ball Pond",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4618,
+    "lng": -73.5268,
+    "cafes": []
+  },
+  "Westbrook Center": {
+    "city": "Westbrook Center",
+    "city_ascii": "Westbrook Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2811,
+    "lng": -72.4424,
+    "cafes": []
+  },
+  "Fairfield University": {
+    "city": "Fairfield University",
+    "city_ascii": "Fairfield University",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.159,
+    "lng": -73.2571,
+    "cafes": []
+  },
+  "Tokeneke": {
+    "city": "Tokeneke",
+    "city_ascii": "Tokeneke",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0619,
+    "lng": -73.4643,
+    "cafes": []
+  },
+  "Coventry Lake": {
+    "city": "Coventry Lake",
+    "city_ascii": "Coventry Lake",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7732,
+    "lng": -72.3299,
+    "cafes": []
+  },
+  "Bethlehem Village": {
+    "city": "Bethlehem Village",
+    "city_ascii": "Bethlehem Village",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.6401,
+    "lng": -73.2031,
+    "cafes": []
+  },
+  "Guilford Center": {
+    "city": "Guilford Center",
+    "city_ascii": "Guilford Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2818,
+    "lng": -72.6763,
+    "cafes": []
+  },
+  "Plainfield Village": {
+    "city": "Plainfield Village",
+    "city_ascii": "Plainfield Village",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.6766,
+    "lng": -71.925,
+    "cafes": []
+  },
+  "Salmon Brook": {
+    "city": "Salmon Brook",
+    "city_ascii": "Salmon Brook",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9575,
+    "lng": -72.7919,
+    "cafes": []
+  },
+  "Old Saybrook Center": {
+    "city": "Old Saybrook Center",
+    "city_ascii": "Old Saybrook Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2918,
+    "lng": -72.3682,
+    "cafes": []
+  },
+  "Plantsville": {
+    "city": "Plantsville",
+    "city_ascii": "Plantsville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5832,
+    "lng": -72.8919,
+    "cafes": []
+  },
+  "East Brooklyn": {
+    "city": "East Brooklyn",
+    "city_ascii": "East Brooklyn",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7981,
+    "lng": -71.902,
+    "cafes": []
+  },
+  "Blue Hills": {
+    "city": "Blue Hills",
+    "city_ascii": "Blue Hills",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8133,
+    "lng": -72.6954,
+    "cafes": []
+  },
+  "Mill Plain": {
+    "city": "Mill Plain",
+    "city_ascii": "Mill Plain",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1539,
+    "lng": -73.2695,
+    "cafes": []
+  },
+  "Crystal Lake": {
+    "city": "Crystal Lake",
+    "city_ascii": "Crystal Lake",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9334,
+    "lng": -72.3812,
+    "cafes": []
+  },
+  "Ridgebury": {
+    "city": "Ridgebury",
+    "city_ascii": "Ridgebury",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.357,
+    "lng": -73.5267,
+    "cafes": []
+  },
+  "Suffield Depot": {
+    "city": "Suffield Depot",
+    "city_ascii": "Suffield Depot",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9843,
+    "lng": -72.6465,
+    "cafes": []
+  },
+  "Chester Center": {
+    "city": "Chester Center",
+    "city_ascii": "Chester Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4018,
+    "lng": -72.4578,
+    "cafes": []
+  },
+  "Madison Center": {
+    "city": "Madison Center",
+    "city_ascii": "Madison Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2794,
+    "lng": -72.6003,
+    "cafes": []
+  },
+  "Moodus": {
+    "city": "Moodus",
+    "city_ascii": "Moodus",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5047,
+    "lng": -72.4448,
+    "cafes": []
+  },
+  "Stratford Downtown": {
+    "city": "Stratford Downtown",
+    "city_ascii": "Stratford Downtown",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1989,
+    "lng": -73.1276,
+    "cafes": []
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2494,
+    "lng": -73.4343,
+    "cafes": []
+  },
+  "Wilton Center": {
+    "city": "Wilton Center",
+    "city_ascii": "Wilton Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1914,
+    "lng": -73.4262,
+    "cafes": []
+  },
+  "New Hartford Center": {
+    "city": "New Hartford Center",
+    "city_ascii": "New Hartford Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8802,
+    "lng": -72.9753,
+    "cafes": []
+  },
+  "Noank": {
+    "city": "Noank",
+    "city_ascii": "Noank",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3339,
+    "lng": -71.9978,
+    "cafes": []
+  },
+  "Tariffville": {
+    "city": "Tariffville",
+    "city_ascii": "Tariffville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9071,
+    "lng": -72.7684,
+    "cafes": []
+  },
+  "Woodmont": {
+    "city": "Woodmont",
+    "city_ascii": "Woodmont",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2282,
+    "lng": -72.993,
+    "cafes": []
+  },
+  "Higganum": {
+    "city": "Higganum",
+    "city_ascii": "Higganum",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4905,
+    "lng": -72.558,
+    "cafes": []
+  },
+  "Southport": {
+    "city": "Southport",
+    "city_ascii": "Southport",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.135,
+    "lng": -73.2873,
+    "cafes": []
+  },
+  "North Granby": {
+    "city": "North Granby",
+    "city_ascii": "North Granby",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 42.0152,
+    "lng": -72.844,
+    "cafes": []
+  },
+  "South Coventry": {
+    "city": "South Coventry",
+    "city_ascii": "South Coventry",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7731,
+    "lng": -72.3084,
+    "cafes": []
+  },
+  "Woodbury Center": {
+    "city": "Woodbury Center",
+    "city_ascii": "Woodbury Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5439,
+    "lng": -73.2048,
+    "cafes": []
+  },
+  "South Wilton": {
+    "city": "South Wilton",
+    "city_ascii": "South Wilton",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.173,
+    "lng": -73.4166,
+    "cafes": []
+  },
+  "Saybrook Manor": {
+    "city": "Saybrook Manor",
+    "city_ascii": "Saybrook Manor",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2825,
+    "lng": -72.4063,
+    "cafes": []
+  },
+  "South Windham": {
+    "city": "South Windham",
+    "city_ascii": "South Windham",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.685,
+    "lng": -72.1845,
+    "cafes": []
+  },
+  "Canton Valley": {
+    "city": "Canton Valley",
+    "city_ascii": "Canton Valley",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8316,
+    "lng": -72.8977,
+    "cafes": []
+  },
+  "Darien Downtown": {
+    "city": "Darien Downtown",
+    "city_ascii": "Darien Downtown",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0768,
+    "lng": -73.4699,
+    "cafes": []
+  },
+  "Lakes West": {
+    "city": "Lakes West",
+    "city_ascii": "Lakes West",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.335,
+    "lng": -73.513,
+    "cafes": []
+  },
+  "Canaan": {
+    "city": "Canaan",
+    "city_ascii": "Canaan",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 42.0347,
+    "lng": -73.3322,
+    "cafes": []
+  },
+  "Lakes East": {
+    "city": "Lakes East",
+    "city_ascii": "Lakes East",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3314,
+    "lng": -73.4911,
+    "cafes": []
+  },
+  "South Woodstock": {
+    "city": "South Woodstock",
+    "city_ascii": "South Woodstock",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9312,
+    "lng": -71.9555,
+    "cafes": []
+  },
+  "Baltic": {
+    "city": "Baltic",
+    "city_ascii": "Baltic",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.6139,
+    "lng": -72.0865,
+    "cafes": []
+  },
+  "Wauregan": {
+    "city": "Wauregan",
+    "city_ascii": "Wauregan",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7498,
+    "lng": -71.9138,
+    "cafes": []
+  },
+  "Poplar Plains": {
+    "city": "Poplar Plains",
+    "city_ascii": "Poplar Plains",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1714,
+    "lng": -73.3771,
+    "cafes": []
+  },
+  "Quinebaug": {
+    "city": "Quinebaug",
+    "city_ascii": "Quinebaug",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 42.0107,
+    "lng": -71.937,
+    "cafes": []
+  },
+  "Inglenook": {
+    "city": "Inglenook",
+    "city_ascii": "Inglenook",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5229,
+    "lng": -73.4736,
+    "cafes": []
+  },
+  "New Preston": {
+    "city": "New Preston",
+    "city_ascii": "New Preston",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.6813,
+    "lng": -73.3523,
+    "cafes": []
+  },
+  "Poquonock Bridge": {
+    "city": "Poquonock Bridge",
+    "city_ascii": "Poquonock Bridge",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3379,
+    "lng": -72.0176,
+    "cafes": []
+  },
+  "North Grosvenor Dale": {
+    "city": "North Grosvenor Dale",
+    "city_ascii": "North Grosvenor Dale",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9862,
+    "lng": -71.9033,
+    "cafes": []
+  },
+  "Sacred Heart University": {
+    "city": "Sacred Heart University",
+    "city_ascii": "Sacred Heart University",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2215,
+    "lng": -73.2442,
+    "cafes": []
+  },
+  "Route 7 Gateway": {
+    "city": "Route 7 Gateway",
+    "city_ascii": "Route 7 Gateway",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3171,
+    "lng": -73.4746,
+    "cafes": []
+  },
+  "Gales Ferry": {
+    "city": "Gales Ferry",
+    "city_ascii": "Gales Ferry",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4215,
+    "lng": -72.0854,
+    "cafes": []
+  },
+  "Mansfield Center": {
+    "city": "Mansfield Center",
+    "city_ascii": "Mansfield Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7614,
+    "lng": -72.1945,
+    "cafes": []
+  },
+  "Terramuggus": {
+    "city": "Terramuggus",
+    "city_ascii": "Terramuggus",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.6343,
+    "lng": -72.4693,
+    "cafes": []
+  },
+  "Mechanicsville": {
+    "city": "Mechanicsville",
+    "city_ascii": "Mechanicsville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9545,
+    "lng": -71.8851,
+    "cafes": []
+  },
+  "Bigelow Corners": {
+    "city": "Bigelow Corners",
+    "city_ascii": "Bigelow Corners",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4694,
+    "lng": -73.5057,
+    "cafes": []
+  },
+  "Weston": {
+    "city": "Weston",
+    "city_ascii": "Weston",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2033,
+    "lng": -73.3788,
+    "cafes": []
+  },
+  "Bantam": {
+    "city": "Bantam",
+    "city_ascii": "Bantam",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7247,
+    "lng": -73.2422,
+    "cafes": []
+  },
+  "Plattsville": {
+    "city": "Plattsville",
+    "city_ascii": "Plattsville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.226,
+    "lng": -73.2591,
+    "cafes": []
+  },
+  "Botsford": {
+    "city": "Botsford",
+    "city_ascii": "Botsford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3589,
+    "lng": -73.2671,
+    "cafes": []
+  },
+  "Murray": {
+    "city": "Murray",
+    "city_ascii": "Murray",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1974,
+    "lng": -73.2895,
+    "cafes": []
+  },
+  "Candlewood Orchards": {
+    "city": "Candlewood Orchards",
+    "city_ascii": "Candlewood Orchards",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4728,
+    "lng": -73.4381,
+    "cafes": []
+  },
+  "Cannondale": {
+    "city": "Cannondale",
+    "city_ascii": "Cannondale",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2161,
+    "lng": -73.4252,
+    "cafes": []
+  },
+  "Gaylordsville": {
+    "city": "Gaylordsville",
+    "city_ascii": "Gaylordsville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.641,
+    "lng": -73.4826,
+    "cafes": []
+  },
+  "Lakeville": {
+    "city": "Lakeville",
+    "city_ascii": "Lakeville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9595,
+    "lng": -73.4485,
+    "cafes": []
+  },
+  "Candlewood Isle": {
+    "city": "Candlewood Isle",
+    "city_ascii": "Candlewood Isle",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4777,
+    "lng": -73.4523,
+    "cafes": []
+  },
+  "Lake Bungee": {
+    "city": "Lake Bungee",
+    "city_ascii": "Lake Bungee",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9542,
+    "lng": -72.0652,
+    "cafes": []
+  },
+  "Candlewood Shores": {
+    "city": "Candlewood Shores",
+    "city_ascii": "Candlewood Shores",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4811,
+    "lng": -73.4379,
+    "cafes": []
+  },
+  "Groton Long Point": {
+    "city": "Groton Long Point",
+    "city_ascii": "Groton Long Point",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3144,
+    "lng": -72.0087,
+    "cafes": []
+  },
+  "Taylor Corners": {
+    "city": "Taylor Corners",
+    "city_ascii": "Taylor Corners",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4464,
+    "lng": -73.5288,
+    "cafes": []
+  },
+  "Witches Woods": {
+    "city": "Witches Woods",
+    "city_ascii": "Witches Woods",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9485,
+    "lng": -72.0724,
+    "cafes": []
+  },
+  "Mamanasco Lake": {
+    "city": "Mamanasco Lake",
+    "city_ascii": "Mamanasco Lake",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3189,
+    "lng": -73.5253,
+    "cafes": []
+  },
+  "Rock Ridge": {
+    "city": "Rock Ridge",
+    "city_ascii": "Rock Ridge",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0345,
+    "lng": -73.6484,
+    "cafes": []
+  },
+  "Falls Village": {
+    "city": "Falls Village",
+    "city_ascii": "Falls Village",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9576,
+    "lng": -73.3561,
+    "cafes": []
+  },
+  "Indian Field": {
+    "city": "Indian Field",
+    "city_ascii": "Indian Field",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.0218,
+    "lng": -73.6071,
+    "cafes": []
+  },
+  "West Mountain": {
+    "city": "West Mountain",
+    "city_ascii": "West Mountain",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2993,
+    "lng": -73.5383,
+    "cafes": []
+  },
+  "Dayville": {
+    "city": "Dayville",
+    "city_ascii": "Dayville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8443,
+    "lng": -71.8823,
+    "cafes": []
+  },
+  "Lakeside Woods": {
+    "city": "Lakeside Woods",
+    "city_ascii": "Lakeside Woods",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5548,
+    "lng": -73.484,
+    "cafes": []
+  },
+  "Pleasant Valley": {
+    "city": "Pleasant Valley",
+    "city_ascii": "Pleasant Valley",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9083,
+    "lng": -72.9924,
+    "cafes": []
+  },
+  "Riverton": {
+    "city": "Riverton",
+    "city_ascii": "Riverton",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9631,
+    "lng": -73.0166,
+    "cafes": []
+  },
+  "Lake Chaffee": {
+    "city": "Lake Chaffee",
+    "city_ascii": "Lake Chaffee",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9389,
+    "lng": -72.1961,
+    "cafes": []
+  },
+  "Knollcrest": {
+    "city": "Knollcrest",
+    "city_ascii": "Knollcrest",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5012,
+    "lng": -73.4669,
+    "cafes": []
+  },
+  "Cornwall Bridge": {
+    "city": "Cornwall Bridge",
+    "city_ascii": "Cornwall Bridge",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8054,
+    "lng": -73.3852,
+    "cafes": []
+  },
+  "Candlewood Lake Club": {
+    "city": "Candlewood Lake Club",
+    "city_ascii": "Candlewood Lake Club",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4939,
+    "lng": -73.4373,
+    "cafes": []
+  },
+  "Quasset Lake": {
+    "city": "Quasset Lake",
+    "city_ascii": "Quasset Lake",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.9226,
+    "lng": -71.984,
+    "cafes": []
+  },
+  "Redding Center": {
+    "city": "Redding Center",
+    "city_ascii": "Redding Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3067,
+    "lng": -73.3831,
+    "cafes": []
+  },
+  "Brookfield Center": {
+    "city": "Brookfield Center",
+    "city_ascii": "Brookfield Center",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4623,
+    "lng": -73.3875,
+    "cafes": []
+  },
+  "Dodgingtown": {
+    "city": "Dodgingtown",
+    "city_ascii": "Dodgingtown",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.3799,
+    "lng": -73.3524,
+    "cafes": []
+  },
+  "Bogus Hill": {
+    "city": "Bogus Hill",
+    "city_ascii": "Bogus Hill",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5075,
+    "lng": -73.4625,
+    "cafes": []
+  },
+  "Candlewood Knolls": {
+    "city": "Candlewood Knolls",
+    "city_ascii": "Candlewood Knolls",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4791,
+    "lng": -73.4636,
+    "cafes": []
+  },
+  "Bridgewater": {
+    "city": "Bridgewater",
+    "city_ascii": "Bridgewater",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5347,
+    "lng": -73.3646,
+    "cafes": []
+  },
+  "Sail Harbor": {
+    "city": "Sail Harbor",
+    "city_ascii": "Sail Harbor",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5265,
+    "lng": -73.4653,
+    "cafes": []
+  },
+  "Hawleyville": {
+    "city": "Hawleyville",
+    "city_ascii": "Hawleyville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4288,
+    "lng": -73.3506,
+    "cafes": []
+  },
+  "Chimney Point": {
+    "city": "Chimney Point",
+    "city_ascii": "Chimney Point",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5025,
+    "lng": -73.4414,
+    "cafes": []
+  },
+  "Topstone": {
+    "city": "Topstone",
+    "city_ascii": "Topstone",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2964,
+    "lng": -73.4466,
+    "cafes": []
+  },
+  "Mashantucket": {
+    "city": "Mashantucket",
+    "city_ascii": "Mashantucket",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4645,
+    "lng": -71.9745,
+    "cafes": []
+  },
+  "Branchville": {
+    "city": "Branchville",
+    "city_ascii": "Branchville",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.268,
+    "lng": -73.4433,
+    "cafes": []
+  },
+  "Cornwall": {
+    "city": "Cornwall",
+    "city_ascii": "Cornwall",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8443,
+    "lng": -73.3327,
+    "cafes": []
+  },
+  "West Cornwall": {
+    "city": "West Cornwall",
+    "city_ascii": "West Cornwall",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.8642,
+    "lng": -73.3608,
+    "cafes": []
+  },
+  "Fenwick": {
+    "city": "Fenwick",
+    "city_ascii": "Fenwick",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.2711,
+    "lng": -72.3546,
+    "cafes": []
+  },
+  "Sherman": {
+    "city": "Sherman",
+    "city_ascii": "Sherman",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.5746,
+    "lng": -73.4957,
+    "cafes": []
+  },
+  "Kellogg Point": {
+    "city": "Kellogg Point",
+    "city_ascii": "Kellogg Point",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.4681,
+    "lng": -73.4597,
+    "cafes": []
+  }
+}

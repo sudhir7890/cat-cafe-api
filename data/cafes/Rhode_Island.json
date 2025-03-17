@@ -1,0 +1,330 @@
+{
+  "Tiverton": [
+    {
+      "name": "Bajah's Cat Cafe",
+      "address": "137 Main Rd, Tiverton, RI 02878, USA",
+      "rating": 4.4,
+      "user_ratings_total": 453,
+      "website": "http://www.bajahscatcafe.com/",
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "google_maps_url": "https://maps.google.com/?cid=9104338544067572463",
+      "lat": 41.669374399999995,
+      "lng": -71.185915,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Jay",
+          "rating": 5,
+          "text": {
+            "text": "Good food.. friendly staff, owner, and volunteers.  There's a cool shrimp tank over the trash cans.   Adopted a senior cat from here and it was the best thing we ever did! The food is affordable and it's tasty! Better then Dunkin and less of a line.",
+            "languageCode": "en"
+          },
+          "time": "3 months ago"
+        },
+        {
+          "author": "T Y",
+          "rating": 3,
+          "text": {
+            "text": "Our experience was a bit disappointing.  On Bajah's voicemail greeting information, they stated they have between 10 to 15 cats. There was no option to speak to someone directly. Upon arrival, there was only 5 cats and all were sleeping during our appointment window and only 2 woke up the last 5 to 10 minutes of our appointment window. We were not offered extensions. There was only 1 college student working the whole store from preparing food, and drinks. She was very friendly but didn't have time for cleaning up the cat room that had a slight odor and wasn't very big. The pastries didn't look fresh either. We had high hopes and hoping to making regular visits but after today's experience, this may be a 1 time visit.",
+            "languageCode": "en"
+          },
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Ashley Costa",
+          "rating": 5,
+          "text": {
+            "text": "The “RI Kitty” coffee was delicious. The cats are all so sweet. My fur baby passed a few weeks ago and it was lovely to be able to come here and spend some time with the cats. Workers were nice and informative. Will definitely be coming back!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2RZ0zyGPx2_StqnfUN8WgvzOliNoy9AhPBfxEjLCTrM2ptxO91Zm5gfYWMC2BaSvL4aRD-E-Yzzc6IZtE9sTleT-KTtAvx9Qb37OfyjBWuaN3hjcQttI8Zjdv4Cjs3jfl7GGD9eKYik0_eUcrHA5xPDmZrHlLE0D3ap0dsbGUvWAHYiccGRFD7Ih86lM8uMyE7SEckMPLGL4zd65CvSziEnAry0TyF0P3uiEDyuipK7Mi6w_vzpJTzi7mD8KeVC60PUYoIeJiatw84c8akKrIOGtDifx8uhRlM4Ty1HD1kVmVgD9HOrFdc_mGNByzEnXcVSZZbmzrG6PjPRYr5uS5KoblEeZJzFMfkPW61xvOp_b9isF4rBBo10bsoxx_gVk5_6JPASbK8d7UhwPztdeor8dPkz6Hfs0s8&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Providence": {
+    "city": "Providence",
+    "city_ascii": "Providence",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.823,
+    "lng": -71.4187,
+    "cafes": []
+  },
+  "Warwick": {
+    "city": "Warwick",
+    "city_ascii": "Warwick",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.7062,
+    "lng": -71.4334,
+    "cafes": []
+  },
+  "Cranston": {
+    "city": "Cranston",
+    "city_ascii": "Cranston",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.7658,
+    "lng": -71.4858,
+    "cafes": []
+  },
+  "Pawtucket": {
+    "city": "Pawtucket",
+    "city_ascii": "Pawtucket",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.8744,
+    "lng": -71.3743,
+    "cafes": []
+  },
+  "East Providence": {
+    "city": "East Providence",
+    "city_ascii": "East Providence",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.8065,
+    "lng": -71.3565,
+    "cafes": []
+  },
+  "Woonsocket": {
+    "city": "Woonsocket",
+    "city_ascii": "Woonsocket",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 42.001,
+    "lng": -71.4993,
+    "cafes": []
+  },
+  "Newport": {
+    "city": "Newport",
+    "city_ascii": "Newport",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.4801,
+    "lng": -71.3203,
+    "cafes": []
+  },
+  "Central Falls": {
+    "city": "Central Falls",
+    "city_ascii": "Central Falls",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.8901,
+    "lng": -71.3934,
+    "cafes": []
+  },
+  "Valley Falls": {
+    "city": "Valley Falls",
+    "city_ascii": "Valley Falls",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.9233,
+    "lng": -71.3924,
+    "cafes": []
+  },
+  "Newport East": {
+    "city": "Newport East",
+    "city_ascii": "Newport East",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.5159,
+    "lng": -71.2878,
+    "cafes": []
+  },
+  "Cumberland Hill": {
+    "city": "Cumberland Hill",
+    "city_ascii": "Cumberland Hill",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.9736,
+    "lng": -71.4605,
+    "cafes": []
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.882,
+    "lng": -71.5549,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.4738,
+    "lng": -71.5236,
+    "cafes": []
+  },
+  "Pascoag": {
+    "city": "Pascoag",
+    "city_ascii": "Pascoag",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.952,
+    "lng": -71.7042,
+    "cafes": []
+  },
+  "Narragansett Pier": {
+    "city": "Narragansett Pier",
+    "city_ascii": "Narragansett Pier",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.4281,
+    "lng": -71.4668,
+    "cafes": []
+  },
+  "Hope Valley": {
+    "city": "Hope Valley",
+    "city_ascii": "Hope Valley",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.5151,
+    "lng": -71.7201,
+    "cafes": []
+  },
+  "Melville": {
+    "city": "Melville",
+    "city_ascii": "Melville",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.5611,
+    "lng": -71.2937,
+    "cafes": []
+  },
+  "Chepachet": {
+    "city": "Chepachet",
+    "city_ascii": "Chepachet",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.9104,
+    "lng": -71.6654,
+    "cafes": []
+  },
+  "Harrisville": {
+    "city": "Harrisville",
+    "city_ascii": "Harrisville",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.9687,
+    "lng": -71.6768,
+    "cafes": []
+  },
+  "Ashaway": {
+    "city": "Ashaway",
+    "city_ascii": "Ashaway",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.426,
+    "lng": -71.7852,
+    "cafes": []
+  },
+  "Bradford": {
+    "city": "Bradford",
+    "city_ascii": "Bradford",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.3944,
+    "lng": -71.7541,
+    "cafes": []
+  },
+  "Carolina": {
+    "city": "Carolina",
+    "city_ascii": "Carolina",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.4625,
+    "lng": -71.6585,
+    "cafes": []
+  },
+  "Harmony": {
+    "city": "Harmony",
+    "city_ascii": "Harmony",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.8964,
+    "lng": -71.6052,
+    "cafes": []
+  },
+  "Greene": {
+    "city": "Greene",
+    "city_ascii": "Greene",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.6988,
+    "lng": -71.7339,
+    "cafes": []
+  },
+  "Quonochontaug": {
+    "city": "Quonochontaug",
+    "city_ascii": "Quonochontaug",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.3447,
+    "lng": -71.7059,
+    "cafes": []
+  },
+  "Weekapaug": {
+    "city": "Weekapaug",
+    "city_ascii": "Weekapaug",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.3359,
+    "lng": -71.7633,
+    "cafes": []
+  },
+  "Misquamicut": {
+    "city": "Misquamicut",
+    "city_ascii": "Misquamicut",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.3237,
+    "lng": -71.822,
+    "cafes": []
+  },
+  "Wyoming": {
+    "city": "Wyoming",
+    "city_ascii": "Wyoming",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.5143,
+    "lng": -71.6903,
+    "cafes": []
+  },
+  "Foster Center": {
+    "city": "Foster Center",
+    "city_ascii": "Foster Center",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.7898,
+    "lng": -71.7328,
+    "cafes": []
+  },
+  "Watch Hill": {
+    "city": "Watch Hill",
+    "city_ascii": "Watch Hill",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.3157,
+    "lng": -71.8486,
+    "cafes": []
+  },
+  "Clayville": {
+    "city": "Clayville",
+    "city_ascii": "Clayville",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.7734,
+    "lng": -71.6854,
+    "cafes": []
+  }
+}

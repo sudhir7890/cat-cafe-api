@@ -1,0 +1,4549 @@
+{
+  "Bozeman": {
+    "city": "Bozeman",
+    "city_ascii": "Bozeman",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6833,
+    "lng": -111.0558,
+    "cafes": [
+      {
+        "name": "Cat Show Cat Café",
+        "address": "Inside The Market Building, 730 Boardwalk Ave, Bozeman, MT 59718, USA",
+        "rating": 4.8,
+        "user_ratings_total": 50,
+        "website": "http://catshowcatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=10030972550878636878",
+        "lat": 45.6725584,
+        "lng": -111.1012695,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "J Seymour",
+            "rating": 5,
+            "text": {
+              "text": "Spent an hour here with my daughter. We made a reservation online ahead of time and paid in the store. If you’re like me, it helps to know what to expect. We did not have any trouble with the check-in. The one staff person available was very friendly, even though there’s clearly lots happening with the café and the store.\n\nShe escorted us upstairs to a very large room where there were 8 cats, lots of cat toys, beautiful plants, a restroom, tables and chairs (many types of seating). We washed our hands and then my daughter sat down to wait for the cats to come to her. Some did and some didn’t, but they’re obviously well taken care of.\n\nThe treat machine needs 2 quarters on EACH side ($1 total) to purchase a little plastic ball with treats inside. I’m mentioning this because even though the woman clearly explained it and there were written directions, my daughter (almost 12) got confused. Each ball had enough treats to give one to each cat. Bob was treat-aggressive (for a cat).\n\nWe had a lovely hour. I was anxious in not knowing what to expect (and then being worried that we broke the treat machine), but I will be able to relax next time because now I know how the whole thing works.\n\nMy daughter loves cats, but we cannot have them, so this was a great experience for her and she’s looking forward to returning. This is a truly lovely idea and the shop looked super cute. We will have to come with enough time to browse next time.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Loren Harshberger",
+            "rating": 5,
+            "text": {
+              "text": "I had a great time meeting all the cats! They are all super friendly and love pets and treats. Some of the cats were napping and didn't approach, but they loved it when I went over to say hello. I'll definitely be back!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Josephine Hupka",
+            "rating": 5,
+            "text": {
+              "text": "The cats Eddie, David, Bob, Stella, Mildew, Mossy, Captain Jack Sparrow, and Alexis are all so sweet and they loved being held and pet and even cuddled up with for a quick snooze.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1mLfQGLUotRi5kkg26i_etItvkNAPW8SBibrUTpwjshni_DC2xF2i0zbIMGJ6BdOSAsRbcE79zgoDxBMm8BVnV9srYaT27MpkDG53lM2n4DUGfpSqygmKOv2nvVfThBQi25ueDh2H9i-v3RItY_wxoq2Ju3V5BGW77rgvC3N-i4zSW_GeyswkKp8Xq7eMd0XnzAgKZqopImcTf5CAlggMnEQSRLYSL8qxpSmBhVkKJv0kinn1oiftUru4iLIXxUIhq_0FuihiQY-CIxG4kcHfTtBkQrYsbxqJlPDyYZsg5ahKYQB66G2uaaknu5LFmFwHVMBYMcnoOBOLI7vPTdDjWqrtnzJawnoqs6Ub5Yylcb1jinspm5YY6rL_5c-OC5glchghsblxIqhhdSDysYPIMeWaRIF1J&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Cateye Cafe",
+        "address": "23 N Tracy Ave, Bozeman, MT 59715, USA",
+        "rating": 4.5,
+        "user_ratings_total": 671,
+        "website": "http://www.cateyecafe.com/wordpress/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=5512966369848751004",
+        "lat": 45.679871999999996,
+        "lng": -111.0374185,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Aimee Clancy",
+            "rating": 5,
+            "text": {
+              "text": "Really enjoyed our visit for breakfast on a Saturday morning.  We ordered a breakfast special which was a huckleberry strawberry cream cheese stuffed croissant French toast , and it was absolutely delicious.  We also ordered the biscuits and gravy which was so tasty too!  The atmosphere is lovely and the staff was efficient and friendly.  Great spot.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "J. C.",
+            "rating": 4,
+            "text": {
+              "text": "Fun menu and good food.\nWe had the Popeye and the Cowgirl. Both were good, although the banana bread French toast was a little disappointing as it did not have as much flavor as expected.\nGo early as they get busy.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Kathryn Santos (Kathy)",
+            "rating": 5,
+            "text": {
+              "text": "What a great place! I just happened to drive by and I loved the sign and the building, so I had  to go in for breakfast. What a treat - a funky little cafe with great food and friendly service. I had eggs with bacon and Swiss on a biscuit - The Witch. Thick, crunchy bacon and excellent biscuit. I'll definitely be coming back!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0Fjv_3pbwyPDspnVrpkt00X70rilv7q2RbKfBCE_MEeuf3vUFnD-gkAHnMHLgupfJ89hKoHYKxqLWm58gqih9pLqORtyHiSEXFGrsUtQMapDXDMDXkdoIqs4ypBybK6y_akX5t35Uat4y2HhYG9BjU2MXU0IZlHfef9hFYa4DyjvEnXsMY8Y8bfkbMrC5vtmGugSokQ9lJj0_hg23Jk-BuuYfi7NHNWGjhRS9Ireguzsqacw59OSwFT10Tn6Cq5hRM24xJkClNFbwmSaLvGvrgJzUs96ra_QJdv5mLCaTQew&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Billings": {
+    "city": "Billings",
+    "city_ascii": "Billings",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.7891,
+    "lng": -108.5526,
+    "cafes": []
+  },
+  "Missoula": {
+    "city": "Missoula",
+    "city_ascii": "Missoula",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8751,
+    "lng": -114.0214,
+    "cafes": []
+  },
+  "Great Falls": {
+    "city": "Great Falls",
+    "city_ascii": "Great Falls",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5022,
+    "lng": -111.2996,
+    "cafes": []
+  },
+  "Butte": {
+    "city": "Butte",
+    "city_ascii": "Butte",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.902,
+    "lng": -112.6571,
+    "cafes": []
+  },
+  "Helena": {
+    "city": "Helena",
+    "city_ascii": "Helena",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5965,
+    "lng": -112.0202,
+    "cafes": []
+  },
+  "Kalispell": {
+    "city": "Kalispell",
+    "city_ascii": "Kalispell",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2153,
+    "lng": -114.3274,
+    "cafes": []
+  },
+  "Belgrade": {
+    "city": "Belgrade",
+    "city_ascii": "Belgrade",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.7789,
+    "lng": -111.1736,
+    "cafes": []
+  },
+  "Helena Valley Southeast": {
+    "city": "Helena Valley Southeast",
+    "city_ascii": "Helena Valley Southeast",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.6219,
+    "lng": -111.8973,
+    "cafes": []
+  },
+  "Anaconda": {
+    "city": "Anaconda",
+    "city_ascii": "Anaconda",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.0608,
+    "lng": -113.0678,
+    "cafes": []
+  },
+  "Havre": {
+    "city": "Havre",
+    "city_ascii": "Havre",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5427,
+    "lng": -109.6804,
+    "cafes": []
+  },
+  "Evergreen": {
+    "city": "Evergreen",
+    "city_ascii": "Evergreen",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2308,
+    "lng": -114.27,
+    "cafes": []
+  },
+  "Livingston": {
+    "city": "Livingston",
+    "city_ascii": "Livingston",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6665,
+    "lng": -110.5539,
+    "cafes": []
+  },
+  "Whitefish": {
+    "city": "Whitefish",
+    "city_ascii": "Whitefish",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4328,
+    "lng": -114.359,
+    "cafes": []
+  },
+  "Miles City": {
+    "city": "Miles City",
+    "city_ascii": "Miles City",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4059,
+    "lng": -105.8385,
+    "cafes": []
+  },
+  "Helena Valley West Central": {
+    "city": "Helena Valley West Central",
+    "city_ascii": "Helena Valley West Central",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.6634,
+    "lng": -112.0604,
+    "cafes": []
+  },
+  "Lockwood": {
+    "city": "Lockwood",
+    "city_ascii": "Lockwood",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8199,
+    "lng": -108.4072,
+    "cafes": []
+  },
+  "Laurel": {
+    "city": "Laurel",
+    "city_ascii": "Laurel",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6735,
+    "lng": -108.7707,
+    "cafes": []
+  },
+  "Sidney": {
+    "city": "Sidney",
+    "city_ascii": "Sidney",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.7152,
+    "lng": -104.1679,
+    "cafes": []
+  },
+  "Lewistown": {
+    "city": "Lewistown",
+    "city_ascii": "Lewistown",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0514,
+    "lng": -109.4524,
+    "cafes": []
+  },
+  "Four Corners": {
+    "city": "Four Corners",
+    "city_ascii": "Four Corners",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6697,
+    "lng": -111.1785,
+    "cafes": []
+  },
+  "Columbia Falls": {
+    "city": "Columbia Falls",
+    "city_ascii": "Columbia Falls",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3708,
+    "lng": -114.1902,
+    "cafes": []
+  },
+  "Polson": {
+    "city": "Polson",
+    "city_ascii": "Polson",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6886,
+    "lng": -114.1411,
+    "cafes": []
+  },
+  "Orchard Homes": {
+    "city": "Orchard Homes",
+    "city_ascii": "Orchard Homes",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8559,
+    "lng": -114.0778,
+    "cafes": []
+  },
+  "Bigfork": {
+    "city": "Bigfork",
+    "city_ascii": "Bigfork",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0852,
+    "lng": -114.0551,
+    "cafes": []
+  },
+  "Helena Valley Northwest": {
+    "city": "Helena Valley Northwest",
+    "city_ascii": "Helena Valley Northwest",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.7289,
+    "lng": -112.0631,
+    "cafes": []
+  },
+  "Hamilton": {
+    "city": "Hamilton",
+    "city_ascii": "Hamilton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.2527,
+    "lng": -114.1598,
+    "cafes": []
+  },
+  "Glendive": {
+    "city": "Glendive",
+    "city_ascii": "Glendive",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1101,
+    "lng": -104.707,
+    "cafes": []
+  },
+  "Helena Valley Northeast": {
+    "city": "Helena Valley Northeast",
+    "city_ascii": "Helena Valley Northeast",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.6974,
+    "lng": -111.9428,
+    "cafes": []
+  },
+  "Lolo": {
+    "city": "Lolo",
+    "city_ascii": "Lolo",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.7756,
+    "lng": -114.1018,
+    "cafes": []
+  },
+  "Malmstrom AFB": {
+    "city": "Malmstrom AFB",
+    "city_ascii": "Malmstrom AFB",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5059,
+    "lng": -111.1825,
+    "cafes": []
+  },
+  "Dillon": {
+    "city": "Dillon",
+    "city_ascii": "Dillon",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.218,
+    "lng": -112.6345,
+    "cafes": []
+  },
+  "Hardin": {
+    "city": "Hardin",
+    "city_ascii": "Hardin",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.7422,
+    "lng": -107.6082,
+    "cafes": []
+  },
+  "Glasgow": {
+    "city": "Glasgow",
+    "city_ascii": "Glasgow",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.199,
+    "lng": -106.6321,
+    "cafes": []
+  },
+  "Shelby": {
+    "city": "Shelby",
+    "city_ascii": "Shelby",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5031,
+    "lng": -111.8614,
+    "cafes": []
+  },
+  "Cut Bank": {
+    "city": "Cut Bank",
+    "city_ascii": "Cut Bank",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.6344,
+    "lng": -112.3304,
+    "cafes": []
+  },
+  "Deer Lodge": {
+    "city": "Deer Lodge",
+    "city_ascii": "Deer Lodge",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.398,
+    "lng": -112.7334,
+    "cafes": []
+  },
+  "Libby": {
+    "city": "Libby",
+    "city_ascii": "Libby",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.387,
+    "lng": -115.5559,
+    "cafes": []
+  },
+  "Montana City": {
+    "city": "Montana City",
+    "city_ascii": "Montana City",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5257,
+    "lng": -111.9401,
+    "cafes": []
+  },
+  "North Browning": {
+    "city": "North Browning",
+    "city_ascii": "North Browning",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5706,
+    "lng": -113.0267,
+    "cafes": []
+  },
+  "Lakeside": {
+    "city": "Lakeside",
+    "city_ascii": "Lakeside",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0181,
+    "lng": -114.2274,
+    "cafes": []
+  },
+  "Wolf Point": {
+    "city": "Wolf Point",
+    "city_ascii": "Wolf Point",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0933,
+    "lng": -105.6414,
+    "cafes": []
+  },
+  "Conrad": {
+    "city": "Conrad",
+    "city_ascii": "Conrad",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1741,
+    "lng": -111.9467,
+    "cafes": []
+  },
+  "Red Lodge": {
+    "city": "Red Lodge",
+    "city_ascii": "Red Lodge",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.1933,
+    "lng": -109.2501,
+    "cafes": []
+  },
+  "Big Sky": {
+    "city": "Big Sky",
+    "city_ascii": "Big Sky",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.2592,
+    "lng": -111.3426,
+    "cafes": []
+  },
+  "King Arthur Park": {
+    "city": "King Arthur Park",
+    "city_ascii": "King Arthur Park",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6663,
+    "lng": -111.1268,
+    "cafes": []
+  },
+  "Townsend": {
+    "city": "Townsend",
+    "city_ascii": "Townsend",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.3192,
+    "lng": -111.5197,
+    "cafes": []
+  },
+  "Stevensville": {
+    "city": "Stevensville",
+    "city_ascii": "Stevensville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5111,
+    "lng": -114.0788,
+    "cafes": []
+  },
+  "Colstrip": {
+    "city": "Colstrip",
+    "city_ascii": "Colstrip",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8943,
+    "lng": -106.628,
+    "cafes": []
+  },
+  "Manhattan": {
+    "city": "Manhattan",
+    "city_ascii": "Manhattan",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8622,
+    "lng": -111.3344,
+    "cafes": []
+  },
+  "Crow Agency": {
+    "city": "Crow Agency",
+    "city_ascii": "Crow Agency",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6026,
+    "lng": -107.4591,
+    "cafes": []
+  },
+  "East Missoula": {
+    "city": "East Missoula",
+    "city_ascii": "East Missoula",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8801,
+    "lng": -113.9401,
+    "cafes": []
+  },
+  "Three Forks": {
+    "city": "Three Forks",
+    "city_ascii": "Three Forks",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8899,
+    "lng": -111.5525,
+    "cafes": []
+  },
+  "Eureka": {
+    "city": "Eureka",
+    "city_ascii": "Eureka",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.879,
+    "lng": -115.0492,
+    "cafes": []
+  },
+  "West Glendive": {
+    "city": "West Glendive",
+    "city_ascii": "West Glendive",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1057,
+    "lng": -104.754,
+    "cafes": []
+  },
+  "Roundup": {
+    "city": "Roundup",
+    "city_ascii": "Roundup",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4484,
+    "lng": -108.5401,
+    "cafes": []
+  },
+  "Ronan": {
+    "city": "Ronan",
+    "city_ascii": "Ronan",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5287,
+    "lng": -114.1005,
+    "cafes": []
+  },
+  "Lame Deer": {
+    "city": "Lame Deer",
+    "city_ascii": "Lame Deer",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6176,
+    "lng": -106.6134,
+    "cafes": []
+  },
+  "Columbus": {
+    "city": "Columbus",
+    "city_ascii": "Columbus",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.636,
+    "lng": -109.2488,
+    "cafes": []
+  },
+  "Malta": {
+    "city": "Malta",
+    "city_ascii": "Malta",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3554,
+    "lng": -107.8702,
+    "cafes": []
+  },
+  "East Helena": {
+    "city": "East Helena",
+    "city_ascii": "East Helena",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.585,
+    "lng": -111.9158,
+    "cafes": []
+  },
+  "South Browning": {
+    "city": "South Browning",
+    "city_ascii": "South Browning",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5459,
+    "lng": -113.0127,
+    "cafes": []
+  },
+  "Pablo": {
+    "city": "Pablo",
+    "city_ascii": "Pablo",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6035,
+    "lng": -114.1059,
+    "cafes": []
+  },
+  "Clancy": {
+    "city": "Clancy",
+    "city_ascii": "Clancy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4493,
+    "lng": -112.0029,
+    "cafes": []
+  },
+  "Choteau": {
+    "city": "Choteau",
+    "city_ascii": "Choteau",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.8137,
+    "lng": -112.1794,
+    "cafes": []
+  },
+  "Forsyth": {
+    "city": "Forsyth",
+    "city_ascii": "Forsyth",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.2669,
+    "lng": -106.6749,
+    "cafes": []
+  },
+  "Plentywood": {
+    "city": "Plentywood",
+    "city_ascii": "Plentywood",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.776,
+    "lng": -104.5574,
+    "cafes": []
+  },
+  "Frenchtown": {
+    "city": "Frenchtown",
+    "city_ascii": "Frenchtown",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0287,
+    "lng": -114.2461,
+    "cafes": []
+  },
+  "Helena West Side": {
+    "city": "Helena West Side",
+    "city_ascii": "Helena West Side",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5966,
+    "lng": -112.1148,
+    "cafes": []
+  },
+  "Thompson Falls": {
+    "city": "Thompson Falls",
+    "city_ascii": "Thompson Falls",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5993,
+    "lng": -115.3425,
+    "cafes": []
+  },
+  "Baker": {
+    "city": "Baker",
+    "city_ascii": "Baker",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.364,
+    "lng": -104.2741,
+    "cafes": []
+  },
+  "Big Timber": {
+    "city": "Big Timber",
+    "city_ascii": "Big Timber",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8346,
+    "lng": -109.9487,
+    "cafes": []
+  },
+  "Sun Prairie": {
+    "city": "Sun Prairie",
+    "city_ascii": "Sun Prairie",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5386,
+    "lng": -111.4918,
+    "cafes": []
+  },
+  "Fort Benton": {
+    "city": "Fort Benton",
+    "city_ascii": "Fort Benton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.8291,
+    "lng": -110.6557,
+    "cafes": []
+  },
+  "Chinook": {
+    "city": "Chinook",
+    "city_ascii": "Chinook",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5902,
+    "lng": -109.2319,
+    "cafes": []
+  },
+  "West Yellowstone": {
+    "city": "West Yellowstone",
+    "city_ascii": "West Yellowstone",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 44.6627,
+    "lng": -111.1057,
+    "cafes": []
+  },
+  "Bonner-West Riverside": {
+    "city": "Bonner-West Riverside",
+    "city_ascii": "Bonner-West Riverside",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8767,
+    "lng": -113.8869,
+    "cafes": []
+  },
+  "Fort Belknap Agency": {
+    "city": "Fort Belknap Agency",
+    "city_ascii": "Fort Belknap Agency",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4278,
+    "lng": -108.6829,
+    "cafes": []
+  },
+  "Corvallis": {
+    "city": "Corvallis",
+    "city_ascii": "Corvallis",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.3139,
+    "lng": -114.1123,
+    "cafes": []
+  },
+  "Seeley Lake": {
+    "city": "Seeley Lake",
+    "city_ascii": "Seeley Lake",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1624,
+    "lng": -113.4547,
+    "cafes": []
+  },
+  "Boulder": {
+    "city": "Boulder",
+    "city_ascii": "Boulder",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.2359,
+    "lng": -112.1198,
+    "cafes": []
+  },
+  "Wye": {
+    "city": "Wye",
+    "city_ascii": "Wye",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.9523,
+    "lng": -114.1331,
+    "cafes": []
+  },
+  "Wheatland": {
+    "city": "Wheatland",
+    "city_ascii": "Wheatland",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.958,
+    "lng": -111.5781,
+    "cafes": []
+  },
+  "Somers": {
+    "city": "Somers",
+    "city_ascii": "Somers",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0824,
+    "lng": -114.2344,
+    "cafes": []
+  },
+  "Whitehall": {
+    "city": "Whitehall",
+    "city_ascii": "Whitehall",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8709,
+    "lng": -112.0976,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0858,
+    "lng": -114.6711,
+    "cafes": []
+  },
+  "Churchill": {
+    "city": "Churchill",
+    "city_ascii": "Churchill",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.75,
+    "lng": -111.3102,
+    "cafes": []
+  },
+  "White Sulphur Springs": {
+    "city": "White Sulphur Springs",
+    "city_ascii": "White Sulphur Springs",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5453,
+    "lng": -110.9039,
+    "cafes": []
+  },
+  "Gallatin Gateway": {
+    "city": "Gallatin Gateway",
+    "city_ascii": "Gallatin Gateway",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.5899,
+    "lng": -111.1953,
+    "cafes": []
+  },
+  "Plains": {
+    "city": "Plains",
+    "city_ascii": "Plains",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4602,
+    "lng": -114.8842,
+    "cafes": []
+  },
+  "Harlowton": {
+    "city": "Harlowton",
+    "city_ascii": "Harlowton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4368,
+    "lng": -109.8353,
+    "cafes": []
+  },
+  "St. Ignatius": {
+    "city": "St. Ignatius",
+    "city_ascii": "St. Ignatius",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3187,
+    "lng": -114.0956,
+    "cafes": []
+  },
+  "Pray": {
+    "city": "Pray",
+    "city_ascii": "Pray",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.415,
+    "lng": -110.6533,
+    "cafes": []
+  },
+  "Helena Flats": {
+    "city": "Helena Flats",
+    "city_ascii": "Helena Flats",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2863,
+    "lng": -114.2369,
+    "cafes": []
+  },
+  "Philipsburg": {
+    "city": "Philipsburg",
+    "city_ascii": "Philipsburg",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.3324,
+    "lng": -113.296,
+    "cafes": []
+  },
+  "Absarokee": {
+    "city": "Absarokee",
+    "city_ascii": "Absarokee",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.5242,
+    "lng": -109.4473,
+    "cafes": []
+  },
+  "Superior": {
+    "city": "Superior",
+    "city_ascii": "Superior",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1935,
+    "lng": -114.892,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.6345,
+    "lng": -114.0813,
+    "cafes": []
+  },
+  "Browning": {
+    "city": "Browning",
+    "city_ascii": "Browning",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5564,
+    "lng": -113.0151,
+    "cafes": []
+  },
+  "Vaughn": {
+    "city": "Vaughn",
+    "city_ascii": "Vaughn",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5523,
+    "lng": -111.5608,
+    "cafes": []
+  },
+  "Ponderosa Pines": {
+    "city": "Ponderosa Pines",
+    "city_ascii": "Ponderosa Pines",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.0374,
+    "lng": -111.35,
+    "cafes": []
+  },
+  "Hays": {
+    "city": "Hays",
+    "city_ascii": "Hays",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0104,
+    "lng": -108.6607,
+    "cafes": []
+  },
+  "Ashland": {
+    "city": "Ashland",
+    "city_ascii": "Ashland",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.5977,
+    "lng": -106.2975,
+    "cafes": []
+  },
+  "Victor": {
+    "city": "Victor",
+    "city_ascii": "Victor",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4161,
+    "lng": -114.1492,
+    "cafes": []
+  },
+  "Park City": {
+    "city": "Park City",
+    "city_ascii": "Park City",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.631,
+    "lng": -108.9253,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.852,
+    "lng": -104.051,
+    "cafes": []
+  },
+  "Troy": {
+    "city": "Troy",
+    "city_ascii": "Troy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4614,
+    "lng": -115.8909,
+    "cafes": []
+  },
+  "Rocky Boy West": {
+    "city": "Rocky Boy West",
+    "city_ascii": "Rocky Boy West",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2972,
+    "lng": -109.9918,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.7718,
+    "lng": -113.7169,
+    "cafes": []
+  },
+  "Havre North": {
+    "city": "Havre North",
+    "city_ascii": "Havre North",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5632,
+    "lng": -109.6713,
+    "cafes": []
+  },
+  "Harlem": {
+    "city": "Harlem",
+    "city_ascii": "Harlem",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5318,
+    "lng": -108.7847,
+    "cafes": []
+  },
+  "Lincoln": {
+    "city": "Lincoln",
+    "city_ascii": "Lincoln",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.953,
+    "lng": -112.6693,
+    "cafes": []
+  },
+  "Ulm": {
+    "city": "Ulm",
+    "city_ascii": "Ulm",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4197,
+    "lng": -111.5252,
+    "cafes": []
+  },
+  "Trego": {
+    "city": "Trego",
+    "city_ascii": "Trego",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.6558,
+    "lng": -114.929,
+    "cafes": []
+  },
+  "Bridger": {
+    "city": "Bridger",
+    "city_ascii": "Bridger",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.2946,
+    "lng": -108.9167,
+    "cafes": []
+  },
+  "Pinesdale": {
+    "city": "Pinesdale",
+    "city_ascii": "Pinesdale",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.3339,
+    "lng": -114.2232,
+    "cafes": []
+  },
+  "Big Sandy": {
+    "city": "Big Sandy",
+    "city_ascii": "Big Sandy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1785,
+    "lng": -110.1134,
+    "cafes": []
+  },
+  "Scobey": {
+    "city": "Scobey",
+    "city_ascii": "Scobey",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7904,
+    "lng": -105.4206,
+    "cafes": []
+  },
+  "Gardiner": {
+    "city": "Gardiner",
+    "city_ascii": "Gardiner",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.057,
+    "lng": -110.7421,
+    "cafes": []
+  },
+  "Sheridan": {
+    "city": "Sheridan",
+    "city_ascii": "Sheridan",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.4588,
+    "lng": -112.1946,
+    "cafes": []
+  },
+  "Spokane Creek": {
+    "city": "Spokane Creek",
+    "city_ascii": "Spokane Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5343,
+    "lng": -111.7391,
+    "cafes": []
+  },
+  "Fairfield": {
+    "city": "Fairfield",
+    "city_ascii": "Fairfield",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6151,
+    "lng": -111.9813,
+    "cafes": []
+  },
+  "Batavia": {
+    "city": "Batavia",
+    "city_ascii": "Batavia",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1778,
+    "lng": -114.4107,
+    "cafes": []
+  },
+  "Pioneer Junction": {
+    "city": "Pioneer Junction",
+    "city_ascii": "Pioneer Junction",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3157,
+    "lng": -115.5182,
+    "cafes": []
+  },
+  "Chester": {
+    "city": "Chester",
+    "city_ascii": "Chester",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5113,
+    "lng": -110.9663,
+    "cafes": []
+  },
+  "Woods Bay": {
+    "city": "Woods Bay",
+    "city_ascii": "Woods Bay",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0083,
+    "lng": -114.0613,
+    "cafes": []
+  },
+  "Wibaux": {
+    "city": "Wibaux",
+    "city_ascii": "Wibaux",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.9865,
+    "lng": -104.1899,
+    "cafes": []
+  },
+  "Hungry Horse": {
+    "city": "Hungry Horse",
+    "city_ascii": "Hungry Horse",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3843,
+    "lng": -114.0652,
+    "cafes": []
+  },
+  "White Haven": {
+    "city": "White Haven",
+    "city_ascii": "White Haven",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3478,
+    "lng": -115.516,
+    "cafes": []
+  },
+  "Walkerville": {
+    "city": "Walkerville",
+    "city_ascii": "Walkerville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.0366,
+    "lng": -112.5396,
+    "cafes": []
+  },
+  "Poplar": {
+    "city": "Poplar",
+    "city_ascii": "Poplar",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1105,
+    "lng": -105.1969,
+    "cafes": []
+  },
+  "Cascade": {
+    "city": "Cascade",
+    "city_ascii": "Cascade",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2769,
+    "lng": -111.7026,
+    "cafes": []
+  },
+  "Black Eagle": {
+    "city": "Black Eagle",
+    "city_ascii": "Black Eagle",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.527,
+    "lng": -111.267,
+    "cafes": []
+  },
+  "Arlee": {
+    "city": "Arlee",
+    "city_ascii": "Arlee",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1678,
+    "lng": -114.0838,
+    "cafes": []
+  },
+  "Muddy": {
+    "city": "Muddy",
+    "city_ascii": "Muddy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.5798,
+    "lng": -106.7754,
+    "cafes": []
+  },
+  "Pryor": {
+    "city": "Pryor",
+    "city_ascii": "Pryor",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.4125,
+    "lng": -108.5291,
+    "cafes": []
+  },
+  "South Hills": {
+    "city": "South Hills",
+    "city_ascii": "South Hills",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5564,
+    "lng": -111.9975,
+    "cafes": []
+  },
+  "Valier": {
+    "city": "Valier",
+    "city_ascii": "Valier",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3056,
+    "lng": -112.2522,
+    "cafes": []
+  },
+  "Ennis": {
+    "city": "Ennis",
+    "city_ascii": "Ennis",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.3462,
+    "lng": -111.7319,
+    "cafes": []
+  },
+  "Joliet": {
+    "city": "Joliet",
+    "city_ascii": "Joliet",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.4846,
+    "lng": -108.9723,
+    "cafes": []
+  },
+  "Shepherd": {
+    "city": "Shepherd",
+    "city_ascii": "Shepherd",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.9468,
+    "lng": -108.3462,
+    "cafes": []
+  },
+  "Piltzville": {
+    "city": "Piltzville",
+    "city_ascii": "Piltzville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8582,
+    "lng": -113.8591,
+    "cafes": []
+  },
+  "Culbertson": {
+    "city": "Culbertson",
+    "city_ascii": "Culbertson",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1447,
+    "lng": -104.5183,
+    "cafes": []
+  },
+  "Darby": {
+    "city": "Darby",
+    "city_ascii": "Darby",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.0231,
+    "lng": -114.1787,
+    "cafes": []
+  },
+  "Alberton": {
+    "city": "Alberton",
+    "city_ascii": "Alberton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0037,
+    "lng": -114.4817,
+    "cafes": []
+  },
+  "Hot Springs": {
+    "city": "Hot Springs",
+    "city_ascii": "Hot Springs",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6091,
+    "lng": -114.6705,
+    "cafes": []
+  },
+  "Worden": {
+    "city": "Worden",
+    "city_ascii": "Worden",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.9623,
+    "lng": -108.1623,
+    "cafes": []
+  },
+  "Circle": {
+    "city": "Circle",
+    "city_ascii": "Circle",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4177,
+    "lng": -105.587,
+    "cafes": []
+  },
+  "Huntley": {
+    "city": "Huntley",
+    "city_ascii": "Huntley",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8995,
+    "lng": -108.3054,
+    "cafes": []
+  },
+  "Belt": {
+    "city": "Belt",
+    "city_ascii": "Belt",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3873,
+    "lng": -110.9276,
+    "cafes": []
+  },
+  "Turah": {
+    "city": "Turah",
+    "city_ascii": "Turah",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8397,
+    "lng": -113.825,
+    "cafes": []
+  },
+  "Riverbend": {
+    "city": "Riverbend",
+    "city_ascii": "Riverbend",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1472,
+    "lng": -114.8319,
+    "cafes": []
+  },
+  "Heart Butte": {
+    "city": "Heart Butte",
+    "city_ascii": "Heart Butte",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2905,
+    "lng": -112.8363,
+    "cafes": []
+  },
+  "Lodge Grass": {
+    "city": "Lodge Grass",
+    "city_ascii": "Lodge Grass",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.3142,
+    "lng": -107.3677,
+    "cafes": []
+  },
+  "Brockton": {
+    "city": "Brockton",
+    "city_ascii": "Brockton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1525,
+    "lng": -104.9066,
+    "cafes": []
+  },
+  "Carlton": {
+    "city": "Carlton",
+    "city_ascii": "Carlton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.6796,
+    "lng": -114.0718,
+    "cafes": []
+  },
+  "Lewistown Heights": {
+    "city": "Lewistown Heights",
+    "city_ascii": "Lewistown Heights",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0784,
+    "lng": -109.4735,
+    "cafes": []
+  },
+  "Busby": {
+    "city": "Busby",
+    "city_ascii": "Busby",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.5281,
+    "lng": -106.9752,
+    "cafes": []
+  },
+  "Evaro": {
+    "city": "Evaro",
+    "city_ascii": "Evaro",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0737,
+    "lng": -114.0206,
+    "cafes": []
+  },
+  "The Silos": {
+    "city": "The Silos",
+    "city_ascii": "The Silos",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.3985,
+    "lng": -111.5865,
+    "cafes": []
+  },
+  "St. Pierre": {
+    "city": "St. Pierre",
+    "city_ascii": "St. Pierre",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2439,
+    "lng": -109.8161,
+    "cafes": []
+  },
+  "Azure": {
+    "city": "Azure",
+    "city_ascii": "Azure",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.305,
+    "lng": -109.8073,
+    "cafes": []
+  },
+  "Fromberg": {
+    "city": "Fromberg",
+    "city_ascii": "Fromberg",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.392,
+    "lng": -108.9065,
+    "cafes": []
+  },
+  "Jefferson City": {
+    "city": "Jefferson City",
+    "city_ascii": "Jefferson City",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.3779,
+    "lng": -112.0305,
+    "cafes": []
+  },
+  "Finley Point": {
+    "city": "Finley Point",
+    "city_ascii": "Finley Point",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.7464,
+    "lng": -114.0666,
+    "cafes": []
+  },
+  "Twin Creeks": {
+    "city": "Twin Creeks",
+    "city_ascii": "Twin Creeks",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.9106,
+    "lng": -113.7267,
+    "cafes": []
+  },
+  "Lindisfarne": {
+    "city": "Lindisfarne",
+    "city_ascii": "Lindisfarne",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.8042,
+    "lng": -114.2121,
+    "cafes": []
+  },
+  "Kerr": {
+    "city": "Kerr",
+    "city_ascii": "Kerr",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6771,
+    "lng": -114.1873,
+    "cafes": []
+  },
+  "Terry": {
+    "city": "Terry",
+    "city_ascii": "Terry",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.7921,
+    "lng": -105.3125,
+    "cafes": []
+  },
+  "Broadus": {
+    "city": "Broadus",
+    "city_ascii": "Broadus",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.4429,
+    "lng": -105.4083,
+    "cafes": []
+  },
+  "Coram": {
+    "city": "Coram",
+    "city_ascii": "Coram",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4306,
+    "lng": -114.0444,
+    "cafes": []
+  },
+  "Rockvale": {
+    "city": "Rockvale",
+    "city_ascii": "Rockvale",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.5187,
+    "lng": -108.8713,
+    "cafes": []
+  },
+  "Kila": {
+    "city": "Kila",
+    "city_ascii": "Kila",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1216,
+    "lng": -114.4768,
+    "cafes": []
+  },
+  "Sangrey": {
+    "city": "Sangrey",
+    "city_ascii": "Sangrey",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2817,
+    "lng": -109.8167,
+    "cafes": []
+  },
+  "West Kootenai": {
+    "city": "West Kootenai",
+    "city_ascii": "West Kootenai",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.9652,
+    "lng": -115.2213,
+    "cafes": []
+  },
+  "Glacier Colony": {
+    "city": "Glacier Colony",
+    "city_ascii": "Glacier Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8287,
+    "lng": -112.2149,
+    "cafes": []
+  },
+  "Emigrant": {
+    "city": "Emigrant",
+    "city_ascii": "Emigrant",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.3755,
+    "lng": -110.7465,
+    "cafes": []
+  },
+  "Unionville": {
+    "city": "Unionville",
+    "city_ascii": "Unionville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5456,
+    "lng": -112.0799,
+    "cafes": []
+  },
+  "Sunburst": {
+    "city": "Sunburst",
+    "city_ascii": "Sunburst",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.878,
+    "lng": -111.9051,
+    "cafes": []
+  },
+  "Fortine": {
+    "city": "Fortine",
+    "city_ascii": "Fortine",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7723,
+    "lng": -114.9008,
+    "cafes": []
+  },
+  "Kings Point": {
+    "city": "Kings Point",
+    "city_ascii": "Kings Point",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.7633,
+    "lng": -114.1499,
+    "cafes": []
+  },
+  "Rader Creek": {
+    "city": "Rader Creek",
+    "city_ascii": "Rader Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8456,
+    "lng": -112.3161,
+    "cafes": []
+  },
+  "Ekalaka": {
+    "city": "Ekalaka",
+    "city_ascii": "Ekalaka",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8897,
+    "lng": -104.5506,
+    "cafes": []
+  },
+  "Beaver Creek": {
+    "city": "Beaver Creek",
+    "city_ascii": "Beaver Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5437,
+    "lng": -109.8068,
+    "cafes": []
+  },
+  "Clyde Park": {
+    "city": "Clyde Park",
+    "city_ascii": "Clyde Park",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8839,
+    "lng": -110.6059,
+    "cafes": []
+  },
+  "Rudyard": {
+    "city": "Rudyard",
+    "city_ascii": "Rudyard",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5599,
+    "lng": -110.55,
+    "cafes": []
+  },
+  "Basin": {
+    "city": "Basin",
+    "city_ascii": "Basin",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.2834,
+    "lng": -112.2871,
+    "cafes": []
+  },
+  "Parker School": {
+    "city": "Parker School",
+    "city_ascii": "Parker School",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2468,
+    "lng": -109.7341,
+    "cafes": []
+  },
+  "Frazer": {
+    "city": "Frazer",
+    "city_ascii": "Frazer",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0532,
+    "lng": -106.048,
+    "cafes": []
+  },
+  "St. Regis": {
+    "city": "St. Regis",
+    "city_ascii": "St. Regis",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3016,
+    "lng": -115.1015,
+    "cafes": []
+  },
+  "Charlo": {
+    "city": "Charlo",
+    "city_ascii": "Charlo",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4427,
+    "lng": -114.1716,
+    "cafes": []
+  },
+  "Trout Creek": {
+    "city": "Trout Creek",
+    "city_ascii": "Trout Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.8331,
+    "lng": -115.5837,
+    "cafes": []
+  },
+  "Simms": {
+    "city": "Simms",
+    "city_ascii": "Simms",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4931,
+    "lng": -111.9474,
+    "cafes": []
+  },
+  "Toston": {
+    "city": "Toston",
+    "city_ascii": "Toston",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.1657,
+    "lng": -111.4459,
+    "cafes": []
+  },
+  "St. Marie": {
+    "city": "St. Marie",
+    "city_ascii": "St. Marie",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4053,
+    "lng": -106.4986,
+    "cafes": []
+  },
+  "Martin City": {
+    "city": "Martin City",
+    "city_ascii": "Martin City",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3935,
+    "lng": -114.0308,
+    "cafes": []
+  },
+  "Bainville": {
+    "city": "Bainville",
+    "city_ascii": "Bainville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.147,
+    "lng": -104.2264,
+    "cafes": []
+  },
+  "Heron": {
+    "city": "Heron",
+    "city_ascii": "Heron",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0637,
+    "lng": -115.98,
+    "cafes": []
+  },
+  "Yaak": {
+    "city": "Yaak",
+    "city_ascii": "Yaak",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8647,
+    "lng": -115.6777,
+    "cafes": []
+  },
+  "Nashua": {
+    "city": "Nashua",
+    "city_ascii": "Nashua",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1336,
+    "lng": -106.3571,
+    "cafes": []
+  },
+  "New Miami Colony": {
+    "city": "New Miami Colony",
+    "city_ascii": "New Miami Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1912,
+    "lng": -112.2804,
+    "cafes": []
+  },
+  "Fallon": {
+    "city": "Fallon",
+    "city_ascii": "Fallon",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8373,
+    "lng": -105.127,
+    "cafes": []
+  },
+  "Froid": {
+    "city": "Froid",
+    "city_ascii": "Froid",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.338,
+    "lng": -104.4909,
+    "cafes": []
+  },
+  "Hysham": {
+    "city": "Hysham",
+    "city_ascii": "Hysham",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.2909,
+    "lng": -107.2305,
+    "cafes": []
+  },
+  "Jordan": {
+    "city": "Jordan",
+    "city_ascii": "Jordan",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3211,
+    "lng": -106.9098,
+    "cafes": []
+  },
+  "Roberts": {
+    "city": "Roberts",
+    "city_ascii": "Roberts",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.3437,
+    "lng": -109.1817,
+    "cafes": []
+  },
+  "Ballantine": {
+    "city": "Ballantine",
+    "city_ascii": "Ballantine",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.9511,
+    "lng": -108.1428,
+    "cafes": []
+  },
+  "Klein": {
+    "city": "Klein",
+    "city_ascii": "Klein",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.3983,
+    "lng": -108.5525,
+    "cafes": []
+  },
+  "Boneau": {
+    "city": "Boneau",
+    "city_ascii": "Boneau",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2926,
+    "lng": -109.8632,
+    "cafes": []
+  },
+  "Plevna": {
+    "city": "Plevna",
+    "city_ascii": "Plevna",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4184,
+    "lng": -104.5186,
+    "cafes": []
+  },
+  "Babb": {
+    "city": "Babb",
+    "city_ascii": "Babb",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8777,
+    "lng": -113.4408,
+    "cafes": []
+  },
+  "Condon": {
+    "city": "Condon",
+    "city_ascii": "Condon",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5225,
+    "lng": -113.6987,
+    "cafes": []
+  },
+  "Dixon": {
+    "city": "Dixon",
+    "city_ascii": "Dixon",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3172,
+    "lng": -114.3569,
+    "cafes": []
+  },
+  "Joplin": {
+    "city": "Joplin",
+    "city_ascii": "Joplin",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.559,
+    "lng": -110.773,
+    "cafes": []
+  },
+  "Hillside Colony": {
+    "city": "Hillside Colony",
+    "city_ascii": "Hillside Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.9789,
+    "lng": -112.0704,
+    "cafes": []
+  },
+  "Stanford": {
+    "city": "Stanford",
+    "city_ascii": "Stanford",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1521,
+    "lng": -110.219,
+    "cafes": []
+  },
+  "Geraldine": {
+    "city": "Geraldine",
+    "city_ascii": "Geraldine",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6022,
+    "lng": -110.2663,
+    "cafes": []
+  },
+  "Wyola": {
+    "city": "Wyola",
+    "city_ascii": "Wyola",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.1154,
+    "lng": -107.3738,
+    "cafes": []
+  },
+  "South Glastonbury": {
+    "city": "South Glastonbury",
+    "city_ascii": "South Glastonbury",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.3121,
+    "lng": -110.8076,
+    "cafes": []
+  },
+  "Bear Dance": {
+    "city": "Bear Dance",
+    "city_ascii": "Bear Dance",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.902,
+    "lng": -114.0273,
+    "cafes": []
+  },
+  "Ryegate": {
+    "city": "Ryegate",
+    "city_ascii": "Ryegate",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.2985,
+    "lng": -109.2538,
+    "cafes": []
+  },
+  "Dutton": {
+    "city": "Dutton",
+    "city_ascii": "Dutton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.8476,
+    "lng": -111.7146,
+    "cafes": []
+  },
+  "Lodge Pole": {
+    "city": "Lodge Pole",
+    "city_ascii": "Lodge Pole",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0272,
+    "lng": -108.5518,
+    "cafes": []
+  },
+  "Drummond": {
+    "city": "Drummond",
+    "city_ascii": "Drummond",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.6665,
+    "lng": -113.1471,
+    "cafes": []
+  },
+  "Westby": {
+    "city": "Westby",
+    "city_ascii": "Westby",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.871,
+    "lng": -104.0551,
+    "cafes": []
+  },
+  "Hinsdale": {
+    "city": "Hinsdale",
+    "city_ascii": "Hinsdale",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4036,
+    "lng": -107.0582,
+    "cafes": []
+  },
+  "Savage": {
+    "city": "Savage",
+    "city_ascii": "Savage",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4536,
+    "lng": -104.3414,
+    "cafes": []
+  },
+  "Belfry": {
+    "city": "Belfry",
+    "city_ascii": "Belfry",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.1375,
+    "lng": -108.9985,
+    "cafes": []
+  },
+  "Lima": {
+    "city": "Lima",
+    "city_ascii": "Lima",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 44.6384,
+    "lng": -112.5917,
+    "cafes": []
+  },
+  "Forest Hill Village": {
+    "city": "Forest Hill Village",
+    "city_ascii": "Forest Hill Village",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1208,
+    "lng": -114.2618,
+    "cafes": []
+  },
+  "Starr School": {
+    "city": "Starr School",
+    "city_ascii": "Starr School",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5976,
+    "lng": -113.1433,
+    "cafes": []
+  },
+  "McAllister": {
+    "city": "McAllister",
+    "city_ascii": "McAllister",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.4364,
+    "lng": -111.7252,
+    "cafes": []
+  },
+  "Swan Lake": {
+    "city": "Swan Lake",
+    "city_ascii": "Swan Lake",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.9361,
+    "lng": -113.7997,
+    "cafes": []
+  },
+  "Augusta": {
+    "city": "Augusta",
+    "city_ascii": "Augusta",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4893,
+    "lng": -112.3923,
+    "cafes": []
+  },
+  "Wilsall": {
+    "city": "Wilsall",
+    "city_ascii": "Wilsall",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.9844,
+    "lng": -110.6604,
+    "cafes": []
+  },
+  "Jette": {
+    "city": "Jette",
+    "city_ascii": "Jette",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.7169,
+    "lng": -114.1905,
+    "cafes": []
+  },
+  "Fort Peck": {
+    "city": "Fort Peck",
+    "city_ascii": "Fort Peck",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.007,
+    "lng": -106.4552,
+    "cafes": []
+  },
+  "Twin Bridges": {
+    "city": "Twin Bridges",
+    "city_ascii": "Twin Bridges",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.5429,
+    "lng": -112.3341,
+    "cafes": []
+  },
+  "York": {
+    "city": "York",
+    "city_ascii": "York",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.7181,
+    "lng": -111.7528,
+    "cafes": []
+  },
+  "Richey": {
+    "city": "Richey",
+    "city_ascii": "Richey",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6439,
+    "lng": -105.0696,
+    "cafes": []
+  },
+  "Charlos Heights": {
+    "city": "Charlos Heights",
+    "city_ascii": "Charlos Heights",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.1337,
+    "lng": -114.1811,
+    "cafes": []
+  },
+  "Riverview Colony": {
+    "city": "Riverview Colony",
+    "city_ascii": "Riverview Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1823,
+    "lng": -111.0327,
+    "cafes": []
+  },
+  "Highwood": {
+    "city": "Highwood",
+    "city_ascii": "Highwood",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5992,
+    "lng": -110.7698,
+    "cafes": []
+  },
+  "West Glacier": {
+    "city": "West Glacier",
+    "city_ascii": "West Glacier",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4916,
+    "lng": -113.9961,
+    "cafes": []
+  },
+  "Saint Mary": {
+    "city": "Saint Mary",
+    "city_ascii": "Saint Mary",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7428,
+    "lng": -113.4275,
+    "cafes": []
+  },
+  "Elliston": {
+    "city": "Elliston",
+    "city_ascii": "Elliston",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5587,
+    "lng": -112.4639,
+    "cafes": []
+  },
+  "Winifred": {
+    "city": "Winifred",
+    "city_ascii": "Winifred",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5621,
+    "lng": -109.3773,
+    "cafes": []
+  },
+  "Moore": {
+    "city": "Moore",
+    "city_ascii": "Moore",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.975,
+    "lng": -109.6949,
+    "cafes": []
+  },
+  "Gibson Flats": {
+    "city": "Gibson Flats",
+    "city_ascii": "Gibson Flats",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.464,
+    "lng": -111.2404,
+    "cafes": []
+  },
+  "East Glacier Park Village": {
+    "city": "East Glacier Park Village",
+    "city_ascii": "East Glacier Park Village",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4459,
+    "lng": -113.2235,
+    "cafes": []
+  },
+  "Denton": {
+    "city": "Denton",
+    "city_ascii": "Denton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3222,
+    "lng": -109.9481,
+    "cafes": []
+  },
+  "Power": {
+    "city": "Power",
+    "city_ascii": "Power",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.7203,
+    "lng": -111.6944,
+    "cafes": []
+  },
+  "Noxon": {
+    "city": "Noxon",
+    "city_ascii": "Noxon",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.985,
+    "lng": -115.7707,
+    "cafes": []
+  },
+  "Gallatin River Ranch": {
+    "city": "Gallatin River Ranch",
+    "city_ascii": "Gallatin River Ranch",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.9073,
+    "lng": -111.3313,
+    "cafes": []
+  },
+  "Fort Shaw": {
+    "city": "Fort Shaw",
+    "city_ascii": "Fort Shaw",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4969,
+    "lng": -111.8194,
+    "cafes": []
+  },
+  "Medicine Lake": {
+    "city": "Medicine Lake",
+    "city_ascii": "Medicine Lake",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5023,
+    "lng": -104.5018,
+    "cafes": []
+  },
+  "Crane": {
+    "city": "Crane",
+    "city_ascii": "Crane",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5772,
+    "lng": -104.2509,
+    "cafes": []
+  },
+  "Bull Lake": {
+    "city": "Bull Lake",
+    "city_ascii": "Bull Lake",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2379,
+    "lng": -115.8474,
+    "cafes": []
+  },
+  "Elmo": {
+    "city": "Elmo",
+    "city_ascii": "Elmo",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.829,
+    "lng": -114.3484,
+    "cafes": []
+  },
+  "Pine Creek": {
+    "city": "Pine Creek",
+    "city_ascii": "Pine Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.5078,
+    "lng": -110.5724,
+    "cafes": []
+  },
+  "Wineglass": {
+    "city": "Wineglass",
+    "city_ascii": "Wineglass",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.628,
+    "lng": -110.6233,
+    "cafes": []
+  },
+  "Corwin Springs": {
+    "city": "Corwin Springs",
+    "city_ascii": "Corwin Springs",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.1276,
+    "lng": -110.7997,
+    "cafes": []
+  },
+  "Nibbe": {
+    "city": "Nibbe",
+    "city_ascii": "Nibbe",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.9819,
+    "lng": -108.0272,
+    "cafes": []
+  },
+  "Ravalli": {
+    "city": "Ravalli",
+    "city_ascii": "Ravalli",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2799,
+    "lng": -114.1658,
+    "cafes": []
+  },
+  "Winnett": {
+    "city": "Winnett",
+    "city_ascii": "Winnett",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0043,
+    "lng": -108.3466,
+    "cafes": []
+  },
+  "Fox Lake": {
+    "city": "Fox Lake",
+    "city_ascii": "Fox Lake",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6858,
+    "lng": -104.6331,
+    "cafes": []
+  },
+  "Willow Creek": {
+    "city": "Willow Creek",
+    "city_ascii": "Willow Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8178,
+    "lng": -111.6402,
+    "cafes": []
+  },
+  "Rimrock Colony": {
+    "city": "Rimrock Colony",
+    "city_ascii": "Rimrock Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8954,
+    "lng": -112.0952,
+    "cafes": []
+  },
+  "Sylvanite": {
+    "city": "Sylvanite",
+    "city_ascii": "Sylvanite",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7063,
+    "lng": -115.8741,
+    "cafes": []
+  },
+  "Dodson": {
+    "city": "Dodson",
+    "city_ascii": "Dodson",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3953,
+    "lng": -108.2472,
+    "cafes": []
+  },
+  "Custer": {
+    "city": "Custer",
+    "city_ascii": "Custer",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.1292,
+    "lng": -107.5554,
+    "cafes": []
+  },
+  "West Havre": {
+    "city": "West Havre",
+    "city_ascii": "West Havre",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5471,
+    "lng": -109.731,
+    "cafes": []
+  },
+  "Saco": {
+    "city": "Saco",
+    "city_ascii": "Saco",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4571,
+    "lng": -107.3414,
+    "cafes": []
+  },
+  "Little Bitterroot Lake": {
+    "city": "Little Bitterroot Lake",
+    "city_ascii": "Little Bitterroot Lake",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.118,
+    "lng": -114.7206,
+    "cafes": []
+  },
+  "Broadview": {
+    "city": "Broadview",
+    "city_ascii": "Broadview",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.0988,
+    "lng": -108.8789,
+    "cafes": []
+  },
+  "Maxville": {
+    "city": "Maxville",
+    "city_ascii": "Maxville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.476,
+    "lng": -113.2355,
+    "cafes": []
+  },
+  "Virginia City": {
+    "city": "Virginia City",
+    "city_ascii": "Virginia City",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.2962,
+    "lng": -111.9369,
+    "cafes": []
+  },
+  "Stockett": {
+    "city": "Stockett",
+    "city_ascii": "Stockett",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3542,
+    "lng": -111.1697,
+    "cafes": []
+  },
+  "Happys Inn": {
+    "city": "Happys Inn",
+    "city_ascii": "Happys Inn",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0638,
+    "lng": -115.135,
+    "cafes": []
+  },
+  "Sand Coulee": {
+    "city": "Sand Coulee",
+    "city_ascii": "Sand Coulee",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4024,
+    "lng": -111.1726,
+    "cafes": []
+  },
+  "Amsterdam": {
+    "city": "Amsterdam",
+    "city_ascii": "Amsterdam",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.7462,
+    "lng": -111.3301,
+    "cafes": []
+  },
+  "Hobson": {
+    "city": "Hobson",
+    "city_ascii": "Hobson",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.9992,
+    "lng": -109.8731,
+    "cafes": []
+  },
+  "Avon": {
+    "city": "Avon",
+    "city_ascii": "Avon",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.6264,
+    "lng": -112.582,
+    "cafes": []
+  },
+  "Big Arm": {
+    "city": "Big Arm",
+    "city_ascii": "Big Arm",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.7936,
+    "lng": -114.2701,
+    "cafes": []
+  },
+  "Saddle Butte": {
+    "city": "Saddle Butte",
+    "city_ascii": "Saddle Butte",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5235,
+    "lng": -109.6449,
+    "cafes": []
+  },
+  "Garrison": {
+    "city": "Garrison",
+    "city_ascii": "Garrison",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5259,
+    "lng": -112.8205,
+    "cafes": []
+  },
+  "Logan": {
+    "city": "Logan",
+    "city_ascii": "Logan",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8843,
+    "lng": -111.4236,
+    "cafes": []
+  },
+  "Lavina": {
+    "city": "Lavina",
+    "city_ascii": "Lavina",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.295,
+    "lng": -108.9388,
+    "cafes": []
+  },
+  "New Rockport Colony": {
+    "city": "New Rockport Colony",
+    "city_ascii": "New Rockport Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.8598,
+    "lng": -112.0349,
+    "cafes": []
+  },
+  "Roy": {
+    "city": "Roy",
+    "city_ascii": "Roy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3343,
+    "lng": -108.96,
+    "cafes": []
+  },
+  "Gildford": {
+    "city": "Gildford",
+    "city_ascii": "Gildford",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5738,
+    "lng": -110.3072,
+    "cafes": []
+  },
+  "Judith Gap": {
+    "city": "Judith Gap",
+    "city_ascii": "Judith Gap",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.6791,
+    "lng": -109.7533,
+    "cafes": []
+  },
+  "Rexford": {
+    "city": "Rexford",
+    "city_ascii": "Rexford",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8998,
+    "lng": -115.1714,
+    "cafes": []
+  },
+  "Dupuyer": {
+    "city": "Dupuyer",
+    "city_ascii": "Dupuyer",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1868,
+    "lng": -112.4771,
+    "cafes": []
+  },
+  "Tracy": {
+    "city": "Tracy",
+    "city_ascii": "Tracy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4102,
+    "lng": -111.1537,
+    "cafes": []
+  },
+  "Lonepine": {
+    "city": "Lonepine",
+    "city_ascii": "Lonepine",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6945,
+    "lng": -114.6407,
+    "cafes": []
+  },
+  "Rocky Point": {
+    "city": "Rocky Point",
+    "city_ascii": "Rocky Point",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.7323,
+    "lng": -114.1855,
+    "cafes": []
+  },
+  "Rocky Boy's Agency": {
+    "city": "Rocky Boy's Agency",
+    "city_ascii": "Rocky Boy's Agency",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.259,
+    "lng": -109.7648,
+    "cafes": []
+  },
+  "Sedan": {
+    "city": "Sedan",
+    "city_ascii": "Sedan",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.9653,
+    "lng": -110.8888,
+    "cafes": []
+  },
+  "Olney": {
+    "city": "Olney",
+    "city_ascii": "Olney",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5489,
+    "lng": -114.5721,
+    "cafes": []
+  },
+  "Springhill": {
+    "city": "Springhill",
+    "city_ascii": "Springhill",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8788,
+    "lng": -111.0773,
+    "cafes": []
+  },
+  "Carter": {
+    "city": "Carter",
+    "city_ascii": "Carter",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.7812,
+    "lng": -110.94,
+    "cafes": []
+  },
+  "Wisdom": {
+    "city": "Wisdom",
+    "city_ascii": "Wisdom",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6114,
+    "lng": -113.447,
+    "cafes": []
+  },
+  "Old Agency": {
+    "city": "Old Agency",
+    "city_ascii": "Old Agency",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3226,
+    "lng": -114.2987,
+    "cafes": []
+  },
+  "Reed Point": {
+    "city": "Reed Point",
+    "city_ascii": "Reed Point",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.7071,
+    "lng": -109.5471,
+    "cafes": []
+  },
+  "Turner Colony": {
+    "city": "Turner Colony",
+    "city_ascii": "Turner Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7631,
+    "lng": -108.4302,
+    "cafes": []
+  },
+  "Birch Creek Colony": {
+    "city": "Birch Creek Colony",
+    "city_ascii": "Birch Creek Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2465,
+    "lng": -112.4698,
+    "cafes": []
+  },
+  "Rollins": {
+    "city": "Rollins",
+    "city_ascii": "Rollins",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.9106,
+    "lng": -114.1948,
+    "cafes": []
+  },
+  "Opheim": {
+    "city": "Opheim",
+    "city_ascii": "Opheim",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8571,
+    "lng": -106.4084,
+    "cafes": []
+  },
+  "Alder": {
+    "city": "Alder",
+    "city_ascii": "Alder",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.3216,
+    "lng": -112.1093,
+    "cafes": []
+  },
+  "Montaqua": {
+    "city": "Montaqua",
+    "city_ascii": "Montaqua",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.5072,
+    "lng": -108.9087,
+    "cafes": []
+  },
+  "Fort Smith": {
+    "city": "Fort Smith",
+    "city_ascii": "Fort Smith",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.3134,
+    "lng": -107.9296,
+    "cafes": []
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "city_ascii": "Dayton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.8643,
+    "lng": -114.2765,
+    "cafes": []
+  },
+  "Conner": {
+    "city": "Conner",
+    "city_ascii": "Conner",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.929,
+    "lng": -114.1326,
+    "cafes": []
+  },
+  "Pony": {
+    "city": "Pony",
+    "city_ascii": "Pony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6628,
+    "lng": -111.8826,
+    "cafes": []
+  },
+  "Whitewater": {
+    "city": "Whitewater",
+    "city_ascii": "Whitewater",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7635,
+    "lng": -107.6303,
+    "cafes": []
+  },
+  "Weeksville": {
+    "city": "Weeksville",
+    "city_ascii": "Weeksville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5309,
+    "lng": -115.0083,
+    "cafes": []
+  },
+  "Cyr": {
+    "city": "Cyr",
+    "city_ascii": "Cyr",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0002,
+    "lng": -114.5879,
+    "cafes": []
+  },
+  "Argenta": {
+    "city": "Argenta",
+    "city_ascii": "Argenta",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.2788,
+    "lng": -112.8607,
+    "cafes": []
+  },
+  "Grass Range": {
+    "city": "Grass Range",
+    "city_ascii": "Grass Range",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0261,
+    "lng": -108.8031,
+    "cafes": []
+  },
+  "Marysville": {
+    "city": "Marysville",
+    "city_ascii": "Marysville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.7502,
+    "lng": -112.3026,
+    "cafes": []
+  },
+  "Rapelje": {
+    "city": "Rapelje",
+    "city_ascii": "Rapelje",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.972,
+    "lng": -109.2579,
+    "cafes": []
+  },
+  "Harrison": {
+    "city": "Harrison",
+    "city_ascii": "Harrison",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.7045,
+    "lng": -111.7844,
+    "cafes": []
+  },
+  "Blackfoot": {
+    "city": "Blackfoot",
+    "city_ascii": "Blackfoot",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5771,
+    "lng": -112.8733,
+    "cafes": []
+  },
+  "Hingham": {
+    "city": "Hingham",
+    "city_ascii": "Hingham",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5554,
+    "lng": -110.4213,
+    "cafes": []
+  },
+  "Greycliff": {
+    "city": "Greycliff",
+    "city_ascii": "Greycliff",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.7588,
+    "lng": -109.7799,
+    "cafes": []
+  },
+  "Cooke City": {
+    "city": "Cooke City",
+    "city_ascii": "Cooke City",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.0187,
+    "lng": -109.9119,
+    "cafes": []
+  },
+  "Silver Gate": {
+    "city": "Silver Gate",
+    "city_ascii": "Silver Gate",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.0198,
+    "lng": -109.9829,
+    "cafes": []
+  },
+  "Bearcreek": {
+    "city": "Bearcreek",
+    "city_ascii": "Bearcreek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.1606,
+    "lng": -109.1575,
+    "cafes": []
+  },
+  "Rimini": {
+    "city": "Rimini",
+    "city_ascii": "Rimini",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4919,
+    "lng": -112.2496,
+    "cafes": []
+  },
+  "Winston": {
+    "city": "Winston",
+    "city_ascii": "Winston",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4684,
+    "lng": -111.6653,
+    "cafes": []
+  },
+  "Camrose Colony": {
+    "city": "Camrose Colony",
+    "city_ascii": "Camrose Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3116,
+    "lng": -111.6118,
+    "cafes": []
+  },
+  "Loma": {
+    "city": "Loma",
+    "city_ascii": "Loma",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.9511,
+    "lng": -110.4887,
+    "cafes": []
+  },
+  "Brady": {
+    "city": "Brady",
+    "city_ascii": "Brady",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0279,
+    "lng": -111.8441,
+    "cafes": []
+  },
+  "Kevin": {
+    "city": "Kevin",
+    "city_ascii": "Kevin",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7457,
+    "lng": -111.9656,
+    "cafes": []
+  },
+  "Birney": {
+    "city": "Birney",
+    "city_ascii": "Birney",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.4155,
+    "lng": -106.4934,
+    "cafes": []
+  },
+  "Edgar": {
+    "city": "Edgar",
+    "city_ascii": "Edgar",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.4636,
+    "lng": -108.8552,
+    "cafes": []
+  },
+  "Fishtail": {
+    "city": "Fishtail",
+    "city_ascii": "Fishtail",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.448,
+    "lng": -109.5083,
+    "cafes": []
+  },
+  "St. Xavier": {
+    "city": "St. Xavier",
+    "city_ascii": "St. Xavier",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.457,
+    "lng": -107.725,
+    "cafes": []
+  },
+  "Melstone": {
+    "city": "Melstone",
+    "city_ascii": "Melstone",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5987,
+    "lng": -107.8683,
+    "cafes": []
+  },
+  "Flaxville": {
+    "city": "Flaxville",
+    "city_ascii": "Flaxville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8045,
+    "lng": -105.1736,
+    "cafes": []
+  },
+  "Silver Star": {
+    "city": "Silver Star",
+    "city_ascii": "Silver Star",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6875,
+    "lng": -112.285,
+    "cafes": []
+  },
+  "Pleasant Valley Colony": {
+    "city": "Pleasant Valley Colony",
+    "city_ascii": "Pleasant Valley Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3379,
+    "lng": -111.0449,
+    "cafes": []
+  },
+  "Camp Three": {
+    "city": "Camp Three",
+    "city_ascii": "Camp Three",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4534,
+    "lng": -108.5741,
+    "cafes": []
+  },
+  "Kicking Horse": {
+    "city": "Kicking Horse",
+    "city_ascii": "Kicking Horse",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4568,
+    "lng": -114.0717,
+    "cafes": []
+  },
+  "Brandon": {
+    "city": "Brandon",
+    "city_ascii": "Brandon",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.466,
+    "lng": -112.1339,
+    "cafes": []
+  },
+  "Paradise": {
+    "city": "Paradise",
+    "city_ascii": "Paradise",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3857,
+    "lng": -114.7989,
+    "cafes": []
+  },
+  "Geyser": {
+    "city": "Geyser",
+    "city_ascii": "Geyser",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2633,
+    "lng": -110.4927,
+    "cafes": []
+  },
+  "Hardy": {
+    "city": "Hardy",
+    "city_ascii": "Hardy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1806,
+    "lng": -111.8172,
+    "cafes": []
+  },
+  "Fox": {
+    "city": "Fox",
+    "city_ascii": "Fox",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.2884,
+    "lng": -109.2125,
+    "cafes": []
+  },
+  "Sweet Grass": {
+    "city": "Sweet Grass",
+    "city_ascii": "Sweet Grass",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.9929,
+    "lng": -111.9668,
+    "cafes": []
+  },
+  "Jardine": {
+    "city": "Jardine",
+    "city_ascii": "Jardine",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.0565,
+    "lng": -110.6186,
+    "cafes": []
+  },
+  "Rhodes": {
+    "city": "Rhodes",
+    "city_ascii": "Rhodes",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2793,
+    "lng": -114.4736,
+    "cafes": []
+  },
+  "Lake Mary Ronan": {
+    "city": "Lake Mary Ronan",
+    "city_ascii": "Lake Mary Ronan",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.9291,
+    "lng": -114.3889,
+    "cafes": []
+  },
+  "Zortman": {
+    "city": "Zortman",
+    "city_ascii": "Zortman",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.9168,
+    "lng": -108.509,
+    "cafes": []
+  },
+  "Sun River": {
+    "city": "Sun River",
+    "city_ascii": "Sun River",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5305,
+    "lng": -111.724,
+    "cafes": []
+  },
+  "Little Browning": {
+    "city": "Little Browning",
+    "city_ascii": "Little Browning",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.6252,
+    "lng": -112.35,
+    "cafes": []
+  },
+  "Turtle Lake": {
+    "city": "Turtle Lake",
+    "city_ascii": "Turtle Lake",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6696,
+    "lng": -114.0818,
+    "cafes": []
+  },
+  "Vida": {
+    "city": "Vida",
+    "city_ascii": "Vida",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.8336,
+    "lng": -105.4924,
+    "cafes": []
+  },
+  "Glen": {
+    "city": "Glen",
+    "city_ascii": "Glen",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.4789,
+    "lng": -112.6918,
+    "cafes": []
+  },
+  "Huson": {
+    "city": "Huson",
+    "city_ascii": "Huson",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0325,
+    "lng": -114.34,
+    "cafes": []
+  },
+  "Helmville": {
+    "city": "Helmville",
+    "city_ascii": "Helmville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8614,
+    "lng": -112.9629,
+    "cafes": []
+  },
+  "Essex": {
+    "city": "Essex",
+    "city_ascii": "Essex",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2823,
+    "lng": -113.6095,
+    "cafes": []
+  },
+  "Windham": {
+    "city": "Windham",
+    "city_ascii": "Windham",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0781,
+    "lng": -110.1386,
+    "cafes": []
+  },
+  "Nye": {
+    "city": "Nye",
+    "city_ascii": "Nye",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.434,
+    "lng": -109.8069,
+    "cafes": []
+  },
+  "Acton": {
+    "city": "Acton",
+    "city_ascii": "Acton",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.929,
+    "lng": -108.6788,
+    "cafes": []
+  },
+  "Maverick Mountain": {
+    "city": "Maverick Mountain",
+    "city_ascii": "Maverick Mountain",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.4182,
+    "lng": -113.1109,
+    "cafes": []
+  },
+  "Radersburg": {
+    "city": "Radersburg",
+    "city_ascii": "Radersburg",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.1965,
+    "lng": -111.6316,
+    "cafes": []
+  },
+  "Eagle Creek Colony": {
+    "city": "Eagle Creek Colony",
+    "city_ascii": "Eagle Creek Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7021,
+    "lng": -111.2031,
+    "cafes": []
+  },
+  "Glendale Colony": {
+    "city": "Glendale Colony",
+    "city_ascii": "Glendale Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8432,
+    "lng": -112.5438,
+    "cafes": []
+  },
+  "Hebgen Lake Estates": {
+    "city": "Hebgen Lake Estates",
+    "city_ascii": "Hebgen Lake Estates",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 44.7692,
+    "lng": -111.1905,
+    "cafes": []
+  },
+  "Rosebud": {
+    "city": "Rosebud",
+    "city_ascii": "Rosebud",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.2711,
+    "lng": -106.4468,
+    "cafes": []
+  },
+  "Jeffers": {
+    "city": "Jeffers",
+    "city_ascii": "Jeffers",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.3481,
+    "lng": -111.7037,
+    "cafes": []
+  },
+  "Hall": {
+    "city": "Hall",
+    "city_ascii": "Hall",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5867,
+    "lng": -113.1971,
+    "cafes": []
+  },
+  "Mountain View Colony": {
+    "city": "Mountain View Colony",
+    "city_ascii": "Mountain View Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.068,
+    "lng": -108.7213,
+    "cafes": []
+  },
+  "Polebridge": {
+    "city": "Polebridge",
+    "city_ascii": "Polebridge",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7622,
+    "lng": -114.2818,
+    "cafes": []
+  },
+  "Elkhorn": {
+    "city": "Elkhorn",
+    "city_ascii": "Elkhorn",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.2843,
+    "lng": -111.9488,
+    "cafes": []
+  },
+  "Cascade Colony": {
+    "city": "Cascade Colony",
+    "city_ascii": "Cascade Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.441,
+    "lng": -111.8178,
+    "cafes": []
+  },
+  "Outlook": {
+    "city": "Outlook",
+    "city_ascii": "Outlook",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8888,
+    "lng": -104.7849,
+    "cafes": []
+  },
+  "Craig": {
+    "city": "Craig",
+    "city_ascii": "Craig",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0745,
+    "lng": -111.9644,
+    "cafes": []
+  },
+  "Pondera Colony": {
+    "city": "Pondera Colony",
+    "city_ascii": "Pondera Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2399,
+    "lng": -112.4181,
+    "cafes": []
+  },
+  "North Harlem Colony": {
+    "city": "North Harlem Colony",
+    "city_ascii": "North Harlem Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5844,
+    "lng": -108.7556,
+    "cafes": []
+  },
+  "Ovando": {
+    "city": "Ovando",
+    "city_ascii": "Ovando",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0207,
+    "lng": -113.1717,
+    "cafes": []
+  },
+  "Coffee Creek": {
+    "city": "Coffee Creek",
+    "city_ascii": "Coffee Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3489,
+    "lng": -110.0827,
+    "cafes": []
+  },
+  "Turner": {
+    "city": "Turner",
+    "city_ascii": "Turner",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8469,
+    "lng": -108.4006,
+    "cafes": []
+  },
+  "Zurich": {
+    "city": "Zurich",
+    "city_ascii": "Zurich",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5861,
+    "lng": -109.0302,
+    "cafes": []
+  },
+  "Rockport Colony": {
+    "city": "Rockport Colony",
+    "city_ascii": "Rockport Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0673,
+    "lng": -112.4761,
+    "cafes": []
+  },
+  "Big Stone Colony": {
+    "city": "Big Stone Colony",
+    "city_ascii": "Big Stone Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4001,
+    "lng": -111.2092,
+    "cafes": []
+  },
+  "Pinnacle": {
+    "city": "Pinnacle",
+    "city_ascii": "Pinnacle",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3555,
+    "lng": -113.6484,
+    "cafes": []
+  },
+  "Cardwell": {
+    "city": "Cardwell",
+    "city_ascii": "Cardwell",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8621,
+    "lng": -111.9555,
+    "cafes": []
+  },
+  "Niarada": {
+    "city": "Niarada",
+    "city_ascii": "Niarada",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.8309,
+    "lng": -114.5578,
+    "cafes": []
+  },
+  "Raynesford": {
+    "city": "Raynesford",
+    "city_ascii": "Raynesford",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2701,
+    "lng": -110.732,
+    "cafes": []
+  },
+  "Gildford Colony": {
+    "city": "Gildford Colony",
+    "city_ascii": "Gildford Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8025,
+    "lng": -110.2843,
+    "cafes": []
+  },
+  "Camas": {
+    "city": "Camas",
+    "city_ascii": "Camas",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6179,
+    "lng": -114.6561,
+    "cafes": []
+  },
+  "Box Elder": {
+    "city": "Box Elder",
+    "city_ascii": "Box Elder",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.323,
+    "lng": -110.0177,
+    "cafes": []
+  },
+  "Grant": {
+    "city": "Grant",
+    "city_ascii": "Grant",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.0096,
+    "lng": -113.0675,
+    "cafes": []
+  },
+  "Shawmut": {
+    "city": "Shawmut",
+    "city_ascii": "Shawmut",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.3447,
+    "lng": -109.5123,
+    "cafes": []
+  },
+  "De Borgia": {
+    "city": "De Borgia",
+    "city_ascii": "De Borgia",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3701,
+    "lng": -115.3211,
+    "cafes": []
+  },
+  "Herron": {
+    "city": "Herron",
+    "city_ascii": "Herron",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5341,
+    "lng": -109.7718,
+    "cafes": []
+  },
+  "Lakeview": {
+    "city": "Lakeview",
+    "city_ascii": "Lakeview",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 44.6021,
+    "lng": -111.8124,
+    "cafes": []
+  },
+  "Springwater Colony": {
+    "city": "Springwater Colony",
+    "city_ascii": "Springwater Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4569,
+    "lng": -109.7532,
+    "cafes": []
+  },
+  "Musselshell": {
+    "city": "Musselshell",
+    "city_ascii": "Musselshell",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5063,
+    "lng": -108.0862,
+    "cafes": []
+  },
+  "Martinsdale": {
+    "city": "Martinsdale",
+    "city_ascii": "Martinsdale",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4548,
+    "lng": -110.312,
+    "cafes": []
+  },
+  "Neihart": {
+    "city": "Neihart",
+    "city_ascii": "Neihart",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.9352,
+    "lng": -110.736,
+    "cafes": []
+  },
+  "Kremlin": {
+    "city": "Kremlin",
+    "city_ascii": "Kremlin",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5707,
+    "lng": -110.0862,
+    "cafes": []
+  },
+  "Biddle": {
+    "city": "Biddle",
+    "city_ascii": "Biddle",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.1051,
+    "lng": -105.3116,
+    "cafes": []
+  },
+  "Santa Rita": {
+    "city": "Santa Rita",
+    "city_ascii": "Santa Rita",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.6984,
+    "lng": -112.3188,
+    "cafes": []
+  },
+  "Dell": {
+    "city": "Dell",
+    "city_ascii": "Dell",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 44.7268,
+    "lng": -112.6969,
+    "cafes": []
+  },
+  "Sula": {
+    "city": "Sula",
+    "city_ascii": "Sula",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.8453,
+    "lng": -113.9629,
+    "cafes": []
+  },
+  "Luther": {
+    "city": "Luther",
+    "city_ascii": "Luther",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.2852,
+    "lng": -109.4164,
+    "cafes": []
+  },
+  "Fords Creek Colony": {
+    "city": "Fords Creek Colony",
+    "city_ascii": "Fords Creek Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.131,
+    "lng": -108.9169,
+    "cafes": []
+  },
+  "Inverness": {
+    "city": "Inverness",
+    "city_ascii": "Inverness",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5599,
+    "lng": -110.7101,
+    "cafes": []
+  },
+  "Midway Colony": {
+    "city": "Midway Colony",
+    "city_ascii": "Midway Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.067,
+    "lng": -111.9935,
+    "cafes": []
+  },
+  "Landusky": {
+    "city": "Landusky",
+    "city_ascii": "Landusky",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.8982,
+    "lng": -108.6202,
+    "cafes": []
+  },
+  "Hogeland": {
+    "city": "Hogeland",
+    "city_ascii": "Hogeland",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8547,
+    "lng": -108.6624,
+    "cafes": []
+  },
+  "Canyon Creek": {
+    "city": "Canyon Creek",
+    "city_ascii": "Canyon Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8053,
+    "lng": -112.2544,
+    "cafes": []
+  },
+  "Sage Creek Colony": {
+    "city": "Sage Creek Colony",
+    "city_ascii": "Sage Creek Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.9288,
+    "lng": -110.9723,
+    "cafes": []
+  },
+  "Loring Colony": {
+    "city": "Loring Colony",
+    "city_ascii": "Loring Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7891,
+    "lng": -107.9687,
+    "cafes": []
+  },
+  "Dewey": {
+    "city": "Dewey",
+    "city_ascii": "Dewey",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.7764,
+    "lng": -112.8553,
+    "cafes": []
+  },
+  "Boyd": {
+    "city": "Boyd",
+    "city_ascii": "Boyd",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.454,
+    "lng": -109.0697,
+    "cafes": []
+  },
+  "Snowslip": {
+    "city": "Snowslip",
+    "city_ascii": "Snowslip",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.2648,
+    "lng": -113.446,
+    "cafes": []
+  },
+  "Riceville": {
+    "city": "Riceville",
+    "city_ascii": "Riceville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2202,
+    "lng": -110.9262,
+    "cafes": []
+  },
+  "Pompeys Pillar": {
+    "city": "Pompeys Pillar",
+    "city_ascii": "Pompeys Pillar",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.9906,
+    "lng": -107.9504,
+    "cafes": []
+  },
+  "Haugan": {
+    "city": "Haugan",
+    "city_ascii": "Haugan",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3887,
+    "lng": -115.4079,
+    "cafes": []
+  },
+  "Square Butte": {
+    "city": "Square Butte",
+    "city_ascii": "Square Butte",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5147,
+    "lng": -110.1991,
+    "cafes": []
+  },
+  "Wise River": {
+    "city": "Wise River",
+    "city_ascii": "Wise River",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.792,
+    "lng": -112.9485,
+    "cafes": []
+  },
+  "Roscoe": {
+    "city": "Roscoe",
+    "city_ascii": "Roscoe",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.3517,
+    "lng": -109.4932,
+    "cafes": []
+  },
+  "Reserve": {
+    "city": "Reserve",
+    "city_ascii": "Reserve",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.6024,
+    "lng": -104.4677,
+    "cafes": []
+  },
+  "Redstone": {
+    "city": "Redstone",
+    "city_ascii": "Redstone",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8217,
+    "lng": -104.9432,
+    "cafes": []
+  },
+  "Moccasin": {
+    "city": "Moccasin",
+    "city_ascii": "Moccasin",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0527,
+    "lng": -109.9086,
+    "cafes": []
+  },
+  "King Ranch Colony": {
+    "city": "King Ranch Colony",
+    "city_ascii": "King Ranch Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0572,
+    "lng": -109.6362,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.3679,
+    "lng": -113.4097,
+    "cafes": []
+  },
+  "Monarch": {
+    "city": "Monarch",
+    "city_ascii": "Monarch",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1003,
+    "lng": -110.8448,
+    "cafes": []
+  },
+  "Twin Hills Colony": {
+    "city": "Twin Hills Colony",
+    "city_ascii": "Twin Hills Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0168,
+    "lng": -111.0698,
+    "cafes": []
+  },
+  "Hilldale Colony": {
+    "city": "Hilldale Colony",
+    "city_ascii": "Hilldale Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8035,
+    "lng": -109.7832,
+    "cafes": []
+  },
+  "Golden Valley Colony": {
+    "city": "Golden Valley Colony",
+    "city_ascii": "Golden Valley Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.2592,
+    "lng": -109.2735,
+    "cafes": []
+  },
+  "Springdale": {
+    "city": "Springdale",
+    "city_ascii": "Springdale",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.7381,
+    "lng": -110.2236,
+    "cafes": []
+  },
+  "Deerfield Colony": {
+    "city": "Deerfield Colony",
+    "city_ascii": "Deerfield Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2601,
+    "lng": -109.6787,
+    "cafes": []
+  },
+  "Norris": {
+    "city": "Norris",
+    "city_ascii": "Norris",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.5731,
+    "lng": -111.6913,
+    "cafes": []
+  },
+  "Utica": {
+    "city": "Utica",
+    "city_ascii": "Utica",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.9678,
+    "lng": -110.0935,
+    "cafes": []
+  },
+  "Wolf Creek": {
+    "city": "Wolf Creek",
+    "city_ascii": "Wolf Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.0059,
+    "lng": -112.07,
+    "cafes": []
+  },
+  "Warm Spring Creek": {
+    "city": "Warm Spring Creek",
+    "city_ascii": "Warm Spring Creek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1847,
+    "lng": -109.2827,
+    "cafes": []
+  },
+  "Saltese": {
+    "city": "Saltese",
+    "city_ascii": "Saltese",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4115,
+    "lng": -115.512,
+    "cafes": []
+  },
+  "Alzada": {
+    "city": "Alzada",
+    "city_ascii": "Alzada",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.0206,
+    "lng": -104.4129,
+    "cafes": []
+  },
+  "Mammoth": {
+    "city": "Mammoth",
+    "city_ascii": "Mammoth",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.6692,
+    "lng": -112.0176,
+    "cafes": []
+  },
+  "Gilman": {
+    "city": "Gilman",
+    "city_ascii": "Gilman",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.5093,
+    "lng": -112.3578,
+    "cafes": []
+  },
+  "Floweree": {
+    "city": "Floweree",
+    "city_ascii": "Floweree",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.7248,
+    "lng": -111.0254,
+    "cafes": []
+  },
+  "Spring Creek Colony": {
+    "city": "Spring Creek Colony",
+    "city_ascii": "Spring Creek Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.154,
+    "lng": -109.6207,
+    "cafes": []
+  },
+  "Sapphire Ridge": {
+    "city": "Sapphire Ridge",
+    "city_ascii": "Sapphire Ridge",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8866,
+    "lng": -110.2522,
+    "cafes": []
+  },
+  "Twodot": {
+    "city": "Twodot",
+    "city_ascii": "Twodot",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4224,
+    "lng": -110.0725,
+    "cafes": []
+  },
+  "Ayers Ranch Colony": {
+    "city": "Ayers Ranch Colony",
+    "city_ascii": "Ayers Ranch Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.051,
+    "lng": -108.945,
+    "cafes": []
+  },
+  "Homestead": {
+    "city": "Homestead",
+    "city_ascii": "Homestead",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4202,
+    "lng": -104.5369,
+    "cafes": []
+  },
+  "Pendroy": {
+    "city": "Pendroy",
+    "city_ascii": "Pendroy",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.073,
+    "lng": -112.2992,
+    "cafes": []
+  },
+  "Bynum": {
+    "city": "Bynum",
+    "city_ascii": "Bynum",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.9682,
+    "lng": -112.3165,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3844,
+    "lng": -111.1432,
+    "cafes": []
+  },
+  "Sleeping Buffalo": {
+    "city": "Sleeping Buffalo",
+    "city_ascii": "Sleeping Buffalo",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.483,
+    "lng": -107.5319,
+    "cafes": []
+  },
+  "Silesia": {
+    "city": "Silesia",
+    "city_ascii": "Silesia",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.556,
+    "lng": -108.8368,
+    "cafes": []
+  },
+  "Kingsbury Colony": {
+    "city": "Kingsbury Colony",
+    "city_ascii": "Kingsbury Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3044,
+    "lng": -112.4846,
+    "cafes": []
+  },
+  "Whitlash": {
+    "city": "Whitlash",
+    "city_ascii": "Whitlash",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.9089,
+    "lng": -111.2519,
+    "cafes": []
+  },
+  "Whitetail": {
+    "city": "Whitetail",
+    "city_ascii": "Whitetail",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8966,
+    "lng": -105.1619,
+    "cafes": []
+  },
+  "Potomac": {
+    "city": "Potomac",
+    "city_ascii": "Potomac",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.8813,
+    "lng": -113.5751,
+    "cafes": []
+  },
+  "Bloomfield": {
+    "city": "Bloomfield",
+    "city_ascii": "Bloomfield",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4123,
+    "lng": -104.919,
+    "cafes": []
+  },
+  "Racetrack": {
+    "city": "Racetrack",
+    "city_ascii": "Racetrack",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.277,
+    "lng": -112.7436,
+    "cafes": []
+  },
+  "Danvers": {
+    "city": "Danvers",
+    "city_ascii": "Danvers",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2283,
+    "lng": -109.713,
+    "cafes": []
+  },
+  "Lindsay": {
+    "city": "Lindsay",
+    "city_ascii": "Lindsay",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2249,
+    "lng": -105.1528,
+    "cafes": []
+  },
+  "Brockway": {
+    "city": "Brockway",
+    "city_ascii": "Brockway",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2992,
+    "lng": -105.7645,
+    "cafes": []
+  },
+  "Goldcreek": {
+    "city": "Goldcreek",
+    "city_ascii": "Goldcreek",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5838,
+    "lng": -112.9284,
+    "cafes": []
+  },
+  "Ismay": {
+    "city": "Ismay",
+    "city_ascii": "Ismay",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.5002,
+    "lng": -104.7929,
+    "cafes": []
+  },
+  "Milford Colony": {
+    "city": "Milford Colony",
+    "city_ascii": "Milford Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.3282,
+    "lng": -112.2127,
+    "cafes": []
+  },
+  "Indian Springs": {
+    "city": "Indian Springs",
+    "city_ascii": "Indian Springs",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.9534,
+    "lng": -115.0446,
+    "cafes": []
+  },
+  "Zenith Colony": {
+    "city": "Zenith Colony",
+    "city_ascii": "Zenith Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8688,
+    "lng": -112.3423,
+    "cafes": []
+  },
+  "Flat Willow Colony": {
+    "city": "Flat Willow Colony",
+    "city_ascii": "Flat Willow Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.7252,
+    "lng": -108.4882,
+    "cafes": []
+  },
+  "Kilby Butte Colony": {
+    "city": "Kilby Butte Colony",
+    "city_ascii": "Kilby Butte Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4764,
+    "lng": -108.3602,
+    "cafes": []
+  },
+  "Seville Colony": {
+    "city": "Seville Colony",
+    "city_ascii": "Seville Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7058,
+    "lng": -112.5929,
+    "cafes": []
+  },
+  "Miller Colony": {
+    "city": "Miller Colony",
+    "city_ascii": "Miller Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.9257,
+    "lng": -112.2917,
+    "cafes": []
+  },
+  "Peerless": {
+    "city": "Peerless",
+    "city_ascii": "Peerless",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7822,
+    "lng": -105.8304,
+    "cafes": []
+  },
+  "Sunnybrook Colony": {
+    "city": "Sunnybrook Colony",
+    "city_ascii": "Sunnybrook Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.1573,
+    "lng": -110.727,
+    "cafes": []
+  },
+  "Surprise Creek Colony": {
+    "city": "Surprise Creek Colony",
+    "city_ascii": "Surprise Creek Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.1706,
+    "lng": -110.3397,
+    "cafes": []
+  },
+  "Big Sky Colony": {
+    "city": "Big Sky Colony",
+    "city_ascii": "Big Sky Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.8391,
+    "lng": -112.7685,
+    "cafes": []
+  },
+  "East End Colony": {
+    "city": "East End Colony",
+    "city_ascii": "East End Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7519,
+    "lng": -109.5466,
+    "cafes": []
+  },
+  "Duncan Ranch Colony": {
+    "city": "Duncan Ranch Colony",
+    "city_ascii": "Duncan Ranch Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4418,
+    "lng": -110.0261,
+    "cafes": []
+  },
+  "East Malta Colony": {
+    "city": "East Malta Colony",
+    "city_ascii": "East Malta Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.3488,
+    "lng": -107.6081,
+    "cafes": []
+  },
+  "Laredo": {
+    "city": "Laredo",
+    "city_ascii": "Laredo",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.4303,
+    "lng": -109.886,
+    "cafes": []
+  },
+  "Prairie Elk Colony": {
+    "city": "Prairie Elk Colony",
+    "city_ascii": "Prairie Elk Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.0147,
+    "lng": -105.7981,
+    "cafes": []
+  },
+  "Springdale Colony": {
+    "city": "Springdale Colony",
+    "city_ascii": "Springdale Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 46.4618,
+    "lng": -111.0192,
+    "cafes": []
+  },
+  "Brooks": {
+    "city": "Brooks",
+    "city_ascii": "Brooks",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2051,
+    "lng": -109.4212,
+    "cafes": []
+  },
+  "Hilger": {
+    "city": "Hilger",
+    "city_ascii": "Hilger",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.2557,
+    "lng": -109.3571,
+    "cafes": []
+  },
+  "Hartland Colony": {
+    "city": "Hartland Colony",
+    "city_ascii": "Hartland Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.952,
+    "lng": -109.4483,
+    "cafes": []
+  },
+  "Belknap": {
+    "city": "Belknap",
+    "city_ascii": "Belknap",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.6473,
+    "lng": -115.4222,
+    "cafes": []
+  },
+  "Forty Mile Colony": {
+    "city": "Forty Mile Colony",
+    "city_ascii": "Forty Mile Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 45.2827,
+    "lng": -107.3568,
+    "cafes": []
+  },
+  "Fair Haven Colony": {
+    "city": "Fair Haven Colony",
+    "city_ascii": "Fair Haven Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 47.4041,
+    "lng": -111.6294,
+    "cafes": []
+  },
+  "Antelope": {
+    "city": "Antelope",
+    "city_ascii": "Antelope",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.6897,
+    "lng": -104.454,
+    "cafes": []
+  },
+  "Horizon Colony": {
+    "city": "Horizon Colony",
+    "city_ascii": "Horizon Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.7167,
+    "lng": -112.2276,
+    "cafes": []
+  },
+  "Hidden Lake Colony": {
+    "city": "Hidden Lake Colony",
+    "city_ascii": "Hidden Lake Colony",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.5987,
+    "lng": -112.6031,
+    "cafes": []
+  },
+  "Stryker": {
+    "city": "Stryker",
+    "city_ascii": "Stryker",
+    "state_id": "MT",
+    "state_name": "Montana",
+    "lat": 48.6727,
+    "lng": -114.7676,
+    "cafes": []
+  }
+}

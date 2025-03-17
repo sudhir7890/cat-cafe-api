@@ -1,0 +1,5432 @@
+{
+  "Omaha": {
+    "city": "Omaha",
+    "city_ascii": "Omaha",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2627,
+    "lng": -96.0529,
+    "cafes": [
+      {
+        "name": "Felius Cat Café & Rescue",
+        "address": "5015 Dodge St Suite #101, Omaha, NE 68132, USA",
+        "rating": 4.7,
+        "user_ratings_total": 415,
+        "website": "https://felius.org/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=14493833744480042223",
+        "lat": 41.2594596,
+        "lng": -95.9911288,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Catie Larson",
+            "rating": 5,
+            "text": {
+              "text": "Surprised my 10 year old and took her to her first cat cafe today!\n\nThis place was amazing!!! We had so much fun snuggling and playing with about 20 cats/kittens!\n\nHighly recommend the Felius Cat Cafe! This facility is a nonprofit animal shelter with a cat cafe and all the cats are up for adoption (no we unfortunately did not get another cat - our rescue cat Lucy would kill us as she does not like other animals). All the proceeds go to the medical care and food and supplies for the cats in the shelter. We will definitely be going back to support the shelter and cats next time we are in town!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Justine Yeo Bircher",
+            "rating": 5,
+            "text": {
+              "text": "I've been wanting to check out Felius for a while now and finally got to visit their spankin' new location. Booked myself a 30-minute play session and received so many kitty cuddles and kisses. My favorite was Olive, the one-eyed tabby cat who was so sweet and precious. 😭 Jamie gave me a tube of Churu and immediately got swarmed by all the kittens. BEST DAY EVER! 😻",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Destinee Myres",
+            "rating": 5,
+            "text": {
+              "text": "This place is heaven on earth. The staff at Felius are so kind and take amazing care of the cats. Great place to hang out with some adorable adoptable kitties.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2L6cBh13j4n8HKuabKeHESbaNzZes8zHfoXNEplzdGYcSPLDDXOGkulbzTljqGykx76KcYVCVWJP--YMgPTDVhbXWo_THQBHEDRLUb68AlvIewWKdXKciBk6JxmcQnM4uqp4FbdHxjPGOtSt9HtHczPc4_kLP4u4sHkQTMR27-BxkgnctboRr4EF64cqjBTgG_BxqAZncj5JNw94AC5aw-UTu5PjT-Mr2uhigKsztzVwLmEpKPi4yBuU0tS-g-09O0wQwPt-A0rtjeQ6pz5ctRT8NJxKFjDBsFuAMS4dOhJg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Lincoln": {
+    "city": "Lincoln",
+    "city_ascii": "Lincoln",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8099,
+    "lng": -96.6784,
+    "cafes": [
+      {
+        "name": "Rose Cat Coffee Company",
+        "address": "5600 S 48th St #120, Lincoln, NE 68516, USA",
+        "rating": 4.9,
+        "user_ratings_total": 36,
+        "website": "https://rosecatcoffee.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=5075674444107432365",
+        "lat": 40.756457999999995,
+        "lng": -96.65319579999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Danielle Wasielewski",
+            "rating": 5,
+            "text": {
+              "text": "This coffee shop is cute and the mission is so honorable! The breakfast sausage burrito is delicious and so are the lattes. I get a hot or iced latte (depending on the temp outside), skim milk, and either caramel, vanilla, or a seasonal flavored syrup. A yummy treat with a nice cause behind it. Meet a friend or come alone with a book (or peruse the shelves here). A local treasure!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "AnnaLiz T.",
+            "rating": 4,
+            "text": {
+              "text": "This place is hoppin today! Very fun drink combinations, delightful service, and sweet atmosphere with couches and comfy chairs and plenty of fun seating. A super neat place to sit and do a puzzle, read a book in a cozy nook, or meet a friend and catch up. I didn’t try the food but it looks good. If you download the app you get points and money off!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Christine Harvey",
+            "rating": 5,
+            "text": {
+              "text": "Very cute coffee shop with an incredible mission in Lincoln!  Great menu of coffee drinks including sweet specials and all the classics.  They have several bakery items in a display case, I didn't try but everything looked great.  The shop has plenty of seating in a mix of tables and adorable couches and the walls are covered in bookshelves.\nI visited on opening day and was still able to get a cup of coffee quickly despite the line of excited customers.  Amazing atmosphere and there's plenty of parking available!\n\nThe coffee shop is an inclusive place that offers meaningful and equitable employment for individuals with intellectuals and developmental disabilities.",
+              "languageCode": "en"
+            },
+            "time": "10 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ32bOr73_v2V1PXZ9pjgA1XYorYJktXDB9fJ3XSexe0tRDxn3My5h_TN7WbT6-KW6us7URLIMUKeCK_uipRFu4b9qep0JnMzlDBFQp4zhYnNgDa00ikgSV4pWBmjSLP5571yQbiSlaSoWyeO2z4phY1zRlnY8D1aOsJ9w6cf57t4j55iT0--c0syhfr7SIH_tXeqxARvzHlQHB2sgOYOrYutDTX9XSsFEbss7qPcSntI8A-WwbfQrGe_LxsL8dvrae3bmeMRaGUkrj_35VJufuJW-t8I3RgUxY1ez9ae7kBZU8hYV9skmy6h-zRgB5F1AsvGZf1ioo3SF940rpPo0CrcID8QJahAK32BJs7we7ywibHCAHp5Z9bnSVCt6Em-eqJL4PitcM-TbCREjA2hMqeXGDp2awOjDef&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Bellevue": {
+    "city": "Bellevue",
+    "city_ascii": "Bellevue",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1485,
+    "lng": -95.939,
+    "cafes": []
+  },
+  "Grand Island": {
+    "city": "Grand Island",
+    "city_ascii": "Grand Island",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9218,
+    "lng": -98.3586,
+    "cafes": []
+  },
+  "Kearney": {
+    "city": "Kearney",
+    "city_ascii": "Kearney",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7011,
+    "lng": -99.0833,
+    "cafes": []
+  },
+  "Fremont": {
+    "city": "Fremont",
+    "city_ascii": "Fremont",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4395,
+    "lng": -96.4873,
+    "cafes": []
+  },
+  "Norfolk": {
+    "city": "Norfolk",
+    "city_ascii": "Norfolk",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.0324,
+    "lng": -97.4217,
+    "cafes": []
+  },
+  "Hastings": {
+    "city": "Hastings",
+    "city_ascii": "Hastings",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5961,
+    "lng": -98.39,
+    "cafes": []
+  },
+  "Columbus": {
+    "city": "Columbus",
+    "city_ascii": "Columbus",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4366,
+    "lng": -97.3565,
+    "cafes": []
+  },
+  "Papillion": {
+    "city": "Papillion",
+    "city_ascii": "Papillion",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1511,
+    "lng": -96.0665,
+    "cafes": []
+  },
+  "North Platte": {
+    "city": "North Platte",
+    "city_ascii": "North Platte",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1263,
+    "lng": -100.7641,
+    "cafes": []
+  },
+  "La Vista": {
+    "city": "La Vista",
+    "city_ascii": "La Vista",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1816,
+    "lng": -96.0664,
+    "cafes": []
+  },
+  "Scottsbluff": {
+    "city": "Scottsbluff",
+    "city_ascii": "Scottsbluff",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8684,
+    "lng": -103.6616,
+    "cafes": []
+  },
+  "South Sioux City": {
+    "city": "South Sioux City",
+    "city_ascii": "South Sioux City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4627,
+    "lng": -96.4125,
+    "cafes": []
+  },
+  "Beatrice": {
+    "city": "Beatrice",
+    "city_ascii": "Beatrice",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2736,
+    "lng": -96.7455,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7779,
+    "lng": -99.7461,
+    "cafes": []
+  },
+  "Chalco": {
+    "city": "Chalco",
+    "city_ascii": "Chalco",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1817,
+    "lng": -96.1353,
+    "cafes": []
+  },
+  "Gretna": {
+    "city": "Gretna",
+    "city_ascii": "Gretna",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1314,
+    "lng": -96.245,
+    "cafes": []
+  },
+  "Gering": {
+    "city": "Gering",
+    "city_ascii": "Gering",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8275,
+    "lng": -103.6622,
+    "cafes": []
+  },
+  "York": {
+    "city": "York",
+    "city_ascii": "York",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8701,
+    "lng": -97.5928,
+    "cafes": []
+  },
+  "Alliance": {
+    "city": "Alliance",
+    "city_ascii": "Alliance",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.1025,
+    "lng": -102.8766,
+    "cafes": []
+  },
+  "Blair": {
+    "city": "Blair",
+    "city_ascii": "Blair",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5416,
+    "lng": -96.1359,
+    "cafes": []
+  },
+  "Seward": {
+    "city": "Seward",
+    "city_ascii": "Seward",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9099,
+    "lng": -97.0957,
+    "cafes": []
+  },
+  "Crete": {
+    "city": "Crete",
+    "city_ascii": "Crete",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6253,
+    "lng": -96.9575,
+    "cafes": []
+  },
+  "McCook": {
+    "city": "McCook",
+    "city_ascii": "McCook",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2046,
+    "lng": -100.6216,
+    "cafes": []
+  },
+  "Nebraska City": {
+    "city": "Nebraska City",
+    "city_ascii": "Nebraska City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6762,
+    "lng": -95.8613,
+    "cafes": []
+  },
+  "Plattsmouth": {
+    "city": "Plattsmouth",
+    "city_ascii": "Plattsmouth",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0054,
+    "lng": -95.894,
+    "cafes": []
+  },
+  "Schuyler": {
+    "city": "Schuyler",
+    "city_ascii": "Schuyler",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4497,
+    "lng": -97.062,
+    "cafes": []
+  },
+  "Ralston": {
+    "city": "Ralston",
+    "city_ascii": "Ralston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2005,
+    "lng": -96.0355,
+    "cafes": []
+  },
+  "Sidney": {
+    "city": "Sidney",
+    "city_ascii": "Sidney",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1341,
+    "lng": -102.9681,
+    "cafes": []
+  },
+  "Wayne": {
+    "city": "Wayne",
+    "city_ascii": "Wayne",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.2379,
+    "lng": -97.0101,
+    "cafes": []
+  },
+  "Offutt AFB": {
+    "city": "Offutt AFB",
+    "city_ascii": "Offutt AFB",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1207,
+    "lng": -95.9209,
+    "cafes": []
+  },
+  "Holdrege": {
+    "city": "Holdrege",
+    "city_ascii": "Holdrege",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4394,
+    "lng": -99.3773,
+    "cafes": []
+  },
+  "Chadron": {
+    "city": "Chadron",
+    "city_ascii": "Chadron",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.826,
+    "lng": -103.0025,
+    "cafes": []
+  },
+  "Wahoo": {
+    "city": "Wahoo",
+    "city_ascii": "Wahoo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2166,
+    "lng": -96.6172,
+    "cafes": []
+  },
+  "Ogallala": {
+    "city": "Ogallala",
+    "city_ascii": "Ogallala",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1292,
+    "lng": -101.7211,
+    "cafes": []
+  },
+  "Aurora": {
+    "city": "Aurora",
+    "city_ascii": "Aurora",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8645,
+    "lng": -98.0078,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9111,
+    "lng": -96.5341,
+    "cafes": []
+  },
+  "Falls City": {
+    "city": "Falls City",
+    "city_ascii": "Falls City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0623,
+    "lng": -95.5989,
+    "cafes": []
+  },
+  "Cozad": {
+    "city": "Cozad",
+    "city_ascii": "Cozad",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8613,
+    "lng": -99.9863,
+    "cafes": []
+  },
+  "Fairbury": {
+    "city": "Fairbury",
+    "city_ascii": "Fairbury",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1448,
+    "lng": -97.1764,
+    "cafes": []
+  },
+  "O'Neill": {
+    "city": "O'Neill",
+    "city_ascii": "O'Neill",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.461,
+    "lng": -98.6465,
+    "cafes": []
+  },
+  "Broken Bow": {
+    "city": "Broken Bow",
+    "city_ascii": "Broken Bow",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4051,
+    "lng": -99.6408,
+    "cafes": []
+  },
+  "West Point": {
+    "city": "West Point",
+    "city_ascii": "West Point",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8379,
+    "lng": -96.7057,
+    "cafes": []
+  },
+  "Auburn": {
+    "city": "Auburn",
+    "city_ascii": "Auburn",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3894,
+    "lng": -95.8436,
+    "cafes": []
+  },
+  "Gothenburg": {
+    "city": "Gothenburg",
+    "city_ascii": "Gothenburg",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9242,
+    "lng": -100.154,
+    "cafes": []
+  },
+  "Valley": {
+    "city": "Valley",
+    "city_ascii": "Valley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3148,
+    "lng": -96.3566,
+    "cafes": []
+  },
+  "Ashland": {
+    "city": "Ashland",
+    "city_ascii": "Ashland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0396,
+    "lng": -96.3723,
+    "cafes": []
+  },
+  "Central City": {
+    "city": "Central City",
+    "city_ascii": "Central City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1134,
+    "lng": -98.0008,
+    "cafes": []
+  },
+  "Minden": {
+    "city": "Minden",
+    "city_ascii": "Minden",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4981,
+    "lng": -98.9672,
+    "cafes": []
+  },
+  "David City": {
+    "city": "David City",
+    "city_ascii": "David City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2578,
+    "lng": -97.1282,
+    "cafes": []
+  },
+  "Dakota City": {
+    "city": "Dakota City",
+    "city_ascii": "Dakota City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4184,
+    "lng": -96.4201,
+    "cafes": []
+  },
+  "Hickman": {
+    "city": "Hickman",
+    "city_ascii": "Hickman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6248,
+    "lng": -96.6307,
+    "cafes": []
+  },
+  "Milford": {
+    "city": "Milford",
+    "city_ascii": "Milford",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7722,
+    "lng": -97.0535,
+    "cafes": []
+  },
+  "Valentine": {
+    "city": "Valentine",
+    "city_ascii": "Valentine",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8758,
+    "lng": -100.5466,
+    "cafes": []
+  },
+  "St. Paul": {
+    "city": "St. Paul",
+    "city_ascii": "St. Paul",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2138,
+    "lng": -98.4596,
+    "cafes": []
+  },
+  "Bennington": {
+    "city": "Bennington",
+    "city_ascii": "Bennington",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3682,
+    "lng": -96.1616,
+    "cafes": []
+  },
+  "Geneva": {
+    "city": "Geneva",
+    "city_ascii": "Geneva",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5308,
+    "lng": -97.5974,
+    "cafes": []
+  },
+  "Beaver Lake": {
+    "city": "Beaver Lake",
+    "city_ascii": "Beaver Lake",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.923,
+    "lng": -95.885,
+    "cafes": []
+  },
+  "Ord": {
+    "city": "Ord",
+    "city_ascii": "Ord",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5993,
+    "lng": -98.9166,
+    "cafes": []
+  },
+  "Imperial": {
+    "city": "Imperial",
+    "city_ascii": "Imperial",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5145,
+    "lng": -101.6374,
+    "cafes": []
+  },
+  "Wilber": {
+    "city": "Wilber",
+    "city_ascii": "Wilber",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.481,
+    "lng": -96.9645,
+    "cafes": []
+  },
+  "Kimball": {
+    "city": "Kimball",
+    "city_ascii": "Kimball",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2335,
+    "lng": -103.6513,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8283,
+    "lng": -97.4568,
+    "cafes": []
+  },
+  "Pierce": {
+    "city": "Pierce",
+    "city_ascii": "Pierce",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.199,
+    "lng": -97.5287,
+    "cafes": []
+  },
+  "Syracuse": {
+    "city": "Syracuse",
+    "city_ascii": "Syracuse",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6635,
+    "lng": -96.1827,
+    "cafes": []
+  },
+  "Tecumseh": {
+    "city": "Tecumseh",
+    "city_ascii": "Tecumseh",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3718,
+    "lng": -96.1888,
+    "cafes": []
+  },
+  "Superior": {
+    "city": "Superior",
+    "city_ascii": "Superior",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0217,
+    "lng": -98.0618,
+    "cafes": []
+  },
+  "Stanton": {
+    "city": "Stanton",
+    "city_ascii": "Stanton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.9471,
+    "lng": -97.2171,
+    "cafes": []
+  },
+  "Mitchell": {
+    "city": "Mitchell",
+    "city_ascii": "Mitchell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.9427,
+    "lng": -103.8098,
+    "cafes": []
+  },
+  "Hartington": {
+    "city": "Hartington",
+    "city_ascii": "Hartington",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6205,
+    "lng": -97.2672,
+    "cafes": []
+  },
+  "Albion": {
+    "city": "Albion",
+    "city_ascii": "Albion",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6873,
+    "lng": -97.9989,
+    "cafes": []
+  },
+  "Tekamah": {
+    "city": "Tekamah",
+    "city_ascii": "Tekamah",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.778,
+    "lng": -96.2247,
+    "cafes": []
+  },
+  "Woodland Park": {
+    "city": "Woodland Park",
+    "city_ascii": "Woodland Park",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.0542,
+    "lng": -97.3452,
+    "cafes": []
+  },
+  "Gordon": {
+    "city": "Gordon",
+    "city_ascii": "Gordon",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8064,
+    "lng": -102.204,
+    "cafes": []
+  },
+  "Gibbon": {
+    "city": "Gibbon",
+    "city_ascii": "Gibbon",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7461,
+    "lng": -98.8458,
+    "cafes": []
+  },
+  "Hebron": {
+    "city": "Hebron",
+    "city_ascii": "Hebron",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1685,
+    "lng": -97.5866,
+    "cafes": []
+  },
+  "Neligh": {
+    "city": "Neligh",
+    "city_ascii": "Neligh",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.1291,
+    "lng": -98.03,
+    "cafes": []
+  },
+  "Ainsworth": {
+    "city": "Ainsworth",
+    "city_ascii": "Ainsworth",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5485,
+    "lng": -99.8576,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0854,
+    "lng": -96.1333,
+    "cafes": []
+  },
+  "Oakland": {
+    "city": "Oakland",
+    "city_ascii": "Oakland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8356,
+    "lng": -96.4669,
+    "cafes": []
+  },
+  "Yutan": {
+    "city": "Yutan",
+    "city_ascii": "Yutan",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2431,
+    "lng": -96.3959,
+    "cafes": []
+  },
+  "Bayard": {
+    "city": "Bayard",
+    "city_ascii": "Bayard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7572,
+    "lng": -103.323,
+    "cafes": []
+  },
+  "Battle Creek": {
+    "city": "Battle Creek",
+    "city_ascii": "Battle Creek",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.9981,
+    "lng": -97.5994,
+    "cafes": []
+  },
+  "Fullerton": {
+    "city": "Fullerton",
+    "city_ascii": "Fullerton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3647,
+    "lng": -97.9726,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4548,
+    "lng": -96.3565,
+    "cafes": []
+  },
+  "Wisner": {
+    "city": "Wisner",
+    "city_ascii": "Wisner",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.9891,
+    "lng": -96.9147,
+    "cafes": []
+  },
+  "Atkinson": {
+    "city": "Atkinson",
+    "city_ascii": "Atkinson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5309,
+    "lng": -98.9747,
+    "cafes": []
+  },
+  "Wood River": {
+    "city": "Wood River",
+    "city_ascii": "Wood River",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8196,
+    "lng": -98.6041,
+    "cafes": []
+  },
+  "Bridgeport": {
+    "city": "Bridgeport",
+    "city_ascii": "Bridgeport",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6639,
+    "lng": -103.0962,
+    "cafes": []
+  },
+  "Louisville": {
+    "city": "Louisville",
+    "city_ascii": "Louisville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9964,
+    "lng": -96.1612,
+    "cafes": []
+  },
+  "Grant": {
+    "city": "Grant",
+    "city_ascii": "Grant",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8446,
+    "lng": -101.7256,
+    "cafes": []
+  },
+  "Buccaneer Bay": {
+    "city": "Buccaneer Bay",
+    "city_ascii": "Buccaneer Bay",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0501,
+    "lng": -95.9674,
+    "cafes": []
+  },
+  "Ceresco": {
+    "city": "Ceresco",
+    "city_ascii": "Ceresco",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.058,
+    "lng": -96.6459,
+    "cafes": []
+  },
+  "Shelton": {
+    "city": "Shelton",
+    "city_ascii": "Shelton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7784,
+    "lng": -98.7294,
+    "cafes": []
+  },
+  "Ravenna": {
+    "city": "Ravenna",
+    "city_ascii": "Ravenna",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0275,
+    "lng": -98.8945,
+    "cafes": []
+  },
+  "Sutton": {
+    "city": "Sutton",
+    "city_ascii": "Sutton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6072,
+    "lng": -97.8589,
+    "cafes": []
+  },
+  "Wakefield": {
+    "city": "Wakefield",
+    "city_ascii": "Wakefield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.2665,
+    "lng": -96.8632,
+    "cafes": []
+  },
+  "Wymore": {
+    "city": "Wymore",
+    "city_ascii": "Wymore",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1221,
+    "lng": -96.6642,
+    "cafes": []
+  },
+  "Pender": {
+    "city": "Pender",
+    "city_ascii": "Pender",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.1108,
+    "lng": -96.7113,
+    "cafes": []
+  },
+  "Fort Calhoun": {
+    "city": "Fort Calhoun",
+    "city_ascii": "Fort Calhoun",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4563,
+    "lng": -96.0264,
+    "cafes": []
+  },
+  "Weeping Water": {
+    "city": "Weeping Water",
+    "city_ascii": "Weeping Water",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8691,
+    "lng": -96.1399,
+    "cafes": []
+  },
+  "Plainview": {
+    "city": "Plainview",
+    "city_ascii": "Plainview",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3534,
+    "lng": -97.7871,
+    "cafes": []
+  },
+  "North Bend": {
+    "city": "North Bend",
+    "city_ascii": "North Bend",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.462,
+    "lng": -96.7857,
+    "cafes": []
+  },
+  "Sutherland": {
+    "city": "Sutherland",
+    "city_ascii": "Sutherland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1601,
+    "lng": -101.1229,
+    "cafes": []
+  },
+  "Creighton": {
+    "city": "Creighton",
+    "city_ascii": "Creighton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4649,
+    "lng": -97.9071,
+    "cafes": []
+  },
+  "Alma": {
+    "city": "Alma",
+    "city_ascii": "Alma",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1036,
+    "lng": -99.3657,
+    "cafes": []
+  },
+  "Bennet": {
+    "city": "Bennet",
+    "city_ascii": "Bennet",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6818,
+    "lng": -96.5039,
+    "cafes": []
+  },
+  "Elm Creek": {
+    "city": "Elm Creek",
+    "city_ascii": "Elm Creek",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7201,
+    "lng": -99.3755,
+    "cafes": []
+  },
+  "Cairo": {
+    "city": "Cairo",
+    "city_ascii": "Cairo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0046,
+    "lng": -98.6007,
+    "cafes": []
+  },
+  "Utica": {
+    "city": "Utica",
+    "city_ascii": "Utica",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8953,
+    "lng": -97.3455,
+    "cafes": []
+  },
+  "Eagle": {
+    "city": "Eagle",
+    "city_ascii": "Eagle",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8161,
+    "lng": -96.4329,
+    "cafes": []
+  },
+  "Friend": {
+    "city": "Friend",
+    "city_ascii": "Friend",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6505,
+    "lng": -97.2838,
+    "cafes": []
+  },
+  "Hooper": {
+    "city": "Hooper",
+    "city_ascii": "Hooper",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6116,
+    "lng": -96.5487,
+    "cafes": []
+  },
+  "Cambridge": {
+    "city": "Cambridge",
+    "city_ascii": "Cambridge",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2843,
+    "lng": -100.1653,
+    "cafes": []
+  },
+  "Burwell": {
+    "city": "Burwell",
+    "city_ascii": "Burwell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7801,
+    "lng": -99.1342,
+    "cafes": []
+  },
+  "Arapahoe": {
+    "city": "Arapahoe",
+    "city_ascii": "Arapahoe",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3052,
+    "lng": -99.898,
+    "cafes": []
+  },
+  "Stromsburg": {
+    "city": "Stromsburg",
+    "city_ascii": "Stromsburg",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1159,
+    "lng": -97.5912,
+    "cafes": []
+  },
+  "Harvard": {
+    "city": "Harvard",
+    "city_ascii": "Harvard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6201,
+    "lng": -98.0961,
+    "cafes": []
+  },
+  "Red Cloud": {
+    "city": "Red Cloud",
+    "city_ascii": "Red Cloud",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0864,
+    "lng": -98.5222,
+    "cafes": []
+  },
+  "Loup City": {
+    "city": "Loup City",
+    "city_ascii": "Loup City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2766,
+    "lng": -98.9677,
+    "cafes": []
+  },
+  "Tilden": {
+    "city": "Tilden",
+    "city_ascii": "Tilden",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.0435,
+    "lng": -97.8318,
+    "cafes": []
+  },
+  "Crawford": {
+    "city": "Crawford",
+    "city_ascii": "Crawford",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6845,
+    "lng": -103.416,
+    "cafes": []
+  },
+  "Waterloo": {
+    "city": "Waterloo",
+    "city_ascii": "Waterloo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2856,
+    "lng": -96.285,
+    "cafes": []
+  },
+  "Laurel": {
+    "city": "Laurel",
+    "city_ascii": "Laurel",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4301,
+    "lng": -97.0986,
+    "cafes": []
+  },
+  "Benkelman": {
+    "city": "Benkelman",
+    "city_ascii": "Benkelman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0468,
+    "lng": -101.5402,
+    "cafes": []
+  },
+  "Newman Grove": {
+    "city": "Newman Grove",
+    "city_ascii": "Newman Grove",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7469,
+    "lng": -97.7767,
+    "cafes": []
+  },
+  "Pawnee City": {
+    "city": "Pawnee City",
+    "city_ascii": "Pawnee City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1106,
+    "lng": -96.153,
+    "cafes": []
+  },
+  "Crofton": {
+    "city": "Crofton",
+    "city_ascii": "Crofton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.7315,
+    "lng": -97.4986,
+    "cafes": []
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.78,
+    "lng": -97.8117,
+    "cafes": []
+  },
+  "Emerson": {
+    "city": "Emerson",
+    "city_ascii": "Emerson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.2783,
+    "lng": -96.7263,
+    "cafes": []
+  },
+  "Doniphan": {
+    "city": "Doniphan",
+    "city_ascii": "Doniphan",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7742,
+    "lng": -98.3708,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0966,
+    "lng": -98.9514,
+    "cafes": []
+  },
+  "Randolph": {
+    "city": "Randolph",
+    "city_ascii": "Randolph",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3775,
+    "lng": -97.3578,
+    "cafes": []
+  },
+  "Rushville": {
+    "city": "Rushville",
+    "city_ascii": "Rushville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.7134,
+    "lng": -102.4665,
+    "cafes": []
+  },
+  "Walthill": {
+    "city": "Walthill",
+    "city_ascii": "Walthill",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.1489,
+    "lng": -96.4929,
+    "cafes": []
+  },
+  "Arnold": {
+    "city": "Arnold",
+    "city_ascii": "Arnold",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4231,
+    "lng": -100.1936,
+    "cafes": []
+  },
+  "Bloomfield": {
+    "city": "Bloomfield",
+    "city_ascii": "Bloomfield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5984,
+    "lng": -97.6481,
+    "cafes": []
+  },
+  "Osceola": {
+    "city": "Osceola",
+    "city_ascii": "Osceola",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1781,
+    "lng": -97.5498,
+    "cafes": []
+  },
+  "Morrill": {
+    "city": "Morrill",
+    "city_ascii": "Morrill",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.964,
+    "lng": -103.9249,
+    "cafes": []
+  },
+  "Winnebago": {
+    "city": "Winnebago",
+    "city_ascii": "Winnebago",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.2383,
+    "lng": -96.4716,
+    "cafes": []
+  },
+  "Kenesaw": {
+    "city": "Kenesaw",
+    "city_ascii": "Kenesaw",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6189,
+    "lng": -98.6576,
+    "cafes": []
+  },
+  "Chappell": {
+    "city": "Chappell",
+    "city_ascii": "Chappell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0913,
+    "lng": -102.47,
+    "cafes": []
+  },
+  "Macy": {
+    "city": "Macy",
+    "city_ascii": "Macy",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.1159,
+    "lng": -96.3667,
+    "cafes": []
+  },
+  "Blue Hill": {
+    "city": "Blue Hill",
+    "city_ascii": "Blue Hill",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3328,
+    "lng": -98.4483,
+    "cafes": []
+  },
+  "Genoa": {
+    "city": "Genoa",
+    "city_ascii": "Genoa",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4462,
+    "lng": -97.7322,
+    "cafes": []
+  },
+  "Humboldt": {
+    "city": "Humboldt",
+    "city_ascii": "Humboldt",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1658,
+    "lng": -95.9443,
+    "cafes": []
+  },
+  "Oshkosh": {
+    "city": "Oshkosh",
+    "city_ascii": "Oshkosh",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.408,
+    "lng": -102.3452,
+    "cafes": []
+  },
+  "Deshler": {
+    "city": "Deshler",
+    "city_ascii": "Deshler",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1396,
+    "lng": -97.7233,
+    "cafes": []
+  },
+  "Beemer": {
+    "city": "Beemer",
+    "city_ascii": "Beemer",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.9298,
+    "lng": -96.8091,
+    "cafes": []
+  },
+  "Elmwood": {
+    "city": "Elmwood",
+    "city_ascii": "Elmwood",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8426,
+    "lng": -96.2947,
+    "cafes": []
+  },
+  "Boys Town": {
+    "city": "Boys Town",
+    "city_ascii": "Boys Town",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2558,
+    "lng": -96.1292,
+    "cafes": []
+  },
+  "Curtis": {
+    "city": "Curtis",
+    "city_ascii": "Curtis",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6336,
+    "lng": -100.5112,
+    "cafes": []
+  },
+  "Cedar Bluffs": {
+    "city": "Cedar Bluffs",
+    "city_ascii": "Cedar Bluffs",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3972,
+    "lng": -96.6097,
+    "cafes": []
+  },
+  "Lyons": {
+    "city": "Lyons",
+    "city_ascii": "Lyons",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.936,
+    "lng": -96.4717,
+    "cafes": []
+  },
+  "Clay Center": {
+    "city": "Clay Center",
+    "city_ascii": "Clay Center",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5256,
+    "lng": -98.055,
+    "cafes": []
+  },
+  "Axtell": {
+    "city": "Axtell",
+    "city_ascii": "Axtell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4798,
+    "lng": -99.1292,
+    "cafes": []
+  },
+  "Hemingford": {
+    "city": "Hemingford",
+    "city_ascii": "Hemingford",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3214,
+    "lng": -103.0754,
+    "cafes": []
+  },
+  "McCool Junction": {
+    "city": "McCool Junction",
+    "city_ascii": "McCool Junction",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.744,
+    "lng": -97.6007,
+    "cafes": []
+  },
+  "Scribner": {
+    "city": "Scribner",
+    "city_ascii": "Scribner",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6651,
+    "lng": -96.6653,
+    "cafes": []
+  },
+  "Minatare": {
+    "city": "Minatare",
+    "city_ascii": "Minatare",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8111,
+    "lng": -103.5017,
+    "cafes": []
+  },
+  "Terrytown": {
+    "city": "Terrytown",
+    "city_ascii": "Terrytown",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8465,
+    "lng": -103.6706,
+    "cafes": []
+  },
+  "Oxford": {
+    "city": "Oxford",
+    "city_ascii": "Oxford",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.253,
+    "lng": -99.6323,
+    "cafes": []
+  },
+  "Shelby": {
+    "city": "Shelby",
+    "city_ascii": "Shelby",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.194,
+    "lng": -97.426,
+    "cafes": []
+  },
+  "Ponca": {
+    "city": "Ponca",
+    "city_ascii": "Ponca",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5649,
+    "lng": -96.7092,
+    "cafes": []
+  },
+  "Humphrey": {
+    "city": "Humphrey",
+    "city_ascii": "Humphrey",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6884,
+    "lng": -97.4852,
+    "cafes": []
+  },
+  "Peru": {
+    "city": "Peru",
+    "city_ascii": "Peru",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4786,
+    "lng": -95.7313,
+    "cafes": []
+  },
+  "Sterling": {
+    "city": "Sterling",
+    "city_ascii": "Sterling",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4612,
+    "lng": -96.3776,
+    "cafes": []
+  },
+  "Juniata": {
+    "city": "Juniata",
+    "city_ascii": "Juniata",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5903,
+    "lng": -98.5069,
+    "cafes": []
+  },
+  "Bertrand": {
+    "city": "Bertrand",
+    "city_ascii": "Bertrand",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5263,
+    "lng": -99.6324,
+    "cafes": []
+  },
+  "Osmond": {
+    "city": "Osmond",
+    "city_ascii": "Osmond",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3583,
+    "lng": -97.599,
+    "cafes": []
+  },
+  "Overton": {
+    "city": "Overton",
+    "city_ascii": "Overton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7405,
+    "lng": -99.5374,
+    "cafes": []
+  },
+  "Hershey": {
+    "city": "Hershey",
+    "city_ascii": "Hershey",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1602,
+    "lng": -100.9985,
+    "cafes": []
+  },
+  "Glenwood": {
+    "city": "Glenwood",
+    "city_ascii": "Glenwood",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7555,
+    "lng": -99.081,
+    "cafes": []
+  },
+  "Hay Springs": {
+    "city": "Hay Springs",
+    "city_ascii": "Hay Springs",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6833,
+    "lng": -102.6897,
+    "cafes": []
+  },
+  "Duncan": {
+    "city": "Duncan",
+    "city_ascii": "Duncan",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3904,
+    "lng": -97.4928,
+    "cafes": []
+  },
+  "Paxton": {
+    "city": "Paxton",
+    "city_ascii": "Paxton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1235,
+    "lng": -101.3522,
+    "cafes": []
+  },
+  "Palmyra": {
+    "city": "Palmyra",
+    "city_ascii": "Palmyra",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7057,
+    "lng": -96.3922,
+    "cafes": []
+  },
+  "Culbertson": {
+    "city": "Culbertson",
+    "city_ascii": "Culbertson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2284,
+    "lng": -100.8351,
+    "cafes": []
+  },
+  "Cortland": {
+    "city": "Cortland",
+    "city_ascii": "Cortland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5059,
+    "lng": -96.7063,
+    "cafes": []
+  },
+  "Walton": {
+    "city": "Walton",
+    "city_ascii": "Walton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.796,
+    "lng": -96.5658,
+    "cafes": []
+  },
+  "Bassett": {
+    "city": "Bassett",
+    "city_ascii": "Bassett",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5826,
+    "lng": -99.5367,
+    "cafes": []
+  },
+  "Dorchester": {
+    "city": "Dorchester",
+    "city_ascii": "Dorchester",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6477,
+    "lng": -97.1153,
+    "cafes": []
+  },
+  "Elgin": {
+    "city": "Elgin",
+    "city_ascii": "Elgin",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.9831,
+    "lng": -98.0828,
+    "cafes": []
+  },
+  "Clarkson": {
+    "city": "Clarkson",
+    "city_ascii": "Clarkson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7234,
+    "lng": -97.1215,
+    "cafes": []
+  },
+  "Callaway": {
+    "city": "Callaway",
+    "city_ascii": "Callaway",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2915,
+    "lng": -99.9203,
+    "cafes": []
+  },
+  "Ansley": {
+    "city": "Ansley",
+    "city_ascii": "Ansley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2863,
+    "lng": -99.3825,
+    "cafes": []
+  },
+  "Howells": {
+    "city": "Howells",
+    "city_ascii": "Howells",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7241,
+    "lng": -97.0043,
+    "cafes": []
+  },
+  "Mead": {
+    "city": "Mead",
+    "city_ascii": "Mead",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2138,
+    "lng": -96.4825,
+    "cafes": []
+  },
+  "Edgar": {
+    "city": "Edgar",
+    "city_ascii": "Edgar",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3683,
+    "lng": -97.971,
+    "cafes": []
+  },
+  "Bancroft": {
+    "city": "Bancroft",
+    "city_ascii": "Bancroft",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.0104,
+    "lng": -96.5733,
+    "cafes": []
+  },
+  "Wausa": {
+    "city": "Wausa",
+    "city_ascii": "Wausa",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4978,
+    "lng": -97.5393,
+    "cafes": []
+  },
+  "St. Edward": {
+    "city": "St. Edward",
+    "city_ascii": "St. Edward",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5716,
+    "lng": -97.8612,
+    "cafes": []
+  },
+  "Alda": {
+    "city": "Alda",
+    "city_ascii": "Alda",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8666,
+    "lng": -98.468,
+    "cafes": []
+  },
+  "Fairmont": {
+    "city": "Fairmont",
+    "city_ascii": "Fairmont",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6343,
+    "lng": -97.5991,
+    "cafes": []
+  },
+  "Verdigre": {
+    "city": "Verdigre",
+    "city_ascii": "Verdigre",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5974,
+    "lng": -98.0353,
+    "cafes": []
+  },
+  "Inglewood": {
+    "city": "Inglewood",
+    "city_ascii": "Inglewood",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.416,
+    "lng": -96.5025,
+    "cafes": []
+  },
+  "Nickerson": {
+    "city": "Nickerson",
+    "city_ascii": "Nickerson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5349,
+    "lng": -96.4707,
+    "cafes": []
+  },
+  "Pleasanton": {
+    "city": "Pleasanton",
+    "city_ascii": "Pleasanton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9698,
+    "lng": -99.0876,
+    "cafes": []
+  },
+  "Valparaiso": {
+    "city": "Valparaiso",
+    "city_ascii": "Valparaiso",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0798,
+    "lng": -96.833,
+    "cafes": []
+  },
+  "Stuart": {
+    "city": "Stuart",
+    "city_ascii": "Stuart",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6008,
+    "lng": -99.1405,
+    "cafes": []
+  },
+  "Decatur": {
+    "city": "Decatur",
+    "city_ascii": "Decatur",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.0058,
+    "lng": -96.2497,
+    "cafes": []
+  },
+  "Elwood": {
+    "city": "Elwood",
+    "city_ascii": "Elwood",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5897,
+    "lng": -99.8616,
+    "cafes": []
+  },
+  "Coleridge": {
+    "city": "Coleridge",
+    "city_ascii": "Coleridge",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5065,
+    "lng": -97.2029,
+    "cafes": []
+  },
+  "Winside": {
+    "city": "Winside",
+    "city_ascii": "Winside",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.1773,
+    "lng": -97.1751,
+    "cafes": []
+  },
+  "Firth": {
+    "city": "Firth",
+    "city_ascii": "Firth",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.536,
+    "lng": -96.6046,
+    "cafes": []
+  },
+  "Wauneta": {
+    "city": "Wauneta",
+    "city_ascii": "Wauneta",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4164,
+    "lng": -101.3766,
+    "cafes": []
+  },
+  "Adams": {
+    "city": "Adams",
+    "city_ascii": "Adams",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4572,
+    "lng": -96.5129,
+    "cafes": []
+  },
+  "Greenwood": {
+    "city": "Greenwood",
+    "city_ascii": "Greenwood",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9614,
+    "lng": -96.4433,
+    "cafes": []
+  },
+  "Exeter": {
+    "city": "Exeter",
+    "city_ascii": "Exeter",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6445,
+    "lng": -97.4489,
+    "cafes": []
+  },
+  "Beaver City": {
+    "city": "Beaver City",
+    "city_ascii": "Beaver City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1383,
+    "lng": -99.8276,
+    "cafes": []
+  },
+  "Hampton": {
+    "city": "Hampton",
+    "city_ascii": "Hampton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8812,
+    "lng": -97.8876,
+    "cafes": []
+  },
+  "Giltner": {
+    "city": "Giltner",
+    "city_ascii": "Giltner",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7749,
+    "lng": -98.1535,
+    "cafes": []
+  },
+  "Cedar Rapids": {
+    "city": "Cedar Rapids",
+    "city_ascii": "Cedar Rapids",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5589,
+    "lng": -98.1493,
+    "cafes": []
+  },
+  "Big Springs": {
+    "city": "Big Springs",
+    "city_ascii": "Big Springs",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0609,
+    "lng": -102.0745,
+    "cafes": []
+  },
+  "Nelson": {
+    "city": "Nelson",
+    "city_ascii": "Nelson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2012,
+    "lng": -98.0687,
+    "cafes": []
+  },
+  "Dalton": {
+    "city": "Dalton",
+    "city_ascii": "Dalton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4083,
+    "lng": -102.9708,
+    "cafes": []
+  },
+  "Trenton": {
+    "city": "Trenton",
+    "city_ascii": "Trenton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1747,
+    "lng": -101.0136,
+    "cafes": []
+  },
+  "Indianola": {
+    "city": "Indianola",
+    "city_ascii": "Indianola",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2346,
+    "lng": -100.4198,
+    "cafes": []
+  },
+  "Bellwood": {
+    "city": "Bellwood",
+    "city_ascii": "Bellwood",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3418,
+    "lng": -97.2398,
+    "cafes": []
+  },
+  "Brady": {
+    "city": "Brady",
+    "city_ascii": "Brady",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0223,
+    "lng": -100.3676,
+    "cafes": []
+  },
+  "Leigh": {
+    "city": "Leigh",
+    "city_ascii": "Leigh",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7023,
+    "lng": -97.2398,
+    "cafes": []
+  },
+  "Murray": {
+    "city": "Murray",
+    "city_ascii": "Murray",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9163,
+    "lng": -95.9267,
+    "cafes": []
+  },
+  "Dodge": {
+    "city": "Dodge",
+    "city_ascii": "Dodge",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7218,
+    "lng": -96.8804,
+    "cafes": []
+  },
+  "Allen": {
+    "city": "Allen",
+    "city_ascii": "Allen",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4144,
+    "lng": -96.8431,
+    "cafes": []
+  },
+  "Palmer": {
+    "city": "Palmer",
+    "city_ascii": "Palmer",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2224,
+    "lng": -98.2599,
+    "cafes": []
+  },
+  "Lakeview": {
+    "city": "Lakeview",
+    "city_ascii": "Lakeview",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4998,
+    "lng": -97.3775,
+    "cafes": []
+  },
+  "Hildreth": {
+    "city": "Hildreth",
+    "city_ascii": "Hildreth",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3378,
+    "lng": -99.0458,
+    "cafes": []
+  },
+  "Greeley Center": {
+    "city": "Greeley Center",
+    "city_ascii": "Greeley Center",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5483,
+    "lng": -98.5305,
+    "cafes": []
+  },
+  "Malcolm": {
+    "city": "Malcolm",
+    "city_ascii": "Malcolm",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.909,
+    "lng": -96.8658,
+    "cafes": []
+  },
+  "Eustis": {
+    "city": "Eustis",
+    "city_ascii": "Eustis",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6645,
+    "lng": -100.0296,
+    "cafes": []
+  },
+  "De Witt": {
+    "city": "De Witt",
+    "city_ascii": "De Witt",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3953,
+    "lng": -96.9221,
+    "cafes": []
+  },
+  "Sargent": {
+    "city": "Sargent",
+    "city_ascii": "Sargent",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6399,
+    "lng": -99.3688,
+    "cafes": []
+  },
+  "Petersburg": {
+    "city": "Petersburg",
+    "city_ascii": "Petersburg",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8536,
+    "lng": -98.0811,
+    "cafes": []
+  },
+  "Mullen": {
+    "city": "Mullen",
+    "city_ascii": "Mullen",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.0427,
+    "lng": -101.0446,
+    "cafes": []
+  },
+  "Chambers": {
+    "city": "Chambers",
+    "city_ascii": "Chambers",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.2047,
+    "lng": -98.7486,
+    "cafes": []
+  },
+  "Cedar Creek": {
+    "city": "Cedar Creek",
+    "city_ascii": "Cedar Creek",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0451,
+    "lng": -96.1016,
+    "cafes": []
+  },
+  "Scotia": {
+    "city": "Scotia",
+    "city_ascii": "Scotia",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4678,
+    "lng": -98.7024,
+    "cafes": []
+  },
+  "Bartley": {
+    "city": "Bartley",
+    "city_ascii": "Bartley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2511,
+    "lng": -100.3105,
+    "cafes": []
+  },
+  "Homer": {
+    "city": "Homer",
+    "city_ascii": "Homer",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3225,
+    "lng": -96.4912,
+    "cafes": []
+  },
+  "Kennard": {
+    "city": "Kennard",
+    "city_ascii": "Kennard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4747,
+    "lng": -96.2037,
+    "cafes": []
+  },
+  "Spalding": {
+    "city": "Spalding",
+    "city_ascii": "Spalding",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6892,
+    "lng": -98.3626,
+    "cafes": []
+  },
+  "Ewing": {
+    "city": "Ewing",
+    "city_ascii": "Ewing",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.2594,
+    "lng": -98.3438,
+    "cafes": []
+  },
+  "Merna": {
+    "city": "Merna",
+    "city_ascii": "Merna",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4852,
+    "lng": -99.7611,
+    "cafes": []
+  },
+  "Sumner": {
+    "city": "Sumner",
+    "city_ascii": "Sumner",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.949,
+    "lng": -99.5081,
+    "cafes": []
+  },
+  "Bradshaw": {
+    "city": "Bradshaw",
+    "city_ascii": "Bradshaw",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8835,
+    "lng": -97.7468,
+    "cafes": []
+  },
+  "Phillips": {
+    "city": "Phillips",
+    "city_ascii": "Phillips",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8977,
+    "lng": -98.2142,
+    "cafes": []
+  },
+  "Shickley": {
+    "city": "Shickley",
+    "city_ascii": "Shickley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4165,
+    "lng": -97.7241,
+    "cafes": []
+  },
+  "Plymouth": {
+    "city": "Plymouth",
+    "city_ascii": "Plymouth",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3024,
+    "lng": -96.9886,
+    "cafes": []
+  },
+  "Lyman": {
+    "city": "Lyman",
+    "city_ascii": "Lyman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.9177,
+    "lng": -104.0373,
+    "cafes": []
+  },
+  "Prague": {
+    "city": "Prague",
+    "city_ascii": "Prague",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3094,
+    "lng": -96.8082,
+    "cafes": []
+  },
+  "Niobrara": {
+    "city": "Niobrara",
+    "city_ascii": "Niobrara",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.7499,
+    "lng": -98.0317,
+    "cafes": []
+  },
+  "Cook": {
+    "city": "Cook",
+    "city_ascii": "Cook",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5105,
+    "lng": -96.1619,
+    "cafes": []
+  },
+  "Butte": {
+    "city": "Butte",
+    "city_ascii": "Butte",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.9125,
+    "lng": -98.8479,
+    "cafes": []
+  },
+  "Glenvil": {
+    "city": "Glenvil",
+    "city_ascii": "Glenvil",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5025,
+    "lng": -98.2545,
+    "cafes": []
+  },
+  "Herman": {
+    "city": "Herman",
+    "city_ascii": "Herman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6739,
+    "lng": -96.2167,
+    "cafes": []
+  },
+  "Oakdale": {
+    "city": "Oakdale",
+    "city_ascii": "Oakdale",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.0701,
+    "lng": -97.9671,
+    "cafes": []
+  },
+  "Stapleton": {
+    "city": "Stapleton",
+    "city_ascii": "Stapleton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4802,
+    "lng": -100.5125,
+    "cafes": []
+  },
+  "Long Pine": {
+    "city": "Long Pine",
+    "city_ascii": "Long Pine",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5353,
+    "lng": -99.7027,
+    "cafes": []
+  },
+  "Arcadia": {
+    "city": "Arcadia",
+    "city_ascii": "Arcadia",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4249,
+    "lng": -99.1261,
+    "cafes": []
+  },
+  "Orchard": {
+    "city": "Orchard",
+    "city_ascii": "Orchard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3368,
+    "lng": -98.2411,
+    "cafes": []
+  },
+  "Snyder": {
+    "city": "Snyder",
+    "city_ascii": "Snyder",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7045,
+    "lng": -96.7869,
+    "cafes": []
+  },
+  "Silver Creek": {
+    "city": "Silver Creek",
+    "city_ascii": "Silver Creek",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3152,
+    "lng": -97.6652,
+    "cafes": []
+  },
+  "Loomis": {
+    "city": "Loomis",
+    "city_ascii": "Loomis",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4783,
+    "lng": -99.5075,
+    "cafes": []
+  },
+  "Unadilla": {
+    "city": "Unadilla",
+    "city_ascii": "Unadilla",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6826,
+    "lng": -96.2699,
+    "cafes": []
+  },
+  "Fairfield": {
+    "city": "Fairfield",
+    "city_ascii": "Fairfield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4323,
+    "lng": -98.1033,
+    "cafes": []
+  },
+  "Stratton": {
+    "city": "Stratton",
+    "city_ascii": "Stratton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1503,
+    "lng": -101.228,
+    "cafes": []
+  },
+  "Clarks": {
+    "city": "Clarks",
+    "city_ascii": "Clarks",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2163,
+    "lng": -97.8394,
+    "cafes": []
+  },
+  "Orleans": {
+    "city": "Orleans",
+    "city_ascii": "Orleans",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1317,
+    "lng": -99.4551,
+    "cafes": []
+  },
+  "Wilcox": {
+    "city": "Wilcox",
+    "city_ascii": "Wilcox",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3644,
+    "lng": -99.1693,
+    "cafes": []
+  },
+  "Polk": {
+    "city": "Polk",
+    "city_ascii": "Polk",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0755,
+    "lng": -97.7834,
+    "cafes": []
+  },
+  "Benedict": {
+    "city": "Benedict",
+    "city_ascii": "Benedict",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0063,
+    "lng": -97.6072,
+    "cafes": []
+  },
+  "Newcastle": {
+    "city": "Newcastle",
+    "city_ascii": "Newcastle",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6524,
+    "lng": -96.874,
+    "cafes": []
+  },
+  "Platte Center": {
+    "city": "Platte Center",
+    "city_ascii": "Platte Center",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5374,
+    "lng": -97.4886,
+    "cafes": []
+  },
+  "Table Rock": {
+    "city": "Table Rock",
+    "city_ascii": "Table Rock",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1783,
+    "lng": -96.0887,
+    "cafes": []
+  },
+  "Chapman": {
+    "city": "Chapman",
+    "city_ascii": "Chapman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0233,
+    "lng": -98.1593,
+    "cafes": []
+  },
+  "Beaver Crossing": {
+    "city": "Beaver Crossing",
+    "city_ascii": "Beaver Crossing",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7782,
+    "lng": -97.2825,
+    "cafes": []
+  },
+  "Palisade": {
+    "city": "Palisade",
+    "city_ascii": "Palisade",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3483,
+    "lng": -101.1075,
+    "cafes": []
+  },
+  "Hadar": {
+    "city": "Hadar",
+    "city_ascii": "Hadar",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.1072,
+    "lng": -97.451,
+    "cafes": []
+  },
+  "Clatonia": {
+    "city": "Clatonia",
+    "city_ascii": "Clatonia",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4654,
+    "lng": -96.8512,
+    "cafes": []
+  },
+  "Johnson": {
+    "city": "Johnson",
+    "city_ascii": "Johnson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4106,
+    "lng": -95.9996,
+    "cafes": []
+  },
+  "St. Libory": {
+    "city": "St. Libory",
+    "city_ascii": "St. Libory",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0822,
+    "lng": -98.359,
+    "cafes": []
+  },
+  "Davenport": {
+    "city": "Davenport",
+    "city_ascii": "Davenport",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3123,
+    "lng": -97.8115,
+    "cafes": []
+  },
+  "Spencer": {
+    "city": "Spencer",
+    "city_ascii": "Spencer",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8753,
+    "lng": -98.7003,
+    "cafes": []
+  },
+  "Lindsay": {
+    "city": "Lindsay",
+    "city_ascii": "Lindsay",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6991,
+    "lng": -97.6939,
+    "cafes": []
+  },
+  "Guide Rock": {
+    "city": "Guide Rock",
+    "city_ascii": "Guide Rock",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0737,
+    "lng": -98.3288,
+    "cafes": []
+  },
+  "Staplehurst": {
+    "city": "Staplehurst",
+    "city_ascii": "Staplehurst",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9747,
+    "lng": -97.1732,
+    "cafes": []
+  },
+  "Hallam": {
+    "city": "Hallam",
+    "city_ascii": "Hallam",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5364,
+    "lng": -96.7869,
+    "cafes": []
+  },
+  "Riverdale": {
+    "city": "Riverdale",
+    "city_ascii": "Riverdale",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7839,
+    "lng": -99.1604,
+    "cafes": []
+  },
+  "Carroll": {
+    "city": "Carroll",
+    "city_ascii": "Carroll",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.2758,
+    "lng": -97.1908,
+    "cafes": []
+  },
+  "Pilger": {
+    "city": "Pilger",
+    "city_ascii": "Pilger",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.0078,
+    "lng": -97.0546,
+    "cafes": []
+  },
+  "Litchfield": {
+    "city": "Litchfield",
+    "city_ascii": "Litchfield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1562,
+    "lng": -99.1531,
+    "cafes": []
+  },
+  "Weston": {
+    "city": "Weston",
+    "city_ascii": "Weston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1931,
+    "lng": -96.7422,
+    "cafes": []
+  },
+  "Brule": {
+    "city": "Brule",
+    "city_ascii": "Brule",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0947,
+    "lng": -101.8882,
+    "cafes": []
+  },
+  "Trumbull": {
+    "city": "Trumbull",
+    "city_ascii": "Trumbull",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6801,
+    "lng": -98.2734,
+    "cafes": []
+  },
+  "Potter": {
+    "city": "Potter",
+    "city_ascii": "Potter",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2244,
+    "lng": -103.1905,
+    "cafes": []
+  },
+  "Milligan": {
+    "city": "Milligan",
+    "city_ascii": "Milligan",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5001,
+    "lng": -97.3882,
+    "cafes": []
+  },
+  "Bee": {
+    "city": "Bee",
+    "city_ascii": "Bee",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0064,
+    "lng": -97.0583,
+    "cafes": []
+  },
+  "Jackson": {
+    "city": "Jackson",
+    "city_ascii": "Jackson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4507,
+    "lng": -96.5787,
+    "cafes": []
+  },
+  "Brainard": {
+    "city": "Brainard",
+    "city_ascii": "Brainard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1821,
+    "lng": -97.0024,
+    "cafes": []
+  },
+  "Roseland": {
+    "city": "Roseland",
+    "city_ascii": "Roseland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4697,
+    "lng": -98.5587,
+    "cafes": []
+  },
+  "Wolbach": {
+    "city": "Wolbach",
+    "city_ascii": "Wolbach",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4013,
+    "lng": -98.394,
+    "cafes": []
+  },
+  "Chester": {
+    "city": "Chester",
+    "city_ascii": "Chester",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0101,
+    "lng": -97.6181,
+    "cafes": []
+  },
+  "Amherst": {
+    "city": "Amherst",
+    "city_ascii": "Amherst",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8383,
+    "lng": -99.2696,
+    "cafes": []
+  },
+  "Hoskins": {
+    "city": "Hoskins",
+    "city_ascii": "Hoskins",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.1126,
+    "lng": -97.3045,
+    "cafes": []
+  },
+  "Wallace": {
+    "city": "Wallace",
+    "city_ascii": "Wallace",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8376,
+    "lng": -101.1645,
+    "cafes": []
+  },
+  "Campbell": {
+    "city": "Campbell",
+    "city_ascii": "Campbell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2963,
+    "lng": -98.7316,
+    "cafes": []
+  },
+  "Rising City": {
+    "city": "Rising City",
+    "city_ascii": "Rising City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.198,
+    "lng": -97.2972,
+    "cafes": []
+  },
+  "Holbrook": {
+    "city": "Holbrook",
+    "city_ascii": "Holbrook",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3047,
+    "lng": -100.0099,
+    "cafes": []
+  },
+  "Dix": {
+    "city": "Dix",
+    "city_ascii": "Dix",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2342,
+    "lng": -103.4867,
+    "cafes": []
+  },
+  "Bruning": {
+    "city": "Bruning",
+    "city_ascii": "Bruning",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3358,
+    "lng": -97.5647,
+    "cafes": []
+  },
+  "North Loup": {
+    "city": "North Loup",
+    "city_ascii": "North Loup",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4955,
+    "lng": -98.7726,
+    "cafes": []
+  },
+  "Douglas": {
+    "city": "Douglas",
+    "city_ascii": "Douglas",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5932,
+    "lng": -96.3882,
+    "cafes": []
+  },
+  "Hayes Center": {
+    "city": "Hayes Center",
+    "city_ascii": "Hayes Center",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.511,
+    "lng": -101.0204,
+    "cafes": []
+  },
+  "Gresham": {
+    "city": "Gresham",
+    "city_ascii": "Gresham",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0284,
+    "lng": -97.4011,
+    "cafes": []
+  },
+  "Marquette": {
+    "city": "Marquette",
+    "city_ascii": "Marquette",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0063,
+    "lng": -98.0098,
+    "cafes": []
+  },
+  "Woodland Hills": {
+    "city": "Woodland Hills",
+    "city_ascii": "Woodland Hills",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7511,
+    "lng": -96.421,
+    "cafes": []
+  },
+  "Gurley": {
+    "city": "Gurley",
+    "city_ascii": "Gurley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3214,
+    "lng": -102.9745,
+    "cafes": []
+  },
+  "Madrid": {
+    "city": "Madrid",
+    "city_ascii": "Madrid",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8525,
+    "lng": -101.5278,
+    "cafes": []
+  },
+  "Rosalie": {
+    "city": "Rosalie",
+    "city_ascii": "Rosalie",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.0574,
+    "lng": -96.5128,
+    "cafes": []
+  },
+  "Yankee Hill": {
+    "city": "Yankee Hill",
+    "city_ascii": "Yankee Hill",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7653,
+    "lng": -96.7322,
+    "cafes": []
+  },
+  "Maywood": {
+    "city": "Maywood",
+    "city_ascii": "Maywood",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6587,
+    "lng": -100.6223,
+    "cafes": []
+  },
+  "Odell": {
+    "city": "Odell",
+    "city_ascii": "Odell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0503,
+    "lng": -96.8016,
+    "cafes": []
+  },
+  "Monroe": {
+    "city": "Monroe",
+    "city_ascii": "Monroe",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4741,
+    "lng": -97.5989,
+    "cafes": []
+  },
+  "Dunbar": {
+    "city": "Dunbar",
+    "city_ascii": "Dunbar",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6686,
+    "lng": -96.0309,
+    "cafes": []
+  },
+  "Pleasant Dale": {
+    "city": "Pleasant Dale",
+    "city_ascii": "Pleasant Dale",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.791,
+    "lng": -96.9329,
+    "cafes": []
+  },
+  "Clearwater": {
+    "city": "Clearwater",
+    "city_ascii": "Clearwater",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.1707,
+    "lng": -98.1897,
+    "cafes": []
+  },
+  "Uehling": {
+    "city": "Uehling",
+    "city_ascii": "Uehling",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7348,
+    "lng": -96.5058,
+    "cafes": []
+  },
+  "Union": {
+    "city": "Union",
+    "city_ascii": "Union",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8144,
+    "lng": -95.9215,
+    "cafes": []
+  },
+  "Murdock": {
+    "city": "Murdock",
+    "city_ascii": "Murdock",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9261,
+    "lng": -96.2809,
+    "cafes": []
+  },
+  "Santee": {
+    "city": "Santee",
+    "city_ascii": "Santee",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8386,
+    "lng": -97.8495,
+    "cafes": []
+  },
+  "Fordyce": {
+    "city": "Fordyce",
+    "city_ascii": "Fordyce",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6983,
+    "lng": -97.3628,
+    "cafes": []
+  },
+  "Dwight": {
+    "city": "Dwight",
+    "city_ascii": "Dwight",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0827,
+    "lng": -97.0191,
+    "cafes": []
+  },
+  "Western": {
+    "city": "Western",
+    "city_ascii": "Western",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3931,
+    "lng": -97.1984,
+    "cafes": []
+  },
+  "Blue Springs": {
+    "city": "Blue Springs",
+    "city_ascii": "Blue Springs",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1375,
+    "lng": -96.6631,
+    "cafes": []
+  },
+  "Maxwell": {
+    "city": "Maxwell",
+    "city_ascii": "Maxwell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0772,
+    "lng": -100.5262,
+    "cafes": []
+  },
+  "Garland": {
+    "city": "Garland",
+    "city_ascii": "Garland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9446,
+    "lng": -96.9855,
+    "cafes": []
+  },
+  "Otoe": {
+    "city": "Otoe",
+    "city_ascii": "Otoe",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7243,
+    "lng": -96.1207,
+    "cafes": []
+  },
+  "Goehner": {
+    "city": "Goehner",
+    "city_ascii": "Goehner",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8327,
+    "lng": -97.2196,
+    "cafes": []
+  },
+  "Panama": {
+    "city": "Panama",
+    "city_ascii": "Panama",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5998,
+    "lng": -96.5111,
+    "cafes": []
+  },
+  "Springview": {
+    "city": "Springview",
+    "city_ascii": "Springview",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8249,
+    "lng": -99.7475,
+    "cafes": []
+  },
+  "Lodgepole": {
+    "city": "Lodgepole",
+    "city_ascii": "Lodgepole",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1491,
+    "lng": -102.639,
+    "cafes": []
+  },
+  "Lawrence": {
+    "city": "Lawrence",
+    "city_ascii": "Lawrence",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2902,
+    "lng": -98.2596,
+    "cafes": []
+  },
+  "Thedford": {
+    "city": "Thedford",
+    "city_ascii": "Thedford",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.979,
+    "lng": -100.5746,
+    "cafes": []
+  },
+  "Ashton": {
+    "city": "Ashton",
+    "city_ascii": "Ashton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2477,
+    "lng": -98.795,
+    "cafes": []
+  },
+  "Dannebrog": {
+    "city": "Dannebrog",
+    "city_ascii": "Dannebrog",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1185,
+    "lng": -98.5456,
+    "cafes": []
+  },
+  "Funk": {
+    "city": "Funk",
+    "city_ascii": "Funk",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4631,
+    "lng": -99.2507,
+    "cafes": []
+  },
+  "Wynot": {
+    "city": "Wynot",
+    "city_ascii": "Wynot",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.7399,
+    "lng": -97.1697,
+    "cafes": []
+  },
+  "Overland": {
+    "city": "Overland",
+    "city_ascii": "Overland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0809,
+    "lng": -97.9783,
+    "cafes": []
+  },
+  "Belgrade": {
+    "city": "Belgrade",
+    "city_ascii": "Belgrade",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4709,
+    "lng": -98.0678,
+    "cafes": []
+  },
+  "Center": {
+    "city": "Center",
+    "city_ascii": "Center",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.609,
+    "lng": -97.8761,
+    "cafes": []
+  },
+  "Verdon": {
+    "city": "Verdon",
+    "city_ascii": "Verdon",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.149,
+    "lng": -95.7111,
+    "cafes": []
+  },
+  "Meadow Grove": {
+    "city": "Meadow Grove",
+    "city_ascii": "Meadow Grove",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.029,
+    "lng": -97.7361,
+    "cafes": []
+  },
+  "Manley": {
+    "city": "Manley",
+    "city_ascii": "Manley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9184,
+    "lng": -96.1658,
+    "cafes": []
+  },
+  "Shubert": {
+    "city": "Shubert",
+    "city_ascii": "Shubert",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2359,
+    "lng": -95.6837,
+    "cafes": []
+  },
+  "Hordville": {
+    "city": "Hordville",
+    "city_ascii": "Hordville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0793,
+    "lng": -97.8904,
+    "cafes": []
+  },
+  "Lewellen": {
+    "city": "Lewellen",
+    "city_ascii": "Lewellen",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3305,
+    "lng": -102.1437,
+    "cafes": []
+  },
+  "Harrison": {
+    "city": "Harrison",
+    "city_ascii": "Harrison",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6879,
+    "lng": -103.8826,
+    "cafes": []
+  },
+  "Dawson": {
+    "city": "Dawson",
+    "city_ascii": "Dawson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1308,
+    "lng": -95.8298,
+    "cafes": []
+  },
+  "Stamford": {
+    "city": "Stamford",
+    "city_ascii": "Stamford",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1313,
+    "lng": -99.5945,
+    "cafes": []
+  },
+  "Pickrell": {
+    "city": "Pickrell",
+    "city_ascii": "Pickrell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3781,
+    "lng": -96.7295,
+    "cafes": []
+  },
+  "Hubbard": {
+    "city": "Hubbard",
+    "city_ascii": "Hubbard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3859,
+    "lng": -96.5915,
+    "cafes": []
+  },
+  "Raymond": {
+    "city": "Raymond",
+    "city_ascii": "Raymond",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9567,
+    "lng": -96.7816,
+    "cafes": []
+  },
+  "Avoca": {
+    "city": "Avoca",
+    "city_ascii": "Avoca",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7965,
+    "lng": -96.1191,
+    "cafes": []
+  },
+  "Talmage": {
+    "city": "Talmage",
+    "city_ascii": "Talmage",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5315,
+    "lng": -96.0237,
+    "cafes": []
+  },
+  "Diller": {
+    "city": "Diller",
+    "city_ascii": "Diller",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1089,
+    "lng": -96.9374,
+    "cafes": []
+  },
+  "Elba": {
+    "city": "Elba",
+    "city_ascii": "Elba",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2854,
+    "lng": -98.5693,
+    "cafes": []
+  },
+  "Rockville": {
+    "city": "Rockville",
+    "city_ascii": "Rockville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1185,
+    "lng": -98.8311,
+    "cafes": []
+  },
+  "Carleton": {
+    "city": "Carleton",
+    "city_ascii": "Carleton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3033,
+    "lng": -97.6816,
+    "cafes": []
+  },
+  "Cody": {
+    "city": "Cody",
+    "city_ascii": "Cody",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.9377,
+    "lng": -101.2489,
+    "cafes": []
+  },
+  "Washington": {
+    "city": "Washington",
+    "city_ascii": "Washington",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3976,
+    "lng": -96.2074,
+    "cafes": []
+  },
+  "Ruskin": {
+    "city": "Ruskin",
+    "city_ascii": "Ruskin",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.144,
+    "lng": -97.867,
+    "cafes": []
+  },
+  "Bushnell": {
+    "city": "Bushnell",
+    "city_ascii": "Bushnell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2328,
+    "lng": -103.8912,
+    "cafes": []
+  },
+  "Mason City": {
+    "city": "Mason City",
+    "city_ascii": "Mason City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2222,
+    "lng": -99.2988,
+    "cafes": []
+  },
+  "Bladen": {
+    "city": "Bladen",
+    "city_ascii": "Bladen",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3232,
+    "lng": -98.5961,
+    "cafes": []
+  },
+  "Cheney": {
+    "city": "Cheney",
+    "city_ascii": "Cheney",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7261,
+    "lng": -96.5936,
+    "cafes": []
+  },
+  "Daykin": {
+    "city": "Daykin",
+    "city_ascii": "Daykin",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3217,
+    "lng": -97.2983,
+    "cafes": []
+  },
+  "Roca": {
+    "city": "Roca",
+    "city_ascii": "Roca",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.658,
+    "lng": -96.6614,
+    "cafes": []
+  },
+  "Oconto": {
+    "city": "Oconto",
+    "city_ascii": "Oconto",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1415,
+    "lng": -99.7619,
+    "cafes": []
+  },
+  "Howard City": {
+    "city": "Howard City",
+    "city_ascii": "Howard City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0752,
+    "lng": -98.7155,
+    "cafes": []
+  },
+  "Farnam": {
+    "city": "Farnam",
+    "city_ascii": "Farnam",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7065,
+    "lng": -100.2155,
+    "cafes": []
+  },
+  "Nehawka": {
+    "city": "Nehawka",
+    "city_ascii": "Nehawka",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8296,
+    "lng": -95.9899,
+    "cafes": []
+  },
+  "Edison": {
+    "city": "Edison",
+    "city_ascii": "Edison",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2792,
+    "lng": -99.7758,
+    "cafes": []
+  },
+  "Venango": {
+    "city": "Venango",
+    "city_ascii": "Venango",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7637,
+    "lng": -102.0441,
+    "cafes": []
+  },
+  "Octavia": {
+    "city": "Octavia",
+    "city_ascii": "Octavia",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3474,
+    "lng": -97.059,
+    "cafes": []
+  },
+  "Concord": {
+    "city": "Concord",
+    "city_ascii": "Concord",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3839,
+    "lng": -96.989,
+    "cafes": []
+  },
+  "Endicott": {
+    "city": "Endicott",
+    "city_ascii": "Endicott",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0814,
+    "lng": -97.0954,
+    "cafes": []
+  },
+  "Haigler": {
+    "city": "Haigler",
+    "city_ascii": "Haigler",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0122,
+    "lng": -101.9385,
+    "cafes": []
+  },
+  "Bartlett": {
+    "city": "Bartlett",
+    "city_ascii": "Bartlett",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8839,
+    "lng": -98.5527,
+    "cafes": []
+  },
+  "Lake Waconda": {
+    "city": "Lake Waconda",
+    "city_ascii": "Lake Waconda",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8448,
+    "lng": -95.8535,
+    "cafes": []
+  },
+  "Holstein": {
+    "city": "Holstein",
+    "city_ascii": "Holstein",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4652,
+    "lng": -98.651,
+    "cafes": []
+  },
+  "Lynch": {
+    "city": "Lynch",
+    "city_ascii": "Lynch",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8312,
+    "lng": -98.4668,
+    "cafes": []
+  },
+  "Brunswick": {
+    "city": "Brunswick",
+    "city_ascii": "Brunswick",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3377,
+    "lng": -97.9718,
+    "cafes": []
+  },
+  "Ulysses": {
+    "city": "Ulysses",
+    "city_ascii": "Ulysses",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0721,
+    "lng": -97.203,
+    "cafes": []
+  },
+  "Hardy": {
+    "city": "Hardy",
+    "city_ascii": "Hardy",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0113,
+    "lng": -97.924,
+    "cafes": []
+  },
+  "Du Bois": {
+    "city": "Du Bois",
+    "city_ascii": "Du Bois",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0346,
+    "lng": -96.0466,
+    "cafes": []
+  },
+  "Waco": {
+    "city": "Waco",
+    "city_ascii": "Waco",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.897,
+    "lng": -97.4619,
+    "cafes": []
+  },
+  "Hyannis": {
+    "city": "Hyannis",
+    "city_ascii": "Hyannis",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.0006,
+    "lng": -101.7624,
+    "cafes": []
+  },
+  "Creston": {
+    "city": "Creston",
+    "city_ascii": "Creston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.708,
+    "lng": -97.3625,
+    "cafes": []
+  },
+  "Melbeta": {
+    "city": "Melbeta",
+    "city_ascii": "Melbeta",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7819,
+    "lng": -103.5171,
+    "cafes": []
+  },
+  "Denton": {
+    "city": "Denton",
+    "city_ascii": "Denton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7393,
+    "lng": -96.8461,
+    "cafes": []
+  },
+  "Grafton": {
+    "city": "Grafton",
+    "city_ascii": "Grafton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6298,
+    "lng": -97.7146,
+    "cafes": []
+  },
+  "Ithaca": {
+    "city": "Ithaca",
+    "city_ascii": "Ithaca",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1594,
+    "lng": -96.5394,
+    "cafes": []
+  },
+  "Taylor": {
+    "city": "Taylor",
+    "city_ascii": "Taylor",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7696,
+    "lng": -99.3814,
+    "cafes": []
+  },
+  "Leshara": {
+    "city": "Leshara",
+    "city_ascii": "Leshara",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3298,
+    "lng": -96.4292,
+    "cafes": []
+  },
+  "Rulo": {
+    "city": "Rulo",
+    "city_ascii": "Rulo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0518,
+    "lng": -95.4301,
+    "cafes": []
+  },
+  "Sprague": {
+    "city": "Sprague",
+    "city_ascii": "Sprague",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6266,
+    "lng": -96.7446,
+    "cafes": []
+  },
+  "Craig": {
+    "city": "Craig",
+    "city_ascii": "Craig",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7852,
+    "lng": -96.3624,
+    "cafes": []
+  },
+  "Stella": {
+    "city": "Stella",
+    "city_ascii": "Stella",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2323,
+    "lng": -95.7736,
+    "cafes": []
+  },
+  "Brownville": {
+    "city": "Brownville",
+    "city_ascii": "Brownville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3977,
+    "lng": -95.6611,
+    "cafes": []
+  },
+  "Tryon": {
+    "city": "Tryon",
+    "city_ascii": "Tryon",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5584,
+    "lng": -100.9536,
+    "cafes": []
+  },
+  "Miller": {
+    "city": "Miller",
+    "city_ascii": "Miller",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9276,
+    "lng": -99.3901,
+    "cafes": []
+  },
+  "Swanton": {
+    "city": "Swanton",
+    "city_ascii": "Swanton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3795,
+    "lng": -97.0799,
+    "cafes": []
+  },
+  "Colon": {
+    "city": "Colon",
+    "city_ascii": "Colon",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2981,
+    "lng": -96.6069,
+    "cafes": []
+  },
+  "Elsie": {
+    "city": "Elsie",
+    "city_ascii": "Elsie",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8472,
+    "lng": -101.3893,
+    "cafes": []
+  },
+  "Sunol": {
+    "city": "Sunol",
+    "city_ascii": "Sunol",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1539,
+    "lng": -102.763,
+    "cafes": []
+  },
+  "Inman": {
+    "city": "Inman",
+    "city_ascii": "Inman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3819,
+    "lng": -98.5298,
+    "cafes": []
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "city_ascii": "Princeton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.576,
+    "lng": -96.706,
+    "cafes": []
+  },
+  "Elk Creek": {
+    "city": "Elk Creek",
+    "city_ascii": "Elk Creek",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2883,
+    "lng": -96.1269,
+    "cafes": []
+  },
+  "Alvo": {
+    "city": "Alvo",
+    "city_ascii": "Alvo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8723,
+    "lng": -96.3865,
+    "cafes": []
+  },
+  "Burchard": {
+    "city": "Burchard",
+    "city_ascii": "Burchard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1493,
+    "lng": -96.3488,
+    "cafes": []
+  },
+  "Page": {
+    "city": "Page",
+    "city_ascii": "Page",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4,
+    "lng": -98.4177,
+    "cafes": []
+  },
+  "Davey": {
+    "city": "Davey",
+    "city_ascii": "Davey",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9838,
+    "lng": -96.6692,
+    "cafes": []
+  },
+  "Martell": {
+    "city": "Martell",
+    "city_ascii": "Martell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6389,
+    "lng": -96.7589,
+    "cafes": []
+  },
+  "Naponee": {
+    "city": "Naponee",
+    "city_ascii": "Naponee",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0747,
+    "lng": -99.1386,
+    "cafes": []
+  },
+  "Malmo": {
+    "city": "Malmo",
+    "city_ascii": "Malmo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2664,
+    "lng": -96.7209,
+    "cafes": []
+  },
+  "St. Helena": {
+    "city": "St. Helena",
+    "city_ascii": "St. Helena",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8106,
+    "lng": -97.2489,
+    "cafes": []
+  },
+  "Loretto": {
+    "city": "Loretto",
+    "city_ascii": "Loretto",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7634,
+    "lng": -98.0816,
+    "cafes": []
+  },
+  "Broadwater": {
+    "city": "Broadwater",
+    "city_ascii": "Broadwater",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.598,
+    "lng": -102.8525,
+    "cafes": []
+  },
+  "Upland": {
+    "city": "Upland",
+    "city_ascii": "Upland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3195,
+    "lng": -98.9023,
+    "cafes": []
+  },
+  "Thurston": {
+    "city": "Thurston",
+    "city_ascii": "Thurston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.1747,
+    "lng": -96.7016,
+    "cafes": []
+  },
+  "Ohiowa": {
+    "city": "Ohiowa",
+    "city_ascii": "Ohiowa",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4136,
+    "lng": -97.4524,
+    "cafes": []
+  },
+  "Naper": {
+    "city": "Naper",
+    "city_ascii": "Naper",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.9642,
+    "lng": -99.097,
+    "cafes": []
+  },
+  "Atlanta": {
+    "city": "Atlanta",
+    "city_ascii": "Atlanta",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3684,
+    "lng": -99.4732,
+    "cafes": []
+  },
+  "Cordova": {
+    "city": "Cordova",
+    "city_ascii": "Cordova",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7164,
+    "lng": -97.3516,
+    "cafes": []
+  },
+  "Odessa": {
+    "city": "Odessa",
+    "city_ascii": "Odessa",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6991,
+    "lng": -99.2544,
+    "cafes": []
+  },
+  "Ayr": {
+    "city": "Ayr",
+    "city_ascii": "Ayr",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4377,
+    "lng": -98.4409,
+    "cafes": []
+  },
+  "Republican City": {
+    "city": "Republican City",
+    "city_ascii": "Republican City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0987,
+    "lng": -99.2223,
+    "cafes": []
+  },
+  "Kilgore": {
+    "city": "Kilgore",
+    "city_ascii": "Kilgore",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.9391,
+    "lng": -100.9573,
+    "cafes": []
+  },
+  "Brock": {
+    "city": "Brock",
+    "city_ascii": "Brock",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4804,
+    "lng": -95.9601,
+    "cafes": []
+  },
+  "Memphis": {
+    "city": "Memphis",
+    "city_ascii": "Memphis",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0946,
+    "lng": -96.4332,
+    "cafes": []
+  },
+  "Smithfield": {
+    "city": "Smithfield",
+    "city_ascii": "Smithfield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5733,
+    "lng": -99.7409,
+    "cafes": []
+  },
+  "Belden": {
+    "city": "Belden",
+    "city_ascii": "Belden",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4116,
+    "lng": -97.2077,
+    "cafes": []
+  },
+  "Ericson": {
+    "city": "Ericson",
+    "city_ascii": "Ericson",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7803,
+    "lng": -98.6785,
+    "cafes": []
+  },
+  "Belmar": {
+    "city": "Belmar",
+    "city_ascii": "Belmar",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3055,
+    "lng": -101.9347,
+    "cafes": []
+  },
+  "Linwood": {
+    "city": "Linwood",
+    "city_ascii": "Linwood",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4123,
+    "lng": -96.9323,
+    "cafes": []
+  },
+  "Bow Valley": {
+    "city": "Bow Valley",
+    "city_ascii": "Bow Valley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.7154,
+    "lng": -97.2521,
+    "cafes": []
+  },
+  "Barneston": {
+    "city": "Barneston",
+    "city_ascii": "Barneston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0488,
+    "lng": -96.5735,
+    "cafes": []
+  },
+  "Eddyville": {
+    "city": "Eddyville",
+    "city_ascii": "Eddyville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0124,
+    "lng": -99.6241,
+    "cafes": []
+  },
+  "Bruno": {
+    "city": "Bruno",
+    "city_ascii": "Bruno",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.283,
+    "lng": -96.9607,
+    "cafes": []
+  },
+  "Arthur": {
+    "city": "Arthur",
+    "city_ascii": "Arthur",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5718,
+    "lng": -101.6923,
+    "cafes": []
+  },
+  "South Bend": {
+    "city": "South Bend",
+    "city_ascii": "South Bend",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0022,
+    "lng": -96.2474,
+    "cafes": []
+  },
+  "Bloomington": {
+    "city": "Bloomington",
+    "city_ascii": "Bloomington",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0938,
+    "lng": -99.0384,
+    "cafes": []
+  },
+  "McLean": {
+    "city": "McLean",
+    "city_ascii": "McLean",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3861,
+    "lng": -97.4682,
+    "cafes": []
+  },
+  "Cushing": {
+    "city": "Cushing",
+    "city_ascii": "Cushing",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2949,
+    "lng": -98.3693,
+    "cafes": []
+  },
+  "Steinauer": {
+    "city": "Steinauer",
+    "city_ascii": "Steinauer",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2073,
+    "lng": -96.2329,
+    "cafes": []
+  },
+  "Prosser": {
+    "city": "Prosser",
+    "city_ascii": "Prosser",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6877,
+    "lng": -98.5777,
+    "cafes": []
+  },
+  "Nemaha": {
+    "city": "Nemaha",
+    "city_ascii": "Nemaha",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3388,
+    "lng": -95.676,
+    "cafes": []
+  },
+  "Riverton": {
+    "city": "Riverton",
+    "city_ascii": "Riverton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0897,
+    "lng": -98.7597,
+    "cafes": []
+  },
+  "Filley": {
+    "city": "Filley",
+    "city_ascii": "Filley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2851,
+    "lng": -96.5339,
+    "cafes": []
+  },
+  "Heartwell": {
+    "city": "Heartwell",
+    "city_ascii": "Heartwell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5699,
+    "lng": -98.7891,
+    "cafes": []
+  },
+  "Merriman": {
+    "city": "Merriman",
+    "city_ascii": "Merriman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.923,
+    "lng": -101.6997,
+    "cafes": []
+  },
+  "Anselmo": {
+    "city": "Anselmo",
+    "city_ascii": "Anselmo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6186,
+    "lng": -99.8645,
+    "cafes": []
+  },
+  "Martinsburg": {
+    "city": "Martinsburg",
+    "city_ascii": "Martinsburg",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5084,
+    "lng": -96.8314,
+    "cafes": []
+  },
+  "Jansen": {
+    "city": "Jansen",
+    "city_ascii": "Jansen",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1839,
+    "lng": -97.0848,
+    "cafes": []
+  },
+  "Martin": {
+    "city": "Martin",
+    "city_ascii": "Martin",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2581,
+    "lng": -101.7091,
+    "cafes": []
+  },
+  "Aten": {
+    "city": "Aten",
+    "city_ascii": "Aten",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8368,
+    "lng": -97.4409,
+    "cafes": []
+  },
+  "Roscoe": {
+    "city": "Roscoe",
+    "city_ascii": "Roscoe",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1316,
+    "lng": -101.5852,
+    "cafes": []
+  },
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0769,
+    "lng": -95.7286,
+    "cafes": []
+  },
+  "Morse Bluff": {
+    "city": "Morse Bluff",
+    "city_ascii": "Morse Bluff",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.431,
+    "lng": -96.7666,
+    "cafes": []
+  },
+  "Waterbury": {
+    "city": "Waterbury",
+    "city_ascii": "Waterbury",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4571,
+    "lng": -96.7353,
+    "cafes": []
+  },
+  "Wellfleet": {
+    "city": "Wellfleet",
+    "city_ascii": "Wellfleet",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7539,
+    "lng": -100.7319,
+    "cafes": []
+  },
+  "Byron": {
+    "city": "Byron",
+    "city_ascii": "Byron",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0048,
+    "lng": -97.7686,
+    "cafes": []
+  },
+  "Virginia": {
+    "city": "Virginia",
+    "city_ascii": "Virginia",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2458,
+    "lng": -96.4988,
+    "cafes": []
+  },
+  "Wilsonville": {
+    "city": "Wilsonville",
+    "city_ascii": "Wilsonville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1119,
+    "lng": -100.1066,
+    "cafes": []
+  },
+  "Harrisburg": {
+    "city": "Harrisburg",
+    "city_ascii": "Harrisburg",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5505,
+    "lng": -103.7267,
+    "cafes": []
+  },
+  "Henry": {
+    "city": "Henry",
+    "city_ascii": "Henry",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.998,
+    "lng": -104.0461,
+    "cafes": []
+  },
+  "Comstock": {
+    "city": "Comstock",
+    "city_ascii": "Comstock",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5572,
+    "lng": -99.243,
+    "cafes": []
+  },
+  "McGrew": {
+    "city": "McGrew",
+    "city_ascii": "McGrew",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.7477,
+    "lng": -103.4177,
+    "cafes": []
+  },
+  "Alexandria": {
+    "city": "Alexandria",
+    "city_ascii": "Alexandria",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2475,
+    "lng": -97.3878,
+    "cafes": []
+  },
+  "Saronville": {
+    "city": "Saronville",
+    "city_ascii": "Saronville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.603,
+    "lng": -97.9387,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.7598,
+    "lng": -102.3479,
+    "cafes": []
+  },
+  "Rogers": {
+    "city": "Rogers",
+    "city_ascii": "Rogers",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4643,
+    "lng": -96.9159,
+    "cafes": []
+  },
+  "Holmesville": {
+    "city": "Holmesville",
+    "city_ascii": "Holmesville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2009,
+    "lng": -96.6584,
+    "cafes": []
+  },
+  "Hazard": {
+    "city": "Hazard",
+    "city_ascii": "Hazard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0916,
+    "lng": -99.0773,
+    "cafes": []
+  },
+  "Farwell": {
+    "city": "Farwell",
+    "city_ascii": "Farwell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2156,
+    "lng": -98.628,
+    "cafes": []
+  },
+  "Primrose": {
+    "city": "Primrose",
+    "city_ascii": "Primrose",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6238,
+    "lng": -98.2377,
+    "cafes": []
+  },
+  "Danbury": {
+    "city": "Danbury",
+    "city_ascii": "Danbury",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0376,
+    "lng": -100.4051,
+    "cafes": []
+  },
+  "Steele City": {
+    "city": "Steele City",
+    "city_ascii": "Steele City",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0367,
+    "lng": -97.0232,
+    "cafes": []
+  },
+  "Berwyn": {
+    "city": "Berwyn",
+    "city_ascii": "Berwyn",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3509,
+    "lng": -99.5007,
+    "cafes": []
+  },
+  "Richland": {
+    "city": "Richland",
+    "city_ascii": "Richland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4367,
+    "lng": -97.2152,
+    "cafes": []
+  },
+  "Winslow": {
+    "city": "Winslow",
+    "city_ascii": "Winslow",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6102,
+    "lng": -96.5047,
+    "cafes": []
+  },
+  "Huntley": {
+    "city": "Huntley",
+    "city_ascii": "Huntley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2105,
+    "lng": -99.2901,
+    "cafes": []
+  },
+  "Harbine": {
+    "city": "Harbine",
+    "city_ascii": "Harbine",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1916,
+    "lng": -96.9743,
+    "cafes": []
+  },
+  "Dixon": {
+    "city": "Dixon",
+    "city_ascii": "Dixon",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4155,
+    "lng": -96.9948,
+    "cafes": []
+  },
+  "Dunning": {
+    "city": "Dunning",
+    "city_ascii": "Dunning",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8272,
+    "lng": -100.1048,
+    "cafes": []
+  },
+  "Magnet": {
+    "city": "Magnet",
+    "city_ascii": "Magnet",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4561,
+    "lng": -97.4692,
+    "cafes": []
+  },
+  "Tobias": {
+    "city": "Tobias",
+    "city_ascii": "Tobias",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4185,
+    "lng": -97.3367,
+    "cafes": []
+  },
+  "Abie": {
+    "city": "Abie",
+    "city_ascii": "Abie",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3341,
+    "lng": -96.9498,
+    "cafes": []
+  },
+  "Hubbell": {
+    "city": "Hubbell",
+    "city_ascii": "Hubbell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0088,
+    "lng": -97.4966,
+    "cafes": []
+  },
+  "Fontanelle": {
+    "city": "Fontanelle",
+    "city_ascii": "Fontanelle",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.5383,
+    "lng": -96.4271,
+    "cafes": []
+  },
+  "Wann": {
+    "city": "Wann",
+    "city_ascii": "Wann",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1394,
+    "lng": -96.3632,
+    "cafes": []
+  },
+  "Maskell": {
+    "city": "Maskell",
+    "city_ascii": "Maskell",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6904,
+    "lng": -96.9809,
+    "cafes": []
+  },
+  "Newport": {
+    "city": "Newport",
+    "city_ascii": "Newport",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6002,
+    "lng": -99.3283,
+    "cafes": []
+  },
+  "Bristow": {
+    "city": "Bristow",
+    "city_ascii": "Bristow",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8408,
+    "lng": -98.5834,
+    "cafes": []
+  },
+  "Ong": {
+    "city": "Ong",
+    "city_ascii": "Ong",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3983,
+    "lng": -97.8392,
+    "cafes": []
+  },
+  "Oak": {
+    "city": "Oak",
+    "city_ascii": "Oak",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2384,
+    "lng": -97.9037,
+    "cafes": []
+  },
+  "Whitney": {
+    "city": "Whitney",
+    "city_ascii": "Whitney",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.7837,
+    "lng": -103.2567,
+    "cafes": []
+  },
+  "Lemoyne": {
+    "city": "Lemoyne",
+    "city_ascii": "Lemoyne",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2765,
+    "lng": -101.8134,
+    "cafes": []
+  },
+  "Lorton": {
+    "city": "Lorton",
+    "city_ascii": "Lorton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5972,
+    "lng": -96.0242,
+    "cafes": []
+  },
+  "Reynolds": {
+    "city": "Reynolds",
+    "city_ascii": "Reynolds",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0598,
+    "lng": -97.3359,
+    "cafes": []
+  },
+  "Liberty": {
+    "city": "Liberty",
+    "city_ascii": "Liberty",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0854,
+    "lng": -96.4829,
+    "cafes": []
+  },
+  "Thayer": {
+    "city": "Thayer",
+    "city_ascii": "Thayer",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.9702,
+    "lng": -97.4968,
+    "cafes": []
+  },
+  "Beacon View": {
+    "city": "Beacon View",
+    "city_ascii": "Beacon View",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0692,
+    "lng": -96.3259,
+    "cafes": []
+  },
+  "Archer": {
+    "city": "Archer",
+    "city_ascii": "Archer",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1665,
+    "lng": -98.1386,
+    "cafes": []
+  },
+  "Crookston": {
+    "city": "Crookston",
+    "city_ascii": "Crookston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.9263,
+    "lng": -100.7534,
+    "cafes": []
+  },
+  "Garrison": {
+    "city": "Garrison",
+    "city_ascii": "Garrison",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1755,
+    "lng": -97.163,
+    "cafes": []
+  },
+  "Melia": {
+    "city": "Melia",
+    "city_ascii": "Melia",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0971,
+    "lng": -96.2768,
+    "cafes": []
+  },
+  "Burr": {
+    "city": "Burr",
+    "city_ascii": "Burr",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.536,
+    "lng": -96.2997,
+    "cafes": []
+  },
+  "Julian": {
+    "city": "Julian",
+    "city_ascii": "Julian",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5198,
+    "lng": -95.8674,
+    "cafes": []
+  },
+  "Anoka": {
+    "city": "Anoka",
+    "city_ascii": "Anoka",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.946,
+    "lng": -98.8285,
+    "cafes": []
+  },
+  "Halsey": {
+    "city": "Halsey",
+    "city_ascii": "Halsey",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.9033,
+    "lng": -100.2699,
+    "cafes": []
+  },
+  "Norman": {
+    "city": "Norman",
+    "city_ascii": "Norman",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.479,
+    "lng": -98.7922,
+    "cafes": []
+  },
+  "Surprise": {
+    "city": "Surprise",
+    "city_ascii": "Surprise",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1047,
+    "lng": -97.3085,
+    "cafes": []
+  },
+  "Belvidere": {
+    "city": "Belvidere",
+    "city_ascii": "Belvidere",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2546,
+    "lng": -97.5577,
+    "cafes": []
+  },
+  "Lewiston": {
+    "city": "Lewiston",
+    "city_ascii": "Lewiston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2429,
+    "lng": -96.4074,
+    "cafes": []
+  },
+  "Royal": {
+    "city": "Royal",
+    "city_ascii": "Royal",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3329,
+    "lng": -98.1252,
+    "cafes": []
+  },
+  "Cornlea": {
+    "city": "Cornlea",
+    "city_ascii": "Cornlea",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.68,
+    "lng": -97.5669,
+    "cafes": []
+  },
+  "Lebanon": {
+    "city": "Lebanon",
+    "city_ascii": "Lebanon",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0487,
+    "lng": -100.2761,
+    "cafes": []
+  },
+  "Brewster": {
+    "city": "Brewster",
+    "city_ascii": "Brewster",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.9384,
+    "lng": -99.8651,
+    "cafes": []
+  },
+  "Moorefield": {
+    "city": "Moorefield",
+    "city_ascii": "Moorefield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.6898,
+    "lng": -100.4004,
+    "cafes": []
+  },
+  "Richfield": {
+    "city": "Richfield",
+    "city_ascii": "Richfield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1108,
+    "lng": -96.0763,
+    "cafes": []
+  },
+  "Winnetoon": {
+    "city": "Winnetoon",
+    "city_ascii": "Winnetoon",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5135,
+    "lng": -97.9601,
+    "cafes": []
+  },
+  "Linoma Beach": {
+    "city": "Linoma Beach",
+    "city_ascii": "Linoma Beach",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0583,
+    "lng": -96.3149,
+    "cafes": []
+  },
+  "Verdel": {
+    "city": "Verdel",
+    "city_ascii": "Verdel",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8114,
+    "lng": -98.1933,
+    "cafes": []
+  },
+  "Inavale": {
+    "city": "Inavale",
+    "city_ascii": "Inavale",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0923,
+    "lng": -98.6484,
+    "cafes": []
+  },
+  "La Platte": {
+    "city": "La Platte",
+    "city_ascii": "La Platte",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0718,
+    "lng": -95.9255,
+    "cafes": []
+  },
+  "Elyria": {
+    "city": "Elyria",
+    "city_ascii": "Elyria",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6802,
+    "lng": -99.0053,
+    "cafes": []
+  },
+  "Foster": {
+    "city": "Foster",
+    "city_ascii": "Foster",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.2747,
+    "lng": -97.6651,
+    "cafes": []
+  },
+  "Deweese": {
+    "city": "Deweese",
+    "city_ascii": "Deweese",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3547,
+    "lng": -98.1392,
+    "cafes": []
+  },
+  "Barada": {
+    "city": "Barada",
+    "city_ascii": "Barada",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.2185,
+    "lng": -95.5777,
+    "cafes": []
+  },
+  "Nora": {
+    "city": "Nora",
+    "city_ascii": "Nora",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1642,
+    "lng": -97.9738,
+    "cafes": []
+  },
+  "Lushton": {
+    "city": "Lushton",
+    "city_ascii": "Lushton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.724,
+    "lng": -97.7237,
+    "cafes": []
+  },
+  "Seneca": {
+    "city": "Seneca",
+    "city_ascii": "Seneca",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.044,
+    "lng": -100.8321,
+    "cafes": []
+  },
+  "Inland": {
+    "city": "Inland",
+    "city_ascii": "Inland",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5954,
+    "lng": -98.2232,
+    "cafes": []
+  },
+  "Johnstown": {
+    "city": "Johnstown",
+    "city_ascii": "Johnstown",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5721,
+    "lng": -100.0563,
+    "cafes": []
+  },
+  "Venice": {
+    "city": "Venice",
+    "city_ascii": "Venice",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.239,
+    "lng": -96.3526,
+    "cafes": []
+  },
+  "Stockville": {
+    "city": "Stockville",
+    "city_ascii": "Stockville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5335,
+    "lng": -100.3846,
+    "cafes": []
+  },
+  "Gilead": {
+    "city": "Gilead",
+    "city_ascii": "Gilead",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1461,
+    "lng": -97.4151,
+    "cafes": []
+  },
+  "Hendley": {
+    "city": "Hendley",
+    "city_ascii": "Hendley",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1313,
+    "lng": -99.9713,
+    "cafes": []
+  },
+  "Strang": {
+    "city": "Strang",
+    "city_ascii": "Strang",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4149,
+    "lng": -97.5872,
+    "cafes": []
+  },
+  "Tarnov": {
+    "city": "Tarnov",
+    "city_ascii": "Tarnov",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.6148,
+    "lng": -97.5025,
+    "cafes": []
+  },
+  "Preston": {
+    "city": "Preston",
+    "city_ascii": "Preston",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0346,
+    "lng": -95.5182,
+    "cafes": []
+  },
+  "Cotesfield": {
+    "city": "Cotesfield",
+    "city_ascii": "Cotesfield",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3575,
+    "lng": -98.6335,
+    "cafes": []
+  },
+  "Crab Orchard": {
+    "city": "Crab Orchard",
+    "city_ascii": "Crab Orchard",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3347,
+    "lng": -96.4224,
+    "cafes": []
+  },
+  "King Lake": {
+    "city": "King Lake",
+    "city_ascii": "King Lake",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3135,
+    "lng": -96.3017,
+    "cafes": []
+  },
+  "Gandy": {
+    "city": "Gandy",
+    "city_ascii": "Gandy",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4698,
+    "lng": -100.4583,
+    "cafes": []
+  },
+  "Nenzel": {
+    "city": "Nenzel",
+    "city_ascii": "Nenzel",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.9274,
+    "lng": -101.1018,
+    "cafes": []
+  },
+  "Wood Lake": {
+    "city": "Wood Lake",
+    "city_ascii": "Wood Lake",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6386,
+    "lng": -100.2376,
+    "cafes": []
+  },
+  "Max": {
+    "city": "Max",
+    "city_ascii": "Max",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1143,
+    "lng": -101.4045,
+    "cafes": []
+  },
+  "Obert": {
+    "city": "Obert",
+    "city_ascii": "Obert",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.6895,
+    "lng": -97.0272,
+    "cafes": []
+  },
+  "Westerville": {
+    "city": "Westerville",
+    "city_ascii": "Westerville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.3962,
+    "lng": -99.3818,
+    "cafes": []
+  },
+  "Hamlet": {
+    "city": "Hamlet",
+    "city_ascii": "Hamlet",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3845,
+    "lng": -101.2345,
+    "cafes": []
+  },
+  "Sholes": {
+    "city": "Sholes",
+    "city_ascii": "Sholes",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.3348,
+    "lng": -97.2946,
+    "cafes": []
+  },
+  "Parks": {
+    "city": "Parks",
+    "city_ascii": "Parks",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.0436,
+    "lng": -101.7251,
+    "cafes": []
+  },
+  "Emmet": {
+    "city": "Emmet",
+    "city_ascii": "Emmet",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.4757,
+    "lng": -98.8093,
+    "cafes": []
+  },
+  "Keystone": {
+    "city": "Keystone",
+    "city_ascii": "Keystone",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2187,
+    "lng": -101.5841,
+    "cafes": []
+  },
+  "Gross": {
+    "city": "Gross",
+    "city_ascii": "Gross",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.9461,
+    "lng": -98.5697,
+    "cafes": []
+  },
+  "Stockham": {
+    "city": "Stockham",
+    "city_ascii": "Stockham",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.7164,
+    "lng": -97.9434,
+    "cafes": []
+  },
+  "Lisco": {
+    "city": "Lisco",
+    "city_ascii": "Lisco",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4986,
+    "lng": -102.6236,
+    "cafes": []
+  },
+  "Champion": {
+    "city": "Champion",
+    "city_ascii": "Champion",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4706,
+    "lng": -101.7468,
+    "cafes": []
+  },
+  "Sarben": {
+    "city": "Sarben",
+    "city_ascii": "Sarben",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.1662,
+    "lng": -101.3043,
+    "cafes": []
+  },
+  "Berea": {
+    "city": "Berea",
+    "city_ascii": "Berea",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.2123,
+    "lng": -102.983,
+    "cafes": []
+  },
+  "Lorenzo": {
+    "city": "Lorenzo",
+    "city_ascii": "Lorenzo",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0576,
+    "lng": -103.0821,
+    "cafes": []
+  },
+  "Tamora": {
+    "city": "Tamora",
+    "city_ascii": "Tamora",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8945,
+    "lng": -97.2252,
+    "cafes": []
+  },
+  "Bazile Mills": {
+    "city": "Bazile Mills",
+    "city_ascii": "Bazile Mills",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.5124,
+    "lng": -97.9083,
+    "cafes": []
+  },
+  "Lindy": {
+    "city": "Lindy",
+    "city_ascii": "Lindy",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.7351,
+    "lng": -97.7499,
+    "cafes": []
+  },
+  "Ragan": {
+    "city": "Ragan",
+    "city_ascii": "Ragan",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.3108,
+    "lng": -99.2896,
+    "cafes": []
+  },
+  "Kramer": {
+    "city": "Kramer",
+    "city_ascii": "Kramer",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5913,
+    "lng": -96.8734,
+    "cafes": []
+  },
+  "Lamar": {
+    "city": "Lamar",
+    "city_ascii": "Lamar",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.5725,
+    "lng": -101.9793,
+    "cafes": []
+  },
+  "Brownlee": {
+    "city": "Brownlee",
+    "city_ascii": "Brownlee",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.2893,
+    "lng": -100.6241,
+    "cafes": []
+  },
+  "Emerald": {
+    "city": "Emerald",
+    "city_ascii": "Emerald",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.8131,
+    "lng": -96.8354,
+    "cafes": []
+  },
+  "Cowles": {
+    "city": "Cowles",
+    "city_ascii": "Cowles",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.1714,
+    "lng": -98.4491,
+    "cafes": []
+  },
+  "Monowi": {
+    "city": "Monowi",
+    "city_ascii": "Monowi",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.8307,
+    "lng": -98.3296,
+    "cafes": []
+  },
+  "Agnew": {
+    "city": "Agnew",
+    "city_ascii": "Agnew",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.0142,
+    "lng": -96.8143,
+    "cafes": []
+  },
+  "Willow Island": {
+    "city": "Willow Island",
+    "city_ascii": "Willow Island",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.89,
+    "lng": -100.0707,
+    "cafes": []
+  },
+  "White Clay": {
+    "city": "White Clay",
+    "city_ascii": "White Clay",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.997,
+    "lng": -102.555,
+    "cafes": []
+  },
+  "Prairie Home": {
+    "city": "Prairie Home",
+    "city_ascii": "Prairie Home",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.862,
+    "lng": -96.5245,
+    "cafes": []
+  },
+  "Enders": {
+    "city": "Enders",
+    "city_ascii": "Enders",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.4549,
+    "lng": -101.5355,
+    "cafes": []
+  },
+  "Poole": {
+    "city": "Poole",
+    "city_ascii": "Poole",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 40.987,
+    "lng": -98.9655,
+    "cafes": []
+  },
+  "Burton": {
+    "city": "Burton",
+    "city_ascii": "Burton",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 42.9119,
+    "lng": -99.5918,
+    "cafes": []
+  },
+  "Ames": {
+    "city": "Ames",
+    "city_ascii": "Ames",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.4491,
+    "lng": -96.6263,
+    "cafes": []
+  },
+  "Raeville": {
+    "city": "Raeville",
+    "city_ascii": "Raeville",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.8955,
+    "lng": -98.0535,
+    "cafes": []
+  }
+}

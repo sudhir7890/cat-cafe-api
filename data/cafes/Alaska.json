@@ -1,0 +1,3240 @@
+{
+  "Fairbanks": {
+    "city": "Fairbanks",
+    "city_ascii": "Fairbanks",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.8353,
+    "lng": -147.6533,
+    "cafes": [
+      {
+        "name": "The Barista Cats",
+        "address": "1780 Peger Rd, Fairbanks, AK 99709, USA",
+        "rating": 4.6,
+        "user_ratings_total": 31,
+        "website": "https://www.facebook.com/thebaristacats/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1755287285695835884",
+        "lat": 64.8327685,
+        "lng": -147.7797454,
+        "accessibility_options": "N/A",
+        "reviews": [
+          {
+            "author": "Chelsea Frost",
+            "rating": 5,
+            "text": {
+              "text": "Adorable little coffeehut serving delicious Kaladi  Brothers espresso. Baristas are cheerful and friendly. Great location, especially if you are waiting at Jiffy Lube or the DMV.",
+              "languageCode": "en"
+            },
+            "time": "5 years ago"
+          },
+          {
+            "author": "Rebecca",
+            "rating": 5,
+            "text": {
+              "text": "I've been gone for over two years and they still have gigantic burritos for the same decent price. I recommend the works with onions, peppers, sour cream, salsa added. Well worth the $6. I also like their signature Barista Cat (WC Americano) and the high caffeine white coffee option.\nThey've done well with their business and are able to stand out over many other coffee huts/shops.",
+              "languageCode": "en"
+            },
+            "time": "3 years ago"
+          },
+          {
+            "author": "Stephanie Grijalva",
+            "rating": 5,
+            "text": {
+              "text": "Best breakfast burritos in town! They are MASSIVE, delicious and filling. They also always have delicious coffee that is consistently the same great taste.",
+              "languageCode": "en"
+            },
+            "time": "3 years ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2fHVzumDiC0MgxAiP4NjewB5iiy0dzEpoiSKJoW12v4yGoZsyUP_JVbYcnTYxFZL_CHpqeYORedxhAV2nupv9UcAaAamGpqs_dDgyx3PczJXGIBzA_-r6bzigaQh5Y_qkIaz7WuQs8l4-Gu6Bh1xMdMnwyy6vjH3ToaRLOpV5HKN93T6Nn4u_IgutR3IQ4HsrPZo9hAD28twRLXhP-r_EJSRTHGfksPAhwUv-D2H9tlpo1j7tGbQ_nW9k05iZSfUYcJHwkWHpADcRog8ZoBWJSMyNggHT5u8wxOlByUtgGeAtyD_ZUZGbFLC9yehDkx7u82VdkAuI0nmIcUDQap0s_V48h-vAAkBR20tdEef1ZyaVJiBU9s-oUPVEShs5IiLAKpiJD5Vr5zXLkjkIYTQYU2kQCjGFVuwrd&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Anchorage": {
+    "city": "Anchorage",
+    "city_ascii": "Anchorage",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.1508,
+    "lng": -149.1091,
+    "cafes": []
+  },
+  "Juneau": {
+    "city": "Juneau",
+    "city_ascii": "Juneau",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.4546,
+    "lng": -134.1739,
+    "cafes": []
+  },
+  "Badger": {
+    "city": "Badger",
+    "city_ascii": "Badger",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.8006,
+    "lng": -147.3877,
+    "cafes": []
+  },
+  "Knik-Fairview": {
+    "city": "Knik-Fairview",
+    "city_ascii": "Knik-Fairview",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5082,
+    "lng": -149.6252,
+    "cafes": []
+  },
+  "College": {
+    "city": "College",
+    "city_ascii": "College",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.8694,
+    "lng": -147.8216,
+    "cafes": []
+  },
+  "North Lakes": {
+    "city": "North Lakes",
+    "city_ascii": "North Lakes",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.6191,
+    "lng": -149.311,
+    "cafes": []
+  },
+  "Tanaina": {
+    "city": "Tanaina",
+    "city_ascii": "Tanaina",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.6576,
+    "lng": -149.4263,
+    "cafes": []
+  },
+  "Wasilla": {
+    "city": "Wasilla",
+    "city_ascii": "Wasilla",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.577,
+    "lng": -149.466,
+    "cafes": []
+  },
+  "Meadow Lakes": {
+    "city": "Meadow Lakes",
+    "city_ascii": "Meadow Lakes",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.638,
+    "lng": -149.608,
+    "cafes": []
+  },
+  "Sitka": {
+    "city": "Sitka",
+    "city_ascii": "Sitka",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.2401,
+    "lng": -135.3152,
+    "cafes": []
+  },
+  "Ketchikan": {
+    "city": "Ketchikan",
+    "city_ascii": "Ketchikan",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.3556,
+    "lng": -131.6698,
+    "cafes": []
+  },
+  "Kalifornsky": {
+    "city": "Kalifornsky",
+    "city_ascii": "Kalifornsky",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.4417,
+    "lng": -151.1972,
+    "cafes": []
+  },
+  "Kenai": {
+    "city": "Kenai",
+    "city_ascii": "Kenai",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.5619,
+    "lng": -151.1985,
+    "cafes": []
+  },
+  "Sterling": {
+    "city": "Sterling",
+    "city_ascii": "Sterling",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.5405,
+    "lng": -150.8089,
+    "cafes": []
+  },
+  "Gateway": {
+    "city": "Gateway",
+    "city_ascii": "Gateway",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5668,
+    "lng": -149.2417,
+    "cafes": []
+  },
+  "Bethel": {
+    "city": "Bethel",
+    "city_ascii": "Bethel",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.7928,
+    "lng": -161.7917,
+    "cafes": []
+  },
+  "Palmer": {
+    "city": "Palmer",
+    "city_ascii": "Palmer",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5971,
+    "lng": -149.1148,
+    "cafes": []
+  },
+  "South Lakes": {
+    "city": "South Lakes",
+    "city_ascii": "South Lakes",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5874,
+    "lng": -149.316,
+    "cafes": []
+  },
+  "Chena Ridge": {
+    "city": "Chena Ridge",
+    "city_ascii": "Chena Ridge",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.7941,
+    "lng": -148.0357,
+    "cafes": []
+  },
+  "Steele Creek": {
+    "city": "Steele Creek",
+    "city_ascii": "Steele Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.9295,
+    "lng": -147.3955,
+    "cafes": []
+  },
+  "Homer": {
+    "city": "Homer",
+    "city_ascii": "Homer",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.653,
+    "lng": -151.5255,
+    "cafes": []
+  },
+  "Kodiak": {
+    "city": "Kodiak",
+    "city_ascii": "Kodiak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.7934,
+    "lng": -152.4059,
+    "cafes": []
+  },
+  "Fishhook": {
+    "city": "Fishhook",
+    "city_ascii": "Fishhook",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.7199,
+    "lng": -149.2621,
+    "cafes": []
+  },
+  "Farmers Loop": {
+    "city": "Farmers Loop",
+    "city_ascii": "Farmers Loop",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.9061,
+    "lng": -147.6957,
+    "cafes": []
+  },
+  "Utqiagvik": {
+    "city": "Utqiagvik",
+    "city_ascii": "Utqiagvik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 71.2727,
+    "lng": -156.7575,
+    "cafes": []
+  },
+  "Nikiski": {
+    "city": "Nikiski",
+    "city_ascii": "Nikiski",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.7152,
+    "lng": -151.2317,
+    "cafes": []
+  },
+  "Soldotna": {
+    "city": "Soldotna",
+    "city_ascii": "Soldotna",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.4862,
+    "lng": -151.0672,
+    "cafes": []
+  },
+  "Unalaska": {
+    "city": "Unalaska",
+    "city_ascii": "Unalaska",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 53.8984,
+    "lng": -166.568,
+    "cafes": []
+  },
+  "Valdez": {
+    "city": "Valdez",
+    "city_ascii": "Valdez",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.0963,
+    "lng": -146.2596,
+    "cafes": []
+  },
+  "Butte": {
+    "city": "Butte",
+    "city_ascii": "Butte",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5539,
+    "lng": -149.0035,
+    "cafes": []
+  },
+  "Nome": {
+    "city": "Nome",
+    "city_ascii": "Nome",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.5213,
+    "lng": -165.4053,
+    "cafes": []
+  },
+  "Mill Bay": {
+    "city": "Mill Bay",
+    "city_ascii": "Mill Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.8185,
+    "lng": -152.3657,
+    "cafes": []
+  },
+  "Petersburg": {
+    "city": "Petersburg",
+    "city_ascii": "Petersburg",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.7566,
+    "lng": -132.8727,
+    "cafes": []
+  },
+  "Big Lake": {
+    "city": "Big Lake",
+    "city_ascii": "Big Lake",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.526,
+    "lng": -149.9721,
+    "cafes": []
+  },
+  "Goldstream": {
+    "city": "Goldstream",
+    "city_ascii": "Goldstream",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.9339,
+    "lng": -148.0083,
+    "cafes": []
+  },
+  "Eielson AFB": {
+    "city": "Eielson AFB",
+    "city_ascii": "Eielson AFB",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.6741,
+    "lng": -147.0605,
+    "cafes": []
+  },
+  "Kotzebue": {
+    "city": "Kotzebue",
+    "city_ascii": "Kotzebue",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.8766,
+    "lng": -162.5231,
+    "cafes": []
+  },
+  "Farm Loop": {
+    "city": "Farm Loop",
+    "city_ascii": "Farm Loop",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.6343,
+    "lng": -149.1614,
+    "cafes": []
+  },
+  "Ester": {
+    "city": "Ester",
+    "city_ascii": "Ester",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.8646,
+    "lng": -148.0916,
+    "cafes": []
+  },
+  "Seward": {
+    "city": "Seward",
+    "city_ascii": "Seward",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.1124,
+    "lng": -149.3925,
+    "cafes": []
+  },
+  "North Pole": {
+    "city": "North Pole",
+    "city_ascii": "North Pole",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.7529,
+    "lng": -147.3599,
+    "cafes": []
+  },
+  "Fritz Creek": {
+    "city": "Fritz Creek",
+    "city_ascii": "Fritz Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.747,
+    "lng": -151.2885,
+    "cafes": []
+  },
+  "Cordova": {
+    "city": "Cordova",
+    "city_ascii": "Cordova",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.5347,
+    "lng": -145.6087,
+    "cafes": []
+  },
+  "Anchor Point": {
+    "city": "Anchor Point",
+    "city_ascii": "Anchor Point",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.7703,
+    "lng": -151.7052,
+    "cafes": []
+  },
+  "Ridgeway": {
+    "city": "Ridgeway",
+    "city_ascii": "Ridgeway",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.5305,
+    "lng": -151.0301,
+    "cafes": []
+  },
+  "Wrangell": {
+    "city": "Wrangell",
+    "city_ascii": "Wrangell",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.3317,
+    "lng": -132.0223,
+    "cafes": []
+  },
+  "Dillingham": {
+    "city": "Dillingham",
+    "city_ascii": "Dillingham",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.055,
+    "lng": -158.5378,
+    "cafes": []
+  },
+  "Deltana": {
+    "city": "Deltana",
+    "city_ascii": "Deltana",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.8723,
+    "lng": -145.2158,
+    "cafes": []
+  },
+  "Prudhoe Bay": {
+    "city": "Prudhoe Bay",
+    "city_ascii": "Prudhoe Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 70.3148,
+    "lng": -148.7167,
+    "cafes": []
+  },
+  "Kodiak Station": {
+    "city": "Kodiak Station",
+    "city_ascii": "Kodiak Station",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.745,
+    "lng": -152.5442,
+    "cafes": []
+  },
+  "Haines": {
+    "city": "Haines",
+    "city_ascii": "Haines",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.2416,
+    "lng": -135.4549,
+    "cafes": []
+  },
+  "Willow": {
+    "city": "Willow",
+    "city_ascii": "Willow",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.8157,
+    "lng": -149.753,
+    "cafes": []
+  },
+  "Point MacKenzie": {
+    "city": "Point MacKenzie",
+    "city_ascii": "Point MacKenzie",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.3498,
+    "lng": -150.0664,
+    "cafes": []
+  },
+  "Houston": {
+    "city": "Houston",
+    "city_ascii": "Houston",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.6159,
+    "lng": -149.8003,
+    "cafes": []
+  },
+  "Cohoe": {
+    "city": "Cohoe",
+    "city_ascii": "Cohoe",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.2681,
+    "lng": -151.2843,
+    "cafes": []
+  },
+  "Susitna North": {
+    "city": "Susitna North",
+    "city_ascii": "Susitna North",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.1281,
+    "lng": -149.8593,
+    "cafes": []
+  },
+  "Tok": {
+    "city": "Tok",
+    "city_ascii": "Tok",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.329,
+    "lng": -143.0379,
+    "cafes": []
+  },
+  "Lazy Mountain": {
+    "city": "Lazy Mountain",
+    "city_ascii": "Lazy Mountain",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.6517,
+    "lng": -148.902,
+    "cafes": []
+  },
+  "Sutton-Alpine": {
+    "city": "Sutton-Alpine",
+    "city_ascii": "Sutton-Alpine",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.7428,
+    "lng": -148.8548,
+    "cafes": []
+  },
+  "Bear Creek": {
+    "city": "Bear Creek",
+    "city_ascii": "Bear Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.2071,
+    "lng": -149.3524,
+    "cafes": []
+  },
+  "Metlakatla": {
+    "city": "Metlakatla",
+    "city_ascii": "Metlakatla",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.1182,
+    "lng": -131.5689,
+    "cafes": []
+  },
+  "Diamond Ridge": {
+    "city": "Diamond Ridge",
+    "city_ascii": "Diamond Ridge",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.7024,
+    "lng": -151.5546,
+    "cafes": []
+  },
+  "Quinhagak": {
+    "city": "Quinhagak",
+    "city_ascii": "Quinhagak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.7511,
+    "lng": -161.8992,
+    "cafes": []
+  },
+  "Skagway": {
+    "city": "Skagway",
+    "city_ascii": "Skagway",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.4566,
+    "lng": -135.2927,
+    "cafes": []
+  },
+  "King Cove": {
+    "city": "King Cove",
+    "city_ascii": "King Cove",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.0858,
+    "lng": -162.2978,
+    "cafes": []
+  },
+  "Salamatof": {
+    "city": "Salamatof",
+    "city_ascii": "Salamatof",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.6154,
+    "lng": -151.3159,
+    "cafes": []
+  },
+  "Kotlik": {
+    "city": "Kotlik",
+    "city_ascii": "Kotlik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.0305,
+    "lng": -163.553,
+    "cafes": []
+  },
+  "Delta Junction": {
+    "city": "Delta Junction",
+    "city_ascii": "Delta Junction",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.0603,
+    "lng": -145.7058,
+    "cafes": []
+  },
+  "Sand Point": {
+    "city": "Sand Point",
+    "city_ascii": "Sand Point",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.3227,
+    "lng": -160.4834,
+    "cafes": []
+  },
+  "Funny River": {
+    "city": "Funny River",
+    "city_ascii": "Funny River",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.4876,
+    "lng": -150.7812,
+    "cafes": []
+  },
+  "Salcha": {
+    "city": "Salcha",
+    "city_ascii": "Salcha",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.5274,
+    "lng": -146.9042,
+    "cafes": []
+  },
+  "Craig": {
+    "city": "Craig",
+    "city_ascii": "Craig",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.4918,
+    "lng": -133.1165,
+    "cafes": []
+  },
+  "Ninilchik": {
+    "city": "Ninilchik",
+    "city_ascii": "Ninilchik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.0745,
+    "lng": -151.3843,
+    "cafes": []
+  },
+  "Hooper Bay": {
+    "city": "Hooper Bay",
+    "city_ascii": "Hooper Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5262,
+    "lng": -166.1146,
+    "cafes": []
+  },
+  "Toksook Bay": {
+    "city": "Toksook Bay",
+    "city_ascii": "Toksook Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.5333,
+    "lng": -165.1557,
+    "cafes": []
+  },
+  "Alakanuk": {
+    "city": "Alakanuk",
+    "city_ascii": "Alakanuk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.6902,
+    "lng": -164.6305,
+    "cafes": []
+  },
+  "Talkeetna": {
+    "city": "Talkeetna",
+    "city_ascii": "Talkeetna",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.2994,
+    "lng": -149.9601,
+    "cafes": []
+  },
+  "Womens Bay": {
+    "city": "Womens Bay",
+    "city_ascii": "Womens Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.696,
+    "lng": -152.6276,
+    "cafes": []
+  },
+  "Togiak": {
+    "city": "Togiak",
+    "city_ascii": "Togiak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.0693,
+    "lng": -160.4728,
+    "cafes": []
+  },
+  "Emmonak": {
+    "city": "Emmonak",
+    "city_ascii": "Emmonak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.7762,
+    "lng": -164.5157,
+    "cafes": []
+  },
+  "Hoonah": {
+    "city": "Hoonah",
+    "city_ascii": "Hoonah",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.1118,
+    "lng": -135.4248,
+    "cafes": []
+  },
+  "Mountain Village": {
+    "city": "Mountain Village",
+    "city_ascii": "Mountain Village",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.0911,
+    "lng": -163.7209,
+    "cafes": []
+  },
+  "Knik River": {
+    "city": "Knik River",
+    "city_ascii": "Knik River",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.4606,
+    "lng": -148.9155,
+    "cafes": []
+  },
+  "Kwethluk": {
+    "city": "Kwethluk",
+    "city_ascii": "Kwethluk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.7978,
+    "lng": -161.4147,
+    "cafes": []
+  },
+  "Kachemak": {
+    "city": "Kachemak",
+    "city_ascii": "Kachemak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.6745,
+    "lng": -151.4363,
+    "cafes": []
+  },
+  "Kivalina": {
+    "city": "Kivalina",
+    "city_ascii": "Kivalina",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 67.733,
+    "lng": -164.5212,
+    "cafes": []
+  },
+  "Unalakleet": {
+    "city": "Unalakleet",
+    "city_ascii": "Unalakleet",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.8924,
+    "lng": -160.7861,
+    "cafes": []
+  },
+  "Buffalo Soapstone": {
+    "city": "Buffalo Soapstone",
+    "city_ascii": "Buffalo Soapstone",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.7071,
+    "lng": -149.1093,
+    "cafes": []
+  },
+  "St. Mary's": {
+    "city": "St. Mary's",
+    "city_ascii": "St. Mary's",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.0718,
+    "lng": -163.2805,
+    "cafes": []
+  },
+  "Denali Park": {
+    "city": "Denali Park",
+    "city_ascii": "Denali Park",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.5909,
+    "lng": -148.7107,
+    "cafes": []
+  },
+  "Happy Valley": {
+    "city": "Happy Valley",
+    "city_ascii": "Happy Valley",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.9137,
+    "lng": -151.6072,
+    "cafes": []
+  },
+  "Savoonga": {
+    "city": "Savoonga",
+    "city_ascii": "Savoonga",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.6797,
+    "lng": -170.4831,
+    "cafes": []
+  },
+  "Nunapitchuk": {
+    "city": "Nunapitchuk",
+    "city_ascii": "Nunapitchuk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.8772,
+    "lng": -162.4615,
+    "cafes": []
+  },
+  "Klawock": {
+    "city": "Klawock",
+    "city_ascii": "Klawock",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.5556,
+    "lng": -133.0868,
+    "cafes": []
+  },
+  "Akutan": {
+    "city": "Akutan",
+    "city_ascii": "Akutan",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 54.1594,
+    "lng": -165.7328,
+    "cafes": []
+  },
+  "Healy": {
+    "city": "Healy",
+    "city_ascii": "Healy",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.9454,
+    "lng": -149.0151,
+    "cafes": []
+  },
+  "Noorvik": {
+    "city": "Noorvik",
+    "city_ascii": "Noorvik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.8292,
+    "lng": -161.0377,
+    "cafes": []
+  },
+  "Point Hope": {
+    "city": "Point Hope",
+    "city_ascii": "Point Hope",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 68.3445,
+    "lng": -166.6738,
+    "cafes": []
+  },
+  "Noatak": {
+    "city": "Noatak",
+    "city_ascii": "Noatak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 67.5986,
+    "lng": -163.0309,
+    "cafes": []
+  },
+  "Manokotak": {
+    "city": "Manokotak",
+    "city_ascii": "Manokotak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.893,
+    "lng": -158.9109,
+    "cafes": []
+  },
+  "Kasigluk": {
+    "city": "Kasigluk",
+    "city_ascii": "Kasigluk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.8785,
+    "lng": -162.5272,
+    "cafes": []
+  },
+  "Brevig Mission": {
+    "city": "Brevig Mission",
+    "city_ascii": "Brevig Mission",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.3413,
+    "lng": -166.4953,
+    "cafes": []
+  },
+  "Stebbins": {
+    "city": "Stebbins",
+    "city_ascii": "Stebbins",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.4705,
+    "lng": -162.2599,
+    "cafes": []
+  },
+  "Big Delta": {
+    "city": "Big Delta",
+    "city_ascii": "Big Delta",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.1486,
+    "lng": -145.7453,
+    "cafes": []
+  },
+  "Buckland": {
+    "city": "Buckland",
+    "city_ascii": "Buckland",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.9784,
+    "lng": -161.1341,
+    "cafes": []
+  },
+  "Akiachak": {
+    "city": "Akiachak",
+    "city_ascii": "Akiachak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.921,
+    "lng": -161.4021,
+    "cafes": []
+  },
+  "Tuntutuliak": {
+    "city": "Tuntutuliak",
+    "city_ascii": "Tuntutuliak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.3843,
+    "lng": -162.6838,
+    "cafes": []
+  },
+  "Wainwright": {
+    "city": "Wainwright",
+    "city_ascii": "Wainwright",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 70.638,
+    "lng": -159.9713,
+    "cafes": []
+  },
+  "Gustavus": {
+    "city": "Gustavus",
+    "city_ascii": "Gustavus",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.4275,
+    "lng": -135.7492,
+    "cafes": []
+  },
+  "Fox River": {
+    "city": "Fox River",
+    "city_ascii": "Fox River",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.8722,
+    "lng": -150.9984,
+    "cafes": []
+  },
+  "Glennallen": {
+    "city": "Glennallen",
+    "city_ascii": "Glennallen",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.1278,
+    "lng": -145.7693,
+    "cafes": []
+  },
+  "Kake": {
+    "city": "Kake",
+    "city_ascii": "Kake",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.9729,
+    "lng": -133.9148,
+    "cafes": []
+  },
+  "Napakiak": {
+    "city": "Napakiak",
+    "city_ascii": "Napakiak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.6923,
+    "lng": -161.9822,
+    "cafes": []
+  },
+  "Fort Yukon": {
+    "city": "Fort Yukon",
+    "city_ascii": "Fort Yukon",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.5806,
+    "lng": -145.2415,
+    "cafes": []
+  },
+  "Aniak": {
+    "city": "Aniak",
+    "city_ascii": "Aniak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5817,
+    "lng": -159.5451,
+    "cafes": []
+  },
+  "Two Rivers": {
+    "city": "Two Rivers",
+    "city_ascii": "Two Rivers",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.8908,
+    "lng": -147.0897,
+    "cafes": []
+  },
+  "Galena": {
+    "city": "Galena",
+    "city_ascii": "Galena",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.7381,
+    "lng": -156.8635,
+    "cafes": []
+  },
+  "Napaskiak": {
+    "city": "Napaskiak",
+    "city_ascii": "Napaskiak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.7018,
+    "lng": -161.7616,
+    "cafes": []
+  },
+  "Pilot Station": {
+    "city": "Pilot Station",
+    "city_ascii": "Pilot Station",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.9422,
+    "lng": -162.8828,
+    "cafes": []
+  },
+  "Chefornak": {
+    "city": "Chefornak",
+    "city_ascii": "Chefornak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.155,
+    "lng": -164.255,
+    "cafes": []
+  },
+  "Nuiqsut": {
+    "city": "Nuiqsut",
+    "city_ascii": "Nuiqsut",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 70.2135,
+    "lng": -150.9897,
+    "cafes": []
+  },
+  "Nenana": {
+    "city": "Nenana",
+    "city_ascii": "Nenana",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.5384,
+    "lng": -149.0856,
+    "cafes": []
+  },
+  "Trapper Creek": {
+    "city": "Trapper Creek",
+    "city_ascii": "Trapper Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.3189,
+    "lng": -150.3965,
+    "cafes": []
+  },
+  "Pleasant Valley": {
+    "city": "Pleasant Valley",
+    "city_ascii": "Pleasant Valley",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.8855,
+    "lng": -146.8985,
+    "cafes": []
+  },
+  "Yakutat": {
+    "city": "Yakutat",
+    "city_ascii": "Yakutat",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.567,
+    "lng": -139.5966,
+    "cafes": []
+  },
+  "Scammon Bay": {
+    "city": "Scammon Bay",
+    "city_ascii": "Scammon Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.842,
+    "lng": -165.5833,
+    "cafes": []
+  },
+  "Kipnuk": {
+    "city": "Kipnuk",
+    "city_ascii": "Kipnuk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.9373,
+    "lng": -164.0616,
+    "cafes": []
+  },
+  "Thorne Bay": {
+    "city": "Thorne Bay",
+    "city_ascii": "Thorne Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.6652,
+    "lng": -132.5337,
+    "cafes": []
+  },
+  "Kiana": {
+    "city": "Kiana",
+    "city_ascii": "Kiana",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.9727,
+    "lng": -160.4343,
+    "cafes": []
+  },
+  "Whittier": {
+    "city": "Whittier",
+    "city_ascii": "Whittier",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.7852,
+    "lng": -148.6455,
+    "cafes": []
+  },
+  "Angoon": {
+    "city": "Angoon",
+    "city_ascii": "Angoon",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.455,
+    "lng": -134.4978,
+    "cafes": []
+  },
+  "New Stuyahok": {
+    "city": "New Stuyahok",
+    "city_ascii": "New Stuyahok",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.4762,
+    "lng": -157.271,
+    "cafes": []
+  },
+  "Gambell": {
+    "city": "Gambell",
+    "city_ascii": "Gambell",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.7538,
+    "lng": -171.6881,
+    "cafes": []
+  },
+  "Chevak": {
+    "city": "Chevak",
+    "city_ascii": "Chevak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5295,
+    "lng": -165.5941,
+    "cafes": []
+  },
+  "Shishmaref": {
+    "city": "Shishmaref",
+    "city_ascii": "Shishmaref",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.2372,
+    "lng": -166.1027,
+    "cafes": []
+  },
+  "Kwigillingok": {
+    "city": "Kwigillingok",
+    "city_ascii": "Kwigillingok",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.8767,
+    "lng": -163.1715,
+    "cafes": []
+  },
+  "Naknek": {
+    "city": "Naknek",
+    "city_ascii": "Naknek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.7847,
+    "lng": -156.8966,
+    "cafes": []
+  },
+  "Marshall": {
+    "city": "Marshall",
+    "city_ascii": "Marshall",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.8753,
+    "lng": -162.0487,
+    "cafes": []
+  },
+  "Tununak": {
+    "city": "Tununak",
+    "city_ascii": "Tununak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.579,
+    "lng": -165.2077,
+    "cafes": []
+  },
+  "Kasilof": {
+    "city": "Kasilof",
+    "city_ascii": "Kasilof",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.331,
+    "lng": -151.2293,
+    "cafes": []
+  },
+  "Selawik": {
+    "city": "Selawik",
+    "city_ascii": "Selawik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.5988,
+    "lng": -159.9995,
+    "cafes": []
+  },
+  "Tazlina": {
+    "city": "Tazlina",
+    "city_ascii": "Tazlina",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.0536,
+    "lng": -145.4363,
+    "cafes": []
+  },
+  "St. Paul": {
+    "city": "St. Paul",
+    "city_ascii": "St. Paul",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.1815,
+    "lng": -170.2743,
+    "cafes": []
+  },
+  "Saxman": {
+    "city": "Saxman",
+    "city_ascii": "Saxman",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.3232,
+    "lng": -131.5892,
+    "cafes": []
+  },
+  "South Van Horn": {
+    "city": "South Van Horn",
+    "city_ascii": "South Van Horn",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.8091,
+    "lng": -147.7854,
+    "cafes": []
+  },
+  "King Salmon": {
+    "city": "King Salmon",
+    "city_ascii": "King Salmon",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.753,
+    "lng": -156.5061,
+    "cafes": []
+  },
+  "Eek": {
+    "city": "Eek",
+    "city_ascii": "Eek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.2164,
+    "lng": -162.0331,
+    "cafes": []
+  },
+  "Moose Creek": {
+    "city": "Moose Creek",
+    "city_ascii": "Moose Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.714,
+    "lng": -147.1639,
+    "cafes": []
+  },
+  "Tuluksak": {
+    "city": "Tuluksak",
+    "city_ascii": "Tuluksak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.105,
+    "lng": -160.9493,
+    "cafes": []
+  },
+  "Chickaloon": {
+    "city": "Chickaloon",
+    "city_ascii": "Chickaloon",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.804,
+    "lng": -148.4103,
+    "cafes": []
+  },
+  "Copper Center": {
+    "city": "Copper Center",
+    "city_ascii": "Copper Center",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.9845,
+    "lng": -145.3544,
+    "cafes": []
+  },
+  "Teller": {
+    "city": "Teller",
+    "city_ascii": "Teller",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.2531,
+    "lng": -166.342,
+    "cafes": []
+  },
+  "Tanana": {
+    "city": "Tanana",
+    "city_ascii": "Tanana",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.1746,
+    "lng": -152.0686,
+    "cafes": []
+  },
+  "Koyuk": {
+    "city": "Koyuk",
+    "city_ascii": "Koyuk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.9411,
+    "lng": -161.1454,
+    "cafes": []
+  },
+  "Coldfoot": {
+    "city": "Coldfoot",
+    "city_ascii": "Coldfoot",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 67.2475,
+    "lng": -150.1079,
+    "cafes": []
+  },
+  "Hydaburg": {
+    "city": "Hydaburg",
+    "city_ascii": "Hydaburg",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.2061,
+    "lng": -132.8208,
+    "cafes": []
+  },
+  "Clam Gulch": {
+    "city": "Clam Gulch",
+    "city_ascii": "Clam Gulch",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.2,
+    "lng": -151.3939,
+    "cafes": []
+  },
+  "Shaktoolik": {
+    "city": "Shaktoolik",
+    "city_ascii": "Shaktoolik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.3568,
+    "lng": -161.1973,
+    "cafes": []
+  },
+  "Tyonek": {
+    "city": "Tyonek",
+    "city_ascii": "Tyonek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.0734,
+    "lng": -151.333,
+    "cafes": []
+  },
+  "Mekoryuk": {
+    "city": "Mekoryuk",
+    "city_ascii": "Mekoryuk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.3704,
+    "lng": -166.267,
+    "cafes": []
+  },
+  "Point Lay": {
+    "city": "Point Lay",
+    "city_ascii": "Point Lay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 69.7443,
+    "lng": -162.8678,
+    "cafes": []
+  },
+  "Wales": {
+    "city": "Wales",
+    "city_ascii": "Wales",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.6119,
+    "lng": -168.0773,
+    "cafes": []
+  },
+  "Nulato": {
+    "city": "Nulato",
+    "city_ascii": "Nulato",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.7052,
+    "lng": -158.2382,
+    "cafes": []
+  },
+  "Elim": {
+    "city": "Elim",
+    "city_ascii": "Elim",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.6186,
+    "lng": -162.2763,
+    "cafes": []
+  },
+  "Anaktuvuk Pass": {
+    "city": "Anaktuvuk Pass",
+    "city_ascii": "Anaktuvuk Pass",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 68.15,
+    "lng": -151.7162,
+    "cafes": []
+  },
+  "Akiak": {
+    "city": "Akiak",
+    "city_ascii": "Akiak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.9061,
+    "lng": -161.2122,
+    "cafes": []
+  },
+  "Kongiganak": {
+    "city": "Kongiganak",
+    "city_ascii": "Kongiganak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.9858,
+    "lng": -162.8544,
+    "cafes": []
+  },
+  "Coffman Cove": {
+    "city": "Coffman Cove",
+    "city_ascii": "Coffman Cove",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.0057,
+    "lng": -132.8395,
+    "cafes": []
+  },
+  "Lower Kalskag": {
+    "city": "Lower Kalskag",
+    "city_ascii": "Lower Kalskag",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5163,
+    "lng": -160.3556,
+    "cafes": []
+  },
+  "Upper Kalskag": {
+    "city": "Upper Kalskag",
+    "city_ascii": "Upper Kalskag",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5416,
+    "lng": -160.3337,
+    "cafes": []
+  },
+  "Kenny Lake": {
+    "city": "Kenny Lake",
+    "city_ascii": "Kenny Lake",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.6644,
+    "lng": -144.8662,
+    "cafes": []
+  },
+  "Cooper Landing": {
+    "city": "Cooper Landing",
+    "city_ascii": "Cooper Landing",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.4945,
+    "lng": -149.841,
+    "cafes": []
+  },
+  "Holy Cross": {
+    "city": "Holy Cross",
+    "city_ascii": "Holy Cross",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.1868,
+    "lng": -159.8198,
+    "cafes": []
+  },
+  "Koliganek": {
+    "city": "Koliganek",
+    "city_ascii": "Koliganek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.6971,
+    "lng": -157.2259,
+    "cafes": []
+  },
+  "Pitkas Point": {
+    "city": "Pitkas Point",
+    "city_ascii": "Pitkas Point",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.0374,
+    "lng": -163.2681,
+    "cafes": []
+  },
+  "St. Michael": {
+    "city": "St. Michael",
+    "city_ascii": "St. Michael",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.4664,
+    "lng": -162.1324,
+    "cafes": []
+  },
+  "Halibut Cove": {
+    "city": "Halibut Cove",
+    "city_ascii": "Halibut Cove",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.5744,
+    "lng": -151.2296,
+    "cafes": []
+  },
+  "Shungnak": {
+    "city": "Shungnak",
+    "city_ascii": "Shungnak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.8805,
+    "lng": -157.1499,
+    "cafes": []
+  },
+  "Glacier View": {
+    "city": "Glacier View",
+    "city_ascii": "Glacier View",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.8511,
+    "lng": -147.7764,
+    "cafes": []
+  },
+  "Tetlin": {
+    "city": "Tetlin",
+    "city_ascii": "Tetlin",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.1481,
+    "lng": -142.4947,
+    "cafes": []
+  },
+  "Nanwalek": {
+    "city": "Nanwalek",
+    "city_ascii": "Nanwalek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.3303,
+    "lng": -151.9111,
+    "cafes": []
+  },
+  "Seldovia Village": {
+    "city": "Seldovia Village",
+    "city_ascii": "Seldovia Village",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.453,
+    "lng": -151.5905,
+    "cafes": []
+  },
+  "Harding-Birch Lakes": {
+    "city": "Harding-Birch Lakes",
+    "city_ascii": "Harding-Birch Lakes",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.3711,
+    "lng": -146.5999,
+    "cafes": []
+  },
+  "Deering": {
+    "city": "Deering",
+    "city_ascii": "Deering",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.0722,
+    "lng": -162.7435,
+    "cafes": []
+  },
+  "Golovin": {
+    "city": "Golovin",
+    "city_ascii": "Golovin",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.564,
+    "lng": -162.9989,
+    "cafes": []
+  },
+  "Russian Mission": {
+    "city": "Russian Mission",
+    "city_ascii": "Russian Mission",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.7825,
+    "lng": -161.3567,
+    "cafes": []
+  },
+  "Northway": {
+    "city": "Northway",
+    "city_ascii": "Northway",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.9709,
+    "lng": -141.6173,
+    "cafes": []
+  },
+  "Nikolaevsk": {
+    "city": "Nikolaevsk",
+    "city_ascii": "Nikolaevsk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.8295,
+    "lng": -151.5964,
+    "cafes": []
+  },
+  "Ambler": {
+    "city": "Ambler",
+    "city_ascii": "Ambler",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 67.0897,
+    "lng": -157.8725,
+    "cafes": []
+  },
+  "Gakona": {
+    "city": "Gakona",
+    "city_ascii": "Gakona",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.3609,
+    "lng": -145.2657,
+    "cafes": []
+  },
+  "McGrath": {
+    "city": "McGrath",
+    "city_ascii": "McGrath",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.9424,
+    "lng": -155.563,
+    "cafes": []
+  },
+  "Minto": {
+    "city": "Minto",
+    "city_ascii": "Minto",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.1033,
+    "lng": -149.5565,
+    "cafes": []
+  },
+  "Old Harbor": {
+    "city": "Old Harbor",
+    "city_ascii": "Old Harbor",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.2169,
+    "lng": -153.3252,
+    "cafes": []
+  },
+  "White Mountain": {
+    "city": "White Mountain",
+    "city_ascii": "White Mountain",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.6812,
+    "lng": -163.4228,
+    "cafes": []
+  },
+  "Ruby": {
+    "city": "Ruby",
+    "city_ascii": "Ruby",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.7233,
+    "lng": -155.5005,
+    "cafes": []
+  },
+  "Arctic Village": {
+    "city": "Arctic Village",
+    "city_ascii": "Arctic Village",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 68.1421,
+    "lng": -145.4956,
+    "cafes": []
+  },
+  "Seldovia": {
+    "city": "Seldovia",
+    "city_ascii": "Seldovia",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.4396,
+    "lng": -151.7111,
+    "cafes": []
+  },
+  "Port Alsworth": {
+    "city": "Port Alsworth",
+    "city_ascii": "Port Alsworth",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.1688,
+    "lng": -154.3233,
+    "cafes": []
+  },
+  "Allakaket": {
+    "city": "Allakaket",
+    "city_ascii": "Allakaket",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.5506,
+    "lng": -152.627,
+    "cafes": []
+  },
+  "Tanacross": {
+    "city": "Tanacross",
+    "city_ascii": "Tanacross",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.3523,
+    "lng": -143.4318,
+    "cafes": []
+  },
+  "Tenakee Springs": {
+    "city": "Tenakee Springs",
+    "city_ascii": "Tenakee Springs",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.7913,
+    "lng": -135.1954,
+    "cafes": []
+  },
+  "Grayling": {
+    "city": "Grayling",
+    "city_ascii": "Grayling",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.8998,
+    "lng": -160.1078,
+    "cafes": []
+  },
+  "Anderson": {
+    "city": "Anderson",
+    "city_ascii": "Anderson",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.3074,
+    "lng": -149.1562,
+    "cafes": []
+  },
+  "Cold Bay": {
+    "city": "Cold Bay",
+    "city_ascii": "Cold Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.2122,
+    "lng": -162.7475,
+    "cafes": []
+  },
+  "Kaktovik": {
+    "city": "Kaktovik",
+    "city_ascii": "Kaktovik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 70.1231,
+    "lng": -143.6258,
+    "cafes": []
+  },
+  "Port Lions": {
+    "city": "Port Lions",
+    "city_ascii": "Port Lions",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.8758,
+    "lng": -152.8737,
+    "cafes": []
+  },
+  "Hollis": {
+    "city": "Hollis",
+    "city_ascii": "Hollis",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.5113,
+    "lng": -132.7023,
+    "cafes": []
+  },
+  "Dry Creek": {
+    "city": "Dry Creek",
+    "city_ascii": "Dry Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.6255,
+    "lng": -144.6364,
+    "cafes": []
+  },
+  "Kaltag": {
+    "city": "Kaltag",
+    "city_ascii": "Kaltag",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.3223,
+    "lng": -158.7436,
+    "cafes": []
+  },
+  "Eareckson Station": {
+    "city": "Eareckson Station",
+    "city_ascii": "Eareckson Station",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 52.7213,
+    "lng": 174.111,
+    "cafes": []
+  },
+  "Adak": {
+    "city": "Adak",
+    "city_ascii": "Adak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 51.8815,
+    "lng": -176.6295,
+    "cafes": []
+  },
+  "Atqasuk": {
+    "city": "Atqasuk",
+    "city_ascii": "Atqasuk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 70.481,
+    "lng": -157.3835,
+    "cafes": []
+  },
+  "Mosquito Lake": {
+    "city": "Mosquito Lake",
+    "city_ascii": "Mosquito Lake",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.4708,
+    "lng": -136.1452,
+    "cafes": []
+  },
+  "Huslia": {
+    "city": "Huslia",
+    "city_ascii": "Huslia",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.7001,
+    "lng": -156.3386,
+    "cafes": []
+  },
+  "Willow Creek": {
+    "city": "Willow Creek",
+    "city_ascii": "Willow Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.8336,
+    "lng": -145.1836,
+    "cafes": []
+  },
+  "Kobuk": {
+    "city": "Kobuk",
+    "city_ascii": "Kobuk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.931,
+    "lng": -156.8939,
+    "cafes": []
+  },
+  "Port Graham": {
+    "city": "Port Graham",
+    "city_ascii": "Port Graham",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.34,
+    "lng": -151.8464,
+    "cafes": []
+  },
+  "Primrose": {
+    "city": "Primrose",
+    "city_ascii": "Primrose",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.3497,
+    "lng": -149.3199,
+    "cafes": []
+  },
+  "Cantwell": {
+    "city": "Cantwell",
+    "city_ascii": "Cantwell",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.379,
+    "lng": -148.8158,
+    "cafes": []
+  },
+  "Akhiok": {
+    "city": "Akhiok",
+    "city_ascii": "Akhiok",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.945,
+    "lng": -154.215,
+    "cafes": []
+  },
+  "Goodnews Bay": {
+    "city": "Goodnews Bay",
+    "city_ascii": "Goodnews Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.1271,
+    "lng": -161.5753,
+    "cafes": []
+  },
+  "Aleknagik": {
+    "city": "Aleknagik",
+    "city_ascii": "Aleknagik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.2946,
+    "lng": -158.6896,
+    "cafes": []
+  },
+  "Larsen Bay": {
+    "city": "Larsen Bay",
+    "city_ascii": "Larsen Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.5404,
+    "lng": -154.0056,
+    "cafes": []
+  },
+  "Nelchina": {
+    "city": "Nelchina",
+    "city_ascii": "Nelchina",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.9989,
+    "lng": -146.8111,
+    "cafes": []
+  },
+  "Chalkyitsik": {
+    "city": "Chalkyitsik",
+    "city_ascii": "Chalkyitsik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.6469,
+    "lng": -143.7821,
+    "cafes": []
+  },
+  "Venetie": {
+    "city": "Venetie",
+    "city_ascii": "Venetie",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 67.0206,
+    "lng": -146.3741,
+    "cafes": []
+  },
+  "Chitina": {
+    "city": "Chitina",
+    "city_ascii": "Chitina",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5276,
+    "lng": -144.2991,
+    "cafes": []
+  },
+  "Newhalen": {
+    "city": "Newhalen",
+    "city_ascii": "Newhalen",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.727,
+    "lng": -154.897,
+    "cafes": []
+  },
+  "Ouzinkie": {
+    "city": "Ouzinkie",
+    "city_ascii": "Ouzinkie",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.9223,
+    "lng": -152.4674,
+    "cafes": []
+  },
+  "Naukati Bay": {
+    "city": "Naukati Bay",
+    "city_ascii": "Naukati Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.8801,
+    "lng": -133.1992,
+    "cafes": []
+  },
+  "False Pass": {
+    "city": "False Pass",
+    "city_ascii": "False Pass",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 54.8416,
+    "lng": -163.348,
+    "cafes": []
+  },
+  "Perryville": {
+    "city": "Perryville",
+    "city_ascii": "Perryville",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.9315,
+    "lng": -159.1559,
+    "cafes": []
+  },
+  "Eagle": {
+    "city": "Eagle",
+    "city_ascii": "Eagle",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.7813,
+    "lng": -141.1979,
+    "cafes": []
+  },
+  "Mentasta Lake": {
+    "city": "Mentasta Lake",
+    "city_ascii": "Mentasta Lake",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.9867,
+    "lng": -143.5191,
+    "cafes": []
+  },
+  "Central": {
+    "city": "Central",
+    "city_ascii": "Central",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.5213,
+    "lng": -144.6409,
+    "cafes": []
+  },
+  "Kokhanok": {
+    "city": "Kokhanok",
+    "city_ascii": "Kokhanok",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.4158,
+    "lng": -154.7457,
+    "cafes": []
+  },
+  "Chuathbaluk": {
+    "city": "Chuathbaluk",
+    "city_ascii": "Chuathbaluk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5746,
+    "lng": -159.2489,
+    "cafes": []
+  },
+  "Nikolai": {
+    "city": "Nikolai",
+    "city_ascii": "Nikolai",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.0095,
+    "lng": -154.3763,
+    "cafes": []
+  },
+  "Klukwan": {
+    "city": "Klukwan",
+    "city_ascii": "Klukwan",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.3987,
+    "lng": -135.8886,
+    "cafes": []
+  },
+  "Slana": {
+    "city": "Slana",
+    "city_ascii": "Slana",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.6294,
+    "lng": -143.567,
+    "cafes": []
+  },
+  "Anvik": {
+    "city": "Anvik",
+    "city_ascii": "Anvik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.6541,
+    "lng": -160.214,
+    "cafes": []
+  },
+  "Fort Greely": {
+    "city": "Fort Greely",
+    "city_ascii": "Fort Greely",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.9678,
+    "lng": -145.7149,
+    "cafes": []
+  },
+  "Nelson Lagoon": {
+    "city": "Nelson Lagoon",
+    "city_ascii": "Nelson Lagoon",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.8451,
+    "lng": -161.6103,
+    "cafes": []
+  },
+  "Beaver": {
+    "city": "Beaver",
+    "city_ascii": "Beaver",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.383,
+    "lng": -147.3219,
+    "cafes": []
+  },
+  "Moose Pass": {
+    "city": "Moose Pass",
+    "city_ascii": "Moose Pass",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.4997,
+    "lng": -149.4464,
+    "cafes": []
+  },
+  "Crown Point": {
+    "city": "Crown Point",
+    "city_ascii": "Crown Point",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.4267,
+    "lng": -149.353,
+    "cafes": []
+  },
+  "Port Heiden": {
+    "city": "Port Heiden",
+    "city_ascii": "Port Heiden",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.9426,
+    "lng": -158.6047,
+    "cafes": []
+  },
+  "Skwentna": {
+    "city": "Skwentna",
+    "city_ascii": "Skwentna",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.9314,
+    "lng": -151.2096,
+    "cafes": []
+  },
+  "Nondalton": {
+    "city": "Nondalton",
+    "city_ascii": "Nondalton",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.9711,
+    "lng": -154.8627,
+    "cafes": []
+  },
+  "Gulkana": {
+    "city": "Gulkana",
+    "city_ascii": "Gulkana",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.2155,
+    "lng": -145.4449,
+    "cafes": []
+  },
+  "Kasaan": {
+    "city": "Kasaan",
+    "city_ascii": "Kasaan",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.5572,
+    "lng": -132.4136,
+    "cafes": []
+  },
+  "Igiugig": {
+    "city": "Igiugig",
+    "city_ascii": "Igiugig",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.3056,
+    "lng": -155.8739,
+    "cafes": []
+  },
+  "Twin Hills": {
+    "city": "Twin Hills",
+    "city_ascii": "Twin Hills",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.0815,
+    "lng": -160.2826,
+    "cafes": []
+  },
+  "Nightmute": {
+    "city": "Nightmute",
+    "city_ascii": "Nightmute",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.4874,
+    "lng": -164.8195,
+    "cafes": []
+  },
+  "Takotna": {
+    "city": "Takotna",
+    "city_ascii": "Takotna",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.9827,
+    "lng": -156.0838,
+    "cafes": []
+  },
+  "South Naknek": {
+    "city": "South Naknek",
+    "city_ascii": "South Naknek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.6637,
+    "lng": -156.9908,
+    "cafes": []
+  },
+  "Silver Springs": {
+    "city": "Silver Springs",
+    "city_ascii": "Silver Springs",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.0193,
+    "lng": -145.3584,
+    "cafes": []
+  },
+  "Excursion Inlet": {
+    "city": "Excursion Inlet",
+    "city_ascii": "Excursion Inlet",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.4354,
+    "lng": -135.3733,
+    "cafes": []
+  },
+  "Eagle Village": {
+    "city": "Eagle Village",
+    "city_ascii": "Eagle Village",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.7434,
+    "lng": -141.1138,
+    "cafes": []
+  },
+  "Whale Pass": {
+    "city": "Whale Pass",
+    "city_ascii": "Whale Pass",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.1053,
+    "lng": -133.1243,
+    "cafes": []
+  },
+  "Sleetmute": {
+    "city": "Sleetmute",
+    "city_ascii": "Sleetmute",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.6516,
+    "lng": -157.1251,
+    "cafes": []
+  },
+  "St. George": {
+    "city": "St. George",
+    "city_ascii": "St. George",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.5791,
+    "lng": -169.6114,
+    "cafes": []
+  },
+  "Mendeltna": {
+    "city": "Mendeltna",
+    "city_ascii": "Mendeltna",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.1359,
+    "lng": -146.5388,
+    "cafes": []
+  },
+  "Mud Bay": {
+    "city": "Mud Bay",
+    "city_ascii": "Mud Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.1518,
+    "lng": -135.3585,
+    "cafes": []
+  },
+  "Oscarville": {
+    "city": "Oscarville",
+    "city_ascii": "Oscarville",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.7288,
+    "lng": -161.7728,
+    "cafes": []
+  },
+  "Chenega": {
+    "city": "Chenega",
+    "city_ascii": "Chenega",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.0757,
+    "lng": -148.0194,
+    "cafes": []
+  },
+  "Pilot Point": {
+    "city": "Pilot Point",
+    "city_ascii": "Pilot Point",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.5585,
+    "lng": -157.6798,
+    "cafes": []
+  },
+  "Chistochina": {
+    "city": "Chistochina",
+    "city_ascii": "Chistochina",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.5921,
+    "lng": -144.8136,
+    "cafes": []
+  },
+  "Tolsona": {
+    "city": "Tolsona",
+    "city_ascii": "Tolsona",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.0844,
+    "lng": -146.092,
+    "cafes": []
+  },
+  "Egegik": {
+    "city": "Egegik",
+    "city_ascii": "Egegik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.2181,
+    "lng": -157.4036,
+    "cafes": []
+  },
+  "Circle": {
+    "city": "Circle",
+    "city_ascii": "Circle",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.7936,
+    "lng": -144.1813,
+    "cafes": []
+  },
+  "Pelican": {
+    "city": "Pelican",
+    "city_ascii": "Pelican",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.9576,
+    "lng": -136.2176,
+    "cafes": []
+  },
+  "Iliamna": {
+    "city": "Iliamna",
+    "city_ascii": "Iliamna",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.7957,
+    "lng": -154.8698,
+    "cafes": []
+  },
+  "Koyukuk": {
+    "city": "Koyukuk",
+    "city_ascii": "Koyukuk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.9008,
+    "lng": -157.6946,
+    "cafes": []
+  },
+  "Petersville": {
+    "city": "Petersville",
+    "city_ascii": "Petersville",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.4226,
+    "lng": -150.8444,
+    "cafes": []
+  },
+  "Tonsina": {
+    "city": "Tonsina",
+    "city_ascii": "Tonsina",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.5617,
+    "lng": -145.0656,
+    "cafes": []
+  },
+  "Newtok": {
+    "city": "Newtok",
+    "city_ascii": "Newtok",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.9341,
+    "lng": -164.6386,
+    "cafes": []
+  },
+  "Atmautluak": {
+    "city": "Atmautluak",
+    "city_ascii": "Atmautluak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.8622,
+    "lng": -162.2858,
+    "cafes": []
+  },
+  "Shageluk": {
+    "city": "Shageluk",
+    "city_ascii": "Shageluk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.6684,
+    "lng": -159.563,
+    "cafes": []
+  },
+  "Ekwok": {
+    "city": "Ekwok",
+    "city_ascii": "Ekwok",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.3462,
+    "lng": -157.4861,
+    "cafes": []
+  },
+  "Ferry": {
+    "city": "Ferry",
+    "city_ascii": "Ferry",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.0496,
+    "lng": -148.9205,
+    "cafes": []
+  },
+  "Hughes": {
+    "city": "Hughes",
+    "city_ascii": "Hughes",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.0452,
+    "lng": -154.2376,
+    "cafes": []
+  },
+  "Healy Lake": {
+    "city": "Healy Lake",
+    "city_ascii": "Healy Lake",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.0281,
+    "lng": -144.6331,
+    "cafes": []
+  },
+  "Chignik Lagoon": {
+    "city": "Chignik Lagoon",
+    "city_ascii": "Chignik Lagoon",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.3041,
+    "lng": -158.5004,
+    "cafes": []
+  },
+  "Chignik Lake": {
+    "city": "Chignik Lake",
+    "city_ascii": "Chignik Lake",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.2631,
+    "lng": -158.8049,
+    "cafes": []
+  },
+  "Susitna": {
+    "city": "Susitna",
+    "city_ascii": "Susitna",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.4935,
+    "lng": -150.595,
+    "cafes": []
+  },
+  "Hope": {
+    "city": "Hope",
+    "city_ascii": "Hope",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.8924,
+    "lng": -149.6352,
+    "cafes": []
+  },
+  "Chignik": {
+    "city": "Chignik",
+    "city_ascii": "Chignik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.3003,
+    "lng": -158.4132,
+    "cafes": []
+  },
+  "Port Alexander": {
+    "city": "Port Alexander",
+    "city_ascii": "Port Alexander",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.2346,
+    "lng": -134.6532,
+    "cafes": []
+  },
+  "Atka": {
+    "city": "Atka",
+    "city_ascii": "Atka",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 52.2301,
+    "lng": -174.2133,
+    "cafes": []
+  },
+  "Karluk": {
+    "city": "Karluk",
+    "city_ascii": "Karluk",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.5845,
+    "lng": -154.3255,
+    "cafes": []
+  },
+  "Platinum": {
+    "city": "Platinum",
+    "city_ascii": "Platinum",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.978,
+    "lng": -161.7185,
+    "cafes": []
+  },
+  "Chase": {
+    "city": "Chase",
+    "city_ascii": "Chase",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.4624,
+    "lng": -149.9371,
+    "cafes": []
+  },
+  "Diomede": {
+    "city": "Diomede",
+    "city_ascii": "Diomede",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.7536,
+    "lng": -168.9219,
+    "cafes": []
+  },
+  "Tatitlek": {
+    "city": "Tatitlek",
+    "city_ascii": "Tatitlek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.8921,
+    "lng": -146.6727,
+    "cafes": []
+  },
+  "Wiseman": {
+    "city": "Wiseman",
+    "city_ascii": "Wiseman",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 67.437,
+    "lng": -150.1334,
+    "cafes": []
+  },
+  "Alatna": {
+    "city": "Alatna",
+    "city_ascii": "Alatna",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.5638,
+    "lng": -152.8385,
+    "cafes": []
+  },
+  "Sunrise": {
+    "city": "Sunrise",
+    "city_ascii": "Sunrise",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.8701,
+    "lng": -149.4678,
+    "cafes": []
+  },
+  "Paxson": {
+    "city": "Paxson",
+    "city_ascii": "Paxson",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.011,
+    "lng": -145.7312,
+    "cafes": []
+  },
+  "Manley Hot Springs": {
+    "city": "Manley Hot Springs",
+    "city_ascii": "Manley Hot Springs",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.0187,
+    "lng": -150.6453,
+    "cafes": []
+  },
+  "Clark's Point": {
+    "city": "Clark's Point",
+    "city_ascii": "Clark's Point",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.8329,
+    "lng": -158.5276,
+    "cafes": []
+  },
+  "Covenant Life": {
+    "city": "Covenant Life",
+    "city_ascii": "Covenant Life",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.3998,
+    "lng": -136.0946,
+    "cafes": []
+  },
+  "Port Protection": {
+    "city": "Port Protection",
+    "city_ascii": "Port Protection",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.3293,
+    "lng": -133.594,
+    "cafes": []
+  },
+  "Levelock": {
+    "city": "Levelock",
+    "city_ascii": "Levelock",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.0683,
+    "lng": -156.9009,
+    "cafes": []
+  },
+  "Crooked Creek": {
+    "city": "Crooked Creek",
+    "city_ascii": "Crooked Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.8439,
+    "lng": -158.1082,
+    "cafes": []
+  },
+  "Port Clarence": {
+    "city": "Port Clarence",
+    "city_ascii": "Port Clarence",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.1108,
+    "lng": -166.7683,
+    "cafes": []
+  },
+  "Whitestone": {
+    "city": "Whitestone",
+    "city_ascii": "Whitestone",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.1527,
+    "lng": -145.9061,
+    "cafes": []
+  },
+  "Hyder": {
+    "city": "Hyder",
+    "city_ascii": "Hyder",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.9816,
+    "lng": -130.0383,
+    "cafes": []
+  },
+  "Stony River": {
+    "city": "Stony River",
+    "city_ascii": "Stony River",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.7937,
+    "lng": -156.5861,
+    "cafes": []
+  },
+  "Attu Station": {
+    "city": "Attu Station",
+    "city_ascii": "Attu Station",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 52.8955,
+    "lng": 173.123,
+    "cafes": []
+  },
+  "Evansville": {
+    "city": "Evansville",
+    "city_ascii": "Evansville",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.9206,
+    "lng": -151.4201,
+    "cafes": []
+  },
+  "Lake Minchumina": {
+    "city": "Lake Minchumina",
+    "city_ascii": "Lake Minchumina",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.7981,
+    "lng": -152.3446,
+    "cafes": []
+  },
+  "Pedro Bay": {
+    "city": "Pedro Bay",
+    "city_ascii": "Pedro Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.7862,
+    "lng": -154.1321,
+    "cafes": []
+  },
+  "Fox": {
+    "city": "Fox",
+    "city_ascii": "Fox",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.9749,
+    "lng": -147.609,
+    "cafes": []
+  },
+  "Edna Bay": {
+    "city": "Edna Bay",
+    "city_ascii": "Edna Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.964,
+    "lng": -133.6662,
+    "cafes": []
+  },
+  "Lutak": {
+    "city": "Lutak",
+    "city_ascii": "Lutak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.3997,
+    "lng": -135.6314,
+    "cafes": []
+  },
+  "Elfin Cove": {
+    "city": "Elfin Cove",
+    "city_ascii": "Elfin Cove",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.1286,
+    "lng": -136.1951,
+    "cafes": []
+  },
+  "Livengood": {
+    "city": "Livengood",
+    "city_ascii": "Livengood",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.4817,
+    "lng": -148.4171,
+    "cafes": []
+  },
+  "Lime Village": {
+    "city": "Lime Village",
+    "city_ascii": "Lime Village",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.327,
+    "lng": -155.3181,
+    "cafes": []
+  },
+  "Kupreanof": {
+    "city": "Kupreanof",
+    "city_ascii": "Kupreanof",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.809,
+    "lng": -132.9889,
+    "cafes": []
+  },
+  "Stevens Village": {
+    "city": "Stevens Village",
+    "city_ascii": "Stevens Village",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.025,
+    "lng": -149.0802,
+    "cafes": []
+  },
+  "Birch Creek": {
+    "city": "Birch Creek",
+    "city_ascii": "Birch Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.2686,
+    "lng": -145.8699,
+    "cafes": []
+  },
+  "Beluga": {
+    "city": "Beluga",
+    "city_ascii": "Beluga",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.1868,
+    "lng": -151.1637,
+    "cafes": []
+  },
+  "Alcan Border": {
+    "city": "Alcan Border",
+    "city_ascii": "Alcan Border",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.6727,
+    "lng": -141.1321,
+    "cafes": []
+  },
+  "Portage Creek": {
+    "city": "Portage Creek",
+    "city_ascii": "Portage Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.9054,
+    "lng": -157.6698,
+    "cafes": []
+  },
+  "Ugashik": {
+    "city": "Ugashik",
+    "city_ascii": "Ugashik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.5736,
+    "lng": -157.1232,
+    "cafes": []
+  },
+  "Red Devil": {
+    "city": "Red Devil",
+    "city_ascii": "Red Devil",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.7735,
+    "lng": -157.3461,
+    "cafes": []
+  },
+  "McCarthy": {
+    "city": "McCarthy",
+    "city_ascii": "McCarthy",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.4539,
+    "lng": -142.8648,
+    "cafes": []
+  },
+  "Nikolski": {
+    "city": "Nikolski",
+    "city_ascii": "Nikolski",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 53.0133,
+    "lng": -168.7536,
+    "cafes": []
+  },
+  "Lake Louise": {
+    "city": "Lake Louise",
+    "city_ascii": "Lake Louise",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.3423,
+    "lng": -146.5875,
+    "cafes": []
+  },
+  "Game Creek": {
+    "city": "Game Creek",
+    "city_ascii": "Game Creek",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.0553,
+    "lng": -135.508,
+    "cafes": []
+  },
+  "Bettles": {
+    "city": "Bettles",
+    "city_ascii": "Bettles",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 66.9088,
+    "lng": -151.5362,
+    "cafes": []
+  },
+  "Nunam Iqua": {
+    "city": "Nunam Iqua",
+    "city_ascii": "Nunam Iqua",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.511,
+    "lng": -164.8998,
+    "cafes": []
+  },
+  "Hobart Bay": {
+    "city": "Hobart Bay",
+    "city_ascii": "Hobart Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.4212,
+    "lng": -133.3231,
+    "cafes": []
+  },
+  "Chicken": {
+    "city": "Chicken",
+    "city_ascii": "Chicken",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.0878,
+    "lng": -141.8285,
+    "cafes": []
+  },
+  "Mertarvik": {
+    "city": "Mertarvik",
+    "city_ascii": "Mertarvik",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.811,
+    "lng": -164.4989,
+    "cafes": []
+  },
+  "Nabesna": {
+    "city": "Nabesna",
+    "city_ascii": "Nabesna",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.4606,
+    "lng": -143.0402,
+    "cafes": []
+  },
+  "Point Possession": {
+    "city": "Point Possession",
+    "city_ascii": "Point Possession",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.9228,
+    "lng": -150.6891,
+    "cafes": []
+  },
+  "Eureka Roadhouse": {
+    "city": "Eureka Roadhouse",
+    "city_ascii": "Eureka Roadhouse",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 61.9648,
+    "lng": -147.1523,
+    "cafes": []
+  },
+  "Lowell Point": {
+    "city": "Lowell Point",
+    "city_ascii": "Lowell Point",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 60.0629,
+    "lng": -149.4898,
+    "cafes": []
+  },
+  "Ivanof Bay": {
+    "city": "Ivanof Bay",
+    "city_ascii": "Ivanof Bay",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.9183,
+    "lng": -159.4933,
+    "cafes": []
+  },
+  "Flat": {
+    "city": "Flat",
+    "city_ascii": "Flat",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.4415,
+    "lng": -158.0405,
+    "cafes": []
+  },
+  "Dot Lake": {
+    "city": "Dot Lake",
+    "city_ascii": "Dot Lake",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.5749,
+    "lng": -144.1815,
+    "cafes": []
+  },
+  "Dot Lake Village": {
+    "city": "Dot Lake Village",
+    "city_ascii": "Dot Lake Village",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 63.6626,
+    "lng": -144.0162,
+    "cafes": []
+  },
+  "Aleneva": {
+    "city": "Aleneva",
+    "city_ascii": "Aleneva",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.059,
+    "lng": -152.9091,
+    "cafes": []
+  },
+  "Loring": {
+    "city": "Loring",
+    "city_ascii": "Loring",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 55.6064,
+    "lng": -131.6405,
+    "cafes": []
+  },
+  "Whitestone Logging Camp": {
+    "city": "Whitestone Logging Camp",
+    "city_ascii": "Whitestone Logging Camp",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 58.0658,
+    "lng": -135.4207,
+    "cafes": []
+  },
+  "Chiniak": {
+    "city": "Chiniak",
+    "city_ascii": "Chiniak",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 57.5775,
+    "lng": -152.2743,
+    "cafes": []
+  },
+  "Point Baker": {
+    "city": "Point Baker",
+    "city_ascii": "Point Baker",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 56.3483,
+    "lng": -133.6165,
+    "cafes": []
+  },
+  "Four Mile Road": {
+    "city": "Four Mile Road",
+    "city_ascii": "Four Mile Road",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 64.6045,
+    "lng": -149.1223,
+    "cafes": []
+  },
+  "Pope-Vannoy Landing": {
+    "city": "Pope-Vannoy Landing",
+    "city_ascii": "Pope-Vannoy Landing",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 59.5649,
+    "lng": -154.4654,
+    "cafes": []
+  },
+  "Red Dog Mine": {
+    "city": "Red Dog Mine",
+    "city_ascii": "Red Dog Mine",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 68.0645,
+    "lng": -162.8667,
+    "cafes": []
+  },
+  "Rampart": {
+    "city": "Rampart",
+    "city_ascii": "Rampart",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 65.4087,
+    "lng": -149.9915,
+    "cafes": []
+  },
+  "Chisana": {
+    "city": "Chisana",
+    "city_ascii": "Chisana",
+    "state_id": "AK",
+    "state_name": "Alaska",
+    "lat": 62.0946,
+    "lng": -142.034,
+    "cafes": []
+  }
+}

@@ -1,0 +1,1476 @@
+{
+  "Reno": {
+    "city": "Reno",
+    "city_ascii": "Reno",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.5497,
+    "lng": -119.8483,
+    "cafes": [
+      {
+        "name": "Kitty Kisses Cat Café",
+        "address": "8555 Double R Blvd Suite 104, Reno, NV 89511, USA",
+        "rating": 4.6,
+        "user_ratings_total": 168,
+        "website": "http://www.kittykissescatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=3614527019248338048",
+        "lat": 39.4608576,
+        "lng": -119.7643258,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Rose Tollar-Rae",
+            "rating": 2,
+            "text": {
+              "text": "We originally had a very good experience and shared super positive things on Google and social media. I even had people in the Reno/Tahoe area reach out about adopting from this cafe and rescue and I gave them a rave review about our experience here. However, a few hours after our visit we noticed an extra charge to our bank account. We were charged an additional $10.00 for apparently breaking the rules. When I asked what rules were broken, I did not get a response. We were extremely respectful and honestly this is just kind of ridiculous. We cannot think of anything that we did that warrants an extra fee. I love cats and I just suffered a miscarriage not even 2 weeks ago. My husband did this for me to get me out of the house and feeling better. Its not about the money but the deception. We were never warned during our visit or told we were breaking the rules. If they had made us aware of the charge, we could have better prepared, but instead it overdrafted our spending account resulting in an extra $50 in fees. I am extremely disappointed as this is the only cat cafe in Reno and I was excited to be able to interact with cats even though we can't adopt one right now. The cats seem well taken care of but this is not good business practice. We didn't even really feel like we could relax with the cats because the staff were almost hovering. They made conversation which was nice, but we were tip-toeing around trying not to make anyone or any of the cats uncomfortable. I am truly disappointed but we've agreed we won't be back.\n\nAlso, it seems the owner's only response to people with this same experience is that the policy was agreed upon multiple times. And she's right. But it is also very sneaky to act as though everything is fine and not mention a single thing to either of us and then charge us after we've left. We agreed to the policy because we thought if anything were to happen, they would at least speak up and warn us before immediately deciding to charge us with no warning. It seems like a money-grab considering how many people its happened to.\n\nAs I can't respond to the owner's comments directly but hopefully they see this. My husband and I were informed about all of the cats before interacting with them by the older employee. While she warned us that Duchess was temperamental/not the friendliest, we were not explicitly told not to approach her. That simply was not communicated. In fact, she told us that Duchess tends to be more friendly towards men!! Which is why he went to her in the first place. My husband was told twice that the cat had reached her limit. Saying multiple times makes it seem like it was higher. He was gentle and she did not lash out. He was not scratched or bitten. She was clearly not as stressed as you make it out to seem, she did not move from the exact position she was in when he approached her. I noticed you have cameras in the cat lounge so if you were not there to observe our visit, I suggest you look at the footage. The cat was perfectly fine after the interaction and so was he. The staff never once told him to stop, they said she had reached her limit. It's fine if that is what is considered a warning, but why not tell us we were going to be charged before we left? That is deceptive. They acted as if everything was perfectly fine. They never said we were breaking the rules. He did not intend to stress her out or harm her, that was clear. I'd understand the fee if he intentionally messed with her to piss her off, but that's just not what happened.",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          },
+          {
+            "author": "Maddie Emes",
+            "rating": 5,
+            "text": {
+              "text": "Enchanted Cat Cafe feels like a sanctuary for both feline enthusiasts and adoptable cats alike. From the moment you step inside, you're greeted by the employees and once you enter the cat portion, a sense of tranquility instantly washes away the stresses of the outside world.\n\nThe atmosphere is serene and calming, with soft ambient music playing in the background. Their drink options are varied from hot chocolate, coffee, many types of teas, and alcoholic beverage varieties.\n\nBut the true stars of the show are, of course, the cats. Roaming freely throughout the cafe, these furry residents exude an air of contentment, basking in the attention of visitors. From playful kittens to sweet and sleepy seniors, each cat has its own unique personality, making it impossible not to fall in love at first sight.\n\nWhether you're a cat lover looking to make a new feline friend or simply seeking a new place to hang out, I highly recommend Enchanted Cat Cafe.\n\nEven after the hour in the lounge is done, it was nice to sit in the cafe and catch up with friends.",
+              "languageCode": "en"
+            },
+            "time": "10 months ago"
+          },
+          {
+            "author": "Nick Thiessen",
+            "rating": 1,
+            "text": {
+              "text": "Just grab a coffee elsewhere and go to the other shelters to visit, adopt, and make donations.\nMy mother and sister planned to go here for a visit. They dared to ask one question regarding shoes (yes, footwear is an issue here). They have a confusing flowchart about it. We emailed for clarification. The owners response was so rude that we decided to cancel. The cancellation policy shown just before you enter payment says 24 hour notice is needed. We cancelled 1 week and 1 day ahead of time. The owner has refused to refund us. Also, there is an additional $6.00 charge that the owner can't or won't explain and also won't refund.\nI notified the owner that if we didn't receive a refund in full by 10am the next day, we would be refuting the charge as fraudulent with our bank. The owner then said I was being abusive and threatening and stopped responding.\nThis place has so many weird rules and policies, it's as if the owner would rather not have any customers all. For example, if you bring a kid that's 5 years old or younger, you must HOLD THEM the entire time, otherwise they will tack on additional charges.\nThe owner (or whomever I was speaking with) is obviously not a very experienced business owner and outright childish. You can't just make things up, gaslight people, and mess around with people's money.\nWho knew dealing with a place called the \"Kitty Cafe\" would be such a nightmare.\nTo the owner: don't bother responding with any lies, I have screenshots of the conversation as well as your website and I'll post them here if I need to.\nThey also just hit the same account with a second charge while the initial charge was being disputed with the bank. The management at this place is deeply ineffective and fraudulent.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3WjrmApmJPLT2DexJjXFv09ZnOTpL-4_z_o_y9dFzzHXcLc9AB3xcAslVIefYS9oPHCt2ZaePlX8udKnbvIWsAhP-4LPrVddb6at0Xfz3g8T23o8CLZ97ZtWGG67y9dCruJHcqq7mIlYjI_x848uRJcunYBREoxtzsOAvDaLV1HVdJXVcEmLaZeq-5nY-sK8YEMXPn6FqzYLUvSyGo4UXZYUT08DvdkijZSx5S9GFbdfnVeDg5NzH0JVFTZK0wmvrnRGe3A7df3J7gO10Xjqb6tSo1tqGnwNRwKDNQddHSZCKcW4WXV-jVKdw33H5ZVEPBFF2wqA1KJK5_oMiCdx1p6E3voyHaveBl3CZ7WX90nfBPoPyCzSSkrmeBTTcxqzSF2HDDqG1CkOpqDu3ZNesz8narjiA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Laughing Cat Coffee",
+        "address": "3545 Airway Dr #110, Reno, NV 89511, USA",
+        "rating": 4.9,
+        "user_ratings_total": 88,
+        "website": "http://laughingcatcoffee.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=15193519336790845394",
+        "lat": 39.4691836,
+        "lng": -119.7698591,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Janelle Marcos",
+            "rating": 5,
+            "text": {
+              "text": "Didn't realize there was a cafe here and I drive by all the time! I was craving a matcha latte and found this place. The chocolate croissant is yummy too. Next time I'll try out the coffee.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Whitney Bryant",
+            "rating": 5,
+            "text": {
+              "text": "This place is a hidden gem! I love their curated tea drinks every month. The quality of the coffee/tea and the attention to brewing technique sets this place ahead of the game.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Kimberly",
+            "rating": 5,
+            "text": {
+              "text": "We have really enjoyed Laughing Cat and only rediscovered them recently under new ownership. We've enjoyed their espresso drinks (seasonal almond/orange drink and breve vanilla were on point) and we are now ordering whole bean for our at-home espresso machine. Very happy with the customer service, quality of beans, and price point. Give them a try if you haven't- cozy space. By the way, learned about Laughing Cat and its new ownership by way of Reno News & Review.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3a9G_nxEMlZ_cjXy0F4SfBJyBF1mLzLQ8ZSxUHCZ0ay44Q5K9NE9YecJo2WWoSWow3pb3BEGokuz-HQ3URCv_jB0UycPwAxWHSz0yoPYN5g4yjGCo1Bz_hw5r0od4jLjWWMpYD6rZr5Hl6bjZoBhNbR9Xv7wwfbagWJLaHihkVIJdy42WAhtuK7DSvb8ul3IBYTVrtIWNSPI9aKFUenD6DuCQcmTsr8EHqgw0PmR2exRPvud6RW4gEin3Pwq3BRPNLHb2Tghyj6P9TGuJdb-Cy4BgIiNBcW4HZTPZeItJgobKnA-hqw9ZuA6_LFx_frzjHQ43_2--yZCNvXHU00vFi7G3VBwJy9MKbPCAdOOMsBdZinaHqk3KWO4WbVUpLzRTbQaCrbK1gzQj0G0CUGa6vsbcn1dWnClx6&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Las Vegas": {
+    "city": "Las Vegas",
+    "city_ascii": "Las Vegas",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.2333,
+    "lng": -115.2654,
+    "cafes": [
+      {
+        "name": "Hearts Alive Village Cat Cafe",
+        "address": "1750 S Rainbow Blvd #4, Las Vegas, NV 89146, USA",
+        "rating": 4.5,
+        "user_ratings_total": 604,
+        "website": "http://www.heartsalivevillage.org/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=12599086577262206475",
+        "lat": 36.1533583,
+        "lng": -115.24260000000001,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "C. T.",
+            "rating": 5,
+            "text": {
+              "text": "Stopped by and had a great experience. There were dozens of lovely cats to pet. One of my favorites was in a separate room for the more shy cats. Also, if you’re looking to adopt, most of their cats are available for adoption and this is a great way to interact with them to find your forever pet.\n\nCats come from their local charity. For the cafe part, it is very limited - a keurig with some tea and coffee and options and complimentary snacks. But we had such a great time with the cats that we didn’t mind at all. We also gave a donation before we left.",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Amy Y",
+            "rating": 5,
+            "text": {
+              "text": "This was a wonderful and super cute cat Cafe. All the cats looked very well-cared for and most were friendly. There are 3 rooms to visit inside and lots of space for the cats to play. Snacks and drinks were a nice bonus.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Sladjana Owens - Poprzen",
+            "rating": 5,
+            "text": {
+              "text": "We were there for a movie night. The place feels like home and it is very clean. The snack and drinks for you and your kids are already included in price (fresh coffee, juices, puffs, chocolate chip cookies) and it is self served ❤️. There are plenty of cats, so you will definitely have a chance to cuddle one of them. They are all clean and well taken care of. If you want to adopt a cat, you will definitely find one there. 🥰. If you just want to have a coffee and enjoy free cuddles, this is your place ☺️. My daughter loves cats so this cafe is a perfect spot for her to play with them + get some cuddles ❤️",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1szBAMuGi9_WysaK2S95sDj98R0-8OuA3q3R5o53cSUkBNnm3_itdDa7_VMmtUc9c3U3ZGrB98aLVhdZ12kUSdPPVYdSKBvuTY0ud3NYlNaPwLnAxSVNk3HTrYzKSk4BY2_Aanubi-L5f0IcKaO4e2JMIBEv03YghXFD6pPoXXwtXj82TMmY_7eKc6YD4EdqqFeOw7uAM0YRhUHauqtGf3TbPYZh2Aou03IHjbNneJpfsd7APbcegkWqvPASu2ZV9V-vqMIL9ljjLpGbsTemFAbOypQmlrdRnubu9IeJ6x-1tf5_duG4kdlf-NfzVNB1KeDAk12_NNucJPdXqlgjc8y0g5DkKx2M5p8LsbYEYNS3wWECeGbenDGRYr0Wv2zFDCSloe9q3kB5MpTrcHNwujhaD8kXwaFThm&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Hello Kitty Cafe at The Park MGM Las Vegas",
+        "address": "3784 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+        "rating": 4.4,
+        "user_ratings_total": 1501,
+        "website": "https://www.sanrio.com/blogs/hellokittycafe/hello-kitty-cafe-at-the-park-mgm-las-vegas",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1248397438085108296",
+        "lat": 36.103512599999995,
+        "lng": -115.1744403,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "D Buckmon",
+            "rating": 5,
+            "text": {
+              "text": "Have we died and gone to Hello Kitty Heaven!! This cafe was amazing from the Thai Iced Milk Tea, the glittery hello kitty cookie, the donut,  the Mango Iced tea. Sheesh we just wanted to try everything, but what we had was awesome! This menu is more limited, and thankfully we got there early enough that they didn’t run out of anything that we wanted. We walked around the truck and took pix of course .  I highly recommend this cafe especially if making memories is your thing!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Natan Agami",
+            "rating": 5,
+            "text": {
+              "text": "The Hello Kitty Cafe in Las Vegas is an absolute delight for fans and newcomers alike! The charming pink decor and cute Hello Kitty-themed ambiance immediately set a cheerful mood. From the adorable artwork on the walls to the playful details in every corner, it’s clear a lot of thought went into making this place feel magical. As soon as you walk in, you’re greeted with friendly smiles, and the atmosphere is both fun and inviting. It’s perfect for taking cute photos and enjoying a unique dining experience.\n\nThe food and drinks are just as impressive as the decor. I had the strawberry lemonade and a slice of Hello Kitty cake, and they were delicious! The pastries are beautifully crafted, almost too cute to eat, and everything tastes fresh and well-made. The portions are satisfying, and the quality matches the fun presentation. Whether you're there for a sweet snack or a full dessert experience, there's something for everyone to enjoy. It's a wonderful spot for a fun afternoon treat.\n\nWhat really stands out is the attention to detail in both the customer service and the overall experience. The staff is extremely friendly and accommodating, making sure you feel welcome throughout your visit. Even with the crowd, the service was fast, and the whole process felt organized. The Hello Kitty Cafe is not just a cafe but a full-on experience that leaves you smiling long after you’ve left. I highly recommend it to anyone looking for a charming and whimsical escape in the heart of Las Vegas!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "jaqs clark",
+            "rating": 5,
+            "text": {
+              "text": "The Hello Kitty Cafe in Las Vegas is an absolute must-visit for fans of all things adorable! The atmosphere is vibrant and playful, with all the signature Hello Kitty charm. It’s a fun spot to grab a cute treat or just enjoy the experience. The Keroppi donut, in particular, is a standout—super delicious! They also have a great selection of fun merch, like magnets and pins, if you're looking for a souvenir. Whether you’re there for the novelty or just love sweets, it’s definitely worth checking out. Perfect for a quick break while exploring the strip!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ272_podl4b9nkeANALLLM33bm11W8WiHtUGu7gHnO4i62p6BiqucjpZH8HmN5JkIhnAOdgz6PFJufTOyAwFT4tgKMpa2c2fh9BbI1053znhXSgaMf7trMCV45mEL77MEKT_QXFa1MOXeLsNXjs-AXw_W7VgQjXeDJhH3K-c5LQIxjifMW8jeyiSNP1Spw80Ln30RoiN8tbf7iCSnijHgpxN6BPPJSnzRRP351eMrX817APZFXV96k-KZrIH4ge6wXcA5ws9td26vdFD5Uc3FytrYLLePzXSF-SuFXa9codVmTH1-jEC_J0pWdAKFVR8x216ts63LWvTCj1kcU2CTYAT--rU749EpR9FTvQMyVpxTZnK0oILr51KDq4yJhCp7lRs7Z1lBswM5icsov6HtHtc_sUeIzryCV4&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Hello Kitty Cafe",
+        "address": "3200 Las Vegas Blvd S Ste. 600, Las Vegas, NV 89109, USA",
+        "rating": 4.4,
+        "user_ratings_total": 409,
+        "website": "https://www.sanrio.com/blogs/hellokittycafe",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=11858219186780440985",
+        "lat": 36.127432999999996,
+        "lng": -115.1716075,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "D Buckmon",
+            "rating": 5,
+            "text": {
+              "text": "Memories that will last a lifetime… This cafe is a dream come true, especially since we don’t live in Vegas. There was Hello Kitty everywhere. Pretty bow seats, cupcake mirrors , plenty of photo opportunities! My daughter and I had so much fun and not mention the red velvet cupcake and Hello Kitty cookie was delicious and the attention to detail with the edible glitter was an added bonus. We even bought merch, i got a pink tote, and my daughter a pink t-shirt and plush. Thank you so much for making our time in Vegas that much more amazing!!!",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          },
+          {
+            "author": "Katherine Pacpaco",
+            "rating": 4,
+            "text": {
+              "text": "So cute!   Little cafe located at the Fashion Show mall on the first floor near Saks 5th Ave.   they have a good amount of seating including large bench seating for large parties or community seating.  A lot of photo ops for the avid Hello Kitty lovers.  If you don’t want a coffee or a drink you can purchase a cup for $0.50 if you want a cheap souvenir.  Friendly service too",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Mikiesha Scales",
+            "rating": 5,
+            "text": {
+              "text": "The girls loved this cafe. The deserts were so rich and the drinks were delicious as well. I love the nostalgic atmosphere. Easy ordering options at the kiosk or face to face at the counter. Prices are reasonable considering the theme lol. So many cute photo opportunities for kids.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3RvU-Na0HI27T9fY94GV2O4hykrV2yF5Z5ER6aUPaoWfa-DBBjJObO1RRMA7wukgVa9nm60rC10LmIQR51SC6msP530iVlZcabP6XAH_DJbryT0Oo3p7nDWrhryq5J6j3YpCvC4F--0v4azMh7Ul2BOzmUoYoPwcLq3g5qSzFURcJRzAM4UiJHnFaHeSiciLgbOc4RzdEHH85yzjKNrWAbwOUCDBjp3xTFBfWxyC4G9wJiwNfExiCTBt9kaG7Nh2IywcBWS-s5WzrgH2cn9Y8cD3UrqjGei7KFjJroZGBU74CgRYZWrCzQCL2iSt9btgK5CXOsuT2j6Zj96MIQV05xCSvxBsVBzCTtcyw1Cc8IY3c-B7F_jA7jxxpNzinaErinPjxeIUwXUYQ3gRhxWko5gbOHcyBkZEjO&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Rescued Treasures Cat Cafe by PALnv",
+        "address": "4155 N Rancho Dr #150, Las Vegas, NV 89130, USA",
+        "rating": 4.8,
+        "user_ratings_total": 226,
+        "website": "http://palnv.org/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=11776262949174368485",
+        "lat": 36.2353272,
+        "lng": -115.23046640000001,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Sofiia Thiessen",
+            "rating": 5,
+            "text": {
+              "text": "We’ve found 3 beautiful and unique cats here! This is an amazing place to spend your time and donate for the saving of homeless cat’s lives.\n\nThe whole stuff crew is really friendly and nice, they’ll provide you with everything you need within the short amount of time. You can also get a cup of coffee or tea with some snacks while you’re enjoying the company of cats and kittens.\n\nAll cats are in great condition — you can see they’re well treated and taken care of. All of them are just so pretty and nice. We personally adopted three of their cats and now they’re best friends ever.\n\nI’m a big cat person and I was truly happy and pleased to find a place like this, and moreover to donate to help other cats to find their homes.\nYou can also volunteer there as this Cat Cafe is non-profit. Please visit their website for more information. I hope you have a good day and enjoy your time here as much as I do!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Ashley DeRosier",
+            "rating": 5,
+            "text": {
+              "text": "I cannot recommend Rescued Treasures Cat Café highly enough! My daughter and I absolutely love visiting this charming haven for feline friends. From the moment we step inside, we feel a warm and welcoming atmosphere, enriched by the love and dedication that fills the space.\n\nWe've had the pleasure of getting to know the kitties by name and personality, each one more endearing than the last. It's truly heartwarming to see how the café not only provides a cozy environment for cat lovers but also plays a vital role in the community by rescuing and caring for so many cats in need.\n\nThe staff's passion for their work shines through in every interaction, and their commitment to finding forever homes for these adorable furballs is inspiring. Every visit is a delightful experience, filled with cuddles, purrs, and the joy of knowing we're supporting such a noble cause.\n\nIf you're looking for a place where you can connect with wonderful cats and support a fantastic mission, Rescued Treasures Cat Café is the perfect spot. We can't wait for our next visit!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Maria Laura",
+            "rating": 5,
+            "text": {
+              "text": "Amazing place to adopt, I went there a couple times before making my decision to adopt and the staff was amazing every single time, provided me with all the info I need it, adoption process was really easy and my cat was around 3 months old when I got him and he had all his vaccines and he was also neutered already which it was honestly a relief for me. The cats are adorable and you can see they are well taken care of . Archie changed my life forever and he is the sweetest",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0R_RxAC8Pg62OIa1_3sz-UKCYoqfFmE8c7lpTCwF0Zblnn10YWZeQrTX3sP6yoiJ4ey26JduPpoct4S5ak83yBO7u87bpEfcyi40tjxbpbWOHBBahac0XtTQVxHvr_1VI-MzM2BqdEFBHcGiQp1ATN29bOSwgNr_MQnJjOxRb4l0u-l0WirA_vrp_1iUxN12DO8rS31qXyle3UhmfeOdIQ2KBQrgQoPm-644xCY2TjmD7tb2SD23hOZLny1ruo3eEfW1FRGdOEOH2qlRV37E9W3XAvsZfKI0DO0rWkods9gQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.0133,
+    "lng": -115.0381,
+    "cafes": []
+  },
+  "North Las Vegas": {
+    "city": "North Las Vegas",
+    "city_ascii": "North Las Vegas",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.2883,
+    "lng": -115.0888,
+    "cafes": []
+  },
+  "Enterprise": {
+    "city": "Enterprise",
+    "city_ascii": "Enterprise",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.0091,
+    "lng": -115.2278,
+    "cafes": []
+  },
+  "Spring Valley": {
+    "city": "Spring Valley",
+    "city_ascii": "Spring Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.0952,
+    "lng": -115.2636,
+    "cafes": []
+  },
+  "Sunrise Manor": {
+    "city": "Sunrise Manor",
+    "city_ascii": "Sunrise Manor",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.1783,
+    "lng": -115.0487,
+    "cafes": []
+  },
+  "Paradise": {
+    "city": "Paradise",
+    "city_ascii": "Paradise",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.0872,
+    "lng": -115.1355,
+    "cafes": []
+  },
+  "Sparks": {
+    "city": "Sparks",
+    "city_ascii": "Sparks",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.5736,
+    "lng": -119.7161,
+    "cafes": []
+  },
+  "Carson City": {
+    "city": "Carson City",
+    "city_ascii": "Carson City",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.1511,
+    "lng": -119.7476,
+    "cafes": []
+  },
+  "Whitney": {
+    "city": "Whitney",
+    "city_ascii": "Whitney",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.1008,
+    "lng": -115.0379,
+    "cafes": []
+  },
+  "Pahrump": {
+    "city": "Pahrump",
+    "city_ascii": "Pahrump",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.2235,
+    "lng": -115.9974,
+    "cafes": []
+  },
+  "Winchester": {
+    "city": "Winchester",
+    "city_ascii": "Winchester",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.1365,
+    "lng": -115.137,
+    "cafes": []
+  },
+  "Summerlin South": {
+    "city": "Summerlin South",
+    "city_ascii": "Summerlin South",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.1242,
+    "lng": -115.3324,
+    "cafes": []
+  },
+  "Fernley": {
+    "city": "Fernley",
+    "city_ascii": "Fernley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.5627,
+    "lng": -119.1906,
+    "cafes": []
+  },
+  "Sun Valley": {
+    "city": "Sun Valley",
+    "city_ascii": "Sun Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.6104,
+    "lng": -119.777,
+    "cafes": []
+  },
+  "Mesquite": {
+    "city": "Mesquite",
+    "city_ascii": "Mesquite",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.8032,
+    "lng": -114.133,
+    "cafes": []
+  },
+  "Elko": {
+    "city": "Elko",
+    "city_ascii": "Elko",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.8381,
+    "lng": -115.7678,
+    "cafes": []
+  },
+  "Spanish Springs": {
+    "city": "Spanish Springs",
+    "city_ascii": "Spanish Springs",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.6568,
+    "lng": -119.6694,
+    "cafes": []
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "city_ascii": "Dayton",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.2592,
+    "lng": -119.5653,
+    "cafes": []
+  },
+  "Spring Creek": {
+    "city": "Spring Creek",
+    "city_ascii": "Spring Creek",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.745,
+    "lng": -115.5983,
+    "cafes": []
+  },
+  "Boulder City": {
+    "city": "Boulder City",
+    "city_ascii": "Boulder City",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 35.8407,
+    "lng": -114.9257,
+    "cafes": []
+  },
+  "Gardnerville Ranchos": {
+    "city": "Gardnerville Ranchos",
+    "city_ascii": "Gardnerville Ranchos",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.8957,
+    "lng": -119.7492,
+    "cafes": []
+  },
+  "Cold Springs": {
+    "city": "Cold Springs",
+    "city_ascii": "Cold Springs",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.6927,
+    "lng": -119.9775,
+    "cafes": []
+  },
+  "Fallon": {
+    "city": "Fallon",
+    "city_ascii": "Fallon",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.4737,
+    "lng": -118.7779,
+    "cafes": []
+  },
+  "Incline Village": {
+    "city": "Incline Village",
+    "city_ascii": "Incline Village",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.2639,
+    "lng": -119.9455,
+    "cafes": []
+  },
+  "Laughlin": {
+    "city": "Laughlin",
+    "city_ascii": "Laughlin",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 35.1401,
+    "lng": -114.6206,
+    "cafes": []
+  },
+  "Winnemucca": {
+    "city": "Winnemucca",
+    "city_ascii": "Winnemucca",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.9645,
+    "lng": -117.7247,
+    "cafes": []
+  },
+  "Moapa Valley": {
+    "city": "Moapa Valley",
+    "city_ascii": "Moapa Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.6078,
+    "lng": -114.4566,
+    "cafes": []
+  },
+  "Johnson Lane": {
+    "city": "Johnson Lane",
+    "city_ascii": "Johnson Lane",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.0489,
+    "lng": -119.7245,
+    "cafes": []
+  },
+  "Gardnerville": {
+    "city": "Gardnerville",
+    "city_ascii": "Gardnerville",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.939,
+    "lng": -119.7369,
+    "cafes": []
+  },
+  "Indian Hills": {
+    "city": "Indian Hills",
+    "city_ascii": "Indian Hills",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.0894,
+    "lng": -119.7977,
+    "cafes": []
+  },
+  "Silver Springs": {
+    "city": "Silver Springs",
+    "city_ascii": "Silver Springs",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.3826,
+    "lng": -119.2148,
+    "cafes": []
+  },
+  "Nellis AFB": {
+    "city": "Nellis AFB",
+    "city_ascii": "Nellis AFB",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.2466,
+    "lng": -115.0571,
+    "cafes": []
+  },
+  "West Wendover": {
+    "city": "West Wendover",
+    "city_ascii": "West Wendover",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.7407,
+    "lng": -114.0783,
+    "cafes": []
+  },
+  "Lemmon Valley": {
+    "city": "Lemmon Valley",
+    "city_ascii": "Lemmon Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.6879,
+    "lng": -119.8364,
+    "cafes": []
+  },
+  "Battle Mountain": {
+    "city": "Battle Mountain",
+    "city_ascii": "Battle Mountain",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.6299,
+    "lng": -116.9518,
+    "cafes": []
+  },
+  "Ely": {
+    "city": "Ely",
+    "city_ascii": "Ely",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.265,
+    "lng": -114.8708,
+    "cafes": []
+  },
+  "Washoe Valley": {
+    "city": "Washoe Valley",
+    "city_ascii": "Washoe Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.2923,
+    "lng": -119.7767,
+    "cafes": []
+  },
+  "Minden": {
+    "city": "Minden",
+    "city_ascii": "Minden",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.9632,
+    "lng": -119.7683,
+    "cafes": []
+  },
+  "Yerington": {
+    "city": "Yerington",
+    "city_ascii": "Yerington",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.9554,
+    "lng": -119.1101,
+    "cafes": []
+  },
+  "Hawthorne": {
+    "city": "Hawthorne",
+    "city_ascii": "Hawthorne",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.5253,
+    "lng": -118.626,
+    "cafes": []
+  },
+  "Kingsbury": {
+    "city": "Kingsbury",
+    "city_ascii": "Kingsbury",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.9909,
+    "lng": -119.8837,
+    "cafes": []
+  },
+  "Carlin": {
+    "city": "Carlin",
+    "city_ascii": "Carlin",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.719,
+    "lng": -116.1081,
+    "cafes": []
+  },
+  "Tonopah": {
+    "city": "Tonopah",
+    "city_ascii": "Tonopah",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.0822,
+    "lng": -117.2246,
+    "cafes": []
+  },
+  "Stagecoach": {
+    "city": "Stagecoach",
+    "city_ascii": "Stagecoach",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.3656,
+    "lng": -119.3832,
+    "cafes": []
+  },
+  "Sandy Valley": {
+    "city": "Sandy Valley",
+    "city_ascii": "Sandy Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 35.8423,
+    "lng": -115.6304,
+    "cafes": []
+  },
+  "Topaz Ranch Estates": {
+    "city": "Topaz Ranch Estates",
+    "city_ascii": "Topaz Ranch Estates",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.7357,
+    "lng": -119.5008,
+    "cafes": []
+  },
+  "Smith Valley": {
+    "city": "Smith Valley",
+    "city_ascii": "Smith Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.8109,
+    "lng": -119.3517,
+    "cafes": []
+  },
+  "Lovelock": {
+    "city": "Lovelock",
+    "city_ascii": "Lovelock",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.1787,
+    "lng": -118.4775,
+    "cafes": []
+  },
+  "Ruhenstroth": {
+    "city": "Ruhenstroth",
+    "city_ascii": "Ruhenstroth",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.8913,
+    "lng": -119.6833,
+    "cafes": []
+  },
+  "Jackpot": {
+    "city": "Jackpot",
+    "city_ascii": "Jackpot",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.9797,
+    "lng": -114.6645,
+    "cafes": []
+  },
+  "Amargosa Valley": {
+    "city": "Amargosa Valley",
+    "city_ascii": "Amargosa Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.5424,
+    "lng": -116.4877,
+    "cafes": []
+  },
+  "East Valley": {
+    "city": "East Valley",
+    "city_ascii": "East Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.9452,
+    "lng": -119.6993,
+    "cafes": []
+  },
+  "Panaca": {
+    "city": "Panaca",
+    "city_ascii": "Panaca",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.7881,
+    "lng": -114.4005,
+    "cafes": []
+  },
+  "Fallon Station": {
+    "city": "Fallon Station",
+    "city_ascii": "Fallon Station",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.415,
+    "lng": -118.7165,
+    "cafes": []
+  },
+  "Genoa": {
+    "city": "Genoa",
+    "city_ascii": "Genoa",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.0256,
+    "lng": -119.8309,
+    "cafes": []
+  },
+  "Grass Valley": {
+    "city": "Grass Valley",
+    "city_ascii": "Grass Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.7971,
+    "lng": -117.7603,
+    "cafes": []
+  },
+  "Pioche": {
+    "city": "Pioche",
+    "city_ascii": "Pioche",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.9519,
+    "lng": -114.4434,
+    "cafes": []
+  },
+  "Wells": {
+    "city": "Wells",
+    "city_ascii": "Wells",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.1132,
+    "lng": -114.9535,
+    "cafes": []
+  },
+  "Golden Valley": {
+    "city": "Golden Valley",
+    "city_ascii": "Golden Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.6178,
+    "lng": -119.8231,
+    "cafes": []
+  },
+  "Bunkerville": {
+    "city": "Bunkerville",
+    "city_ascii": "Bunkerville",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.7594,
+    "lng": -114.1412,
+    "cafes": []
+  },
+  "Round Hill Village": {
+    "city": "Round Hill Village",
+    "city_ascii": "Round Hill Village",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.9937,
+    "lng": -119.9233,
+    "cafes": []
+  },
+  "Mogul": {
+    "city": "Mogul",
+    "city_ascii": "Mogul",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.5164,
+    "lng": -119.923,
+    "cafes": []
+  },
+  "Osino": {
+    "city": "Osino",
+    "city_ascii": "Osino",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.9409,
+    "lng": -115.6607,
+    "cafes": []
+  },
+  "Verdi": {
+    "city": "Verdi",
+    "city_ascii": "Verdi",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.5142,
+    "lng": -119.9772,
+    "cafes": []
+  },
+  "McGill": {
+    "city": "McGill",
+    "city_ascii": "McGill",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.4019,
+    "lng": -114.7775,
+    "cafes": []
+  },
+  "Moapa Town": {
+    "city": "Moapa Town",
+    "city_ascii": "Moapa Town",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.6925,
+    "lng": -114.6356,
+    "cafes": []
+  },
+  "Alamo": {
+    "city": "Alamo",
+    "city_ascii": "Alamo",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.3771,
+    "lng": -115.1678,
+    "cafes": []
+  },
+  "Schurz": {
+    "city": "Schurz",
+    "city_ascii": "Schurz",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.9673,
+    "lng": -118.824,
+    "cafes": []
+  },
+  "Owyhee": {
+    "city": "Owyhee",
+    "city_ascii": "Owyhee",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.9165,
+    "lng": -116.1825,
+    "cafes": []
+  },
+  "Indian Springs": {
+    "city": "Indian Springs",
+    "city_ascii": "Indian Springs",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.5719,
+    "lng": -115.7204,
+    "cafes": []
+  },
+  "Wadsworth": {
+    "city": "Wadsworth",
+    "city_ascii": "Wadsworth",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.6322,
+    "lng": -119.2901,
+    "cafes": []
+  },
+  "Virginia City": {
+    "city": "Virginia City",
+    "city_ascii": "Virginia City",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.3074,
+    "lng": -119.6483,
+    "cafes": []
+  },
+  "Stateline": {
+    "city": "Stateline",
+    "city_ascii": "Stateline",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.9678,
+    "lng": -119.944,
+    "cafes": []
+  },
+  "Beatty": {
+    "city": "Beatty",
+    "city_ascii": "Beatty",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.9474,
+    "lng": -116.7337,
+    "cafes": []
+  },
+  "Crescent Valley": {
+    "city": "Crescent Valley",
+    "city_ascii": "Crescent Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.4198,
+    "lng": -116.5753,
+    "cafes": []
+  },
+  "Fish Springs": {
+    "city": "Fish Springs",
+    "city_ascii": "Fish Springs",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.9536,
+    "lng": -119.6511,
+    "cafes": []
+  },
+  "Caliente": {
+    "city": "Caliente",
+    "city_ascii": "Caliente",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.6458,
+    "lng": -114.4929,
+    "cafes": []
+  },
+  "Zephyr Cove": {
+    "city": "Zephyr Cove",
+    "city_ascii": "Zephyr Cove",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.0082,
+    "lng": -119.9307,
+    "cafes": []
+  },
+  "Mount Charleston": {
+    "city": "Mount Charleston",
+    "city_ascii": "Mount Charleston",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.2625,
+    "lng": -115.6138,
+    "cafes": []
+  },
+  "Carter Springs": {
+    "city": "Carter Springs",
+    "city_ascii": "Carter Springs",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.8619,
+    "lng": -119.6413,
+    "cafes": []
+  },
+  "Walker Lake": {
+    "city": "Walker Lake",
+    "city_ascii": "Walker Lake",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.6458,
+    "lng": -118.7563,
+    "cafes": []
+  },
+  "Sutcliffe": {
+    "city": "Sutcliffe",
+    "city_ascii": "Sutcliffe",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.9461,
+    "lng": -119.6305,
+    "cafes": []
+  },
+  "Eureka": {
+    "city": "Eureka",
+    "city_ascii": "Eureka",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.5112,
+    "lng": -115.9658,
+    "cafes": []
+  },
+  "Searchlight": {
+    "city": "Searchlight",
+    "city_ascii": "Searchlight",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 35.4555,
+    "lng": -114.9204,
+    "cafes": []
+  },
+  "Fort McDermitt": {
+    "city": "Fort McDermitt",
+    "city_ascii": "Fort McDermitt",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.9655,
+    "lng": -117.6394,
+    "cafes": []
+  },
+  "Lakeridge": {
+    "city": "Lakeridge",
+    "city_ascii": "Lakeridge",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.0382,
+    "lng": -119.9397,
+    "cafes": []
+  },
+  "Skyland": {
+    "city": "Skyland",
+    "city_ascii": "Skyland",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.0265,
+    "lng": -119.9221,
+    "cafes": []
+  },
+  "Nixon": {
+    "city": "Nixon",
+    "city_ascii": "Nixon",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.828,
+    "lng": -119.3589,
+    "cafes": []
+  },
+  "Topaz Lake": {
+    "city": "Topaz Lake",
+    "city_ascii": "Topaz Lake",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.6976,
+    "lng": -119.5427,
+    "cafes": []
+  },
+  "Dyer": {
+    "city": "Dyer",
+    "city_ascii": "Dyer",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.6469,
+    "lng": -118.0345,
+    "cafes": []
+  },
+  "Glenbrook": {
+    "city": "Glenbrook",
+    "city_ascii": "Glenbrook",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.0986,
+    "lng": -119.9341,
+    "cafes": []
+  },
+  "Blue Diamond": {
+    "city": "Blue Diamond",
+    "city_ascii": "Blue Diamond",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.04,
+    "lng": -115.4128,
+    "cafes": []
+  },
+  "Ruth": {
+    "city": "Ruth",
+    "city_ascii": "Ruth",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.2791,
+    "lng": -114.9901,
+    "cafes": []
+  },
+  "Double Spring": {
+    "city": "Double Spring",
+    "city_ascii": "Double Spring",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.7788,
+    "lng": -119.6154,
+    "cafes": []
+  },
+  "Goldfield": {
+    "city": "Goldfield",
+    "city_ascii": "Goldfield",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.7121,
+    "lng": -117.2378,
+    "cafes": []
+  },
+  "Cal-Nev-Ari": {
+    "city": "Cal-Nev-Ari",
+    "city_ascii": "Cal-Nev-Ari",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 35.2996,
+    "lng": -114.8777,
+    "cafes": []
+  },
+  "Golconda": {
+    "city": "Golconda",
+    "city_ascii": "Golconda",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.9522,
+    "lng": -117.4997,
+    "cafes": []
+  },
+  "Silver Peak": {
+    "city": "Silver Peak",
+    "city_ascii": "Silver Peak",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.7578,
+    "lng": -117.6386,
+    "cafes": []
+  },
+  "Goodsprings": {
+    "city": "Goodsprings",
+    "city_ascii": "Goodsprings",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 35.8319,
+    "lng": -115.4352,
+    "cafes": []
+  },
+  "Preston": {
+    "city": "Preston",
+    "city_ascii": "Preston",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.915,
+    "lng": -115.0637,
+    "cafes": []
+  },
+  "Paradise Valley": {
+    "city": "Paradise Valley",
+    "city_ascii": "Paradise Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.4937,
+    "lng": -117.547,
+    "cafes": []
+  },
+  "Humboldt River Ranch": {
+    "city": "Humboldt River Ranch",
+    "city_ascii": "Humboldt River Ranch",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.4318,
+    "lng": -118.2719,
+    "cafes": []
+  },
+  "Orovada": {
+    "city": "Orovada",
+    "city_ascii": "Orovada",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.5492,
+    "lng": -117.8235,
+    "cafes": []
+  },
+  "Gabbs": {
+    "city": "Gabbs",
+    "city_ascii": "Gabbs",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.8621,
+    "lng": -117.933,
+    "cafes": []
+  },
+  "Crystal Bay": {
+    "city": "Crystal Bay",
+    "city_ascii": "Crystal Bay",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.2314,
+    "lng": -120.0019,
+    "cafes": []
+  },
+  "Mina": {
+    "city": "Mina",
+    "city_ascii": "Mina",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.3898,
+    "lng": -118.1115,
+    "cafes": []
+  },
+  "Imlay": {
+    "city": "Imlay",
+    "city_ascii": "Imlay",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.6581,
+    "lng": -118.1441,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.2101,
+    "lng": -117.0679,
+    "cafes": []
+  },
+  "Silver City": {
+    "city": "Silver City",
+    "city_ascii": "Silver City",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.2639,
+    "lng": -119.6357,
+    "cafes": []
+  },
+  "Bennett Springs": {
+    "city": "Bennett Springs",
+    "city_ascii": "Bennett Springs",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.7141,
+    "lng": -114.4667,
+    "cafes": []
+  },
+  "Lund": {
+    "city": "Lund",
+    "city_ascii": "Lund",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.8642,
+    "lng": -115.0099,
+    "cafes": []
+  },
+  "Montello": {
+    "city": "Montello",
+    "city_ascii": "Montello",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.2671,
+    "lng": -114.197,
+    "cafes": []
+  },
+  "Lamoille": {
+    "city": "Lamoille",
+    "city_ascii": "Lamoille",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.7239,
+    "lng": -115.479,
+    "cafes": []
+  },
+  "Gerlach": {
+    "city": "Gerlach",
+    "city_ascii": "Gerlach",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.6452,
+    "lng": -119.3614,
+    "cafes": []
+  },
+  "Austin": {
+    "city": "Austin",
+    "city_ascii": "Austin",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.4976,
+    "lng": -117.074,
+    "cafes": []
+  },
+  "Logan Creek": {
+    "city": "Logan Creek",
+    "city_ascii": "Logan Creek",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.0626,
+    "lng": -119.9295,
+    "cafes": []
+  },
+  "McDermitt": {
+    "city": "McDermitt",
+    "city_ascii": "McDermitt",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.9903,
+    "lng": -117.7209,
+    "cafes": []
+  },
+  "Nelson": {
+    "city": "Nelson",
+    "city_ascii": "Nelson",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 35.7179,
+    "lng": -114.8313,
+    "cafes": []
+  },
+  "Rachel": {
+    "city": "Rachel",
+    "city_ascii": "Rachel",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.6414,
+    "lng": -115.7681,
+    "cafes": []
+  },
+  "Baker": {
+    "city": "Baker",
+    "city_ascii": "Baker",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 39.015,
+    "lng": -114.1233,
+    "cafes": []
+  },
+  "Mountain City": {
+    "city": "Mountain City",
+    "city_ascii": "Mountain City",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.8374,
+    "lng": -115.9633,
+    "cafes": []
+  },
+  "Denio": {
+    "city": "Denio",
+    "city_ascii": "Denio",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.9888,
+    "lng": -118.6375,
+    "cafes": []
+  },
+  "Hiko": {
+    "city": "Hiko",
+    "city_ascii": "Hiko",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.6063,
+    "lng": -115.2018,
+    "cafes": []
+  },
+  "Ursine": {
+    "city": "Ursine",
+    "city_ascii": "Ursine",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.9771,
+    "lng": -114.2289,
+    "cafes": []
+  },
+  "Valmy": {
+    "city": "Valmy",
+    "city_ascii": "Valmy",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.7908,
+    "lng": -117.1266,
+    "cafes": []
+  },
+  "Dry Valley": {
+    "city": "Dry Valley",
+    "city_ascii": "Dry Valley",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.8843,
+    "lng": -114.3051,
+    "cafes": []
+  },
+  "Beaverdam": {
+    "city": "Beaverdam",
+    "city_ascii": "Beaverdam",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 37.6898,
+    "lng": -114.4491,
+    "cafes": []
+  },
+  "Empire": {
+    "city": "Empire",
+    "city_ascii": "Empire",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.5759,
+    "lng": -119.343,
+    "cafes": []
+  },
+  "Unionville": {
+    "city": "Unionville",
+    "city_ascii": "Unionville",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 40.4467,
+    "lng": -118.1229,
+    "cafes": []
+  },
+  "Oasis": {
+    "city": "Oasis",
+    "city_ascii": "Oasis",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 41.0286,
+    "lng": -114.4763,
+    "cafes": []
+  },
+  "Mount Wilson": {
+    "city": "Mount Wilson",
+    "city_ascii": "Mount Wilson",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 38.235,
+    "lng": -114.4504,
+    "cafes": []
+  }
+}

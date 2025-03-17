@@ -1,0 +1,11 @@
+{
+  "Washington": {
+    "city": "Washington",
+    "city_ascii": "Washington",
+    "state_id": "DC",
+    "state_name": "District of Columbia",
+    "lat": 38.9047,
+    "lng": -77.0163,
+    "cafes": []
+  }
+}

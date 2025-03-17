@@ -1,0 +1,883 @@
+{
+  "Westbrook": {
+    "city": "Westbrook",
+    "city_ascii": "Westbrook",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.6954,
+    "lng": -70.3539,
+    "cafes": [
+      {
+        "name": "Meow Lounge",
+        "address": "630 Main St, Westbrook, ME 04092, USA",
+        "rating": 5,
+        "user_ratings_total": 238,
+        "website": "http://www.meowcatlounge.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=16410799220634085867",
+        "lat": 43.67862780000001,
+        "lng": -70.3567316,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Erica V",
+            "rating": 5,
+            "text": {
+              "text": "🎶 Atmosphere: fun & relaxed! Such a wonderful experience painting & getting to hang out with kitties! It was also very clean and well maintained. The cats were also social and sweet!\n\n🍴Food: I don’t think so. They did have water though.\n\n💲Cost: not sure as this was a surprise date for me!\n\n🪴Indoor/Outdoor: indoor\n\n🚻 Service: the staff here was so sweet! You can tell they really care about the cats and enjoy their jobs.\n\n♿️ Accessibility: not very accessible, there are a few stairs and then the entrance shop is small & tight, as well as the doorway into the cat room.\n\n🚘 Parking: street parking\n\n🍤 Allergies: if you’re allergic to cats, do NOT come here 🚫\n\n👶🏽 Child-friendly: Maybe for teenagers but not for small children. You’d have to double check their rules though!\n\n📨 Reservations: yes!\n\n❓Recommend: yes! We painted beautiful little things, got to pet kitties, and our money went to helping the foster cats 🐱 was definitely a good time!!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Quinn Harrison",
+            "rating": 5,
+            "text": {
+              "text": "If you’re serious about adopting a cat, Meow Lounge gives you the chance to socialize with them in a safe and ethical environment. If you aren’t looking to adopt, it’s great to visit and give the cats attention. I will be frequenting this place every week for the rest of my life. Thanks, Anne, for creating such a wonderful place/rescue. ♥️",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Jessica Buster",
+            "rating": 5,
+            "text": {
+              "text": "This cat lounge was charming and full of cats! Many adorable kittens. Considering how fast they are adopted when they come in (the owner said often about a week) the cats are shockingly well socialized. I've been to many cat cafés, and while regulations don't allow this place much on the café front, they've got the cat part down.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ17QGSZzgqQEY5abPOHGm8p9CUDTMCxkswTVSijKbBXuOqkrgZ8iRHMrsEVLRn1RgEUO2tofK-mp_fPrVjfOfN2YTQ1S-KrmE9oRsGxu-NRXHB2pm-YhoMwDdUJWRYbTHbaHWrZgD8aUhX0j1c3GNCRtk1ARTADukjDvQ0j4yzA-5WPYtqkcMM1rlsKcnWGvBUAKtZqbjm_Xry_ZhAYaBVi4OgpE8_BQEHDMyzv2fCVnChIamBEdkvuNKPMlZjuEnyAYA3hvIkkmd35VpiVVIZLF0txwiPV7EDNSIS_89fs88u3VjlEX8TWhJHwO99zl_OuFFxQgda8b7jVt4FOYtDt7dcQ7tbnUeJnnq6EF_VkHT7WfKfElX6kCzQCtjBAUJquWb7ZJHyeBRWPyOt5pEW3RfMZBPKuRsDa&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Farmington": [
+    {
+      "name": "Orange Cat Cafe",
+      "address": "222 Broadway, Farmington, ME 04938, USA",
+      "rating": 4.8,
+      "user_ratings_total": 125,
+      "website": "https://www.orangecatcafe.com/?y_source=1_MjIyMDk5MjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=7993459012423830533",
+      "lat": 44.6710953,
+      "lng": -70.15030500000002,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Ilene Lazar",
+          "rating": 5,
+          "text": {
+            "text": "This was my 1st time here but my friend had been here before. I ordered the tuna salad sandwich and my friend ordered the curry chicken sandwich. Both of us ordered half sandwiches, which were very generous portions, enough for a lunchtime meal. Both were such unique twists on regular chicken & tuna sandwiches that one typically gets at other establishments. The service was very fast, too. It's such a cute restaurant.  My only critique is that they didn't turn the A/C on and it was hot and stuffy inside. But that won't sway me from going back there again whenever I'm in Farmington. I highly recommend this restaurant.",
+            "languageCode": "en"
+          },
+          "time": "a year ago"
+        },
+        {
+          "author": "jacob hoover vigly",
+          "rating": 5,
+          "text": {
+            "text": "Such a cozy place!\nAnd they’re open til 5 on a weekday. Great for late risers.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Don Herbert",
+          "rating": 5,
+          "text": {
+            "text": "Nice place, very friendly staff.  Food was very good.  They have a variety of espresso based specialty drinks as well as regular coffee and lots of tea  options. Oh and the desert options are backed in house.  The Apple Fritter is my favorite. This is a small place with limited seating so you may have to wait for a table or do take out.\n\nUpdate: March 2024  - We have visited here several times since my last review and it never disappoints.  Yesterday I had the chance to try there breakfast burrito with sausage.  WOW!  what a treat.  Hardy and full of flavor, just the right amount of there home made salsa.    They have also added more seating with a new bar and some innovative rearrangement.  The staff continues to be very pleasant and helpful.",
+            "languageCode": "en"
+          },
+          "time": "a year ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3dH4PU4bWHFZL2-6x7Hh1tPKa1eb3YhixCornJ7QjrenxXMNOTV8ulWm90DpBTPHWndC2040927pUR3Fw0rjOd6aGmOWqrlXbBNsU5VwmvduwnN0FMSMwKK0fXooFYDhvGrDYpcbElBTDu1NRI3HyRxwKHs2-IijUoBI59RPlmS2Lto53iLfe0uht-HCcwVSI9HhFDn8OWauO_A5cUwI1F0NIFXYwGG_8YNPa6L6cYbg5oSWj_fuQCXeG2G_GUjc0vz5-XQ_jH3ZySTPGmlqcy3KKxLfqlp-NgLUEasxgnSQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Bar Harbor": [
+    {
+      "name": "2 Cats Bar Harbor",
+      "address": "130 Cottage St, Bar Harbor, ME 04609, USA",
+      "rating": 4.4,
+      "user_ratings_total": 1403,
+      "website": "http://twocatsbarharbor.com/",
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "google_maps_url": "https://maps.google.com/?cid=7746448833319464641",
+      "lat": 44.3883478,
+      "lng": -68.2136727,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Kimberly Kurdes",
+          "rating": 5,
+          "text": {
+            "text": "Absolutely delicious and perfect lobster Benedict. The lobster was delicious, the eggs were perfectly poached and the biscuits it came on, wow! Their breakfast potatoes are delicious and they have their own house made hot sauce that was very tasty. Highly recommend!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Don Dude",
+          "rating": 5,
+          "text": {
+            "text": "Okay not able to do a clear a restaurant review without getting mixed into inn option.\nThe food was really excellent.  Went there for take out a few times, and it was clear they take their prep and cuisine very seriously.  The ingredients they used were absolutely the perfect ripeness and very quality which made everything come together perfectly!!\nThe lobster omelette was excellent.  The ingredients used almost perfectly seasoned it, however a few sprinkles of salt really made it pop!\nThe sausage link is delish, and the eggs are prepared spot on!\nPerhaps the best biscuit I have ever had.  So light and airy and the strawberry butter pairs exquisitely with it.\nThe floral garden in the front is equally planned out and maintained, so no surprise the food is fantastic.\nStaff was great and they can sit you indoor, patio, or deck seating!\nOnly ate breakfast there, and would go anytime I was ever in the area.",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Linda Orfield",
+          "rating": 5,
+          "text": {
+            "text": "My husband ordered the smoked trout omelet and said it was the best omelet he had ever eaten. I ordered the moose track pancakes, and they were delicious. Despite temperatures in the low 50s, the excellent coffee stayed hot in the chunky mugs. Our server was very attentive and friendly. We would highly recommend 2 Cats for the great food. All the beautiful flowers were a bonus.",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1SW1i-hmB_7nY_8Ih3OvWc8J-8ypE_bgDtTgLVzM1Xuy81JvHfEEVyfI60oxQJD-FeHUe32OzrBLLHVVTjgxOC4z28PA1qJsR3HPWf8Dxgk1QU2ogJm0ZGxwqHleinoZPnKoYMz-yAFjcv8mW4Fv5KBtc47qm7Eh_f4KmCm8ekRn8P3FjRapbaEmKrWxzCI76cJLZNdPnOz1g4LvJbwDgo0RHvYN8Saqh5tCXXq6ynk3yld15qVztk-lQ-dd4J4uQ8HpcfIaxPuhEk8qv8_c-srzcea-CCznfJGoRaGqvabHUp5lqpNAtvSaLwsjah65OjJ6R27me9Mbn7gtOay9rsLzzr2Vvr6LrHjrhtW-bHKT1FTHu9_91dpOUAyMlzdv_Daugr4fJgOu6d4wsWWpyIzjIWAN1F&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "New Haven": [
+    {
+      "name": "Mew Haven Cat Cafe",
+      "address": "904 Whalley Ave, New Haven, CT 06515, USA",
+      "rating": 4.8,
+      "user_ratings_total": 1436,
+      "website": "https://mewhavencatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=8099127131922963035",
+      "lat": 41.3271622,
+      "lng": -72.9604342,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true
+      },
+      "reviews": [
+        {
+          "author": "Maria E. Tapia-Paez",
+          "rating": 5,
+          "text": {
+            "text": "We visited Mew Heaven Cat Cafe on Sunday, and it was such a delightful experience! Booking our tickets ahead of time online was super easy and convenient. Once we arrived, we enjoyed some delicious coffee and tea while spending time with the adorable cats. The space is cozy, and the staff, especially Angela, the owner, was super friendly and welcoming. She really made our visit even more special. It’s the perfect place to relax and enjoy some time with furry friends. We had a great time and will definitely be back! Highly recommend for any cat lover!",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Jack VK",
+          "rating": 5,
+          "text": {
+            "text": "This was such an amazing experience! The staff was so friendly. The gift shop prices were amazing! They also have a sheet on how each cat acts. A cat climbed up on my lap for around 30-40 minutes. It is such a beautiful and simple experience. I recommend that everyone goes here at least once. My only complaints are  that it's is only around 1 hour! Lol! I would spend all day here if I was able to! Also, It was around 30 minutes away! I wish there were so many more of these across the world!!!!! Overall, this was one of the best experiences of my life! If it is so relaxing and so enjoyable. I really hope to go back again soon!!!!!",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Diamanto Antonellis",
+          "rating": 5,
+          "text": {
+            "text": "This place is amazing! My granddaughter loved loved to pet the cats and she had a great time. I had a good relaxing time as well! I had cats as long as I can remember my self, so seeing all these babies today it was an amazing experience!! We will definitely visit you again.",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0pyxLp151Y9-XGS8fx5A6LLSCsKYqXiKS0vtzZ53-MEGX7v98vBkJ2LMWctBbt74yZ-LBdu-3jisxy_uvZCynbQc8KBT0DbFiVFNOLtjiqIQHuTA7Wr2zIkfEo3unvPAOOtnN4OrZKQrvmSG0lR4tVxiTyG2c-zcxsV3rwyhIp-Hq_iptmOMbEiEK6nQXbxe4xDqbKUvMmIT-5m8q6q7tyTvaJaTP0w0r78mMY-1PxxMqw8wOnmM2c8aEwuNmLs2FPg6iaF_7_Y0k-QBFpC6QgI0cPj8Jb9-ue06eC1MAceNuUz_dy_nvbA2ajNJjWfQ44qMBKn903JwkdmKbVkvqF6ii6UlefqJcidlqhTHUnzOkX4sY3dwcHMGvj7Tq7KKUDBb_GUb0QSeARZj32zNMmcc5q4dVyFg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Biddeford": {
+    "city": "Biddeford",
+    "city_ascii": "Biddeford",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.4673,
+    "lng": -70.4511,
+    "cafes": [
+      {
+        "name": "Catface Cafe",
+        "address": "17 Alfred Rd, Biddeford, ME 04005, USA",
+        "rating": 4.9,
+        "user_ratings_total": 104,
+        "website": "http://www.catfacecafemaine.com/",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=13173582475321489943",
+        "lat": 43.4921806,
+        "lng": -70.453605,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": false,
+          "wheelchairAccessibleEntrance": false,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Amaury S",
+            "rating": 5,
+            "text": {
+              "text": "The Biddeford sandwich I had at Catface Cafe is one of the best breakfast sandwiches I’ve had this year. The addition of maple syrup was pure genius and elevated every bite.\n\nThis was my first visit to Catface Cafe, and I’m already looking forward to going back. If you’re in the Biddeford-Saco area, I can’t recommend this spot enough. The cafe has a cozy, quaint vibe that’s perfect for unwinding — I spent a solid hour there with a book — yet it’s also surprisingly spacious. They offer lunch and breakfast options.\n\nThe food was excellent, and I’m looking forward to exploring more of their menu. I also have to shout out the staff. They asked for my name when I placed my order, and from that point on, for every interaction — whether they were bringing my coffee or checking on my food —  they called me by my name. It’s such a small gesture, but it made the experience feel so personal and welcoming. Thank you, Catface Cafe, for the amazing food and even better hospitality.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Brent Husband",
+            "rating": 5,
+            "text": {
+              "text": "This place is awesome! We were looking for some breakfast and found this on Google maps. We got there before they opened, and while we were discussing about going to somewhere else, possibly. One of the employees opened the door and asked us to come in and wait until the kitchen opened, but we could have coffee. It was cold so we were grateful and super impressed with the customer service. The coffee was so good.  The food was very good so highly recommend this place.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Pragadish Kalaivanan",
+            "rating": 5,
+            "text": {
+              "text": "It was great breakfast spot. They had a wide tranche of sandwiches with a choice for everyone and the drinks were great too.\nThere is limited seating but it is worth it to dine-in.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0jvwJb7UWf3LRSsL8Uw7nK9OMvBQS9Nt5f6j0TcXgbAHrVCXXACTlt-EBZ7yx49LP-a_PVoS738KwR51NoUDbXW4pLh4-dgenVIsXBihsas1vo0TFBg4Iv4qFpRHaUr9GhmbMUF3RyRgpwuI1o0xxdcZj7OPAcQqgjyhWeUUmjeN5cQ9kWE6oJMsrZ2pzgF4GpyT_s9CTYtBb5lrnrSugJg2HaNvhRjJQrJFJ_xedbED1r8qRCzz3YsqpiqNtaRJRx_XsomzWE9FL1Ku9ftr9lqC0wqyp2oJo_LovAqz9uTA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Belfast": {
+    "city": "Belfast",
+    "city_ascii": "Belfast",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.4279,
+    "lng": -69.0325,
+    "cafes": [
+      {
+        "name": "Bell the Cat",
+        "address": "18 Hatley Rd, Belfast, ME 04915, USA",
+        "rating": 4.6,
+        "user_ratings_total": 951,
+        "website": "https://bellthecatinc.com/?utm_source=google",
+        "price_level": "PRICE_LEVEL_MODERATE",
+        "google_maps_url": "https://maps.google.com/?cid=3967465733757019517",
+        "lat": 44.420911,
+        "lng": -69.02229679999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Verthosand Photography",
+            "rating": 5,
+            "text": {
+              "text": "Amazing, off the beaten path of Rt 1 in Belfast breakfast and lunch restaurant. The staff was super friendly and helpful. There is plenty of indoor seating with a great atmosphere in the winter. There is outdoor seating when the season is right. The food was extremely tasty and quickly came to our table after we ordered at the front. If you would rather have take away order, they have that option as well. Just come in and go to the left. Kid friendly. Lots of parking.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Misty Coombs",
+            "rating": 5,
+            "text": {
+              "text": "First timer: Walk in , greeted by hostess. Get  menu, place order, then find a seat. They bring your meal to your table.\nFood portions are great and taste amazing!\nService is very personable. I'm a people watcher, and Georgia, you are amazing.\nThe restrooms are very clean.\nSeparate section for take out orders.\nWould definitely recommend it!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Sarah",
+            "rating": 5,
+            "text": {
+              "text": "Passing through and looking for fresh options and found Bell the Cat. Upon entry you can order at to go counter or be seated. Friendly service, order came quickly. Delicious breakfast sandwiches customizable to your liking. Bagels and English muffins seemed homemade and tasty. Many cream cheese flavorings. Lovely baked goods options. Missing the lemon bar we should have bought 🤣 Our to go bag was well stocked with napkins and cutlery for on the go.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3i-Wulcrf--btiMYtVFrf6LLZUCOk63lk2apMOfPGeAY5sDpH7wi8LPShTJ7tMUqf6Wl8n0ikN_j3vceOAePARKCiB-lANX1xigjkrKM0nXDlmDwc8RnnPQDM7KpBVZAVaaFDFZDI91EE85UBF-jYdzZCpywvs9rL1Z59KpAi8-WMa0b8i8-S_ZU2pLiSI8Gfs3H2YBOc-_KggttT0FjVFzjBn5LRoTsY1op7OPUsVtzJtYw9c7km3pstfpPB76eyfd5D9S1WeGd3H15w2u43WQAdIOGWdJPQ0BtdpT0kUdMovUNI7xslGhaSkbYvmamal4GqILCyG4EU3gR4uigkQRnAIyh5HKJGsExFfST_fxQBtgcVHOcd7fyWCtU5HfYqvDjiY0Lfl5x8emi04o8ohwmbkBDUU&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Portland": {
+    "city": "Portland",
+    "city_ascii": "Portland",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.6773,
+    "lng": -70.2715,
+    "cafes": []
+  },
+  "Lewiston": {
+    "city": "Lewiston",
+    "city_ascii": "Lewiston",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.0915,
+    "lng": -70.1681,
+    "cafes": []
+  },
+  "Bangor": {
+    "city": "Bangor",
+    "city_ascii": "Bangor",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.8323,
+    "lng": -68.7906,
+    "cafes": []
+  },
+  "South Portland": {
+    "city": "South Portland",
+    "city_ascii": "South Portland",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.631,
+    "lng": -70.2895,
+    "cafes": []
+  },
+  "Auburn": {
+    "city": "Auburn",
+    "city_ascii": "Auburn",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.0851,
+    "lng": -70.2492,
+    "cafes": []
+  },
+  "Sanford": {
+    "city": "Sanford",
+    "city_ascii": "Sanford",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.4244,
+    "lng": -70.7573,
+    "cafes": []
+  },
+  "Saco": {
+    "city": "Saco",
+    "city_ascii": "Saco",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.539,
+    "lng": -70.4624,
+    "cafes": []
+  },
+  "Augusta": {
+    "city": "Augusta",
+    "city_ascii": "Augusta",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.3341,
+    "lng": -69.7319,
+    "cafes": []
+  },
+  "Waterville": {
+    "city": "Waterville",
+    "city_ascii": "Waterville",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.5441,
+    "lng": -69.6624,
+    "cafes": []
+  },
+  "Brewer": {
+    "city": "Brewer",
+    "city_ascii": "Brewer",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.7835,
+    "lng": -68.7352,
+    "cafes": []
+  },
+  "Bath": {
+    "city": "Bath",
+    "city_ascii": "Bath",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.9346,
+    "lng": -69.8346,
+    "cafes": []
+  },
+  "Presque Isle": {
+    "city": "Presque Isle",
+    "city_ascii": "Presque Isle",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 46.6868,
+    "lng": -67.9874,
+    "cafes": []
+  },
+  "Ellsworth": {
+    "city": "Ellsworth",
+    "city_ascii": "Ellsworth",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.5847,
+    "lng": -68.4875,
+    "cafes": []
+  },
+  "Old Town": {
+    "city": "Old Town",
+    "city_ascii": "Old Town",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.9491,
+    "lng": -68.7249,
+    "cafes": []
+  },
+  "Caribou": {
+    "city": "Caribou",
+    "city_ascii": "Caribou",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 46.8662,
+    "lng": -67.992,
+    "cafes": []
+  },
+  "Rockland": {
+    "city": "Rockland",
+    "city_ascii": "Rockland",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.1274,
+    "lng": -69.1369,
+    "cafes": []
+  },
+  "Gardiner": {
+    "city": "Gardiner",
+    "city_ascii": "Gardiner",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.191,
+    "lng": -69.7921,
+    "cafes": []
+  },
+  "North Windham": {
+    "city": "North Windham",
+    "city_ascii": "North Windham",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.8233,
+    "lng": -70.4293,
+    "cafes": []
+  },
+  "Lisbon Falls": {
+    "city": "Lisbon Falls",
+    "city_ascii": "Lisbon Falls",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.0086,
+    "lng": -70.0571,
+    "cafes": []
+  },
+  "South Eliot": {
+    "city": "South Eliot",
+    "city_ascii": "South Eliot",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.1287,
+    "lng": -70.7952,
+    "cafes": []
+  },
+  "York Harbor": {
+    "city": "York Harbor",
+    "city_ascii": "York Harbor",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.1435,
+    "lng": -70.649,
+    "cafes": []
+  },
+  "Lisbon": {
+    "city": "Lisbon",
+    "city_ascii": "Lisbon",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.0289,
+    "lng": -70.1076,
+    "cafes": []
+  },
+  "South Berwick": {
+    "city": "South Berwick",
+    "city_ascii": "South Berwick",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.2321,
+    "lng": -70.7963,
+    "cafes": []
+  },
+  "Lake Arrowhead": {
+    "city": "Lake Arrowhead",
+    "city_ascii": "Lake Arrowhead",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.6634,
+    "lng": -70.7382,
+    "cafes": []
+  },
+  "Calais": {
+    "city": "Calais",
+    "city_ascii": "Calais",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 45.134,
+    "lng": -67.224,
+    "cafes": []
+  },
+  "Cumberland Center": {
+    "city": "Cumberland Center",
+    "city_ascii": "Cumberland Center",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.7982,
+    "lng": -70.2541,
+    "cafes": []
+  },
+  "Cape Neddick": {
+    "city": "Cape Neddick",
+    "city_ascii": "Cape Neddick",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.1706,
+    "lng": -70.622,
+    "cafes": []
+  },
+  "Hallowell": {
+    "city": "Hallowell",
+    "city_ascii": "Hallowell",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.2905,
+    "lng": -69.814,
+    "cafes": []
+  },
+  "South Paris": {
+    "city": "South Paris",
+    "city_ascii": "South Paris",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.219,
+    "lng": -70.5113,
+    "cafes": []
+  },
+  "Falmouth Foreside": {
+    "city": "Falmouth Foreside",
+    "city_ascii": "Falmouth Foreside",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.7348,
+    "lng": -70.2152,
+    "cafes": []
+  },
+  "Dunstan": {
+    "city": "Dunstan",
+    "city_ascii": "Dunstan",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.5691,
+    "lng": -70.3884,
+    "cafes": []
+  },
+  "Veazie": {
+    "city": "Veazie",
+    "city_ascii": "Veazie",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.8407,
+    "lng": -68.7134,
+    "cafes": []
+  },
+  "Steep Falls": {
+    "city": "Steep Falls",
+    "city_ascii": "Steep Falls",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.7905,
+    "lng": -70.6275,
+    "cafes": []
+  },
+  "West Kennebunk": {
+    "city": "West Kennebunk",
+    "city_ascii": "West Kennebunk",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.4142,
+    "lng": -70.581,
+    "cafes": []
+  },
+  "Eastport": {
+    "city": "Eastport",
+    "city_ascii": "Eastport",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.9137,
+    "lng": -67.0183,
+    "cafes": []
+  },
+  "Chisholm": {
+    "city": "Chisholm",
+    "city_ascii": "Chisholm",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.4916,
+    "lng": -70.1923,
+    "cafes": []
+  },
+  "Cornish": {
+    "city": "Cornish",
+    "city_ascii": "Cornish",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.8005,
+    "lng": -70.7994,
+    "cafes": []
+  },
+  "South Windham": {
+    "city": "South Windham",
+    "city_ascii": "South Windham",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.738,
+    "lng": -70.4236,
+    "cafes": []
+  },
+  "Kittery Point": {
+    "city": "Kittery Point",
+    "city_ascii": "Kittery Point",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.0883,
+    "lng": -70.6988,
+    "cafes": []
+  },
+  "Greene": {
+    "city": "Greene",
+    "city_ascii": "Greene",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.1898,
+    "lng": -70.1418,
+    "cafes": []
+  },
+  "Bradley": {
+    "city": "Bradley",
+    "city_ascii": "Bradley",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.9127,
+    "lng": -68.6246,
+    "cafes": []
+  },
+  "Kezar Falls": {
+    "city": "Kezar Falls",
+    "city_ascii": "Kezar Falls",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.808,
+    "lng": -70.8831,
+    "cafes": []
+  },
+  "Little Falls": {
+    "city": "Little Falls",
+    "city_ascii": "Little Falls",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.7312,
+    "lng": -70.4301,
+    "cafes": []
+  },
+  "Corinna": {
+    "city": "Corinna",
+    "city_ascii": "Corinna",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.9223,
+    "lng": -69.2628,
+    "cafes": []
+  },
+  "Jonesport": {
+    "city": "Jonesport",
+    "city_ascii": "Jonesport",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.5338,
+    "lng": -67.6152,
+    "cafes": []
+  },
+  "Kingfield": {
+    "city": "Kingfield",
+    "city_ascii": "Kingfield",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.9582,
+    "lng": -70.1592,
+    "cafes": []
+  },
+  "Brownville Junction": {
+    "city": "Brownville Junction",
+    "city_ascii": "Brownville Junction",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 45.3488,
+    "lng": -69.0555,
+    "cafes": []
+  },
+  "Bethel": {
+    "city": "Bethel",
+    "city_ascii": "Bethel",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.4038,
+    "lng": -70.7863,
+    "cafes": []
+  },
+  "Turner": {
+    "city": "Turner",
+    "city_ascii": "Turner",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.2581,
+    "lng": -70.258,
+    "cafes": []
+  },
+  "Rangeley": {
+    "city": "Rangeley",
+    "city_ascii": "Rangeley",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.9643,
+    "lng": -70.6467,
+    "cafes": []
+  },
+  "Cousins Island": {
+    "city": "Cousins Island",
+    "city_ascii": "Cousins Island",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.7631,
+    "lng": -70.1409,
+    "cafes": []
+  },
+  "Danforth": {
+    "city": "Danforth",
+    "city_ascii": "Danforth",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 45.6595,
+    "lng": -67.8682,
+    "cafes": []
+  },
+  "Patten": {
+    "city": "Patten",
+    "city_ascii": "Patten",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 46.0043,
+    "lng": -68.4427,
+    "cafes": []
+  },
+  "Sabattus": {
+    "city": "Sabattus",
+    "city_ascii": "Sabattus",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.121,
+    "lng": -70.107,
+    "cafes": []
+  },
+  "Oakfield": {
+    "city": "Oakfield",
+    "city_ascii": "Oakfield",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 46.102,
+    "lng": -68.1518,
+    "cafes": []
+  },
+  "Mattawamkeag": {
+    "city": "Mattawamkeag",
+    "city_ascii": "Mattawamkeag",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 45.5177,
+    "lng": -68.3523,
+    "cafes": []
+  },
+  "North Anson": {
+    "city": "North Anson",
+    "city_ascii": "North Anson",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.8614,
+    "lng": -69.8975,
+    "cafes": []
+  },
+  "Northeast Harbor": {
+    "city": "Northeast Harbor",
+    "city_ascii": "Northeast Harbor",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.2936,
+    "lng": -68.2914,
+    "cafes": []
+  },
+  "Milbridge": {
+    "city": "Milbridge",
+    "city_ascii": "Milbridge",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 44.5343,
+    "lng": -67.8903,
+    "cafes": []
+  },
+  "Island Falls": {
+    "city": "Island Falls",
+    "city_ascii": "Island Falls",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 46.0081,
+    "lng": -68.2648,
+    "cafes": []
+  },
+  "Grand Isle": {
+    "city": "Grand Isle",
+    "city_ascii": "Grand Isle",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 47.3065,
+    "lng": -68.1552,
+    "cafes": []
+  },
+  "Vanceboro": {
+    "city": "Vanceboro",
+    "city_ascii": "Vanceboro",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 45.5674,
+    "lng": -67.4293,
+    "cafes": []
+  },
+  "Littlejohn Island": {
+    "city": "Littlejohn Island",
+    "city_ascii": "Littlejohn Island",
+    "state_id": "ME",
+    "state_name": "Maine",
+    "lat": 43.7599,
+    "lng": -70.1284,
+    "cafes": []
+  }
+}

@@ -1,0 +1,4724 @@
+{
+  "Albuquerque": {
+    "city": "Albuquerque",
+    "city_ascii": "Albuquerque",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1054,
+    "lng": -106.6465,
+    "cafes": [
+      {
+        "name": "Catopia Cat Cafe",
+        "address": "8001 Wyoming Blvd NE suite c-5, Albuquerque, NM 87113, USA",
+        "rating": 4.6,
+        "user_ratings_total": 434,
+        "website": "http://www.catopiacatcafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=963516413321121390",
+        "lat": 35.175133599999995,
+        "lng": -106.5608352,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Peter Walsh",
+            "rating": 5,
+            "text": {
+              "text": "Great place to go to hang out and play with some nice and fun cats.  If you’re looking to adopt, this is a great place to do it because you can really spend time interacting with and getting to know the cats before picking one.  The staff were very warm friendly.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Spencer Craig",
+            "rating": 5,
+            "text": {
+              "text": "A place to bond with cats and adopt if you choose.Would of never knew a pace like this existed. Great staff clean place all around a great experience",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Jeff Casey",
+            "rating": 1,
+            "text": {
+              "text": "It costs 12 dollars for an hour to be in this place. I called ahead and was not told this .48 dollars for 4 people to visit cats for an hour is higher than going to a movie . We planned to spend money on whatever they sold, but the cover charge is too much. Staff are super friendly and the people that could afford the cover charge seemed like they were having a great time.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1m52-ae--DmPn2t2HcoqoKn21WjEkHOlGYg5nb4HnZwgeTpUir9eK51d_0EMLpL-sDCGUb2L_cNL-QXLaNPaQtKqUYiQGW0BjSVFdq07khC4kWdIe6jhtZh-G9Z0UhMv_M2LjPfX1dPwXOx_mXilQbLxJ08EIesqjxWnG0fhlahd8_h04wXhPfspJhTIsotQw-sKFR9XDFkQqBE37SWtWd2qZmyPSO56VyzI3Gs5rnkFqQwM0Rd_nHQfpwQhpiV7UzQwFHOI6r5_W89SPK6J6lXDxy1E0N4ErAptp0BhrO-mp0MWx7N70cnKDgVhPAURfEsakDPlmj-N0lFiWnE2ZIoBLcWCSxc5pGyWDFgLpGJGwGCOAbX7mtnZ_Jyl1JyrLdNLzCUJ1E7C2Qtk86_ovBB-xHUutK&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Santa Fe": {
+    "city": "Santa Fe",
+    "city_ascii": "Santa Fe",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6619,
+    "lng": -105.9819,
+    "cafes": [
+      {
+        "name": "Turquoise Teapot and Cat Cafe",
+        "address": "1221 Flagman Way STE B5, Santa Fe, NM 87505, USA",
+        "rating": 5,
+        "user_ratings_total": 70,
+        "website": "https://www.turquoiseteapot.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=13017671279658139271",
+        "lat": 35.6743896,
+        "lng": -105.96190469999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Kelsey Lucas",
+            "rating": 5,
+            "text": {
+              "text": "Anything to support the kitties looking for homes! I love cat cafes and Santa Fe’s local cat cafe was no exception. What an awesome concept to support and hopefully find homes for these cats! The outside “catio” was a very unique addition to the cat cafe experience. Coffee drinks were yummy too! Thanks for the experience.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Rachel Lyndsey",
+            "rating": 5,
+            "text": {
+              "text": "Cute little cafe with new monthly drinks for the season. Cost a little to sit with cats and play with them, money is used for cat care. All cats were friendly and excited. No aggressive cats at all. One little girl cat tried to sit in my purse, would have taken her home in a heartbeat.",
+              "languageCode": "en"
+            },
+            "time": "4 weeks ago"
+          },
+          {
+            "author": "Jessica Schatz",
+            "rating": 5,
+            "text": {
+              "text": "Not much to say aside from if you like delicious drinks and spending time with kitties, you will not regret coming here. The human staff were so friendly and welcoming, and the kitty staff were as cute as can be. I love this cat cafe so much❤️",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0_xI6zJYIGKU6nmq8A7zdwBNiJAzeyUdhkweDqk2LoRyhIdMaSc4c0rBF-GQmjZf7UY1L4GqDlJIwLp7fgBxSCJMVELIW-sOMfkHGD47AxgNFfyiu2tiMG2ZzZm3YR1F49R3ofOl5V0Ygn0TjNn_MbO9jjWAeXryA54HOYYrMdDlTbnSgqdyvxGP9Im6M3xuuqIV31d2IkgKisEM0P22h6UJHuIPUp1qyslq7dMmINTwmNNW5JuvjM3XgJpst3e6UPDx_G1lsWwdc3pJCXrYTpBMSFQruPX5ubktBibKv8tw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Las Cruces": {
+    "city": "Las Cruces",
+    "city_ascii": "Las Cruces",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.3265,
+    "lng": -106.7893,
+    "cafes": []
+  },
+  "Rio Rancho": {
+    "city": "Rio Rancho",
+    "city_ascii": "Rio Rancho",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2873,
+    "lng": -106.6982,
+    "cafes": []
+  },
+  "Roswell": {
+    "city": "Roswell",
+    "city_ascii": "Roswell",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.373,
+    "lng": -104.5294,
+    "cafes": []
+  },
+  "Farmington": {
+    "city": "Farmington",
+    "city_ascii": "Farmington",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7555,
+    "lng": -108.1823,
+    "cafes": []
+  },
+  "Hobbs": {
+    "city": "Hobbs",
+    "city_ascii": "Hobbs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7281,
+    "lng": -103.16,
+    "cafes": []
+  },
+  "Clovis": {
+    "city": "Clovis",
+    "city_ascii": "Clovis",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.4376,
+    "lng": -103.1923,
+    "cafes": []
+  },
+  "South Valley": {
+    "city": "South Valley",
+    "city_ascii": "South Valley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0093,
+    "lng": -106.6819,
+    "cafes": []
+  },
+  "Carlsbad": {
+    "city": "Carlsbad",
+    "city_ascii": "Carlsbad",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.401,
+    "lng": -104.2388,
+    "cafes": []
+  },
+  "Alamogordo": {
+    "city": "Alamogordo",
+    "city_ascii": "Alamogordo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8837,
+    "lng": -105.9625,
+    "cafes": []
+  },
+  "Gallup": {
+    "city": "Gallup",
+    "city_ascii": "Gallup",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5182,
+    "lng": -108.7431,
+    "cafes": []
+  },
+  "Los Lunas": {
+    "city": "Los Lunas",
+    "city_ascii": "Los Lunas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.8115,
+    "lng": -106.7803,
+    "cafes": []
+  },
+  "Sunland Park": {
+    "city": "Sunland Park",
+    "city_ascii": "Sunland Park",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 31.8201,
+    "lng": -106.5958,
+    "cafes": []
+  },
+  "Chaparral": {
+    "city": "Chaparral",
+    "city_ascii": "Chaparral",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.0442,
+    "lng": -106.406,
+    "cafes": []
+  },
+  "Deming": {
+    "city": "Deming",
+    "city_ascii": "Deming",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2631,
+    "lng": -107.7525,
+    "cafes": []
+  },
+  "Los Alamos": {
+    "city": "Los Alamos",
+    "city_ascii": "Los Alamos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8927,
+    "lng": -106.2862,
+    "cafes": []
+  },
+  "Las Vegas": {
+    "city": "Las Vegas",
+    "city_ascii": "Las Vegas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6011,
+    "lng": -105.2206,
+    "cafes": []
+  },
+  "Artesia": {
+    "city": "Artesia",
+    "city_ascii": "Artesia",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8497,
+    "lng": -104.4268,
+    "cafes": []
+  },
+  "Portales": {
+    "city": "Portales",
+    "city_ascii": "Portales",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.1754,
+    "lng": -103.3565,
+    "cafes": []
+  },
+  "North Valley": {
+    "city": "North Valley",
+    "city_ascii": "North Valley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1736,
+    "lng": -106.6231,
+    "cafes": []
+  },
+  "Lovington": {
+    "city": "Lovington",
+    "city_ascii": "Lovington",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9128,
+    "lng": -103.3276,
+    "cafes": []
+  },
+  "Española": {
+    "city": "Española",
+    "city_ascii": "Espanola",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0044,
+    "lng": -106.0686,
+    "cafes": []
+  },
+  "Silver City": {
+    "city": "Silver City",
+    "city_ascii": "Silver City",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7783,
+    "lng": -108.2699,
+    "cafes": []
+  },
+  "Grants": {
+    "city": "Grants",
+    "city_ascii": "Grants",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1538,
+    "lng": -107.8335,
+    "cafes": []
+  },
+  "Bernalillo": {
+    "city": "Bernalillo",
+    "city_ascii": "Bernalillo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3127,
+    "lng": -106.5537,
+    "cafes": []
+  },
+  "Anthony": {
+    "city": "Anthony",
+    "city_ascii": "Anthony",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.0131,
+    "lng": -106.5984,
+    "cafes": []
+  },
+  "Corrales": {
+    "city": "Corrales",
+    "city_ascii": "Corrales",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2366,
+    "lng": -106.6191,
+    "cafes": []
+  },
+  "Socorro": {
+    "city": "Socorro",
+    "city_ascii": "Socorro",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.0543,
+    "lng": -106.9065,
+    "cafes": []
+  },
+  "Shiprock": {
+    "city": "Shiprock",
+    "city_ascii": "Shiprock",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7924,
+    "lng": -108.7005,
+    "cafes": []
+  },
+  "Ruidoso": {
+    "city": "Ruidoso",
+    "city_ascii": "Ruidoso",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.3646,
+    "lng": -105.6434,
+    "cafes": []
+  },
+  "Belen": {
+    "city": "Belen",
+    "city_ascii": "Belen",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.7115,
+    "lng": -106.7986,
+    "cafes": []
+  },
+  "Bloomfield": {
+    "city": "Bloomfield",
+    "city_ascii": "Bloomfield",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7401,
+    "lng": -107.9734,
+    "cafes": []
+  },
+  "Taos": {
+    "city": "Taos",
+    "city_ascii": "Taos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.3871,
+    "lng": -105.5803,
+    "cafes": []
+  },
+  "Aztec": {
+    "city": "Aztec",
+    "city_ascii": "Aztec",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.8225,
+    "lng": -107.971,
+    "cafes": []
+  },
+  "Zuni Pueblo": {
+    "city": "Zuni Pueblo",
+    "city_ascii": "Zuni Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0693,
+    "lng": -108.8558,
+    "cafes": []
+  },
+  "Edgewood": {
+    "city": "Edgewood",
+    "city_ascii": "Edgewood",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1318,
+    "lng": -106.2151,
+    "cafes": []
+  },
+  "North Hobbs": {
+    "city": "North Hobbs",
+    "city_ascii": "North Hobbs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7731,
+    "lng": -103.125,
+    "cafes": []
+  },
+  "Truth or Consequences": {
+    "city": "Truth or Consequences",
+    "city_ascii": "Truth or Consequences",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.1864,
+    "lng": -107.2589,
+    "cafes": []
+  },
+  "Raton": {
+    "city": "Raton",
+    "city_ascii": "Raton",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.8849,
+    "lng": -104.4396,
+    "cafes": []
+  },
+  "Santa Teresa": {
+    "city": "Santa Teresa",
+    "city_ascii": "Santa Teresa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 31.8701,
+    "lng": -106.6714,
+    "cafes": []
+  },
+  "Los Ranchos de Albuquerque": {
+    "city": "Los Ranchos de Albuquerque",
+    "city_ascii": "Los Ranchos de Albuquerque",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1625,
+    "lng": -106.6482,
+    "cafes": []
+  },
+  "Eldorado at Santa Fe": {
+    "city": "Eldorado at Santa Fe",
+    "city_ascii": "Eldorado at Santa Fe",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5273,
+    "lng": -105.934,
+    "cafes": []
+  },
+  "White Rock": {
+    "city": "White Rock",
+    "city_ascii": "White Rock",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8075,
+    "lng": -106.2067,
+    "cafes": []
+  },
+  "Tucumcari": {
+    "city": "Tucumcari",
+    "city_ascii": "Tucumcari",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.17,
+    "lng": -103.7046,
+    "cafes": []
+  },
+  "El Cerro Mission": {
+    "city": "El Cerro Mission",
+    "city_ascii": "El Cerro Mission",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.7688,
+    "lng": -106.6447,
+    "cafes": []
+  },
+  "Rio Communities": {
+    "city": "Rio Communities",
+    "city_ascii": "Rio Communities",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6459,
+    "lng": -106.7164,
+    "cafes": []
+  },
+  "Paradise Hills": {
+    "city": "Paradise Hills",
+    "city_ascii": "Paradise Hills",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1981,
+    "lng": -106.7023,
+    "cafes": []
+  },
+  "Los Chaves": {
+    "city": "Los Chaves",
+    "city_ascii": "Los Chaves",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.7334,
+    "lng": -106.7611,
+    "cafes": []
+  },
+  "Lee Acres": {
+    "city": "Lee Acres",
+    "city_ascii": "Lee Acres",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7031,
+    "lng": -108.0648,
+    "cafes": []
+  },
+  "Crouch Mesa": {
+    "city": "Crouch Mesa",
+    "city_ascii": "Crouch Mesa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.748,
+    "lng": -108.0853,
+    "cafes": []
+  },
+  "Placitas": {
+    "city": "Placitas",
+    "city_ascii": "Placitas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3226,
+    "lng": -106.4437,
+    "cafes": []
+  },
+  "Holloman AFB": {
+    "city": "Holloman AFB",
+    "city_ascii": "Holloman AFB",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8483,
+    "lng": -106.0998,
+    "cafes": []
+  },
+  "Bosque Farms": {
+    "city": "Bosque Farms",
+    "city_ascii": "Bosque Farms",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.8539,
+    "lng": -106.7011,
+    "cafes": []
+  },
+  "Meadow Lake": {
+    "city": "Meadow Lake",
+    "city_ascii": "Meadow Lake",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.8024,
+    "lng": -106.5701,
+    "cafes": []
+  },
+  "La Cienega": {
+    "city": "La Cienega",
+    "city_ascii": "La Cienega",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5794,
+    "lng": -106.113,
+    "cafes": []
+  },
+  "Kirtland AFB": {
+    "city": "Kirtland AFB",
+    "city_ascii": "Kirtland AFB",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0497,
+    "lng": -106.5599,
+    "cafes": []
+  },
+  "Peralta": {
+    "city": "Peralta",
+    "city_ascii": "Peralta",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.8283,
+    "lng": -106.6859,
+    "cafes": []
+  },
+  "Vado": {
+    "city": "Vado",
+    "city_ascii": "Vado",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.1278,
+    "lng": -106.6571,
+    "cafes": []
+  },
+  "El Cerro": {
+    "city": "El Cerro",
+    "city_ascii": "El Cerro",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.7807,
+    "lng": -106.6955,
+    "cafes": []
+  },
+  "Sandia Heights": {
+    "city": "Sandia Heights",
+    "city_ascii": "Sandia Heights",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1747,
+    "lng": -106.4884,
+    "cafes": []
+  },
+  "Eunice": {
+    "city": "Eunice",
+    "city_ascii": "Eunice",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.4461,
+    "lng": -103.1986,
+    "cafes": []
+  },
+  "Crownpoint": {
+    "city": "Crownpoint",
+    "city_ascii": "Crownpoint",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7173,
+    "lng": -108.1432,
+    "cafes": []
+  },
+  "Cannon AFB": {
+    "city": "Cannon AFB",
+    "city_ascii": "Cannon AFB",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.3885,
+    "lng": -103.3185,
+    "cafes": []
+  },
+  "Agua Fria": {
+    "city": "Agua Fria",
+    "city_ascii": "Agua Fria",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6615,
+    "lng": -106.0149,
+    "cafes": []
+  },
+  "Dulce": {
+    "city": "Dulce",
+    "city_ascii": "Dulce",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.9399,
+    "lng": -107.0049,
+    "cafes": []
+  },
+  "Chimayo": {
+    "city": "Chimayo",
+    "city_ascii": "Chimayo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9981,
+    "lng": -105.9413,
+    "cafes": []
+  },
+  "University Park": {
+    "city": "University Park",
+    "city_ascii": "University Park",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2767,
+    "lng": -106.7462,
+    "cafes": []
+  },
+  "Clayton": {
+    "city": "Clayton",
+    "city_ascii": "Clayton",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.4426,
+    "lng": -103.1574,
+    "cafes": []
+  },
+  "Ruidoso Downs": {
+    "city": "Ruidoso Downs",
+    "city_ascii": "Ruidoso Downs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.3311,
+    "lng": -105.5969,
+    "cafes": []
+  },
+  "Tularosa": {
+    "city": "Tularosa",
+    "city_ascii": "Tularosa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.0753,
+    "lng": -106.0175,
+    "cafes": []
+  },
+  "La Mesilla": {
+    "city": "La Mesilla",
+    "city_ascii": "La Mesilla",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9461,
+    "lng": -106.0719,
+    "cafes": []
+  },
+  "West Hammond": {
+    "city": "West Hammond",
+    "city_ascii": "West Hammond",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.6807,
+    "lng": -108.0433,
+    "cafes": []
+  },
+  "Milan": {
+    "city": "Milan",
+    "city_ascii": "Milan",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1949,
+    "lng": -107.8946,
+    "cafes": []
+  },
+  "Santa Rosa": {
+    "city": "Santa Rosa",
+    "city_ascii": "Santa Rosa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.9361,
+    "lng": -104.6769,
+    "cafes": []
+  },
+  "Bayard": {
+    "city": "Bayard",
+    "city_ascii": "Bayard",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7579,
+    "lng": -108.1337,
+    "cafes": []
+  },
+  "Center Point": {
+    "city": "Center Point",
+    "city_ascii": "Center Point",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.872,
+    "lng": -107.9551,
+    "cafes": []
+  },
+  "Ranchos de Taos": {
+    "city": "Ranchos de Taos",
+    "city_ascii": "Ranchos de Taos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.3619,
+    "lng": -105.6016,
+    "cafes": []
+  },
+  "Pojoaque": {
+    "city": "Pojoaque",
+    "city_ascii": "Pojoaque",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8962,
+    "lng": -106.0105,
+    "cafes": []
+  },
+  "Jemez Pueblo": {
+    "city": "Jemez Pueblo",
+    "city_ascii": "Jemez Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6066,
+    "lng": -106.7333,
+    "cafes": []
+  },
+  "Valencia": {
+    "city": "Valencia",
+    "city_ascii": "Valencia",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.578,
+    "lng": -105.7908,
+    "cafes": []
+  },
+  "Flora Vista": {
+    "city": "Flora Vista",
+    "city_ascii": "Flora Vista",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.804,
+    "lng": -108.0876,
+    "cafes": []
+  },
+  "La Plata": {
+    "city": "La Plata",
+    "city_ascii": "La Plata",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.8952,
+    "lng": -108.2003,
+    "cafes": []
+  },
+  "San Ysidro": {
+    "city": "San Ysidro",
+    "city_ascii": "San Ysidro",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.3568,
+    "lng": -106.8129,
+    "cafes": []
+  },
+  "Santo Domingo Pueblo": {
+    "city": "Santo Domingo Pueblo",
+    "city_ascii": "Santo Domingo Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5175,
+    "lng": -106.367,
+    "cafes": []
+  },
+  "Lordsburg": {
+    "city": "Lordsburg",
+    "city_ascii": "Lordsburg",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.3438,
+    "lng": -108.7021,
+    "cafes": []
+  },
+  "Navajo": {
+    "city": "Navajo",
+    "city_ascii": "Navajo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9024,
+    "lng": -109.0321,
+    "cafes": []
+  },
+  "Questa": {
+    "city": "Questa",
+    "city_ascii": "Questa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7114,
+    "lng": -105.5935,
+    "cafes": []
+  },
+  "Arroyo Seco": {
+    "city": "Arroyo Seco",
+    "city_ascii": "Arroyo Seco",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.5215,
+    "lng": -105.5861,
+    "cafes": []
+  },
+  "Moriarty": {
+    "city": "Moriarty",
+    "city_ascii": "Moriarty",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0034,
+    "lng": -106.0444,
+    "cafes": []
+  },
+  "Jal": {
+    "city": "Jal",
+    "city_ascii": "Jal",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.1148,
+    "lng": -103.19,
+    "cafes": []
+  },
+  "Nambe": {
+    "city": "Nambe",
+    "city_ascii": "Nambe",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8984,
+    "lng": -105.9667,
+    "cafes": []
+  },
+  "Angustura": {
+    "city": "Angustura",
+    "city_ascii": "Angustura",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7138,
+    "lng": -107.9154,
+    "cafes": []
+  },
+  "Picacho Hills": {
+    "city": "Picacho Hills",
+    "city_ascii": "Picacho Hills",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.3158,
+    "lng": -106.8785,
+    "cafes": []
+  },
+  "Boles Acres": {
+    "city": "Boles Acres",
+    "city_ascii": "Boles Acres",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8198,
+    "lng": -105.978,
+    "cafes": []
+  },
+  "Jarales": {
+    "city": "Jarales",
+    "city_ascii": "Jarales",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6147,
+    "lng": -106.7631,
+    "cafes": []
+  },
+  "Tres Arroyos": {
+    "city": "Tres Arroyos",
+    "city_ascii": "Tres Arroyos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6799,
+    "lng": -106.0398,
+    "cafes": []
+  },
+  "Mesilla": {
+    "city": "Mesilla",
+    "city_ascii": "Mesilla",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2693,
+    "lng": -106.8091,
+    "cafes": []
+  },
+  "Thoreau": {
+    "city": "Thoreau",
+    "city_ascii": "Thoreau",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4251,
+    "lng": -108.2012,
+    "cafes": []
+  },
+  "Las Campanas": {
+    "city": "Las Campanas",
+    "city_ascii": "Las Campanas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7159,
+    "lng": -106.0582,
+    "cafes": []
+  },
+  "Las Maravillas": {
+    "city": "Las Maravillas",
+    "city_ascii": "Las Maravillas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.734,
+    "lng": -106.669,
+    "cafes": []
+  },
+  "Santa Clara": {
+    "city": "Santa Clara",
+    "city_ascii": "Santa Clara",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7801,
+    "lng": -108.1493,
+    "cafes": []
+  },
+  "La Luz": {
+    "city": "La Luz",
+    "city_ascii": "La Luz",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9698,
+    "lng": -105.9388,
+    "cafes": []
+  },
+  "La Huerta": {
+    "city": "La Huerta",
+    "city_ascii": "La Huerta",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.4489,
+    "lng": -104.2225,
+    "cafes": []
+  },
+  "Hatch": {
+    "city": "Hatch",
+    "city_ascii": "Hatch",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.6663,
+    "lng": -107.1644,
+    "cafes": []
+  },
+  "Radium Springs": {
+    "city": "Radium Springs",
+    "city_ascii": "Radium Springs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.4783,
+    "lng": -106.9031,
+    "cafes": []
+  },
+  "Rio Rancho Estates": {
+    "city": "Rio Rancho Estates",
+    "city_ascii": "Rio Rancho Estates",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3004,
+    "lng": -106.7985,
+    "cafes": []
+  },
+  "El Valle de Arroyo Seco": {
+    "city": "El Valle de Arroyo Seco",
+    "city_ascii": "El Valle de Arroyo Seco",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9526,
+    "lng": -106.026,
+    "cafes": []
+  },
+  "Barton": {
+    "city": "Barton",
+    "city_ascii": "Barton",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0653,
+    "lng": -106.2569,
+    "cafes": []
+  },
+  "South River": {
+    "city": "South River",
+    "city_ascii": "South River",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7892,
+    "lng": -108.06,
+    "cafes": []
+  },
+  "Elephant Butte": {
+    "city": "Elephant Butte",
+    "city_ascii": "Elephant Butte",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.1806,
+    "lng": -107.2269,
+    "cafes": []
+  },
+  "Gamerco": {
+    "city": "Gamerco",
+    "city_ascii": "Gamerco",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5699,
+    "lng": -108.7641,
+    "cafes": []
+  },
+  "Tano Road": {
+    "city": "Tano Road",
+    "city_ascii": "Tano Road",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7374,
+    "lng": -105.9819,
+    "cafes": []
+  },
+  "White Sands": {
+    "city": "White Sands",
+    "city_ascii": "White Sands",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.3804,
+    "lng": -106.4791,
+    "cafes": []
+  },
+  "Dixon": {
+    "city": "Dixon",
+    "city_ascii": "Dixon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1886,
+    "lng": -105.8784,
+    "cafes": []
+  },
+  "Tome": {
+    "city": "Tome",
+    "city_ascii": "Tome",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.739,
+    "lng": -106.7251,
+    "cafes": []
+  },
+  "Little Walnut Village": {
+    "city": "Little Walnut Village",
+    "city_ascii": "Little Walnut Village",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8257,
+    "lng": -108.2811,
+    "cafes": []
+  },
+  "Upper Fruitland": {
+    "city": "Upper Fruitland",
+    "city_ascii": "Upper Fruitland",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7204,
+    "lng": -108.3236,
+    "cafes": []
+  },
+  "High Rolls": {
+    "city": "High Rolls",
+    "city_ascii": "High Rolls",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9388,
+    "lng": -105.8214,
+    "cafes": []
+  },
+  "Thunder Mountain": {
+    "city": "Thunder Mountain",
+    "city_ascii": "Thunder Mountain",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1009,
+    "lng": -106.2278,
+    "cafes": []
+  },
+  "Keeler Farm": {
+    "city": "Keeler Farm",
+    "city_ascii": "Keeler Farm",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.3161,
+    "lng": -107.7602,
+    "cafes": []
+  },
+  "La Villita": {
+    "city": "La Villita",
+    "city_ascii": "La Villita",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1001,
+    "lng": -106.0515,
+    "cafes": []
+  },
+  "Sandia Knolls": {
+    "city": "Sandia Knolls",
+    "city_ascii": "Sandia Knolls",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1604,
+    "lng": -106.2987,
+    "cafes": []
+  },
+  "El Rancho": {
+    "city": "El Rancho",
+    "city_ascii": "El Rancho",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8928,
+    "lng": -106.0856,
+    "cafes": []
+  },
+  "Berino": {
+    "city": "Berino",
+    "city_ascii": "Berino",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.069,
+    "lng": -106.6221,
+    "cafes": []
+  },
+  "San Felipe Pueblo": {
+    "city": "San Felipe Pueblo",
+    "city_ascii": "San Felipe Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4338,
+    "lng": -106.425,
+    "cafes": []
+  },
+  "Church Rock": {
+    "city": "Church Rock",
+    "city_ascii": "Church Rock",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5692,
+    "lng": -108.573,
+    "cafes": []
+  },
+  "Paraje": {
+    "city": "Paraje",
+    "city_ascii": "Paraje",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0444,
+    "lng": -107.4681,
+    "cafes": []
+  },
+  "Estancia": {
+    "city": "Estancia",
+    "city_ascii": "Estancia",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.7667,
+    "lng": -106.0301,
+    "cafes": []
+  },
+  "Loving": {
+    "city": "Loving",
+    "city_ascii": "Loving",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2862,
+    "lng": -104.0976,
+    "cafes": []
+  },
+  "McIntosh": {
+    "city": "McIntosh",
+    "city_ascii": "McIntosh",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.8819,
+    "lng": -106.0559,
+    "cafes": []
+  },
+  "Mountainair": {
+    "city": "Mountainair",
+    "city_ascii": "Mountainair",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.5212,
+    "lng": -106.2392,
+    "cafes": []
+  },
+  "Taos Pueblo": {
+    "city": "Taos Pueblo",
+    "city_ascii": "Taos Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.4657,
+    "lng": -105.5634,
+    "cafes": []
+  },
+  "Cloudcroft": {
+    "city": "Cloudcroft",
+    "city_ascii": "Cloudcroft",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9532,
+    "lng": -105.7326,
+    "cafes": []
+  },
+  "Capitan": {
+    "city": "Capitan",
+    "city_ascii": "Capitan",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.5393,
+    "lng": -105.5983,
+    "cafes": []
+  },
+  "Alamo": {
+    "city": "Alamo",
+    "city_ascii": "Alamo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.4184,
+    "lng": -107.5125,
+    "cafes": []
+  },
+  "Waterflow": {
+    "city": "Waterflow",
+    "city_ascii": "Waterflow",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7568,
+    "lng": -108.4673,
+    "cafes": []
+  },
+  "Iyanbito": {
+    "city": "Iyanbito",
+    "city_ascii": "Iyanbito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.516,
+    "lng": -108.4878,
+    "cafes": []
+  },
+  "Algodones": {
+    "city": "Algodones",
+    "city_ascii": "Algodones",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3804,
+    "lng": -106.4731,
+    "cafes": []
+  },
+  "Ohkay Owingeh": {
+    "city": "Ohkay Owingeh",
+    "city_ascii": "Ohkay Owingeh",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.044,
+    "lng": -106.0565,
+    "cafes": []
+  },
+  "Rock Springs": {
+    "city": "Rock Springs",
+    "city_ascii": "Rock Springs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6188,
+    "lng": -108.8345,
+    "cafes": []
+  },
+  "Doña Ana": {
+    "city": "Doña Ana",
+    "city_ascii": "Dona Ana",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.394,
+    "lng": -106.8177,
+    "cafes": []
+  },
+  "Columbus": {
+    "city": "Columbus",
+    "city_ascii": "Columbus",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 31.8271,
+    "lng": -107.6422,
+    "cafes": []
+  },
+  "Pecos": {
+    "city": "Pecos",
+    "city_ascii": "Pecos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5757,
+    "lng": -105.6784,
+    "cafes": []
+  },
+  "Dexter": {
+    "city": "Dexter",
+    "city_ascii": "Dexter",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.1954,
+    "lng": -104.3687,
+    "cafes": []
+  },
+  "Hurley": {
+    "city": "Hurley",
+    "city_ascii": "Hurley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.6982,
+    "lng": -108.1321,
+    "cafes": []
+  },
+  "Talpa": {
+    "city": "Talpa",
+    "city_ascii": "Talpa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.3421,
+    "lng": -105.5923,
+    "cafes": []
+  },
+  "Black Rock": {
+    "city": "Black Rock",
+    "city_ascii": "Black Rock",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0835,
+    "lng": -108.7975,
+    "cafes": []
+  },
+  "Spencerville": {
+    "city": "Spencerville",
+    "city_ascii": "Spencerville",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.8244,
+    "lng": -108.0563,
+    "cafes": []
+  },
+  "Springer": {
+    "city": "Springer",
+    "city_ascii": "Springer",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.3623,
+    "lng": -104.5997,
+    "cafes": []
+  },
+  "Ponderosa Pine": {
+    "city": "Ponderosa Pine",
+    "city_ascii": "Ponderosa Pine",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.972,
+    "lng": -106.3369,
+    "cafes": []
+  },
+  "Angel Fire": {
+    "city": "Angel Fire",
+    "city_ascii": "Angel Fire",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.3821,
+    "lng": -105.2718,
+    "cafes": []
+  },
+  "Tesuque": {
+    "city": "Tesuque",
+    "city_ascii": "Tesuque",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7487,
+    "lng": -105.9209,
+    "cafes": []
+  },
+  "Williams Acres": {
+    "city": "Williams Acres",
+    "city_ascii": "Williams Acres",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4969,
+    "lng": -108.8699,
+    "cafes": []
+  },
+  "Atoka": {
+    "city": "Atoka",
+    "city_ascii": "Atoka",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7783,
+    "lng": -104.3931,
+    "cafes": []
+  },
+  "Santa Ana Pueblo": {
+    "city": "Santa Ana Pueblo",
+    "city_ascii": "Santa Ana Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3495,
+    "lng": -106.5202,
+    "cafes": []
+  },
+  "Santa Clara Pueblo": {
+    "city": "Santa Clara Pueblo",
+    "city_ascii": "Santa Clara Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9726,
+    "lng": -106.0927,
+    "cafes": []
+  },
+  "Twin Lakes": {
+    "city": "Twin Lakes",
+    "city_ascii": "Twin Lakes",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6833,
+    "lng": -108.7709,
+    "cafes": []
+  },
+  "El Rito": {
+    "city": "El Rito",
+    "city_ascii": "El Rito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.338,
+    "lng": -106.1844,
+    "cafes": []
+  },
+  "Carrizozo": {
+    "city": "Carrizozo",
+    "city_ascii": "Carrizozo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.6433,
+    "lng": -105.8411,
+    "cafes": []
+  },
+  "Fort Sumner": {
+    "city": "Fort Sumner",
+    "city_ascii": "Fort Sumner",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.479,
+    "lng": -104.2332,
+    "cafes": []
+  },
+  "Cañoncito": {
+    "city": "Cañoncito",
+    "city_ascii": "Canoncito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5388,
+    "lng": -105.8391,
+    "cafes": []
+  },
+  "Skyline-Ganipa": {
+    "city": "Skyline-Ganipa",
+    "city_ascii": "Skyline-Ganipa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0361,
+    "lng": -107.6162,
+    "cafes": []
+  },
+  "La Union": {
+    "city": "La Union",
+    "city_ascii": "La Union",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 31.9508,
+    "lng": -106.6622,
+    "cafes": []
+  },
+  "Arenas Valley": {
+    "city": "Arenas Valley",
+    "city_ascii": "Arenas Valley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7765,
+    "lng": -108.203,
+    "cafes": []
+  },
+  "Isleta": {
+    "city": "Isleta",
+    "city_ascii": "Isleta",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.9042,
+    "lng": -106.6992,
+    "cafes": []
+  },
+  "Adelino": {
+    "city": "Adelino",
+    "city_ascii": "Adelino",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.7064,
+    "lng": -106.7318,
+    "cafes": []
+  },
+  "Sunlit Hills": {
+    "city": "Sunlit Hills",
+    "city_ascii": "Sunlit Hills",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5957,
+    "lng": -105.921,
+    "cafes": []
+  },
+  "Logan": {
+    "city": "Logan",
+    "city_ascii": "Logan",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3576,
+    "lng": -103.4426,
+    "cafes": []
+  },
+  "Texico": {
+    "city": "Texico",
+    "city_ascii": "Texico",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.3897,
+    "lng": -103.0513,
+    "cafes": []
+  },
+  "Cedar Grove": {
+    "city": "Cedar Grove",
+    "city_ascii": "Cedar Grove",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1788,
+    "lng": -106.1728,
+    "cafes": []
+  },
+  "La Puebla": {
+    "city": "La Puebla",
+    "city_ascii": "La Puebla",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9882,
+    "lng": -106.0005,
+    "cafes": []
+  },
+  "Carnuel": {
+    "city": "Carnuel",
+    "city_ascii": "Carnuel",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0609,
+    "lng": -106.4587,
+    "cafes": []
+  },
+  "Cedar Hill": {
+    "city": "Cedar Hill",
+    "city_ascii": "Cedar Hill",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.9424,
+    "lng": -107.8862,
+    "cafes": []
+  },
+  "Salem": {
+    "city": "Salem",
+    "city_ascii": "Salem",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7121,
+    "lng": -107.2056,
+    "cafes": []
+  },
+  "Chamita": {
+    "city": "Chamita",
+    "city_ascii": "Chamita",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0706,
+    "lng": -106.0974,
+    "cafes": []
+  },
+  "Butterfield Park": {
+    "city": "Butterfield Park",
+    "city_ascii": "Butterfield Park",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.4052,
+    "lng": -106.6457,
+    "cafes": []
+  },
+  "Ventura": {
+    "city": "Ventura",
+    "city_ascii": "Ventura",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2438,
+    "lng": -107.6832,
+    "cafes": []
+  },
+  "Mesita": {
+    "city": "Mesita",
+    "city_ascii": "Mesita",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0026,
+    "lng": -107.3122,
+    "cafes": []
+  },
+  "Monterey Park": {
+    "city": "Monterey Park",
+    "city_ascii": "Monterey Park",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.7511,
+    "lng": -106.653,
+    "cafes": []
+  },
+  "Mescalero": {
+    "city": "Mescalero",
+    "city_ascii": "Mescalero",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.1448,
+    "lng": -105.7897,
+    "cafes": []
+  },
+  "Hernandez": {
+    "city": "Hernandez",
+    "city_ascii": "Hernandez",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0567,
+    "lng": -106.1185,
+    "cafes": []
+  },
+  "La Hacienda": {
+    "city": "La Hacienda",
+    "city_ascii": "La Hacienda",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.206,
+    "lng": -107.725,
+    "cafes": []
+  },
+  "Zia Pueblo": {
+    "city": "Zia Pueblo",
+    "city_ascii": "Zia Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.52,
+    "lng": -106.7149,
+    "cafes": []
+  },
+  "Laguna": {
+    "city": "Laguna",
+    "city_ascii": "Laguna",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0473,
+    "lng": -107.4031,
+    "cafes": []
+  },
+  "Sausal": {
+    "city": "Sausal",
+    "city_ascii": "Sausal",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6803,
+    "lng": -106.7589,
+    "cafes": []
+  },
+  "Indian Hills": {
+    "city": "Indian Hills",
+    "city_ascii": "Indian Hills",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.9832,
+    "lng": -106.1398,
+    "cafes": []
+  },
+  "Magdalena": {
+    "city": "Magdalena",
+    "city_ascii": "Magdalena",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.1095,
+    "lng": -107.2319,
+    "cafes": []
+  },
+  "Valle Vista": {
+    "city": "Valle Vista",
+    "city_ascii": "Valle Vista",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5841,
+    "lng": -106.0584,
+    "cafes": []
+  },
+  "Los Luceros": {
+    "city": "Los Luceros",
+    "city_ascii": "Los Luceros",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1151,
+    "lng": -106.0371,
+    "cafes": []
+  },
+  "Chama": {
+    "city": "Chama",
+    "city_ascii": "Chama",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.8931,
+    "lng": -106.5843,
+    "cafes": []
+  },
+  "Cedar Crest": {
+    "city": "Cedar Crest",
+    "city_ascii": "Cedar Crest",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1114,
+    "lng": -106.3802,
+    "cafes": []
+  },
+  "San Jose": {
+    "city": "San Jose",
+    "city_ascii": "San Jose",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0367,
+    "lng": -106.1004,
+    "cafes": []
+  },
+  "Tatum": {
+    "city": "Tatum",
+    "city_ascii": "Tatum",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.2553,
+    "lng": -103.3112,
+    "cafes": []
+  },
+  "Polvadera": {
+    "city": "Polvadera",
+    "city_ascii": "Polvadera",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.202,
+    "lng": -106.9172,
+    "cafes": []
+  },
+  "El Duende": {
+    "city": "El Duende",
+    "city_ascii": "El Duende",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0738,
+    "lng": -106.1269,
+    "cafes": []
+  },
+  "San Pablo": {
+    "city": "San Pablo",
+    "city_ascii": "San Pablo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2507,
+    "lng": -106.7626,
+    "cafes": []
+  },
+  "San Mateo": {
+    "city": "San Mateo",
+    "city_ascii": "San Mateo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3381,
+    "lng": -107.645,
+    "cafes": []
+  },
+  "La Cueva": {
+    "city": "La Cueva",
+    "city_ascii": "La Cueva",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8694,
+    "lng": -106.6485,
+    "cafes": []
+  },
+  "Cimarron": {
+    "city": "Cimarron",
+    "city_ascii": "Cimarron",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.5083,
+    "lng": -104.9104,
+    "cafes": []
+  },
+  "Santa Fe Foothills": {
+    "city": "Santa Fe Foothills",
+    "city_ascii": "Santa Fe Foothills",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6279,
+    "lng": -105.898,
+    "cafes": []
+  },
+  "San Miguel": {
+    "city": "San Miguel",
+    "city_ascii": "San Miguel",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.1535,
+    "lng": -106.7269,
+    "cafes": []
+  },
+  "San Antonito": {
+    "city": "San Antonito",
+    "city_ascii": "San Antonito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1574,
+    "lng": -106.3475,
+    "cafes": []
+  },
+  "Peña Blanca": {
+    "city": "Peña Blanca",
+    "city_ascii": "Pena Blanca",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5709,
+    "lng": -106.3319,
+    "cafes": []
+  },
+  "Tohatchi": {
+    "city": "Tohatchi",
+    "city_ascii": "Tohatchi",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8423,
+    "lng": -108.7503,
+    "cafes": []
+  },
+  "Napi Headquarters": {
+    "city": "Napi Headquarters",
+    "city_ascii": "Napi Headquarters",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.6505,
+    "lng": -108.2145,
+    "cafes": []
+  },
+  "Seama": {
+    "city": "Seama",
+    "city_ascii": "Seama",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0429,
+    "lng": -107.5272,
+    "cafes": []
+  },
+  "Pecan Park": {
+    "city": "Pecan Park",
+    "city_ascii": "Pecan Park",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2704,
+    "lng": -107.674,
+    "cafes": []
+  },
+  "McCartys Village": {
+    "city": "McCartys Village",
+    "city_ascii": "McCartys Village",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0614,
+    "lng": -107.6634,
+    "cafes": []
+  },
+  "San Ildefonso Pueblo": {
+    "city": "San Ildefonso Pueblo",
+    "city_ascii": "San Ildefonso Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8955,
+    "lng": -106.1225,
+    "cafes": []
+  },
+  "Tyrone": {
+    "city": "Tyrone",
+    "city_ascii": "Tyrone",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7099,
+    "lng": -108.3028,
+    "cafes": []
+  },
+  "Acomita Lake": {
+    "city": "Acomita Lake",
+    "city_ascii": "Acomita Lake",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0658,
+    "lng": -107.6165,
+    "cafes": []
+  },
+  "Prewitt": {
+    "city": "Prewitt",
+    "city_ascii": "Prewitt",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3682,
+    "lng": -108.0748,
+    "cafes": []
+  },
+  "Livingston Wheeler": {
+    "city": "Livingston Wheeler",
+    "city_ascii": "Livingston Wheeler",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.3944,
+    "lng": -104.1981,
+    "cafes": []
+  },
+  "Tortugas": {
+    "city": "Tortugas",
+    "city_ascii": "Tortugas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2697,
+    "lng": -106.7546,
+    "cafes": []
+  },
+  "Tierra Amarilla": {
+    "city": "Tierra Amarilla",
+    "city_ascii": "Tierra Amarilla",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7061,
+    "lng": -106.5599,
+    "cafes": []
+  },
+  "Rio Lucio": {
+    "city": "Rio Lucio",
+    "city_ascii": "Rio Lucio",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1922,
+    "lng": -105.72,
+    "cafes": []
+  },
+  "San Rafael": {
+    "city": "San Rafael",
+    "city_ascii": "San Rafael",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.101,
+    "lng": -107.8899,
+    "cafes": []
+  },
+  "Happy Valley": {
+    "city": "Happy Valley",
+    "city_ascii": "Happy Valley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.4236,
+    "lng": -104.2903,
+    "cafes": []
+  },
+  "Peñasco": {
+    "city": "Peñasco",
+    "city_ascii": "Penasco",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1703,
+    "lng": -105.6908,
+    "cafes": []
+  },
+  "Paa-Ko": {
+    "city": "Paa-Ko",
+    "city_ascii": "Paa-Ko",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1998,
+    "lng": -106.3337,
+    "cafes": []
+  },
+  "White Cliffs": {
+    "city": "White Cliffs",
+    "city_ascii": "White Cliffs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5491,
+    "lng": -108.6644,
+    "cafes": []
+  },
+  "Sedillo": {
+    "city": "Sedillo",
+    "city_ascii": "Sedillo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0906,
+    "lng": -106.2869,
+    "cafes": []
+  },
+  "Chamberino": {
+    "city": "Chamberino",
+    "city_ascii": "Chamberino",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.0364,
+    "lng": -106.6776,
+    "cafes": []
+  },
+  "Hagerman": {
+    "city": "Hagerman",
+    "city_ascii": "Hagerman",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.1146,
+    "lng": -104.3284,
+    "cafes": []
+  },
+  "Williamsburg": {
+    "city": "Williamsburg",
+    "city_ascii": "Williamsburg",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.1158,
+    "lng": -107.2951,
+    "cafes": []
+  },
+  "Cuartelez": {
+    "city": "Cuartelez",
+    "city_ascii": "Cuartelez",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9929,
+    "lng": -106.0196,
+    "cafes": []
+  },
+  "Encinal": {
+    "city": "Encinal",
+    "city_ascii": "Encinal",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1112,
+    "lng": -107.4651,
+    "cafes": []
+  },
+  "Wagon Mound": {
+    "city": "Wagon Mound",
+    "city_ascii": "Wagon Mound",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0048,
+    "lng": -104.7091,
+    "cafes": []
+  },
+  "Mesquite": {
+    "city": "Mesquite",
+    "city_ascii": "Mesquite",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.167,
+    "lng": -106.6885,
+    "cafes": []
+  },
+  "Kirtland": {
+    "city": "Kirtland",
+    "city_ascii": "Kirtland",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7502,
+    "lng": -108.3588,
+    "cafes": []
+  },
+  "North Light Plant": {
+    "city": "North Light Plant",
+    "city_ascii": "North Light Plant",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.867,
+    "lng": -108.033,
+    "cafes": []
+  },
+  "Pinedale": {
+    "city": "Pinedale",
+    "city_ascii": "Pinedale",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6078,
+    "lng": -108.4225,
+    "cafes": []
+  },
+  "Midway": {
+    "city": "Midway",
+    "city_ascii": "Midway",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.2958,
+    "lng": -104.4518,
+    "cafes": []
+  },
+  "Glorieta": {
+    "city": "Glorieta",
+    "city_ascii": "Glorieta",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.584,
+    "lng": -105.7629,
+    "cafes": []
+  },
+  "Rowe": {
+    "city": "Rowe",
+    "city_ascii": "Rowe",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4922,
+    "lng": -105.6715,
+    "cafes": []
+  },
+  "Vaughn": {
+    "city": "Vaughn",
+    "city_ascii": "Vaughn",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6072,
+    "lng": -105.2126,
+    "cafes": []
+  },
+  "La Mesa": {
+    "city": "La Mesa",
+    "city_ascii": "La Mesa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.1244,
+    "lng": -106.709,
+    "cafes": []
+  },
+  "Melrose": {
+    "city": "Melrose",
+    "city_ascii": "Melrose",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.4289,
+    "lng": -103.6296,
+    "cafes": []
+  },
+  "Pueblitos": {
+    "city": "Pueblitos",
+    "city_ascii": "Pueblitos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6109,
+    "lng": -106.7818,
+    "cafes": []
+  },
+  "East Pecos": {
+    "city": "East Pecos",
+    "city_ascii": "East Pecos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5765,
+    "lng": -105.65,
+    "cafes": []
+  },
+  "Sundance": {
+    "city": "Sundance",
+    "city_ascii": "Sundance",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5105,
+    "lng": -108.6397,
+    "cafes": []
+  },
+  "Fruitland": {
+    "city": "Fruitland",
+    "city_ascii": "Fruitland",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7432,
+    "lng": -108.3951,
+    "cafes": []
+  },
+  "Mora": {
+    "city": "Mora",
+    "city_ascii": "Mora",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9634,
+    "lng": -105.3312,
+    "cafes": []
+  },
+  "Cuyamungue": {
+    "city": "Cuyamungue",
+    "city_ascii": "Cuyamungue",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8648,
+    "lng": -106.0096,
+    "cafes": []
+  },
+  "Conejo": {
+    "city": "Conejo",
+    "city_ascii": "Conejo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6287,
+    "lng": -105.9423,
+    "cafes": []
+  },
+  "Costilla": {
+    "city": "Costilla",
+    "city_ascii": "Costilla",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.9786,
+    "lng": -105.5353,
+    "cafes": []
+  },
+  "Brimhall Nizhoni": {
+    "city": "Brimhall Nizhoni",
+    "city_ascii": "Brimhall Nizhoni",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7785,
+    "lng": -108.6322,
+    "cafes": []
+  },
+  "Pueblo of Sandia Village": {
+    "city": "Pueblo of Sandia Village",
+    "city_ascii": "Pueblo of Sandia Village",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2536,
+    "lng": -106.5706,
+    "cafes": []
+  },
+  "Cañada de los Alamos": {
+    "city": "Cañada de los Alamos",
+    "city_ascii": "Canada de los Alamos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5927,
+    "lng": -105.8597,
+    "cafes": []
+  },
+  "Tijeras": {
+    "city": "Tijeras",
+    "city_ascii": "Tijeras",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0884,
+    "lng": -106.3761,
+    "cafes": []
+  },
+  "Peak Place": {
+    "city": "Peak Place",
+    "city_ascii": "Peak Place",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7911,
+    "lng": -105.9432,
+    "cafes": []
+  },
+  "Mount Taylor": {
+    "city": "Mount Taylor",
+    "city_ascii": "Mount Taylor",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1241,
+    "lng": -107.8075,
+    "cafes": []
+  },
+  "Cochiti": {
+    "city": "Cochiti",
+    "city_ascii": "Cochiti",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6104,
+    "lng": -106.3501,
+    "cafes": []
+  },
+  "Homer C Jones": {
+    "city": "Homer C Jones",
+    "city_ascii": "Homer C Jones",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3078,
+    "lng": -108.0966,
+    "cafes": []
+  },
+  "Yah-ta-hey": {
+    "city": "Yah-ta-hey",
+    "city_ascii": "Yah-ta-hey",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6291,
+    "lng": -108.7927,
+    "cafes": []
+  },
+  "Cuba": {
+    "city": "Cuba",
+    "city_ascii": "Cuba",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0146,
+    "lng": -106.968,
+    "cafes": []
+  },
+  "Pinehill": {
+    "city": "Pinehill",
+    "city_ascii": "Pinehill",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.8922,
+    "lng": -108.4224,
+    "cafes": []
+  },
+  "Sunshine": {
+    "city": "Sunshine",
+    "city_ascii": "Sunshine",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.1344,
+    "lng": -107.7838,
+    "cafes": []
+  },
+  "La Madera": {
+    "city": "La Madera",
+    "city_ascii": "La Madera",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.3808,
+    "lng": -106.042,
+    "cafes": []
+  },
+  "Ramah": {
+    "city": "Ramah",
+    "city_ascii": "Ramah",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1263,
+    "lng": -108.5063,
+    "cafes": []
+  },
+  "Red River": {
+    "city": "Red River",
+    "city_ascii": "Red River",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7041,
+    "lng": -105.4064,
+    "cafes": []
+  },
+  "Canova": {
+    "city": "Canova",
+    "city_ascii": "Canova",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1649,
+    "lng": -105.9857,
+    "cafes": []
+  },
+  "Cochiti Lake": {
+    "city": "Cochiti Lake",
+    "city_ascii": "Cochiti Lake",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6478,
+    "lng": -106.3425,
+    "cafes": []
+  },
+  "Fort Wingate": {
+    "city": "Fort Wingate",
+    "city_ascii": "Fort Wingate",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4708,
+    "lng": -108.5439,
+    "cafes": []
+  },
+  "Ojo Encino": {
+    "city": "Ojo Encino",
+    "city_ascii": "Ojo Encino",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9525,
+    "lng": -107.3445,
+    "cafes": []
+  },
+  "Nenahnezad": {
+    "city": "Nenahnezad",
+    "city_ascii": "Nenahnezad",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7354,
+    "lng": -108.4252,
+    "cafes": []
+  },
+  "Jacona": {
+    "city": "Jacona",
+    "city_ascii": "Jacona",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8887,
+    "lng": -106.0386,
+    "cafes": []
+  },
+  "Lake Arthur": {
+    "city": "Lake Arthur",
+    "city_ascii": "Lake Arthur",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9994,
+    "lng": -104.3637,
+    "cafes": []
+  },
+  "Monument": {
+    "city": "Monument",
+    "city_ascii": "Monument",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.6243,
+    "lng": -103.2776,
+    "cafes": []
+  },
+  "Lemitar": {
+    "city": "Lemitar",
+    "city_ascii": "Lemitar",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.1551,
+    "lng": -106.9122,
+    "cafes": []
+  },
+  "Tecolotito": {
+    "city": "Tecolotito",
+    "city_ascii": "Tecolotito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2307,
+    "lng": -105.1631,
+    "cafes": []
+  },
+  "Lobo Canyon": {
+    "city": "Lobo Canyon",
+    "city_ascii": "Lobo Canyon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2238,
+    "lng": -107.7209,
+    "cafes": []
+  },
+  "Arrey": {
+    "city": "Arrey",
+    "city_ascii": "Arrey",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8472,
+    "lng": -107.3204,
+    "cafes": []
+  },
+  "Blanco": {
+    "city": "Blanco",
+    "city_ascii": "Blanco",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7406,
+    "lng": -107.806,
+    "cafes": []
+  },
+  "Tesuque Pueblo": {
+    "city": "Tesuque Pueblo",
+    "city_ascii": "Tesuque Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.809,
+    "lng": -105.9752,
+    "cafes": []
+  },
+  "Cañon": {
+    "city": "Cañon",
+    "city_ascii": "Canon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6718,
+    "lng": -106.7527,
+    "cafes": []
+  },
+  "Cordova": {
+    "city": "Cordova",
+    "city_ascii": "Cordova",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0128,
+    "lng": -105.8566,
+    "cafes": []
+  },
+  "Cedro": {
+    "city": "Cedro",
+    "city_ascii": "Cedro",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.018,
+    "lng": -106.3508,
+    "cafes": []
+  },
+  "Gila": {
+    "city": "Gila",
+    "city_ascii": "Gila",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9485,
+    "lng": -108.5762,
+    "cafes": []
+  },
+  "Mimbres": {
+    "city": "Mimbres",
+    "city_ascii": "Mimbres",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8398,
+    "lng": -107.9606,
+    "cafes": []
+  },
+  "Timberon": {
+    "city": "Timberon",
+    "city_ascii": "Timberon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.636,
+    "lng": -105.6925,
+    "cafes": []
+  },
+  "Puerto de Luna": {
+    "city": "Puerto de Luna",
+    "city_ascii": "Puerto de Luna",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.8297,
+    "lng": -104.6222,
+    "cafes": []
+  },
+  "Naschitti": {
+    "city": "Naschitti",
+    "city_ascii": "Naschitti",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0626,
+    "lng": -108.68,
+    "cafes": []
+  },
+  "Fairacres": {
+    "city": "Fairacres",
+    "city_ascii": "Fairacres",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.3047,
+    "lng": -106.8367,
+    "cafes": []
+  },
+  "Broadview": {
+    "city": "Broadview",
+    "city_ascii": "Broadview",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2257,
+    "lng": -107.8761,
+    "cafes": []
+  },
+  "Sandia Park": {
+    "city": "Sandia Park",
+    "city_ascii": "Sandia Park",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1649,
+    "lng": -106.3657,
+    "cafes": []
+  },
+  "Ojo Amarillo": {
+    "city": "Ojo Amarillo",
+    "city_ascii": "Ojo Amarillo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.6942,
+    "lng": -108.3704,
+    "cafes": []
+  },
+  "Maxwell": {
+    "city": "Maxwell",
+    "city_ascii": "Maxwell",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.5411,
+    "lng": -104.5431,
+    "cafes": []
+  },
+  "Newcomb": {
+    "city": "Newcomb",
+    "city_ascii": "Newcomb",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.2852,
+    "lng": -108.7116,
+    "cafes": []
+  },
+  "Sheep Springs": {
+    "city": "Sheep Springs",
+    "city_ascii": "Sheep Springs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1593,
+    "lng": -108.6905,
+    "cafes": []
+  },
+  "Chamisal": {
+    "city": "Chamisal",
+    "city_ascii": "Chamisal",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1725,
+    "lng": -105.7459,
+    "cafes": []
+  },
+  "Pleasanton": {
+    "city": "Pleasanton",
+    "city_ascii": "Pleasanton",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.2759,
+    "lng": -108.8792,
+    "cafes": []
+  },
+  "Morningside": {
+    "city": "Morningside",
+    "city_ascii": "Morningside",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.861,
+    "lng": -104.3971,
+    "cafes": []
+  },
+  "Haystack": {
+    "city": "Haystack",
+    "city_ascii": "Haystack",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3612,
+    "lng": -107.934,
+    "cafes": []
+  },
+  "Madrone": {
+    "city": "Madrone",
+    "city_ascii": "Madrone",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.5792,
+    "lng": -106.7285,
+    "cafes": []
+  },
+  "Timberlake": {
+    "city": "Timberlake",
+    "city_ascii": "Timberlake",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2012,
+    "lng": -108.4843,
+    "cafes": []
+  },
+  "Vadito": {
+    "city": "Vadito",
+    "city_ascii": "Vadito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1929,
+    "lng": -105.6755,
+    "cafes": []
+  },
+  "North Acomita Village": {
+    "city": "North Acomita Village",
+    "city_ascii": "North Acomita Village",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0673,
+    "lng": -107.5649,
+    "cafes": []
+  },
+  "Hyde Park": {
+    "city": "Hyde Park",
+    "city_ascii": "Hyde Park",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7112,
+    "lng": -105.8866,
+    "cafes": []
+  },
+  "Highland Meadows": {
+    "city": "Highland Meadows",
+    "city_ascii": "Highland Meadows",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.94,
+    "lng": -107.1656,
+    "cafes": []
+  },
+  "Las Palomas": {
+    "city": "Las Palomas",
+    "city_ascii": "Las Palomas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.0589,
+    "lng": -107.2983,
+    "cafes": []
+  },
+  "San Pedro": {
+    "city": "San Pedro",
+    "city_ascii": "San Pedro",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.228,
+    "lng": -106.1848,
+    "cafes": []
+  },
+  "Cuyamungue Grant": {
+    "city": "Cuyamungue Grant",
+    "city_ascii": "Cuyamungue Grant",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8464,
+    "lng": -105.9948,
+    "cafes": []
+  },
+  "La Tierra": {
+    "city": "La Tierra",
+    "city_ascii": "La Tierra",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7473,
+    "lng": -106.0308,
+    "cafes": []
+  },
+  "Paguate": {
+    "city": "Paguate",
+    "city_ascii": "Paguate",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1473,
+    "lng": -107.3814,
+    "cafes": []
+  },
+  "Ribera": {
+    "city": "Ribera",
+    "city_ascii": "Ribera",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.37,
+    "lng": -105.4441,
+    "cafes": []
+  },
+  "Reserve": {
+    "city": "Reserve",
+    "city_ascii": "Reserve",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.709,
+    "lng": -108.7614,
+    "cafes": []
+  },
+  "North San Ysidro": {
+    "city": "North San Ysidro",
+    "city_ascii": "North San Ysidro",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4747,
+    "lng": -105.5661,
+    "cafes": []
+  },
+  "Roy": {
+    "city": "Roy",
+    "city_ascii": "Roy",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9451,
+    "lng": -104.1963,
+    "cafes": []
+  },
+  "Casa Colorada": {
+    "city": "Casa Colorada",
+    "city_ascii": "Casa Colorada",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.5534,
+    "lng": -106.742,
+    "cafes": []
+  },
+  "Jemez Springs": {
+    "city": "Jemez Springs",
+    "city_ascii": "Jemez Springs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7732,
+    "lng": -106.6909,
+    "cafes": []
+  },
+  "Chupadero": {
+    "city": "Chupadero",
+    "city_ascii": "Chupadero",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8144,
+    "lng": -105.9198,
+    "cafes": []
+  },
+  "Quemado": {
+    "city": "Quemado",
+    "city_ascii": "Quemado",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.3414,
+    "lng": -108.506,
+    "cafes": []
+  },
+  "San Lorenzo": {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8086,
+    "lng": -107.9221,
+    "cafes": []
+  },
+  "Glen Acres": {
+    "city": "Glen Acres",
+    "city_ascii": "Glen Acres",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.375,
+    "lng": -108.7162,
+    "cafes": []
+  },
+  "Twin Forks": {
+    "city": "Twin Forks",
+    "city_ascii": "Twin Forks",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9463,
+    "lng": -105.6374,
+    "cafes": []
+  },
+  "Crystal": {
+    "city": "Crystal",
+    "city_ascii": "Crystal",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.029,
+    "lng": -108.9898,
+    "cafes": []
+  },
+  "Nageezi": {
+    "city": "Nageezi",
+    "city_ascii": "Nageezi",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.2488,
+    "lng": -107.7471,
+    "cafes": []
+  },
+  "Truchas": {
+    "city": "Truchas",
+    "city_ascii": "Truchas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0338,
+    "lng": -105.8095,
+    "cafes": []
+  },
+  "Hanover": {
+    "city": "Hanover",
+    "city_ascii": "Hanover",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8149,
+    "lng": -108.0897,
+    "cafes": []
+  },
+  "Soham": {
+    "city": "Soham",
+    "city_ascii": "Soham",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4168,
+    "lng": -105.4985,
+    "cafes": []
+  },
+  "Becenti": {
+    "city": "Becenti",
+    "city_ascii": "Becenti",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8123,
+    "lng": -108.1708,
+    "cafes": []
+  },
+  "Gallina": {
+    "city": "Gallina",
+    "city_ascii": "Gallina",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.2295,
+    "lng": -106.8205,
+    "cafes": []
+  },
+  "Jaconita": {
+    "city": "Jaconita",
+    "city_ascii": "Jaconita",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8857,
+    "lng": -106.0611,
+    "cafes": []
+  },
+  "Eagle Nest": {
+    "city": "Eagle Nest",
+    "city_ascii": "Eagle Nest",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.5496,
+    "lng": -105.2591,
+    "cafes": []
+  },
+  "Rodey": {
+    "city": "Rodey",
+    "city_ascii": "Rodey",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.6538,
+    "lng": -107.1358,
+    "cafes": []
+  },
+  "Rincon": {
+    "city": "Rincon",
+    "city_ascii": "Rincon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.6726,
+    "lng": -107.0759,
+    "cafes": []
+  },
+  "Sanostee": {
+    "city": "Sanostee",
+    "city_ascii": "Sanostee",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.4329,
+    "lng": -108.873,
+    "cafes": []
+  },
+  "Ponderosa": {
+    "city": "Ponderosa",
+    "city_ascii": "Ponderosa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6555,
+    "lng": -106.6544,
+    "cafes": []
+  },
+  "Nakaibito": {
+    "city": "Nakaibito",
+    "city_ascii": "Nakaibito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7826,
+    "lng": -108.8039,
+    "cafes": []
+  },
+  "Turley": {
+    "city": "Turley",
+    "city_ascii": "Turley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7366,
+    "lng": -107.79,
+    "cafes": []
+  },
+  "Villanueva": {
+    "city": "Villanueva",
+    "city_ascii": "Villanueva",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2659,
+    "lng": -105.3602,
+    "cafes": []
+  },
+  "Velarde": {
+    "city": "Velarde",
+    "city_ascii": "Velarde",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1608,
+    "lng": -105.9659,
+    "cafes": []
+  },
+  "Madrid": {
+    "city": "Madrid",
+    "city_ascii": "Madrid",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4033,
+    "lng": -106.1537,
+    "cafes": []
+  },
+  "Willard": {
+    "city": "Willard",
+    "city_ascii": "Willard",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.5948,
+    "lng": -106.0325,
+    "cafes": []
+  },
+  "Medanales": {
+    "city": "Medanales",
+    "city_ascii": "Medanales",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1765,
+    "lng": -106.1777,
+    "cafes": []
+  },
+  "Bluewater": {
+    "city": "Bluewater",
+    "city_ascii": "Bluewater",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3243,
+    "lng": -108.206,
+    "cafes": []
+  },
+  "Totah Vista": {
+    "city": "Totah Vista",
+    "city_ascii": "Totah Vista",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7113,
+    "lng": -108.2035,
+    "cafes": []
+  },
+  "Navajo Dam": {
+    "city": "Navajo Dam",
+    "city_ascii": "Navajo Dam",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.8339,
+    "lng": -107.646,
+    "cafes": []
+  },
+  "Alcalde": {
+    "city": "Alcalde",
+    "city_ascii": "Alcalde",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0854,
+    "lng": -106.0575,
+    "cafes": []
+  },
+  "Cotton City": {
+    "city": "Cotton City",
+    "city_ascii": "Cotton City",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.1104,
+    "lng": -108.8801,
+    "cafes": []
+  },
+  "Anton Chico": {
+    "city": "Anton Chico",
+    "city_ascii": "Anton Chico",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1948,
+    "lng": -105.1439,
+    "cafes": []
+  },
+  "Pueblo Pintado": {
+    "city": "Pueblo Pintado",
+    "city_ascii": "Pueblo Pintado",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9614,
+    "lng": -107.6224,
+    "cafes": []
+  },
+  "Santa Cruz": {
+    "city": "Santa Cruz",
+    "city_ascii": "Santa Cruz",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9939,
+    "lng": -106.0359,
+    "cafes": []
+  },
+  "Hillsboro": {
+    "city": "Hillsboro",
+    "city_ascii": "Hillsboro",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9219,
+    "lng": -107.5773,
+    "cafes": []
+  },
+  "Ensenada": {
+    "city": "Ensenada",
+    "city_ascii": "Ensenada",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.731,
+    "lng": -106.5368,
+    "cafes": []
+  },
+  "South Acomita Village": {
+    "city": "South Acomita Village",
+    "city_ascii": "South Acomita Village",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0533,
+    "lng": -107.5722,
+    "cafes": []
+  },
+  "Arroyo Hondo": {
+    "city": "Arroyo Hondo",
+    "city_ascii": "Arroyo Hondo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.5346,
+    "lng": -105.6665,
+    "cafes": []
+  },
+  "Seboyeta": {
+    "city": "Seboyeta",
+    "city_ascii": "Seboyeta",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2001,
+    "lng": -107.3861,
+    "cafes": []
+  },
+  "Rio Chiquito": {
+    "city": "Rio Chiquito",
+    "city_ascii": "Rio Chiquito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9949,
+    "lng": -105.9069,
+    "cafes": []
+  },
+  "Rosedale": {
+    "city": "Rosedale",
+    "city_ascii": "Rosedale",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7694,
+    "lng": -108.2417,
+    "cafes": []
+  },
+  "White Signal": {
+    "city": "White Signal",
+    "city_ascii": "White Signal",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.5724,
+    "lng": -108.3512,
+    "cafes": []
+  },
+  "Virden": {
+    "city": "Virden",
+    "city_ascii": "Virden",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.689,
+    "lng": -109.0015,
+    "cafes": []
+  },
+  "Animas": {
+    "city": "Animas",
+    "city_ascii": "Animas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 31.9449,
+    "lng": -108.8065,
+    "cafes": []
+  },
+  "Beclabito": {
+    "city": "Beclabito",
+    "city_ascii": "Beclabito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.8335,
+    "lng": -109.004,
+    "cafes": []
+  },
+  "Pie Town": {
+    "city": "Pie Town",
+    "city_ascii": "Pie Town",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.34,
+    "lng": -108.1708,
+    "cafes": []
+  },
+  "Chili": {
+    "city": "Chili",
+    "city_ascii": "Chili",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1027,
+    "lng": -106.1529,
+    "cafes": []
+  },
+  "Causey": {
+    "city": "Causey",
+    "city_ascii": "Causey",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.8607,
+    "lng": -103.1066,
+    "cafes": []
+  },
+  "Conchas Dam": {
+    "city": "Conchas Dam",
+    "city_ascii": "Conchas Dam",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3623,
+    "lng": -104.2042,
+    "cafes": []
+  },
+  "Sagar": {
+    "city": "Sagar",
+    "city_ascii": "Sagar",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2474,
+    "lng": -108.767,
+    "cafes": []
+  },
+  "Continental Divide": {
+    "city": "Continental Divide",
+    "city_ascii": "Continental Divide",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4329,
+    "lng": -108.3358,
+    "cafes": []
+  },
+  "Lindrith": {
+    "city": "Lindrith",
+    "city_ascii": "Lindrith",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.3173,
+    "lng": -107.0459,
+    "cafes": []
+  },
+  "Alamillo": {
+    "city": "Alamillo",
+    "city_ascii": "Alamillo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.2519,
+    "lng": -106.9158,
+    "cafes": []
+  },
+  "Corona": {
+    "city": "Corona",
+    "city_ascii": "Corona",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.2501,
+    "lng": -105.597,
+    "cafes": []
+  },
+  "La Jara": {
+    "city": "La Jara",
+    "city_ascii": "La Jara",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1055,
+    "lng": -106.9419,
+    "cafes": []
+  },
+  "Aragon": {
+    "city": "Aragon",
+    "city_ascii": "Aragon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.8899,
+    "lng": -108.5201,
+    "cafes": []
+  },
+  "Cruzville": {
+    "city": "Cruzville",
+    "city_ascii": "Cruzville",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.81,
+    "lng": -108.6684,
+    "cafes": []
+  },
+  "Glenwood": {
+    "city": "Glenwood",
+    "city_ascii": "Glenwood",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.3188,
+    "lng": -108.8811,
+    "cafes": []
+  },
+  "Canjilon": {
+    "city": "Canjilon",
+    "city_ascii": "Canjilon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.484,
+    "lng": -106.4334,
+    "cafes": []
+  },
+  "Sena": {
+    "city": "Sena",
+    "city_ascii": "Sena",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3036,
+    "lng": -105.3913,
+    "cafes": []
+  },
+  "Tajique": {
+    "city": "Tajique",
+    "city_ascii": "Tajique",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.7601,
+    "lng": -106.301,
+    "cafes": []
+  },
+  "Nogal": {
+    "city": "Nogal",
+    "city_ascii": "Nogal",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.5382,
+    "lng": -105.7119,
+    "cafes": []
+  },
+  "Ojo Sarco": {
+    "city": "Ojo Sarco",
+    "city_ascii": "Ojo Sarco",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.125,
+    "lng": -105.7846,
+    "cafes": []
+  },
+  "Nara Visa": {
+    "city": "Nara Visa",
+    "city_ascii": "Nara Visa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6068,
+    "lng": -103.1043,
+    "cafes": []
+  },
+  "Jamestown": {
+    "city": "Jamestown",
+    "city_ascii": "Jamestown",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4692,
+    "lng": -108.4396,
+    "cafes": []
+  },
+  "Elida": {
+    "city": "Elida",
+    "city_ascii": "Elida",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.9469,
+    "lng": -103.6531,
+    "cafes": []
+  },
+  "Organ": {
+    "city": "Organ",
+    "city_ascii": "Organ",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.4251,
+    "lng": -106.6025,
+    "cafes": []
+  },
+  "Torreon": {
+    "city": "Torreon",
+    "city_ascii": "Torreon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.7242,
+    "lng": -106.3008,
+    "cafes": []
+  },
+  "Pinos Altos": {
+    "city": "Pinos Altos",
+    "city_ascii": "Pinos Altos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8665,
+    "lng": -108.2221,
+    "cafes": []
+  },
+  "Chical": {
+    "city": "Chical",
+    "city_ascii": "Chical",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.8658,
+    "lng": -106.6671,
+    "cafes": []
+  },
+  "Nadine": {
+    "city": "Nadine",
+    "city_ascii": "Nadine",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.6231,
+    "lng": -103.1078,
+    "cafes": []
+  },
+  "Crestview": {
+    "city": "Crestview",
+    "city_ascii": "Crestview",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4878,
+    "lng": -108.8574,
+    "cafes": []
+  },
+  "Galisteo": {
+    "city": "Galisteo",
+    "city_ascii": "Galisteo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3984,
+    "lng": -105.9571,
+    "cafes": []
+  },
+  "Encantado": {
+    "city": "Encantado",
+    "city_ascii": "Encantado",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7934,
+    "lng": -105.9111,
+    "cafes": []
+  },
+  "La Joya": {
+    "city": "La Joya",
+    "city_ascii": "La Joya",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.345,
+    "lng": -106.8466,
+    "cafes": []
+  },
+  "Sombrillo": {
+    "city": "Sombrillo",
+    "city_ascii": "Sombrillo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.9802,
+    "lng": -106.0352,
+    "cafes": []
+  },
+  "San Jon": {
+    "city": "San Jon",
+    "city_ascii": "San Jon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1113,
+    "lng": -103.3364,
+    "cafes": []
+  },
+  "Pulpotio Bareas": {
+    "city": "Pulpotio Bareas",
+    "city_ascii": "Pulpotio Bareas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2179,
+    "lng": -107.7728,
+    "cafes": []
+  },
+  "Casas Adobes": {
+    "city": "Casas Adobes",
+    "city_ascii": "Casas Adobes",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8095,
+    "lng": -107.9391,
+    "cafes": []
+  },
+  "Cliff": {
+    "city": "Cliff",
+    "city_ascii": "Cliff",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.966,
+    "lng": -108.6176,
+    "cafes": []
+  },
+  "Floyd": {
+    "city": "Floyd",
+    "city_ascii": "Floyd",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.2288,
+    "lng": -103.5526,
+    "cafes": []
+  },
+  "Pajarito Mesa": {
+    "city": "Pajarito Mesa",
+    "city_ascii": "Pajarito Mesa",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.9855,
+    "lng": -106.7817,
+    "cafes": []
+  },
+  "Oasis": {
+    "city": "Oasis",
+    "city_ascii": "Oasis",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9277,
+    "lng": -107.3164,
+    "cafes": []
+  },
+  "Catalpa Canyon": {
+    "city": "Catalpa Canyon",
+    "city_ascii": "Catalpa Canyon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4942,
+    "lng": -108.7206,
+    "cafes": []
+  },
+  "Lybrook": {
+    "city": "Lybrook",
+    "city_ascii": "Lybrook",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.229,
+    "lng": -107.5549,
+    "cafes": []
+  },
+  "San Cristobal": {
+    "city": "San Cristobal",
+    "city_ascii": "San Cristobal",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.6101,
+    "lng": -105.6319,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9173,
+    "lng": -107.7097,
+    "cafes": []
+  },
+  "Lamy": {
+    "city": "Lamy",
+    "city_ascii": "Lamy",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4854,
+    "lng": -105.8863,
+    "cafes": []
+  },
+  "Los Cerrillos": {
+    "city": "Los Cerrillos",
+    "city_ascii": "Los Cerrillos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4272,
+    "lng": -106.1212,
+    "cafes": []
+  },
+  "Borrego Pass": {
+    "city": "Borrego Pass",
+    "city_ascii": "Borrego Pass",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5664,
+    "lng": -108.0165,
+    "cafes": []
+  },
+  "Grady": {
+    "city": "Grady",
+    "city_ascii": "Grady",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.8217,
+    "lng": -103.3157,
+    "cafes": []
+  },
+  "Hope": {
+    "city": "Hope",
+    "city_ascii": "Hope",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8159,
+    "lng": -104.7371,
+    "cafes": []
+  },
+  "Garfield": {
+    "city": "Garfield",
+    "city_ascii": "Garfield",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7569,
+    "lng": -107.2665,
+    "cafes": []
+  },
+  "Mountain View": {
+    "city": "Mountain View",
+    "city_ascii": "Mountain View",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2288,
+    "lng": -107.7462,
+    "cafes": []
+  },
+  "Cubero": {
+    "city": "Cubero",
+    "city_ascii": "Cubero",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0904,
+    "lng": -107.5261,
+    "cafes": []
+  },
+  "Lyden": {
+    "city": "Lyden",
+    "city_ascii": "Lyden",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1537,
+    "lng": -106.0147,
+    "cafes": []
+  },
+  "Lumberton": {
+    "city": "Lumberton",
+    "city_ascii": "Lumberton",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.9328,
+    "lng": -106.9352,
+    "cafes": []
+  },
+  "Des Moines": {
+    "city": "Des Moines",
+    "city_ascii": "Des Moines",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7614,
+    "lng": -103.8342,
+    "cafes": []
+  },
+  "Ojo Caliente": {
+    "city": "Ojo Caliente",
+    "city_ascii": "Ojo Caliente",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.3146,
+    "lng": -106.0374,
+    "cafes": []
+  },
+  "Cañones": {
+    "city": "Cañones",
+    "city_ascii": "Canones",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1768,
+    "lng": -106.4244,
+    "cafes": []
+  },
+  "Weed": {
+    "city": "Weed",
+    "city_ascii": "Weed",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8025,
+    "lng": -105.5248,
+    "cafes": []
+  },
+  "Anzac Village": {
+    "city": "Anzac Village",
+    "city_ascii": "Anzac Village",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0624,
+    "lng": -107.7416,
+    "cafes": []
+  },
+  "Lake Valley": {
+    "city": "Lake Valley",
+    "city_ascii": "Lake Valley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0901,
+    "lng": -108.1642,
+    "cafes": []
+  },
+  "Caballo": {
+    "city": "Caballo",
+    "city_ascii": "Caballo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.9806,
+    "lng": -107.3075,
+    "cafes": []
+  },
+  "Tse Bonito": {
+    "city": "Tse Bonito",
+    "city_ascii": "Tse Bonito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6466,
+    "lng": -109.007,
+    "cafes": []
+  },
+  "Buckhorn": {
+    "city": "Buckhorn",
+    "city_ascii": "Buckhorn",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.0315,
+    "lng": -108.6944,
+    "cafes": []
+  },
+  "Purty Rock": {
+    "city": "Purty Rock",
+    "city_ascii": "Purty Rock",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4903,
+    "lng": -108.8954,
+    "cafes": []
+  },
+  "Luis Lopez": {
+    "city": "Luis Lopez",
+    "city_ascii": "Luis Lopez",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.9904,
+    "lng": -106.8878,
+    "cafes": []
+  },
+  "North Hurley": {
+    "city": "North Hurley",
+    "city_ascii": "North Hurley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7198,
+    "lng": -108.1285,
+    "cafes": []
+  },
+  "Picuris Pueblo": {
+    "city": "Picuris Pueblo",
+    "city_ascii": "Picuris Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1995,
+    "lng": -105.7133,
+    "cafes": []
+  },
+  "Veguita": {
+    "city": "Veguita",
+    "city_ascii": "Veguita",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.5146,
+    "lng": -106.7679,
+    "cafes": []
+  },
+  "La Boca": {
+    "city": "La Boca",
+    "city_ascii": "La Boca",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.9945,
+    "lng": -107.6065,
+    "cafes": []
+  },
+  "Capulin": {
+    "city": "Capulin",
+    "city_ascii": "Capulin",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7445,
+    "lng": -103.9958,
+    "cafes": []
+  },
+  "Rancho Grande": {
+    "city": "Rancho Grande",
+    "city_ascii": "Rancho Grande",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.6826,
+    "lng": -108.8581,
+    "cafes": []
+  },
+  "Luna": {
+    "city": "Luna",
+    "city_ascii": "Luna",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.8181,
+    "lng": -108.9435,
+    "cafes": []
+  },
+  "Golden Acres": {
+    "city": "Golden Acres",
+    "city_ascii": "Golden Acres",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2112,
+    "lng": -107.9182,
+    "cafes": []
+  },
+  "Lake Sumner": {
+    "city": "Lake Sumner",
+    "city_ascii": "Lake Sumner",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6186,
+    "lng": -104.3801,
+    "cafes": []
+  },
+  "San Antonio": {
+    "city": "San Antonio",
+    "city_ascii": "San Antonio",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.9161,
+    "lng": -106.87,
+    "cafes": []
+  },
+  "Windmill": {
+    "city": "Windmill",
+    "city_ascii": "Windmill",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 31.9769,
+    "lng": -108.6315,
+    "cafes": []
+  },
+  "Rio en Medio": {
+    "city": "Rio en Medio",
+    "city_ascii": "Rio en Medio",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.8221,
+    "lng": -105.901,
+    "cafes": []
+  },
+  "Malaga": {
+    "city": "Malaga",
+    "city_ascii": "Malaga",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.2227,
+    "lng": -104.0692,
+    "cafes": []
+  },
+  "Loco Hills": {
+    "city": "Loco Hills",
+    "city_ascii": "Loco Hills",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8197,
+    "lng": -103.9783,
+    "cafes": []
+  },
+  "Hot Springs Landing": {
+    "city": "Hot Springs Landing",
+    "city_ascii": "Hot Springs Landing",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.2047,
+    "lng": -107.21,
+    "cafes": []
+  },
+  "Folsom": {
+    "city": "Folsom",
+    "city_ascii": "Folsom",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.8478,
+    "lng": -103.9176,
+    "cafes": []
+  },
+  "Dora": {
+    "city": "Dora",
+    "city_ascii": "Dora",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.9334,
+    "lng": -103.3369,
+    "cafes": []
+  },
+  "Escudilla Bonita": {
+    "city": "Escudilla Bonita",
+    "city_ascii": "Escudilla Bonita",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.1122,
+    "lng": -109.0231,
+    "cafes": []
+  },
+  "Las Nutrias": {
+    "city": "Las Nutrias",
+    "city_ascii": "Las Nutrias",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.4699,
+    "lng": -106.7708,
+    "cafes": []
+  },
+  "Vanderwagen": {
+    "city": "Vanderwagen",
+    "city_ascii": "Vanderwagen",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2714,
+    "lng": -108.7517,
+    "cafes": []
+  },
+  "El Morro Valley": {
+    "city": "El Morro Valley",
+    "city_ascii": "El Morro Valley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0362,
+    "lng": -108.3225,
+    "cafes": []
+  },
+  "House": {
+    "city": "House",
+    "city_ascii": "House",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6492,
+    "lng": -103.9038,
+    "cafes": []
+  },
+  "Punta de Agua": {
+    "city": "Punta de Agua",
+    "city_ascii": "Punta de Agua",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6016,
+    "lng": -106.2922,
+    "cafes": []
+  },
+  "Youngsville": {
+    "city": "Youngsville",
+    "city_ascii": "Youngsville",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1928,
+    "lng": -106.566,
+    "cafes": []
+  },
+  "San Acacia": {
+    "city": "San Acacia",
+    "city_ascii": "San Acacia",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.255,
+    "lng": -106.9023,
+    "cafes": []
+  },
+  "Grenville": {
+    "city": "Grenville",
+    "city_ascii": "Grenville",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.5906,
+    "lng": -103.6147,
+    "cafes": []
+  },
+  "Llano del Medio": {
+    "city": "Llano del Medio",
+    "city_ascii": "Llano del Medio",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1881,
+    "lng": -105.1163,
+    "cafes": []
+  },
+  "Pueblito": {
+    "city": "Pueblito",
+    "city_ascii": "Pueblito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.0727,
+    "lng": -106.0811,
+    "cafes": []
+  },
+  "Pueblo": {
+    "city": "Pueblo",
+    "city_ascii": "Pueblo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3273,
+    "lng": -105.4354,
+    "cafes": []
+  },
+  "Taos Ski Valley": {
+    "city": "Taos Ski Valley",
+    "city_ascii": "Taos Ski Valley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.5901,
+    "lng": -105.437,
+    "cafes": []
+  },
+  "Mosquero": {
+    "city": "Mosquero",
+    "city_ascii": "Mosquero",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7743,
+    "lng": -103.9544,
+    "cafes": []
+  },
+  "Encino": {
+    "city": "Encino",
+    "city_ascii": "Encino",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6518,
+    "lng": -105.4586,
+    "cafes": []
+  },
+  "Manuelito": {
+    "city": "Manuelito",
+    "city_ascii": "Manuelito",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4387,
+    "lng": -108.9946,
+    "cafes": []
+  },
+  "Rivers": {
+    "city": "Rivers",
+    "city_ascii": "Rivers",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.6757,
+    "lng": -108.7768,
+    "cafes": []
+  },
+  "Tecolote": {
+    "city": "Tecolote",
+    "city_ascii": "Tecolote",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4604,
+    "lng": -105.2842,
+    "cafes": []
+  },
+  "Regina": {
+    "city": "Regina",
+    "city_ascii": "Regina",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1947,
+    "lng": -106.9453,
+    "cafes": []
+  },
+  "Alma": {
+    "city": "Alma",
+    "city_ascii": "Alma",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.3817,
+    "lng": -108.8995,
+    "cafes": []
+  },
+  "Rodeo": {
+    "city": "Rodeo",
+    "city_ascii": "Rodeo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 31.8396,
+    "lng": -109.0265,
+    "cafes": []
+  },
+  "Stanley": {
+    "city": "Stanley",
+    "city_ascii": "Stanley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1542,
+    "lng": -105.9764,
+    "cafes": []
+  },
+  "Bluewater Village": {
+    "city": "Bluewater Village",
+    "city_ascii": "Bluewater Village",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2464,
+    "lng": -107.9676,
+    "cafes": []
+  },
+  "Manzano Springs": {
+    "city": "Manzano Springs",
+    "city_ascii": "Manzano Springs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.9614,
+    "lng": -106.2328,
+    "cafes": []
+  },
+  "Seton Village": {
+    "city": "Seton Village",
+    "city_ascii": "Seton Village",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5999,
+    "lng": -105.9334,
+    "cafes": []
+  },
+  "Chilili": {
+    "city": "Chilili",
+    "city_ascii": "Chilili",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.8974,
+    "lng": -106.2332,
+    "cafes": []
+  },
+  "Playas": {
+    "city": "Playas",
+    "city_ascii": "Playas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 31.9125,
+    "lng": -108.5363,
+    "cafes": []
+  },
+  "Candy Kitchen": {
+    "city": "Candy Kitchen",
+    "city_ascii": "Candy Kitchen",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.912,
+    "lng": -108.4929,
+    "cafes": []
+  },
+  "Trout Valley": {
+    "city": "Trout Valley",
+    "city_ascii": "Trout Valley",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.0363,
+    "lng": -108.1893,
+    "cafes": []
+  },
+  "Los Ojos": {
+    "city": "Los Ojos",
+    "city_ascii": "Los Ojos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7361,
+    "lng": -106.5669,
+    "cafes": []
+  },
+  "Golden": {
+    "city": "Golden",
+    "city_ascii": "Golden",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.2637,
+    "lng": -106.223,
+    "cafes": []
+  },
+  "Chamizal": {
+    "city": "Chamizal",
+    "city_ascii": "Chamizal",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.2182,
+    "lng": -106.9152,
+    "cafes": []
+  },
+  "Duran": {
+    "city": "Duran",
+    "city_ascii": "Duran",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.4636,
+    "lng": -105.3807,
+    "cafes": []
+  },
+  "Datil": {
+    "city": "Datil",
+    "city_ascii": "Datil",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.1423,
+    "lng": -107.8424,
+    "cafes": []
+  },
+  "La Bajada": {
+    "city": "La Bajada",
+    "city_ascii": "La Bajada",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.5565,
+    "lng": -106.2436,
+    "cafes": []
+  },
+  "Hachita": {
+    "city": "Hachita",
+    "city_ascii": "Hachita",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 31.9153,
+    "lng": -108.3253,
+    "cafes": []
+  },
+  "Mayhill": {
+    "city": "Mayhill",
+    "city_ascii": "Mayhill",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.8961,
+    "lng": -105.496,
+    "cafes": []
+  },
+  "Bent": {
+    "city": "Bent",
+    "city_ascii": "Bent",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.1473,
+    "lng": -105.8589,
+    "cafes": []
+  },
+  "Orogrande": {
+    "city": "Orogrande",
+    "city_ascii": "Orogrande",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.3874,
+    "lng": -106.1003,
+    "cafes": []
+  },
+  "Coyote": {
+    "city": "Coyote",
+    "city_ascii": "Coyote",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.1615,
+    "lng": -106.6067,
+    "cafes": []
+  },
+  "Pinehaven": {
+    "city": "Pinehaven",
+    "city_ascii": "Pinehaven",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3357,
+    "lng": -108.671,
+    "cafes": []
+  },
+  "Mogollon": {
+    "city": "Mogollon",
+    "city_ascii": "Mogollon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.4034,
+    "lng": -108.7992,
+    "cafes": []
+  },
+  "Pastura": {
+    "city": "Pastura",
+    "city_ascii": "Pastura",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.7851,
+    "lng": -104.9421,
+    "cafes": []
+  },
+  "San Fidel": {
+    "city": "San Fidel",
+    "city_ascii": "San Fidel",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1025,
+    "lng": -107.5975,
+    "cafes": []
+  },
+  "Black Hat": {
+    "city": "Black Hat",
+    "city_ascii": "Black Hat",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.6311,
+    "lng": -108.9641,
+    "cafes": []
+  },
+  "McGaffey": {
+    "city": "McGaffey",
+    "city_ascii": "McGaffey",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.372,
+    "lng": -108.5207,
+    "cafes": []
+  },
+  "Middle Frisco": {
+    "city": "Middle Frisco",
+    "city_ascii": "Middle Frisco",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.6949,
+    "lng": -108.7639,
+    "cafes": []
+  },
+  "Moquino": {
+    "city": "Moquino",
+    "city_ascii": "Moquino",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.17,
+    "lng": -107.364,
+    "cafes": []
+  },
+  "Bibo": {
+    "city": "Bibo",
+    "city_ascii": "Bibo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1732,
+    "lng": -107.4034,
+    "cafes": []
+  },
+  "Cundiyo": {
+    "city": "Cundiyo",
+    "city_ascii": "Cundiyo",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.961,
+    "lng": -105.901,
+    "cafes": []
+  },
+  "Apache Creek": {
+    "city": "Apache Creek",
+    "city_ascii": "Apache Creek",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.8486,
+    "lng": -108.6141,
+    "cafes": []
+  },
+  "Deer Canyon": {
+    "city": "Deer Canyon",
+    "city_ascii": "Deer Canyon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.4436,
+    "lng": -106.2607,
+    "cafes": []
+  },
+  "Lower Frisco": {
+    "city": "Lower Frisco",
+    "city_ascii": "Lower Frisco",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.6515,
+    "lng": -108.7895,
+    "cafes": []
+  },
+  "Manzano": {
+    "city": "Manzano",
+    "city_ascii": "Manzano",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6437,
+    "lng": -106.3671,
+    "cafes": []
+  },
+  "Whites City": {
+    "city": "Whites City",
+    "city_ascii": "Whites City",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.1767,
+    "lng": -104.3739,
+    "cafes": []
+  },
+  "Redrock": {
+    "city": "Redrock",
+    "city_ascii": "Redrock",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.6885,
+    "lng": -108.7406,
+    "cafes": []
+  },
+  "Lake Roberts": {
+    "city": "Lake Roberts",
+    "city_ascii": "Lake Roberts",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.0313,
+    "lng": -108.1689,
+    "cafes": []
+  },
+  "Abeytas": {
+    "city": "Abeytas",
+    "city_ascii": "Abeytas",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.4652,
+    "lng": -106.8137,
+    "cafes": []
+  },
+  "Stoneridge": {
+    "city": "Stoneridge",
+    "city_ascii": "Stoneridge",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.3019,
+    "lng": -108.1034,
+    "cafes": []
+  },
+  "Watrous": {
+    "city": "Watrous",
+    "city_ascii": "Watrous",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.79,
+    "lng": -104.9821,
+    "cafes": []
+  },
+  "Ute Park": {
+    "city": "Ute Park",
+    "city_ascii": "Ute Park",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.5467,
+    "lng": -105.1038,
+    "cafes": []
+  },
+  "Winston": {
+    "city": "Winston",
+    "city_ascii": "Winston",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.346,
+    "lng": -107.6488,
+    "cafes": []
+  },
+  "Pinon": {
+    "city": "Pinon",
+    "city_ascii": "Pinon",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.6182,
+    "lng": -105.3867,
+    "cafes": []
+  },
+  "Brazos": {
+    "city": "Brazos",
+    "city_ascii": "Brazos",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.7528,
+    "lng": -106.5598,
+    "cafes": []
+  },
+  "Gila Hot Springs": {
+    "city": "Gila Hot Springs",
+    "city_ascii": "Gila Hot Springs",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.1902,
+    "lng": -108.2045,
+    "cafes": []
+  },
+  "Lake Roberts Heights": {
+    "city": "Lake Roberts Heights",
+    "city_ascii": "Lake Roberts Heights",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 33.0271,
+    "lng": -108.1381,
+    "cafes": []
+  },
+  "Sacramento": {
+    "city": "Sacramento",
+    "city_ascii": "Sacramento",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7917,
+    "lng": -105.5723,
+    "cafes": []
+  },
+  "San Luis": {
+    "city": "San Luis",
+    "city_ascii": "San Luis",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.7009,
+    "lng": -107.0431,
+    "cafes": []
+  },
+  "Cobre": {
+    "city": "Cobre",
+    "city_ascii": "Cobre",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.7804,
+    "lng": -108.1106,
+    "cafes": []
+  },
+  "City of the Sun": {
+    "city": "City of the Sun",
+    "city_ascii": "City of the Sun",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 31.8466,
+    "lng": -107.6504,
+    "cafes": []
+  },
+  "Abiquiu": {
+    "city": "Abiquiu",
+    "city_ascii": "Abiquiu",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 36.2017,
+    "lng": -106.3238,
+    "cafes": []
+  },
+  "Homestead": {
+    "city": "Homestead",
+    "city_ascii": "Homestead",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.1488,
+    "lng": -107.882,
+    "cafes": []
+  },
+  "Escondida": {
+    "city": "Escondida",
+    "city_ascii": "Escondida",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.1012,
+    "lng": -106.8974,
+    "cafes": []
+  },
+  "Faywood": {
+    "city": "Faywood",
+    "city_ascii": "Faywood",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.6247,
+    "lng": -107.8723,
+    "cafes": []
+  },
+  "Old Town": {
+    "city": "Old Town",
+    "city_ascii": "Old Town",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 32.5125,
+    "lng": -107.9232,
+    "cafes": []
+  },
+  "Fence Lake": {
+    "city": "Fence Lake",
+    "city_ascii": "Fence Lake",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 34.6534,
+    "lng": -108.6738,
+    "cafes": []
+  },
+  "Red Rock Ranch": {
+    "city": "Red Rock Ranch",
+    "city_ascii": "Red Rock Ranch",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.4242,
+    "lng": -108.0262,
+    "cafes": []
+  },
+  "Newkirk": {
+    "city": "Newkirk",
+    "city_ascii": "Newkirk",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.0635,
+    "lng": -104.2715,
+    "cafes": []
+  }
+}

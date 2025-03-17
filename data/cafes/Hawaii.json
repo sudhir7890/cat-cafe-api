@@ -1,0 +1,1561 @@
+{
+  "Honolulu": {
+    "city": "Honolulu",
+    "city_ascii": "Honolulu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3294,
+    "lng": -157.846,
+    "cafes": [
+      {
+        "name": "Hawaii Cat Cafe",
+        "address": "415 Kapahulu Ave, Honolulu, HI 96815, USA",
+        "rating": 4.6,
+        "user_ratings_total": 669,
+        "website": "http://hawaiicatcafe.org/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=8730233507594734906",
+        "lat": 21.274354799999998,
+        "lng": -157.8158986,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Stephanie Tauxe",
+            "rating": 5,
+            "text": {
+              "text": "Incredible experience! There were about 25 sweet young cats in a clean, bright space with helpful staff. The kitties were looking at birds outside, playing with toys and cuddling in cat beds. They loved being pet and played with. The coffee was pretty good too.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Giulia Kaufmann",
+            "rating": 3,
+            "text": {
+              "text": "The sweetest fur babies. It's quite the expensive experience here (in my country the cats from the cat café are not up for adoption, you don't pay to come play with them, you just visit it as a regular café and consume drinks/and or food with cats being there too as it's where they live) but still so worth it! And you can adopt the cats 🥹",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          },
+          {
+            "author": "Amara Elahi",
+            "rating": 5,
+            "text": {
+              "text": "This is such a cute little Cafe. The drinks hit the spot on a hot Hawaiian day. The cats just so cute and adorable. I really wish I could of adopted one but my two at home wouldn't take another. We went a little later so most of the cats were still sleeping but a few of the younger ones came out and played. Some one please take home the small gray tortie girl she's adorable and one of the smaller male gray tabby boys. Super playful and silly!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1dHl9euTTiHyQb5q0jnvP70mcBsvgdUj3TN4FYbkU_xrE4NcKjotKDYTiWwf5sh7OP8_WqJoxM2Oh3RpI2L8za1-pWB46S1QsDM0z00eqcBRqzLdkYDGlqKcwjy4wZ5qildCYWdX_qTfKp8c0fIM3CEdWwNYkd8d6722iwOdplMNiA-_nAsXGwtDK2YHWY32de1jB9A_Z9ILrYXBVw6Q9VG2FWfmFla_Yi74U5qxn_jDRH8xtLbBen7l1QoKzGA4R2TEYEtliblG5R3lljBtH9QFPF53AHSrlq_nwpgvjjRcAAhPp0eXHEDujpiOP54K9MjYgd-9ZBjxC5cL3Y7k58GovreIxZEirGjJRZGOwdfa1N79DJYYbuWEWizSyhTzL34tsiYKbqPaWgSgWwRd2ru2O9PP30&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Cat Café MOFF International Market Place",
+        "address": "2330 Kalākaua Ave, Honolulu, HI 96815, USA",
+        "rating": 4.4,
+        "user_ratings_total": 359,
+        "website": "https://moff-usa.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1319126557304142704",
+        "lat": 21.2783472,
+        "lng": -157.8265997,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Sophia Berumen",
+            "rating": 5,
+            "text": {
+              "text": "I absolutely loved this experience! Not only are the staff kind the cats were abundant, playful, and so adorable I was happy to just watch them go about their day! You can tell this place cares for the cats as they're all healthy and happy. It’s kept very clean with sweeping and regularly cleaned litter. If you want to enjoy time with cats I recommend stopping by for an hour. However, if you have kids I'd take time to consider if your children can be around animals that may react poorly to unwanted touching.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Ashley Jones",
+            "rating": 5,
+            "text": {
+              "text": "Really happy we visited this cat cafe. Was missing my cat back at home so it was nice to spend time with a dozen plus kitties. Staff were very friendly. We went during the cats' meal time, and the staff introduced each cat while they were eating. They also celebrated some of the cat's birthdays which was really sweet, and all the guests got to feed the cats some treats 😸",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Ace",
+            "rating": 5,
+            "text": {
+              "text": "Absolutely loved this place!! Staff are friendly and communicate for the cats very well. I love that they have the cats labeled with colored collars based on their personalities! Blue ones were head pets only while reds were a little spicy. But even the reds were friendly for treats just no petting them haha but the ones with no collars were very sweet and loveable!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3zz4CmwDzTHCcBSWJek2N1LIY3SBN3hKyT6D63HAN2xMi79apz_wWw53aG1ZA15Ck-crezRrTfr713nY5QsJrf3hPrAUGhJLsst_46PYWAiOBH7OObH9995Qqf2q2FN8gXH4xU9dAlI0-n3c188Pgtdx_3X-CaCwT8IAHfTXCjdwjsi-1as1OyrYgd7OhdIDX4ftA1IHMGFuMAfZoIwnysbkcLsZZK8zRCIqjmPgHc7bV4Y9aurH4dYUkKZzZrUjdiC6TfSPgL4Lw7Ed1dK6B2h4J7xaldIVIibU9oncHUANkymqKta5ppFhJOQStdoGFh8WW_uhORJa2dEtlFZRWus2wN7NmxvTNM1SWHHCbfUlM9Q3x5jU3MqYFI-YMt_Tze5k-8RcKLHnqXb2O_r3HjIG6qiJY&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Cat Café MOFF Ala Moana Center",
+        "address": "1450 Ala Moana Blvd #1207, Honolulu, HI 96814, USA",
+        "rating": 4.7,
+        "user_ratings_total": 192,
+        "website": "https://moff-usa.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=2785230528540331079",
+        "lat": 21.2905521,
+        "lng": -157.8432185,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Jess Bernal",
+            "rating": 5,
+            "text": {
+              "text": "Absolutely loved this cafe. We went at feeding time at 12p and the staff introduced us to each cat and their personalities. We upgraded our drinks and purchased treats which were a lot of fun for my 9-year old niece to interact with the cats. The cats were very relaxed and some playful. I’d highly recommend paying for the hour as it goes by quickly and get the jelly treat! Feeding time is at 12p and 5p. They offer Kama’aina, so make sure to mention it. For those leaving reviews about the cats not engaging much… well, you clearly don’t know much about them. This is a great opportunity for cat lovers to see beautiful, purebred kitties!!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Priscilla",
+            "rating": 5,
+            "text": {
+              "text": "Very nice staff, very welcoming and went out of their way to help us since my mom is in a wheelchair. The cats are super cute and friendly and I like the option that you can give the kitties treats, and they eat it from a little spoon so you don’t get accidentally bitten. The area as well as the cats are well maintained and taken care of, the fur of all the cats are super soft! I will definitely be going back!!! 😸😸😸",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Nat Marcano",
+            "rating": 5,
+            "text": {
+              "text": "This place is so special. We’re here in Waikiki for the week and this “may” seem like a strange thing to do on vacation but it was such a unique and heartwarming experience. Lots of rare and interesting breeds ; very cute and well taken care of cats. So healthy with shiny fur. We opted to save this spot for our morning coffee. You can’t help but to leave with a big ear to ear smile on your face. A feeling of wellness, lightness and pure and simple happiness. Started the day off right. We loved it and already want to go back. Pull the trigger; it’s worth it, if you love cats, like we do.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0UReUdlEB3j2yC9Ce1wh62cScOGpHE7-3wfm0iU5OJqIX3JaWz0GQqY-JqSc60mpXquNpJuBMe0gydx4FTBv6fPWESQaOoXqUG2mop3JizI2rnsiNwcLwIjOmoZWGFwkTA79TBJ5aA6qdbU5btLtUK7Qy3SIk1NH0VjTX2JKugY4mdFNbxoKFixjWy2ipuWD2wQp4A7Icxl8549IjmAKl8NaSu7tHIQ5UfBflPfr_W1qHAsOP68pJFBUrWexzY0ApqEF54--dza9PnLqFEdecfhuYgnnC657hy8fxuM67cK3NzJ9PFAmkEajVr-1x5WO3k7IhQIyg48REw7NcJKhcurk7YWvpIyjDNr7tjdbMd7dXX3IJ4hkmJVYBnst5ZeMgPCQUCkoBXi1TmN4VIdKtV0NPK1kQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Kailua": {
+    "city": "Kailua",
+    "city_ascii": "Kailua",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.392,
+    "lng": -157.7396,
+    "cafes": []
+  },
+  "East Honolulu": {
+    "city": "East Honolulu",
+    "city_ascii": "East Honolulu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.2975,
+    "lng": -157.7211,
+    "cafes": []
+  },
+  "Hilo": {
+    "city": "Hilo",
+    "city_ascii": "Hilo",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.6883,
+    "lng": -155.0863,
+    "cafes": []
+  },
+  "Pearl City": {
+    "city": "Pearl City",
+    "city_ascii": "Pearl City",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4031,
+    "lng": -157.9566,
+    "cafes": []
+  },
+  "Waipahu": {
+    "city": "Waipahu",
+    "city_ascii": "Waipahu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3859,
+    "lng": -158.0101,
+    "cafes": []
+  },
+  "Kaneohe": {
+    "city": "Kaneohe",
+    "city_ascii": "Kaneohe",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4062,
+    "lng": -157.7904,
+    "cafes": []
+  },
+  "Mililani Town": {
+    "city": "Mililani Town",
+    "city_ascii": "Mililani Town",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4465,
+    "lng": -158.0147,
+    "cafes": []
+  },
+  "Kahului": {
+    "city": "Kahului",
+    "city_ascii": "Kahului",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8715,
+    "lng": -156.4603,
+    "cafes": []
+  },
+  "Ewa Gentry": {
+    "city": "Ewa Gentry",
+    "city_ascii": "Ewa Gentry",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3344,
+    "lng": -158.0262,
+    "cafes": []
+  },
+  "Kapolei": {
+    "city": "Kapolei",
+    "city_ascii": "Kapolei",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3399,
+    "lng": -158.0677,
+    "cafes": []
+  },
+  "Kihei": {
+    "city": "Kihei",
+    "city_ascii": "Kihei",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.7653,
+    "lng": -156.4454,
+    "cafes": []
+  },
+  "Mililani Mauka": {
+    "city": "Mililani Mauka",
+    "city_ascii": "Mililani Mauka",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4756,
+    "lng": -157.9948,
+    "cafes": []
+  },
+  "Makakilo": {
+    "city": "Makakilo",
+    "city_ascii": "Makakilo",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3591,
+    "lng": -158.0813,
+    "cafes": []
+  },
+  "Wahiawa": {
+    "city": "Wahiawa",
+    "city_ascii": "Wahiawa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.5012,
+    "lng": -158.0178,
+    "cafes": []
+  },
+  "Schofield Barracks": {
+    "city": "Schofield Barracks",
+    "city_ascii": "Schofield Barracks",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4936,
+    "lng": -158.0617,
+    "cafes": []
+  },
+  "Ocean Pointe": {
+    "city": "Ocean Pointe",
+    "city_ascii": "Ocean Pointe",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3145,
+    "lng": -158.0289,
+    "cafes": []
+  },
+  "Wailuku": {
+    "city": "Wailuku",
+    "city_ascii": "Wailuku",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8834,
+    "lng": -156.5059,
+    "cafes": []
+  },
+  "Ewa Beach": {
+    "city": "Ewa Beach",
+    "city_ascii": "Ewa Beach",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3181,
+    "lng": -158.0073,
+    "cafes": []
+  },
+  "Waimalu": {
+    "city": "Waimalu",
+    "city_ascii": "Waimalu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3913,
+    "lng": -157.9345,
+    "cafes": []
+  },
+  "Halawa": {
+    "city": "Halawa",
+    "city_ascii": "Halawa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3753,
+    "lng": -157.9185,
+    "cafes": []
+  },
+  "Royal Kunia": {
+    "city": "Royal Kunia",
+    "city_ascii": "Royal Kunia",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4053,
+    "lng": -158.0318,
+    "cafes": []
+  },
+  "Hawaiian Paradise Park": {
+    "city": "Hawaiian Paradise Park",
+    "city_ascii": "Hawaiian Paradise Park",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.5828,
+    "lng": -154.9695,
+    "cafes": []
+  },
+  "Waianae": {
+    "city": "Waianae",
+    "city_ascii": "Waianae",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4568,
+    "lng": -158.1758,
+    "cafes": []
+  },
+  "Nanakuli": {
+    "city": "Nanakuli",
+    "city_ascii": "Nanakuli",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3892,
+    "lng": -158.1445,
+    "cafes": []
+  },
+  "Maili": {
+    "city": "Maili",
+    "city_ascii": "Maili",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4133,
+    "lng": -158.1701,
+    "cafes": []
+  },
+  "Lahaina": {
+    "city": "Lahaina",
+    "city_ascii": "Lahaina",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8848,
+    "lng": -156.6618,
+    "cafes": []
+  },
+  "Waihee-Waiehu": {
+    "city": "Waihee-Waiehu",
+    "city_ascii": "Waihee-Waiehu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.9188,
+    "lng": -156.5063,
+    "cafes": []
+  },
+  "Waipio": {
+    "city": "Waipio",
+    "city_ascii": "Waipio",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4143,
+    "lng": -157.9966,
+    "cafes": []
+  },
+  "Kapaa": {
+    "city": "Kapaa",
+    "city_ascii": "Kapaa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 22.091,
+    "lng": -159.3521,
+    "cafes": []
+  },
+  "Waimea": {
+    "city": "Waimea",
+    "city_ascii": "Waimea",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.0124,
+    "lng": -155.6381,
+    "cafes": []
+  },
+  "Makaha": {
+    "city": "Makaha",
+    "city_ascii": "Makaha",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4739,
+    "lng": -158.2102,
+    "cafes": []
+  },
+  "Haiku-Pauwela": {
+    "city": "Haiku-Pauwela",
+    "city_ascii": "Haiku-Pauwela",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.9156,
+    "lng": -156.3022,
+    "cafes": []
+  },
+  "Hickam Housing": {
+    "city": "Hickam Housing",
+    "city_ascii": "Hickam Housing",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3311,
+    "lng": -157.9474,
+    "cafes": []
+  },
+  "Aiea": {
+    "city": "Aiea",
+    "city_ascii": "Aiea",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3865,
+    "lng": -157.9232,
+    "cafes": []
+  },
+  "Ahuimanu": {
+    "city": "Ahuimanu",
+    "city_ascii": "Ahuimanu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4379,
+    "lng": -157.8404,
+    "cafes": []
+  },
+  "Pukalani": {
+    "city": "Pukalani",
+    "city_ascii": "Pukalani",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8329,
+    "lng": -156.3415,
+    "cafes": []
+  },
+  "Waikele": {
+    "city": "Waikele",
+    "city_ascii": "Waikele",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4025,
+    "lng": -158.0058,
+    "cafes": []
+  },
+  "Lihue": {
+    "city": "Lihue",
+    "city_ascii": "Lihue",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9721,
+    "lng": -159.3564,
+    "cafes": []
+  },
+  "Makawao": {
+    "city": "Makawao",
+    "city_ascii": "Makawao",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.848,
+    "lng": -156.319,
+    "cafes": []
+  },
+  "Wailua Homesteads": {
+    "city": "Wailua Homesteads",
+    "city_ascii": "Wailua Homesteads",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 22.065,
+    "lng": -159.3771,
+    "cafes": []
+  },
+  "Waikoloa Village": {
+    "city": "Waikoloa Village",
+    "city_ascii": "Waikoloa Village",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.9443,
+    "lng": -155.8053,
+    "cafes": []
+  },
+  "Ewa Villages": {
+    "city": "Ewa Villages",
+    "city_ascii": "Ewa Villages",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3417,
+    "lng": -158.0389,
+    "cafes": []
+  },
+  "Napili-Honokowai": {
+    "city": "Napili-Honokowai",
+    "city_ascii": "Napili-Honokowai",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.9767,
+    "lng": -156.6646,
+    "cafes": []
+  },
+  "Kahaluu-Keauhou": {
+    "city": "Kahaluu-Keauhou",
+    "city_ascii": "Kahaluu-Keauhou",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.5669,
+    "lng": -155.9533,
+    "cafes": []
+  },
+  "Wailea": {
+    "city": "Wailea",
+    "city_ascii": "Wailea",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.6873,
+    "lng": -156.4291,
+    "cafes": []
+  },
+  "Kula": {
+    "city": "Kula",
+    "city_ascii": "Kula",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.7706,
+    "lng": -156.3284,
+    "cafes": []
+  },
+  "West Loch Estate": {
+    "city": "West Loch Estate",
+    "city_ascii": "West Loch Estate",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3617,
+    "lng": -158.0246,
+    "cafes": []
+  },
+  "East Kapolei": {
+    "city": "East Kapolei",
+    "city_ascii": "East Kapolei",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3633,
+    "lng": -158.041,
+    "cafes": []
+  },
+  "Waimanalo": {
+    "city": "Waimanalo",
+    "city_ascii": "Waimanalo",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3421,
+    "lng": -157.7303,
+    "cafes": []
+  },
+  "Laie": {
+    "city": "Laie",
+    "city_ascii": "Laie",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.6442,
+    "lng": -157.9279,
+    "cafes": []
+  },
+  "Iroquois Point": {
+    "city": "Iroquois Point",
+    "city_ascii": "Iroquois Point",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3218,
+    "lng": -157.9803,
+    "cafes": []
+  },
+  "Kahaluu": {
+    "city": "Kahaluu",
+    "city_ascii": "Kahaluu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4575,
+    "lng": -157.8453,
+    "cafes": []
+  },
+  "Waipio Acres": {
+    "city": "Waipio Acres",
+    "city_ascii": "Waipio Acres",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4688,
+    "lng": -158.0173,
+    "cafes": []
+  },
+  "Heeia": {
+    "city": "Heeia",
+    "city_ascii": "Heeia",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4205,
+    "lng": -157.8205,
+    "cafes": []
+  },
+  "Pupukea": {
+    "city": "Pupukea",
+    "city_ascii": "Pupukea",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.6511,
+    "lng": -158.0437,
+    "cafes": []
+  },
+  "Haleiwa": {
+    "city": "Haleiwa",
+    "city_ascii": "Haleiwa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.5965,
+    "lng": -158.1003,
+    "cafes": []
+  },
+  "Kalaheo": {
+    "city": "Kalaheo",
+    "city_ascii": "Kalaheo",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9159,
+    "lng": -159.5236,
+    "cafes": []
+  },
+  "Waimanalo Beach": {
+    "city": "Waimanalo Beach",
+    "city_ascii": "Waimanalo Beach",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3288,
+    "lng": -157.6974,
+    "cafes": []
+  },
+  "Hawaiian Beaches": {
+    "city": "Hawaiian Beaches",
+    "city_ascii": "Hawaiian Beaches",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.5447,
+    "lng": -154.9288,
+    "cafes": []
+  },
+  "Puhi": {
+    "city": "Puhi",
+    "city_ascii": "Puhi",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9622,
+    "lng": -159.3917,
+    "cafes": []
+  },
+  "Hanamaulu": {
+    "city": "Hanamaulu",
+    "city_ascii": "Hanamaulu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9953,
+    "lng": -159.3494,
+    "cafes": []
+  },
+  "Hawaiian Acres": {
+    "city": "Hawaiian Acres",
+    "city_ascii": "Hawaiian Acres",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.5324,
+    "lng": -155.0498,
+    "cafes": []
+  },
+  "Mountain View": {
+    "city": "Mountain View",
+    "city_ascii": "Mountain View",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.5366,
+    "lng": -155.159,
+    "cafes": []
+  },
+  "Whitmore Village": {
+    "city": "Whitmore Village",
+    "city_ascii": "Whitmore Village",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.5119,
+    "lng": -158.0274,
+    "cafes": []
+  },
+  "Hawaiian Ocean View": {
+    "city": "Hawaiian Ocean View",
+    "city_ascii": "Hawaiian Ocean View",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.0959,
+    "lng": -155.775,
+    "cafes": []
+  },
+  "Captain Cook": {
+    "city": "Captain Cook",
+    "city_ascii": "Captain Cook",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4995,
+    "lng": -155.8937,
+    "cafes": []
+  },
+  "Kaunakakai": {
+    "city": "Kaunakakai",
+    "city_ascii": "Kaunakakai",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.0905,
+    "lng": -156.9981,
+    "cafes": []
+  },
+  "Waikapu": {
+    "city": "Waikapu",
+    "city_ascii": "Waikapu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8391,
+    "lng": -156.5221,
+    "cafes": []
+  },
+  "Ainaloa": {
+    "city": "Ainaloa",
+    "city_ascii": "Ainaloa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.5215,
+    "lng": -154.9944,
+    "cafes": []
+  },
+  "Kekaha": {
+    "city": "Kekaha",
+    "city_ascii": "Kekaha",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9684,
+    "lng": -159.7141,
+    "cafes": []
+  },
+  "Hauula": {
+    "city": "Hauula",
+    "city_ascii": "Hauula",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.6111,
+    "lng": -157.9118,
+    "cafes": []
+  },
+  "Lanai City": {
+    "city": "Lanai City",
+    "city_ascii": "Lanai City",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8279,
+    "lng": -156.9147,
+    "cafes": []
+  },
+  "Kalaeloa": {
+    "city": "Kalaeloa",
+    "city_ascii": "Kalaeloa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3136,
+    "lng": -158.065,
+    "cafes": []
+  },
+  "Helemano": {
+    "city": "Helemano",
+    "city_ascii": "Helemano",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.5362,
+    "lng": -158.0194,
+    "cafes": []
+  },
+  "Orchidlands Estates": {
+    "city": "Orchidlands Estates",
+    "city_ascii": "Orchidlands Estates",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.557,
+    "lng": -155.0142,
+    "cafes": []
+  },
+  "Kilauea": {
+    "city": "Kilauea",
+    "city_ascii": "Kilauea",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 22.2108,
+    "lng": -159.3965,
+    "cafes": []
+  },
+  "Anahola": {
+    "city": "Anahola",
+    "city_ascii": "Anahola",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 22.1455,
+    "lng": -159.3151,
+    "cafes": []
+  },
+  "Keokea": {
+    "city": "Keokea",
+    "city_ascii": "Keokea",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.7211,
+    "lng": -156.3625,
+    "cafes": []
+  },
+  "Waialua": {
+    "city": "Waialua",
+    "city_ascii": "Waialua",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.566,
+    "lng": -158.1199,
+    "cafes": []
+  },
+  "Kurtistown": {
+    "city": "Kurtistown",
+    "city_ascii": "Kurtistown",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.586,
+    "lng": -155.0713,
+    "cafes": []
+  },
+  "Holualoa": {
+    "city": "Holualoa",
+    "city_ascii": "Holualoa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.6548,
+    "lng": -155.9207,
+    "cafes": []
+  },
+  "Lawai": {
+    "city": "Lawai",
+    "city_ascii": "Lawai",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9204,
+    "lng": -159.5006,
+    "cafes": []
+  },
+  "Paia": {
+    "city": "Paia",
+    "city_ascii": "Paia",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.9062,
+    "lng": -156.3677,
+    "cafes": []
+  },
+  "Honaunau-Napoopoo": {
+    "city": "Honaunau-Napoopoo",
+    "city_ascii": "Honaunau-Napoopoo",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4538,
+    "lng": -155.8588,
+    "cafes": []
+  },
+  "Wailua": {
+    "city": "Wailua",
+    "city_ascii": "Wailua",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 22.0551,
+    "lng": -159.3401,
+    "cafes": []
+  },
+  "Kahuku": {
+    "city": "Kahuku",
+    "city_ascii": "Kahuku",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.6793,
+    "lng": -157.9473,
+    "cafes": []
+  },
+  "Kualapuu": {
+    "city": "Kualapuu",
+    "city_ascii": "Kualapuu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.1564,
+    "lng": -157.0591,
+    "cafes": []
+  },
+  "Honokaa": {
+    "city": "Honokaa",
+    "city_ascii": "Honokaa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.0776,
+    "lng": -155.4644,
+    "cafes": []
+  },
+  "Eleele": {
+    "city": "Eleele",
+    "city_ascii": "Eleele",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9087,
+    "lng": -159.5802,
+    "cafes": []
+  },
+  "Koloa": {
+    "city": "Koloa",
+    "city_ascii": "Koloa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9031,
+    "lng": -159.4611,
+    "cafes": []
+  },
+  "Hanapepe": {
+    "city": "Hanapepe",
+    "city_ascii": "Hanapepe",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9141,
+    "lng": -159.5874,
+    "cafes": []
+  },
+  "Maunawili": {
+    "city": "Maunawili",
+    "city_ascii": "Maunawili",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3667,
+    "lng": -157.7713,
+    "cafes": []
+  },
+  "Wheeler AFB": {
+    "city": "Wheeler AFB",
+    "city_ascii": "Wheeler AFB",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4756,
+    "lng": -158.0352,
+    "cafes": []
+  },
+  "Kapaau": {
+    "city": "Kapaau",
+    "city_ascii": "Kapaau",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.234,
+    "lng": -155.8028,
+    "cafes": []
+  },
+  "Kealakekua": {
+    "city": "Kealakekua",
+    "city_ascii": "Kealakekua",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.5286,
+    "lng": -155.9112,
+    "cafes": []
+  },
+  "Princeville": {
+    "city": "Princeville",
+    "city_ascii": "Princeville",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 22.2181,
+    "lng": -159.4801,
+    "cafes": []
+  },
+  "Pahala": {
+    "city": "Pahala",
+    "city_ascii": "Pahala",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.1993,
+    "lng": -155.4772,
+    "cafes": []
+  },
+  "Hawi": {
+    "city": "Hawi",
+    "city_ascii": "Hawi",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.2263,
+    "lng": -155.8389,
+    "cafes": []
+  },
+  "Fern Acres": {
+    "city": "Fern Acres",
+    "city_ascii": "Fern Acres",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.508,
+    "lng": -155.0787,
+    "cafes": []
+  },
+  "Mokuleia": {
+    "city": "Mokuleia",
+    "city_ascii": "Mokuleia",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.5771,
+    "lng": -158.1714,
+    "cafes": []
+  },
+  "Ko Olina": {
+    "city": "Ko Olina",
+    "city_ascii": "Ko Olina",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.3378,
+    "lng": -158.1188,
+    "cafes": []
+  },
+  "Kaloko": {
+    "city": "Kaloko",
+    "city_ascii": "Kaloko",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.7216,
+    "lng": -155.9505,
+    "cafes": []
+  },
+  "Pepeekeo": {
+    "city": "Pepeekeo",
+    "city_ascii": "Pepeekeo",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.8325,
+    "lng": -155.1056,
+    "cafes": []
+  },
+  "Nanawale Estates": {
+    "city": "Nanawale Estates",
+    "city_ascii": "Nanawale Estates",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.5035,
+    "lng": -154.9104,
+    "cafes": []
+  },
+  "Pahoa": {
+    "city": "Pahoa",
+    "city_ascii": "Pahoa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.496,
+    "lng": -154.9453,
+    "cafes": []
+  },
+  "Omao": {
+    "city": "Omao",
+    "city_ascii": "Omao",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9236,
+    "lng": -159.4814,
+    "cafes": []
+  },
+  "Poipu": {
+    "city": "Poipu",
+    "city_ascii": "Poipu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.8834,
+    "lng": -159.46,
+    "cafes": []
+  },
+  "Leilani Estates": {
+    "city": "Leilani Estates",
+    "city_ascii": "Leilani Estates",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4659,
+    "lng": -154.9157,
+    "cafes": []
+  },
+  "Kaumakani": {
+    "city": "Kaumakani",
+    "city_ascii": "Kaumakani",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9187,
+    "lng": -159.624,
+    "cafes": []
+  },
+  "Papaikou": {
+    "city": "Papaikou",
+    "city_ascii": "Papaikou",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.7917,
+    "lng": -155.0963,
+    "cafes": []
+  },
+  "Kaaawa": {
+    "city": "Kaaawa",
+    "city_ascii": "Kaaawa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.5485,
+    "lng": -157.8534,
+    "cafes": []
+  },
+  "Kaanapali": {
+    "city": "Kaanapali",
+    "city_ascii": "Kaanapali",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.9277,
+    "lng": -156.6794,
+    "cafes": []
+  },
+  "Keaau": {
+    "city": "Keaau",
+    "city_ascii": "Keaau",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.6233,
+    "lng": -155.0483,
+    "cafes": []
+  },
+  "Discovery Harbour": {
+    "city": "Discovery Harbour",
+    "city_ascii": "Discovery Harbour",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.0415,
+    "lng": -155.6254,
+    "cafes": []
+  },
+  "Haliimaile": {
+    "city": "Haliimaile",
+    "city_ascii": "Haliimaile",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8671,
+    "lng": -156.3381,
+    "cafes": []
+  },
+  "Wainaku": {
+    "city": "Wainaku",
+    "city_ascii": "Wainaku",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.7449,
+    "lng": -155.0984,
+    "cafes": []
+  },
+  "Honalo": {
+    "city": "Honalo",
+    "city_ascii": "Honalo",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.581,
+    "lng": -155.8985,
+    "cafes": []
+  },
+  "Mahinahina": {
+    "city": "Mahinahina",
+    "city_ascii": "Mahinahina",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.954,
+    "lng": -156.6564,
+    "cafes": []
+  },
+  "Halaula": {
+    "city": "Halaula",
+    "city_ascii": "Halaula",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.2233,
+    "lng": -155.7739,
+    "cafes": []
+  },
+  "Olinda": {
+    "city": "Olinda",
+    "city_ascii": "Olinda",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8261,
+    "lng": -156.2917,
+    "cafes": []
+  },
+  "Laupahoehoe": {
+    "city": "Laupahoehoe",
+    "city_ascii": "Laupahoehoe",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.9723,
+    "lng": -155.2345,
+    "cafes": []
+  },
+  "Eden Roc": {
+    "city": "Eden Roc",
+    "city_ascii": "Eden Roc",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4917,
+    "lng": -155.0958,
+    "cafes": []
+  },
+  "Mauna Loa Estates": {
+    "city": "Mauna Loa Estates",
+    "city_ascii": "Mauna Loa Estates",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4274,
+    "lng": -155.2213,
+    "cafes": []
+  },
+  "Volcano Golf Course": {
+    "city": "Volcano Golf Course",
+    "city_ascii": "Volcano Golf Course",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4424,
+    "lng": -155.2789,
+    "cafes": []
+  },
+  "Royal Hawaiian Estates": {
+    "city": "Royal Hawaiian Estates",
+    "city_ascii": "Royal Hawaiian Estates",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4413,
+    "lng": -155.1841,
+    "cafes": []
+  },
+  "Fern Forest": {
+    "city": "Fern Forest",
+    "city_ascii": "Fern Forest",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4648,
+    "lng": -155.1324,
+    "cafes": []
+  },
+  "Punaluu": {
+    "city": "Punaluu",
+    "city_ascii": "Punaluu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.581,
+    "lng": -157.8901,
+    "cafes": []
+  },
+  "Naalehu": {
+    "city": "Naalehu",
+    "city_ascii": "Naalehu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.0698,
+    "lng": -155.5751,
+    "cafes": []
+  },
+  "Hana": {
+    "city": "Hana",
+    "city_ascii": "Hana",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.772,
+    "lng": -156.0107,
+    "cafes": []
+  },
+  "Waikoloa Beach Resort": {
+    "city": "Waikoloa Beach Resort",
+    "city_ascii": "Waikoloa Beach Resort",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.9279,
+    "lng": -155.8704,
+    "cafes": []
+  },
+  "Launiupoko": {
+    "city": "Launiupoko",
+    "city_ascii": "Launiupoko",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8541,
+    "lng": -156.6424,
+    "cafes": []
+  },
+  "Paauilo": {
+    "city": "Paauilo",
+    "city_ascii": "Paauilo",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.0398,
+    "lng": -155.3708,
+    "cafes": []
+  },
+  "Volcano": {
+    "city": "Volcano",
+    "city_ascii": "Volcano",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4864,
+    "lng": -155.2774,
+    "cafes": []
+  },
+  "Haena": {
+    "city": "Haena",
+    "city_ascii": "Haena",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 22.2186,
+    "lng": -159.561,
+    "cafes": []
+  },
+  "Paukaa": {
+    "city": "Paukaa",
+    "city_ascii": "Paukaa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.7625,
+    "lng": -155.0931,
+    "cafes": []
+  },
+  "Ualapue": {
+    "city": "Ualapue",
+    "city_ascii": "Ualapue",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.0704,
+    "lng": -156.8355,
+    "cafes": []
+  },
+  "Kapalua": {
+    "city": "Kapalua",
+    "city_ascii": "Kapalua",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.9959,
+    "lng": -156.6418,
+    "cafes": []
+  },
+  "Kawela Bay": {
+    "city": "Kawela Bay",
+    "city_ascii": "Kawela Bay",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.6991,
+    "lng": -158.0026,
+    "cafes": []
+  },
+  "Honomu": {
+    "city": "Honomu",
+    "city_ascii": "Honomu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.8697,
+    "lng": -155.1123,
+    "cafes": []
+  },
+  "Kukuihaele": {
+    "city": "Kukuihaele",
+    "city_ascii": "Kukuihaele",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.1195,
+    "lng": -155.5654,
+    "cafes": []
+  },
+  "Tiki Gardens": {
+    "city": "Tiki Gardens",
+    "city_ascii": "Tiki Gardens",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.5287,
+    "lng": -155.0031,
+    "cafes": []
+  },
+  "Wainiha": {
+    "city": "Wainiha",
+    "city_ascii": "Wainiha",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 22.1984,
+    "lng": -159.5458,
+    "cafes": []
+  },
+  "Puako": {
+    "city": "Puako",
+    "city_ascii": "Puako",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.9628,
+    "lng": -155.8389,
+    "cafes": []
+  },
+  "Pakala Village": {
+    "city": "Pakala Village",
+    "city_ascii": "Pakala Village",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.9445,
+    "lng": -159.6436,
+    "cafes": []
+  },
+  "Seaview": {
+    "city": "Seaview",
+    "city_ascii": "Seaview",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4067,
+    "lng": -154.9214,
+    "cafes": []
+  },
+  "Maunaloa": {
+    "city": "Maunaloa",
+    "city_ascii": "Maunaloa",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.1334,
+    "lng": -157.2123,
+    "cafes": []
+  },
+  "Maalaea": {
+    "city": "Maalaea",
+    "city_ascii": "Maalaea",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8047,
+    "lng": -156.4898,
+    "cafes": []
+  },
+  "Hanalei": {
+    "city": "Hanalei",
+    "city_ascii": "Hanalei",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 22.2041,
+    "lng": -159.4977,
+    "cafes": []
+  },
+  "Black Sands": {
+    "city": "Black Sands",
+    "city_ascii": "Black Sands",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4136,
+    "lng": -154.9588,
+    "cafes": []
+  },
+  "Kalihiwai": {
+    "city": "Kalihiwai",
+    "city_ascii": "Kalihiwai",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 22.2165,
+    "lng": -159.4405,
+    "cafes": []
+  },
+  "Makaha Valley": {
+    "city": "Makaha Valley",
+    "city_ascii": "Makaha Valley",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 21.4844,
+    "lng": -158.1843,
+    "cafes": []
+  },
+  "Waiohinu": {
+    "city": "Waiohinu",
+    "city_ascii": "Waiohinu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.0714,
+    "lng": -155.6145,
+    "cafes": []
+  },
+  "Kamaili": {
+    "city": "Kamaili",
+    "city_ascii": "Kamaili",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.4391,
+    "lng": -154.9189,
+    "cafes": []
+  },
+  "Makena": {
+    "city": "Makena",
+    "city_ascii": "Makena",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.631,
+    "lng": -156.4252,
+    "cafes": []
+  },
+  "Kalapana": {
+    "city": "Kalapana",
+    "city_ascii": "Kalapana",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 19.3566,
+    "lng": -154.9752,
+    "cafes": []
+  },
+  "Olowalu": {
+    "city": "Olowalu",
+    "city_ascii": "Olowalu",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.8222,
+    "lng": -156.6169,
+    "cafes": []
+  },
+  "Manele": {
+    "city": "Manele",
+    "city_ascii": "Manele",
+    "state_id": "HI",
+    "state_name": "Hawaii",
+    "lat": 20.7419,
+    "lng": -156.9012,
+    "cafes": []
+  }
+}

@@ -1,0 +1,7592 @@
+{
+  "Oklahoma City": {
+    "city": "Oklahoma City",
+    "city_ascii": "Oklahoma City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4676,
+    "lng": -97.5136,
+    "cafes": [
+      {
+        "name": "don't stress meowt - Cat Cafe",
+        "address": "1900 Linwood Blvd Suite 300, Oklahoma City, OK 73106, USA",
+        "rating": 4.8,
+        "user_ratings_total": 648,
+        "website": "https://dontstressmeowt-catcafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=689937319541608734",
+        "lat": 35.4746953,
+        "lng": -97.5443006,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Jade O",
+            "rating": 5,
+            "text": {
+              "text": "This is one of my favorite places to go when I am in need of a pick me up. Even if you don't enter the cat room the atmosphere in the cafe is still wonderful, and you still get to see the kitties! They have an excellent cat themed shop and local cat artwork and best of all they are saving lives and helping the kitties find their forever homes.",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          },
+          {
+            "author": "Savannah Porter",
+            "rating": 5,
+            "text": {
+              "text": "I love the cat cafe and highly recommend!!! It’s got me through some of the hardest days and some of the best of days! Their hot chocolate is absolutely amazing, not to mention if you reserve online you can cuddle and play with the cats!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Veronica Holtz",
+            "rating": 5,
+            "text": {
+              "text": "We brought our 6 and 9 year old and they were in HEAVEN! The kitties were very friendly! There were just over 20 cats (I think) in the lounge and we were in there with one other family. Plenty of cats to go around. The lounge has glass walls so if a member of your group isn’t interested in going in the lounge they can still see the action easily. You do sign a waiver and there are some rules, pretty much what you’d expect. We got lots of tokens for treats which is the best way to interact with the cats. This was a really special activity for our family. I think it would be great if you’re looking to adopt a cat as you get plenty of time to learn their personalities and bond.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2KV24bHspSD8dNzusK9QtIn8s5zOwqFCCuU1fjGNRxwZ7C00Cd7V7PiUZfdCdjPvC4VrvlC2TMuyn6dosEiQqiLUuPQYLaSOfDfowkvtfQ9Xxx5gD149vS57yk1dc11JP1-tJzv8s5MSb_0yV-JbiSxwKrjs4TTIZvC3XSQxCEYvs4TU175GXHcx9L18OjJ0CMGWZb6e-PE-AVIF1k7g3Cbd8S9qoIyKKoU8ywnn-3LrtfAKDxlUOlymXt9VPgxQSouFMVYTGn9MJyuQL2VrpVeE01vX5M745qlJhNNr3tTw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Tulsa": {
+    "city": "Tulsa",
+    "city_ascii": "Tulsa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1283,
+    "lng": -95.9042,
+    "cafes": []
+  },
+  "Norman": {
+    "city": "Norman",
+    "city_ascii": "Norman",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2335,
+    "lng": -97.3471,
+    "cafes": []
+  },
+  "Broken Arrow": {
+    "city": "Broken Arrow",
+    "city_ascii": "Broken Arrow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.038,
+    "lng": -95.7806,
+    "cafes": []
+  },
+  "Edmond": {
+    "city": "Edmond",
+    "city_ascii": "Edmond",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6689,
+    "lng": -97.416,
+    "cafes": []
+  },
+  "Lawton": {
+    "city": "Lawton",
+    "city_ascii": "Lawton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6175,
+    "lng": -98.4202,
+    "cafes": []
+  },
+  "Moore": {
+    "city": "Moore",
+    "city_ascii": "Moore",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3293,
+    "lng": -97.4757,
+    "cafes": []
+  },
+  "Midwest City": {
+    "city": "Midwest City",
+    "city_ascii": "Midwest City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.463,
+    "lng": -97.371,
+    "cafes": []
+  },
+  "Enid": {
+    "city": "Enid",
+    "city_ascii": "Enid",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4063,
+    "lng": -97.87,
+    "cafes": []
+  },
+  "Stillwater": {
+    "city": "Stillwater",
+    "city_ascii": "Stillwater",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1317,
+    "lng": -97.0742,
+    "cafes": []
+  },
+  "Owasso": {
+    "city": "Owasso",
+    "city_ascii": "Owasso",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2878,
+    "lng": -95.8311,
+    "cafes": []
+  },
+  "Bartlesville": {
+    "city": "Bartlesville",
+    "city_ascii": "Bartlesville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7365,
+    "lng": -95.9456,
+    "cafes": []
+  },
+  "Muskogee": {
+    "city": "Muskogee",
+    "city_ascii": "Muskogee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7432,
+    "lng": -95.3567,
+    "cafes": []
+  },
+  "Shawnee": {
+    "city": "Shawnee",
+    "city_ascii": "Shawnee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3531,
+    "lng": -96.9647,
+    "cafes": []
+  },
+  "Bixby": {
+    "city": "Bixby",
+    "city_ascii": "Bixby",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9454,
+    "lng": -95.8776,
+    "cafes": []
+  },
+  "Jenks": {
+    "city": "Jenks",
+    "city_ascii": "Jenks",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9981,
+    "lng": -95.9736,
+    "cafes": []
+  },
+  "Yukon": {
+    "city": "Yukon",
+    "city_ascii": "Yukon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5201,
+    "lng": -97.7639,
+    "cafes": []
+  },
+  "Ardmore": {
+    "city": "Ardmore",
+    "city_ascii": "Ardmore",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1949,
+    "lng": -97.1256,
+    "cafes": []
+  },
+  "Ponca City": {
+    "city": "Ponca City",
+    "city_ascii": "Ponca City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7235,
+    "lng": -97.0677,
+    "cafes": []
+  },
+  "Duncan": {
+    "city": "Duncan",
+    "city_ascii": "Duncan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.5408,
+    "lng": -97.9215,
+    "cafes": []
+  },
+  "Sapulpa": {
+    "city": "Sapulpa",
+    "city_ascii": "Sapulpa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0091,
+    "lng": -96.1003,
+    "cafes": []
+  },
+  "Del City": {
+    "city": "Del City",
+    "city_ascii": "Del City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4483,
+    "lng": -97.4408,
+    "cafes": []
+  },
+  "Mustang": {
+    "city": "Mustang",
+    "city_ascii": "Mustang",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3917,
+    "lng": -97.7246,
+    "cafes": []
+  },
+  "Bethany": {
+    "city": "Bethany",
+    "city_ascii": "Bethany",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5071,
+    "lng": -97.6418,
+    "cafes": []
+  },
+  "Sand Springs": {
+    "city": "Sand Springs",
+    "city_ascii": "Sand Springs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1353,
+    "lng": -96.1283,
+    "cafes": []
+  },
+  "Claremore": {
+    "city": "Claremore",
+    "city_ascii": "Claremore",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3146,
+    "lng": -95.6095,
+    "cafes": []
+  },
+  "Durant": {
+    "city": "Durant",
+    "city_ascii": "Durant",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9949,
+    "lng": -96.3923,
+    "cafes": []
+  },
+  "Altus": {
+    "city": "Altus",
+    "city_ascii": "Altus",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6565,
+    "lng": -99.3061,
+    "cafes": []
+  },
+  "McAlester": {
+    "city": "McAlester",
+    "city_ascii": "McAlester",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9257,
+    "lng": -95.7734,
+    "cafes": []
+  },
+  "El Reno": {
+    "city": "El Reno",
+    "city_ascii": "El Reno",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5429,
+    "lng": -97.966,
+    "cafes": []
+  },
+  "Ada": {
+    "city": "Ada",
+    "city_ascii": "Ada",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7662,
+    "lng": -96.6681,
+    "cafes": []
+  },
+  "Tahlequah": {
+    "city": "Tahlequah",
+    "city_ascii": "Tahlequah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9112,
+    "lng": -94.977,
+    "cafes": []
+  },
+  "Chickasha": {
+    "city": "Chickasha",
+    "city_ascii": "Chickasha",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0409,
+    "lng": -97.9474,
+    "cafes": []
+  },
+  "Glenpool": {
+    "city": "Glenpool",
+    "city_ascii": "Glenpool",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9488,
+    "lng": -96.0052,
+    "cafes": []
+  },
+  "Miami": {
+    "city": "Miami",
+    "city_ascii": "Miami",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8878,
+    "lng": -94.8711,
+    "cafes": []
+  },
+  "Guymon": {
+    "city": "Guymon",
+    "city_ascii": "Guymon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6903,
+    "lng": -101.4774,
+    "cafes": []
+  },
+  "Newcastle": {
+    "city": "Newcastle",
+    "city_ascii": "Newcastle",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2401,
+    "lng": -97.5995,
+    "cafes": []
+  },
+  "Choctaw": {
+    "city": "Choctaw",
+    "city_ascii": "Choctaw",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4802,
+    "lng": -97.2666,
+    "cafes": []
+  },
+  "Weatherford": {
+    "city": "Weatherford",
+    "city_ascii": "Weatherford",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.538,
+    "lng": -98.6853,
+    "cafes": []
+  },
+  "Woodward": {
+    "city": "Woodward",
+    "city_ascii": "Woodward",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4247,
+    "lng": -99.4058,
+    "cafes": []
+  },
+  "Elk City": {
+    "city": "Elk City",
+    "city_ascii": "Elk City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3862,
+    "lng": -99.4301,
+    "cafes": []
+  },
+  "Okmulgee": {
+    "city": "Okmulgee",
+    "city_ascii": "Okmulgee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6134,
+    "lng": -96.0068,
+    "cafes": []
+  },
+  "Guthrie": {
+    "city": "Guthrie",
+    "city_ascii": "Guthrie",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8424,
+    "lng": -97.4366,
+    "cafes": []
+  },
+  "Warr Acres": {
+    "city": "Warr Acres",
+    "city_ascii": "Warr Acres",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5285,
+    "lng": -97.6182,
+    "cafes": []
+  },
+  "Coweta": {
+    "city": "Coweta",
+    "city_ascii": "Coweta",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9683,
+    "lng": -95.6545,
+    "cafes": []
+  },
+  "Pryor Creek": {
+    "city": "Pryor Creek",
+    "city_ascii": "Pryor Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2996,
+    "lng": -95.3107,
+    "cafes": []
+  },
+  "The Village": {
+    "city": "The Village",
+    "city_ascii": "The Village",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5706,
+    "lng": -97.5567,
+    "cafes": []
+  },
+  "Blanchard": {
+    "city": "Blanchard",
+    "city_ascii": "Blanchard",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1524,
+    "lng": -97.6602,
+    "cafes": []
+  },
+  "Poteau": {
+    "city": "Poteau",
+    "city_ascii": "Poteau",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0282,
+    "lng": -94.6346,
+    "cafes": []
+  },
+  "Skiatook": {
+    "city": "Skiatook",
+    "city_ascii": "Skiatook",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3699,
+    "lng": -95.9856,
+    "cafes": []
+  },
+  "Sallisaw": {
+    "city": "Sallisaw",
+    "city_ascii": "Sallisaw",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4606,
+    "lng": -94.8072,
+    "cafes": []
+  },
+  "Collinsville": {
+    "city": "Collinsville",
+    "city_ascii": "Collinsville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3723,
+    "lng": -95.8609,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5069,
+    "lng": -98.9706,
+    "cafes": []
+  },
+  "Cushing": {
+    "city": "Cushing",
+    "city_ascii": "Cushing",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9794,
+    "lng": -96.7609,
+    "cafes": []
+  },
+  "Piedmont": {
+    "city": "Piedmont",
+    "city_ascii": "Piedmont",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6781,
+    "lng": -97.7526,
+    "cafes": []
+  },
+  "Wagoner": {
+    "city": "Wagoner",
+    "city_ascii": "Wagoner",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9645,
+    "lng": -95.3785,
+    "cafes": []
+  },
+  "Tuttle": {
+    "city": "Tuttle",
+    "city_ascii": "Tuttle",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3068,
+    "lng": -97.7564,
+    "cafes": []
+  },
+  "Catoosa": {
+    "city": "Catoosa",
+    "city_ascii": "Catoosa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1834,
+    "lng": -95.768,
+    "cafes": []
+  },
+  "Noble": {
+    "city": "Noble",
+    "city_ascii": "Noble",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1381,
+    "lng": -97.3695,
+    "cafes": []
+  },
+  "Seminole": {
+    "city": "Seminole",
+    "city_ascii": "Seminole",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2348,
+    "lng": -96.6493,
+    "cafes": []
+  },
+  "Grove": {
+    "city": "Grove",
+    "city_ascii": "Grove",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5928,
+    "lng": -94.7877,
+    "cafes": []
+  },
+  "Idabel": {
+    "city": "Idabel",
+    "city_ascii": "Idabel",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.904,
+    "lng": -94.8285,
+    "cafes": []
+  },
+  "Purcell": {
+    "city": "Purcell",
+    "city_ascii": "Purcell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0231,
+    "lng": -97.3757,
+    "cafes": []
+  },
+  "Harrah": {
+    "city": "Harrah",
+    "city_ascii": "Harrah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4786,
+    "lng": -97.1873,
+    "cafes": []
+  },
+  "Tecumseh": {
+    "city": "Tecumseh",
+    "city_ascii": "Tecumseh",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2639,
+    "lng": -96.9337,
+    "cafes": []
+  },
+  "Blackwell": {
+    "city": "Blackwell",
+    "city_ascii": "Blackwell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8013,
+    "lng": -97.3009,
+    "cafes": []
+  },
+  "Pauls Valley": {
+    "city": "Pauls Valley",
+    "city_ascii": "Pauls Valley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7231,
+    "lng": -97.2281,
+    "cafes": []
+  },
+  "Holdenville": {
+    "city": "Holdenville",
+    "city_ascii": "Holdenville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0838,
+    "lng": -96.4017,
+    "cafes": []
+  },
+  "Henryetta": {
+    "city": "Henryetta",
+    "city_ascii": "Henryetta",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4417,
+    "lng": -95.9864,
+    "cafes": []
+  },
+  "Anadarko": {
+    "city": "Anadarko",
+    "city_ascii": "Anadarko",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.065,
+    "lng": -98.2443,
+    "cafes": []
+  },
+  "Verdigris": {
+    "city": "Verdigris",
+    "city_ascii": "Verdigris",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2536,
+    "lng": -95.66,
+    "cafes": []
+  },
+  "Vinita": {
+    "city": "Vinita",
+    "city_ascii": "Vinita",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6375,
+    "lng": -95.1725,
+    "cafes": []
+  },
+  "Sayre": {
+    "city": "Sayre",
+    "city_ascii": "Sayre",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2966,
+    "lng": -99.6286,
+    "cafes": []
+  },
+  "Hugo": {
+    "city": "Hugo",
+    "city_ascii": "Hugo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0118,
+    "lng": -95.5115,
+    "cafes": []
+  },
+  "Lone Grove": {
+    "city": "Lone Grove",
+    "city_ascii": "Lone Grove",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1809,
+    "lng": -97.2559,
+    "cafes": []
+  },
+  "Alva": {
+    "city": "Alva",
+    "city_ascii": "Alva",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7895,
+    "lng": -98.6649,
+    "cafes": []
+  },
+  "Kingfisher": {
+    "city": "Kingfisher",
+    "city_ascii": "Kingfisher",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8444,
+    "lng": -97.9386,
+    "cafes": []
+  },
+  "Sulphur": {
+    "city": "Sulphur",
+    "city_ascii": "Sulphur",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4979,
+    "lng": -96.9898,
+    "cafes": []
+  },
+  "Hinton": {
+    "city": "Hinton",
+    "city_ascii": "Hinton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4895,
+    "lng": -98.3575,
+    "cafes": []
+  },
+  "Perry": {
+    "city": "Perry",
+    "city_ascii": "Perry",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2837,
+    "lng": -97.3094,
+    "cafes": []
+  },
+  "McLoud": {
+    "city": "McLoud",
+    "city_ascii": "McLoud",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4081,
+    "lng": -97.099,
+    "cafes": []
+  },
+  "Marlow": {
+    "city": "Marlow",
+    "city_ascii": "Marlow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6296,
+    "lng": -97.9578,
+    "cafes": []
+  },
+  "Pocola": {
+    "city": "Pocola",
+    "city_ascii": "Pocola",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2455,
+    "lng": -94.4775,
+    "cafes": []
+  },
+  "Bristow": {
+    "city": "Bristow",
+    "city_ascii": "Bristow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8336,
+    "lng": -96.3944,
+    "cafes": []
+  },
+  "Broken Bow": {
+    "city": "Broken Bow",
+    "city_ascii": "Broken Bow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0292,
+    "lng": -94.7426,
+    "cafes": []
+  },
+  "Slaughterville": {
+    "city": "Slaughterville",
+    "city_ascii": "Slaughterville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.091,
+    "lng": -97.2881,
+    "cafes": []
+  },
+  "Madill": {
+    "city": "Madill",
+    "city_ascii": "Madill",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0872,
+    "lng": -96.7744,
+    "cafes": []
+  },
+  "Spencer": {
+    "city": "Spencer",
+    "city_ascii": "Spencer",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5108,
+    "lng": -97.3715,
+    "cafes": []
+  },
+  "Nichols Hills": {
+    "city": "Nichols Hills",
+    "city_ascii": "Nichols Hills",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5468,
+    "lng": -97.5445,
+    "cafes": []
+  },
+  "Fort Gibson": {
+    "city": "Fort Gibson",
+    "city_ascii": "Fort Gibson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7763,
+    "lng": -95.2602,
+    "cafes": []
+  },
+  "Stilwell": {
+    "city": "Stilwell",
+    "city_ascii": "Stilwell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8145,
+    "lng": -94.6317,
+    "cafes": []
+  },
+  "Elgin": {
+    "city": "Elgin",
+    "city_ascii": "Elgin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7849,
+    "lng": -98.301,
+    "cafes": []
+  },
+  "Roland": {
+    "city": "Roland",
+    "city_ascii": "Roland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4147,
+    "lng": -94.5137,
+    "cafes": []
+  },
+  "Nowata": {
+    "city": "Nowata",
+    "city_ascii": "Nowata",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6985,
+    "lng": -95.6372,
+    "cafes": []
+  },
+  "Frederick": {
+    "city": "Frederick",
+    "city_ascii": "Frederick",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3708,
+    "lng": -99.0008,
+    "cafes": []
+  },
+  "Dewey": {
+    "city": "Dewey",
+    "city_ascii": "Dewey",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7913,
+    "lng": -95.9328,
+    "cafes": []
+  },
+  "Hobart": {
+    "city": "Hobart",
+    "city_ascii": "Hobart",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0246,
+    "lng": -99.0875,
+    "cafes": []
+  },
+  "Hominy": {
+    "city": "Hominy",
+    "city_ascii": "Hominy",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4219,
+    "lng": -96.393,
+    "cafes": []
+  },
+  "Muldrow": {
+    "city": "Muldrow",
+    "city_ascii": "Muldrow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.404,
+    "lng": -94.5976,
+    "cafes": []
+  },
+  "Mannford": {
+    "city": "Mannford",
+    "city_ascii": "Mannford",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1306,
+    "lng": -96.334,
+    "cafes": []
+  },
+  "Perkins": {
+    "city": "Perkins",
+    "city_ascii": "Perkins",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9785,
+    "lng": -97.0301,
+    "cafes": []
+  },
+  "Cleveland": {
+    "city": "Cleveland",
+    "city_ascii": "Cleveland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3008,
+    "lng": -96.4635,
+    "cafes": []
+  },
+  "Bethel Acres": {
+    "city": "Bethel Acres",
+    "city_ascii": "Bethel Acres",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3048,
+    "lng": -97.037,
+    "cafes": []
+  },
+  "Wewoka": {
+    "city": "Wewoka",
+    "city_ascii": "Wewoka",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1441,
+    "lng": -96.4968,
+    "cafes": []
+  },
+  "Tishomingo": {
+    "city": "Tishomingo",
+    "city_ascii": "Tishomingo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2388,
+    "lng": -96.683,
+    "cafes": []
+  },
+  "Park Hill": {
+    "city": "Park Hill",
+    "city_ascii": "Park Hill",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8417,
+    "lng": -94.9734,
+    "cafes": []
+  },
+  "Okemah": {
+    "city": "Okemah",
+    "city_ascii": "Okemah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4292,
+    "lng": -96.2998,
+    "cafes": []
+  },
+  "Checotah": {
+    "city": "Checotah",
+    "city_ascii": "Checotah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.482,
+    "lng": -95.5224,
+    "cafes": []
+  },
+  "Cache": {
+    "city": "Cache",
+    "city_ascii": "Cache",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6294,
+    "lng": -98.6184,
+    "cafes": []
+  },
+  "Tonkawa": {
+    "city": "Tonkawa",
+    "city_ascii": "Tonkawa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6769,
+    "lng": -97.3235,
+    "cafes": []
+  },
+  "Heavener": {
+    "city": "Heavener",
+    "city_ascii": "Heavener",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8919,
+    "lng": -94.6075,
+    "cafes": []
+  },
+  "Pawhuska": {
+    "city": "Pawhuska",
+    "city_ascii": "Pawhuska",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6687,
+    "lng": -96.3313,
+    "cafes": []
+  },
+  "Jones": {
+    "city": "Jones",
+    "city_ascii": "Jones",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5662,
+    "lng": -97.2901,
+    "cafes": []
+  },
+  "Calera": {
+    "city": "Calera",
+    "city_ascii": "Calera",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9303,
+    "lng": -96.4293,
+    "cafes": []
+  },
+  "Atoka": {
+    "city": "Atoka",
+    "city_ascii": "Atoka",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.386,
+    "lng": -96.1317,
+    "cafes": []
+  },
+  "Goldsby": {
+    "city": "Goldsby",
+    "city_ascii": "Goldsby",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1308,
+    "lng": -97.4783,
+    "cafes": []
+  },
+  "Chandler": {
+    "city": "Chandler",
+    "city_ascii": "Chandler",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7224,
+    "lng": -96.8925,
+    "cafes": []
+  },
+  "Turley": {
+    "city": "Turley",
+    "city_ascii": "Turley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2472,
+    "lng": -95.9655,
+    "cafes": []
+  },
+  "Wilburton": {
+    "city": "Wilburton",
+    "city_ascii": "Wilburton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9182,
+    "lng": -95.3049,
+    "cafes": []
+  },
+  "Lindsay": {
+    "city": "Lindsay",
+    "city_ascii": "Lindsay",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8393,
+    "lng": -97.6105,
+    "cafes": []
+  },
+  "Marietta": {
+    "city": "Marietta",
+    "city_ascii": "Marietta",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.936,
+    "lng": -97.1248,
+    "cafes": []
+  },
+  "Longtown": {
+    "city": "Longtown",
+    "city_ascii": "Longtown",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2408,
+    "lng": -95.5176,
+    "cafes": []
+  },
+  "Davis": {
+    "city": "Davis",
+    "city_ascii": "Davis",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4575,
+    "lng": -97.1566,
+    "cafes": []
+  },
+  "Eufaula": {
+    "city": "Eufaula",
+    "city_ascii": "Eufaula",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2923,
+    "lng": -95.5863,
+    "cafes": []
+  },
+  "Stroud": {
+    "city": "Stroud",
+    "city_ascii": "Stroud",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7686,
+    "lng": -96.6467,
+    "cafes": []
+  },
+  "Mangum": {
+    "city": "Mangum",
+    "city_ascii": "Mangum",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8787,
+    "lng": -99.5038,
+    "cafes": []
+  },
+  "New Cordell": {
+    "city": "New Cordell",
+    "city_ascii": "New Cordell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2968,
+    "lng": -98.9838,
+    "cafes": []
+  },
+  "Jay": {
+    "city": "Jay",
+    "city_ascii": "Jay",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4271,
+    "lng": -94.7956,
+    "cafes": []
+  },
+  "Stigler": {
+    "city": "Stigler",
+    "city_ascii": "Stigler",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.257,
+    "lng": -95.1181,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2705,
+    "lng": -98.4769,
+    "cafes": []
+  },
+  "Healdton": {
+    "city": "Healdton",
+    "city_ascii": "Healdton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2335,
+    "lng": -97.4867,
+    "cafes": []
+  },
+  "Watonga": {
+    "city": "Watonga",
+    "city_ascii": "Watonga",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8691,
+    "lng": -98.4166,
+    "cafes": []
+  },
+  "Hennessey": {
+    "city": "Hennessey",
+    "city_ascii": "Hennessey",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1056,
+    "lng": -97.8989,
+    "cafes": []
+  },
+  "Nicoma Park": {
+    "city": "Nicoma Park",
+    "city_ascii": "Nicoma Park",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4913,
+    "lng": -97.3254,
+    "cafes": []
+  },
+  "Texanna": {
+    "city": "Texanna",
+    "city_ascii": "Texanna",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3572,
+    "lng": -95.5047,
+    "cafes": []
+  },
+  "Kiefer": {
+    "city": "Kiefer",
+    "city_ascii": "Kiefer",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9442,
+    "lng": -96.0529,
+    "cafes": []
+  },
+  "Antlers": {
+    "city": "Antlers",
+    "city_ascii": "Antlers",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2329,
+    "lng": -95.6229,
+    "cafes": []
+  },
+  "Drumright": {
+    "city": "Drumright",
+    "city_ascii": "Drumright",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9905,
+    "lng": -96.5977,
+    "cafes": []
+  },
+  "Commerce": {
+    "city": "Commerce",
+    "city_ascii": "Commerce",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9349,
+    "lng": -94.8615,
+    "cafes": []
+  },
+  "Pink": {
+    "city": "Pink",
+    "city_ascii": "Pink",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2327,
+    "lng": -97.1,
+    "cafes": []
+  },
+  "Spiro": {
+    "city": "Spiro",
+    "city_ascii": "Spiro",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.241,
+    "lng": -94.6237,
+    "cafes": []
+  },
+  "Walters": {
+    "city": "Walters",
+    "city_ascii": "Walters",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3612,
+    "lng": -98.3568,
+    "cafes": []
+  },
+  "Krebs": {
+    "city": "Krebs",
+    "city_ascii": "Krebs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9301,
+    "lng": -95.7189,
+    "cafes": []
+  },
+  "Newkirk": {
+    "city": "Newkirk",
+    "city_ascii": "Newkirk",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8817,
+    "lng": -97.0553,
+    "cafes": []
+  },
+  "Chouteau": {
+    "city": "Chouteau",
+    "city_ascii": "Chouteau",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1894,
+    "lng": -95.3374,
+    "cafes": []
+  },
+  "Lexington": {
+    "city": "Lexington",
+    "city_ascii": "Lexington",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0179,
+    "lng": -97.3348,
+    "cafes": []
+  },
+  "Arkoma": {
+    "city": "Arkoma",
+    "city_ascii": "Arkoma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3374,
+    "lng": -94.4438,
+    "cafes": []
+  },
+  "Prague": {
+    "city": "Prague",
+    "city_ascii": "Prague",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.499,
+    "lng": -96.7001,
+    "cafes": []
+  },
+  "Oakhurst": {
+    "city": "Oakhurst",
+    "city_ascii": "Oakhurst",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0825,
+    "lng": -96.0643,
+    "cafes": []
+  },
+  "Burns Flat": {
+    "city": "Burns Flat",
+    "city_ascii": "Burns Flat",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3547,
+    "lng": -99.1751,
+    "cafes": []
+  },
+  "Coalgate": {
+    "city": "Coalgate",
+    "city_ascii": "Coalgate",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.5323,
+    "lng": -96.2209,
+    "cafes": []
+  },
+  "Kingston": {
+    "city": "Kingston",
+    "city_ascii": "Kingston",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0004,
+    "lng": -96.7062,
+    "cafes": []
+  },
+  "Pawnee": {
+    "city": "Pawnee",
+    "city_ascii": "Pawnee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3484,
+    "lng": -96.8025,
+    "cafes": []
+  },
+  "Inola": {
+    "city": "Inola",
+    "city_ascii": "Inola",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1321,
+    "lng": -95.5369,
+    "cafes": []
+  },
+  "Chelsea": {
+    "city": "Chelsea",
+    "city_ascii": "Chelsea",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5321,
+    "lng": -95.4346,
+    "cafes": []
+  },
+  "Westville": {
+    "city": "Westville",
+    "city_ascii": "Westville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.991,
+    "lng": -94.5751,
+    "cafes": []
+  },
+  "Waurika": {
+    "city": "Waurika",
+    "city_ascii": "Waurika",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.183,
+    "lng": -98.0245,
+    "cafes": []
+  },
+  "Oologah": {
+    "city": "Oologah",
+    "city_ascii": "Oologah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4438,
+    "lng": -95.7089,
+    "cafes": []
+  },
+  "Wynnewood": {
+    "city": "Wynnewood",
+    "city_ascii": "Wynnewood",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6437,
+    "lng": -97.1622,
+    "cafes": []
+  },
+  "Hollis": {
+    "city": "Hollis",
+    "city_ascii": "Hollis",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6897,
+    "lng": -99.9153,
+    "cafes": []
+  },
+  "McCord": {
+    "city": "McCord",
+    "city_ascii": "McCord",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6797,
+    "lng": -97.0346,
+    "cafes": []
+  },
+  "Hartshorne": {
+    "city": "Hartshorne",
+    "city_ascii": "Hartshorne",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8392,
+    "lng": -95.5596,
+    "cafes": []
+  },
+  "Carnegie": {
+    "city": "Carnegie",
+    "city_ascii": "Carnegie",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.103,
+    "lng": -98.5996,
+    "cafes": []
+  },
+  "Haskell": {
+    "city": "Haskell",
+    "city_ascii": "Haskell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8187,
+    "lng": -95.6805,
+    "cafes": []
+  },
+  "Beaver": {
+    "city": "Beaver",
+    "city_ascii": "Beaver",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.815,
+    "lng": -100.5236,
+    "cafes": []
+  },
+  "Comanche": {
+    "city": "Comanche",
+    "city_ascii": "Comanche",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3567,
+    "lng": -97.9509,
+    "cafes": []
+  },
+  "Wilson": {
+    "city": "Wilson",
+    "city_ascii": "Wilson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1684,
+    "lng": -97.426,
+    "cafes": []
+  },
+  "Union City": {
+    "city": "Union City",
+    "city_ascii": "Union City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4015,
+    "lng": -97.9047,
+    "cafes": []
+  },
+  "Justice": {
+    "city": "Justice",
+    "city_ascii": "Justice",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2908,
+    "lng": -95.5636,
+    "cafes": []
+  },
+  "Norwood": {
+    "city": "Norwood",
+    "city_ascii": "Norwood",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8491,
+    "lng": -95.1493,
+    "cafes": []
+  },
+  "Langston": {
+    "city": "Langston",
+    "city_ascii": "Langston",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9308,
+    "lng": -97.2807,
+    "cafes": []
+  },
+  "Warner": {
+    "city": "Warner",
+    "city_ascii": "Warner",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4905,
+    "lng": -95.3087,
+    "cafes": []
+  },
+  "Central High": {
+    "city": "Central High",
+    "city_ascii": "Central High",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.617,
+    "lng": -98.0892,
+    "cafes": []
+  },
+  "Crescent": {
+    "city": "Crescent",
+    "city_ascii": "Crescent",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9518,
+    "lng": -97.5948,
+    "cafes": []
+  },
+  "Granite": {
+    "city": "Granite",
+    "city_ascii": "Granite",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.956,
+    "lng": -99.3692,
+    "cafes": []
+  },
+  "Morris": {
+    "city": "Morris",
+    "city_ascii": "Morris",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6153,
+    "lng": -95.8617,
+    "cafes": []
+  },
+  "Hooker": {
+    "city": "Hooker",
+    "city_ascii": "Hooker",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8613,
+    "lng": -101.2162,
+    "cafes": []
+  },
+  "Minco": {
+    "city": "Minco",
+    "city_ascii": "Minco",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3175,
+    "lng": -97.9517,
+    "cafes": []
+  },
+  "Helena": {
+    "city": "Helena",
+    "city_ascii": "Helena",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5463,
+    "lng": -98.2718,
+    "cafes": []
+  },
+  "Cleora": {
+    "city": "Cleora",
+    "city_ascii": "Cleora",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5738,
+    "lng": -94.948,
+    "cafes": []
+  },
+  "Locust Grove": {
+    "city": "Locust Grove",
+    "city_ascii": "Locust Grove",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1982,
+    "lng": -95.1689,
+    "cafes": []
+  },
+  "Luther": {
+    "city": "Luther",
+    "city_ascii": "Luther",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6682,
+    "lng": -97.1905,
+    "cafes": []
+  },
+  "Panama": {
+    "city": "Panama",
+    "city_ascii": "Panama",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1711,
+    "lng": -94.669,
+    "cafes": []
+  },
+  "Kenwood": {
+    "city": "Kenwood",
+    "city_ascii": "Kenwood",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3012,
+    "lng": -94.9978,
+    "cafes": []
+  },
+  "Latta": {
+    "city": "Latta",
+    "city_ascii": "Latta",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7532,
+    "lng": -96.7088,
+    "cafes": []
+  },
+  "Copeland": {
+    "city": "Copeland",
+    "city_ascii": "Copeland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6571,
+    "lng": -94.8204,
+    "cafes": []
+  },
+  "Dickson": {
+    "city": "Dickson",
+    "city_ascii": "Dickson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1877,
+    "lng": -96.9968,
+    "cafes": []
+  },
+  "West Siloam Springs": {
+    "city": "West Siloam Springs",
+    "city_ascii": "West Siloam Springs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1759,
+    "lng": -94.5978,
+    "cafes": []
+  },
+  "Maysville": {
+    "city": "Maysville",
+    "city_ascii": "Maysville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8546,
+    "lng": -97.3876,
+    "cafes": []
+  },
+  "Byng": {
+    "city": "Byng",
+    "city_ascii": "Byng",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8657,
+    "lng": -96.6678,
+    "cafes": []
+  },
+  "Snyder": {
+    "city": "Snyder",
+    "city_ascii": "Snyder",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.655,
+    "lng": -98.9535,
+    "cafes": []
+  },
+  "Wetumka": {
+    "city": "Wetumka",
+    "city_ascii": "Wetumka",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2412,
+    "lng": -96.2385,
+    "cafes": []
+  },
+  "Vian": {
+    "city": "Vian",
+    "city_ascii": "Vian",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5023,
+    "lng": -94.9695,
+    "cafes": []
+  },
+  "Cherokee": {
+    "city": "Cherokee",
+    "city_ascii": "Cherokee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7507,
+    "lng": -98.3577,
+    "cafes": []
+  },
+  "Cashion": {
+    "city": "Cashion",
+    "city_ascii": "Cashion",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8009,
+    "lng": -97.6771,
+    "cafes": []
+  },
+  "Fletcher": {
+    "city": "Fletcher",
+    "city_ascii": "Fletcher",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8237,
+    "lng": -98.2341,
+    "cafes": []
+  },
+  "Stratford": {
+    "city": "Stratford",
+    "city_ascii": "Stratford",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7952,
+    "lng": -96.9603,
+    "cafes": []
+  },
+  "Mooreland": {
+    "city": "Mooreland",
+    "city_ascii": "Mooreland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4377,
+    "lng": -99.2048,
+    "cafes": []
+  },
+  "Meeker": {
+    "city": "Meeker",
+    "city_ascii": "Meeker",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4855,
+    "lng": -96.8951,
+    "cafes": []
+  },
+  "Goodwell": {
+    "city": "Goodwell",
+    "city_ascii": "Goodwell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5948,
+    "lng": -101.6224,
+    "cafes": []
+  },
+  "Okarche": {
+    "city": "Okarche",
+    "city_ascii": "Okarche",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7251,
+    "lng": -97.9757,
+    "cafes": []
+  },
+  "Grandview": {
+    "city": "Grandview",
+    "city_ascii": "Grandview",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9635,
+    "lng": -94.9979,
+    "cafes": []
+  },
+  "Thomas": {
+    "city": "Thomas",
+    "city_ascii": "Thomas",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7452,
+    "lng": -98.7451,
+    "cafes": []
+  },
+  "Bushyhead": {
+    "city": "Bushyhead",
+    "city_ascii": "Bushyhead",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4596,
+    "lng": -95.5164,
+    "cafes": []
+  },
+  "Colbert": {
+    "city": "Colbert",
+    "city_ascii": "Colbert",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.8579,
+    "lng": -96.5059,
+    "cafes": []
+  },
+  "Buffalo": {
+    "city": "Buffalo",
+    "city_ascii": "Buffalo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8374,
+    "lng": -99.6465,
+    "cafes": []
+  },
+  "Dibble": {
+    "city": "Dibble",
+    "city_ascii": "Dibble",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0151,
+    "lng": -97.6273,
+    "cafes": []
+  },
+  "Fairland": {
+    "city": "Fairland",
+    "city_ascii": "Fairland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7513,
+    "lng": -94.8472,
+    "cafes": []
+  },
+  "Rush Springs": {
+    "city": "Rush Springs",
+    "city_ascii": "Rush Springs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7788,
+    "lng": -97.9572,
+    "cafes": []
+  },
+  "Okeene": {
+    "city": "Okeene",
+    "city_ascii": "Okeene",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1171,
+    "lng": -98.3167,
+    "cafes": []
+  },
+  "Boise City": {
+    "city": "Boise City",
+    "city_ascii": "Boise City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7313,
+    "lng": -102.5095,
+    "cafes": []
+  },
+  "Konawa": {
+    "city": "Konawa",
+    "city_ascii": "Konawa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9579,
+    "lng": -96.7538,
+    "cafes": []
+  },
+  "Beggs": {
+    "city": "Beggs",
+    "city_ascii": "Beggs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7768,
+    "lng": -96.0282,
+    "cafes": []
+  },
+  "Gore": {
+    "city": "Gore",
+    "city_ascii": "Gore",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5418,
+    "lng": -95.1129,
+    "cafes": []
+  },
+  "Shattuck": {
+    "city": "Shattuck",
+    "city_ascii": "Shattuck",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2649,
+    "lng": -99.8774,
+    "cafes": []
+  },
+  "Hydro": {
+    "city": "Hydro",
+    "city_ascii": "Hydro",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5483,
+    "lng": -98.5795,
+    "cafes": []
+  },
+  "North Enid": {
+    "city": "North Enid",
+    "city_ascii": "North Enid",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4458,
+    "lng": -97.8634,
+    "cafes": []
+  },
+  "Geronimo": {
+    "city": "Geronimo",
+    "city_ascii": "Geronimo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4831,
+    "lng": -98.3877,
+    "cafes": []
+  },
+  "Boley": {
+    "city": "Boley",
+    "city_ascii": "Boley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4904,
+    "lng": -96.4795,
+    "cafes": []
+  },
+  "Toppers": {
+    "city": "Toppers",
+    "city_ascii": "Toppers",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9656,
+    "lng": -95.3201,
+    "cafes": []
+  },
+  "Moodys": {
+    "city": "Moodys",
+    "city_ascii": "Moodys",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0325,
+    "lng": -94.9559,
+    "cafes": []
+  },
+  "Whitehorn Cove": {
+    "city": "Whitehorn Cove",
+    "city_ascii": "Whitehorn Cove",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9936,
+    "lng": -95.2868,
+    "cafes": []
+  },
+  "Woodall": {
+    "city": "Woodall",
+    "city_ascii": "Woodall",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8246,
+    "lng": -95.0823,
+    "cafes": []
+  },
+  "Wister": {
+    "city": "Wister",
+    "city_ascii": "Wister",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9696,
+    "lng": -94.7212,
+    "cafes": []
+  },
+  "Salina": {
+    "city": "Salina",
+    "city_ascii": "Salina",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2909,
+    "lng": -95.1528,
+    "cafes": []
+  },
+  "Kellyville": {
+    "city": "Kellyville",
+    "city_ascii": "Kellyville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9528,
+    "lng": -96.2003,
+    "cafes": []
+  },
+  "Briggs": {
+    "city": "Briggs",
+    "city_ascii": "Briggs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9202,
+    "lng": -94.8825,
+    "cafes": []
+  },
+  "Oakland": {
+    "city": "Oakland",
+    "city_ascii": "Oakland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.096,
+    "lng": -96.7996,
+    "cafes": []
+  },
+  "Caddo": {
+    "city": "Caddo",
+    "city_ascii": "Caddo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1256,
+    "lng": -96.2636,
+    "cafes": []
+  },
+  "Waukomis": {
+    "city": "Waukomis",
+    "city_ascii": "Waukomis",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2842,
+    "lng": -97.9005,
+    "cafes": []
+  },
+  "Apache": {
+    "city": "Apache",
+    "city_ascii": "Apache",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8937,
+    "lng": -98.3584,
+    "cafes": []
+  },
+  "Yale": {
+    "city": "Yale",
+    "city_ascii": "Yale",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1151,
+    "lng": -96.7011,
+    "cafes": []
+  },
+  "Laverne": {
+    "city": "Laverne",
+    "city_ascii": "Laverne",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7053,
+    "lng": -99.8968,
+    "cafes": []
+  },
+  "Sperry": {
+    "city": "Sperry",
+    "city_ascii": "Sperry",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2976,
+    "lng": -95.9963,
+    "cafes": []
+  },
+  "Mounds": {
+    "city": "Mounds",
+    "city_ascii": "Mounds",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8792,
+    "lng": -96.0678,
+    "cafes": []
+  },
+  "Burneyville": {
+    "city": "Burneyville",
+    "city_ascii": "Burneyville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9043,
+    "lng": -97.2903,
+    "cafes": []
+  },
+  "Fairfax": {
+    "city": "Fairfax",
+    "city_ascii": "Fairfax",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5699,
+    "lng": -96.708,
+    "cafes": []
+  },
+  "Medford": {
+    "city": "Medford",
+    "city_ascii": "Medford",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8035,
+    "lng": -97.7378,
+    "cafes": []
+  },
+  "Shady Point": {
+    "city": "Shady Point",
+    "city_ascii": "Shady Point",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1276,
+    "lng": -94.6686,
+    "cafes": []
+  },
+  "Bray": {
+    "city": "Bray",
+    "city_ascii": "Bray",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.616,
+    "lng": -97.8207,
+    "cafes": []
+  },
+  "Tyrone": {
+    "city": "Tyrone",
+    "city_ascii": "Tyrone",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9555,
+    "lng": -101.068,
+    "cafes": []
+  },
+  "Pickett": {
+    "city": "Pickett",
+    "city_ascii": "Pickett",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7795,
+    "lng": -96.7755,
+    "cafes": []
+  },
+  "Keys": {
+    "city": "Keys",
+    "city_ascii": "Keys",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8022,
+    "lng": -94.9606,
+    "cafes": []
+  },
+  "Barnsdall": {
+    "city": "Barnsdall",
+    "city_ascii": "Barnsdall",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5595,
+    "lng": -96.1383,
+    "cafes": []
+  },
+  "Allen": {
+    "city": "Allen",
+    "city_ascii": "Allen",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8776,
+    "lng": -96.4129,
+    "cafes": []
+  },
+  "Weleetka": {
+    "city": "Weleetka",
+    "city_ascii": "Weleetka",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3401,
+    "lng": -96.136,
+    "cafes": []
+  },
+  "Peggs": {
+    "city": "Peggs",
+    "city_ascii": "Peggs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0673,
+    "lng": -95.0718,
+    "cafes": []
+  },
+  "Ninnekah": {
+    "city": "Ninnekah",
+    "city_ascii": "Ninnekah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.964,
+    "lng": -97.9447,
+    "cafes": []
+  },
+  "Grandfield": {
+    "city": "Grandfield",
+    "city_ascii": "Grandfield",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2306,
+    "lng": -98.6875,
+    "cafes": []
+  },
+  "Waynoka": {
+    "city": "Waynoka",
+    "city_ascii": "Waynoka",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5849,
+    "lng": -98.8776,
+    "cafes": []
+  },
+  "Sentinel": {
+    "city": "Sentinel",
+    "city_ascii": "Sentinel",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.157,
+    "lng": -99.1736,
+    "cafes": []
+  },
+  "Cookson": {
+    "city": "Cookson",
+    "city_ascii": "Cookson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7155,
+    "lng": -94.9199,
+    "cafes": []
+  },
+  "Wellston": {
+    "city": "Wellston",
+    "city_ascii": "Wellston",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.686,
+    "lng": -97.0615,
+    "cafes": []
+  },
+  "Pond Creek": {
+    "city": "Pond Creek",
+    "city_ascii": "Pond Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6679,
+    "lng": -97.8024,
+    "cafes": []
+  },
+  "Maud": {
+    "city": "Maud",
+    "city_ascii": "Maud",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1334,
+    "lng": -96.778,
+    "cafes": []
+  },
+  "Colcord": {
+    "city": "Colcord",
+    "city_ascii": "Colcord",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2647,
+    "lng": -94.6923,
+    "cafes": []
+  },
+  "Lost City": {
+    "city": "Lost City",
+    "city_ascii": "Lost City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0006,
+    "lng": -95.1223,
+    "cafes": []
+  },
+  "Forest Park": {
+    "city": "Forest Park",
+    "city_ascii": "Forest Park",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5096,
+    "lng": -97.4469,
+    "cafes": []
+  },
+  "Mannsville": {
+    "city": "Mannsville",
+    "city_ascii": "Mannsville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1854,
+    "lng": -96.8981,
+    "cafes": []
+  },
+  "Texhoma": {
+    "city": "Texhoma",
+    "city_ascii": "Texhoma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5054,
+    "lng": -101.7872,
+    "cafes": []
+  },
+  "Springer": {
+    "city": "Springer",
+    "city_ascii": "Springer",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.291,
+    "lng": -97.1255,
+    "cafes": []
+  },
+  "Brushy": {
+    "city": "Brushy",
+    "city_ascii": "Brushy",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5578,
+    "lng": -94.7434,
+    "cafes": []
+  },
+  "Seiling": {
+    "city": "Seiling",
+    "city_ascii": "Seiling",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1556,
+    "lng": -98.9304,
+    "cafes": []
+  },
+  "Geary": {
+    "city": "Geary",
+    "city_ascii": "Geary",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5923,
+    "lng": -98.2911,
+    "cafes": []
+  },
+  "Talihina": {
+    "city": "Talihina",
+    "city_ascii": "Talihina",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7523,
+    "lng": -95.0409,
+    "cafes": []
+  },
+  "Pettit": {
+    "city": "Pettit",
+    "city_ascii": "Pettit",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.765,
+    "lng": -94.9693,
+    "cafes": []
+  },
+  "Cole": {
+    "city": "Cole",
+    "city_ascii": "Cole",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0992,
+    "lng": -97.5663,
+    "cafes": []
+  },
+  "Quinton": {
+    "city": "Quinton",
+    "city_ascii": "Quinton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1265,
+    "lng": -95.3664,
+    "cafes": []
+  },
+  "Rocky Point": {
+    "city": "Rocky Point",
+    "city_ascii": "Rocky Point",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0261,
+    "lng": -95.3216,
+    "cafes": []
+  },
+  "Oilton": {
+    "city": "Oilton",
+    "city_ascii": "Oilton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0827,
+    "lng": -96.5815,
+    "cafes": []
+  },
+  "Cheyenne": {
+    "city": "Cheyenne",
+    "city_ascii": "Cheyenne",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6109,
+    "lng": -99.6763,
+    "cafes": []
+  },
+  "Ringling": {
+    "city": "Ringling",
+    "city_ascii": "Ringling",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1772,
+    "lng": -97.5915,
+    "cafes": []
+  },
+  "Cartwright": {
+    "city": "Cartwright",
+    "city_ascii": "Cartwright",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.8556,
+    "lng": -96.561,
+    "cafes": []
+  },
+  "Elmore City": {
+    "city": "Elmore City",
+    "city_ascii": "Elmore City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6282,
+    "lng": -97.3918,
+    "cafes": []
+  },
+  "Temple": {
+    "city": "Temple",
+    "city_ascii": "Temple",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.273,
+    "lng": -98.235,
+    "cafes": []
+  },
+  "Kansas": {
+    "city": "Kansas",
+    "city_ascii": "Kansas",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2053,
+    "lng": -94.7888,
+    "cafes": []
+  },
+  "Keefton": {
+    "city": "Keefton",
+    "city_ascii": "Keefton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5772,
+    "lng": -95.3065,
+    "cafes": []
+  },
+  "Afton": {
+    "city": "Afton",
+    "city_ascii": "Afton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6965,
+    "lng": -94.9575,
+    "cafes": []
+  },
+  "Arapaho": {
+    "city": "Arapaho",
+    "city_ascii": "Arapaho",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5778,
+    "lng": -98.9592,
+    "cafes": []
+  },
+  "Empire City": {
+    "city": "Empire City",
+    "city_ascii": "Empire City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4803,
+    "lng": -98.0552,
+    "cafes": []
+  },
+  "Quapaw": {
+    "city": "Quapaw",
+    "city_ascii": "Quapaw",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9497,
+    "lng": -94.7805,
+    "cafes": []
+  },
+  "Howe": {
+    "city": "Howe",
+    "city_ascii": "Howe",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9496,
+    "lng": -94.6403,
+    "cafes": []
+  },
+  "Taylor Ferry": {
+    "city": "Taylor Ferry",
+    "city_ascii": "Taylor Ferry",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9391,
+    "lng": -95.2989,
+    "cafes": []
+  },
+  "Wayne": {
+    "city": "Wayne",
+    "city_ascii": "Wayne",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.917,
+    "lng": -97.3166,
+    "cafes": []
+  },
+  "Roff": {
+    "city": "Roff",
+    "city_ascii": "Roff",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6286,
+    "lng": -96.8412,
+    "cafes": []
+  },
+  "Vici": {
+    "city": "Vici",
+    "city_ascii": "Vici",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1488,
+    "lng": -99.2994,
+    "cafes": []
+  },
+  "Cyril": {
+    "city": "Cyril",
+    "city_ascii": "Cyril",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8985,
+    "lng": -98.203,
+    "cafes": []
+  },
+  "Boswell": {
+    "city": "Boswell",
+    "city_ascii": "Boswell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0278,
+    "lng": -95.8685,
+    "cafes": []
+  },
+  "Tipton": {
+    "city": "Tipton",
+    "city_ascii": "Tipton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4879,
+    "lng": -99.15,
+    "cafes": []
+  },
+  "Johnson": {
+    "city": "Johnson",
+    "city_ascii": "Johnson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4064,
+    "lng": -96.8444,
+    "cafes": []
+  },
+  "Ryan": {
+    "city": "Ryan",
+    "city_ascii": "Ryan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0213,
+    "lng": -97.9541,
+    "cafes": []
+  },
+  "Limestone": {
+    "city": "Limestone",
+    "city_ascii": "Limestone",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3143,
+    "lng": -95.7477,
+    "cafes": []
+  },
+  "Erick": {
+    "city": "Erick",
+    "city_ascii": "Erick",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2156,
+    "lng": -99.8686,
+    "cafes": []
+  },
+  "Welling": {
+    "city": "Welling",
+    "city_ascii": "Welling",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8808,
+    "lng": -94.8712,
+    "cafes": []
+  },
+  "Valliant": {
+    "city": "Valliant",
+    "city_ascii": "Valliant",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0058,
+    "lng": -95.0861,
+    "cafes": []
+  },
+  "Copan": {
+    "city": "Copan",
+    "city_ascii": "Copan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9004,
+    "lng": -95.9253,
+    "cafes": []
+  },
+  "Sunray": {
+    "city": "Sunray",
+    "city_ascii": "Sunray",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4112,
+    "lng": -97.9602,
+    "cafes": []
+  },
+  "Rock Island": {
+    "city": "Rock Island",
+    "city_ascii": "Rock Island",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1831,
+    "lng": -94.4811,
+    "cafes": []
+  },
+  "Dewar": {
+    "city": "Dewar",
+    "city_ascii": "Dewar",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4581,
+    "lng": -95.9483,
+    "cafes": []
+  },
+  "Bridge Creek": {
+    "city": "Bridge Creek",
+    "city_ascii": "Bridge Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2382,
+    "lng": -97.732,
+    "cafes": []
+  },
+  "Cumberland": {
+    "city": "Cumberland",
+    "city_ascii": "Cumberland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0609,
+    "lng": -96.5925,
+    "cafes": []
+  },
+  "Morrison": {
+    "city": "Morrison",
+    "city_ascii": "Morrison",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2927,
+    "lng": -97.0276,
+    "cafes": []
+  },
+  "Sterling": {
+    "city": "Sterling",
+    "city_ascii": "Sterling",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7494,
+    "lng": -98.1725,
+    "cafes": []
+  },
+  "Sequoyah": {
+    "city": "Sequoyah",
+    "city_ascii": "Sequoyah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3798,
+    "lng": -95.5969,
+    "cafes": []
+  },
+  "Davenport": {
+    "city": "Davenport",
+    "city_ascii": "Davenport",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7094,
+    "lng": -96.7645,
+    "cafes": []
+  },
+  "Washington": {
+    "city": "Washington",
+    "city_ascii": "Washington",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0582,
+    "lng": -97.4923,
+    "cafes": []
+  },
+  "Porum": {
+    "city": "Porum",
+    "city_ascii": "Porum",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3571,
+    "lng": -95.2637,
+    "cafes": []
+  },
+  "Wickliffe": {
+    "city": "Wickliffe",
+    "city_ascii": "Wickliffe",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.312,
+    "lng": -95.1074,
+    "cafes": []
+  },
+  "Valley Brook": {
+    "city": "Valley Brook",
+    "city_ascii": "Valley Brook",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4027,
+    "lng": -97.4814,
+    "cafes": []
+  },
+  "Ramona": {
+    "city": "Ramona",
+    "city_ascii": "Ramona",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5367,
+    "lng": -95.9264,
+    "cafes": []
+  },
+  "Flint Creek": {
+    "city": "Flint Creek",
+    "city_ascii": "Flint Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1765,
+    "lng": -94.7436,
+    "cafes": []
+  },
+  "Cherry Tree": {
+    "city": "Cherry Tree",
+    "city_ascii": "Cherry Tree",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7454,
+    "lng": -94.6428,
+    "cafes": []
+  },
+  "Kiowa": {
+    "city": "Kiowa",
+    "city_ascii": "Kiowa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.723,
+    "lng": -95.9025,
+    "cafes": []
+  },
+  "South Coffeyville": {
+    "city": "South Coffeyville",
+    "city_ascii": "South Coffeyville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9921,
+    "lng": -95.6219,
+    "cafes": []
+  },
+  "Adair": {
+    "city": "Adair",
+    "city_ascii": "Adair",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4365,
+    "lng": -95.2734,
+    "cafes": []
+  },
+  "Paoli": {
+    "city": "Paoli",
+    "city_ascii": "Paoli",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8265,
+    "lng": -97.2627,
+    "cafes": []
+  },
+  "Fairfield": {
+    "city": "Fairfield",
+    "city_ascii": "Fairfield",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8407,
+    "lng": -94.6061,
+    "cafes": []
+  },
+  "Ochelata": {
+    "city": "Ochelata",
+    "city_ascii": "Ochelata",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6021,
+    "lng": -95.9725,
+    "cafes": []
+  },
+  "Olustee": {
+    "city": "Olustee",
+    "city_ascii": "Olustee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.5477,
+    "lng": -99.4241,
+    "cafes": []
+  },
+  "Brent": {
+    "city": "Brent",
+    "city_ascii": "Brent",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.364,
+    "lng": -94.788,
+    "cafes": []
+  },
+  "Welch": {
+    "city": "Welch",
+    "city_ascii": "Welch",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8743,
+    "lng": -95.0946,
+    "cafes": []
+  },
+  "Langley": {
+    "city": "Langley",
+    "city_ascii": "Langley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4703,
+    "lng": -95.0527,
+    "cafes": []
+  },
+  "Haileyville": {
+    "city": "Haileyville",
+    "city_ascii": "Haileyville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8542,
+    "lng": -95.5784,
+    "cafes": []
+  },
+  "Remy": {
+    "city": "Remy",
+    "city_ascii": "Remy",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4578,
+    "lng": -94.4984,
+    "cafes": []
+  },
+  "Silo": {
+    "city": "Silo",
+    "city_ascii": "Silo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0356,
+    "lng": -96.4744,
+    "cafes": []
+  },
+  "Coyle": {
+    "city": "Coyle",
+    "city_ascii": "Coyle",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9568,
+    "lng": -97.2396,
+    "cafes": []
+  },
+  "Blair": {
+    "city": "Blair",
+    "city_ascii": "Blair",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7804,
+    "lng": -99.3332,
+    "cafes": []
+  },
+  "Corn": {
+    "city": "Corn",
+    "city_ascii": "Corn",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.379,
+    "lng": -98.7818,
+    "cafes": []
+  },
+  "Garber": {
+    "city": "Garber",
+    "city_ascii": "Garber",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4367,
+    "lng": -97.581,
+    "cafes": []
+  },
+  "Clayton": {
+    "city": "Clayton",
+    "city_ascii": "Clayton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.5856,
+    "lng": -95.3561,
+    "cafes": []
+  },
+  "Canute": {
+    "city": "Canute",
+    "city_ascii": "Canute",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4219,
+    "lng": -99.2781,
+    "cafes": []
+  },
+  "Velma": {
+    "city": "Velma",
+    "city_ascii": "Velma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4546,
+    "lng": -97.662,
+    "cafes": []
+  },
+  "Red Oak": {
+    "city": "Red Oak",
+    "city_ascii": "Red Oak",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9515,
+    "lng": -95.0791,
+    "cafes": []
+  },
+  "Nicut": {
+    "city": "Nicut",
+    "city_ascii": "Nicut",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5986,
+    "lng": -94.5626,
+    "cafes": []
+  },
+  "Fort Towson": {
+    "city": "Fort Towson",
+    "city_ascii": "Fort Towson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0243,
+    "lng": -95.2973,
+    "cafes": []
+  },
+  "Mountain View": {
+    "city": "Mountain View",
+    "city_ascii": "Mountain View",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0995,
+    "lng": -98.7497,
+    "cafes": []
+  },
+  "Lyons Switch": {
+    "city": "Lyons Switch",
+    "city_ascii": "Lyons Switch",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7744,
+    "lng": -94.7053,
+    "cafes": []
+  },
+  "Alex": {
+    "city": "Alex",
+    "city_ascii": "Alex",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9228,
+    "lng": -97.7763,
+    "cafes": []
+  },
+  "Earlsboro": {
+    "city": "Earlsboro",
+    "city_ascii": "Earlsboro",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3282,
+    "lng": -96.8016,
+    "cafes": []
+  },
+  "Porter": {
+    "city": "Porter",
+    "city_ascii": "Porter",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8684,
+    "lng": -95.5159,
+    "cafes": []
+  },
+  "Custer City": {
+    "city": "Custer City",
+    "city_ascii": "Custer City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6638,
+    "lng": -98.8869,
+    "cafes": []
+  },
+  "Vera": {
+    "city": "Vera",
+    "city_ascii": "Vera",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4552,
+    "lng": -95.9042,
+    "cafes": []
+  },
+  "Redbird Smith": {
+    "city": "Redbird Smith",
+    "city_ascii": "Redbird Smith",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5635,
+    "lng": -95.0252,
+    "cafes": []
+  },
+  "Rocky Mountain": {
+    "city": "Rocky Mountain",
+    "city_ascii": "Rocky Mountain",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.796,
+    "lng": -94.7718,
+    "cafes": []
+  },
+  "Billings": {
+    "city": "Billings",
+    "city_ascii": "Billings",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5316,
+    "lng": -97.4352,
+    "cafes": []
+  },
+  "Arnett": {
+    "city": "Arnett",
+    "city_ascii": "Arnett",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1345,
+    "lng": -99.7727,
+    "cafes": []
+  },
+  "Winchester": {
+    "city": "Winchester",
+    "city_ascii": "Winchester",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7906,
+    "lng": -95.9981,
+    "cafes": []
+  },
+  "Wright City": {
+    "city": "Wright City",
+    "city_ascii": "Wright City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0649,
+    "lng": -95.0074,
+    "cafes": []
+  },
+  "Cement": {
+    "city": "Cement",
+    "city_ascii": "Cement",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9363,
+    "lng": -98.1362,
+    "cafes": []
+  },
+  "Schulter": {
+    "city": "Schulter",
+    "city_ascii": "Schulter",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5113,
+    "lng": -95.9566,
+    "cafes": []
+  },
+  "Ravia": {
+    "city": "Ravia",
+    "city_ascii": "Ravia",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2411,
+    "lng": -96.7564,
+    "cafes": []
+  },
+  "Lahoma": {
+    "city": "Lahoma",
+    "city_ascii": "Lahoma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3874,
+    "lng": -98.0908,
+    "cafes": []
+  },
+  "Carney": {
+    "city": "Carney",
+    "city_ascii": "Carney",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8062,
+    "lng": -97.0155,
+    "cafes": []
+  },
+  "Evening Shade": {
+    "city": "Evening Shade",
+    "city_ascii": "Evening Shade",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6195,
+    "lng": -94.9104,
+    "cafes": []
+  },
+  "Tryon": {
+    "city": "Tryon",
+    "city_ascii": "Tryon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8805,
+    "lng": -96.9661,
+    "cafes": []
+  },
+  "Cedar Valley": {
+    "city": "Cedar Valley",
+    "city_ascii": "Cedar Valley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8694,
+    "lng": -97.5272,
+    "cafes": []
+  },
+  "Ketchum": {
+    "city": "Ketchum",
+    "city_ascii": "Ketchum",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5251,
+    "lng": -95.0341,
+    "cafes": []
+  },
+  "Ringwood": {
+    "city": "Ringwood",
+    "city_ascii": "Ringwood",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3823,
+    "lng": -98.2419,
+    "cafes": []
+  },
+  "Canton": {
+    "city": "Canton",
+    "city_ascii": "Canton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.055,
+    "lng": -98.5884,
+    "cafes": []
+  },
+  "Akins": {
+    "city": "Akins",
+    "city_ascii": "Akins",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5043,
+    "lng": -94.67,
+    "cafes": []
+  },
+  "Tushka": {
+    "city": "Tushka",
+    "city_ascii": "Tushka",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3186,
+    "lng": -96.1674,
+    "cafes": []
+  },
+  "Foyil": {
+    "city": "Foyil",
+    "city_ascii": "Foyil",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4306,
+    "lng": -95.5219,
+    "cafes": []
+  },
+  "Zeb": {
+    "city": "Zeb",
+    "city_ascii": "Zeb",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8066,
+    "lng": -95.0437,
+    "cafes": []
+  },
+  "Simms": {
+    "city": "Simms",
+    "city_ascii": "Simms",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3987,
+    "lng": -95.1647,
+    "cafes": []
+  },
+  "Bokchito": {
+    "city": "Bokchito",
+    "city_ascii": "Bokchito",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0196,
+    "lng": -96.1492,
+    "cafes": []
+  },
+  "Gage": {
+    "city": "Gage",
+    "city_ascii": "Gage",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3182,
+    "lng": -99.7575,
+    "cafes": []
+  },
+  "Leedey": {
+    "city": "Leedey",
+    "city_ascii": "Leedey",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8681,
+    "lng": -99.3449,
+    "cafes": []
+  },
+  "Whitefield": {
+    "city": "Whitefield",
+    "city_ascii": "Whitefield",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2545,
+    "lng": -95.2391,
+    "cafes": []
+  },
+  "Thackerville": {
+    "city": "Thackerville",
+    "city_ascii": "Thackerville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.7936,
+    "lng": -97.142,
+    "cafes": []
+  },
+  "Pin Oak Acres": {
+    "city": "Pin Oak Acres",
+    "city_ascii": "Pin Oak Acres",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1226,
+    "lng": -95.2889,
+    "cafes": []
+  },
+  "Savanna": {
+    "city": "Savanna",
+    "city_ascii": "Savanna",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8356,
+    "lng": -95.8355,
+    "cafes": []
+  },
+  "Sportsmen Acres": {
+    "city": "Sportsmen Acres",
+    "city_ascii": "Sportsmen Acres",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2458,
+    "lng": -95.2517,
+    "cafes": []
+  },
+  "Westport": {
+    "city": "Westport",
+    "city_ascii": "Westport",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1942,
+    "lng": -96.3362,
+    "cafes": []
+  },
+  "Asher": {
+    "city": "Asher",
+    "city_ascii": "Asher",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9884,
+    "lng": -96.9254,
+    "cafes": []
+  },
+  "Eakly": {
+    "city": "Eakly",
+    "city_ascii": "Eakly",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3055,
+    "lng": -98.556,
+    "cafes": []
+  },
+  "Fort Cobb": {
+    "city": "Fort Cobb",
+    "city_ascii": "Fort Cobb",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1042,
+    "lng": -98.4416,
+    "cafes": []
+  },
+  "Calumet": {
+    "city": "Calumet",
+    "city_ascii": "Calumet",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6014,
+    "lng": -98.1248,
+    "cafes": []
+  },
+  "Hammon": {
+    "city": "Hammon",
+    "city_ascii": "Hammon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6323,
+    "lng": -99.3832,
+    "cafes": []
+  },
+  "Shady Grove": {
+    "city": "Shady Grove",
+    "city_ascii": "Shady Grove",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9485,
+    "lng": -95.0952,
+    "cafes": []
+  },
+  "Bokoshe": {
+    "city": "Bokoshe",
+    "city_ascii": "Bokoshe",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1904,
+    "lng": -94.7903,
+    "cafes": []
+  },
+  "Hulbert": {
+    "city": "Hulbert",
+    "city_ascii": "Hulbert",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9316,
+    "lng": -95.1454,
+    "cafes": []
+  },
+  "Glencoe": {
+    "city": "Glencoe",
+    "city_ascii": "Glencoe",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2318,
+    "lng": -96.9313,
+    "cafes": []
+  },
+  "Titanic": {
+    "city": "Titanic",
+    "city_ascii": "Titanic",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8889,
+    "lng": -94.7434,
+    "cafes": []
+  },
+  "Okay": {
+    "city": "Okay",
+    "city_ascii": "Okay",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8545,
+    "lng": -95.3141,
+    "cafes": []
+  },
+  "Long": {
+    "city": "Long",
+    "city_ascii": "Long",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4993,
+    "lng": -94.547,
+    "cafes": []
+  },
+  "Wyandotte": {
+    "city": "Wyandotte",
+    "city_ascii": "Wyandotte",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8019,
+    "lng": -94.7244,
+    "cafes": []
+  },
+  "Carlisle": {
+    "city": "Carlisle",
+    "city_ascii": "Carlisle",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5042,
+    "lng": -95.0323,
+    "cafes": []
+  },
+  "Stringtown": {
+    "city": "Stringtown",
+    "city_ascii": "Stringtown",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4701,
+    "lng": -96.0549,
+    "cafes": []
+  },
+  "Lone Wolf": {
+    "city": "Lone Wolf",
+    "city_ascii": "Lone Wolf",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9904,
+    "lng": -99.2456,
+    "cafes": []
+  },
+  "Binger": {
+    "city": "Binger",
+    "city_ascii": "Binger",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3097,
+    "lng": -98.343,
+    "cafes": []
+  },
+  "Chewey": {
+    "city": "Chewey",
+    "city_ascii": "Chewey",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.121,
+    "lng": -94.7492,
+    "cafes": []
+  },
+  "Katie": {
+    "city": "Katie",
+    "city_ascii": "Katie",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.5832,
+    "lng": -97.3389,
+    "cafes": []
+  },
+  "Verden": {
+    "city": "Verden",
+    "city_ascii": "Verden",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0833,
+    "lng": -98.0863,
+    "cafes": []
+  },
+  "Turpin": {
+    "city": "Turpin",
+    "city_ascii": "Turpin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8705,
+    "lng": -100.8825,
+    "cafes": []
+  },
+  "Eagletown": {
+    "city": "Eagletown",
+    "city_ascii": "Eagletown",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0417,
+    "lng": -94.57,
+    "cafes": []
+  },
+  "Old Green": {
+    "city": "Old Green",
+    "city_ascii": "Old Green",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9844,
+    "lng": -94.6039,
+    "cafes": []
+  },
+  "Drummond": {
+    "city": "Drummond",
+    "city_ascii": "Drummond",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3018,
+    "lng": -98.0357,
+    "cafes": []
+  },
+  "Stonewall": {
+    "city": "Stonewall",
+    "city_ascii": "Stonewall",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6499,
+    "lng": -96.5268,
+    "cafes": []
+  },
+  "Keota": {
+    "city": "Keota",
+    "city_ascii": "Keota",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2569,
+    "lng": -94.9226,
+    "cafes": []
+  },
+  "Sawyer": {
+    "city": "Sawyer",
+    "city_ascii": "Sawyer",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0206,
+    "lng": -95.378,
+    "cafes": []
+  },
+  "Eldon": {
+    "city": "Eldon",
+    "city_ascii": "Eldon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9305,
+    "lng": -94.8179,
+    "cafes": []
+  },
+  "Caney": {
+    "city": "Caney",
+    "city_ascii": "Caney",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2357,
+    "lng": -96.2173,
+    "cafes": []
+  },
+  "Paden": {
+    "city": "Paden",
+    "city_ascii": "Paden",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.508,
+    "lng": -96.5674,
+    "cafes": []
+  },
+  "Spavinaw": {
+    "city": "Spavinaw",
+    "city_ascii": "Spavinaw",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3937,
+    "lng": -95.0502,
+    "cafes": []
+  },
+  "Mead": {
+    "city": "Mead",
+    "city_ascii": "Mead",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9979,
+    "lng": -96.5187,
+    "cafes": []
+  },
+  "Tribbey": {
+    "city": "Tribbey",
+    "city_ascii": "Tribbey",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1006,
+    "lng": -97.0957,
+    "cafes": []
+  },
+  "McCurtain": {
+    "city": "McCurtain",
+    "city_ascii": "McCurtain",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1509,
+    "lng": -94.9669,
+    "cafes": []
+  },
+  "Achille": {
+    "city": "Achille",
+    "city_ascii": "Achille",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.8346,
+    "lng": -96.3901,
+    "cafes": []
+  },
+  "Bell": {
+    "city": "Bell",
+    "city_ascii": "Bell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7366,
+    "lng": -94.5677,
+    "cafes": []
+  },
+  "Wapanucka": {
+    "city": "Wapanucka",
+    "city_ascii": "Wapanucka",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3736,
+    "lng": -96.4255,
+    "cafes": []
+  },
+  "Chattanooga": {
+    "city": "Chattanooga",
+    "city_ascii": "Chattanooga",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4238,
+    "lng": -98.654,
+    "cafes": []
+  },
+  "Eldorado": {
+    "city": "Eldorado",
+    "city_ascii": "Eldorado",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.473,
+    "lng": -99.6496,
+    "cafes": []
+  },
+  "Dustin": {
+    "city": "Dustin",
+    "city_ascii": "Dustin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2714,
+    "lng": -96.0281,
+    "cafes": []
+  },
+  "Amber": {
+    "city": "Amber",
+    "city_ascii": "Amber",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1602,
+    "lng": -97.882,
+    "cafes": []
+  },
+  "White Eagle": {
+    "city": "White Eagle",
+    "city_ascii": "White Eagle",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6268,
+    "lng": -97.0812,
+    "cafes": []
+  },
+  "Depew": {
+    "city": "Depew",
+    "city_ascii": "Depew",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7969,
+    "lng": -96.5302,
+    "cafes": []
+  },
+  "Hardesty": {
+    "city": "Hardesty",
+    "city_ascii": "Hardesty",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6148,
+    "lng": -101.1936,
+    "cafes": []
+  },
+  "Fanshawe": {
+    "city": "Fanshawe",
+    "city_ascii": "Fanshawe",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9738,
+    "lng": -94.8543,
+    "cafes": []
+  },
+  "Bernice": {
+    "city": "Bernice",
+    "city_ascii": "Bernice",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6217,
+    "lng": -94.9118,
+    "cafes": []
+  },
+  "Cedar Lake": {
+    "city": "Cedar Lake",
+    "city_ascii": "Cedar Lake",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4276,
+    "lng": -98.193,
+    "cafes": []
+  },
+  "Carmen": {
+    "city": "Carmen",
+    "city_ascii": "Carmen",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5791,
+    "lng": -98.4579,
+    "cafes": []
+  },
+  "Wauhillau": {
+    "city": "Wauhillau",
+    "city_ascii": "Wauhillau",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8643,
+    "lng": -94.7605,
+    "cafes": []
+  },
+  "Calvin": {
+    "city": "Calvin",
+    "city_ascii": "Calvin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9662,
+    "lng": -96.2496,
+    "cafes": []
+  },
+  "Shidler": {
+    "city": "Shidler",
+    "city_ascii": "Shidler",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7806,
+    "lng": -96.6599,
+    "cafes": []
+  },
+  "Steely Hollow": {
+    "city": "Steely Hollow",
+    "city_ascii": "Steely Hollow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9877,
+    "lng": -94.9456,
+    "cafes": []
+  },
+  "Bowlegs": {
+    "city": "Bowlegs",
+    "city_ascii": "Bowlegs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1473,
+    "lng": -96.6693,
+    "cafes": []
+  },
+  "Jennings": {
+    "city": "Jennings",
+    "city_ascii": "Jennings",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1823,
+    "lng": -96.5692,
+    "cafes": []
+  },
+  "Tupelo": {
+    "city": "Tupelo",
+    "city_ascii": "Tupelo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6027,
+    "lng": -96.4208,
+    "cafes": []
+  },
+  "Prue": {
+    "city": "Prue",
+    "city_ascii": "Prue",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2494,
+    "lng": -96.2665,
+    "cafes": []
+  },
+  "Crowder": {
+    "city": "Crowder",
+    "city_ascii": "Crowder",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1158,
+    "lng": -95.6783,
+    "cafes": []
+  },
+  "Sand Hill": {
+    "city": "Sand Hill",
+    "city_ascii": "Sand Hill",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6343,
+    "lng": -95.2012,
+    "cafes": []
+  },
+  "Cleo Springs": {
+    "city": "Cleo Springs",
+    "city_ascii": "Cleo Springs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4046,
+    "lng": -98.4401,
+    "cafes": []
+  },
+  "Mountain Park": {
+    "city": "Mountain Park",
+    "city_ascii": "Mountain Park",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6988,
+    "lng": -98.9524,
+    "cafes": []
+  },
+  "Ralston": {
+    "city": "Ralston",
+    "city_ascii": "Ralston",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5035,
+    "lng": -96.7373,
+    "cafes": []
+  },
+  "Medicine Park": {
+    "city": "Medicine Park",
+    "city_ascii": "Medicine Park",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7287,
+    "lng": -98.4782,
+    "cafes": []
+  },
+  "Webbers Falls": {
+    "city": "Webbers Falls",
+    "city_ascii": "Webbers Falls",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5105,
+    "lng": -95.1601,
+    "cafes": []
+  },
+  "Gans": {
+    "city": "Gans",
+    "city_ascii": "Gans",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3874,
+    "lng": -94.6946,
+    "cafes": []
+  },
+  "Covington": {
+    "city": "Covington",
+    "city_ascii": "Covington",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3075,
+    "lng": -97.5865,
+    "cafes": []
+  },
+  "Gracemont": {
+    "city": "Gracemont",
+    "city_ascii": "Gracemont",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1879,
+    "lng": -98.2591,
+    "cafes": []
+  },
+  "East Duke": {
+    "city": "East Duke",
+    "city_ascii": "East Duke",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6628,
+    "lng": -99.5696,
+    "cafes": []
+  },
+  "Arpelar": {
+    "city": "Arpelar",
+    "city_ascii": "Arpelar",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9356,
+    "lng": -95.9589,
+    "cafes": []
+  },
+  "Dover": {
+    "city": "Dover",
+    "city_ascii": "Dover",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9816,
+    "lng": -97.9108,
+    "cafes": []
+  },
+  "Agra": {
+    "city": "Agra",
+    "city_ascii": "Agra",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.895,
+    "lng": -96.8703,
+    "cafes": []
+  },
+  "Dill City": {
+    "city": "Dill City",
+    "city_ascii": "Dill City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2816,
+    "lng": -99.1336,
+    "cafes": []
+  },
+  "Fargo": {
+    "city": "Fargo",
+    "city_ascii": "Fargo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3743,
+    "lng": -99.6221,
+    "cafes": []
+  },
+  "Little Ponderosa": {
+    "city": "Little Ponderosa",
+    "city_ascii": "Little Ponderosa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9612,
+    "lng": -100.8782,
+    "cafes": []
+  },
+  "Tonkawa Tribal Housing": {
+    "city": "Tonkawa Tribal Housing",
+    "city_ascii": "Tonkawa Tribal Housing",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6697,
+    "lng": -97.2662,
+    "cafes": []
+  },
+  "Lane": {
+    "city": "Lane",
+    "city_ascii": "Lane",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2997,
+    "lng": -95.9894,
+    "cafes": []
+  },
+  "Taloga": {
+    "city": "Taloga",
+    "city_ascii": "Taloga",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0402,
+    "lng": -98.964,
+    "cafes": []
+  },
+  "Bennington": {
+    "city": "Bennington",
+    "city_ascii": "Bennington",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0038,
+    "lng": -96.0376,
+    "cafes": []
+  },
+  "Forgan": {
+    "city": "Forgan",
+    "city_ascii": "Forgan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.907,
+    "lng": -100.5381,
+    "cafes": []
+  },
+  "Kaw City": {
+    "city": "Kaw City",
+    "city_ascii": "Kaw City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7675,
+    "lng": -96.8602,
+    "cafes": []
+  },
+  "Barber": {
+    "city": "Barber",
+    "city_ascii": "Barber",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7562,
+    "lng": -94.8414,
+    "cafes": []
+  },
+  "Cameron": {
+    "city": "Cameron",
+    "city_ascii": "Cameron",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1374,
+    "lng": -94.5393,
+    "cafes": []
+  },
+  "Coleman": {
+    "city": "Coleman",
+    "city_ascii": "Coleman",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2635,
+    "lng": -96.4194,
+    "cafes": []
+  },
+  "Baron": {
+    "city": "Baron",
+    "city_ascii": "Baron",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9308,
+    "lng": -94.6089,
+    "cafes": []
+  },
+  "Marland": {
+    "city": "Marland",
+    "city_ascii": "Marland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5611,
+    "lng": -97.1529,
+    "cafes": []
+  },
+  "Leach": {
+    "city": "Leach",
+    "city_ascii": "Leach",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1979,
+    "lng": -94.9099,
+    "cafes": []
+  },
+  "Talala": {
+    "city": "Talala",
+    "city_ascii": "Talala",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5295,
+    "lng": -95.7011,
+    "cafes": []
+  },
+  "Fort Supply": {
+    "city": "Fort Supply",
+    "city_ascii": "Fort Supply",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5721,
+    "lng": -99.5735,
+    "cafes": []
+  },
+  "Delaware": {
+    "city": "Delaware",
+    "city_ascii": "Delaware",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.779,
+    "lng": -95.6425,
+    "cafes": []
+  },
+  "Rattan": {
+    "city": "Rattan",
+    "city_ascii": "Rattan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2005,
+    "lng": -95.4131,
+    "cafes": []
+  },
+  "Snake Creek": {
+    "city": "Snake Creek",
+    "city_ascii": "Snake Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1786,
+    "lng": -95.0937,
+    "cafes": []
+  },
+  "Fort Coffee": {
+    "city": "Fort Coffee",
+    "city_ascii": "Fort Coffee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2942,
+    "lng": -94.5731,
+    "cafes": []
+  },
+  "Lowrey": {
+    "city": "Lowrey",
+    "city_ascii": "Lowrey",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0974,
+    "lng": -94.9291,
+    "cafes": []
+  },
+  "Mallard Bay": {
+    "city": "Mallard Bay",
+    "city_ascii": "Mallard Bay",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8623,
+    "lng": -95.2638,
+    "cafes": []
+  },
+  "Randlett": {
+    "city": "Randlett",
+    "city_ascii": "Randlett",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1773,
+    "lng": -98.4639,
+    "cafes": []
+  },
+  "Notchietown": {
+    "city": "Notchietown",
+    "city_ascii": "Notchietown",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5857,
+    "lng": -95.0901,
+    "cafes": []
+  },
+  "Goltry": {
+    "city": "Goltry",
+    "city_ascii": "Goltry",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5319,
+    "lng": -98.151,
+    "cafes": []
+  },
+  "Marshall": {
+    "city": "Marshall",
+    "city_ascii": "Marshall",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1502,
+    "lng": -97.6234,
+    "cafes": []
+  },
+  "Wynona": {
+    "city": "Wynona",
+    "city_ascii": "Wynona",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5458,
+    "lng": -96.3264,
+    "cafes": []
+  },
+  "Chance": {
+    "city": "Chance",
+    "city_ascii": "Chance",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0607,
+    "lng": -94.6478,
+    "cafes": []
+  },
+  "Wakita": {
+    "city": "Wakita",
+    "city_ascii": "Wakita",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8819,
+    "lng": -97.9241,
+    "cafes": []
+  },
+  "Oaks": {
+    "city": "Oaks",
+    "city_ascii": "Oaks",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1698,
+    "lng": -94.8529,
+    "cafes": []
+  },
+  "Milburn": {
+    "city": "Milburn",
+    "city_ascii": "Milburn",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.24,
+    "lng": -96.552,
+    "cafes": []
+  },
+  "Tenkiller": {
+    "city": "Tenkiller",
+    "city_ascii": "Tenkiller",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7935,
+    "lng": -94.8537,
+    "cafes": []
+  },
+  "Mulhall": {
+    "city": "Mulhall",
+    "city_ascii": "Mulhall",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0913,
+    "lng": -97.361,
+    "cafes": []
+  },
+  "North Miami": {
+    "city": "North Miami",
+    "city_ascii": "North Miami",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9202,
+    "lng": -94.8797,
+    "cafes": []
+  },
+  "Bessie": {
+    "city": "Bessie",
+    "city_ascii": "Bessie",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3854,
+    "lng": -98.9892,
+    "cafes": []
+  },
+  "Indiahoma": {
+    "city": "Indiahoma",
+    "city_ascii": "Indiahoma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6197,
+    "lng": -98.7522,
+    "cafes": []
+  },
+  "Lenapah": {
+    "city": "Lenapah",
+    "city_ascii": "Lenapah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8514,
+    "lng": -95.6357,
+    "cafes": []
+  },
+  "Bluejacket": {
+    "city": "Bluejacket",
+    "city_ascii": "Bluejacket",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8003,
+    "lng": -95.074,
+    "cafes": []
+  },
+  "Terral": {
+    "city": "Terral",
+    "city_ascii": "Terral",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.8966,
+    "lng": -97.9383,
+    "cafes": []
+  },
+  "Zena": {
+    "city": "Zena",
+    "city_ascii": "Zena",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5084,
+    "lng": -94.8481,
+    "cafes": []
+  },
+  "Ripley": {
+    "city": "Ripley",
+    "city_ascii": "Ripley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0158,
+    "lng": -96.9039,
+    "cafes": []
+  },
+  "Kremlin": {
+    "city": "Kremlin",
+    "city_ascii": "Kremlin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5467,
+    "lng": -97.8321,
+    "cafes": []
+  },
+  "Cromwell": {
+    "city": "Cromwell",
+    "city_ascii": "Cromwell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3525,
+    "lng": -96.4557,
+    "cafes": []
+  },
+  "Canadian Shores": {
+    "city": "Canadian Shores",
+    "city_ascii": "Canadian Shores",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1743,
+    "lng": -95.7425,
+    "cafes": []
+  },
+  "Haworth": {
+    "city": "Haworth",
+    "city_ascii": "Haworth",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.8405,
+    "lng": -94.6571,
+    "cafes": []
+  },
+  "Bug Tussle": {
+    "city": "Bug Tussle",
+    "city_ascii": "Bug Tussle",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0293,
+    "lng": -95.6836,
+    "cafes": []
+  },
+  "Peavine": {
+    "city": "Peavine",
+    "city_ascii": "Peavine",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8903,
+    "lng": -94.6064,
+    "cafes": []
+  },
+  "Francis": {
+    "city": "Francis",
+    "city_ascii": "Francis",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8745,
+    "lng": -96.5926,
+    "cafes": []
+  },
+  "Kinta": {
+    "city": "Kinta",
+    "city_ascii": "Kinta",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1194,
+    "lng": -95.2378,
+    "cafes": []
+  },
+  "Lamont": {
+    "city": "Lamont",
+    "city_ascii": "Lamont",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6911,
+    "lng": -97.5583,
+    "cafes": []
+  },
+  "Grand Lake Towne": {
+    "city": "Grand Lake Towne",
+    "city_ascii": "Grand Lake Towne",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5048,
+    "lng": -95.0252,
+    "cafes": []
+  },
+  "Sycamore": {
+    "city": "Sycamore",
+    "city_ascii": "Sycamore",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.399,
+    "lng": -94.7149,
+    "cafes": []
+  },
+  "Mill Creek": {
+    "city": "Mill Creek",
+    "city_ascii": "Mill Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4022,
+    "lng": -96.8249,
+    "cafes": []
+  },
+  "New Eucha": {
+    "city": "New Eucha",
+    "city_ascii": "New Eucha",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3912,
+    "lng": -94.8522,
+    "cafes": []
+  },
+  "Ballou": {
+    "city": "Ballou",
+    "city_ascii": "Ballou",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1421,
+    "lng": -95.1998,
+    "cafes": []
+  },
+  "White Oak": {
+    "city": "White Oak",
+    "city_ascii": "White Oak",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6098,
+    "lng": -95.2762,
+    "cafes": []
+  },
+  "Dougherty": {
+    "city": "Dougherty",
+    "city_ascii": "Dougherty",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4005,
+    "lng": -97.0514,
+    "cafes": []
+  },
+  "Avant": {
+    "city": "Avant",
+    "city_ascii": "Avant",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4888,
+    "lng": -96.045,
+    "cafes": []
+  },
+  "Canadian": {
+    "city": "Canadian",
+    "city_ascii": "Canadian",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.174,
+    "lng": -95.6494,
+    "cafes": []
+  },
+  "Rocky": {
+    "city": "Rocky",
+    "city_ascii": "Rocky",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1562,
+    "lng": -99.0597,
+    "cafes": []
+  },
+  "Lebanon": {
+    "city": "Lebanon",
+    "city_ascii": "Lebanon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9737,
+    "lng": -96.9177,
+    "cafes": []
+  },
+  "Oktaha": {
+    "city": "Oktaha",
+    "city_ascii": "Oktaha",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5775,
+    "lng": -95.4779,
+    "cafes": []
+  },
+  "Middleberg": {
+    "city": "Middleberg",
+    "city_ascii": "Middleberg",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1067,
+    "lng": -97.7341,
+    "cafes": []
+  },
+  "Proctor": {
+    "city": "Proctor",
+    "city_ascii": "Proctor",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9823,
+    "lng": -94.7481,
+    "cafes": []
+  },
+  "Butler": {
+    "city": "Butler",
+    "city_ascii": "Butler",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6365,
+    "lng": -99.1861,
+    "cafes": []
+  },
+  "Alderson": {
+    "city": "Alderson",
+    "city_ascii": "Alderson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9006,
+    "lng": -95.6896,
+    "cafes": []
+  },
+  "Gotebo": {
+    "city": "Gotebo",
+    "city_ascii": "Gotebo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0712,
+    "lng": -98.8743,
+    "cafes": []
+  },
+  "Wanette": {
+    "city": "Wanette",
+    "city_ascii": "Wanette",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9626,
+    "lng": -97.0317,
+    "cafes": []
+  },
+  "Foster": {
+    "city": "Foster",
+    "city_ascii": "Foster",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6046,
+    "lng": -97.4907,
+    "cafes": []
+  },
+  "Hochatown": {
+    "city": "Hochatown",
+    "city_ascii": "Hochatown",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1482,
+    "lng": -94.7465,
+    "cafes": []
+  },
+  "Dale": {
+    "city": "Dale",
+    "city_ascii": "Dale",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3842,
+    "lng": -97.0434,
+    "cafes": []
+  },
+  "Optima": {
+    "city": "Optima",
+    "city_ascii": "Optima",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7613,
+    "lng": -101.3491,
+    "cafes": []
+  },
+  "Manitou": {
+    "city": "Manitou",
+    "city_ascii": "Manitou",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.5072,
+    "lng": -98.9812,
+    "cafes": []
+  },
+  "Rocky Ford": {
+    "city": "Rocky Ford",
+    "city_ascii": "Rocky Ford",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1558,
+    "lng": -94.911,
+    "cafes": []
+  },
+  "Lehigh": {
+    "city": "Lehigh",
+    "city_ascii": "Lehigh",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4707,
+    "lng": -96.2208,
+    "cafes": []
+  },
+  "Gene Autry": {
+    "city": "Gene Autry",
+    "city_ascii": "Gene Autry",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3151,
+    "lng": -97.0383,
+    "cafes": []
+  },
+  "Byars": {
+    "city": "Byars",
+    "city_ascii": "Byars",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8724,
+    "lng": -97.0542,
+    "cafes": []
+  },
+  "Crescent Springs": {
+    "city": "Crescent Springs",
+    "city_ascii": "Crescent Springs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8968,
+    "lng": -97.6028,
+    "cafes": []
+  },
+  "Roosevelt": {
+    "city": "Roosevelt",
+    "city_ascii": "Roosevelt",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8483,
+    "lng": -99.0223,
+    "cafes": []
+  },
+  "Greasy": {
+    "city": "Greasy",
+    "city_ascii": "Greasy",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6698,
+    "lng": -94.7003,
+    "cafes": []
+  },
+  "River Bottom": {
+    "city": "River Bottom",
+    "city_ascii": "River Bottom",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6357,
+    "lng": -95.2378,
+    "cafes": []
+  },
+  "Twin Oaks": {
+    "city": "Twin Oaks",
+    "city_ascii": "Twin Oaks",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1974,
+    "lng": -94.8378,
+    "cafes": []
+  },
+  "Braggs": {
+    "city": "Braggs",
+    "city_ascii": "Braggs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6634,
+    "lng": -95.1984,
+    "cafes": []
+  },
+  "Cedar Crest": {
+    "city": "Cedar Crest",
+    "city_ascii": "Cedar Crest",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1232,
+    "lng": -95.1732,
+    "cafes": []
+  },
+  "Soper": {
+    "city": "Soper",
+    "city_ascii": "Soper",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0321,
+    "lng": -95.6965,
+    "cafes": []
+  },
+  "Honey Hill": {
+    "city": "Honey Hill",
+    "city_ascii": "Honey Hill",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7694,
+    "lng": -94.5716,
+    "cafes": []
+  },
+  "Jet": {
+    "city": "Jet",
+    "city_ascii": "Jet",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6665,
+    "lng": -98.1815,
+    "cafes": []
+  },
+  "Dry Creek": {
+    "city": "Dry Creek",
+    "city_ascii": "Dry Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7275,
+    "lng": -94.8704,
+    "cafes": []
+  },
+  "Millerton": {
+    "city": "Millerton",
+    "city_ascii": "Millerton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9857,
+    "lng": -95.0196,
+    "cafes": []
+  },
+  "Dennis": {
+    "city": "Dennis",
+    "city_ascii": "Dennis",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5433,
+    "lng": -94.8693,
+    "cafes": []
+  },
+  "Tamaha": {
+    "city": "Tamaha",
+    "city_ascii": "Tamaha",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4057,
+    "lng": -95.0178,
+    "cafes": []
+  },
+  "Fitzhugh": {
+    "city": "Fitzhugh",
+    "city_ascii": "Fitzhugh",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6582,
+    "lng": -96.7665,
+    "cafes": []
+  },
+  "Burlington": {
+    "city": "Burlington",
+    "city_ascii": "Burlington",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9001,
+    "lng": -98.4235,
+    "cafes": []
+  },
+  "Ames": {
+    "city": "Ames",
+    "city_ascii": "Ames",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.247,
+    "lng": -98.1861,
+    "cafes": []
+  },
+  "Red Rock": {
+    "city": "Red Rock",
+    "city_ascii": "Red Rock",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4601,
+    "lng": -97.1796,
+    "cafes": []
+  },
+  "Liberty": {
+    "city": "Liberty",
+    "city_ascii": "Liberty",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4656,
+    "lng": -94.5442,
+    "cafes": []
+  },
+  "Sand Point": {
+    "city": "Sand Point",
+    "city_ascii": "Sand Point",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9651,
+    "lng": -96.5639,
+    "cafes": []
+  },
+  "Stoney Point": {
+    "city": "Stoney Point",
+    "city_ascii": "Stoney Point",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5847,
+    "lng": -94.6635,
+    "cafes": []
+  },
+  "Watts": {
+    "city": "Watts",
+    "city_ascii": "Watts",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1073,
+    "lng": -94.5718,
+    "cafes": []
+  },
+  "Meno": {
+    "city": "Meno",
+    "city_ascii": "Meno",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3882,
+    "lng": -98.1779,
+    "cafes": []
+  },
+  "Cloud Creek": {
+    "city": "Cloud Creek",
+    "city_ascii": "Cloud Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2938,
+    "lng": -94.7543,
+    "cafes": []
+  },
+  "Belfonte": {
+    "city": "Belfonte",
+    "city_ascii": "Belfonte",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5368,
+    "lng": -94.5507,
+    "cafes": []
+  },
+  "Grant": {
+    "city": "Grant",
+    "city_ascii": "Grant",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9387,
+    "lng": -95.5156,
+    "cafes": []
+  },
+  "Leonard": {
+    "city": "Leonard",
+    "city_ascii": "Leonard",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9228,
+    "lng": -95.801,
+    "cafes": []
+  },
+  "Carter": {
+    "city": "Carter",
+    "city_ascii": "Carter",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.217,
+    "lng": -99.5036,
+    "cafes": []
+  },
+  "Preston": {
+    "city": "Preston",
+    "city_ascii": "Preston",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7113,
+    "lng": -95.9888,
+    "cafes": []
+  },
+  "Stuart": {
+    "city": "Stuart",
+    "city_ascii": "Stuart",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.901,
+    "lng": -96.0994,
+    "cafes": []
+  },
+  "Dotyville": {
+    "city": "Dotyville",
+    "city_ascii": "Dotyville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8515,
+    "lng": -94.9098,
+    "cafes": []
+  },
+  "Cayuga": {
+    "city": "Cayuga",
+    "city_ascii": "Cayuga",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6252,
+    "lng": -94.6542,
+    "cafes": []
+  },
+  "Gregory": {
+    "city": "Gregory",
+    "city_ascii": "Gregory",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1697,
+    "lng": -95.5741,
+    "cafes": []
+  },
+  "Bee": {
+    "city": "Bee",
+    "city_ascii": "Bee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.125,
+    "lng": -96.5687,
+    "cafes": []
+  },
+  "Whitesboro": {
+    "city": "Whitesboro",
+    "city_ascii": "Whitesboro",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6963,
+    "lng": -94.8789,
+    "cafes": []
+  },
+  "Camargo": {
+    "city": "Camargo",
+    "city_ascii": "Camargo",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0179,
+    "lng": -99.2885,
+    "cafes": []
+  },
+  "Warwick": {
+    "city": "Warwick",
+    "city_ascii": "Warwick",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6881,
+    "lng": -97.0018,
+    "cafes": []
+  },
+  "Disney": {
+    "city": "Disney",
+    "city_ascii": "Disney",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4769,
+    "lng": -95.0195,
+    "cafes": []
+  },
+  "Murphy": {
+    "city": "Murphy",
+    "city_ascii": "Murphy",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1341,
+    "lng": -95.2414,
+    "cafes": []
+  },
+  "Kemp": {
+    "city": "Kemp",
+    "city_ascii": "Kemp",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.7696,
+    "lng": -96.3542,
+    "cafes": []
+  },
+  "Woodlawn Park": {
+    "city": "Woodlawn Park",
+    "city_ascii": "Woodlawn Park",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5096,
+    "lng": -97.6499,
+    "cafes": []
+  },
+  "Lake Ellsworth Addition": {
+    "city": "Lake Ellsworth Addition",
+    "city_ascii": "Lake Ellsworth Addition",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8368,
+    "lng": -98.3213,
+    "cafes": []
+  },
+  "Clarita": {
+    "city": "Clarita",
+    "city_ascii": "Clarita",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4825,
+    "lng": -96.4367,
+    "cafes": []
+  },
+  "Haywood": {
+    "city": "Haywood",
+    "city_ascii": "Haywood",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8919,
+    "lng": -95.9518,
+    "cafes": []
+  },
+  "Christie": {
+    "city": "Christie",
+    "city_ascii": "Christie",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9709,
+    "lng": -94.6542,
+    "cafes": []
+  },
+  "Aline": {
+    "city": "Aline",
+    "city_ascii": "Aline",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5097,
+    "lng": -98.4485,
+    "cafes": []
+  },
+  "Dixon": {
+    "city": "Dixon",
+    "city_ascii": "Dixon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.161,
+    "lng": -96.5184,
+    "cafes": []
+  },
+  "Castle": {
+    "city": "Castle",
+    "city_ascii": "Castle",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4717,
+    "lng": -96.3921,
+    "cafes": []
+  },
+  "Cimarron City": {
+    "city": "Cimarron City",
+    "city_ascii": "Cimarron City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8887,
+    "lng": -97.6023,
+    "cafes": []
+  },
+  "Lamar": {
+    "city": "Lamar",
+    "city_ascii": "Lamar",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0942,
+    "lng": -96.1241,
+    "cafes": []
+  },
+  "Adams": {
+    "city": "Adams",
+    "city_ascii": "Adams",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7546,
+    "lng": -101.0752,
+    "cafes": []
+  },
+  "Sportmans Shores": {
+    "city": "Sportmans Shores",
+    "city_ascii": "Sportmans Shores",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4645,
+    "lng": -95.083,
+    "cafes": []
+  },
+  "Gideon": {
+    "city": "Gideon",
+    "city_ascii": "Gideon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9972,
+    "lng": -95.028,
+    "cafes": []
+  },
+  "Hanson": {
+    "city": "Hanson",
+    "city_ascii": "Hanson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4376,
+    "lng": -94.6958,
+    "cafes": []
+  },
+  "Marble City": {
+    "city": "Marble City",
+    "city_ascii": "Marble City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5823,
+    "lng": -94.8186,
+    "cafes": []
+  },
+  "Little Rock": {
+    "city": "Little Rock",
+    "city_ascii": "Little Rock",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.217,
+    "lng": -95.0926,
+    "cafes": []
+  },
+  "Davidson": {
+    "city": "Davidson",
+    "city_ascii": "Davidson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2418,
+    "lng": -99.0783,
+    "cafes": []
+  },
+  "Pocasset": {
+    "city": "Pocasset",
+    "city_ascii": "Pocasset",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.178,
+    "lng": -97.9592,
+    "cafes": []
+  },
+  "Big Cabin": {
+    "city": "Big Cabin",
+    "city_ascii": "Big Cabin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5423,
+    "lng": -95.222,
+    "cafes": []
+  },
+  "Rose": {
+    "city": "Rose",
+    "city_ascii": "Rose",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2123,
+    "lng": -95.0381,
+    "cafes": []
+  },
+  "Indianola": {
+    "city": "Indianola",
+    "city_ascii": "Indianola",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1637,
+    "lng": -95.7761,
+    "cafes": []
+  },
+  "Welty": {
+    "city": "Welty",
+    "city_ascii": "Welty",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6257,
+    "lng": -96.4195,
+    "cafes": []
+  },
+  "Devol": {
+    "city": "Devol",
+    "city_ascii": "Devol",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1954,
+    "lng": -98.5882,
+    "cafes": []
+  },
+  "Colony": {
+    "city": "Colony",
+    "city_ascii": "Colony",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3486,
+    "lng": -98.6715,
+    "cafes": []
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9945,
+    "lng": -98.0351,
+    "cafes": []
+  },
+  "Kenefic": {
+    "city": "Kenefic",
+    "city_ascii": "Kenefic",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.15,
+    "lng": -96.3644,
+    "cafes": []
+  },
+  "Tatums": {
+    "city": "Tatums",
+    "city_ascii": "Tatums",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4779,
+    "lng": -97.466,
+    "cafes": []
+  },
+  "Le Flore": {
+    "city": "Le Flore",
+    "city_ascii": "Le Flore",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8981,
+    "lng": -94.9772,
+    "cafes": []
+  },
+  "Norge": {
+    "city": "Norge",
+    "city_ascii": "Norge",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9888,
+    "lng": -97.9941,
+    "cafes": []
+  },
+  "Hunter": {
+    "city": "Hunter",
+    "city_ascii": "Hunter",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.564,
+    "lng": -97.6625,
+    "cafes": []
+  },
+  "Breckenridge": {
+    "city": "Breckenridge",
+    "city_ascii": "Breckenridge",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4621,
+    "lng": -97.7274,
+    "cafes": []
+  },
+  "Grayson": {
+    "city": "Grayson",
+    "city_ascii": "Grayson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5054,
+    "lng": -95.8716,
+    "cafes": []
+  },
+  "Albany": {
+    "city": "Albany",
+    "city_ascii": "Albany",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.8769,
+    "lng": -96.16,
+    "cafes": []
+  },
+  "Sparks": {
+    "city": "Sparks",
+    "city_ascii": "Sparks",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6113,
+    "lng": -96.8191,
+    "cafes": []
+  },
+  "Greenfield": {
+    "city": "Greenfield",
+    "city_ascii": "Greenfield",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.729,
+    "lng": -98.3775,
+    "cafes": []
+  },
+  "Garvin": {
+    "city": "Garvin",
+    "city_ascii": "Garvin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9561,
+    "lng": -94.9357,
+    "cafes": []
+  },
+  "Reydon": {
+    "city": "Reydon",
+    "city_ascii": "Reydon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6499,
+    "lng": -99.9236,
+    "cafes": []
+  },
+  "Willow": {
+    "city": "Willow",
+    "city_ascii": "Willow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0515,
+    "lng": -99.5098,
+    "cafes": []
+  },
+  "Braman": {
+    "city": "Braman",
+    "city_ascii": "Braman",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9236,
+    "lng": -97.3358,
+    "cafes": []
+  },
+  "Foss": {
+    "city": "Foss",
+    "city_ascii": "Foss",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.45,
+    "lng": -99.1707,
+    "cafes": []
+  },
+  "Teresita": {
+    "city": "Teresita",
+    "city_ascii": "Teresita",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.123,
+    "lng": -94.9803,
+    "cafes": []
+  },
+  "Slick": {
+    "city": "Slick",
+    "city_ascii": "Slick",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7799,
+    "lng": -96.28,
+    "cafes": []
+  },
+  "Bearden": {
+    "city": "Bearden",
+    "city_ascii": "Bearden",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3569,
+    "lng": -96.3851,
+    "cafes": []
+  },
+  "Hickory": {
+    "city": "Hickory",
+    "city_ascii": "Hickory",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.5569,
+    "lng": -96.8584,
+    "cafes": []
+  },
+  "Greenville": {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0061,
+    "lng": -97.124,
+    "cafes": []
+  },
+  "Lequire": {
+    "city": "Lequire",
+    "city_ascii": "Lequire",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1098,
+    "lng": -95.1065,
+    "cafes": []
+  },
+  "Hennepin": {
+    "city": "Hennepin",
+    "city_ascii": "Hennepin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.5143,
+    "lng": -97.349,
+    "cafes": []
+  },
+  "Fairmont": {
+    "city": "Fairmont",
+    "city_ascii": "Fairmont",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.356,
+    "lng": -97.7055,
+    "cafes": []
+  },
+  "Cowlington": {
+    "city": "Cowlington",
+    "city_ascii": "Cowlington",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3105,
+    "lng": -94.7878,
+    "cafes": []
+  },
+  "Keyes": {
+    "city": "Keyes",
+    "city_ascii": "Keyes",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8076,
+    "lng": -102.2517,
+    "cafes": []
+  },
+  "Bradley": {
+    "city": "Bradley",
+    "city_ascii": "Bradley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.878,
+    "lng": -97.7088,
+    "cafes": []
+  },
+  "Nardin": {
+    "city": "Nardin",
+    "city_ascii": "Nardin",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8041,
+    "lng": -97.4499,
+    "cafes": []
+  },
+  "Short": {
+    "city": "Short",
+    "city_ascii": "Short",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5664,
+    "lng": -94.4936,
+    "cafes": []
+  },
+  "Briartown": {
+    "city": "Briartown",
+    "city_ascii": "Briartown",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2974,
+    "lng": -95.2386,
+    "cafes": []
+  },
+  "Nash": {
+    "city": "Nash",
+    "city_ascii": "Nash",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6649,
+    "lng": -98.0517,
+    "cafes": []
+  },
+  "Bromide": {
+    "city": "Bromide",
+    "city_ascii": "Bromide",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4183,
+    "lng": -96.4948,
+    "cafes": []
+  },
+  "Freedom": {
+    "city": "Freedom",
+    "city_ascii": "Freedom",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.768,
+    "lng": -99.1126,
+    "cafes": []
+  },
+  "Sharon": {
+    "city": "Sharon",
+    "city_ascii": "Sharon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2755,
+    "lng": -99.3381,
+    "cafes": []
+  },
+  "Drowning Creek": {
+    "city": "Drowning Creek",
+    "city_ascii": "Drowning Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4778,
+    "lng": -94.8942,
+    "cafes": []
+  },
+  "Ingalls": {
+    "city": "Ingalls",
+    "city_ascii": "Ingalls",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1047,
+    "lng": -96.8708,
+    "cafes": []
+  },
+  "Tullahassee": {
+    "city": "Tullahassee",
+    "city_ascii": "Tullahassee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8406,
+    "lng": -95.4383,
+    "cafes": []
+  },
+  "Johnson Prairie": {
+    "city": "Johnson Prairie",
+    "city_ascii": "Johnson Prairie",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0791,
+    "lng": -94.9759,
+    "cafes": []
+  },
+  "Isabella": {
+    "city": "Isabella",
+    "city_ascii": "Isabella",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2354,
+    "lng": -98.3354,
+    "cafes": []
+  },
+  "Pump Back": {
+    "city": "Pump Back",
+    "city_ascii": "Pump Back",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2707,
+    "lng": -95.1178,
+    "cafes": []
+  },
+  "Etowah": {
+    "city": "Etowah",
+    "city_ascii": "Etowah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.129,
+    "lng": -97.1641,
+    "cafes": []
+  },
+  "Little City": {
+    "city": "Little City",
+    "city_ascii": "Little City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.084,
+    "lng": -96.616,
+    "cafes": []
+  },
+  "Armstrong": {
+    "city": "Armstrong",
+    "city_ascii": "Armstrong",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0528,
+    "lng": -96.3448,
+    "cafes": []
+  },
+  "Pittsburg": {
+    "city": "Pittsburg",
+    "city_ascii": "Pittsburg",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7116,
+    "lng": -95.8502,
+    "cafes": []
+  },
+  "Monroe": {
+    "city": "Monroe",
+    "city_ascii": "Monroe",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9937,
+    "lng": -94.5156,
+    "cafes": []
+  },
+  "Orlando": {
+    "city": "Orlando",
+    "city_ascii": "Orlando",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1355,
+    "lng": -97.3654,
+    "cafes": []
+  },
+  "Burbank": {
+    "city": "Burbank",
+    "city_ascii": "Burbank",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6964,
+    "lng": -96.7293,
+    "cafes": []
+  },
+  "Sweetwater": {
+    "city": "Sweetwater",
+    "city_ascii": "Sweetwater",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4222,
+    "lng": -99.9116,
+    "cafes": []
+  },
+  "Enterprise": {
+    "city": "Enterprise",
+    "city_ascii": "Enterprise",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2248,
+    "lng": -95.3768,
+    "cafes": []
+  },
+  "Arcadia": {
+    "city": "Arcadia",
+    "city_ascii": "Arcadia",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6655,
+    "lng": -97.3255,
+    "cafes": []
+  },
+  "Bridgeport": {
+    "city": "Bridgeport",
+    "city_ascii": "Bridgeport",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5476,
+    "lng": -98.3775,
+    "cafes": []
+  },
+  "Edgewater Park": {
+    "city": "Edgewater Park",
+    "city_ascii": "Edgewater Park",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8247,
+    "lng": -98.3752,
+    "cafes": []
+  },
+  "Boynton": {
+    "city": "Boynton",
+    "city_ascii": "Boynton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6495,
+    "lng": -95.6535,
+    "cafes": []
+  },
+  "Martha": {
+    "city": "Martha",
+    "city_ascii": "Martha",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7262,
+    "lng": -99.3867,
+    "cafes": []
+  },
+  "Cornish": {
+    "city": "Cornish",
+    "city_ascii": "Cornish",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.1636,
+    "lng": -97.5964,
+    "cafes": []
+  },
+  "Bull Hollow": {
+    "city": "Bull Hollow",
+    "city_ascii": "Bull Hollow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3046,
+    "lng": -94.9008,
+    "cafes": []
+  },
+  "Wainwright": {
+    "city": "Wainwright",
+    "city_ascii": "Wainwright",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6134,
+    "lng": -95.566,
+    "cafes": []
+  },
+  "Panola": {
+    "city": "Panola",
+    "city_ascii": "Panola",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9273,
+    "lng": -95.2099,
+    "cafes": []
+  },
+  "Phillips": {
+    "city": "Phillips",
+    "city_ascii": "Phillips",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.5043,
+    "lng": -96.2232,
+    "cafes": []
+  },
+  "Lawrence Creek": {
+    "city": "Lawrence Creek",
+    "city_ascii": "Lawrence Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0838,
+    "lng": -96.4267,
+    "cafes": []
+  },
+  "Lawtonka Acres": {
+    "city": "Lawtonka Acres",
+    "city_ascii": "Lawtonka Acres",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7789,
+    "lng": -98.5305,
+    "cafes": []
+  },
+  "Cottonwood": {
+    "city": "Cottonwood",
+    "city_ascii": "Cottonwood",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.554,
+    "lng": -96.2038,
+    "cafes": []
+  },
+  "Narcissa": {
+    "city": "Narcissa",
+    "city_ascii": "Narcissa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.801,
+    "lng": -94.9279,
+    "cafes": []
+  },
+  "Hastings": {
+    "city": "Hastings",
+    "city_ascii": "Hastings",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2243,
+    "lng": -98.1088,
+    "cafes": []
+  },
+  "Felt": {
+    "city": "Felt",
+    "city_ascii": "Felt",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5633,
+    "lng": -102.795,
+    "cafes": []
+  },
+  "Pumpkin Hollow": {
+    "city": "Pumpkin Hollow",
+    "city_ascii": "Pumpkin Hollow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0008,
+    "lng": -94.837,
+    "cafes": []
+  },
+  "West Peavine": {
+    "city": "West Peavine",
+    "city_ascii": "West Peavine",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9133,
+    "lng": -94.6481,
+    "cafes": []
+  },
+  "Wann": {
+    "city": "Wann",
+    "city_ascii": "Wann",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9146,
+    "lng": -95.8047,
+    "cafes": []
+  },
+  "Summit": {
+    "city": "Summit",
+    "city_ascii": "Summit",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6694,
+    "lng": -95.4208,
+    "cafes": []
+  },
+  "Dwight Mission": {
+    "city": "Dwight Mission",
+    "city_ascii": "Dwight Mission",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5581,
+    "lng": -94.851,
+    "cafes": []
+  },
+  "Tiawah": {
+    "city": "Tiawah",
+    "city_ascii": "Tiawah",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2483,
+    "lng": -95.5362,
+    "cafes": []
+  },
+  "Osage": {
+    "city": "Osage",
+    "city_ascii": "Osage",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.295,
+    "lng": -96.4179,
+    "cafes": []
+  },
+  "Smithville": {
+    "city": "Smithville",
+    "city_ascii": "Smithville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4689,
+    "lng": -94.6461,
+    "cafes": []
+  },
+  "Loyal": {
+    "city": "Loyal",
+    "city_ascii": "Loyal",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9727,
+    "lng": -98.1182,
+    "cafes": []
+  },
+  "Addington": {
+    "city": "Addington",
+    "city_ascii": "Addington",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2431,
+    "lng": -97.9661,
+    "cafes": []
+  },
+  "Spaulding": {
+    "city": "Spaulding",
+    "city_ascii": "Spaulding",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0132,
+    "lng": -96.4404,
+    "cafes": []
+  },
+  "Longdale": {
+    "city": "Longdale",
+    "city_ascii": "Longdale",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1338,
+    "lng": -98.5512,
+    "cafes": []
+  },
+  "Lakeside Village": {
+    "city": "Lakeside Village",
+    "city_ascii": "Lakeside Village",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8003,
+    "lng": -98.3809,
+    "cafes": []
+  },
+  "Nescatunga": {
+    "city": "Nescatunga",
+    "city_ascii": "Nescatunga",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7543,
+    "lng": -98.156,
+    "cafes": []
+  },
+  "Horntown": {
+    "city": "Horntown",
+    "city_ascii": "Horntown",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0869,
+    "lng": -96.2476,
+    "cafes": []
+  },
+  "Oak Hill-Piney": {
+    "city": "Oak Hill-Piney",
+    "city_ascii": "Oak Hill-Piney",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3787,
+    "lng": -94.7265,
+    "cafes": []
+  },
+  "Earl": {
+    "city": "Earl",
+    "city_ascii": "Earl",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2033,
+    "lng": -96.8893,
+    "cafes": []
+  },
+  "Brush Creek": {
+    "city": "Brush Creek",
+    "city_ascii": "Brush Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4165,
+    "lng": -94.7838,
+    "cafes": []
+  },
+  "Hanna": {
+    "city": "Hanna",
+    "city_ascii": "Hanna",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2022,
+    "lng": -95.8896,
+    "cafes": []
+  },
+  "Council Hill": {
+    "city": "Council Hill",
+    "city_ascii": "Council Hill",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5558,
+    "lng": -95.6525,
+    "cafes": []
+  },
+  "Peoria": {
+    "city": "Peoria",
+    "city_ascii": "Peoria",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9156,
+    "lng": -94.6696,
+    "cafes": []
+  },
+  "Redbird": {
+    "city": "Redbird",
+    "city_ascii": "Redbird",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8871,
+    "lng": -95.5873,
+    "cafes": []
+  },
+  "Hallett": {
+    "city": "Hallett",
+    "city_ascii": "Hallett",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2319,
+    "lng": -96.5679,
+    "cafes": []
+  },
+  "Gowen": {
+    "city": "Gowen",
+    "city_ascii": "Gowen",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8781,
+    "lng": -95.4742,
+    "cafes": []
+  },
+  "Flute Springs": {
+    "city": "Flute Springs",
+    "city_ascii": "Flute Springs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.623,
+    "lng": -94.8044,
+    "cafes": []
+  },
+  "Pensacola": {
+    "city": "Pensacola",
+    "city_ascii": "Pensacola",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4593,
+    "lng": -95.1277,
+    "cafes": []
+  },
+  "Bowring": {
+    "city": "Bowring",
+    "city_ascii": "Bowring",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.879,
+    "lng": -96.1202,
+    "cafes": []
+  },
+  "Olive": {
+    "city": "Olive",
+    "city_ascii": "Olive",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0225,
+    "lng": -96.4766,
+    "cafes": []
+  },
+  "Deer Lick": {
+    "city": "Deer Lick",
+    "city_ascii": "Deer Lick",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4595,
+    "lng": -94.7468,
+    "cafes": []
+  },
+  "Paradise Hill": {
+    "city": "Paradise Hill",
+    "city_ascii": "Paradise Hill",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6137,
+    "lng": -95.0703,
+    "cafes": []
+  },
+  "Box": {
+    "city": "Box",
+    "city_ascii": "Box",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5784,
+    "lng": -94.9718,
+    "cafes": []
+  },
+  "Rentiesville": {
+    "city": "Rentiesville",
+    "city_ascii": "Rentiesville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5336,
+    "lng": -95.4848,
+    "cafes": []
+  },
+  "St. Louis": {
+    "city": "St. Louis",
+    "city_ascii": "St. Louis",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0812,
+    "lng": -96.8598,
+    "cafes": []
+  },
+  "Mazie": {
+    "city": "Mazie",
+    "city_ascii": "Mazie",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1425,
+    "lng": -95.3303,
+    "cafes": []
+  },
+  "Caney Ridge": {
+    "city": "Caney Ridge",
+    "city_ascii": "Caney Ridge",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7637,
+    "lng": -94.8828,
+    "cafes": []
+  },
+  "Pontotoc": {
+    "city": "Pontotoc",
+    "city_ascii": "Pontotoc",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4888,
+    "lng": -96.629,
+    "cafes": []
+  },
+  "Lookeba": {
+    "city": "Lookeba",
+    "city_ascii": "Lookeba",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.363,
+    "lng": -98.3638,
+    "cafes": []
+  },
+  "Hoyt": {
+    "city": "Hoyt",
+    "city_ascii": "Hoyt",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.268,
+    "lng": -95.3002,
+    "cafes": []
+  },
+  "Moyers": {
+    "city": "Moyers",
+    "city_ascii": "Moyers",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3255,
+    "lng": -95.6503,
+    "cafes": []
+  },
+  "Loco": {
+    "city": "Loco",
+    "city_ascii": "Loco",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3297,
+    "lng": -97.6807,
+    "cafes": []
+  },
+  "Centrahoma": {
+    "city": "Centrahoma",
+    "city_ascii": "Centrahoma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6104,
+    "lng": -96.3437,
+    "cafes": []
+  },
+  "Hendrix": {
+    "city": "Hendrix",
+    "city_ascii": "Hendrix",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.7753,
+    "lng": -96.4072,
+    "cafes": []
+  },
+  "Hoffman": {
+    "city": "Hoffman",
+    "city_ascii": "Hoffman",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4888,
+    "lng": -95.8447,
+    "cafes": []
+  },
+  "Ratliff City": {
+    "city": "Ratliff City",
+    "city_ascii": "Ratliff City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4492,
+    "lng": -97.5155,
+    "cafes": []
+  },
+  "Platter": {
+    "city": "Platter",
+    "city_ascii": "Platter",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9066,
+    "lng": -96.5338,
+    "cafes": []
+  },
+  "Yeager": {
+    "city": "Yeager",
+    "city_ascii": "Yeager",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1568,
+    "lng": -96.3401,
+    "cafes": []
+  },
+  "Dacoma": {
+    "city": "Dacoma",
+    "city_ascii": "Dacoma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6596,
+    "lng": -98.5635,
+    "cafes": []
+  },
+  "Fair Oaks": {
+    "city": "Fair Oaks",
+    "city_ascii": "Fair Oaks",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1611,
+    "lng": -95.691,
+    "cafes": []
+  },
+  "Gerty": {
+    "city": "Gerty",
+    "city_ascii": "Gerty",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8357,
+    "lng": -96.2889,
+    "cafes": []
+  },
+  "Blackburn": {
+    "city": "Blackburn",
+    "city_ascii": "Blackburn",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3731,
+    "lng": -96.5965,
+    "cafes": []
+  },
+  "Blanco": {
+    "city": "Blanco",
+    "city_ascii": "Blanco",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7507,
+    "lng": -95.7736,
+    "cafes": []
+  },
+  "Taft": {
+    "city": "Taft",
+    "city_ascii": "Taft",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7608,
+    "lng": -95.5454,
+    "cafes": []
+  },
+  "Bache": {
+    "city": "Bache",
+    "city_ascii": "Bache",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8942,
+    "lng": -95.6506,
+    "cafes": []
+  },
+  "Carrier": {
+    "city": "Carrier",
+    "city_ascii": "Carrier",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4786,
+    "lng": -98.0172,
+    "cafes": []
+  },
+  "Duchess Landing": {
+    "city": "Duchess Landing",
+    "city_ascii": "Duchess Landing",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3985,
+    "lng": -95.4165,
+    "cafes": []
+  },
+  "Gould": {
+    "city": "Gould",
+    "city_ascii": "Gould",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6692,
+    "lng": -99.7736,
+    "cafes": []
+  },
+  "Hillsdale": {
+    "city": "Hillsdale",
+    "city_ascii": "Hillsdale",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5632,
+    "lng": -97.9927,
+    "cafes": []
+  },
+  "Chester": {
+    "city": "Chester",
+    "city_ascii": "Chester",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2165,
+    "lng": -98.9208,
+    "cafes": []
+  },
+  "Sour John": {
+    "city": "Sour John",
+    "city_ascii": "Sour John",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6206,
+    "lng": -95.1432,
+    "cafes": []
+  },
+  "Twin Lakes": {
+    "city": "Twin Lakes",
+    "city_ascii": "Twin Lakes",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8679,
+    "lng": -97.6653,
+    "cafes": []
+  },
+  "Tuskahoma": {
+    "city": "Tuskahoma",
+    "city_ascii": "Tuskahoma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6272,
+    "lng": -95.2779,
+    "cafes": []
+  },
+  "Oakwood": {
+    "city": "Oakwood",
+    "city_ascii": "Oakwood",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9316,
+    "lng": -98.7031,
+    "cafes": []
+  },
+  "Gate": {
+    "city": "Gate",
+    "city_ascii": "Gate",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8517,
+    "lng": -100.0552,
+    "cafes": []
+  },
+  "Kildare": {
+    "city": "Kildare",
+    "city_ascii": "Kildare",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8085,
+    "lng": -97.0499,
+    "cafes": []
+  },
+  "Faxon": {
+    "city": "Faxon",
+    "city_ascii": "Faxon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4603,
+    "lng": -98.5794,
+    "cafes": []
+  },
+  "Atwood": {
+    "city": "Atwood",
+    "city_ascii": "Atwood",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9549,
+    "lng": -96.3367,
+    "cafes": []
+  },
+  "Milfay": {
+    "city": "Milfay",
+    "city_ascii": "Milfay",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7518,
+    "lng": -96.5592,
+    "cafes": []
+  },
+  "Pinhook Corner": {
+    "city": "Pinhook Corner",
+    "city_ascii": "Pinhook Corner",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5314,
+    "lng": -94.8911,
+    "cafes": []
+  },
+  "Finley": {
+    "city": "Finley",
+    "city_ascii": "Finley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3276,
+    "lng": -95.498,
+    "cafes": []
+  },
+  "Leon": {
+    "city": "Leon",
+    "city_ascii": "Leon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.8773,
+    "lng": -97.4291,
+    "cafes": []
+  },
+  "Cave Spring": {
+    "city": "Cave Spring",
+    "city_ascii": "Cave Spring",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7292,
+    "lng": -94.7577,
+    "cafes": []
+  },
+  "Deer Creek": {
+    "city": "Deer Creek",
+    "city_ascii": "Deer Creek",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8068,
+    "lng": -97.5195,
+    "cafes": []
+  },
+  "Carlton Landing": {
+    "city": "Carlton Landing",
+    "city_ascii": "Carlton Landing",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2129,
+    "lng": -95.5578,
+    "cafes": []
+  },
+  "Blue": {
+    "city": "Blue",
+    "city_ascii": "Blue",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.99,
+    "lng": -96.2304,
+    "cafes": []
+  },
+  "Baker": {
+    "city": "Baker",
+    "city_ascii": "Baker",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8704,
+    "lng": -101.0177,
+    "cafes": []
+  },
+  "Etta": {
+    "city": "Etta",
+    "city_ascii": "Etta",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8329,
+    "lng": -94.9035,
+    "cafes": []
+  },
+  "Lake Aluma": {
+    "city": "Lake Aluma",
+    "city_ascii": "Lake Aluma",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5334,
+    "lng": -97.4484,
+    "cafes": []
+  },
+  "Erin Springs": {
+    "city": "Erin Springs",
+    "city_ascii": "Erin Springs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8112,
+    "lng": -97.6056,
+    "cafes": []
+  },
+  "Kendrick": {
+    "city": "Kendrick",
+    "city_ascii": "Kendrick",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7853,
+    "lng": -96.7755,
+    "cafes": []
+  },
+  "Skedee": {
+    "city": "Skedee",
+    "city_ascii": "Skedee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3805,
+    "lng": -96.7039,
+    "cafes": []
+  },
+  "Scipio": {
+    "city": "Scipio",
+    "city_ascii": "Scipio",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.0513,
+    "lng": -95.9556,
+    "cafes": []
+  },
+  "White Water": {
+    "city": "White Water",
+    "city_ascii": "White Water",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5017,
+    "lng": -94.7289,
+    "cafes": []
+  },
+  "Sasakwa": {
+    "city": "Sasakwa",
+    "city_ascii": "Sasakwa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9468,
+    "lng": -96.5253,
+    "cafes": []
+  },
+  "Albion": {
+    "city": "Albion",
+    "city_ascii": "Albion",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6622,
+    "lng": -95.0993,
+    "cafes": []
+  },
+  "Headrick": {
+    "city": "Headrick",
+    "city_ascii": "Headrick",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.627,
+    "lng": -99.1373,
+    "cafes": []
+  },
+  "Lucien": {
+    "city": "Lucien",
+    "city_ascii": "Lucien",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2747,
+    "lng": -97.4551,
+    "cafes": []
+  },
+  "Emet": {
+    "city": "Emet",
+    "city_ascii": "Emet",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2063,
+    "lng": -96.5421,
+    "cafes": []
+  },
+  "New Alluwe": {
+    "city": "New Alluwe",
+    "city_ascii": "New Alluwe",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6101,
+    "lng": -95.4888,
+    "cafes": []
+  },
+  "Strang": {
+    "city": "Strang",
+    "city_ascii": "Strang",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4123,
+    "lng": -95.1347,
+    "cafes": []
+  },
+  "Bison": {
+    "city": "Bison",
+    "city_ascii": "Bison",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.196,
+    "lng": -97.8979,
+    "cafes": []
+  },
+  "Smith Village": {
+    "city": "Smith Village",
+    "city_ascii": "Smith Village",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4508,
+    "lng": -97.457,
+    "cafes": []
+  },
+  "Washita": {
+    "city": "Washita",
+    "city_ascii": "Washita",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1043,
+    "lng": -98.3414,
+    "cafes": []
+  },
+  "Wardville": {
+    "city": "Wardville",
+    "city_ascii": "Wardville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.655,
+    "lng": -96.0309,
+    "cafes": []
+  },
+  "Piney": {
+    "city": "Piney",
+    "city_ascii": "Piney",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8875,
+    "lng": -94.5537,
+    "cafes": []
+  },
+  "Webb City": {
+    "city": "Webb City",
+    "city_ascii": "Webb City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8074,
+    "lng": -96.7119,
+    "cafes": []
+  },
+  "Rosston": {
+    "city": "Rosston",
+    "city_ascii": "Rosston",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8129,
+    "lng": -99.9326,
+    "cafes": []
+  },
+  "Lovell": {
+    "city": "Lovell",
+    "city_ascii": "Lovell",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.056,
+    "lng": -97.6365,
+    "cafes": []
+  },
+  "McBride": {
+    "city": "McBride",
+    "city_ascii": "McBride",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9339,
+    "lng": -96.6352,
+    "cafes": []
+  },
+  "Putnam": {
+    "city": "Putnam",
+    "city_ascii": "Putnam",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8559,
+    "lng": -98.9682,
+    "cafes": []
+  },
+  "Dodge": {
+    "city": "Dodge",
+    "city_ascii": "Dodge",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5789,
+    "lng": -94.6385,
+    "cafes": []
+  },
+  "Terlton": {
+    "city": "Terlton",
+    "city_ascii": "Terlton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1876,
+    "lng": -96.4918,
+    "cafes": []
+  },
+  "Oak Grove": {
+    "city": "Oak Grove",
+    "city_ascii": "Oak Grove",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2056,
+    "lng": -96.3384,
+    "cafes": []
+  },
+  "Strong City": {
+    "city": "Strong City",
+    "city_ascii": "Strong City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6698,
+    "lng": -99.6005,
+    "cafes": []
+  },
+  "Brooksville": {
+    "city": "Brooksville",
+    "city_ascii": "Brooksville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2097,
+    "lng": -96.9611,
+    "cafes": []
+  },
+  "Bentley": {
+    "city": "Bentley",
+    "city_ascii": "Bentley",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.2174,
+    "lng": -96.0797,
+    "cafes": []
+  },
+  "Hodgen": {
+    "city": "Hodgen",
+    "city_ascii": "Hodgen",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8406,
+    "lng": -94.6339,
+    "cafes": []
+  },
+  "Fittstown": {
+    "city": "Fittstown",
+    "city_ascii": "Fittstown",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6091,
+    "lng": -96.6405,
+    "cafes": []
+  },
+  "Elmer": {
+    "city": "Elmer",
+    "city_ascii": "Elmer",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4808,
+    "lng": -99.3521,
+    "cafes": []
+  },
+  "Maramec": {
+    "city": "Maramec",
+    "city_ascii": "Maramec",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2419,
+    "lng": -96.6805,
+    "cafes": []
+  },
+  "Clearview": {
+    "city": "Clearview",
+    "city_ascii": "Clearview",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3987,
+    "lng": -96.1876,
+    "cafes": []
+  },
+  "Nelagoney": {
+    "city": "Nelagoney",
+    "city_ascii": "Nelagoney",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.626,
+    "lng": -96.244,
+    "cafes": []
+  },
+  "Elohim City": {
+    "city": "Elohim City",
+    "city_ascii": "Elohim City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6455,
+    "lng": -94.5151,
+    "cafes": []
+  },
+  "New Woodville": {
+    "city": "New Woodville",
+    "city_ascii": "New Woodville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9688,
+    "lng": -96.6548,
+    "cafes": []
+  },
+  "Lima": {
+    "city": "Lima",
+    "city_ascii": "Lima",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1737,
+    "lng": -96.5983,
+    "cafes": []
+  },
+  "Renfrow": {
+    "city": "Renfrow",
+    "city_ascii": "Renfrow",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9247,
+    "lng": -97.6572,
+    "cafes": []
+  },
+  "Iron Post": {
+    "city": "Iron Post",
+    "city_ascii": "Iron Post",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1558,
+    "lng": -95.1353,
+    "cafes": []
+  },
+  "Bunch": {
+    "city": "Bunch",
+    "city_ascii": "Bunch",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6821,
+    "lng": -94.746,
+    "cafes": []
+  },
+  "Hitchita": {
+    "city": "Hitchita",
+    "city_ascii": "Hitchita",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5199,
+    "lng": -95.7517,
+    "cafes": []
+  },
+  "Vanoss": {
+    "city": "Vanoss",
+    "city_ascii": "Vanoss",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7578,
+    "lng": -96.8712,
+    "cafes": []
+  },
+  "Badger Lee": {
+    "city": "Badger Lee",
+    "city_ascii": "Badger Lee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4727,
+    "lng": -94.8147,
+    "cafes": []
+  },
+  "Reagan": {
+    "city": "Reagan",
+    "city_ascii": "Reagan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3488,
+    "lng": -96.7193,
+    "cafes": []
+  },
+  "Grainola": {
+    "city": "Grainola",
+    "city_ascii": "Grainola",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9379,
+    "lng": -96.6488,
+    "cafes": []
+  },
+  "Hitchcock": {
+    "city": "Hitchcock",
+    "city_ascii": "Hitchcock",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9676,
+    "lng": -98.3497,
+    "cafes": []
+  },
+  "Shamrock": {
+    "city": "Shamrock",
+    "city_ascii": "Shamrock",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9114,
+    "lng": -96.5772,
+    "cafes": []
+  },
+  "Dripping Springs": {
+    "city": "Dripping Springs",
+    "city_ascii": "Dripping Springs",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1709,
+    "lng": -94.6852,
+    "cafes": []
+  },
+  "Blackgum": {
+    "city": "Blackgum",
+    "city_ascii": "Blackgum",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.6112,
+    "lng": -94.99,
+    "cafes": []
+  },
+  "Lone Chimney": {
+    "city": "Lone Chimney",
+    "city_ascii": "Lone Chimney",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2326,
+    "lng": -96.7929,
+    "cafes": []
+  },
+  "Watova": {
+    "city": "Watova",
+    "city_ascii": "Watova",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6197,
+    "lng": -95.6604,
+    "cafes": []
+  },
+  "Peckham": {
+    "city": "Peckham",
+    "city_ascii": "Peckham",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8866,
+    "lng": -97.1781,
+    "cafes": []
+  },
+  "Sugden": {
+    "city": "Sugden",
+    "city_ascii": "Sugden",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0826,
+    "lng": -97.9788,
+    "cafes": []
+  },
+  "Nashoba": {
+    "city": "Nashoba",
+    "city_ascii": "Nashoba",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4816,
+    "lng": -95.2143,
+    "cafes": []
+  },
+  "Zion": {
+    "city": "Zion",
+    "city_ascii": "Zion",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7892,
+    "lng": -94.6377,
+    "cafes": []
+  },
+  "Whippoorwill": {
+    "city": "Whippoorwill",
+    "city_ascii": "Whippoorwill",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9123,
+    "lng": -96.1288,
+    "cafes": []
+  },
+  "Moffett": {
+    "city": "Moffett",
+    "city_ascii": "Moffett",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4059,
+    "lng": -94.4552,
+    "cafes": []
+  },
+  "Homestead": {
+    "city": "Homestead",
+    "city_ascii": "Homestead",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.15,
+    "lng": -98.3969,
+    "cafes": []
+  },
+  "Swink": {
+    "city": "Swink",
+    "city_ascii": "Swink",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0169,
+    "lng": -95.2018,
+    "cafes": []
+  },
+  "Ashland": {
+    "city": "Ashland",
+    "city_ascii": "Ashland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.7668,
+    "lng": -96.0706,
+    "cafes": []
+  },
+  "Vernon": {
+    "city": "Vernon",
+    "city_ascii": "Vernon",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2157,
+    "lng": -95.9258,
+    "cafes": []
+  },
+  "Douglas": {
+    "city": "Douglas",
+    "city_ascii": "Douglas",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2605,
+    "lng": -97.6666,
+    "cafes": []
+  },
+  "Fox": {
+    "city": "Fox",
+    "city_ascii": "Fox",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3601,
+    "lng": -97.4928,
+    "cafes": []
+  },
+  "May": {
+    "city": "May",
+    "city_ascii": "May",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6167,
+    "lng": -99.7485,
+    "cafes": []
+  },
+  "Rosedale": {
+    "city": "Rosedale",
+    "city_ascii": "Rosedale",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9188,
+    "lng": -97.1848,
+    "cafes": []
+  },
+  "Old Eucha": {
+    "city": "Old Eucha",
+    "city_ascii": "Old Eucha",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3551,
+    "lng": -94.9379,
+    "cafes": []
+  },
+  "Durham": {
+    "city": "Durham",
+    "city_ascii": "Durham",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8427,
+    "lng": -99.9264,
+    "cafes": []
+  },
+  "IXL": {
+    "city": "IXL",
+    "city_ascii": "IXL",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.5227,
+    "lng": -96.3882,
+    "cafes": []
+  },
+  "Golden": {
+    "city": "Golden",
+    "city_ascii": "Golden",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.0312,
+    "lng": -94.8978,
+    "cafes": []
+  },
+  "Utica": {
+    "city": "Utica",
+    "city_ascii": "Utica",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 33.9051,
+    "lng": -96.2214,
+    "cafes": []
+  },
+  "Elm Grove": {
+    "city": "Elm Grove",
+    "city_ascii": "Elm Grove",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7926,
+    "lng": -94.5694,
+    "cafes": []
+  },
+  "Mulberry": {
+    "city": "Mulberry",
+    "city_ascii": "Mulberry",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8631,
+    "lng": -94.7014,
+    "cafes": []
+  },
+  "Mehan": {
+    "city": "Mehan",
+    "city_ascii": "Mehan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.0457,
+    "lng": -96.9401,
+    "cafes": []
+  },
+  "Hough": {
+    "city": "Hough",
+    "city_ascii": "Hough",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.872,
+    "lng": -101.5747,
+    "cafes": []
+  },
+  "Foraker": {
+    "city": "Foraker",
+    "city_ascii": "Foraker",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8728,
+    "lng": -96.5693,
+    "cafes": []
+  },
+  "Meridian": {
+    "city": "Meridian",
+    "city_ascii": "Meridian",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8442,
+    "lng": -97.2456,
+    "cafes": []
+  },
+  "Friendship": {
+    "city": "Friendship",
+    "city_ascii": "Friendship",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.6978,
+    "lng": -99.2287,
+    "cafes": []
+  },
+  "Byron": {
+    "city": "Byron",
+    "city_ascii": "Byron",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9014,
+    "lng": -98.2944,
+    "cafes": []
+  },
+  "Valley Park": {
+    "city": "Valley Park",
+    "city_ascii": "Valley Park",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2828,
+    "lng": -95.7362,
+    "cafes": []
+  },
+  "Mutual": {
+    "city": "Mutual",
+    "city_ascii": "Mutual",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.2305,
+    "lng": -99.168,
+    "cafes": []
+  },
+  "Sumner": {
+    "city": "Sumner",
+    "city_ascii": "Sumner",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3182,
+    "lng": -97.1179,
+    "cafes": []
+  },
+  "Macomb": {
+    "city": "Macomb",
+    "city_ascii": "Macomb",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.1479,
+    "lng": -97.0086,
+    "cafes": []
+  },
+  "Stidham": {
+    "city": "Stidham",
+    "city_ascii": "Stidham",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3686,
+    "lng": -95.7008,
+    "cafes": []
+  },
+  "Avard": {
+    "city": "Avard",
+    "city_ascii": "Avard",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6973,
+    "lng": -98.7893,
+    "cafes": []
+  },
+  "Hopeton": {
+    "city": "Hopeton",
+    "city_ascii": "Hopeton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6882,
+    "lng": -98.662,
+    "cafes": []
+  },
+  "Fay": {
+    "city": "Fay",
+    "city_ascii": "Fay",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.8161,
+    "lng": -98.6587,
+    "cafes": []
+  },
+  "Connerville": {
+    "city": "Connerville",
+    "city_ascii": "Connerville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.4436,
+    "lng": -96.6359,
+    "cafes": []
+  },
+  "Eagle City": {
+    "city": "Eagle City",
+    "city_ascii": "Eagle City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.9338,
+    "lng": -98.59,
+    "cafes": []
+  },
+  "Lambert": {
+    "city": "Lambert",
+    "city_ascii": "Lambert",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.6832,
+    "lng": -98.4237,
+    "cafes": []
+  },
+  "Texola": {
+    "city": "Texola",
+    "city_ascii": "Texola",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.2225,
+    "lng": -99.993,
+    "cafes": []
+  },
+  "Jefferson": {
+    "city": "Jefferson",
+    "city_ascii": "Jefferson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.7203,
+    "lng": -97.7909,
+    "cafes": []
+  },
+  "Amorita": {
+    "city": "Amorita",
+    "city_ascii": "Amorita",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.924,
+    "lng": -98.2936,
+    "cafes": []
+  },
+  "Adamson": {
+    "city": "Adamson",
+    "city_ascii": "Adamson",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.9243,
+    "lng": -95.5474,
+    "cafes": []
+  },
+  "Lotsee": {
+    "city": "Lotsee",
+    "city_ascii": "Lotsee",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1334,
+    "lng": -96.2091,
+    "cafes": []
+  },
+  "Knowles": {
+    "city": "Knowles",
+    "city_ascii": "Knowles",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8729,
+    "lng": -100.1924,
+    "cafes": []
+  },
+  "Cooperton": {
+    "city": "Cooperton",
+    "city_ascii": "Cooperton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.8665,
+    "lng": -98.8759,
+    "cafes": []
+  },
+  "Loveland": {
+    "city": "Loveland",
+    "city_ascii": "Loveland",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3046,
+    "lng": -98.7708,
+    "cafes": []
+  },
+  "Fallis": {
+    "city": "Fallis",
+    "city_ascii": "Fallis",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7493,
+    "lng": -97.1182,
+    "cafes": []
+  },
+  "Hollister": {
+    "city": "Hollister",
+    "city_ascii": "Hollister",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 34.3408,
+    "lng": -98.8712,
+    "cafes": []
+  },
+  "Bryant": {
+    "city": "Bryant",
+    "city_ascii": "Bryant",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.3923,
+    "lng": -96.0624,
+    "cafes": []
+  },
+  "Hoot Owl": {
+    "city": "Hoot Owl",
+    "city_ascii": "Hoot Owl",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.36,
+    "lng": -95.1214,
+    "cafes": []
+  },
+  "Clarksville": {
+    "city": "Clarksville",
+    "city_ascii": "Clarksville",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.824,
+    "lng": -95.5141,
+    "cafes": []
+  },
+  "Selman": {
+    "city": "Selman",
+    "city_ascii": "Selman",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8014,
+    "lng": -99.4894,
+    "cafes": []
+  },
+  "Quinlan": {
+    "city": "Quinlan",
+    "city_ascii": "Quinlan",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.4562,
+    "lng": -99.0457,
+    "cafes": []
+  },
+  "Quay": {
+    "city": "Quay",
+    "city_ascii": "Quay",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1596,
+    "lng": -96.7089,
+    "cafes": []
+  },
+  "Tagg Flats": {
+    "city": "Tagg Flats",
+    "city_ascii": "Tagg Flats",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.3387,
+    "lng": -94.9037,
+    "cafes": []
+  },
+  "Pershing": {
+    "city": "Pershing",
+    "city_ascii": "Pershing",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.5901,
+    "lng": -96.2731,
+    "cafes": []
+  },
+  "Capron": {
+    "city": "Capron",
+    "city_ascii": "Capron",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.8966,
+    "lng": -98.5776,
+    "cafes": []
+  },
+  "Kenton": {
+    "city": "Kenton",
+    "city_ascii": "Kenton",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.9064,
+    "lng": -102.9653,
+    "cafes": []
+  },
+  "Mule Barn": {
+    "city": "Mule Barn",
+    "city_ascii": "Mule Barn",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.217,
+    "lng": -96.312,
+    "cafes": []
+  },
+  "Seward": {
+    "city": "Seward",
+    "city_ascii": "Seward",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.7966,
+    "lng": -97.4871,
+    "cafes": []
+  }
+}

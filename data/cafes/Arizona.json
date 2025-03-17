@@ -1,0 +1,4386 @@
+{
+  "Phoenix": {
+    "city": "Phoenix",
+    "city_ascii": "Phoenix",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.5722,
+    "lng": -112.0892,
+    "cafes": [
+      {
+        "name": "PHX Cat Cafe",
+        "address": "147 E Garfield St, Phoenix, AZ 85004, USA",
+        "rating": 4.7,
+        "user_ratings_total": 437,
+        "website": "https://phxcatcafe.org/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=6357635468110263772",
+        "lat": 33.4574807,
+        "lng": -112.0716023,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "kylie puckett",
+            "rating": 5,
+            "text": {
+              "text": "I love the phoenix cat cafe!! My girlfriend and I have been twice and have felt so welcomed every time we came in! All of the cats there are so sweet and special and fun in their own ways:) It’s kept so clean in the lobby and they make amazing coffee that you definitely have to try when you are there! The workers are so so kind and will chat with you for 20 minutes about the cats if you want to which is pretty awesome! Definitely recommend going here and we will be back soon!! Someone give clementine a little hug for us too:)",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Shannon Sellmeyer",
+            "rating": 5,
+            "text": {
+              "text": "Paws down, this was such a wonderful experience and did my soul some much needed good.  I’m reading these nasty reviews and they are such an inaccurate portrayal of what this facility truly is.  If one actually takes the time to read the information presented on the website, in the facility, or on any of the paperwork or even their social media they states the rules clearly. As a very experienced cat owner myself this concept is wonderful. Not only do these cats get to be free of cages, playing, and clearly well cared for; It gives potential adopters the opportunity to see how they behave in less stressful environment.  Just like humans, cats have social batteries too. They have needs and their emotional well-being/needs to be taken into consideration which is EXACTLY what they are doing at Phoenix Cat Cafe.  Every single person that I interacted, with was kind, knowledgeable about each cat, and professional.  The facility is so clean and these cats are as happy as they can be in this environment. These negative comments on here are just taking jabs at employees because they weren’t getting what they wanted which sounds more like an entitlement problem than a Phoenix Cat Cafe problem.  We had a first spot morning reservation, which we booked for 2 adults, because we read and used our comprehension skills based on the VERY CLEAR information on the website (and Instagram and when you walk in the door…).  We purchased coffee prior to visiting the cats, we read the posted rules, followed directions and proceeded into the cat area quiet and respectfully.  We took a seat on the floor and within seconds we were surrounded and greeted by several cats. The kind woman who was working even took the time to tell us who each cat was (mind you there were over 20) and she knew all of them.  The bonded pairs, their stories, and individual health needs.  She told us about the Manx (I love and can’t stop thinking about Clem 😻) and the cat with one eye - they were both content, loving and happy.  I love that they enforce the rules about bringing children into the facility. This isn’t a petting zoo. These are animals who have been ditched, abused, scared, and the last thing they need is to be stressed out by a bunch of kids running around in THEIR space.  I’m saying this as a parent and cat owner. I have zero bad things to say about this place and the only thing I wish I could’ve done was take one of these sweet little babies home.  Mine at home are not open to this.  I love having the option of being able to have coffee with a friend and love on some furry friends in the process. Cats are far better than most people anyways.  Even if you aren’t in the market to adopt a cat, it gives you the ability to socially interact and show some cats who need some love just that. Keep doing what you’re doing Phoenix Cat Cafe - I can’t wait to visit again.  Please give Miss Clem so love for me.  (I’d love to work in the new location whenever that opens.)",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Holly Roach",
+            "rating": 5,
+            "text": {
+              "text": "We were here 2 weeks ago and had a blast! We reserved a time since availability is limited and we had a larger group. Staff was amazing, told us all about the cats, their names, personalities, the coffee was amazing.  Highly recommend! Just make sure to read all the requirements before going and use common sense!",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2kHB6q_uMzXIugeQ2O7Ev4qGM-uEs-uKcFH3HRk5hOUDB_7Jl_TvjOwE-V7pfVabl6rfu3U1Fbe3wC9w6igV-UySolotdxGI1KqyLK-iMMU-KDF-5seFqMIVdykXHp8dCPnLkje5Muhc2RUnf5UZgauBsQeEY5sBlteONQ_Nfro0gnyQqt9aJnFlF0Scp1wTBxri7n-B3ieCjUXV6VJ22hu8KIVkPfB-lK68f1RYKDuwqTsxnGSk1gTitB38HsDANuegaCkDdR9uXOWT4hydYvVRAvnKVP2_PSA1DUvFU2Rb7B-sdiKQS8tarrwQB44ewqQy-NY4tpIBhJJGqTk3xvDTItOUjonDTSgKy12ku-lE6B7ImTMM7pHPTroIGlxyozglIJPHXTk5z3e2cI8QzO8RzwFaHQMw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Black Cat Coffee House",
+        "address": "4730 E Indian School Rd Suite 120, Phoenix, AZ 85018, USA",
+        "rating": 4.5,
+        "user_ratings_total": 401,
+        "website": "http://www.blackcatcoffeeaz.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=17166055791950612370",
+        "lat": 33.4953171,
+        "lng": -111.9798574,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Jeannette Yarrow",
+            "rating": 5,
+            "text": {
+              "text": "I went around noon on a weekday and had the whole place to myself. There were many cushioned seats available. The staff were friendly. Although they said they haven't done latte art in a while, one said she would try to make the bear for me. She did absolutely amazing, especially for a latte with almond milk instead of dairy! It turned out super cute and tasted great to match. I highly recommend checking this place out but they may not always be able to do latte art. They have some specialty coffee mixes that would be nice to try anyway",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Tatsiana N (netatsi)",
+            "rating": 4,
+            "text": {
+              "text": "I stopped here to buy a coffee, it was not bad, 8 points from 10. Place lost its atmosphere, furniture is too old. In total not bad",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Samantha White",
+            "rating": 3,
+            "text": {
+              "text": "Muffin was so mid, very dry. My coffee was pretty great, this just isn't a place to find a good pastry. I ended up getting something else from the Safeway in the same lot to satisfy my hunger. I ordered a bagel and Idk how only half of a bagel adds up to 9 dollars, that seems fraudulent. Service was fine,  the shop is adorable though, very cozy. Would return to this shop to try their other unique coffee options and to use the free WiFi.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1hIfEBFEeNOrbyvrDA0Jig_--Fth9uMtqdMEtSUS2enIxvQEBqsCWDLw9mprwKceaPyYUa5CNV3JThH9xw_-tAp1Y6QWq36cPU6saW75HD5j20jaFTpwFVkIkcrlszkhYuFR72n6n67pTKcYf5jHfAN5xusj4RxVEUWDpjfv1HVx-IOty0wlZiZZFa1FzFhxXheYaiNWfP5o-e8faw8YHXL0Z7iqQCGiETW2676D7qApwkmgAL1MacZGZNFqYPgqY0i4AQC5L90Jd-Ke2Ox32gWx94vx9_HBqmTetPHzcB-wZdVpMTVRGY-GT_Cr7aDJCw0jjkIlvBcZfSksTsw1bxRZ_DX4uzjW33kicBqO5lTXZ_Sm_FNmwAK1pESZ1Hsrjff6MXnH2IsMkUWdl0juuegmpNYx_jX7fp&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Mesa": {
+    "city": "Mesa",
+    "city_ascii": "Mesa",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.4015,
+    "lng": -111.7178,
+    "cafes": [
+      {
+        "name": "Kitty Pause Kitty Café",
+        "address": "Pavilions Shopping Center, 1837 W Guadalupe Rd UNIT 107, Mesa, AZ 85202, USA",
+        "rating": 4.6,
+        "user_ratings_total": 180,
+        "website": "http://kittypausecafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=18119681676395444750",
+        "lat": 33.36284990000001,
+        "lng": -111.8742503,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Kaitlyn",
+            "rating": 5,
+            "text": {
+              "text": "I have been here twice a year after the other, and both times I have found my forever furbabies (pics included). It is not an actual cat cafe, but it’s an hour of free play with the kitties. They have various ages of cats from kitten to adult. Most of them are always up for adoption. The adoption process was so easy, I applied the same day and picked up my cat the next day. If you have one cat and looking for another, this is the place to go! Since they’ve already been around cats before, the introduction process was very quick and my cats are now definitely best friends. Only con is I don’t think I could go back because I would end up bringing home another and my boyfriend would not be too happy. Would recommend to friends and family looking for a cat.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Amanda",
+            "rating": 5,
+            "text": {
+              "text": "First time at this kitty Pause and we absolutely loved it! My nieces wanted to take home every cat here! I love that they have an activity center for cat lovers to spread some love while these adorable babies are waiting to get adopted! This is such a great concept! Staff very welcoming and professional and so kind! We will definitely be back!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Kimberly Geambasu",
+            "rating": 5,
+            "text": {
+              "text": "Brought my 10 year old crazed cat lady daughter here yesterday and she had her fill of loving more cats (She ALREADY has 3 at home). I really appreciate the rules they have and the way they communicate expectations is clear and friendly. As much as she wanted to count paws and rub her face behind the ears of these beauties, she refrained and was able to give the cats treats, love on the cats that wanted to be pet & played with them and had a great time! The cafe is very clean, organized and smells amazing. You can tell the staff really care for these cats by the amazing set up, the care and the atmosphere of the cafe. A Gentleman helped us yesterday (I think his name is Stu or Stan?) but he was great. Good job to the staff and anyone involved in making this Kitty Pause Kitty Cafe a success! *Highly Recommend*",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3JmL-YPxsAkXAdgZVrIlD6JuHCojkdLjT8gft3FQZGJuasusvFrQk-4nM_djhFPoGrlpRS_e7zclcnOx_iUtAgZzYsYIz70yQ5vGxKXxRUsAqwXRYI1jh9E-lnP45z_dpvagtSwjnZPGQewQyqXhrUG7a4JkFaDyg5over2BUNP1XjT-2uUu-09e9dMnq74o9g-nhUOEGmsSDwNEwmOf4C_2wpMDA4jFCLELzAidd-aGbye-YSlg3z5iG0jJ2_LSR1Ygz1p1n_Zgyzmv7DzYyisf7PgKFI2i5OFIwXWgwfxA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Tucson": {
+    "city": "Tucson",
+    "city_ascii": "Tucson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.1541,
+    "lng": -110.8787,
+    "cafes": [
+      {
+        "name": "El Jefe Cat Cafe",
+        "address": "3025 N Campbell Ave Suite 151, Tucson, AZ 85719, USA",
+        "rating": 4.7,
+        "user_ratings_total": 341,
+        "website": "http://eljefecatcafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=4537492771387447988",
+        "lat": 32.261915,
+        "lng": -110.94456299999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true
+        },
+        "reviews": [
+          {
+            "author": "Sarah Fox",
+            "rating": 5,
+            "text": {
+              "text": "Wow! This place is special, the staff is kind and laid back with best interests for the cats while giving great customer service. My 8 & 10 yo had a memorable visit. The visit for me was most enjoyable bc customers are so happy to be with the cats, it was a comfortable, clean, and epic vibe experience. Great job getting cats safe homes while serving the community.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "B Scott",
+            "rating": 5,
+            "text": {
+              "text": "Absolutely loved visiting all the sweet, loveable cats at El Jefe Cat Cafe!! The right side of the building is where you buy time (Hour increments), Cafe drinks, and cat treats to enjoy while you visit the cat cafe section to the left of the building. Right side also houses lots of cute merchandise for yourself and your cats! Cafe drinks were extremely delicious and well priced! Once you purchase time and whatever else, you exit and enter the left part of the building which is a cute 3- story layout with a bunch of cute, adoptable, and lovable cats. We bought treat tokens and chose Churro tube treats. Most cats were sleepy since it was later in the day but enticing them with treats, quickly most of all the cats (except for the shy ones) come to greet us and were ready to love on us. It was clean and you could tell all the cats were well cared for! I loved every second of my visit and can't wait to visit again!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Amber Huttner",
+            "rating": 5,
+            "text": {
+              "text": "Get your kittah fix! Lovely cats and kittens looking for your love and affection. Attached to a coffee shop where you can buy fun feline related gear. Good way to spend time with a cat before adopting or just because you love cats. Go!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2hgGkxQnFXfOAe4SK1OchmXtNOigliceNL2fVSzg77Mp2CKcWXACJ3aEdrk2IU_wjFhECCGo7bMFRM6x7yG5n0k4osZ4z_H6e4tVOIf-EV1HJxabLannQU5RbvPXy_hkjGxD2dvxZk4Mkc2JtpEU0GiiS8L9md-6iyWVh7IpWiB2V21im6Z4t6pUNffZTeopaBmECgwlMEFbHYJrslAJd0EDEOWil_Oh7ReqLNB_OIspNskebBtoU5pP2KvzctSy5k357uM1N78I1J7x1KW03j1SB4adPS98enPqO5fYXlmA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Hunter's Kitten Lounge",
+        "address": "5319 E Speedway Blvd, Tucson, AZ 85712, USA",
+        "rating": 4.9,
+        "user_ratings_total": 181,
+        "website": "https://hunterskittenlounge.org/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=3899435350593327343",
+        "lat": 32.2364447,
+        "lng": -110.8791447,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Ginger Massey",
+            "rating": 5,
+            "text": {
+              "text": "Had a fun time with all the cats❣️\nJust discovered the Kitten Lounge and booked an appt online the same morning when they opened.\nThere is a gift shop at the check in area with locally made items.\nWhat a great idea Melissa had to turn this idea into reality.\nThere is a Bio book so you can read more about each cat.  They range from young to old.  Can adopt them.  They have classes on their schedule like kitty yoga, rock painting, movie night with cats.\nMakes your heart happy❣️❣️\nIt was worth the money and if you can add a donation to help that would be even better.",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Bekki H.",
+            "rating": 5,
+            "text": {
+              "text": "I was excited to try this cat lounge with my two daughters. It’s a really lovely space and I can tell the cats seem settled there and content. There was no swiping like I’ve seen at other cat cafes. The staff seems very hands on and attentive to the cats and the space and the guests. They gave us treats to feed the cats at no extra charge. There are plenty of seating options, games, tables, books. It was a cozy environment and of course the cats are super cute and fun to hang with. This guy was my 10 year old’s favorite- she made me take a picture of it ;)",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Josie Prasad",
+            "rating": 5,
+            "text": {
+              "text": "My husband and I loved this place. The workers were so friendly and it was well kept. All the kitties seemed loved and taken care of and it was the best time petting and cuddling them. Thank you for all you do SACR and Hunters Kitten Lounge!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0Nm8_b1grz3uS6jxv8PvYqYGoVtfjy0wWXz0FJ3--ImnFcaXhG4CFWTPLwvC00953Oxjo3a_O12UBsaGycln_Ej5uYYrt-DiboMOZuz_TdfPGl6g_cMvrdhKGBNnEfxWLG5ywtohlbvr_XlL6bFsCQoNjU_UmOsjUrhr9XvrVZdLo8cWObCnc7bJQpNujJEy6kHKPC13j_ya__0TKo9iD9grbTr9Byur8QdUqOBxk7hCX56kkRiLhoPDlla2p-YRRn-tw4wLBHIanlw5d0bSqBs-HoAm1lFBdD3bIkbL0r7w&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Chandler": {
+    "city": "Chandler",
+    "city_ascii": "Chandler",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.2825,
+    "lng": -111.8514,
+    "cafes": []
+  },
+  "Gilbert": {
+    "city": "Gilbert",
+    "city_ascii": "Gilbert",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.31,
+    "lng": -111.7463,
+    "cafes": []
+  },
+  "Glendale": {
+    "city": "Glendale",
+    "city_ascii": "Glendale",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.5791,
+    "lng": -112.2311,
+    "cafes": []
+  },
+  "Scottsdale": {
+    "city": "Scottsdale",
+    "city_ascii": "Scottsdale",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6872,
+    "lng": -111.8651,
+    "cafes": []
+  },
+  "Peoria": {
+    "city": "Peoria",
+    "city_ascii": "Peoria",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.7843,
+    "lng": -112.2989,
+    "cafes": []
+  },
+  "Tempe": {
+    "city": "Tempe",
+    "city_ascii": "Tempe",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3881,
+    "lng": -111.9319,
+    "cafes": []
+  },
+  "Surprise": {
+    "city": "Surprise",
+    "city_ascii": "Surprise",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6815,
+    "lng": -112.4515,
+    "cafes": []
+  },
+  "Yuma": {
+    "city": "Yuma",
+    "city_ascii": "Yuma",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.5995,
+    "lng": -114.5491,
+    "cafes": []
+  },
+  "San Tan Valley": {
+    "city": "San Tan Valley",
+    "city_ascii": "San Tan Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1786,
+    "lng": -111.5629,
+    "cafes": []
+  },
+  "Goodyear": {
+    "city": "Goodyear",
+    "city_ascii": "Goodyear",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.2614,
+    "lng": -112.3622,
+    "cafes": []
+  },
+  "Buckeye": {
+    "city": "Buckeye",
+    "city_ascii": "Buckeye",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.4314,
+    "lng": -112.6429,
+    "cafes": []
+  },
+  "Prescott Valley": {
+    "city": "Prescott Valley",
+    "city_ascii": "Prescott Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.598,
+    "lng": -112.3185,
+    "cafes": []
+  },
+  "Avondale": {
+    "city": "Avondale",
+    "city_ascii": "Avondale",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3873,
+    "lng": -112.3235,
+    "cafes": []
+  },
+  "Flagstaff": {
+    "city": "Flagstaff",
+    "city_ascii": "Flagstaff",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.1872,
+    "lng": -111.6194,
+    "cafes": []
+  },
+  "Casas Adobes": {
+    "city": "Casas Adobes",
+    "city_ascii": "Casas Adobes",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.3423,
+    "lng": -111.0113,
+    "cafes": []
+  },
+  "Maricopa": {
+    "city": "Maricopa",
+    "city_ascii": "Maricopa",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.0408,
+    "lng": -112.0011,
+    "cafes": []
+  },
+  "Queen Creek": {
+    "city": "Queen Creek",
+    "city_ascii": "Queen Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.2454,
+    "lng": -111.6173,
+    "cafes": []
+  },
+  "Lake Havasu City": {
+    "city": "Lake Havasu City",
+    "city_ascii": "Lake Havasu City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.5006,
+    "lng": -114.3113,
+    "cafes": []
+  },
+  "Casa Grande": {
+    "city": "Casa Grande",
+    "city_ascii": "Casa Grande",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9069,
+    "lng": -111.7624,
+    "cafes": []
+  },
+  "Marana": {
+    "city": "Marana",
+    "city_ascii": "Marana",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.4355,
+    "lng": -111.1558,
+    "cafes": []
+  },
+  "Catalina Foothills": {
+    "city": "Catalina Foothills",
+    "city_ascii": "Catalina Foothills",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.3046,
+    "lng": -110.8838,
+    "cafes": []
+  },
+  "Oro Valley": {
+    "city": "Oro Valley",
+    "city_ascii": "Oro Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.4208,
+    "lng": -110.9767,
+    "cafes": []
+  },
+  "Prescott": {
+    "city": "Prescott",
+    "city_ascii": "Prescott",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.5849,
+    "lng": -112.4473,
+    "cafes": []
+  },
+  "Sierra Vista": {
+    "city": "Sierra Vista",
+    "city_ascii": "Sierra Vista",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.563,
+    "lng": -110.3153,
+    "cafes": []
+  },
+  "Bullhead City": {
+    "city": "Bullhead City",
+    "city_ascii": "Bullhead City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.1205,
+    "lng": -114.5461,
+    "cafes": []
+  },
+  "Apache Junction": {
+    "city": "Apache Junction",
+    "city_ascii": "Apache Junction",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3985,
+    "lng": -111.535,
+    "cafes": []
+  },
+  "Sun City": {
+    "city": "Sun City",
+    "city_ascii": "Sun City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6165,
+    "lng": -112.2819,
+    "cafes": []
+  },
+  "San Luis": {
+    "city": "San Luis",
+    "city_ascii": "San Luis",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.4911,
+    "lng": -114.7089,
+    "cafes": []
+  },
+  "El Mirage": {
+    "city": "El Mirage",
+    "city_ascii": "El Mirage",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.5905,
+    "lng": -112.3271,
+    "cafes": []
+  },
+  "Sahuarita": {
+    "city": "Sahuarita",
+    "city_ascii": "Sahuarita",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.9323,
+    "lng": -110.9654,
+    "cafes": []
+  },
+  "Kingman": {
+    "city": "Kingman",
+    "city_ascii": "Kingman",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.217,
+    "lng": -114.0105,
+    "cafes": []
+  },
+  "Fortuna Foothills": {
+    "city": "Fortuna Foothills",
+    "city_ascii": "Fortuna Foothills",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6616,
+    "lng": -114.3974,
+    "cafes": []
+  },
+  "Drexel Heights": {
+    "city": "Drexel Heights",
+    "city_ascii": "Drexel Heights",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.1453,
+    "lng": -111.048,
+    "cafes": []
+  },
+  "Sun City West": {
+    "city": "Sun City West",
+    "city_ascii": "Sun City West",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6695,
+    "lng": -112.3573,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.059,
+    "lng": -111.4209,
+    "cafes": []
+  },
+  "Fountain Hills": {
+    "city": "Fountain Hills",
+    "city_ascii": "Fountain Hills",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6073,
+    "lng": -111.7398,
+    "cafes": []
+  },
+  "Anthem": {
+    "city": "Anthem",
+    "city_ascii": "Anthem",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.856,
+    "lng": -112.1168,
+    "cafes": []
+  },
+  "Rio Rico": {
+    "city": "Rio Rico",
+    "city_ascii": "Rio Rico",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.4957,
+    "lng": -110.9885,
+    "cafes": []
+  },
+  "Green Valley": {
+    "city": "Green Valley",
+    "city_ascii": "Green Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.8393,
+    "lng": -111.0009,
+    "cafes": []
+  },
+  "Nogales": {
+    "city": "Nogales",
+    "city_ascii": "Nogales",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.3624,
+    "lng": -110.9336,
+    "cafes": []
+  },
+  "New River": {
+    "city": "New River",
+    "city_ascii": "New River",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8835,
+    "lng": -112.0858,
+    "cafes": []
+  },
+  "Flowing Wells": {
+    "city": "Flowing Wells",
+    "city_ascii": "Flowing Wells",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.2937,
+    "lng": -111.011,
+    "cafes": []
+  },
+  "Eloy": {
+    "city": "Eloy",
+    "city_ascii": "Eloy",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.747,
+    "lng": -111.5992,
+    "cafes": []
+  },
+  "Payson": {
+    "city": "Payson",
+    "city_ascii": "Payson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2433,
+    "lng": -111.3195,
+    "cafes": []
+  },
+  "Douglas": {
+    "city": "Douglas",
+    "city_ascii": "Douglas",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.3602,
+    "lng": -109.5394,
+    "cafes": []
+  },
+  "Vail": {
+    "city": "Vail",
+    "city_ascii": "Vail",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.0217,
+    "lng": -110.6937,
+    "cafes": []
+  },
+  "Fort Mohave": {
+    "city": "Fort Mohave",
+    "city_ascii": "Fort Mohave",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.0004,
+    "lng": -114.5748,
+    "cafes": []
+  },
+  "Tanque Verde": {
+    "city": "Tanque Verde",
+    "city_ascii": "Tanque Verde",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.2687,
+    "lng": -110.7437,
+    "cafes": []
+  },
+  "Coolidge": {
+    "city": "Coolidge",
+    "city_ascii": "Coolidge",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9363,
+    "lng": -111.5254,
+    "cafes": []
+  },
+  "Somerton": {
+    "city": "Somerton",
+    "city_ascii": "Somerton",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6007,
+    "lng": -114.6994,
+    "cafes": []
+  },
+  "New Kingman-Butler": {
+    "city": "New Kingman-Butler",
+    "city_ascii": "New Kingman-Butler",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2645,
+    "lng": -114.0091,
+    "cafes": []
+  },
+  "Sierra Vista Southeast": {
+    "city": "Sierra Vista Southeast",
+    "city_ascii": "Sierra Vista Southeast",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.4525,
+    "lng": -110.216,
+    "cafes": []
+  },
+  "Sun Lakes": {
+    "city": "Sun Lakes",
+    "city_ascii": "Sun Lakes",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.2172,
+    "lng": -111.8695,
+    "cafes": []
+  },
+  "Valencia West": {
+    "city": "Valencia West",
+    "city_ascii": "Valencia West",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.1355,
+    "lng": -111.1123,
+    "cafes": []
+  },
+  "Chino Valley": {
+    "city": "Chino Valley",
+    "city_ascii": "Chino Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.7594,
+    "lng": -112.412,
+    "cafes": []
+  },
+  "Tucson Estates": {
+    "city": "Tucson Estates",
+    "city_ascii": "Tucson Estates",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.1792,
+    "lng": -111.1266,
+    "cafes": []
+  },
+  "Verde Village": {
+    "city": "Verde Village",
+    "city_ascii": "Verde Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.7119,
+    "lng": -111.9941,
+    "cafes": []
+  },
+  "Paradise Valley": {
+    "city": "Paradise Valley",
+    "city_ascii": "Paradise Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.5434,
+    "lng": -111.9595,
+    "cafes": []
+  },
+  "Saddlebrooke": {
+    "city": "Saddlebrooke",
+    "city_ascii": "Saddlebrooke",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.5576,
+    "lng": -110.874,
+    "cafes": []
+  },
+  "Cottonwood": {
+    "city": "Cottonwood",
+    "city_ascii": "Cottonwood",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.7195,
+    "lng": -112.0016,
+    "cafes": []
+  },
+  "Gold Canyon": {
+    "city": "Gold Canyon",
+    "city_ascii": "Gold Canyon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3639,
+    "lng": -111.423,
+    "cafes": []
+  },
+  "Camp Verde": {
+    "city": "Camp Verde",
+    "city_ascii": "Camp Verde",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.569,
+    "lng": -111.856,
+    "cafes": []
+  },
+  "Show Low": {
+    "city": "Show Low",
+    "city_ascii": "Show Low",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2671,
+    "lng": -110.0384,
+    "cafes": []
+  },
+  "Tucson Mountains": {
+    "city": "Tucson Mountains",
+    "city_ascii": "Tucson Mountains",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.2822,
+    "lng": -111.0773,
+    "cafes": []
+  },
+  "Safford": {
+    "city": "Safford",
+    "city_ascii": "Safford",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.8335,
+    "lng": -109.6964,
+    "cafes": []
+  },
+  "Sedona": {
+    "city": "Sedona",
+    "city_ascii": "Sedona",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.8581,
+    "lng": -111.7941,
+    "cafes": []
+  },
+  "Picture Rocks": {
+    "city": "Picture Rocks",
+    "city_ascii": "Picture Rocks",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.3274,
+    "lng": -111.2558,
+    "cafes": []
+  },
+  "Corona de Tucson": {
+    "city": "Corona de Tucson",
+    "city_ascii": "Corona de Tucson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.9503,
+    "lng": -110.7835,
+    "cafes": []
+  },
+  "Winslow": {
+    "city": "Winslow",
+    "city_ascii": "Winslow",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.0243,
+    "lng": -110.7095,
+    "cafes": []
+  },
+  "Arizona City": {
+    "city": "Arizona City",
+    "city_ascii": "Arizona City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7506,
+    "lng": -111.6707,
+    "cafes": []
+  },
+  "Tuba City": {
+    "city": "Tuba City",
+    "city_ascii": "Tuba City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.125,
+    "lng": -111.2467,
+    "cafes": []
+  },
+  "Golden Valley": {
+    "city": "Golden Valley",
+    "city_ascii": "Golden Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.206,
+    "lng": -114.2327,
+    "cafes": []
+  },
+  "Wickenburg": {
+    "city": "Wickenburg",
+    "city_ascii": "Wickenburg",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.9837,
+    "lng": -112.7669,
+    "cafes": []
+  },
+  "Page": {
+    "city": "Page",
+    "city_ascii": "Page",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.9426,
+    "lng": -111.5071,
+    "cafes": []
+  },
+  "Tolleson": {
+    "city": "Tolleson",
+    "city_ascii": "Tolleson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.4484,
+    "lng": -112.256,
+    "cafes": []
+  },
+  "Globe": {
+    "city": "Globe",
+    "city_ascii": "Globe",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.387,
+    "lng": -110.7513,
+    "cafes": []
+  },
+  "Youngtown": {
+    "city": "Youngtown",
+    "city_ascii": "Youngtown",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.5846,
+    "lng": -112.3048,
+    "cafes": []
+  },
+  "Catalina": {
+    "city": "Catalina",
+    "city_ascii": "Catalina",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.4848,
+    "lng": -110.8997,
+    "cafes": []
+  },
+  "Litchfield Park": {
+    "city": "Litchfield Park",
+    "city_ascii": "Litchfield Park",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.5024,
+    "lng": -112.3588,
+    "cafes": []
+  },
+  "Avra Valley": {
+    "city": "Avra Valley",
+    "city_ascii": "Avra Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.4195,
+    "lng": -111.3393,
+    "cafes": []
+  },
+  "Snowflake": {
+    "city": "Snowflake",
+    "city_ascii": "Snowflake",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.5225,
+    "lng": -110.0913,
+    "cafes": []
+  },
+  "Village of Oak Creek": {
+    "city": "Village of Oak Creek",
+    "city_ascii": "Village of Oak Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.7813,
+    "lng": -111.7606,
+    "cafes": []
+  },
+  "Williamson": {
+    "city": "Williamson",
+    "city_ascii": "Williamson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.7082,
+    "lng": -112.5343,
+    "cafes": []
+  },
+  "Doney Park": {
+    "city": "Doney Park",
+    "city_ascii": "Doney Park",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2656,
+    "lng": -111.519,
+    "cafes": []
+  },
+  "Rincon Valley": {
+    "city": "Rincon Valley",
+    "city_ascii": "Rincon Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.1101,
+    "lng": -110.6889,
+    "cafes": []
+  },
+  "Kayenta": {
+    "city": "Kayenta",
+    "city_ascii": "Kayenta",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.7144,
+    "lng": -110.259,
+    "cafes": []
+  },
+  "Thatcher": {
+    "city": "Thatcher",
+    "city_ascii": "Thatcher",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.8323,
+    "lng": -109.7595,
+    "cafes": []
+  },
+  "Benson": {
+    "city": "Benson",
+    "city_ascii": "Benson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.9157,
+    "lng": -110.3257,
+    "cafes": []
+  },
+  "Guadalupe": {
+    "city": "Guadalupe",
+    "city_ascii": "Guadalupe",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3665,
+    "lng": -111.9633,
+    "cafes": []
+  },
+  "Citrus Park": {
+    "city": "Citrus Park",
+    "city_ascii": "Citrus Park",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.53,
+    "lng": -112.4441,
+    "cafes": []
+  },
+  "Three Points": {
+    "city": "Three Points",
+    "city_ascii": "Three Points",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.0596,
+    "lng": -111.2866,
+    "cafes": []
+  },
+  "Cave Creek": {
+    "city": "Cave Creek",
+    "city_ascii": "Cave Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8513,
+    "lng": -111.9801,
+    "cafes": []
+  },
+  "Bisbee": {
+    "city": "Bisbee",
+    "city_ascii": "Bisbee",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.4126,
+    "lng": -109.9178,
+    "cafes": []
+  },
+  "Paulden": {
+    "city": "Paulden",
+    "city_ascii": "Paulden",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.8897,
+    "lng": -112.4937,
+    "cafes": []
+  },
+  "Holbrook": {
+    "city": "Holbrook",
+    "city_ascii": "Holbrook",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.9044,
+    "lng": -110.1672,
+    "cafes": []
+  },
+  "San Carlos": {
+    "city": "San Carlos",
+    "city_ascii": "San Carlos",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.35,
+    "lng": -110.4654,
+    "cafes": []
+  },
+  "Clarkdale": {
+    "city": "Clarkdale",
+    "city_ascii": "Clarkdale",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.7501,
+    "lng": -112.0555,
+    "cafes": []
+  },
+  "Lake Montezuma": {
+    "city": "Lake Montezuma",
+    "city_ascii": "Lake Montezuma",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.6414,
+    "lng": -111.796,
+    "cafes": []
+  },
+  "South Tucson": {
+    "city": "South Tucson",
+    "city_ascii": "South Tucson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.1955,
+    "lng": -110.9692,
+    "cafes": []
+  },
+  "Dewey-Humboldt": {
+    "city": "Dewey-Humboldt",
+    "city_ascii": "Dewey-Humboldt",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.5174,
+    "lng": -112.2496,
+    "cafes": []
+  },
+  "Eagar": {
+    "city": "Eagar",
+    "city_ascii": "Eagar",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1056,
+    "lng": -109.2961,
+    "cafes": []
+  },
+  "Summit": {
+    "city": "Summit",
+    "city_ascii": "Summit",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.0617,
+    "lng": -110.9485,
+    "cafes": []
+  },
+  "Chinle": {
+    "city": "Chinle",
+    "city_ascii": "Chinle",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.1505,
+    "lng": -109.5794,
+    "cafes": []
+  },
+  "Whiteriver": {
+    "city": "Whiteriver",
+    "city_ascii": "Whiteriver",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8358,
+    "lng": -109.9616,
+    "cafes": []
+  },
+  "Pinetop-Lakeside": {
+    "city": "Pinetop-Lakeside",
+    "city_ascii": "Pinetop-Lakeside",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1486,
+    "lng": -109.9657,
+    "cafes": []
+  },
+  "Taylor": {
+    "city": "Taylor",
+    "city_ascii": "Taylor",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.4393,
+    "lng": -110.1018,
+    "cafes": []
+  },
+  "Clifton": {
+    "city": "Clifton",
+    "city_ascii": "Clifton",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.0249,
+    "lng": -109.2883,
+    "cafes": []
+  },
+  "Avenue B and C": {
+    "city": "Avenue B and C",
+    "city_ascii": "Avenue B and C",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7192,
+    "lng": -114.6598,
+    "cafes": []
+  },
+  "Ajo": {
+    "city": "Ajo",
+    "city_ascii": "Ajo",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.3923,
+    "lng": -112.8839,
+    "cafes": []
+  },
+  "Carefree": {
+    "city": "Carefree",
+    "city_ascii": "Carefree",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8234,
+    "lng": -111.9161,
+    "cafes": []
+  },
+  "Fort Defiance": {
+    "city": "Fort Defiance",
+    "city_ascii": "Fort Defiance",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.7477,
+    "lng": -109.0674,
+    "cafes": []
+  },
+  "St. Johns": {
+    "city": "St. Johns",
+    "city_ascii": "St. Johns",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.5018,
+    "lng": -109.3784,
+    "cafes": []
+  },
+  "Parker": {
+    "city": "Parker",
+    "city_ascii": "Parker",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.0286,
+    "lng": -114.2224,
+    "cafes": []
+  },
+  "Cornville": {
+    "city": "Cornville",
+    "city_ascii": "Cornville",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.7389,
+    "lng": -111.9086,
+    "cafes": []
+  },
+  "Williams": {
+    "city": "Williams",
+    "city_ascii": "Williams",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2476,
+    "lng": -112.1834,
+    "cafes": []
+  },
+  "San Manuel": {
+    "city": "San Manuel",
+    "city_ascii": "San Manuel",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6091,
+    "lng": -110.6415,
+    "cafes": []
+  },
+  "Red Rock": {
+    "city": "Red Rock",
+    "city_ascii": "Red Rock",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.561,
+    "lng": -111.3745,
+    "cafes": []
+  },
+  "Willcox": {
+    "city": "Willcox",
+    "city_ascii": "Willcox",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.2515,
+    "lng": -109.8359,
+    "cafes": []
+  },
+  "Lake of the Woods": {
+    "city": "Lake of the Woods",
+    "city_ascii": "Lake of the Woods",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1547,
+    "lng": -109.9936,
+    "cafes": []
+  },
+  "Cordes Lakes": {
+    "city": "Cordes Lakes",
+    "city_ascii": "Cordes Lakes",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3103,
+    "lng": -112.1073,
+    "cafes": []
+  },
+  "Heber-Overgaard": {
+    "city": "Heber-Overgaard",
+    "city_ascii": "Heber-Overgaard",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.4141,
+    "lng": -110.5696,
+    "cafes": []
+  },
+  "Kachina Village": {
+    "city": "Kachina Village",
+    "city_ascii": "Kachina Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.0947,
+    "lng": -111.6928,
+    "cafes": []
+  },
+  "Oracle": {
+    "city": "Oracle",
+    "city_ascii": "Oracle",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6085,
+    "lng": -110.7826,
+    "cafes": []
+  },
+  "Sacaton": {
+    "city": "Sacaton",
+    "city_ascii": "Sacaton",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.0793,
+    "lng": -111.7683,
+    "cafes": []
+  },
+  "Pima": {
+    "city": "Pima",
+    "city_ascii": "Pima",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.8886,
+    "lng": -109.8437,
+    "cafes": []
+  },
+  "Desert Hills": {
+    "city": "Desert Hills",
+    "city_ascii": "Desert Hills",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.5506,
+    "lng": -114.3754,
+    "cafes": []
+  },
+  "Swift Trail Junction": {
+    "city": "Swift Trail Junction",
+    "city_ascii": "Swift Trail Junction",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7305,
+    "lng": -109.7148,
+    "cafes": []
+  },
+  "Whetstone": {
+    "city": "Whetstone",
+    "city_ascii": "Whetstone",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.7258,
+    "lng": -110.2746,
+    "cafes": []
+  },
+  "Bagdad": {
+    "city": "Bagdad",
+    "city_ascii": "Bagdad",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.5771,
+    "lng": -113.1771,
+    "cafes": []
+  },
+  "White Mountain Lake": {
+    "city": "White Mountain Lake",
+    "city_ascii": "White Mountain Lake",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3441,
+    "lng": -109.9878,
+    "cafes": []
+  },
+  "Central Heights-Midland City": {
+    "city": "Central Heights-Midland City",
+    "city_ascii": "Central Heights-Midland City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.4,
+    "lng": -110.8153,
+    "cafes": []
+  },
+  "Colorado City": {
+    "city": "Colorado City",
+    "city_ascii": "Colorado City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.9773,
+    "lng": -112.9869,
+    "cafes": []
+  },
+  "Mohave Valley": {
+    "city": "Mohave Valley",
+    "city_ascii": "Mohave Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.9008,
+    "lng": -114.5732,
+    "cafes": []
+  },
+  "Star Valley": {
+    "city": "Star Valley",
+    "city_ascii": "Star Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2611,
+    "lng": -111.2197,
+    "cafes": []
+  },
+  "Wellton": {
+    "city": "Wellton",
+    "city_ascii": "Wellton",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6401,
+    "lng": -114.2152,
+    "cafes": []
+  },
+  "Superior": {
+    "city": "Superior",
+    "city_ascii": "Superior",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.2851,
+    "lng": -111.1109,
+    "cafes": []
+  },
+  "Window Rock": {
+    "city": "Window Rock",
+    "city_ascii": "Window Rock",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.6705,
+    "lng": -109.0639,
+    "cafes": []
+  },
+  "Valle Vista": {
+    "city": "Valle Vista",
+    "city_ascii": "Valle Vista",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.4109,
+    "lng": -113.8627,
+    "cafes": []
+  },
+  "Timberline-Fernwood": {
+    "city": "Timberline-Fernwood",
+    "city_ascii": "Timberline-Fernwood",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.3168,
+    "lng": -111.5507,
+    "cafes": []
+  },
+  "Cibecue": {
+    "city": "Cibecue",
+    "city_ascii": "Cibecue",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.0332,
+    "lng": -110.4854,
+    "cafes": []
+  },
+  "Linden": {
+    "city": "Linden",
+    "city_ascii": "Linden",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2625,
+    "lng": -110.1424,
+    "cafes": []
+  },
+  "Black Canyon City": {
+    "city": "Black Canyon City",
+    "city_ascii": "Black Canyon City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.071,
+    "lng": -112.122,
+    "cafes": []
+  },
+  "Rio Verde": {
+    "city": "Rio Verde",
+    "city_ascii": "Rio Verde",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.7278,
+    "lng": -111.674,
+    "cafes": []
+  },
+  "Kearny": {
+    "city": "Kearny",
+    "city_ascii": "Kearny",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.0564,
+    "lng": -110.9074,
+    "cafes": []
+  },
+  "Blackwater": {
+    "city": "Blackwater",
+    "city_ascii": "Blackwater",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.0396,
+    "lng": -111.5798,
+    "cafes": []
+  },
+  "Sells": {
+    "city": "Sells",
+    "city_ascii": "Sells",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.9202,
+    "lng": -111.8775,
+    "cafes": []
+  },
+  "Joseph City": {
+    "city": "Joseph City",
+    "city_ascii": "Joseph City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.9614,
+    "lng": -110.3274,
+    "cafes": []
+  },
+  "Scenic": {
+    "city": "Scenic",
+    "city_ascii": "Scenic",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.793,
+    "lng": -114.0151,
+    "cafes": []
+  },
+  "Mountain View Ranches": {
+    "city": "Mountain View Ranches",
+    "city_ascii": "Mountain View Ranches",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2335,
+    "lng": -111.4728,
+    "cafes": []
+  },
+  "Pinetop Country Club": {
+    "city": "Pinetop Country Club",
+    "city_ascii": "Pinetop Country Club",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1164,
+    "lng": -109.8909,
+    "cafes": []
+  },
+  "Pine": {
+    "city": "Pine",
+    "city_ascii": "Pine",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3788,
+    "lng": -111.4574,
+    "cafes": []
+  },
+  "Lukachukai": {
+    "city": "Lukachukai",
+    "city_ascii": "Lukachukai",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.4112,
+    "lng": -109.2267,
+    "cafes": []
+  },
+  "Gila Bend": {
+    "city": "Gila Bend",
+    "city_ascii": "Gila Bend",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9662,
+    "lng": -112.7154,
+    "cafes": []
+  },
+  "Pirtleville": {
+    "city": "Pirtleville",
+    "city_ascii": "Pirtleville",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.3614,
+    "lng": -109.5662,
+    "cafes": []
+  },
+  "Springerville": {
+    "city": "Springerville",
+    "city_ascii": "Springerville",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.156,
+    "lng": -109.2988,
+    "cafes": []
+  },
+  "Huachuca City": {
+    "city": "Huachuca City",
+    "city_ascii": "Huachuca City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.6308,
+    "lng": -110.3421,
+    "cafes": []
+  },
+  "Quartzsite": {
+    "city": "Quartzsite",
+    "city_ascii": "Quartzsite",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6675,
+    "lng": -114.2171,
+    "cafes": []
+  },
+  "Fort Valley": {
+    "city": "Fort Valley",
+    "city_ascii": "Fort Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.3228,
+    "lng": -111.7399,
+    "cafes": []
+  },
+  "Wagon Wheel": {
+    "city": "Wagon Wheel",
+    "city_ascii": "Wagon Wheel",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1976,
+    "lng": -110.0272,
+    "cafes": []
+  },
+  "Red Lake": {
+    "city": "Red Lake",
+    "city_ascii": "Red Lake",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.3579,
+    "lng": -112.1705,
+    "cafes": []
+  },
+  "Bylas": {
+    "city": "Bylas",
+    "city_ascii": "Bylas",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1291,
+    "lng": -110.1162,
+    "cafes": []
+  },
+  "Centennial Park": {
+    "city": "Centennial Park",
+    "city_ascii": "Centennial Park",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.9538,
+    "lng": -112.9813,
+    "cafes": []
+  },
+  "Congress": {
+    "city": "Congress",
+    "city_ascii": "Congress",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1526,
+    "lng": -112.8642,
+    "cafes": []
+  },
+  "Kaibito": {
+    "city": "Kaibito",
+    "city_ascii": "Kaibito",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.592,
+    "lng": -111.1071,
+    "cafes": []
+  },
+  "Grand Canyon Village": {
+    "city": "Grand Canyon Village",
+    "city_ascii": "Grand Canyon Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.0474,
+    "lng": -112.1623,
+    "cafes": []
+  },
+  "Tsaile": {
+    "city": "Tsaile",
+    "city_ascii": "Tsaile",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.3033,
+    "lng": -109.2157,
+    "cafes": []
+  },
+  "Cienega Springs": {
+    "city": "Cienega Springs",
+    "city_ascii": "Cienega Springs",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2009,
+    "lng": -114.2089,
+    "cafes": []
+  },
+  "Meadview": {
+    "city": "Meadview",
+    "city_ascii": "Meadview",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.9532,
+    "lng": -114.0789,
+    "cafes": []
+  },
+  "Spring Valley": {
+    "city": "Spring Valley",
+    "city_ascii": "Spring Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3452,
+    "lng": -112.1592,
+    "cafes": []
+  },
+  "Mescal": {
+    "city": "Mescal",
+    "city_ascii": "Mescal",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.9676,
+    "lng": -110.4368,
+    "cafes": []
+  },
+  "Tonto Basin": {
+    "city": "Tonto Basin",
+    "city_ascii": "Tonto Basin",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.837,
+    "lng": -111.2999,
+    "cafes": []
+  },
+  "Beaver Dam": {
+    "city": "Beaver Dam",
+    "city_ascii": "Beaver Dam",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.907,
+    "lng": -113.9362,
+    "cafes": []
+  },
+  "Cactus Flats": {
+    "city": "Cactus Flats",
+    "city_ascii": "Cactus Flats",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7642,
+    "lng": -109.7206,
+    "cafes": []
+  },
+  "Morenci": {
+    "city": "Morenci",
+    "city_ascii": "Morenci",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.0539,
+    "lng": -109.331,
+    "cafes": []
+  },
+  "Parks": {
+    "city": "Parks",
+    "city_ascii": "Parks",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2939,
+    "lng": -111.977,
+    "cafes": []
+  },
+  "North Fork": {
+    "city": "North Fork",
+    "city_ascii": "North Fork",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.9965,
+    "lng": -109.9593,
+    "cafes": []
+  },
+  "Bellemont": {
+    "city": "Bellemont",
+    "city_ascii": "Bellemont",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2425,
+    "lng": -111.8138,
+    "cafes": []
+  },
+  "Miami": {
+    "city": "Miami",
+    "city_ascii": "Miami",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3951,
+    "lng": -110.8724,
+    "cafes": []
+  },
+  "Canyon Day": {
+    "city": "Canyon Day",
+    "city_ascii": "Canyon Day",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.783,
+    "lng": -110.0328,
+    "cafes": []
+  },
+  "Kaibab Estates West": {
+    "city": "Kaibab Estates West",
+    "city_ascii": "Kaibab Estates West",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2762,
+    "lng": -112.5018,
+    "cafes": []
+  },
+  "Casa Blanca": {
+    "city": "Casa Blanca",
+    "city_ascii": "Casa Blanca",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1154,
+    "lng": -111.9081,
+    "cafes": []
+  },
+  "First Mesa": {
+    "city": "First Mesa",
+    "city_ascii": "First Mesa",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.8389,
+    "lng": -110.3665,
+    "cafes": []
+  },
+  "Dolan Springs": {
+    "city": "Dolan Springs",
+    "city_ascii": "Dolan Springs",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.5905,
+    "lng": -114.2851,
+    "cafes": []
+  },
+  "Golden Shores": {
+    "city": "Golden Shores",
+    "city_ascii": "Golden Shores",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.7819,
+    "lng": -114.4777,
+    "cafes": []
+  },
+  "LeChee": {
+    "city": "LeChee",
+    "city_ascii": "LeChee",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.871,
+    "lng": -111.4328,
+    "cafes": []
+  },
+  "Dilkon": {
+    "city": "Dilkon",
+    "city_ascii": "Dilkon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.3606,
+    "lng": -110.3155,
+    "cafes": []
+  },
+  "Tubac": {
+    "city": "Tubac",
+    "city_ascii": "Tubac",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.6111,
+    "lng": -111.0586,
+    "cafes": []
+  },
+  "Second Mesa": {
+    "city": "Second Mesa",
+    "city_ascii": "Second Mesa",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.8222,
+    "lng": -110.4884,
+    "cafes": []
+  },
+  "Peach Springs": {
+    "city": "Peach Springs",
+    "city_ascii": "Peach Springs",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.5315,
+    "lng": -113.4319,
+    "cafes": []
+  },
+  "Mesa del Caballo": {
+    "city": "Mesa del Caballo",
+    "city_ascii": "Mesa del Caballo",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.286,
+    "lng": -111.2952,
+    "cafes": []
+  },
+  "Pinon": {
+    "city": "Pinon",
+    "city_ascii": "Pinon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.0992,
+    "lng": -110.2209,
+    "cafes": []
+  },
+  "Naco": {
+    "city": "Naco",
+    "city_ascii": "Naco",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.3431,
+    "lng": -109.9336,
+    "cafes": []
+  },
+  "Peridot": {
+    "city": "Peridot",
+    "city_ascii": "Peridot",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3016,
+    "lng": -110.4572,
+    "cafes": []
+  },
+  "Claypool": {
+    "city": "Claypool",
+    "city_ascii": "Claypool",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.4061,
+    "lng": -110.8422,
+    "cafes": []
+  },
+  "Ak-Chin Village": {
+    "city": "Ak-Chin Village",
+    "city_ascii": "Ak-Chin Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.0197,
+    "lng": -112.0808,
+    "cafes": []
+  },
+  "Shongopovi": {
+    "city": "Shongopovi",
+    "city_ascii": "Shongopovi",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.8195,
+    "lng": -110.5331,
+    "cafes": []
+  },
+  "Bouse": {
+    "city": "Bouse",
+    "city_ascii": "Bouse",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8984,
+    "lng": -113.9962,
+    "cafes": []
+  },
+  "St. David": {
+    "city": "St. David",
+    "city_ascii": "St. David",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.8958,
+    "lng": -110.2224,
+    "cafes": []
+  },
+  "Fredonia": {
+    "city": "Fredonia",
+    "city_ascii": "Fredonia",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.9617,
+    "lng": -112.5195,
+    "cafes": []
+  },
+  "Duncan": {
+    "city": "Duncan",
+    "city_ascii": "Duncan",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7344,
+    "lng": -109.0972,
+    "cafes": []
+  },
+  "Blue Ridge": {
+    "city": "Blue Ridge",
+    "city_ascii": "Blue Ridge",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.6407,
+    "lng": -111.1073,
+    "cafes": []
+  },
+  "Moenkopi": {
+    "city": "Moenkopi",
+    "city_ascii": "Moenkopi",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.1125,
+    "lng": -111.2212,
+    "cafes": []
+  },
+  "Leupp": {
+    "city": "Leupp",
+    "city_ascii": "Leupp",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2966,
+    "lng": -111.0028,
+    "cafes": []
+  },
+  "Wilhoit": {
+    "city": "Wilhoit",
+    "city_ascii": "Wilhoit",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.4082,
+    "lng": -112.6156,
+    "cafes": []
+  },
+  "Tombstone": {
+    "city": "Tombstone",
+    "city_ascii": "Tombstone",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.7234,
+    "lng": -110.0798,
+    "cafes": []
+  },
+  "Mammoth": {
+    "city": "Mammoth",
+    "city_ascii": "Mammoth",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6853,
+    "lng": -110.7292,
+    "cafes": []
+  },
+  "Six Shooter Canyon": {
+    "city": "Six Shooter Canyon",
+    "city_ascii": "Six Shooter Canyon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3569,
+    "lng": -110.7719,
+    "cafes": []
+  },
+  "Gila Crossing": {
+    "city": "Gila Crossing",
+    "city_ascii": "Gila Crossing",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.2731,
+    "lng": -112.1627,
+    "cafes": []
+  },
+  "Mountainaire": {
+    "city": "Mountainaire",
+    "city_ascii": "Mountainaire",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.0921,
+    "lng": -111.6493,
+    "cafes": []
+  },
+  "McNary": {
+    "city": "McNary",
+    "city_ascii": "McNary",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.0923,
+    "lng": -109.8541,
+    "cafes": []
+  },
+  "Ehrenberg": {
+    "city": "Ehrenberg",
+    "city_ascii": "Ehrenberg",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6175,
+    "lng": -114.4883,
+    "cafes": []
+  },
+  "Whitecone": {
+    "city": "Whitecone",
+    "city_ascii": "Whitecone",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.6037,
+    "lng": -110.0791,
+    "cafes": []
+  },
+  "Rainbow City": {
+    "city": "Rainbow City",
+    "city_ascii": "Rainbow City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8731,
+    "lng": -109.9763,
+    "cafes": []
+  },
+  "St. Michaels": {
+    "city": "St. Michaels",
+    "city_ascii": "St. Michaels",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.6606,
+    "lng": -109.0962,
+    "cafes": []
+  },
+  "Mayer": {
+    "city": "Mayer",
+    "city_ascii": "Mayer",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.4233,
+    "lng": -112.2408,
+    "cafes": []
+  },
+  "Teec Nos Pos": {
+    "city": "Teec Nos Pos",
+    "city_ascii": "Teec Nos Pos",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.9221,
+    "lng": -109.0753,
+    "cafes": []
+  },
+  "Patagonia": {
+    "city": "Patagonia",
+    "city_ascii": "Patagonia",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.5436,
+    "lng": -110.7478,
+    "cafes": []
+  },
+  "Chilchinbito": {
+    "city": "Chilchinbito",
+    "city_ascii": "Chilchinbito",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.5027,
+    "lng": -110.0512,
+    "cafes": []
+  },
+  "Strawberry": {
+    "city": "Strawberry",
+    "city_ascii": "Strawberry",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.4012,
+    "lng": -111.51,
+    "cafes": []
+  },
+  "Hondah": {
+    "city": "Hondah",
+    "city_ascii": "Hondah",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.086,
+    "lng": -109.9149,
+    "cafes": []
+  },
+  "Circle City": {
+    "city": "Circle City",
+    "city_ascii": "Circle City",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8149,
+    "lng": -112.581,
+    "cafes": []
+  },
+  "Komatke": {
+    "city": "Komatke",
+    "city_ascii": "Komatke",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.2953,
+    "lng": -112.1615,
+    "cafes": []
+  },
+  "Willow Valley": {
+    "city": "Willow Valley",
+    "city_ascii": "Willow Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.9296,
+    "lng": -114.6159,
+    "cafes": []
+  },
+  "Houck": {
+    "city": "Houck",
+    "city_ascii": "Houck",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2714,
+    "lng": -109.2237,
+    "cafes": []
+  },
+  "Bluewater": {
+    "city": "Bluewater",
+    "city_ascii": "Bluewater",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1681,
+    "lng": -114.2667,
+    "cafes": []
+  },
+  "Queen Valley": {
+    "city": "Queen Valley",
+    "city_ascii": "Queen Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.2831,
+    "lng": -111.3049,
+    "cafes": []
+  },
+  "Brenda": {
+    "city": "Brenda",
+    "city_ascii": "Brenda",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6721,
+    "lng": -113.9379,
+    "cafes": []
+  },
+  "Gisela": {
+    "city": "Gisela",
+    "city_ascii": "Gisela",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1015,
+    "lng": -111.2895,
+    "cafes": []
+  },
+  "Parker Strip": {
+    "city": "Parker Strip",
+    "city_ascii": "Parker Strip",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2797,
+    "lng": -114.1277,
+    "cafes": []
+  },
+  "Cameron": {
+    "city": "Cameron",
+    "city_ascii": "Cameron",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.8537,
+    "lng": -111.4269,
+    "cafes": []
+  },
+  "Seven Mile": {
+    "city": "Seven Mile",
+    "city_ascii": "Seven Mile",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.7883,
+    "lng": -109.9576,
+    "cafes": []
+  },
+  "Kykotsmovi Village": {
+    "city": "Kykotsmovi Village",
+    "city_ascii": "Kykotsmovi Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.8576,
+    "lng": -110.6338,
+    "cafes": []
+  },
+  "Munds Park": {
+    "city": "Munds Park",
+    "city_ascii": "Munds Park",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.9382,
+    "lng": -111.6318,
+    "cafes": []
+  },
+  "Sanders": {
+    "city": "Sanders",
+    "city_ascii": "Sanders",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2095,
+    "lng": -109.3224,
+    "cafes": []
+  },
+  "Miracle Valley": {
+    "city": "Miracle Valley",
+    "city_ascii": "Miracle Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.3829,
+    "lng": -110.1485,
+    "cafes": []
+  },
+  "Seligman": {
+    "city": "Seligman",
+    "city_ascii": "Seligman",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.3256,
+    "lng": -112.8574,
+    "cafes": []
+  },
+  "Salome": {
+    "city": "Salome",
+    "city_ascii": "Salome",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.7778,
+    "lng": -113.606,
+    "cafes": []
+  },
+  "Maricopa Colony": {
+    "city": "Maricopa Colony",
+    "city_ascii": "Maricopa Colony",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3626,
+    "lng": -112.2267,
+    "cafes": []
+  },
+  "Sonoita": {
+    "city": "Sonoita",
+    "city_ascii": "Sonoita",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.6646,
+    "lng": -110.6427,
+    "cafes": []
+  },
+  "Peeples Valley": {
+    "city": "Peeples Valley",
+    "city_ascii": "Peeples Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2773,
+    "lng": -112.7653,
+    "cafes": []
+  },
+  "Many Farms": {
+    "city": "Many Farms",
+    "city_ascii": "Many Farms",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.3532,
+    "lng": -109.6271,
+    "cafes": []
+  },
+  "Hotevilla-Bacavi": {
+    "city": "Hotevilla-Bacavi",
+    "city_ascii": "Hotevilla-Bacavi",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.9225,
+    "lng": -110.6569,
+    "cafes": []
+  },
+  "Gadsden": {
+    "city": "Gadsden",
+    "city_ascii": "Gadsden",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.5564,
+    "lng": -114.7811,
+    "cafes": []
+  },
+  "Santa Rosa": {
+    "city": "Santa Rosa",
+    "city_ascii": "Santa Rosa",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.3325,
+    "lng": -112.0464,
+    "cafes": []
+  },
+  "Arizona Village": {
+    "city": "Arizona Village",
+    "city_ascii": "Arizona Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.8546,
+    "lng": -114.5895,
+    "cafes": []
+  },
+  "Sawmill": {
+    "city": "Sawmill",
+    "city_ascii": "Sawmill",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.8924,
+    "lng": -109.1538,
+    "cafes": []
+  },
+  "Sunsites": {
+    "city": "Sunsites",
+    "city_ascii": "Sunsites",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.941,
+    "lng": -109.8394,
+    "cafes": []
+  },
+  "Roosevelt Estates": {
+    "city": "Roosevelt Estates",
+    "city_ascii": "Roosevelt Estates",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6201,
+    "lng": -110.9997,
+    "cafes": []
+  },
+  "Arivaca Junction": {
+    "city": "Arivaca Junction",
+    "city_ascii": "Arivaca Junction",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.739,
+    "lng": -111.0738,
+    "cafes": []
+  },
+  "Vicksburg": {
+    "city": "Vicksburg",
+    "city_ascii": "Vicksburg",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.7293,
+    "lng": -113.8255,
+    "cafes": []
+  },
+  "Donovan Estates": {
+    "city": "Donovan Estates",
+    "city_ascii": "Donovan Estates",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7094,
+    "lng": -114.6781,
+    "cafes": []
+  },
+  "Ganado": {
+    "city": "Ganado",
+    "city_ascii": "Ganado",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.7016,
+    "lng": -109.5504,
+    "cafes": []
+  },
+  "Wittmann": {
+    "city": "Wittmann",
+    "city_ascii": "Wittmann",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.7749,
+    "lng": -112.525,
+    "cafes": []
+  },
+  "Yarnell": {
+    "city": "Yarnell",
+    "city_ascii": "Yarnell",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2282,
+    "lng": -112.7631,
+    "cafes": []
+  },
+  "Stotonic Village": {
+    "city": "Stotonic Village",
+    "city_ascii": "Stotonic Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1528,
+    "lng": -111.8167,
+    "cafes": []
+  },
+  "Walnut Creek": {
+    "city": "Walnut Creek",
+    "city_ascii": "Walnut Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.1312,
+    "lng": -114.1267,
+    "cafes": []
+  },
+  "Ash Fork": {
+    "city": "Ash Fork",
+    "city_ascii": "Ash Fork",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2171,
+    "lng": -112.4913,
+    "cafes": []
+  },
+  "Elephant Head": {
+    "city": "Elephant Head",
+    "city_ascii": "Elephant Head",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.7659,
+    "lng": -110.9921,
+    "cafes": []
+  },
+  "Low Mountain": {
+    "city": "Low Mountain",
+    "city_ascii": "Low Mountain",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.9481,
+    "lng": -110.0981,
+    "cafes": []
+  },
+  "Goodyear Village": {
+    "city": "Goodyear Village",
+    "city_ascii": "Goodyear Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1973,
+    "lng": -111.8724,
+    "cafes": []
+  },
+  "San Jose": {
+    "city": "San Jose",
+    "city_ascii": "San Jose",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.8169,
+    "lng": -109.5957,
+    "cafes": []
+  },
+  "Pinedale": {
+    "city": "Pinedale",
+    "city_ascii": "Pinedale",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3207,
+    "lng": -110.2599,
+    "cafes": []
+  },
+  "La Paz Valley": {
+    "city": "La Paz Valley",
+    "city_ascii": "La Paz Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.5582,
+    "lng": -114.2434,
+    "cafes": []
+  },
+  "Round Rock": {
+    "city": "Round Rock",
+    "city_ascii": "Round Rock",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.5044,
+    "lng": -109.4616,
+    "cafes": []
+  },
+  "Cane Beds": {
+    "city": "Cane Beds",
+    "city_ascii": "Cane Beds",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.9342,
+    "lng": -112.9118,
+    "cafes": []
+  },
+  "So-Hi": {
+    "city": "So-Hi",
+    "city_ascii": "So-Hi",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2527,
+    "lng": -114.1415,
+    "cafes": []
+  },
+  "Cactus Forest": {
+    "city": "Cactus Forest",
+    "city_ascii": "Cactus Forest",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9578,
+    "lng": -111.317,
+    "cafes": []
+  },
+  "Round Valley": {
+    "city": "Round Valley",
+    "city_ascii": "Round Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1877,
+    "lng": -111.3017,
+    "cafes": []
+  },
+  "Nazlini": {
+    "city": "Nazlini",
+    "city_ascii": "Nazlini",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.9155,
+    "lng": -109.4726,
+    "cafes": []
+  },
+  "Upper Santan Village": {
+    "city": "Upper Santan Village",
+    "city_ascii": "Upper Santan Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1152,
+    "lng": -111.7419,
+    "cafes": []
+  },
+  "Del Muerto": {
+    "city": "Del Muerto",
+    "city_ascii": "Del Muerto",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.187,
+    "lng": -109.4348,
+    "cafes": []
+  },
+  "Arivaca": {
+    "city": "Arivaca",
+    "city_ascii": "Arivaca",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.575,
+    "lng": -111.2926,
+    "cafes": []
+  },
+  "East Fork": {
+    "city": "East Fork",
+    "city_ascii": "East Fork",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8082,
+    "lng": -109.9227,
+    "cafes": []
+  },
+  "Dennehotso": {
+    "city": "Dennehotso",
+    "city_ascii": "Dennehotso",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.8208,
+    "lng": -109.8791,
+    "cafes": []
+  },
+  "Mesquite Creek": {
+    "city": "Mesquite Creek",
+    "city_ascii": "Mesquite Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.9607,
+    "lng": -114.5714,
+    "cafes": []
+  },
+  "Solomon": {
+    "city": "Solomon",
+    "city_ascii": "Solomon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.8138,
+    "lng": -109.629,
+    "cafes": []
+  },
+  "Nutrioso": {
+    "city": "Nutrioso",
+    "city_ascii": "Nutrioso",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.9514,
+    "lng": -109.2058,
+    "cafes": []
+  },
+  "Turkey Creek": {
+    "city": "Turkey Creek",
+    "city_ascii": "Turkey Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8011,
+    "lng": -109.9461,
+    "cafes": []
+  },
+  "Icehouse Canyon": {
+    "city": "Icehouse Canyon",
+    "city_ascii": "Icehouse Canyon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3553,
+    "lng": -110.7965,
+    "cafes": []
+  },
+  "Red Mesa": {
+    "city": "Red Mesa",
+    "city_ascii": "Red Mesa",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.9664,
+    "lng": -109.3828,
+    "cafes": []
+  },
+  "Rancho Mesa Verde": {
+    "city": "Rancho Mesa Verde",
+    "city_ascii": "Rancho Mesa Verde",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.5944,
+    "lng": -114.6551,
+    "cafes": []
+  },
+  "Keams Canyon": {
+    "city": "Keams Canyon",
+    "city_ascii": "Keams Canyon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.8229,
+    "lng": -110.2011,
+    "cafes": []
+  },
+  "Dudleyville": {
+    "city": "Dudleyville",
+    "city_ascii": "Dudleyville",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9127,
+    "lng": -110.7345,
+    "cafes": []
+  },
+  "Cedar Creek": {
+    "city": "Cedar Creek",
+    "city_ascii": "Cedar Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.903,
+    "lng": -110.1929,
+    "cafes": []
+  },
+  "Tacna": {
+    "city": "Tacna",
+    "city_ascii": "Tacna",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7004,
+    "lng": -113.9618,
+    "cafes": []
+  },
+  "Rough Rock": {
+    "city": "Rough Rock",
+    "city_ascii": "Rough Rock",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.4106,
+    "lng": -109.8691,
+    "cafes": []
+  },
+  "Sacaton Flats Village": {
+    "city": "Sacaton Flats Village",
+    "city_ascii": "Sacaton Flats Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.0559,
+    "lng": -111.659,
+    "cafes": []
+  },
+  "Burnside": {
+    "city": "Burnside",
+    "city_ascii": "Burnside",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.7534,
+    "lng": -109.6247,
+    "cafes": []
+  },
+  "Tees Toh": {
+    "city": "Tees Toh",
+    "city_ascii": "Tees Toh",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.4849,
+    "lng": -110.3989,
+    "cafes": []
+  },
+  "York": {
+    "city": "York",
+    "city_ascii": "York",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9175,
+    "lng": -109.196,
+    "cafes": []
+  },
+  "Bitter Springs": {
+    "city": "Bitter Springs",
+    "city_ascii": "Bitter Springs",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.6118,
+    "lng": -111.6475,
+    "cafes": []
+  },
+  "Pinal": {
+    "city": "Pinal",
+    "city_ascii": "Pinal",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3802,
+    "lng": -110.7572,
+    "cafes": []
+  },
+  "Bryce": {
+    "city": "Bryce",
+    "city_ascii": "Bryce",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9258,
+    "lng": -109.8229,
+    "cafes": []
+  },
+  "Tolani Lake": {
+    "city": "Tolani Lake",
+    "city_ascii": "Tolani Lake",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.431,
+    "lng": -110.8431,
+    "cafes": []
+  },
+  "Wenden": {
+    "city": "Wenden",
+    "city_ascii": "Wenden",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8324,
+    "lng": -113.5432,
+    "cafes": []
+  },
+  "Hayden": {
+    "city": "Hayden",
+    "city_ascii": "Hayden",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9995,
+    "lng": -110.7814,
+    "cafes": []
+  },
+  "Lazy Y U": {
+    "city": "Lazy Y U",
+    "city_ascii": "Lazy Y U",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.1369,
+    "lng": -113.9684,
+    "cafes": []
+  },
+  "Wheatfields": {
+    "city": "Wheatfields",
+    "city_ascii": "Wheatfields",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.4805,
+    "lng": -110.8366,
+    "cafes": []
+  },
+  "Rock Point": {
+    "city": "Rock Point",
+    "city_ascii": "Rock Point",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.7173,
+    "lng": -109.6287,
+    "cafes": []
+  },
+  "Valle": {
+    "city": "Valle",
+    "city_ascii": "Valle",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.6598,
+    "lng": -112.1637,
+    "cafes": []
+  },
+  "Bowie": {
+    "city": "Bowie",
+    "city_ascii": "Bowie",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.3247,
+    "lng": -109.4843,
+    "cafes": []
+  },
+  "El Prado Estates": {
+    "city": "El Prado Estates",
+    "city_ascii": "El Prado Estates",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7062,
+    "lng": -114.5215,
+    "cafes": []
+  },
+  "Wall Lane": {
+    "city": "Wall Lane",
+    "city_ascii": "Wall Lane",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6573,
+    "lng": -114.7105,
+    "cafes": []
+  },
+  "Tusayan": {
+    "city": "Tusayan",
+    "city_ascii": "Tusayan",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.9549,
+    "lng": -112.1202,
+    "cafes": []
+  },
+  "Cornfields": {
+    "city": "Cornfields",
+    "city_ascii": "Cornfields",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.6515,
+    "lng": -109.6756,
+    "cafes": []
+  },
+  "Steamboat": {
+    "city": "Steamboat",
+    "city_ascii": "Steamboat",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.7535,
+    "lng": -109.8504,
+    "cafes": []
+  },
+  "Topawa": {
+    "city": "Topawa",
+    "city_ascii": "Topawa",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.8078,
+    "lng": -111.8305,
+    "cafes": []
+  },
+  "Pisinemo": {
+    "city": "Pisinemo",
+    "city_ascii": "Pisinemo",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.035,
+    "lng": -112.3193,
+    "cafes": []
+  },
+  "Shonto": {
+    "city": "Shonto",
+    "city_ascii": "Shonto",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.5893,
+    "lng": -110.6607,
+    "cafes": []
+  },
+  "Greenehaven": {
+    "city": "Greenehaven",
+    "city_ascii": "Greenehaven",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.9959,
+    "lng": -111.5566,
+    "cafes": []
+  },
+  "Stanfield": {
+    "city": "Stanfield",
+    "city_ascii": "Stanfield",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.8794,
+    "lng": -111.9636,
+    "cafes": []
+  },
+  "Hackberry": {
+    "city": "Hackberry",
+    "city_ascii": "Hackberry",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.3401,
+    "lng": -113.7256,
+    "cafes": []
+  },
+  "White Hills": {
+    "city": "White Hills",
+    "city_ascii": "White Hills",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.7242,
+    "lng": -114.4004,
+    "cafes": []
+  },
+  "Winslow West": {
+    "city": "Winslow West",
+    "city_ascii": "Winslow West",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.9918,
+    "lng": -110.7069,
+    "cafes": []
+  },
+  "Jerome": {
+    "city": "Jerome",
+    "city_ascii": "Jerome",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.7471,
+    "lng": -112.1076,
+    "cafes": []
+  },
+  "Indian Wells": {
+    "city": "Indian Wells",
+    "city_ascii": "Indian Wells",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.4089,
+    "lng": -110.1062,
+    "cafes": []
+  },
+  "Oak Creek Canyon": {
+    "city": "Oak Creek Canyon",
+    "city_ascii": "Oak Creek Canyon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.949,
+    "lng": -111.7505,
+    "cafes": []
+  },
+  "Picacho": {
+    "city": "Picacho",
+    "city_ascii": "Picacho",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.709,
+    "lng": -111.4909,
+    "cafes": []
+  },
+  "Fort Thomas": {
+    "city": "Fort Thomas",
+    "city_ascii": "Fort Thomas",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.0222,
+    "lng": -109.9665,
+    "cafes": []
+  },
+  "Nelson": {
+    "city": "Nelson",
+    "city_ascii": "Nelson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.4298,
+    "lng": -111.2649,
+    "cafes": []
+  },
+  "Greasewood": {
+    "city": "Greasewood",
+    "city_ascii": "Greasewood",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.5279,
+    "lng": -109.8614,
+    "cafes": []
+  },
+  "San Miguel": {
+    "city": "San Miguel",
+    "city_ascii": "San Miguel",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.6295,
+    "lng": -111.7801,
+    "cafes": []
+  },
+  "East Globe": {
+    "city": "East Globe",
+    "city_ascii": "East Globe",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3511,
+    "lng": -110.7061,
+    "cafes": []
+  },
+  "Yuma Proving Ground": {
+    "city": "Yuma Proving Ground",
+    "city_ascii": "Yuma Proving Ground",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.8652,
+    "lng": -114.4369,
+    "cafes": []
+  },
+  "Carrizo": {
+    "city": "Carrizo",
+    "city_ascii": "Carrizo",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.9866,
+    "lng": -110.3314,
+    "cafes": []
+  },
+  "Sacate Village": {
+    "city": "Sacate Village",
+    "city_ascii": "Sacate Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1416,
+    "lng": -111.9811,
+    "cafes": []
+  },
+  "Palominas": {
+    "city": "Palominas",
+    "city_ascii": "Palominas",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.3839,
+    "lng": -110.1212,
+    "cafes": []
+  },
+  "Dripping Springs": {
+    "city": "Dripping Springs",
+    "city_ascii": "Dripping Springs",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1049,
+    "lng": -110.7551,
+    "cafes": []
+  },
+  "Tonalea": {
+    "city": "Tonalea",
+    "city_ascii": "Tonalea",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.3218,
+    "lng": -110.9667,
+    "cafes": []
+  },
+  "Central": {
+    "city": "Central",
+    "city_ascii": "Central",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.8692,
+    "lng": -109.7908,
+    "cafes": []
+  },
+  "Young": {
+    "city": "Young",
+    "city_ascii": "Young",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1189,
+    "lng": -110.9559,
+    "cafes": []
+  },
+  "San Simon": {
+    "city": "San Simon",
+    "city_ascii": "San Simon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.2682,
+    "lng": -109.2302,
+    "cafes": []
+  },
+  "Wellton Hills": {
+    "city": "Wellton Hills",
+    "city_ascii": "Wellton Hills",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6231,
+    "lng": -114.1453,
+    "cafes": []
+  },
+  "Lower Santan Village": {
+    "city": "Lower Santan Village",
+    "city_ascii": "Lower Santan Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1427,
+    "lng": -111.7853,
+    "cafes": []
+  },
+  "Jeddito": {
+    "city": "Jeddito",
+    "city_ascii": "Jeddito",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.7697,
+    "lng": -110.1305,
+    "cafes": []
+  },
+  "Fort Apache": {
+    "city": "Fort Apache",
+    "city_ascii": "Fort Apache",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.7907,
+    "lng": -109.9873,
+    "cafes": []
+  },
+  "Crystal Beach": {
+    "city": "Crystal Beach",
+    "city_ascii": "Crystal Beach",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.5714,
+    "lng": -114.3925,
+    "cafes": []
+  },
+  "Vernon": {
+    "city": "Vernon",
+    "city_ascii": "Vernon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2508,
+    "lng": -109.6926,
+    "cafes": []
+  },
+  "McNeal": {
+    "city": "McNeal",
+    "city_ascii": "McNeal",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.6079,
+    "lng": -109.6699,
+    "cafes": []
+  },
+  "Dragoon": {
+    "city": "Dragoon",
+    "city_ascii": "Dragoon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.0272,
+    "lng": -110.0369,
+    "cafes": []
+  },
+  "Winkelman": {
+    "city": "Winkelman",
+    "city_ascii": "Winkelman",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9853,
+    "lng": -110.7651,
+    "cafes": []
+  },
+  "Dateland": {
+    "city": "Dateland",
+    "city_ascii": "Dateland",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.8209,
+    "lng": -113.5418,
+    "cafes": []
+  },
+  "Chuichu": {
+    "city": "Chuichu",
+    "city_ascii": "Chuichu",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7403,
+    "lng": -111.7821,
+    "cafes": []
+  },
+  "South Komelik": {
+    "city": "South Komelik",
+    "city_ascii": "South Komelik",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.7144,
+    "lng": -111.7744,
+    "cafes": []
+  },
+  "Cibola": {
+    "city": "Cibola",
+    "city_ascii": "Cibola",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3733,
+    "lng": -114.6792,
+    "cafes": []
+  },
+  "Sunizona": {
+    "city": "Sunizona",
+    "city_ascii": "Sunizona",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.8855,
+    "lng": -109.6332,
+    "cafes": []
+  },
+  "Aguila": {
+    "city": "Aguila",
+    "city_ascii": "Aguila",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.9376,
+    "lng": -113.1665,
+    "cafes": []
+  },
+  "Clay Springs": {
+    "city": "Clay Springs",
+    "city_ascii": "Clay Springs",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3593,
+    "lng": -110.3044,
+    "cafes": []
+  },
+  "Gu Oidak": {
+    "city": "Gu Oidak",
+    "city_ascii": "Gu Oidak",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.9206,
+    "lng": -112.0235,
+    "cafes": []
+  },
+  "Deer Creek": {
+    "city": "Deer Creek",
+    "city_ascii": "Deer Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.0644,
+    "lng": -111.3505,
+    "cafes": []
+  },
+  "Morristown": {
+    "city": "Morristown",
+    "city_ascii": "Morristown",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8549,
+    "lng": -112.6135,
+    "cafes": []
+  },
+  "Katherine": {
+    "city": "Katherine",
+    "city_ascii": "Katherine",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2206,
+    "lng": -114.5616,
+    "cafes": []
+  },
+  "Sehili": {
+    "city": "Sehili",
+    "city_ascii": "Sehili",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.2807,
+    "lng": -109.1814,
+    "cafes": []
+  },
+  "Elgin": {
+    "city": "Elgin",
+    "city_ascii": "Elgin",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.6681,
+    "lng": -110.5347,
+    "cafes": []
+  },
+  "Jakes Corner": {
+    "city": "Jakes Corner",
+    "city_ascii": "Jakes Corner",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.0083,
+    "lng": -111.3203,
+    "cafes": []
+  },
+  "Cutter": {
+    "city": "Cutter",
+    "city_ascii": "Cutter",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3584,
+    "lng": -110.6593,
+    "cafes": []
+  },
+  "East Verde Estates": {
+    "city": "East Verde Estates",
+    "city_ascii": "East Verde Estates",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2983,
+    "lng": -111.3645,
+    "cafes": []
+  },
+  "Clacks Canyon": {
+    "city": "Clacks Canyon",
+    "city_ascii": "Clacks Canyon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.2203,
+    "lng": -114.0723,
+    "cafes": []
+  },
+  "Wet Camp Village": {
+    "city": "Wet Camp Village",
+    "city_ascii": "Wet Camp Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1413,
+    "lng": -111.9004,
+    "cafes": []
+  },
+  "Shumway": {
+    "city": "Shumway",
+    "city_ascii": "Shumway",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.4145,
+    "lng": -110.0649,
+    "cafes": []
+  },
+  "Mormon Lake": {
+    "city": "Mormon Lake",
+    "city_ascii": "Mormon Lake",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.9112,
+    "lng": -111.4527,
+    "cafes": []
+  },
+  "Poston": {
+    "city": "Poston",
+    "city_ascii": "Poston",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.9921,
+    "lng": -114.4045,
+    "cafes": []
+  },
+  "Klagetoh": {
+    "city": "Klagetoh",
+    "city_ascii": "Klagetoh",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.501,
+    "lng": -109.5283,
+    "cafes": []
+  },
+  "Tumacacori-Carmen": {
+    "city": "Tumacacori-Carmen",
+    "city_ascii": "Tumacacori-Carmen",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.5771,
+    "lng": -111.0468,
+    "cafes": []
+  },
+  "Chloride": {
+    "city": "Chloride",
+    "city_ascii": "Chloride",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.4097,
+    "lng": -114.1972,
+    "cafes": []
+  },
+  "Vaiva Vo": {
+    "city": "Vaiva Vo",
+    "city_ascii": "Vaiva Vo",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7167,
+    "lng": -111.9269,
+    "cafes": []
+  },
+  "Pinion Pines": {
+    "city": "Pinion Pines",
+    "city_ascii": "Pinion Pines",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.1466,
+    "lng": -113.9058,
+    "cafes": []
+  },
+  "Ali Molina": {
+    "city": "Ali Molina",
+    "city_ascii": "Ali Molina",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.9025,
+    "lng": -111.7804,
+    "cafes": []
+  },
+  "Freedom Acres": {
+    "city": "Freedom Acres",
+    "city_ascii": "Freedom Acres",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3199,
+    "lng": -111.3051,
+    "cafes": []
+  },
+  "Kino Springs": {
+    "city": "Kino Springs",
+    "city_ascii": "Kino Springs",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.3641,
+    "lng": -110.8096,
+    "cafes": []
+  },
+  "Whispering Pines": {
+    "city": "Whispering Pines",
+    "city_ascii": "Whispering Pines",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3728,
+    "lng": -111.2813,
+    "cafes": []
+  },
+  "Antares": {
+    "city": "Antares",
+    "city_ascii": "Antares",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.4229,
+    "lng": -113.8083,
+    "cafes": []
+  },
+  "Seba Dalkai": {
+    "city": "Seba Dalkai",
+    "city_ascii": "Seba Dalkai",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.4816,
+    "lng": -110.4562,
+    "cafes": []
+  },
+  "Elfrida": {
+    "city": "Elfrida",
+    "city_ascii": "Elfrida",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.6783,
+    "lng": -109.6876,
+    "cafes": []
+  },
+  "Copper Hill": {
+    "city": "Copper Hill",
+    "city_ascii": "Copper Hill",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.4379,
+    "lng": -110.7516,
+    "cafes": []
+  },
+  "Littlefield": {
+    "city": "Littlefield",
+    "city_ascii": "Littlefield",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.8659,
+    "lng": -113.936,
+    "cafes": []
+  },
+  "Top-of-the-World": {
+    "city": "Top-of-the-World",
+    "city_ascii": "Top-of-the-World",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3477,
+    "lng": -110.9997,
+    "cafes": []
+  },
+  "Ali Chuk": {
+    "city": "Ali Chuk",
+    "city_ascii": "Ali Chuk",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.8169,
+    "lng": -112.5584,
+    "cafes": []
+  },
+  "Mead Ranch": {
+    "city": "Mead Ranch",
+    "city_ascii": "Mead Ranch",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.346,
+    "lng": -111.143,
+    "cafes": []
+  },
+  "Sweet Water Village": {
+    "city": "Sweet Water Village",
+    "city_ascii": "Sweet Water Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.1274,
+    "lng": -111.8424,
+    "cafes": []
+  },
+  "Theba": {
+    "city": "Theba",
+    "city_ascii": "Theba",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9181,
+    "lng": -112.8903,
+    "cafes": []
+  },
+  "Kaibab": {
+    "city": "Kaibab",
+    "city_ascii": "Kaibab",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.8815,
+    "lng": -112.7237,
+    "cafes": []
+  },
+  "Hard Rock": {
+    "city": "Hard Rock",
+    "city_ascii": "Hard Rock",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.0309,
+    "lng": -110.5048,
+    "cafes": []
+  },
+  "Wintersburg": {
+    "city": "Wintersburg",
+    "city_ascii": "Wintersburg",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.4187,
+    "lng": -112.8666,
+    "cafes": []
+  },
+  "Beaver Valley": {
+    "city": "Beaver Valley",
+    "city_ascii": "Beaver Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3409,
+    "lng": -111.2987,
+    "cafes": []
+  },
+  "Truxton": {
+    "city": "Truxton",
+    "city_ascii": "Truxton",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.487,
+    "lng": -113.5607,
+    "cafes": []
+  },
+  "Alpine": {
+    "city": "Alpine",
+    "city_ascii": "Alpine",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8461,
+    "lng": -109.1433,
+    "cafes": []
+  },
+  "Santa Cruz": {
+    "city": "Santa Cruz",
+    "city_ascii": "Santa Cruz",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.2327,
+    "lng": -112.1594,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.677,
+    "lng": -109.072,
+    "cafes": []
+  },
+  "Tonto Village": {
+    "city": "Tonto Village",
+    "city_ascii": "Tonto Village",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3198,
+    "lng": -111.1394,
+    "cafes": []
+  },
+  "Oatman": {
+    "city": "Oatman",
+    "city_ascii": "Oatman",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.0275,
+    "lng": -114.384,
+    "cafes": []
+  },
+  "Haivana Nakya": {
+    "city": "Haivana Nakya",
+    "city_ascii": "Haivana Nakya",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.0051,
+    "lng": -111.7124,
+    "cafes": []
+  },
+  "Anegam": {
+    "city": "Anegam",
+    "city_ascii": "Anegam",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.3742,
+    "lng": -112.035,
+    "cafes": []
+  },
+  "Why": {
+    "city": "Why",
+    "city_ascii": "Why",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.259,
+    "lng": -112.7307,
+    "cafes": []
+  },
+  "Christopher Creek": {
+    "city": "Christopher Creek",
+    "city_ascii": "Christopher Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3206,
+    "lng": -111.0071,
+    "cafes": []
+  },
+  "Wahak Hotrontk": {
+    "city": "Wahak Hotrontk",
+    "city_ascii": "Wahak Hotrontk",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.1748,
+    "lng": -112.3664,
+    "cafes": []
+  },
+  "Chiawuli Tak": {
+    "city": "Chiawuli Tak",
+    "city_ascii": "Chiawuli Tak",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.941,
+    "lng": -111.7765,
+    "cafes": []
+  },
+  "Oxbow Estates": {
+    "city": "Oxbow Estates",
+    "city_ascii": "Oxbow Estates",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.1824,
+    "lng": -111.343,
+    "cafes": []
+  },
+  "Sun Valley": {
+    "city": "Sun Valley",
+    "city_ascii": "Sun Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.9834,
+    "lng": -110.0374,
+    "cafes": []
+  },
+  "Ventana": {
+    "city": "Ventana",
+    "city_ascii": "Ventana",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.4681,
+    "lng": -112.2434,
+    "cafes": []
+  },
+  "Wikieup": {
+    "city": "Wikieup",
+    "city_ascii": "Wikieup",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.6931,
+    "lng": -113.5995,
+    "cafes": []
+  },
+  "Kohls Ranch": {
+    "city": "Kohls Ranch",
+    "city_ascii": "Kohls Ranch",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.321,
+    "lng": -111.0838,
+    "cafes": []
+  },
+  "Ali Chukson": {
+    "city": "Ali Chukson",
+    "city_ascii": "Ali Chukson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.9115,
+    "lng": -111.8017,
+    "cafes": []
+  },
+  "Drysdale": {
+    "city": "Drysdale",
+    "city_ascii": "Drysdale",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6452,
+    "lng": -114.7067,
+    "cafes": []
+  },
+  "Kleindale": {
+    "city": "Kleindale",
+    "city_ascii": "Kleindale",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.2681,
+    "lng": -110.9146,
+    "cafes": []
+  },
+  "Beyerville": {
+    "city": "Beyerville",
+    "city_ascii": "Beyerville",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.3919,
+    "lng": -110.8749,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.3346,
+    "lng": -112.7747,
+    "cafes": []
+  },
+  "Oljato-Monument Valley": {
+    "city": "Oljato-Monument Valley",
+    "city_ascii": "Oljato-Monument Valley",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.9867,
+    "lng": -110.191,
+    "cafes": []
+  },
+  "Martinez Lake": {
+    "city": "Martinez Lake",
+    "city_ascii": "Martinez Lake",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.9843,
+    "lng": -114.4722,
+    "cafes": []
+  },
+  "Flowing Springs": {
+    "city": "Flowing Springs",
+    "city_ascii": "Flowing Springs",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3131,
+    "lng": -111.3379,
+    "cafes": []
+  },
+  "Maish Vaya": {
+    "city": "Maish Vaya",
+    "city_ascii": "Maish Vaya",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.1703,
+    "lng": -112.1342,
+    "cafes": []
+  },
+  "Yucca": {
+    "city": "Yucca",
+    "city_ascii": "Yucca",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.8629,
+    "lng": -114.1461,
+    "cafes": []
+  },
+  "Ko Vaya": {
+    "city": "Ko Vaya",
+    "city_ascii": "Ko Vaya",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.0815,
+    "lng": -111.8959,
+    "cafes": []
+  },
+  "Sunwest": {
+    "city": "Sunwest",
+    "city_ascii": "Sunwest",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.651,
+    "lng": -113.4091,
+    "cafes": []
+  },
+  "Valentine": {
+    "city": "Valentine",
+    "city_ascii": "Valentine",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.3886,
+    "lng": -113.6591,
+    "cafes": []
+  },
+  "Amado": {
+    "city": "Amado",
+    "city_ascii": "Amado",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.6968,
+    "lng": -111.0583,
+    "cafes": []
+  },
+  "Mojave Ranch Estates": {
+    "city": "Mojave Ranch Estates",
+    "city_ascii": "Mojave Ranch Estates",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.9449,
+    "lng": -114.5907,
+    "cafes": []
+  },
+  "Ak Chin": {
+    "city": "Ak Chin",
+    "city_ascii": "Ak Chin",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.2873,
+    "lng": -112.0091,
+    "cafes": []
+  },
+  "Campo Bonito": {
+    "city": "Campo Bonito",
+    "city_ascii": "Campo Bonito",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.5629,
+    "lng": -110.6984,
+    "cafes": []
+  },
+  "Pine Lake": {
+    "city": "Pine Lake",
+    "city_ascii": "Pine Lake",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.0887,
+    "lng": -113.874,
+    "cafes": []
+  },
+  "Moccasin": {
+    "city": "Moccasin",
+    "city_ascii": "Moccasin",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.9099,
+    "lng": -112.7546,
+    "cafes": []
+  },
+  "Haigler Creek": {
+    "city": "Haigler Creek",
+    "city_ascii": "Haigler Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2163,
+    "lng": -110.9719,
+    "cafes": []
+  },
+  "Wide Ruins": {
+    "city": "Wide Ruins",
+    "city_ascii": "Wide Ruins",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.4176,
+    "lng": -109.4994,
+    "cafes": []
+  },
+  "Oak Springs": {
+    "city": "Oak Springs",
+    "city_ascii": "Oak Springs",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.476,
+    "lng": -109.1318,
+    "cafes": []
+  },
+  "Hunter Creek": {
+    "city": "Hunter Creek",
+    "city_ascii": "Hunter Creek",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3054,
+    "lng": -111.0159,
+    "cafes": []
+  },
+  "Summerhaven": {
+    "city": "Summerhaven",
+    "city_ascii": "Summerhaven",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.4416,
+    "lng": -110.7766,
+    "cafes": []
+  },
+  "Rye": {
+    "city": "Rye",
+    "city_ascii": "Rye",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.0979,
+    "lng": -111.3542,
+    "cafes": []
+  },
+  "Crozier": {
+    "city": "Crozier",
+    "city_ascii": "Crozier",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.4227,
+    "lng": -113.6487,
+    "cafes": []
+  },
+  "Geronimo Estates": {
+    "city": "Geronimo Estates",
+    "city_ascii": "Geronimo Estates",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3695,
+    "lng": -111.3617,
+    "cafes": []
+  },
+  "Washington Park": {
+    "city": "Washington Park",
+    "city_ascii": "Washington Park",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.3978,
+    "lng": -111.2731,
+    "cafes": []
+  },
+  "Tonopah": {
+    "city": "Tonopah",
+    "city_ascii": "Tonopah",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.488,
+    "lng": -112.9308,
+    "cafes": []
+  },
+  "Buckshot": {
+    "city": "Buckshot",
+    "city_ascii": "Buckshot",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.7404,
+    "lng": -114.4829,
+    "cafes": []
+  },
+  "Rock House": {
+    "city": "Rock House",
+    "city_ascii": "Rock House",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6318,
+    "lng": -110.9456,
+    "cafes": []
+  },
+  "Charco": {
+    "city": "Charco",
+    "city_ascii": "Charco",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.2474,
+    "lng": -112.6001,
+    "cafes": []
+  },
+  "Lupton": {
+    "city": "Lupton",
+    "city_ascii": "Lupton",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.3547,
+    "lng": -109.0527,
+    "cafes": []
+  },
+  "Alamo Lake": {
+    "city": "Alamo Lake",
+    "city_ascii": "Alamo Lake",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2588,
+    "lng": -113.5079,
+    "cafes": []
+  },
+  "Topock": {
+    "city": "Topock",
+    "city_ascii": "Topock",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.72,
+    "lng": -114.4789,
+    "cafes": []
+  },
+  "Toyei": {
+    "city": "Toyei",
+    "city_ascii": "Toyei",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.7043,
+    "lng": -109.9371,
+    "cafes": []
+  },
+  "Bear Flat": {
+    "city": "Bear Flat",
+    "city_ascii": "Bear Flat",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.2924,
+    "lng": -111.0674,
+    "cafes": []
+  },
+  "Utting": {
+    "city": "Utting",
+    "city_ascii": "Utting",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.8544,
+    "lng": -113.9129,
+    "cafes": []
+  },
+  "Tat Momoli": {
+    "city": "Tat Momoli",
+    "city_ascii": "Tat Momoli",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6012,
+    "lng": -111.8862,
+    "cafes": []
+  },
+  "El Capitan": {
+    "city": "El Capitan",
+    "city_ascii": "El Capitan",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.2383,
+    "lng": -110.7833,
+    "cafes": []
+  },
+  "Willow Canyon": {
+    "city": "Willow Canyon",
+    "city_ascii": "Willow Canyon",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.3881,
+    "lng": -110.701,
+    "cafes": []
+  },
+  "Concho": {
+    "city": "Concho",
+    "city_ascii": "Concho",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.4742,
+    "lng": -109.6102,
+    "cafes": []
+  },
+  "Comobabi": {
+    "city": "Comobabi",
+    "city_ascii": "Comobabi",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.0538,
+    "lng": -111.8029,
+    "cafes": []
+  },
+  "Cowlic": {
+    "city": "Cowlic",
+    "city_ascii": "Cowlic",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 31.8048,
+    "lng": -111.9876,
+    "cafes": []
+  },
+  "Rillito": {
+    "city": "Rillito",
+    "city_ascii": "Rillito",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.4157,
+    "lng": -111.1549,
+    "cafes": []
+  },
+  "Roosevelt": {
+    "city": "Roosevelt",
+    "city_ascii": "Roosevelt",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.6618,
+    "lng": -111.1295,
+    "cafes": []
+  },
+  "Aztec": {
+    "city": "Aztec",
+    "city_ascii": "Aztec",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.8082,
+    "lng": -113.4428,
+    "cafes": []
+  },
+  "Kaka": {
+    "city": "Kaka",
+    "city_ascii": "Kaka",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.5113,
+    "lng": -112.3166,
+    "cafes": []
+  },
+  "Nolic": {
+    "city": "Nolic",
+    "city_ascii": "Nolic",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.0341,
+    "lng": -111.9549,
+    "cafes": []
+  },
+  "Padre Ranchitos": {
+    "city": "Padre Ranchitos",
+    "city_ascii": "Padre Ranchitos",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.6497,
+    "lng": -114.6416,
+    "cafes": []
+  },
+  "Greer": {
+    "city": "Greer",
+    "city_ascii": "Greer",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.0054,
+    "lng": -109.4611,
+    "cafes": []
+  },
+  "Woodruff": {
+    "city": "Woodruff",
+    "city_ascii": "Woodruff",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 34.7843,
+    "lng": -110.0366,
+    "cafes": []
+  },
+  "Supai": {
+    "city": "Supai",
+    "city_ascii": "Supai",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 36.2298,
+    "lng": -112.6926,
+    "cafes": []
+  },
+  "McConnico": {
+    "city": "McConnico",
+    "city_ascii": "McConnico",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.1636,
+    "lng": -114.0897,
+    "cafes": []
+  },
+  "Grand Canyon West": {
+    "city": "Grand Canyon West",
+    "city_ascii": "Grand Canyon West",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 35.9998,
+    "lng": -113.8103,
+    "cafes": []
+  },
+  "Kohatk": {
+    "city": "Kohatk",
+    "city_ascii": "Kohatk",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.5781,
+    "lng": -112.0032,
+    "cafes": []
+  }
+}

@@ -1,0 +1,5066 @@
+{
+  "Washington": [
+    {
+      "name": "Crumbs & Whiskers | Kitten & Cat Cafe.",
+      "address": "3109 M St NW, Washington, DC 20007, USA",
+      "rating": 4.7,
+      "user_ratings_total": 934,
+      "website": "http://www.crumbsandwhiskers.com/",
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "google_maps_url": "https://maps.google.com/?cid=4645012754072052490",
+      "lat": 38.9053136,
+      "lng": -77.0614946,
+      "accessibility_options": {
+        "wheelchairAccessibleParking": false,
+        "wheelchairAccessibleEntrance": false
+      },
+      "reviews": [
+        {
+          "author": "Amanda Rose",
+          "rating": 5,
+          "text": {
+            "text": "Really fantastic place that lets you hang out with adoptable cats in an awesome atmosphere! It’s especially nice for people like me who cannot adopt another animal myself but loves animal experiences and supporting rescue. The facility was clean, decorated beautifully, staff were really friendly and shared background stories on the cats and the kitty cats are all clearly well cared for. Visited Washington DC from Milwaukee, WI and I’m so glad we added this to our travel itinerary. The free Polaroid snapshot is such a nice touch and so unique (I’ve been to 10 cat cafes and this is the only one I’ve seen do this). I wish caffeine free tea options were available and would have preferred an hour long session for the price we paid but it’s for a fantastic cause so - 5/5 stars!",
+            "languageCode": "en"
+          },
+          "time": "5 months ago"
+        },
+        {
+          "author": "Jillian Roth",
+          "rating": 5,
+          "text": {
+            "text": "The sweetest cats I've ever encountered at any cat cafe. They were all happy and chillin. Some would approach you and others were so relaxed and happy they didn't mind at all when you approached them. A sweet cat in particular climbed right into my lap ❤️😁 we got a nice polaroid taken of me and my friend and now have that as a keepsake. From what I overheard, it sounds like all of the cats get adopted pretty quick. It feels good to support a place like this that does a lot of good things for cats and also is quite fun for me too!",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Asha Singh",
+          "rating": 5,
+          "text": {
+            "text": "Went for some kitty cuddle time and was not disappointed. The staff was friendly and kept a sharp eye on the cats. The cats were playful and energetic. We didn't get any food or drinks but they did have a menu. No shoes in the car hangout space so be sure to wear socks when you go. Also be patient, the cats operate on their own schedule.",
+            "languageCode": "en"
+          },
+          "time": "4 months ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0tJd8Hf67BqUC-VJZQj7KhIkeo5BdV13B80ZM_DBv7RgGvFzI2JzVXevxpoRjaTO1U6FMFCSwziNs5IQvwfdaFpM89iWBI3dzpESUkhyfixgsMS9_hVSzZ7I0xvzm2gbOqPA4i6k8636QNT2IXGMgQdXwpESKNcRZHM21l9EIoVVJ6ZFLRPPFUJZJD6DJ1dM6ieE2t21ilbyyoUFEXfGUyd56nTkNjtyzdEu1iOGbwiRij7PrgVi2Csik2BP8VFWDrWJUOalaKjAP5AM-FGECyGL2JmjsBNAr4PoFi5-uAyyrAw3dImjOoK5qyXcpukYkVZnoRvI1gkQQc5_wR-uiC0PE7ZqRTPCJVjuCQBn3p7bjdEyGz1FEiNofLKl2aKlO3ZwOVMOgSLmGiUdiK2J9iuXye2MCV&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    },
+    {
+      "name": "Meow Maison",
+      "address": "1336 Wisconsin Ave NW, Washington, DC 20007, USA",
+      "rating": 4.5,
+      "user_ratings_total": 51,
+      "website": "https://www.meowmaison.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=11550092468627287723",
+      "lat": 38.907578699999995,
+      "lng": -77.06356939999999,
+      "accessibility_options": "N/A",
+      "reviews": [
+        {
+          "author": "Tony Wang",
+          "rating": 5,
+          "text": {
+            "text": "The second cat cafe in my tour of DC area ones. I definitely liked the vibe. It's not inexpensive but given that they only allow four people in at a time and their pricey location, it's understandable.\n\nThe cats are fun, and the staff are friendly. You do have to take off your shoes so be ready for that. Even the owner abides by that rule.\n\nThe staff will introduce you to the cats but you'll forget in a minute and they're happy to answer your questions about the cats time and again.\n\nThis is definitely a place to have fun with a bunch of furry friends.",
+            "languageCode": "en"
+          },
+          "time": "2 months ago"
+        },
+        {
+          "author": "Eugene Choi",
+          "rating": 5,
+          "text": {
+            "text": "I’ve been to Meow Maison multiple times to hang out with the kitties, and it has been a wonderful experience every time. The cats are very well taken care of, and the atmosphere is super cozy! The staff are also very friendly and helpful if you have any questions regarding adoption.",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        },
+        {
+          "author": "Leann Adams",
+          "rating": 5,
+          "text": {
+            "text": "I initially came into this cafe with my best friend just to chill with some cats, but ended up adopting two little ones! Everyone was super supportive and helpful with the process. The second adoption was very last second (during the adoption of the first), yet the people who were working that day, and the volunteer (Jessie), who helped me were INCREDIBLY accommodating. Not only that, they let me borrow a carrier because I came with just the one. The girl who helped me during the drop off of the carrier later is super appreciated as well.\n\nEvery step of the way, Meow Maison was 10/10",
+            "languageCode": "en"
+          },
+          "time": "a month ago"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1N5G7DiwKrt9sCc73MgYAm10Xe9cY0n6porVt2pVyH2coS9mjj3VoYkBmrThq8rav6e3htVyjEcJZzLaBlCRJhIdRTaVAWc2by2DRJ2Qgh07Yc6UIf7i94PugK1eih6nrg1JUddC3E9i2eFmDLnpfgHSiaFYfIZrJn41HoigFCN9AJZPfXPwP_B80WlpygXsq_iuwZ03bhniK3Ad_D3kg6ey1QFMcTm4G0E0SJlkBbKhx2g3otXBc8J4r-HnBD9f4Nq3p-YCU0xz3f_3A76CmrxpVIaa7vv-FdkWu_BOOCyz2hqFQ_vZIZNmFGIw-Wo1NYqVwop-X0iccah7B-HZMnpXKIc2UKd1gxovXnmIKBkse2zyQCnRrUBKJqFpzWYIEw2J3YZIRwyh1RD32lv9z8-pUe7JMFmQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Leonardtown": {
+    "city": "Leonardtown",
+    "city_ascii": "Leonardtown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3039,
+    "lng": -76.6395,
+    "cafes": [
+      {
+        "name": "Meow Dyer Cat Cafe, LLC",
+        "address": "41665 Fenwick St #13, Leonardtown, MD 20650, USA",
+        "rating": 4.3,
+        "user_ratings_total": 15,
+        "website": "https://www.meowdyercatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=4899407362175412570",
+        "lat": 38.2910395,
+        "lng": -76.6351153,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Nick Wood",
+            "rating": 5,
+            "text": {
+              "text": "Very chill spot with lots of cozy cats, and tasty canned teas. They also have a retail selection of cool cat clothes and accessories.\n\nFor the best results hit up the book store next door and get a book to enjoy with your cozy cat sesh.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Annie Alberto",
+            "rating": 4,
+            "text": {
+              "text": "The cats were absolutely adorable and actually interacted with us! It was definitely worth the money to pet and play with some cats. The cat lounge is smaller and more intimate. We went in the morning to avoid the crowds. The workers are super nice and occasionally gave information on the cats we were interacting with. There were a couple times where the cats left us to play with the workers instead since the workers kept picking up toys and interacting with the cats. Wish I got more direction on how to interact and play with the cats. But overall a fun experience and a great opportunity for the cats to find their forever homes 😊",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Hannah Simonelli",
+            "rating": 5,
+            "text": {
+              "text": "Went with my family and had a wonderful experience. Staff were kind and friendly ensuring we had a great experience. Cats were allowed to be themselves and are treated with tremendous care and respect.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3nn3mKRJy9JX79UWqwajMp7UePVbZt69dnalUYN_iS1zI0t7nbSOOmSq1vRwcjnyECZDgQufWxzyiq_vJxOp0omiOUxajfihsRtGiTdQaPQwtjwm9Q_WpO6BwIkGY7RbOUUvpnqiEskVo-7nHFowdVQWqJ1-pxPIFclIsje2gW5VFbKJ7UxoRgWzGWcdARVtFLDreY3B9yhuObmGmrVr6MuvTIlOb2OLMculPqCJYHbBDpSvVED8tKeRJW6DE5hiNtaXBnhwXmYPaVAu4jlUGMaAjtng431gptyEwM4im6vuzzPlN7sNK7NlSTwb0DU5p5XTRgOzaUELuyNvGL5_EbyNXLR4rePiWoe9vBo-CZN42frEv_tsAyztAKmIP4ZeR13RNXLeaXvn7BbKJZJI6Kq9qcs7rZtpQz&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Waldorf": {
+    "city": "Waldorf",
+    "city_ascii": "Waldorf",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6085,
+    "lng": -76.9194,
+    "cafes": [
+      {
+        "name": "Feline Felons Cat Cafe",
+        "address": "24 Industrial Park Dr #1, Waldorf, MD 20603, USA",
+        "rating": 4.8,
+        "user_ratings_total": 41,
+        "website": "https://www.felinefelonscatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=13386713300282808096",
+        "lat": 38.616405799999995,
+        "lng": -76.9071888,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Amanda Gunther",
+            "rating": 5,
+            "text": {
+              "text": "The Humans, Peggy & Matt, are excellent conversationalists who clearly care very, very much about the wonderful feline population here who are awaiting their furever home! They are incredibly knowledgeable about all the cats who are temporary residents. The cats are AMAZING. Their space is extraordinary, their adoption options are wonderful! And there are a bunch of really great cat-themed things you can buy in the \"meow-shop\"",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "Hanah Ngo",
+            "rating": 5,
+            "text": {
+              "text": "The best cat cafe place that cat lovers should check out,even best place for your kids !!! Great experience ! Great staffs ! We definitely come back soon . My kids enjoyed their time there with all lovely kittens, they want to come back to see cat lounge .And we love their cat gifts shop with affordable prices .They have kittens and cats for adoption (the fee to me is much better than any places I used to ).",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Robert Hudler",
+            "rating": 5,
+            "text": {
+              "text": "If you love cats this is a place you must see. The workers are great and very helpful. Tons of kitty's that ate very loving all sizes and ages. Very clean and well kept... and yes we brought one home. We will be going back to just visit all the kitty's.  But really if you love cats it's 100% worth checking out.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3hdZyaK944Nmh8IE9hXHXxt1VnrQPRvuYZcgNFzWGG0Jd3Nj0WuaGkNsnEhOlEuDLPd1wGQCS-_zNEMmS9chcO9Af1lCve-MeXQIatJalSosLOGvZ87LQyD7MIvoC5aGaMkWBFBidFNFAyw806bSEuoorXKlScdvGIwobZblIcwGQ_nbWPY86ZF5f9DYQ4k6zzw-Q-ITtYGljtrASxAsnuoX8C4-LCWXjjAefpDAz4jA7d7br3erLyfl1m6wV-0z9HWb-zbZpiVXa2_hAktnCO8kCOYlyLKClzwAxwrP71nw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Alexandria": [
+    {
+      "name": "Mount Purrnon Cat Café + Wine Bar",
+      "address": "109 S Alfred St, Alexandria, VA 22314, USA",
+      "rating": 4.8,
+      "user_ratings_total": 415,
+      "website": "https://www.mtpurrnoncatcafe.com/",
+      "price_level": "N/A",
+      "google_maps_url": "https://maps.google.com/?cid=16103787686130584231",
+      "lat": 38.8048828,
+      "lng": -77.0494978,
+      "accessibility_options": {
+        "wheelchairAccessibleEntrance": true,
+        "wheelchairAccessibleRestroom": true,
+        "wheelchairAccessibleSeating": true
+      },
+      "reviews": [
+        {
+          "author": "Kathy G.",
+          "rating": 5,
+          "text": {
+            "text": "The cafe is such a great addition to the cat space, and it’s clear that the cats are well loved and taken care of. Some cats are seniors and just living out their last years in a bright, clean, lovely space, and others are much younger who are eager to make friends! The staff genuinely care about the cats and their care. Please stop by, support them and adopt!",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Carrie Devorah",
+          "rating": 5,
+          "text": {
+            "text": "MOUNT PURRNON CAT CAFE & WINE BAR has become a must-do for out of town kiddos visiting Northern Virginia, if you love cats and you love kiddies.\n\nMount Purrnon is located on Alfred Street just off King Street, the main 'drag' in Old Town Alexandria so everywhere you turn you are walking in historic footsteps. Parking is on the street. Payment is fed in to free standing rectangles. The receipt is placed on your car dashboard.\n\nMount Purrnon is a healthy walk towards the water with your back to the Metro. If you are lucky, you can catch Old Town's free trolley, a fun thing kids of all ages love to do. The trolley will land you near enough to the cafe allowing you to combine two kid fun events in one outing. ,\n\nThe Mount Purrnon Cafe is kitty corner to a vintage shop, around the cornerdown the street from Sephora and up the street from the amazing Torpedo Factory.\n\nEntering Mount Purrnon Cat Cafe + Wine Bar, you enter the most delightful gift shop filled with cat 'stuff' of all types, high end, crafty and lower priced fun stuff, all benefiting the charity housed in this historic house once upon a time someone, maybe, infamous in history lived there, after all, ghosts of America's fathers still live there, technically.\n\nFriendly volunteers sit waiting to take payment for adults, kids, lunch if you choose and the length of time your visit to last- 1/2 hour, an hour. I once met a young woman who pretty much spent all day there. She said she found inner peace.\n\nMount Purrnon profiles its current residents on the wall in this room so you sorta have an idea which kitties you will be greeted by upstairs AND maybe even want to take home with you if you are in the market for a furrever friend.\n\nThe stairs are a bit steep heading up to the cattery. There are steps outside, too.\n\nBefore you head up, there is a downstairs eating place with a limited menu that includes out of this world cheese melt sandwich a finicky-as-a-cat four year old I know literally inhales this sandwich. There is a cat themed bathroom on the first floor. It's sort of a nice thing to do- eat first, fill your tummy then head up the stairs.\n\nThe photos speak for themselves. I wanted to take them all but, got a better offer, two kiddos who love love love coming here to Mount Purrnon Cafe. Thank you, yet again.\n\noh yeah, photos are copyright (c) Carrie Devorah and may not be used unless given permission by me, not by google or the cafe",
+            "languageCode": "en"
+          },
+          "time": "a week ago"
+        },
+        {
+          "author": "Rebecca AJ",
+          "rating": 5,
+          "text": {
+            "text": "We had a wonderful time at Mount Purrnon! The staff was so helpful in answering our questions and they were informative of the cats. This business is doing wonderful things to support cats in the area. Will definitely be back!",
+            "languageCode": "en"
+          },
+          "time": "in the last week"
+        }
+      ],
+      "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2Y_YaeEalkShIvOuKlhT1gYShHIz_XzxpPiS7ZX2oW5iLNstm_eahQREPegRyWFuiCrLd10kCYnjAdvxU8muellV89IUiBwwHrrTIHXBd0i9ZYkS08L-e8cpTBKT_Qa3l7KQfZhTycuXXVtbjULJ1Egc35P7JOzvSzSu_JyW_RIp5Ioc_oX8J-6Md8hmsPlIuAeUKHVuXk41Z5xd31SX08vmv3xfrzuuFltHMtd1yu94Wlvop4N-wlUL8l96yOeUuoNUi2e5_MI9Jbts-BV8DKLLumlu2ERwLm_mhXu-zSCQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+    }
+  ],
+  "Salisbury": {
+    "city": "Salisbury",
+    "city_ascii": "Salisbury",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3756,
+    "lng": -75.5865,
+    "cafes": [
+      {
+        "name": "Kitten Kafe",
+        "address": "302 A, 302 Kay Ave, Salisbury, MD 21801, USA",
+        "rating": 4.8,
+        "user_ratings_total": 25,
+        "website": "https://www.facebook.com/profile.php?id=100092586304336",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1062206043658002386",
+        "lat": 38.3365432,
+        "lng": -75.6095235,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "A M",
+            "rating": 5,
+            "text": {
+              "text": "We visited for the first time and LOVED Kitten Kafe! The volunteers are all so knowledgeable and welcoming, the kittens are darling and the location is purrrfect!\n\nMy daughter fell in love with a specific kitty (pictured) and we submitted an application for adoption at first visit! 🐈🥰😍\n\nUpdate: They have soooo many precious kitties with big personalities!",
+              "languageCode": "en"
+            },
+            "time": "8 months ago"
+          },
+          {
+            "author": "Laurel Kelly",
+            "rating": 5,
+            "text": {
+              "text": "Get your kitten fix here! So many cute babies! We stayed for two hours just enjoying the little ones, having snacks, and relaxing. Thank you for caring for all of these kitties 😍\n\nSo tempting to take everyone home with us. The staff and volunteers do so much to care for every single kitten and mama, we adopted our youngest cat from one of the fosters last year and just love her to bits. Snack prices are reasonable and they have some cute items for sale, too. I really liked the diy water bottles with cat stickers, too. Clever and fun activity to take home if you can’t take home a kitten ❤️",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Judy Manuel",
+            "rating": 5,
+            "text": {
+              "text": "I had a most marvelous experience at Kitten Kafe! Am adopting a sweet boy from there - staff are amazing and are very invested in cat welfare.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0ooCMQfDCNIGASxmbSjdcEY82cddXbE5jBPyd64sBzUteKtlFRC__O_MQ6KWoP_XBz9mtpSpyZqpznIHgu7-O2CWzeXQvlkFLOI32GiNl1X4wVgC3gpKDviK7UQPMeHdQ6aujf-TRuzR5yE27lyBXV26AKevR9ob_eyDNP9EhNV490JxePgKUa1J8abXfpczkGUwVgx7RLYbTiP35UuJnKfEWuaoUnrbwrw_NG_jXTGwlJJyLRNZpLblmz66K7CXVKfrUAER1yx5Vf2aMLktCjbpHSRLCS6FjSrNVGjUnZaQEFDEhWGS4GpJUqeAidSnmnTnduMjNT4DidfblG6xLA4yzw0Rq4sZvS7CF1zXrpCFhayBhf5k4PM8wPz8kCp7pEPwRsmvvuhlweAe4ZA23VMI_deOAK&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Baltimore": {
+    "city": "Baltimore",
+    "city_ascii": "Baltimore",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3051,
+    "lng": -76.6144,
+    "cafes": []
+  },
+  "Hagerstown": {
+    "city": "Hagerstown",
+    "city_ascii": "Hagerstown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6401,
+    "lng": -77.7217,
+    "cafes": []
+  },
+  "Frederick": {
+    "city": "Frederick",
+    "city_ascii": "Frederick",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4337,
+    "lng": -77.4141,
+    "cafes": []
+  },
+  "Columbia": {
+    "city": "Columbia",
+    "city_ascii": "Columbia",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2004,
+    "lng": -76.859,
+    "cafes": []
+  },
+  "Germantown": {
+    "city": "Germantown",
+    "city_ascii": "Germantown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1755,
+    "lng": -77.2643,
+    "cafes": []
+  },
+  "Silver Spring": {
+    "city": "Silver Spring",
+    "city_ascii": "Silver Spring",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0028,
+    "lng": -77.0207,
+    "cafes": []
+  },
+  "Ellicott City": {
+    "city": "Ellicott City",
+    "city_ascii": "Ellicott City",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2774,
+    "lng": -76.8345,
+    "cafes": []
+  },
+  "Glen Burnie": {
+    "city": "Glen Burnie",
+    "city_ascii": "Glen Burnie",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.156,
+    "lng": -76.6071,
+    "cafes": []
+  },
+  "Gaithersburg": {
+    "city": "Gaithersburg",
+    "city_ascii": "Gaithersburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1346,
+    "lng": -77.2131,
+    "cafes": []
+  },
+  "Bethesda": {
+    "city": "Bethesda",
+    "city_ascii": "Bethesda",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9866,
+    "lng": -77.1188,
+    "cafes": []
+  },
+  "Rockville": {
+    "city": "Rockville",
+    "city_ascii": "Rockville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0834,
+    "lng": -77.1553,
+    "cafes": []
+  },
+  "Dundalk": {
+    "city": "Dundalk",
+    "city_ascii": "Dundalk",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2704,
+    "lng": -76.4942,
+    "cafes": []
+  },
+  "Severn": {
+    "city": "Severn",
+    "city_ascii": "Severn",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1355,
+    "lng": -76.6956,
+    "cafes": []
+  },
+  "Bowie": {
+    "city": "Bowie",
+    "city_ascii": "Bowie",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9549,
+    "lng": -76.7406,
+    "cafes": []
+  },
+  "Bel Air South": {
+    "city": "Bel Air South",
+    "city_ascii": "Bel Air South",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5022,
+    "lng": -76.3113,
+    "cafes": []
+  },
+  "Towson": {
+    "city": "Towson",
+    "city_ascii": "Towson",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3944,
+    "lng": -76.619,
+    "cafes": []
+  },
+  "Aspen Hill": {
+    "city": "Aspen Hill",
+    "city_ascii": "Aspen Hill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0927,
+    "lng": -77.0826,
+    "cafes": []
+  },
+  "Wheaton": {
+    "city": "Wheaton",
+    "city_ascii": "Wheaton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0492,
+    "lng": -77.0573,
+    "cafes": []
+  },
+  "North Bethesda": {
+    "city": "North Bethesda",
+    "city_ascii": "North Bethesda",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0393,
+    "lng": -77.1191,
+    "cafes": []
+  },
+  "Potomac": {
+    "city": "Potomac",
+    "city_ascii": "Potomac",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0141,
+    "lng": -77.1943,
+    "cafes": []
+  },
+  "Odenton": {
+    "city": "Odenton",
+    "city_ascii": "Odenton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0661,
+    "lng": -76.6938,
+    "cafes": []
+  },
+  "Catonsville": {
+    "city": "Catonsville",
+    "city_ascii": "Catonsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2646,
+    "lng": -76.7424,
+    "cafes": []
+  },
+  "Annapolis": {
+    "city": "Annapolis",
+    "city_ascii": "Annapolis",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9706,
+    "lng": -76.5047,
+    "cafes": []
+  },
+  "Essex": {
+    "city": "Essex",
+    "city_ascii": "Essex",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3021,
+    "lng": -76.4449,
+    "cafes": []
+  },
+  "Woodlawn": {
+    "city": "Woodlawn",
+    "city_ascii": "Woodlawn",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3054,
+    "lng": -76.7489,
+    "cafes": []
+  },
+  "Severna Park": {
+    "city": "Severna Park",
+    "city_ascii": "Severna Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.087,
+    "lng": -76.5687,
+    "cafes": []
+  },
+  "Clinton": {
+    "city": "Clinton",
+    "city_ascii": "Clinton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7499,
+    "lng": -76.9063,
+    "cafes": []
+  },
+  "Olney": {
+    "city": "Olney",
+    "city_ascii": "Olney",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1465,
+    "lng": -77.0715,
+    "cafes": []
+  },
+  "Randallstown": {
+    "city": "Randallstown",
+    "city_ascii": "Randallstown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3723,
+    "lng": -76.8024,
+    "cafes": []
+  },
+  "Owings Mills": {
+    "city": "Owings Mills",
+    "city_ascii": "Owings Mills",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4115,
+    "lng": -76.7913,
+    "cafes": []
+  },
+  "Chillum": {
+    "city": "Chillum",
+    "city_ascii": "Chillum",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9666,
+    "lng": -76.9791,
+    "cafes": []
+  },
+  "College Park": {
+    "city": "College Park",
+    "city_ascii": "College Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.996,
+    "lng": -76.9337,
+    "cafes": []
+  },
+  "Pikesville": {
+    "city": "Pikesville",
+    "city_ascii": "Pikesville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3893,
+    "lng": -76.702,
+    "cafes": []
+  },
+  "Montgomery Village": {
+    "city": "Montgomery Village",
+    "city_ascii": "Montgomery Village",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1788,
+    "lng": -77.1954,
+    "cafes": []
+  },
+  "Pasadena": {
+    "city": "Pasadena",
+    "city_ascii": "Pasadena",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1552,
+    "lng": -76.5537,
+    "cafes": []
+  },
+  "Milford Mill": {
+    "city": "Milford Mill",
+    "city_ascii": "Milford Mill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3444,
+    "lng": -76.7668,
+    "cafes": []
+  },
+  "Middle River": {
+    "city": "Middle River",
+    "city_ascii": "Middle River",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3436,
+    "lng": -76.4253,
+    "cafes": []
+  },
+  "Bel Air North": {
+    "city": "Bel Air North",
+    "city_ascii": "Bel Air North",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5543,
+    "lng": -76.3732,
+    "cafes": []
+  },
+  "Eldersburg": {
+    "city": "Eldersburg",
+    "city_ascii": "Eldersburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4041,
+    "lng": -76.9528,
+    "cafes": []
+  },
+  "Parkville": {
+    "city": "Parkville",
+    "city_ascii": "Parkville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3832,
+    "lng": -76.5519,
+    "cafes": []
+  },
+  "Crofton": {
+    "city": "Crofton",
+    "city_ascii": "Crofton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0144,
+    "lng": -76.68,
+    "cafes": []
+  },
+  "Laurel": {
+    "city": "Laurel",
+    "city_ascii": "Laurel",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0949,
+    "lng": -76.8622,
+    "cafes": []
+  },
+  "Clarksburg": {
+    "city": "Clarksburg",
+    "city_ascii": "Clarksburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2246,
+    "lng": -77.2659,
+    "cafes": []
+  },
+  "Perry Hall": {
+    "city": "Perry Hall",
+    "city_ascii": "Perry Hall",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4068,
+    "lng": -76.478,
+    "cafes": []
+  },
+  "Carney": {
+    "city": "Carney",
+    "city_ascii": "Carney",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.405,
+    "lng": -76.5235,
+    "cafes": []
+  },
+  "Reisterstown": {
+    "city": "Reisterstown",
+    "city_ascii": "Reisterstown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.455,
+    "lng": -76.814,
+    "cafes": []
+  },
+  "South Laurel": {
+    "city": "South Laurel",
+    "city_ascii": "South Laurel",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0603,
+    "lng": -76.8456,
+    "cafes": []
+  },
+  "Lochearn": {
+    "city": "Lochearn",
+    "city_ascii": "Lochearn",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3461,
+    "lng": -76.7307,
+    "cafes": []
+  },
+  "Ilchester": {
+    "city": "Ilchester",
+    "city_ascii": "Ilchester",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2187,
+    "lng": -76.7683,
+    "cafes": []
+  },
+  "Elkridge": {
+    "city": "Elkridge",
+    "city_ascii": "Elkridge",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1941,
+    "lng": -76.7428,
+    "cafes": []
+  },
+  "Fairland": {
+    "city": "Fairland",
+    "city_ascii": "Fairland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0803,
+    "lng": -76.9527,
+    "cafes": []
+  },
+  "Ballenger Creek": {
+    "city": "Ballenger Creek",
+    "city_ascii": "Ballenger Creek",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3807,
+    "lng": -77.4206,
+    "cafes": []
+  },
+  "Fort Washington": {
+    "city": "Fort Washington",
+    "city_ascii": "Fort Washington",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7339,
+    "lng": -77.0069,
+    "cafes": []
+  },
+  "North Laurel": {
+    "city": "North Laurel",
+    "city_ascii": "North Laurel",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1285,
+    "lng": -76.8476,
+    "cafes": []
+  },
+  "Edgewood": {
+    "city": "Edgewood",
+    "city_ascii": "Edgewood",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.419,
+    "lng": -76.2964,
+    "cafes": []
+  },
+  "Suitland": {
+    "city": "Suitland",
+    "city_ascii": "Suitland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8492,
+    "lng": -76.9225,
+    "cafes": []
+  },
+  "Greenbelt": {
+    "city": "Greenbelt",
+    "city_ascii": "Greenbelt",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9953,
+    "lng": -76.8885,
+    "cafes": []
+  },
+  "Landover": {
+    "city": "Landover",
+    "city_ascii": "Landover",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9241,
+    "lng": -76.8875,
+    "cafes": []
+  },
+  "North Potomac": {
+    "city": "North Potomac",
+    "city_ascii": "North Potomac",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0955,
+    "lng": -77.2373,
+    "cafes": []
+  },
+  "Arnold": {
+    "city": "Arnold",
+    "city_ascii": "Arnold",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0437,
+    "lng": -76.4974,
+    "cafes": []
+  },
+  "Cockeysville": {
+    "city": "Cockeysville",
+    "city_ascii": "Cockeysville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4804,
+    "lng": -76.6294,
+    "cafes": []
+  },
+  "Camp Springs": {
+    "city": "Camp Springs",
+    "city_ascii": "Camp Springs",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8052,
+    "lng": -76.9199,
+    "cafes": []
+  },
+  "Langley Park": {
+    "city": "Langley Park",
+    "city_ascii": "Langley Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9897,
+    "lng": -76.9808,
+    "cafes": []
+  },
+  "Arbutus": {
+    "city": "Arbutus",
+    "city_ascii": "Arbutus",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2428,
+    "lng": -76.6922,
+    "cafes": []
+  },
+  "Hyattsville": {
+    "city": "Hyattsville",
+    "city_ascii": "Hyattsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9613,
+    "lng": -76.9548,
+    "cafes": []
+  },
+  "Rosedale": {
+    "city": "Rosedale",
+    "city_ascii": "Rosedale",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3266,
+    "lng": -76.5084,
+    "cafes": []
+  },
+  "Westminster": {
+    "city": "Westminster",
+    "city_ascii": "Westminster",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5796,
+    "lng": -77.0067,
+    "cafes": []
+  },
+  "Beltsville": {
+    "city": "Beltsville",
+    "city_ascii": "Beltsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0394,
+    "lng": -76.9211,
+    "cafes": []
+  },
+  "East Riverdale": {
+    "city": "East Riverdale",
+    "city_ascii": "East Riverdale",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.96,
+    "lng": -76.9109,
+    "cafes": []
+  },
+  "Redland": {
+    "city": "Redland",
+    "city_ascii": "Redland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1339,
+    "lng": -77.1464,
+    "cafes": []
+  },
+  "Cumberland": {
+    "city": "Cumberland",
+    "city_ascii": "Cumberland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6515,
+    "lng": -78.7584,
+    "cafes": []
+  },
+  "Maryland City": {
+    "city": "Maryland City",
+    "city_ascii": "Maryland City",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1016,
+    "lng": -76.8051,
+    "cafes": []
+  },
+  "Seabrook": {
+    "city": "Seabrook",
+    "city_ascii": "Seabrook",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9802,
+    "lng": -76.8502,
+    "cafes": []
+  },
+  "Oxon Hill": {
+    "city": "Oxon Hill",
+    "city_ascii": "Oxon Hill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7884,
+    "lng": -76.9727,
+    "cafes": []
+  },
+  "Lake Shore": {
+    "city": "Lake Shore",
+    "city_ascii": "Lake Shore",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.103,
+    "lng": -76.4876,
+    "cafes": []
+  },
+  "Parole": {
+    "city": "Parole",
+    "city_ascii": "Parole",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9863,
+    "lng": -76.5518,
+    "cafes": []
+  },
+  "Calverton": {
+    "city": "Calverton",
+    "city_ascii": "Calverton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0578,
+    "lng": -76.9488,
+    "cafes": []
+  },
+  "Glassmanor": {
+    "city": "Glassmanor",
+    "city_ascii": "Glassmanor",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8181,
+    "lng": -76.9833,
+    "cafes": []
+  },
+  "Takoma Park": {
+    "city": "Takoma Park",
+    "city_ascii": "Takoma Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.981,
+    "lng": -77.0028,
+    "cafes": []
+  },
+  "Adelphi": {
+    "city": "Adelphi",
+    "city_ascii": "Adelphi",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0017,
+    "lng": -76.9649,
+    "cafes": []
+  },
+  "Easton": {
+    "city": "Easton",
+    "city_ascii": "Easton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.776,
+    "lng": -76.0701,
+    "cafes": []
+  },
+  "Ferndale": {
+    "city": "Ferndale",
+    "city_ascii": "Ferndale",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1869,
+    "lng": -76.6331,
+    "cafes": []
+  },
+  "Damascus": {
+    "city": "Damascus",
+    "city_ascii": "Damascus",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2701,
+    "lng": -77.1957,
+    "cafes": []
+  },
+  "Aberdeen": {
+    "city": "Aberdeen",
+    "city_ascii": "Aberdeen",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5151,
+    "lng": -76.1733,
+    "cafes": []
+  },
+  "Cloverly": {
+    "city": "Cloverly",
+    "city_ascii": "Cloverly",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1064,
+    "lng": -76.9995,
+    "cafes": []
+  },
+  "Glenmont": {
+    "city": "Glenmont",
+    "city_ascii": "Glenmont",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0698,
+    "lng": -77.0467,
+    "cafes": []
+  },
+  "White Oak": {
+    "city": "White Oak",
+    "city_ascii": "White Oak",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0451,
+    "lng": -76.9885,
+    "cafes": []
+  },
+  "Elkton": {
+    "city": "Elkton",
+    "city_ascii": "Elkton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6066,
+    "lng": -75.8209,
+    "cafes": []
+  },
+  "Brooklyn Park": {
+    "city": "Brooklyn Park",
+    "city_ascii": "Brooklyn Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.217,
+    "lng": -76.6174,
+    "cafes": []
+  },
+  "Hillcrest Heights": {
+    "city": "Hillcrest Heights",
+    "city_ascii": "Hillcrest Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8373,
+    "lng": -76.9641,
+    "cafes": []
+  },
+  "Summerfield": {
+    "city": "Summerfield",
+    "city_ascii": "Summerfield",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9042,
+    "lng": -76.8678,
+    "cafes": []
+  },
+  "Mays Chapel": {
+    "city": "Mays Chapel",
+    "city_ascii": "Mays Chapel",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4343,
+    "lng": -76.6516,
+    "cafes": []
+  },
+  "Rossville": {
+    "city": "Rossville",
+    "city_ascii": "Rossville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3572,
+    "lng": -76.4767,
+    "cafes": []
+  },
+  "Lake Arbor": {
+    "city": "Lake Arbor",
+    "city_ascii": "Lake Arbor",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9105,
+    "lng": -76.8304,
+    "cafes": []
+  },
+  "Glenn Dale": {
+    "city": "Glenn Dale",
+    "city_ascii": "Glenn Dale",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9833,
+    "lng": -76.804,
+    "cafes": []
+  },
+  "Havre de Grace": {
+    "city": "Havre de Grace",
+    "city_ascii": "Havre de Grace",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.548,
+    "lng": -76.1146,
+    "cafes": []
+  },
+  "Bensville": {
+    "city": "Bensville",
+    "city_ascii": "Bensville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6176,
+    "lng": -77.0077,
+    "cafes": []
+  },
+  "Kemp Mill": {
+    "city": "Kemp Mill",
+    "city_ascii": "Kemp Mill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0412,
+    "lng": -77.0215,
+    "cafes": []
+  },
+  "Colesville": {
+    "city": "Colesville",
+    "city_ascii": "Colesville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.073,
+    "lng": -77.001,
+    "cafes": []
+  },
+  "Urbana": {
+    "city": "Urbana",
+    "city_ascii": "Urbana",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3274,
+    "lng": -77.3423,
+    "cafes": []
+  },
+  "Kettering": {
+    "city": "Kettering",
+    "city_ascii": "Kettering",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8888,
+    "lng": -76.7889,
+    "cafes": []
+  },
+  "Flower Hill": {
+    "city": "Flower Hill",
+    "city_ascii": "Flower Hill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1676,
+    "lng": -77.1824,
+    "cafes": []
+  },
+  "New Carrollton": {
+    "city": "New Carrollton",
+    "city_ascii": "New Carrollton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9656,
+    "lng": -76.8775,
+    "cafes": []
+  },
+  "Lexington Park": {
+    "city": "Lexington Park",
+    "city_ascii": "Lexington Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2528,
+    "lng": -76.4424,
+    "cafes": []
+  },
+  "Brock Hall": {
+    "city": "Brock Hall",
+    "city_ascii": "Brock Hall",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8604,
+    "lng": -76.7459,
+    "cafes": []
+  },
+  "Joppatowne": {
+    "city": "Joppatowne",
+    "city_ascii": "Joppatowne",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4181,
+    "lng": -76.3516,
+    "cafes": []
+  },
+  "Accokeek": {
+    "city": "Accokeek",
+    "city_ascii": "Accokeek",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6745,
+    "lng": -77.0023,
+    "cafes": []
+  },
+  "California": {
+    "city": "California",
+    "city_ascii": "California",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2969,
+    "lng": -76.4949,
+    "cafes": []
+  },
+  "Green Valley": {
+    "city": "Green Valley",
+    "city_ascii": "Green Valley",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3414,
+    "lng": -77.24,
+    "cafes": []
+  },
+  "Cambridge": {
+    "city": "Cambridge",
+    "city_ascii": "Cambridge",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5515,
+    "lng": -76.0787,
+    "cafes": []
+  },
+  "Linganore": {
+    "city": "Linganore",
+    "city_ascii": "Linganore",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4127,
+    "lng": -77.3014,
+    "cafes": []
+  },
+  "Riviera Beach": {
+    "city": "Riviera Beach",
+    "city_ascii": "Riviera Beach",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1623,
+    "lng": -76.5257,
+    "cafes": []
+  },
+  "Annapolis Neck": {
+    "city": "Annapolis Neck",
+    "city_ascii": "Annapolis Neck",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9409,
+    "lng": -76.4997,
+    "cafes": []
+  },
+  "Overlea": {
+    "city": "Overlea",
+    "city_ascii": "Overlea",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3642,
+    "lng": -76.5175,
+    "cafes": []
+  },
+  "Rosaryville": {
+    "city": "Rosaryville",
+    "city_ascii": "Rosaryville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7672,
+    "lng": -76.8266,
+    "cafes": []
+  },
+  "Ocean Pines": {
+    "city": "Ocean Pines",
+    "city_ascii": "Ocean Pines",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3851,
+    "lng": -75.1487,
+    "cafes": []
+  },
+  "Honeygo": {
+    "city": "Honeygo",
+    "city_ascii": "Honeygo",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4055,
+    "lng": -76.4282,
+    "cafes": []
+  },
+  "Westphalia": {
+    "city": "Westphalia",
+    "city_ascii": "Westphalia",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8356,
+    "lng": -76.8298,
+    "cafes": []
+  },
+  "Lanham": {
+    "city": "Lanham",
+    "city_ascii": "Lanham",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.962,
+    "lng": -76.8421,
+    "cafes": []
+  },
+  "Largo": {
+    "city": "Largo",
+    "city_ascii": "Largo",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.88,
+    "lng": -76.8289,
+    "cafes": []
+  },
+  "Friendly": {
+    "city": "Friendly",
+    "city_ascii": "Friendly",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7601,
+    "lng": -76.9642,
+    "cafes": []
+  },
+  "Mitchellville": {
+    "city": "Mitchellville",
+    "city_ascii": "Mitchellville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9358,
+    "lng": -76.8146,
+    "cafes": []
+  },
+  "Travilah": {
+    "city": "Travilah",
+    "city_ascii": "Travilah",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.057,
+    "lng": -77.247,
+    "cafes": []
+  },
+  "Brandywine": {
+    "city": "Brandywine",
+    "city_ascii": "Brandywine",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6963,
+    "lng": -76.8846,
+    "cafes": []
+  },
+  "Halfway": {
+    "city": "Halfway",
+    "city_ascii": "Halfway",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6162,
+    "lng": -77.7703,
+    "cafes": []
+  },
+  "Timonium": {
+    "city": "Timonium",
+    "city_ascii": "Timonium",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4459,
+    "lng": -76.6032,
+    "cafes": []
+  },
+  "Forestville": {
+    "city": "Forestville",
+    "city_ascii": "Forestville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8518,
+    "lng": -76.8708,
+    "cafes": []
+  },
+  "Bel Air": {
+    "city": "Bel Air",
+    "city_ascii": "Bel Air",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5348,
+    "lng": -76.346,
+    "cafes": []
+  },
+  "Linthicum": {
+    "city": "Linthicum",
+    "city_ascii": "Linthicum",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2088,
+    "lng": -76.6626,
+    "cafes": []
+  },
+  "White Marsh": {
+    "city": "White Marsh",
+    "city_ascii": "White Marsh",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3819,
+    "lng": -76.4574,
+    "cafes": []
+  },
+  "Fort Meade": {
+    "city": "Fort Meade",
+    "city_ascii": "Fort Meade",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1061,
+    "lng": -76.7437,
+    "cafes": []
+  },
+  "La Plata": {
+    "city": "La Plata",
+    "city_ascii": "La Plata",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5352,
+    "lng": -76.97,
+    "cafes": []
+  },
+  "Garrison": {
+    "city": "Garrison",
+    "city_ascii": "Garrison",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4023,
+    "lng": -76.7514,
+    "cafes": []
+  },
+  "Scaggsville": {
+    "city": "Scaggsville",
+    "city_ascii": "Scaggsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1416,
+    "lng": -76.8843,
+    "cafes": []
+  },
+  "Marlton": {
+    "city": "Marlton",
+    "city_ascii": "Marlton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.762,
+    "lng": -76.7857,
+    "cafes": []
+  },
+  "Burtonsville": {
+    "city": "Burtonsville",
+    "city_ascii": "Burtonsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1166,
+    "lng": -76.9356,
+    "cafes": []
+  },
+  "Fallston": {
+    "city": "Fallston",
+    "city_ascii": "Fallston",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5332,
+    "lng": -76.4452,
+    "cafes": []
+  },
+  "Mount Airy": {
+    "city": "Mount Airy",
+    "city_ascii": "Mount Airy",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3742,
+    "lng": -77.1534,
+    "cafes": []
+  },
+  "Walker Mill": {
+    "city": "Walker Mill",
+    "city_ascii": "Walker Mill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8758,
+    "lng": -76.8854,
+    "cafes": []
+  },
+  "Bladensburg": {
+    "city": "Bladensburg",
+    "city_ascii": "Bladensburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9424,
+    "lng": -76.9264,
+    "cafes": []
+  },
+  "Chevy Chase": {
+    "city": "Chevy Chase",
+    "city_ascii": "Chevy Chase",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9944,
+    "lng": -77.0738,
+    "cafes": []
+  },
+  "Coral Hills": {
+    "city": "Coral Hills",
+    "city_ascii": "Coral Hills",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8706,
+    "lng": -76.9215,
+    "cafes": []
+  },
+  "Chesapeake Ranch Estates": {
+    "city": "Chesapeake Ranch Estates",
+    "city_ascii": "Chesapeake Ranch Estates",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3574,
+    "lng": -76.4147,
+    "cafes": []
+  },
+  "Marlboro Village": {
+    "city": "Marlboro Village",
+    "city_ascii": "Marlboro Village",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8307,
+    "lng": -76.7699,
+    "cafes": []
+  },
+  "Bryans Road": {
+    "city": "Bryans Road",
+    "city_ascii": "Bryans Road",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6145,
+    "lng": -77.0851,
+    "cafes": []
+  },
+  "Jessup": {
+    "city": "Jessup",
+    "city_ascii": "Jessup",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1488,
+    "lng": -76.7772,
+    "cafes": []
+  },
+  "Cape St. Claire": {
+    "city": "Cape St. Claire",
+    "city_ascii": "Cape St. Claire",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0433,
+    "lng": -76.4471,
+    "cafes": []
+  },
+  "North Kensington": {
+    "city": "North Kensington",
+    "city_ascii": "North Kensington",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0393,
+    "lng": -77.0723,
+    "cafes": []
+  },
+  "Lansdowne": {
+    "city": "Lansdowne",
+    "city_ascii": "Lansdowne",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2365,
+    "lng": -76.6659,
+    "cafes": []
+  },
+  "Edgemere": {
+    "city": "Edgemere",
+    "city_ascii": "Edgemere",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2273,
+    "lng": -76.459,
+    "cafes": []
+  },
+  "Temple Hills": {
+    "city": "Temple Hills",
+    "city_ascii": "Temple Hills",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8106,
+    "lng": -76.9495,
+    "cafes": []
+  },
+  "Leisure World": {
+    "city": "Leisure World",
+    "city_ascii": "Leisure World",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1023,
+    "lng": -77.0689,
+    "cafes": []
+  },
+  "Stevensville": {
+    "city": "Stevensville",
+    "city_ascii": "Stevensville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9745,
+    "lng": -76.3184,
+    "cafes": []
+  },
+  "Baltimore Highlands": {
+    "city": "Baltimore Highlands",
+    "city_ascii": "Baltimore Highlands",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2355,
+    "lng": -76.6367,
+    "cafes": []
+  },
+  "Mayo": {
+    "city": "Mayo",
+    "city_ascii": "Mayo",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9042,
+    "lng": -76.5179,
+    "cafes": []
+  },
+  "Edgewater": {
+    "city": "Edgewater",
+    "city_ascii": "Edgewater",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9373,
+    "lng": -76.5572,
+    "cafes": []
+  },
+  "Savage": {
+    "city": "Savage",
+    "city_ascii": "Savage",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1485,
+    "lng": -76.8228,
+    "cafes": []
+  },
+  "Mount Rainier": {
+    "city": "Mount Rainier",
+    "city_ascii": "Mount Rainier",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9423,
+    "lng": -76.9645,
+    "cafes": []
+  },
+  "Fairwood": {
+    "city": "Fairwood",
+    "city_ascii": "Fairwood",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9565,
+    "lng": -76.778,
+    "cafes": []
+  },
+  "South Kensington": {
+    "city": "South Kensington",
+    "city_ascii": "South Kensington",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0188,
+    "lng": -77.0785,
+    "cafes": []
+  },
+  "Brunswick": {
+    "city": "Brunswick",
+    "city_ascii": "Brunswick",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.318,
+    "lng": -77.6253,
+    "cafes": []
+  },
+  "Robinwood": {
+    "city": "Robinwood",
+    "city_ascii": "Robinwood",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6265,
+    "lng": -77.663,
+    "cafes": []
+  },
+  "Four Corners": {
+    "city": "Four Corners",
+    "city_ascii": "Four Corners",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0235,
+    "lng": -77.0102,
+    "cafes": []
+  },
+  "Wildewood": {
+    "city": "Wildewood",
+    "city_ascii": "Wildewood",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3035,
+    "lng": -76.547,
+    "cafes": []
+  },
+  "Taneytown": {
+    "city": "Taneytown",
+    "city_ascii": "Taneytown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6569,
+    "lng": -77.1683,
+    "cafes": []
+  },
+  "Riverdale Park": {
+    "city": "Riverdale Park",
+    "city_ascii": "Riverdale Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9643,
+    "lng": -76.9266,
+    "cafes": []
+  },
+  "Frostburg": {
+    "city": "Frostburg",
+    "city_ascii": "Frostburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6506,
+    "lng": -78.9269,
+    "cafes": []
+  },
+  "Ocean City": {
+    "city": "Ocean City",
+    "city_ascii": "Ocean City",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3998,
+    "lng": -75.0715,
+    "cafes": []
+  },
+  "Darnestown": {
+    "city": "Darnestown",
+    "city_ascii": "Darnestown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0969,
+    "lng": -77.3033,
+    "cafes": []
+  },
+  "Bowleys Quarters": {
+    "city": "Bowleys Quarters",
+    "city_ascii": "Bowleys Quarters",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3198,
+    "lng": -76.3856,
+    "cafes": []
+  },
+  "Lutherville": {
+    "city": "Lutherville",
+    "city_ascii": "Lutherville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.424,
+    "lng": -76.6177,
+    "cafes": []
+  },
+  "Forest Glen": {
+    "city": "Forest Glen",
+    "city_ascii": "Forest Glen",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.019,
+    "lng": -77.0447,
+    "cafes": []
+  },
+  "Thurmont": {
+    "city": "Thurmont",
+    "city_ascii": "Thurmont",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.621,
+    "lng": -77.4076,
+    "cafes": []
+  },
+  "Chesapeake Beach": {
+    "city": "Chesapeake Beach",
+    "city_ascii": "Chesapeake Beach",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6881,
+    "lng": -76.5448,
+    "cafes": []
+  },
+  "Fountainhead-Orchard Hills": {
+    "city": "Fountainhead-Orchard Hills",
+    "city_ascii": "Fountainhead-Orchard Hills",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6878,
+    "lng": -77.7173,
+    "cafes": []
+  },
+  "Walkersville": {
+    "city": "Walkersville",
+    "city_ascii": "Walkersville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4832,
+    "lng": -77.3559,
+    "cafes": []
+  },
+  "Glenarden": {
+    "city": "Glenarden",
+    "city_ascii": "Glenarden",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9294,
+    "lng": -76.8577,
+    "cafes": []
+  },
+  "Hampstead": {
+    "city": "Hampstead",
+    "city_ascii": "Hampstead",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6105,
+    "lng": -76.8549,
+    "cafes": []
+  },
+  "Riverside": {
+    "city": "Riverside",
+    "city_ascii": "Riverside",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4784,
+    "lng": -76.2398,
+    "cafes": []
+  },
+  "Marlow Heights": {
+    "city": "Marlow Heights",
+    "city_ascii": "Marlow Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8237,
+    "lng": -76.9484,
+    "cafes": []
+  },
+  "Cheverly": {
+    "city": "Cheverly",
+    "city_ascii": "Cheverly",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9254,
+    "lng": -76.9141,
+    "cafes": []
+  },
+  "Fulton": {
+    "city": "Fulton",
+    "city_ascii": "Fulton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1516,
+    "lng": -76.9163,
+    "cafes": []
+  },
+  "District Heights": {
+    "city": "District Heights",
+    "city_ascii": "District Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8588,
+    "lng": -76.8885,
+    "cafes": []
+  },
+  "Abingdon": {
+    "city": "Abingdon",
+    "city_ascii": "Abingdon",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4629,
+    "lng": -76.2754,
+    "cafes": []
+  },
+  "Spring Ridge": {
+    "city": "Spring Ridge",
+    "city_ascii": "Spring Ridge",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4043,
+    "lng": -77.3405,
+    "cafes": []
+  },
+  "Poolesville": {
+    "city": "Poolesville",
+    "city_ascii": "Poolesville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1423,
+    "lng": -77.4102,
+    "cafes": []
+  },
+  "Fruitland": {
+    "city": "Fruitland",
+    "city_ascii": "Fruitland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3214,
+    "lng": -75.6246,
+    "cafes": []
+  },
+  "Chestertown": {
+    "city": "Chestertown",
+    "city_ascii": "Chestertown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2182,
+    "lng": -76.0714,
+    "cafes": []
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6585,
+    "lng": -76.8881,
+    "cafes": []
+  },
+  "Ashton-Sandy Spring": {
+    "city": "Ashton-Sandy Spring",
+    "city_ascii": "Ashton-Sandy Spring",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1515,
+    "lng": -77.0065,
+    "cafes": []
+  },
+  "Layhill": {
+    "city": "Layhill",
+    "city_ascii": "Layhill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0871,
+    "lng": -77.0404,
+    "cafes": []
+  },
+  "Peppermill Village": {
+    "city": "Peppermill Village",
+    "city_ascii": "Peppermill Village",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8939,
+    "lng": -76.8878,
+    "cafes": []
+  },
+  "Cresaptown": {
+    "city": "Cresaptown",
+    "city_ascii": "Cresaptown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5944,
+    "lng": -78.8356,
+    "cafes": []
+  },
+  "Deale": {
+    "city": "Deale",
+    "city_ascii": "Deale",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.791,
+    "lng": -76.5469,
+    "cafes": []
+  },
+  "Berlin": {
+    "city": "Berlin",
+    "city_ascii": "Berlin",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.331,
+    "lng": -75.2148,
+    "cafes": []
+  },
+  "Hampton": {
+    "city": "Hampton",
+    "city_ascii": "Hampton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4237,
+    "lng": -76.5685,
+    "cafes": []
+  },
+  "West Ocean City": {
+    "city": "West Ocean City",
+    "city_ascii": "West Ocean City",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3466,
+    "lng": -75.1122,
+    "cafes": []
+  },
+  "Middletown": {
+    "city": "Middletown",
+    "city_ascii": "Middletown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4415,
+    "lng": -77.5347,
+    "cafes": []
+  },
+  "Silver Hill": {
+    "city": "Silver Hill",
+    "city_ascii": "Silver Hill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8392,
+    "lng": -76.9367,
+    "cafes": []
+  },
+  "Hillandale": {
+    "city": "Hillandale",
+    "city_ascii": "Hillandale",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0249,
+    "lng": -76.9737,
+    "cafes": []
+  },
+  "Denton": {
+    "city": "Denton",
+    "city_ascii": "Denton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.877,
+    "lng": -75.8264,
+    "cafes": []
+  },
+  "Riva": {
+    "city": "Riva",
+    "city_ascii": "Riva",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9448,
+    "lng": -76.5876,
+    "cafes": []
+  },
+  "Kingsville": {
+    "city": "Kingsville",
+    "city_ascii": "Kingsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4496,
+    "lng": -76.4205,
+    "cafes": []
+  },
+  "Centreville": {
+    "city": "Centreville",
+    "city_ascii": "Centreville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.042,
+    "lng": -76.063,
+    "cafes": []
+  },
+  "Woodmore": {
+    "city": "Woodmore",
+    "city_ascii": "Woodmore",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9222,
+    "lng": -76.781,
+    "cafes": []
+  },
+  "St. James": {
+    "city": "St. James",
+    "city_ascii": "St. James",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5738,
+    "lng": -77.7482,
+    "cafes": []
+  },
+  "Chester": {
+    "city": "Chester",
+    "city_ascii": "Chester",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9677,
+    "lng": -76.2824,
+    "cafes": []
+  },
+  "Seat Pleasant": {
+    "city": "Seat Pleasant",
+    "city_ascii": "Seat Pleasant",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8952,
+    "lng": -76.9016,
+    "cafes": []
+  },
+  "Springdale": {
+    "city": "Springdale",
+    "city_ascii": "Springdale",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9363,
+    "lng": -76.8442,
+    "cafes": []
+  },
+  "Shady Side": {
+    "city": "Shady Side",
+    "city_ascii": "Shady Side",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8285,
+    "lng": -76.5207,
+    "cafes": []
+  },
+  "Perryville": {
+    "city": "Perryville",
+    "city_ascii": "Perryville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5737,
+    "lng": -76.0668,
+    "cafes": []
+  },
+  "National Harbor": {
+    "city": "National Harbor",
+    "city_ascii": "National Harbor",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7876,
+    "lng": -77.0113,
+    "cafes": []
+  },
+  "La Vale": {
+    "city": "La Vale",
+    "city_ascii": "La Vale",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6625,
+    "lng": -78.8229,
+    "cafes": []
+  },
+  "Pocomoke City": {
+    "city": "Pocomoke City",
+    "city_ascii": "Pocomoke City",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.0635,
+    "lng": -75.5553,
+    "cafes": []
+  },
+  "Sykesville": {
+    "city": "Sykesville",
+    "city_ascii": "Sykesville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3716,
+    "lng": -76.9716,
+    "cafes": []
+  },
+  "West Laurel": {
+    "city": "West Laurel",
+    "city_ascii": "West Laurel",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1134,
+    "lng": -76.8924,
+    "cafes": []
+  },
+  "Burnt Mills": {
+    "city": "Burnt Mills",
+    "city_ascii": "Burnt Mills",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.034,
+    "lng": -76.9983,
+    "cafes": []
+  },
+  "North East": {
+    "city": "North East",
+    "city_ascii": "North East",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6076,
+    "lng": -75.9414,
+    "cafes": []
+  },
+  "Delmar": {
+    "city": "Delmar",
+    "city_ascii": "Delmar",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.445,
+    "lng": -75.5662,
+    "cafes": []
+  },
+  "Capitol Heights": {
+    "city": "Capitol Heights",
+    "city_ascii": "Capitol Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8765,
+    "lng": -76.9075,
+    "cafes": []
+  },
+  "Marlboro Meadows": {
+    "city": "Marlboro Meadows",
+    "city_ascii": "Marlboro Meadows",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8374,
+    "lng": -76.7144,
+    "cafes": []
+  },
+  "Friendship Heights Village": {
+    "city": "Friendship Heights Village",
+    "city_ascii": "Friendship Heights Village",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9633,
+    "lng": -77.0898,
+    "cafes": []
+  },
+  "Indian Head": {
+    "city": "Indian Head",
+    "city_ascii": "Indian Head",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5987,
+    "lng": -77.1555,
+    "cafes": []
+  },
+  "Pleasant Hills": {
+    "city": "Pleasant Hills",
+    "city_ascii": "Pleasant Hills",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4861,
+    "lng": -76.3908,
+    "cafes": []
+  },
+  "Golden Beach": {
+    "city": "Golden Beach",
+    "city_ascii": "Golden Beach",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.49,
+    "lng": -76.7019,
+    "cafes": []
+  },
+  "Brown Station": {
+    "city": "Brown Station",
+    "city_ascii": "Brown Station",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8539,
+    "lng": -76.7978,
+    "cafes": []
+  },
+  "Brookmont": {
+    "city": "Brookmont",
+    "city_ascii": "Brookmont",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9546,
+    "lng": -77.1292,
+    "cafes": []
+  },
+  "Boonsboro": {
+    "city": "Boonsboro",
+    "city_ascii": "Boonsboro",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5078,
+    "lng": -77.6585,
+    "cafes": []
+  },
+  "Brentwood": {
+    "city": "Brentwood",
+    "city_ascii": "Brentwood",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9439,
+    "lng": -76.9571,
+    "cafes": []
+  },
+  "Melwood": {
+    "city": "Melwood",
+    "city_ascii": "Melwood",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8024,
+    "lng": -76.8419,
+    "cafes": []
+  },
+  "Princess Anne": {
+    "city": "Princess Anne",
+    "city_ascii": "Princess Anne",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2054,
+    "lng": -75.697,
+    "cafes": []
+  },
+  "Grasonville": {
+    "city": "Grasonville",
+    "city_ascii": "Grasonville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9559,
+    "lng": -76.1947,
+    "cafes": []
+  },
+  "Berwyn Heights": {
+    "city": "Berwyn Heights",
+    "city_ascii": "Berwyn Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9928,
+    "lng": -76.9132,
+    "cafes": []
+  },
+  "Drum Point": {
+    "city": "Drum Point",
+    "city_ascii": "Drum Point",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3324,
+    "lng": -76.4307,
+    "cafes": []
+  },
+  "Konterra": {
+    "city": "Konterra",
+    "city_ascii": "Konterra",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0774,
+    "lng": -76.9023,
+    "cafes": []
+  },
+  "Andrews AFB": {
+    "city": "Andrews AFB",
+    "city_ascii": "Andrews AFB",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8054,
+    "lng": -76.8744,
+    "cafes": []
+  },
+  "Smithsburg": {
+    "city": "Smithsburg",
+    "city_ascii": "Smithsburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6559,
+    "lng": -77.575,
+    "cafes": []
+  },
+  "Maugansville": {
+    "city": "Maugansville",
+    "city_ascii": "Maugansville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6937,
+    "lng": -77.7472,
+    "cafes": []
+  },
+  "Monrovia": {
+    "city": "Monrovia",
+    "city_ascii": "Monrovia",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.357,
+    "lng": -77.2747,
+    "cafes": []
+  },
+  "Jefferson": {
+    "city": "Jefferson",
+    "city_ascii": "Jefferson",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3653,
+    "lng": -77.5406,
+    "cafes": []
+  },
+  "Gambrills": {
+    "city": "Gambrills",
+    "city_ascii": "Gambrills",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0927,
+    "lng": -76.6511,
+    "cafes": []
+  },
+  "Emmitsburg": {
+    "city": "Emmitsburg",
+    "city_ascii": "Emmitsburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7051,
+    "lng": -77.3217,
+    "cafes": []
+  },
+  "Federalsburg": {
+    "city": "Federalsburg",
+    "city_ascii": "Federalsburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6929,
+    "lng": -75.7727,
+    "cafes": []
+  },
+  "North Beach": {
+    "city": "North Beach",
+    "city_ascii": "North Beach",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.708,
+    "lng": -76.5346,
+    "cafes": []
+  },
+  "Bartonsville": {
+    "city": "Bartonsville",
+    "city_ascii": "Bartonsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3901,
+    "lng": -77.3513,
+    "cafes": []
+  },
+  "Rising Sun": {
+    "city": "Rising Sun",
+    "city_ascii": "Rising Sun",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7003,
+    "lng": -76.0587,
+    "cafes": []
+  },
+  "Paramount-Long Meadow": {
+    "city": "Paramount-Long Meadow",
+    "city_ascii": "Paramount-Long Meadow",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6798,
+    "lng": -77.6921,
+    "cafes": []
+  },
+  "University Park": {
+    "city": "University Park",
+    "city_ascii": "University Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9719,
+    "lng": -76.9445,
+    "cafes": []
+  },
+  "Huntingtown": {
+    "city": "Huntingtown",
+    "city_ascii": "Huntingtown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6117,
+    "lng": -76.6187,
+    "cafes": []
+  },
+  "Jarrettsville": {
+    "city": "Jarrettsville",
+    "city_ascii": "Jarrettsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6031,
+    "lng": -76.4752,
+    "cafes": []
+  },
+  "Forest Heights": {
+    "city": "Forest Heights",
+    "city_ascii": "Forest Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8052,
+    "lng": -77.0055,
+    "cafes": []
+  },
+  "Braddock Heights": {
+    "city": "Braddock Heights",
+    "city_ascii": "Braddock Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4117,
+    "lng": -77.4991,
+    "cafes": []
+  },
+  "Greensboro": {
+    "city": "Greensboro",
+    "city_ascii": "Greensboro",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9764,
+    "lng": -75.808,
+    "cafes": []
+  },
+  "Snow Hill": {
+    "city": "Snow Hill",
+    "city_ascii": "Snow Hill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.1729,
+    "lng": -75.3903,
+    "cafes": []
+  },
+  "Croom": {
+    "city": "Croom",
+    "city_ascii": "Croom",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7458,
+    "lng": -76.7555,
+    "cafes": []
+  },
+  "Herald Harbor": {
+    "city": "Herald Harbor",
+    "city_ascii": "Herald Harbor",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0516,
+    "lng": -76.5746,
+    "cafes": []
+  },
+  "Owings": {
+    "city": "Owings",
+    "city_ascii": "Owings",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7117,
+    "lng": -76.6055,
+    "cafes": []
+  },
+  "Crisfield": {
+    "city": "Crisfield",
+    "city_ascii": "Crisfield",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 37.984,
+    "lng": -75.8512,
+    "cafes": []
+  },
+  "Myersville": {
+    "city": "Myersville",
+    "city_ascii": "Myersville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5062,
+    "lng": -77.569,
+    "cafes": []
+  },
+  "Prince Frederick": {
+    "city": "Prince Frederick",
+    "city_ascii": "Prince Frederick",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.544,
+    "lng": -76.5879,
+    "cafes": []
+  },
+  "Adamstown": {
+    "city": "Adamstown",
+    "city_ascii": "Adamstown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.307,
+    "lng": -77.4692,
+    "cafes": []
+  },
+  "Perryman": {
+    "city": "Perryman",
+    "city_ascii": "Perryman",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4632,
+    "lng": -76.212,
+    "cafes": []
+  },
+  "Aberdeen Proving Ground": {
+    "city": "Aberdeen Proving Ground",
+    "city_ascii": "Aberdeen Proving Ground",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4672,
+    "lng": -76.1308,
+    "cafes": []
+  },
+  "Point of Rocks": {
+    "city": "Point of Rocks",
+    "city_ascii": "Point of Rocks",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2782,
+    "lng": -77.5291,
+    "cafes": []
+  },
+  "Dunkirk": {
+    "city": "Dunkirk",
+    "city_ascii": "Dunkirk",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7156,
+    "lng": -76.673,
+    "cafes": []
+  },
+  "Hughesville": {
+    "city": "Hughesville",
+    "city_ascii": "Hughesville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5376,
+    "lng": -76.7748,
+    "cafes": []
+  },
+  "Kensington": {
+    "city": "Kensington",
+    "city_ascii": "Kensington",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0269,
+    "lng": -77.0736,
+    "cafes": []
+  },
+  "Hurlock": {
+    "city": "Hurlock",
+    "city_ascii": "Hurlock",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6268,
+    "lng": -75.864,
+    "cafes": []
+  },
+  "Solomons": {
+    "city": "Solomons",
+    "city_ascii": "Solomons",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.337,
+    "lng": -76.4604,
+    "cafes": []
+  },
+  "Lusby": {
+    "city": "Lusby",
+    "city_ascii": "Lusby",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.362,
+    "lng": -76.4372,
+    "cafes": []
+  },
+  "Williamsport": {
+    "city": "Williamsport",
+    "city_ascii": "Williamsport",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5973,
+    "lng": -77.818,
+    "cafes": []
+  },
+  "Cabin John": {
+    "city": "Cabin John",
+    "city_ascii": "Cabin John",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9742,
+    "lng": -77.1632,
+    "cafes": []
+  },
+  "Queensland": {
+    "city": "Queensland",
+    "city_ascii": "Queensland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8019,
+    "lng": -76.7855,
+    "cafes": []
+  },
+  "Oakland": {
+    "city": "Oakland",
+    "city_ascii": "Oakland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4165,
+    "lng": -79.4022,
+    "cafes": []
+  },
+  "Charlestown": {
+    "city": "Charlestown",
+    "city_ascii": "Charlestown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5783,
+    "lng": -75.9812,
+    "cafes": []
+  },
+  "Pittsville": {
+    "city": "Pittsville",
+    "city_ascii": "Pittsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3937,
+    "lng": -75.4073,
+    "cafes": []
+  },
+  "Mountain Lake Park": {
+    "city": "Mountain Lake Park",
+    "city_ascii": "Mountain Lake Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4004,
+    "lng": -79.3812,
+    "cafes": []
+  },
+  "Landover Hills": {
+    "city": "Landover Hills",
+    "city_ascii": "Landover Hills",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9425,
+    "lng": -76.8945,
+    "cafes": []
+  },
+  "Long Beach": {
+    "city": "Long Beach",
+    "city_ascii": "Long Beach",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4568,
+    "lng": -76.4737,
+    "cafes": []
+  },
+  "Baden": {
+    "city": "Baden",
+    "city_ascii": "Baden",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.672,
+    "lng": -76.7428,
+    "cafes": []
+  },
+  "Westernport": {
+    "city": "Westernport",
+    "city_ascii": "Westernport",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.488,
+    "lng": -79.0429,
+    "cafes": []
+  },
+  "Chevy Chase Village": {
+    "city": "Chevy Chase Village",
+    "city_ascii": "Chevy Chase Village",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9698,
+    "lng": -77.0793,
+    "cafes": []
+  },
+  "Kingstown": {
+    "city": "Kingstown",
+    "city_ascii": "Kingstown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2036,
+    "lng": -76.0465,
+    "cafes": []
+  },
+  "Derwood": {
+    "city": "Derwood",
+    "city_ascii": "Derwood",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1136,
+    "lng": -77.151,
+    "cafes": []
+  },
+  "Cedar Heights": {
+    "city": "Cedar Heights",
+    "city_ascii": "Cedar Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9037,
+    "lng": -76.9059,
+    "cafes": []
+  },
+  "Hancock": {
+    "city": "Hancock",
+    "city_ascii": "Hancock",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7054,
+    "lng": -78.1749,
+    "cafes": []
+  },
+  "Romancoke": {
+    "city": "Romancoke",
+    "city_ascii": "Romancoke",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8872,
+    "lng": -76.3476,
+    "cafes": []
+  },
+  "Crownsville": {
+    "city": "Crownsville",
+    "city_ascii": "Crownsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0224,
+    "lng": -76.5904,
+    "cafes": []
+  },
+  "Arden on the Severn": {
+    "city": "Arden on the Severn",
+    "city_ascii": "Arden on the Severn",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0677,
+    "lng": -76.5964,
+    "cafes": []
+  },
+  "Ridgely": {
+    "city": "Ridgely",
+    "city_ascii": "Ridgely",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9528,
+    "lng": -75.8828,
+    "cafes": []
+  },
+  "Wilson-Conococheague": {
+    "city": "Wilson-Conococheague",
+    "city_ascii": "Wilson-Conococheague",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.653,
+    "lng": -77.8306,
+    "cafes": []
+  },
+  "Naval Academy": {
+    "city": "Naval Academy",
+    "city_ascii": "Naval Academy",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9858,
+    "lng": -76.488,
+    "cafes": []
+  },
+  "New Market": {
+    "city": "New Market",
+    "city_ascii": "New Market",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3889,
+    "lng": -77.2789,
+    "cafes": []
+  },
+  "Colmar Manor": {
+    "city": "Colmar Manor",
+    "city_ascii": "Colmar Manor",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9301,
+    "lng": -76.9437,
+    "cafes": []
+  },
+  "Mechanicsville": {
+    "city": "Mechanicsville",
+    "city_ascii": "Mechanicsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4355,
+    "lng": -76.7424,
+    "cafes": []
+  },
+  "Charlotte Hall": {
+    "city": "Charlotte Hall",
+    "city_ascii": "Charlotte Hall",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4667,
+    "lng": -76.7848,
+    "cafes": []
+  },
+  "Spencerville": {
+    "city": "Spencerville",
+    "city_ascii": "Spencerville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.119,
+    "lng": -76.9828,
+    "cafes": []
+  },
+  "Fairmount Heights": {
+    "city": "Fairmount Heights",
+    "city_ascii": "Fairmount Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9016,
+    "lng": -76.9153,
+    "cafes": []
+  },
+  "Woodsboro": {
+    "city": "Woodsboro",
+    "city_ascii": "Woodsboro",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5328,
+    "lng": -77.3097,
+    "cafes": []
+  },
+  "St. Michaels": {
+    "city": "St. Michaels",
+    "city_ascii": "St. Michaels",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7883,
+    "lng": -76.2244,
+    "cafes": []
+  },
+  "Queen Anne": {
+    "city": "Queen Anne",
+    "city_ascii": "Queen Anne",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9021,
+    "lng": -76.6973,
+    "cafes": []
+  },
+  "Libertytown": {
+    "city": "Libertytown",
+    "city_ascii": "Libertytown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4859,
+    "lng": -77.2482,
+    "cafes": []
+  },
+  "New Windsor": {
+    "city": "New Windsor",
+    "city_ascii": "New Windsor",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5443,
+    "lng": -77.1012,
+    "cafes": []
+  },
+  "Edmonston": {
+    "city": "Edmonston",
+    "city_ascii": "Edmonston",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9502,
+    "lng": -76.9332,
+    "cafes": []
+  },
+  "Buckeystown": {
+    "city": "Buckeystown",
+    "city_ascii": "Buckeystown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3264,
+    "lng": -77.4279,
+    "cafes": []
+  },
+  "Hebron": {
+    "city": "Hebron",
+    "city_ascii": "Hebron",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4242,
+    "lng": -75.6871,
+    "cafes": []
+  },
+  "Rock Hall": {
+    "city": "Rock Hall",
+    "city_ascii": "Rock Hall",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.139,
+    "lng": -76.243,
+    "cafes": []
+  },
+  "Willards": {
+    "city": "Willards",
+    "city_ascii": "Willards",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3922,
+    "lng": -75.3494,
+    "cafes": []
+  },
+  "Keedysville": {
+    "city": "Keedysville",
+    "city_ascii": "Keedysville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4867,
+    "lng": -77.698,
+    "cafes": []
+  },
+  "Galesville": {
+    "city": "Galesville",
+    "city_ascii": "Galesville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8379,
+    "lng": -76.5514,
+    "cafes": []
+  },
+  "Ten Mile Creek": {
+    "city": "Ten Mile Creek",
+    "city_ascii": "Ten Mile Creek",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2267,
+    "lng": -77.3101,
+    "cafes": []
+  },
+  "Piney Point": {
+    "city": "Piney Point",
+    "city_ascii": "Piney Point",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.1483,
+    "lng": -76.5201,
+    "cafes": []
+  },
+  "Cottage City": {
+    "city": "Cottage City",
+    "city_ascii": "Cottage City",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9384,
+    "lng": -76.9492,
+    "cafes": []
+  },
+  "Cobb Island": {
+    "city": "Cobb Island",
+    "city_ascii": "Cobb Island",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2647,
+    "lng": -76.8496,
+    "cafes": []
+  },
+  "Bowmans Addition": {
+    "city": "Bowmans Addition",
+    "city_ascii": "Bowmans Addition",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6863,
+    "lng": -78.7551,
+    "cafes": []
+  },
+  "Trappe": {
+    "city": "Trappe",
+    "city_ascii": "Trappe",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6634,
+    "lng": -76.0518,
+    "cafes": []
+  },
+  "Potomac Heights": {
+    "city": "Potomac Heights",
+    "city_ascii": "Potomac Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5988,
+    "lng": -77.1371,
+    "cafes": []
+  },
+  "Bowling Green": {
+    "city": "Bowling Green",
+    "city_ascii": "Bowling Green",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6272,
+    "lng": -78.805,
+    "cafes": []
+  },
+  "Lonaconing": {
+    "city": "Lonaconing",
+    "city_ascii": "Lonaconing",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.566,
+    "lng": -78.979,
+    "cafes": []
+  },
+  "Chevy Chase View": {
+    "city": "Chevy Chase View",
+    "city_ascii": "Chevy Chase View",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0192,
+    "lng": -77.081,
+    "cafes": []
+  },
+  "Callaway": {
+    "city": "Callaway",
+    "city_ascii": "Callaway",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2324,
+    "lng": -76.5231,
+    "cafes": []
+  },
+  "Highfield-Cascade": {
+    "city": "Highfield-Cascade",
+    "city_ascii": "Highfield-Cascade",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7136,
+    "lng": -77.4946,
+    "cafes": []
+  },
+  "Church Hill": {
+    "city": "Church Hill",
+    "city_ascii": "Church Hill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1452,
+    "lng": -75.9808,
+    "cafes": []
+  },
+  "Morningside": {
+    "city": "Morningside",
+    "city_ascii": "Morningside",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8266,
+    "lng": -76.8897,
+    "cafes": []
+  },
+  "Algonquin": {
+    "city": "Algonquin",
+    "city_ascii": "Algonquin",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5843,
+    "lng": -76.0965,
+    "cafes": []
+  },
+  "Somerset": {
+    "city": "Somerset",
+    "city_ascii": "Somerset",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9666,
+    "lng": -77.0963,
+    "cafes": []
+  },
+  "Martin's Additions": {
+    "city": "Martin's Additions",
+    "city_ascii": "Martin's Additions",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9796,
+    "lng": -77.0693,
+    "cafes": []
+  },
+  "Queenstown": {
+    "city": "Queenstown",
+    "city_ascii": "Queenstown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9868,
+    "lng": -76.1633,
+    "cafes": []
+  },
+  "Chevy Chase Section Three": {
+    "city": "Chevy Chase Section Three",
+    "city_ascii": "Chevy Chase Section Three",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9793,
+    "lng": -77.0742,
+    "cafes": []
+  },
+  "Potomac Park": {
+    "city": "Potomac Park",
+    "city_ascii": "Potomac Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6124,
+    "lng": -78.8082,
+    "cafes": []
+  },
+  "Grantsville": {
+    "city": "Grantsville",
+    "city_ascii": "Grantsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6969,
+    "lng": -79.1528,
+    "cafes": []
+  },
+  "Union Bridge": {
+    "city": "Union Bridge",
+    "city_ascii": "Union Bridge",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5731,
+    "lng": -77.1744,
+    "cafes": []
+  },
+  "Calvert Beach": {
+    "city": "Calvert Beach",
+    "city_ascii": "Calvert Beach",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4728,
+    "lng": -76.4895,
+    "cafes": []
+  },
+  "Cavetown": {
+    "city": "Cavetown",
+    "city_ascii": "Cavetown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6426,
+    "lng": -77.5933,
+    "cafes": []
+  },
+  "Maryland Park": {
+    "city": "Maryland Park",
+    "city_ascii": "Maryland Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8889,
+    "lng": -76.9077,
+    "cafes": []
+  },
+  "Mount Vernon": {
+    "city": "Mount Vernon",
+    "city_ascii": "Mount Vernon",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2447,
+    "lng": -75.7828,
+    "cafes": []
+  },
+  "Tilghman Island": {
+    "city": "Tilghman Island",
+    "city_ascii": "Tilghman Island",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7008,
+    "lng": -76.3353,
+    "cafes": []
+  },
+  "Garrett Park": {
+    "city": "Garrett Park",
+    "city_ascii": "Garrett Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.036,
+    "lng": -77.0934,
+    "cafes": []
+  },
+  "Finzel": {
+    "city": "Finzel",
+    "city_ascii": "Finzel",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7018,
+    "lng": -78.952,
+    "cafes": []
+  },
+  "Cecilton": {
+    "city": "Cecilton",
+    "city_ascii": "Cecilton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4047,
+    "lng": -75.8675,
+    "cafes": []
+  },
+  "Funkstown": {
+    "city": "Funkstown",
+    "city_ascii": "Funkstown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6068,
+    "lng": -77.7053,
+    "cafes": []
+  },
+  "Downsville": {
+    "city": "Downsville",
+    "city_ascii": "Downsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5549,
+    "lng": -77.8016,
+    "cafes": []
+  },
+  "Pylesville": {
+    "city": "Pylesville",
+    "city_ascii": "Pylesville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.688,
+    "lng": -76.3876,
+    "cafes": []
+  },
+  "Preston": {
+    "city": "Preston",
+    "city_ascii": "Preston",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7112,
+    "lng": -75.9087,
+    "cafes": []
+  },
+  "Cedarville": {
+    "city": "Cedarville",
+    "city_ascii": "Cedarville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6623,
+    "lng": -76.819,
+    "cafes": []
+  },
+  "Eden": {
+    "city": "Eden",
+    "city_ascii": "Eden",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2792,
+    "lng": -75.6533,
+    "cafes": []
+  },
+  "Highland": {
+    "city": "Highland",
+    "city_ascii": "Highland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1814,
+    "lng": -76.957,
+    "cafes": []
+  },
+  "Chesapeake City": {
+    "city": "Chesapeake City",
+    "city_ascii": "Chesapeake City",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.528,
+    "lng": -75.8095,
+    "cafes": []
+  },
+  "Chevy Chase Section Five": {
+    "city": "Chevy Chase Section Five",
+    "city_ascii": "Chevy Chase Section Five",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.984,
+    "lng": -77.074,
+    "cafes": []
+  },
+  "Galena": {
+    "city": "Galena",
+    "city_ascii": "Galena",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3425,
+    "lng": -75.8787,
+    "cafes": []
+  },
+  "Sharptown": {
+    "city": "Sharptown",
+    "city_ascii": "Sharptown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5381,
+    "lng": -75.719,
+    "cafes": []
+  },
+  "Barton": {
+    "city": "Barton",
+    "city_ascii": "Barton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5323,
+    "lng": -79.0171,
+    "cafes": []
+  },
+  "Corriganville": {
+    "city": "Corriganville",
+    "city_ascii": "Corriganville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6947,
+    "lng": -78.797,
+    "cafes": []
+  },
+  "Upper Marlboro": {
+    "city": "Upper Marlboro",
+    "city_ascii": "Upper Marlboro",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8153,
+    "lng": -76.7514,
+    "cafes": []
+  },
+  "Laytonsville": {
+    "city": "Laytonsville",
+    "city_ascii": "Laytonsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2088,
+    "lng": -77.1415,
+    "cafes": []
+  },
+  "Oxford": {
+    "city": "Oxford",
+    "city_ascii": "Oxford",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.685,
+    "lng": -76.1702,
+    "cafes": []
+  },
+  "North Chevy Chase": {
+    "city": "North Chevy Chase",
+    "city_ascii": "North Chevy Chase",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.002,
+    "lng": -77.074,
+    "cafes": []
+  },
+  "North Brentwood": {
+    "city": "North Brentwood",
+    "city_ascii": "North Brentwood",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.945,
+    "lng": -76.951,
+    "cafes": []
+  },
+  "Midland": {
+    "city": "Midland",
+    "city_ascii": "Midland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5896,
+    "lng": -78.9486,
+    "cafes": []
+  },
+  "Aquasco": {
+    "city": "Aquasco",
+    "city_ascii": "Aquasco",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5913,
+    "lng": -76.7074,
+    "cafes": []
+  },
+  "Pomfret": {
+    "city": "Pomfret",
+    "city_ascii": "Pomfret",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5699,
+    "lng": -77.0304,
+    "cafes": []
+  },
+  "Bishopville": {
+    "city": "Bishopville",
+    "city_ascii": "Bishopville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4413,
+    "lng": -75.2092,
+    "cafes": []
+  },
+  "Millington": {
+    "city": "Millington",
+    "city_ascii": "Millington",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2629,
+    "lng": -75.836,
+    "cafes": []
+  },
+  "Secretary": {
+    "city": "Secretary",
+    "city_ascii": "Secretary",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6081,
+    "lng": -75.947,
+    "cafes": []
+  },
+  "Sharpsburg": {
+    "city": "Sharpsburg",
+    "city_ascii": "Sharpsburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4577,
+    "lng": -77.7496,
+    "cafes": []
+  },
+  "Washington Grove": {
+    "city": "Washington Grove",
+    "city_ascii": "Washington Grove",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1407,
+    "lng": -77.1746,
+    "cafes": []
+  },
+  "Mount Aetna": {
+    "city": "Mount Aetna",
+    "city_ascii": "Mount Aetna",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5989,
+    "lng": -77.6127,
+    "cafes": []
+  },
+  "St. Leonard": {
+    "city": "St. Leonard",
+    "city_ascii": "St. Leonard",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4658,
+    "lng": -76.4972,
+    "cafes": []
+  },
+  "West Pocomoke": {
+    "city": "West Pocomoke",
+    "city_ascii": "West Pocomoke",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.0956,
+    "lng": -75.5842,
+    "cafes": []
+  },
+  "Tall Timbers": {
+    "city": "Tall Timbers",
+    "city_ascii": "Tall Timbers",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.1653,
+    "lng": -76.5366,
+    "cafes": []
+  },
+  "Pinesburg": {
+    "city": "Pinesburg",
+    "city_ascii": "Pinesburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6269,
+    "lng": -77.856,
+    "cafes": []
+  },
+  "Port Deposit": {
+    "city": "Port Deposit",
+    "city_ascii": "Port Deposit",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6111,
+    "lng": -76.098,
+    "cafes": []
+  },
+  "Butlertown": {
+    "city": "Butlertown",
+    "city_ascii": "Butlertown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2817,
+    "lng": -76.0995,
+    "cafes": []
+  },
+  "Eckhart Mines": {
+    "city": "Eckhart Mines",
+    "city_ascii": "Eckhart Mines",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6552,
+    "lng": -78.8941,
+    "cafes": []
+  },
+  "Beaver Creek": {
+    "city": "Beaver Creek",
+    "city_ascii": "Beaver Creek",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5816,
+    "lng": -77.6514,
+    "cafes": []
+  },
+  "Ellerslie": {
+    "city": "Ellerslie",
+    "city_ascii": "Ellerslie",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7169,
+    "lng": -78.7747,
+    "cafes": []
+  },
+  "Loch Lynn Heights": {
+    "city": "Loch Lynn Heights",
+    "city_ascii": "Loch Lynn Heights",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3919,
+    "lng": -79.3726,
+    "cafes": []
+  },
+  "Mardela Springs": {
+    "city": "Mardela Springs",
+    "city_ascii": "Mardela Springs",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4589,
+    "lng": -75.7565,
+    "cafes": []
+  },
+  "Fairplay": {
+    "city": "Fairplay",
+    "city_ascii": "Fairplay",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5357,
+    "lng": -77.7463,
+    "cafes": []
+  },
+  "Chesapeake Landing": {
+    "city": "Chesapeake Landing",
+    "city_ascii": "Chesapeake Landing",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2697,
+    "lng": -76.1584,
+    "cafes": []
+  },
+  "Mount Savage": {
+    "city": "Mount Savage",
+    "city_ascii": "Mount Savage",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6966,
+    "lng": -78.8768,
+    "cafes": []
+  },
+  "Kent Narrows": {
+    "city": "Kent Narrows",
+    "city_ascii": "Kent Narrows",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9703,
+    "lng": -76.2384,
+    "cafes": []
+  },
+  "Mapleville": {
+    "city": "Mapleville",
+    "city_ascii": "Mapleville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5358,
+    "lng": -77.6463,
+    "cafes": []
+  },
+  "Accident": {
+    "city": "Accident",
+    "city_ascii": "Accident",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6257,
+    "lng": -79.32,
+    "cafes": []
+  },
+  "San Mar": {
+    "city": "San Mar",
+    "city_ascii": "San Mar",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5521,
+    "lng": -77.641,
+    "cafes": []
+  },
+  "Cordova": {
+    "city": "Cordova",
+    "city_ascii": "Cordova",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.868,
+    "lng": -75.9989,
+    "cafes": []
+  },
+  "Broomes Island": {
+    "city": "Broomes Island",
+    "city_ascii": "Broomes Island",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4203,
+    "lng": -76.5475,
+    "cafes": []
+  },
+  "Rawlings": {
+    "city": "Rawlings",
+    "city_ascii": "Rawlings",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5403,
+    "lng": -78.8858,
+    "cafes": []
+  },
+  "Nanticoke": {
+    "city": "Nanticoke",
+    "city_ascii": "Nanticoke",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2676,
+    "lng": -75.8939,
+    "cafes": []
+  },
+  "McCoole": {
+    "city": "McCoole",
+    "city_ascii": "McCoole",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4534,
+    "lng": -78.9732,
+    "cafes": []
+  },
+  "Clear Spring": {
+    "city": "Clear Spring",
+    "city_ascii": "Clear Spring",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6562,
+    "lng": -77.9304,
+    "cafes": []
+  },
+  "Gilmore": {
+    "city": "Gilmore",
+    "city_ascii": "Gilmore",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5831,
+    "lng": -78.9513,
+    "cafes": []
+  },
+  "Grahamtown": {
+    "city": "Grahamtown",
+    "city_ascii": "Grahamtown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6448,
+    "lng": -78.9225,
+    "cafes": []
+  },
+  "Tolchester": {
+    "city": "Tolchester",
+    "city_ascii": "Tolchester",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2219,
+    "lng": -76.2349,
+    "cafes": []
+  },
+  "Mount Lena": {
+    "city": "Mount Lena",
+    "city_ascii": "Mount Lena",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.554,
+    "lng": -77.6219,
+    "cafes": []
+  },
+  "Friendsville": {
+    "city": "Friendsville",
+    "city_ascii": "Friendsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6624,
+    "lng": -79.4044,
+    "cafes": []
+  },
+  "Sudlersville": {
+    "city": "Sudlersville",
+    "city_ascii": "Sudlersville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1833,
+    "lng": -75.8535,
+    "cafes": []
+  },
+  "Bryantown": {
+    "city": "Bryantown",
+    "city_ascii": "Bryantown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5498,
+    "lng": -76.8429,
+    "cafes": []
+  },
+  "Betterton": {
+    "city": "Betterton",
+    "city_ascii": "Betterton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3652,
+    "lng": -76.069,
+    "cafes": []
+  },
+  "Fairmount": {
+    "city": "Fairmount",
+    "city_ascii": "Fairmount",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.1016,
+    "lng": -75.8074,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4993,
+    "lng": -79.0511,
+    "cafes": []
+  },
+  "Leitersburg": {
+    "city": "Leitersburg",
+    "city_ascii": "Leitersburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6928,
+    "lng": -77.6206,
+    "cafes": []
+  },
+  "Sabillasville": {
+    "city": "Sabillasville",
+    "city_ascii": "Sabillasville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6994,
+    "lng": -77.4573,
+    "cafes": []
+  },
+  "Darlington": {
+    "city": "Darlington",
+    "city_ascii": "Darlington",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6425,
+    "lng": -76.2035,
+    "cafes": []
+  },
+  "Newark": {
+    "city": "Newark",
+    "city_ascii": "Newark",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2751,
+    "lng": -75.2733,
+    "cafes": []
+  },
+  "Breathedsville": {
+    "city": "Breathedsville",
+    "city_ascii": "Breathedsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.546,
+    "lng": -77.7246,
+    "cafes": []
+  },
+  "Smith Island": {
+    "city": "Smith Island",
+    "city_ascii": "Smith Island",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 37.9748,
+    "lng": -76.0251,
+    "cafes": []
+  },
+  "Friendship": {
+    "city": "Friendship",
+    "city_ascii": "Friendship",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.7358,
+    "lng": -76.5878,
+    "cafes": []
+  },
+  "Midlothian": {
+    "city": "Midlothian",
+    "city_ascii": "Midlothian",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6319,
+    "lng": -78.9515,
+    "cafes": []
+  },
+  "Vienna": {
+    "city": "Vienna",
+    "city_ascii": "Vienna",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4811,
+    "lng": -75.8318,
+    "cafes": []
+  },
+  "Lewistown": {
+    "city": "Lewistown",
+    "city_ascii": "Lewistown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5409,
+    "lng": -77.4191,
+    "cafes": []
+  },
+  "East New Market": {
+    "city": "East New Market",
+    "city_ascii": "East New Market",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.597,
+    "lng": -75.9232,
+    "cafes": []
+  },
+  "Glen Echo": {
+    "city": "Glen Echo",
+    "city_ascii": "Glen Echo",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9683,
+    "lng": -77.1412,
+    "cafes": []
+  },
+  "Deal Island": {
+    "city": "Deal Island",
+    "city_ascii": "Deal Island",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.1444,
+    "lng": -75.9417,
+    "cafes": []
+  },
+  "Rosemont": {
+    "city": "Rosemont",
+    "city_ascii": "Rosemont",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3317,
+    "lng": -77.6214,
+    "cafes": []
+  },
+  "Zihlman": {
+    "city": "Zihlman",
+    "city_ascii": "Zihlman",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6741,
+    "lng": -78.9131,
+    "cafes": []
+  },
+  "Deer Park": {
+    "city": "Deer Park",
+    "city_ascii": "Deer Park",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.424,
+    "lng": -79.326,
+    "cafes": []
+  },
+  "Williston": {
+    "city": "Williston",
+    "city_ascii": "Williston",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8307,
+    "lng": -75.851,
+    "cafes": []
+  },
+  "Crumpton": {
+    "city": "Crumpton",
+    "city_ascii": "Crumpton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2358,
+    "lng": -75.9223,
+    "cafes": []
+  },
+  "Chewsville": {
+    "city": "Chewsville",
+    "city_ascii": "Chewsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6484,
+    "lng": -77.6311,
+    "cafes": []
+  },
+  "Shaft": {
+    "city": "Shaft",
+    "city_ascii": "Shaft",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6265,
+    "lng": -78.9384,
+    "cafes": []
+  },
+  "Danville": {
+    "city": "Danville",
+    "city_ascii": "Danville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5125,
+    "lng": -78.9184,
+    "cafes": []
+  },
+  "Moscow": {
+    "city": "Moscow",
+    "city_ascii": "Moscow",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5393,
+    "lng": -79.0082,
+    "cafes": []
+  },
+  "Tilghmanton": {
+    "city": "Tilghmanton",
+    "city_ascii": "Tilghmanton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5286,
+    "lng": -77.7437,
+    "cafes": []
+  },
+  "Gorman": {
+    "city": "Gorman",
+    "city_ascii": "Gorman",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2923,
+    "lng": -79.3527,
+    "cafes": []
+  },
+  "Fairlee": {
+    "city": "Fairlee",
+    "city_ascii": "Fairlee",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2268,
+    "lng": -76.1654,
+    "cafes": []
+  },
+  "Goldsboro": {
+    "city": "Goldsboro",
+    "city_ascii": "Goldsboro",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.0316,
+    "lng": -75.7821,
+    "cafes": []
+  },
+  "Pleasant Grove": {
+    "city": "Pleasant Grove",
+    "city_ascii": "Pleasant Grove",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6802,
+    "lng": -78.6904,
+    "cafes": []
+  },
+  "Mercersville": {
+    "city": "Mercersville",
+    "city_ascii": "Mercersville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4968,
+    "lng": -77.7672,
+    "cafes": []
+  },
+  "Bagtown": {
+    "city": "Bagtown",
+    "city_ascii": "Bagtown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.583,
+    "lng": -77.6139,
+    "cafes": []
+  },
+  "Chance": {
+    "city": "Chance",
+    "city_ascii": "Chance",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.1772,
+    "lng": -75.9366,
+    "cafes": []
+  },
+  "Powellville": {
+    "city": "Powellville",
+    "city_ascii": "Powellville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3299,
+    "lng": -75.3749,
+    "cafes": []
+  },
+  "Barnesville": {
+    "city": "Barnesville",
+    "city_ascii": "Barnesville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2212,
+    "lng": -77.3799,
+    "cafes": []
+  },
+  "Dames Quarter": {
+    "city": "Dames Quarter",
+    "city_ascii": "Dames Quarter",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.1697,
+    "lng": -75.8895,
+    "cafes": []
+  },
+  "Barclay": {
+    "city": "Barclay",
+    "city_ascii": "Barclay",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1451,
+    "lng": -75.8655,
+    "cafes": []
+  },
+  "Kennedyville": {
+    "city": "Kennedyville",
+    "city_ascii": "Kennedyville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3032,
+    "lng": -75.9949,
+    "cafes": []
+  },
+  "Garretts Mill": {
+    "city": "Garretts Mill",
+    "city_ascii": "Garretts Mill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3534,
+    "lng": -77.6892,
+    "cafes": []
+  },
+  "Trego-Rohrersville Station": {
+    "city": "Trego-Rohrersville Station",
+    "city_ascii": "Trego-Rohrersville Station",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4291,
+    "lng": -77.6748,
+    "cafes": []
+  },
+  "Sandy Hook": {
+    "city": "Sandy Hook",
+    "city_ascii": "Sandy Hook",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3284,
+    "lng": -77.7052,
+    "cafes": []
+  },
+  "Crellin": {
+    "city": "Crellin",
+    "city_ascii": "Crellin",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3886,
+    "lng": -79.4685,
+    "cafes": []
+  },
+  "Graceham": {
+    "city": "Graceham",
+    "city_ascii": "Graceham",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6152,
+    "lng": -77.3829,
+    "cafes": []
+  },
+  "Kitzmiller": {
+    "city": "Kitzmiller",
+    "city_ascii": "Kitzmiller",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3894,
+    "lng": -79.1833,
+    "cafes": []
+  },
+  "Charlton": {
+    "city": "Charlton",
+    "city_ascii": "Charlton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6344,
+    "lng": -77.8944,
+    "cafes": []
+  },
+  "Fishing Creek": {
+    "city": "Fishing Creek",
+    "city_ascii": "Fishing Creek",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3358,
+    "lng": -76.2238,
+    "cafes": []
+  },
+  "Whaleyville": {
+    "city": "Whaleyville",
+    "city_ascii": "Whaleyville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3917,
+    "lng": -75.3004,
+    "cafes": []
+  },
+  "Greensburg": {
+    "city": "Greensburg",
+    "city_ascii": "Greensburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6806,
+    "lng": -77.5615,
+    "cafes": []
+  },
+  "Parsonsburg": {
+    "city": "Parsonsburg",
+    "city_ascii": "Parsonsburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3936,
+    "lng": -75.4748,
+    "cafes": []
+  },
+  "Pondsville": {
+    "city": "Pondsville",
+    "city_ascii": "Pondsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6234,
+    "lng": -77.5916,
+    "cafes": []
+  },
+  "Bloomington": {
+    "city": "Bloomington",
+    "city_ascii": "Bloomington",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4794,
+    "lng": -79.0768,
+    "cafes": []
+  },
+  "Bivalve": {
+    "city": "Bivalve",
+    "city_ascii": "Bivalve",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3054,
+    "lng": -75.8847,
+    "cafes": []
+  },
+  "Rock Point": {
+    "city": "Rock Point",
+    "city_ascii": "Rock Point",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2754,
+    "lng": -76.8428,
+    "cafes": []
+  },
+  "Edgemont": {
+    "city": "Edgemont",
+    "city_ascii": "Edgemont",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6766,
+    "lng": -77.547,
+    "cafes": []
+  },
+  "Hutton": {
+    "city": "Hutton",
+    "city_ascii": "Hutton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4145,
+    "lng": -79.4801,
+    "cafes": []
+  },
+  "Templeville": {
+    "city": "Templeville",
+    "city_ascii": "Templeville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1361,
+    "lng": -75.7676,
+    "cafes": []
+  },
+  "Henderson": {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.075,
+    "lng": -75.766,
+    "cafes": []
+  },
+  "Brookeville": {
+    "city": "Brookeville",
+    "city_ascii": "Brookeville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1808,
+    "lng": -77.0591,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5163,
+    "lng": -76.2182,
+    "cafes": []
+  },
+  "Burkittsville": {
+    "city": "Burkittsville",
+    "city_ascii": "Burkittsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3923,
+    "lng": -77.6275,
+    "cafes": []
+  },
+  "Rohrersville": {
+    "city": "Rohrersville",
+    "city_ascii": "Rohrersville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4348,
+    "lng": -77.6655,
+    "cafes": []
+  },
+  "Cearfoss": {
+    "city": "Cearfoss",
+    "city_ascii": "Cearfoss",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.699,
+    "lng": -77.7765,
+    "cafes": []
+  },
+  "Lisbon": {
+    "city": "Lisbon",
+    "city_ascii": "Lisbon",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3361,
+    "lng": -77.07,
+    "cafes": []
+  },
+  "Still Pond": {
+    "city": "Still Pond",
+    "city_ascii": "Still Pond",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.326,
+    "lng": -76.0424,
+    "cafes": []
+  },
+  "Worton": {
+    "city": "Worton",
+    "city_ascii": "Worton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2718,
+    "lng": -76.0933,
+    "cafes": []
+  },
+  "Marydel": {
+    "city": "Marydel",
+    "city_ascii": "Marydel",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.113,
+    "lng": -75.7497,
+    "cafes": []
+  },
+  "Dargan": {
+    "city": "Dargan",
+    "city_ascii": "Dargan",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3766,
+    "lng": -77.7341,
+    "cafes": []
+  },
+  "Pecktonville": {
+    "city": "Pecktonville",
+    "city_ascii": "Pecktonville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.666,
+    "lng": -78.0482,
+    "cafes": []
+  },
+  "Flintstone": {
+    "city": "Flintstone",
+    "city_ascii": "Flintstone",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7035,
+    "lng": -78.5756,
+    "cafes": []
+  },
+  "Church Creek": {
+    "city": "Church Creek",
+    "city_ascii": "Church Creek",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5036,
+    "lng": -76.1531,
+    "cafes": []
+  },
+  "Hillsboro": {
+    "city": "Hillsboro",
+    "city_ascii": "Hillsboro",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.917,
+    "lng": -75.9416,
+    "cafes": []
+  },
+  "Nanticoke Acres": {
+    "city": "Nanticoke Acres",
+    "city_ascii": "Nanticoke Acres",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2578,
+    "lng": -75.9059,
+    "cafes": []
+  },
+  "Allen": {
+    "city": "Allen",
+    "city_ascii": "Allen",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2894,
+    "lng": -75.6904,
+    "cafes": []
+  },
+  "Mount Briar": {
+    "city": "Mount Briar",
+    "city_ascii": "Mount Briar",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4426,
+    "lng": -77.6873,
+    "cafes": []
+  },
+  "Detmold": {
+    "city": "Detmold",
+    "city_ascii": "Detmold",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5574,
+    "lng": -78.9912,
+    "cafes": []
+  },
+  "Choptank": {
+    "city": "Choptank",
+    "city_ascii": "Choptank",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.6822,
+    "lng": -75.9494,
+    "cafes": []
+  },
+  "Barrelville": {
+    "city": "Barrelville",
+    "city_ascii": "Barrelville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7026,
+    "lng": -78.8425,
+    "cafes": []
+  },
+  "Reid": {
+    "city": "Reid",
+    "city_ascii": "Reid",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7126,
+    "lng": -77.6793,
+    "cafes": []
+  },
+  "Jugtown": {
+    "city": "Jugtown",
+    "city_ascii": "Jugtown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6143,
+    "lng": -77.5943,
+    "cafes": []
+  },
+  "Luke": {
+    "city": "Luke",
+    "city_ascii": "Luke",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4766,
+    "lng": -79.0593,
+    "cafes": []
+  },
+  "Quantico": {
+    "city": "Quantico",
+    "city_ascii": "Quantico",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3755,
+    "lng": -75.754,
+    "cafes": []
+  },
+  "Jesterville": {
+    "city": "Jesterville",
+    "city_ascii": "Jesterville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2897,
+    "lng": -75.8928,
+    "cafes": []
+  },
+  "Klondike": {
+    "city": "Klondike",
+    "city_ascii": "Klondike",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6102,
+    "lng": -78.9633,
+    "cafes": []
+  },
+  "Stockton": {
+    "city": "Stockton",
+    "city_ascii": "Stockton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.0659,
+    "lng": -75.4134,
+    "cafes": []
+  },
+  "Ringgold": {
+    "city": "Ringgold",
+    "city_ascii": "Ringgold",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7092,
+    "lng": -77.5688,
+    "cafes": []
+  },
+  "Whitehaven": {
+    "city": "Whitehaven",
+    "city_ascii": "Whitehaven",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2705,
+    "lng": -75.7935,
+    "cafes": []
+  },
+  "Highland Beach": {
+    "city": "Highland Beach",
+    "city_ascii": "Highland Beach",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.9312,
+    "lng": -76.466,
+    "cafes": []
+  },
+  "Tyaskin": {
+    "city": "Tyaskin",
+    "city_ascii": "Tyaskin",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3196,
+    "lng": -75.8729,
+    "cafes": []
+  },
+  "Vale Summit": {
+    "city": "Vale Summit",
+    "city_ascii": "Vale Summit",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6152,
+    "lng": -78.9084,
+    "cafes": []
+  },
+  "Galestown": {
+    "city": "Galestown",
+    "city_ascii": "Galestown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5633,
+    "lng": -75.7149,
+    "cafes": []
+  },
+  "Eagle Harbor": {
+    "city": "Eagle Harbor",
+    "city_ascii": "Eagle Harbor",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5664,
+    "lng": -76.6871,
+    "cafes": []
+  },
+  "Oldtown": {
+    "city": "Oldtown",
+    "city_ascii": "Oldtown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.545,
+    "lng": -78.6148,
+    "cafes": []
+  },
+  "Bier": {
+    "city": "Bier",
+    "city_ascii": "Bier",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5525,
+    "lng": -78.8692,
+    "cafes": []
+  },
+  "Benedict": {
+    "city": "Benedict",
+    "city_ascii": "Benedict",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5116,
+    "lng": -76.6797,
+    "cafes": []
+  },
+  "Little Orleans": {
+    "city": "Little Orleans",
+    "city_ascii": "Little Orleans",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.63,
+    "lng": -78.3949,
+    "cafes": []
+  },
+  "Girdletree": {
+    "city": "Girdletree",
+    "city_ascii": "Girdletree",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.0989,
+    "lng": -75.4003,
+    "cafes": []
+  },
+  "Yarrowsburg": {
+    "city": "Yarrowsburg",
+    "city_ascii": "Yarrowsburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3762,
+    "lng": -77.6843,
+    "cafes": []
+  },
+  "Kemps Mill": {
+    "city": "Kemps Mill",
+    "city_ascii": "Kemps Mill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6268,
+    "lng": -77.8137,
+    "cafes": []
+  },
+  "Carlos": {
+    "city": "Carlos",
+    "city_ascii": "Carlos",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6237,
+    "lng": -78.9567,
+    "cafes": []
+  },
+  "Woodland": {
+    "city": "Woodland",
+    "city_ascii": "Woodland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6083,
+    "lng": -78.9502,
+    "cafes": []
+  },
+  "Antietam": {
+    "city": "Antietam",
+    "city_ascii": "Antietam",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4151,
+    "lng": -77.7364,
+    "cafes": []
+  },
+  "Taylors Island": {
+    "city": "Taylors Island",
+    "city_ascii": "Taylors Island",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.4734,
+    "lng": -76.3128,
+    "cafes": []
+  },
+  "National": {
+    "city": "National",
+    "city_ascii": "National",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6111,
+    "lng": -78.9401,
+    "cafes": []
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.2194,
+    "lng": -76.1971,
+    "cafes": []
+  },
+  "Dawson": {
+    "city": "Dawson",
+    "city_ascii": "Dawson",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4772,
+    "lng": -78.9457,
+    "cafes": []
+  },
+  "Spring Gap": {
+    "city": "Spring Gap",
+    "city_ascii": "Spring Gap",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5654,
+    "lng": -78.7054,
+    "cafes": []
+  },
+  "Eldorado": {
+    "city": "Eldorado",
+    "city_ascii": "Eldorado",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5841,
+    "lng": -75.7893,
+    "cafes": []
+  },
+  "Edesville": {
+    "city": "Edesville",
+    "city_ascii": "Edesville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.1542,
+    "lng": -76.2079,
+    "cafes": []
+  },
+  "Big Pool": {
+    "city": "Big Pool",
+    "city_ascii": "Big Pool",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6251,
+    "lng": -78.0161,
+    "cafes": []
+  },
+  "St. George Island": {
+    "city": "St. George Island",
+    "city_ascii": "St. George Island",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.1155,
+    "lng": -76.4771,
+    "cafes": []
+  },
+  "Brookview": {
+    "city": "Brookview",
+    "city_ascii": "Brookview",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5739,
+    "lng": -75.7927,
+    "cafes": []
+  },
+  "West Denton": {
+    "city": "West Denton",
+    "city_ascii": "West Denton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.8896,
+    "lng": -75.8389,
+    "cafes": []
+  },
+  "Ernstville": {
+    "city": "Ernstville",
+    "city_ascii": "Ernstville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6304,
+    "lng": -78.0239,
+    "cafes": []
+  },
+  "Big Spring": {
+    "city": "Big Spring",
+    "city_ascii": "Big Spring",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6257,
+    "lng": -77.9396,
+    "cafes": []
+  },
+  "Brownsville": {
+    "city": "Brownsville",
+    "city_ascii": "Brownsville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3782,
+    "lng": -77.6615,
+    "cafes": []
+  },
+  "Elliott": {
+    "city": "Elliott",
+    "city_ascii": "Elliott",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.3095,
+    "lng": -76.0069,
+    "cafes": []
+  },
+  "Jennings": {
+    "city": "Jennings",
+    "city_ascii": "Jennings",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6487,
+    "lng": -79.1835,
+    "cafes": []
+  },
+  "Clarysville": {
+    "city": "Clarysville",
+    "city_ascii": "Clarysville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6421,
+    "lng": -78.8887,
+    "cafes": []
+  },
+  "Ocean": {
+    "city": "Ocean",
+    "city_ascii": "Ocean",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6016,
+    "lng": -78.945,
+    "cafes": []
+  },
+  "Gapland": {
+    "city": "Gapland",
+    "city_ascii": "Gapland",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4021,
+    "lng": -77.6584,
+    "cafes": []
+  },
+  "Indian Springs": {
+    "city": "Indian Springs",
+    "city_ascii": "Indian Springs",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.6457,
+    "lng": -78.0074,
+    "cafes": []
+  },
+  "Frenchtown-Rumbly": {
+    "city": "Frenchtown-Rumbly",
+    "city_ascii": "Frenchtown-Rumbly",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.0831,
+    "lng": -75.8521,
+    "cafes": []
+  },
+  "Port Tobacco Village": {
+    "city": "Port Tobacco Village",
+    "city_ascii": "Port Tobacco Village",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.5124,
+    "lng": -77.0211,
+    "cafes": []
+  },
+  "Middleburg": {
+    "city": "Middleburg",
+    "city_ascii": "Middleburg",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7177,
+    "lng": -77.7239,
+    "cafes": []
+  },
+  "Waterview": {
+    "city": "Waterview",
+    "city_ascii": "Waterview",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 38.2482,
+    "lng": -75.9017,
+    "cafes": []
+  },
+  "Nikep": {
+    "city": "Nikep",
+    "city_ascii": "Nikep",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5516,
+    "lng": -78.9978,
+    "cafes": []
+  },
+  "Bakersville": {
+    "city": "Bakersville",
+    "city_ascii": "Bakersville",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.5148,
+    "lng": -77.757,
+    "cafes": []
+  },
+  "Eakles Mill": {
+    "city": "Eakles Mill",
+    "city_ascii": "Eakles Mill",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4669,
+    "lng": -77.6859,
+    "cafes": []
+  },
+  "Fort Ritchie": {
+    "city": "Fort Ritchie",
+    "city_ascii": "Fort Ritchie",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.7022,
+    "lng": -77.5021,
+    "cafes": []
+  },
+  "Swanton": {
+    "city": "Swanton",
+    "city_ascii": "Swanton",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.4598,
+    "lng": -79.2328,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.711,
+    "lng": -77.8406,
+    "cafes": []
+  }
+}

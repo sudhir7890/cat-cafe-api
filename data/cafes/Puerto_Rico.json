@@ -1,0 +1,2495 @@
+{
+  "San Juan": {
+    "city": "San Juan",
+    "city_ascii": "San Juan",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3985,
+    "lng": -66.061,
+    "cafes": []
+  },
+  "Aguadilla": {
+    "city": "Aguadilla",
+    "city_ascii": "Aguadilla",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4382,
+    "lng": -67.1537,
+    "cafes": []
+  },
+  "Bayamón": {
+    "city": "Bayamón",
+    "city_ascii": "Bayamon",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3794,
+    "lng": -66.1635,
+    "cafes": []
+  },
+  "Carolina": {
+    "city": "Carolina",
+    "city_ascii": "Carolina",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4054,
+    "lng": -65.9792,
+    "cafes": []
+  },
+  "Arecibo": {
+    "city": "Arecibo",
+    "city_ascii": "Arecibo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4491,
+    "lng": -66.7387,
+    "cafes": []
+  },
+  "Ponce": {
+    "city": "Ponce",
+    "city_ascii": "Ponce",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0127,
+    "lng": -66.6212,
+    "cafes": []
+  },
+  "San Germán": {
+    "city": "San Germán",
+    "city_ascii": "San German",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0827,
+    "lng": -67.046,
+    "cafes": []
+  },
+  "Mayagüez": {
+    "city": "Mayagüez",
+    "city_ascii": "Mayaguez",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2003,
+    "lng": -67.1397,
+    "cafes": []
+  },
+  "Caguas": {
+    "city": "Caguas",
+    "city_ascii": "Caguas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2319,
+    "lng": -66.0388,
+    "cafes": []
+  },
+  "Guaynabo": {
+    "city": "Guaynabo",
+    "city_ascii": "Guaynabo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3832,
+    "lng": -66.1134,
+    "cafes": []
+  },
+  "Fajardo": {
+    "city": "Fajardo",
+    "city_ascii": "Fajardo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3331,
+    "lng": -65.6589,
+    "cafes": []
+  },
+  "Juana Díaz": {
+    "city": "Juana Díaz",
+    "city_ascii": "Juana Diaz",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0532,
+    "lng": -66.5044,
+    "cafes": []
+  },
+  "Trujillo Alto": {
+    "city": "Trujillo Alto",
+    "city_ascii": "Trujillo Alto",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3599,
+    "lng": -66.0096,
+    "cafes": []
+  },
+  "Cataño": {
+    "city": "Cataño",
+    "city_ascii": "Catano",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4375,
+    "lng": -66.144,
+    "cafes": []
+  },
+  "Vega Baja": {
+    "city": "Vega Baja",
+    "city_ascii": "Vega Baja",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4406,
+    "lng": -66.3997,
+    "cafes": []
+  },
+  "Guayama": {
+    "city": "Guayama",
+    "city_ascii": "Guayama",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9743,
+    "lng": -66.1104,
+    "cafes": []
+  },
+  "Humacao": {
+    "city": "Humacao",
+    "city_ascii": "Humacao",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.152,
+    "lng": -65.8204,
+    "cafes": []
+  },
+  "Yauco": {
+    "city": "Yauco",
+    "city_ascii": "Yauco",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0344,
+    "lng": -66.8615,
+    "cafes": []
+  },
+  "Cayey": {
+    "city": "Cayey",
+    "city_ascii": "Cayey",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.115,
+    "lng": -66.163,
+    "cafes": []
+  },
+  "Candelaria": {
+    "city": "Candelaria",
+    "city_ascii": "Candelaria",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4042,
+    "lng": -66.2175,
+    "cafes": []
+  },
+  "Dorado": {
+    "city": "Dorado",
+    "city_ascii": "Dorado",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4657,
+    "lng": -66.2726,
+    "cafes": []
+  },
+  "Canóvanas": {
+    "city": "Canóvanas",
+    "city_ascii": "Canovanas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3693,
+    "lng": -65.9009,
+    "cafes": []
+  },
+  "Río Grande": {
+    "city": "Río Grande",
+    "city_ascii": "Rio Grande",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3789,
+    "lng": -65.8388,
+    "cafes": []
+  },
+  "Caño Martin Peña": {
+    "city": "Caño Martin Peña",
+    "city_ascii": "Cano Martin Pena",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4309,
+    "lng": -66.0507,
+    "cafes": []
+  },
+  "Hormigueros": {
+    "city": "Hormigueros",
+    "city_ascii": "Hormigueros",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1437,
+    "lng": -67.1199,
+    "cafes": []
+  },
+  "Manatí": {
+    "city": "Manatí",
+    "city_ascii": "Manati",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4283,
+    "lng": -66.4823,
+    "cafes": []
+  },
+  "Corozal": {
+    "city": "Corozal",
+    "city_ascii": "Corozal",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.341,
+    "lng": -66.3124,
+    "cafes": []
+  },
+  "Isabela": {
+    "city": "Isabela",
+    "city_ascii": "Isabela",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4991,
+    "lng": -67.022,
+    "cafes": []
+  },
+  "Pájaros": {
+    "city": "Pájaros",
+    "city_ascii": "Pajaros",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.361,
+    "lng": -66.2184,
+    "cafes": []
+  },
+  "Coamo": {
+    "city": "Coamo",
+    "city_ascii": "Coamo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0765,
+    "lng": -66.3638,
+    "cafes": []
+  },
+  "Sabana Grande": {
+    "city": "Sabana Grande",
+    "city_ascii": "Sabana Grande",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0832,
+    "lng": -66.9645,
+    "cafes": []
+  },
+  "San Lorenzo": {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1875,
+    "lng": -65.968,
+    "cafes": []
+  },
+  "San Sebastián": {
+    "city": "San Sebastián",
+    "city_ascii": "San Sebastian",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3356,
+    "lng": -66.9948,
+    "cafes": []
+  },
+  "Cabo Rojo": {
+    "city": "Cabo Rojo",
+    "city_ascii": "Cabo Rojo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0867,
+    "lng": -67.1482,
+    "cafes": []
+  },
+  "Juncos": {
+    "city": "Juncos",
+    "city_ascii": "Juncos",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2256,
+    "lng": -65.9161,
+    "cafes": []
+  },
+  "Vega Alta": {
+    "city": "Vega Alta",
+    "city_ascii": "Vega Alta",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4151,
+    "lng": -66.3211,
+    "cafes": []
+  },
+  "Aibonito": {
+    "city": "Aibonito",
+    "city_ascii": "Aibonito",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1398,
+    "lng": -66.2659,
+    "cafes": []
+  },
+  "Sabana Seca": {
+    "city": "Sabana Seca",
+    "city_ascii": "Sabana Seca",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4273,
+    "lng": -66.1809,
+    "cafes": []
+  },
+  "Utuado": {
+    "city": "Utuado",
+    "city_ascii": "Utuado",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.27,
+    "lng": -66.7048,
+    "cafes": []
+  },
+  "Luquillo": {
+    "city": "Luquillo",
+    "city_ascii": "Luquillo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3719,
+    "lng": -65.7221,
+    "cafes": []
+  },
+  "Arroyo": {
+    "city": "Arroyo",
+    "city_ascii": "Arroyo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9706,
+    "lng": -66.0598,
+    "cafes": []
+  },
+  "San Isidro": {
+    "city": "San Isidro",
+    "city_ascii": "San Isidro",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3921,
+    "lng": -65.8844,
+    "cafes": []
+  },
+  "Gurabo": {
+    "city": "Gurabo",
+    "city_ascii": "Gurabo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2528,
+    "lng": -65.9785,
+    "cafes": []
+  },
+  "San Antonio": {
+    "city": "San Antonio",
+    "city_ascii": "San Antonio",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4932,
+    "lng": -67.0997,
+    "cafes": []
+  },
+  "Quebradillas": {
+    "city": "Quebradillas",
+    "city_ascii": "Quebradillas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4724,
+    "lng": -66.935,
+    "cafes": []
+  },
+  "Puerto Real": {
+    "city": "Puerto Real",
+    "city_ascii": "Puerto Real",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0767,
+    "lng": -67.1858,
+    "cafes": []
+  },
+  "Cidra": {
+    "city": "Cidra",
+    "city_ascii": "Cidra",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1776,
+    "lng": -66.158,
+    "cafes": []
+  },
+  "Yabucoa": {
+    "city": "Yabucoa",
+    "city_ascii": "Yabucoa",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0464,
+    "lng": -65.8803,
+    "cafes": []
+  },
+  "Coco": {
+    "city": "Coco",
+    "city_ascii": "Coco",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0009,
+    "lng": -66.2602,
+    "cafes": []
+  },
+  "Peñuelas": {
+    "city": "Peñuelas",
+    "city_ascii": "Penuelas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0595,
+    "lng": -66.7206,
+    "cafes": []
+  },
+  "Guánica": {
+    "city": "Guánica",
+    "city_ascii": "Guanica",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9698,
+    "lng": -66.9309,
+    "cafes": []
+  },
+  "Ceiba": {
+    "city": "Ceiba",
+    "city_ascii": "Ceiba",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.265,
+    "lng": -65.6488,
+    "cafes": []
+  },
+  "Las Piedras": {
+    "city": "Las Piedras",
+    "city_ascii": "Las Piedras",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1787,
+    "lng": -65.8711,
+    "cafes": []
+  },
+  "Lares": {
+    "city": "Lares",
+    "city_ascii": "Lares",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2964,
+    "lng": -66.8836,
+    "cafes": []
+  },
+  "Santa Isabel": {
+    "city": "Santa Isabel",
+    "city_ascii": "Santa Isabel",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9691,
+    "lng": -66.4051,
+    "cafes": []
+  },
+  "Naguabo": {
+    "city": "Naguabo",
+    "city_ascii": "Naguabo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2117,
+    "lng": -65.737,
+    "cafes": []
+  },
+  "Añasco": {
+    "city": "Añasco",
+    "city_ascii": "Anasco",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2861,
+    "lng": -67.1409,
+    "cafes": []
+  },
+  "Adjuntas": {
+    "city": "Adjuntas",
+    "city_ascii": "Adjuntas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1638,
+    "lng": -66.7235,
+    "cafes": []
+  },
+  "Imbéry": {
+    "city": "Imbéry",
+    "city_ascii": "Imbery",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4371,
+    "lng": -66.5566,
+    "cafes": []
+  },
+  "Salinas": {
+    "city": "Salinas",
+    "city_ascii": "Salinas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9778,
+    "lng": -66.2962,
+    "cafes": []
+  },
+  "Lajas": {
+    "city": "Lajas",
+    "city_ascii": "Lajas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0431,
+    "lng": -67.0574,
+    "cafes": []
+  },
+  "Hatillo": {
+    "city": "Hatillo",
+    "city_ascii": "Hatillo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4811,
+    "lng": -66.8221,
+    "cafes": []
+  },
+  "Santa Bárbara": {
+    "city": "Santa Bárbara",
+    "city_ascii": "Santa Barbara",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3954,
+    "lng": -65.9172,
+    "cafes": []
+  },
+  "Candelaria Arenas": {
+    "city": "Candelaria Arenas",
+    "city_ascii": "Candelaria Arenas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4175,
+    "lng": -66.2203,
+    "cafes": []
+  },
+  "Comerío": {
+    "city": "Comerío",
+    "city_ascii": "Comerio",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.22,
+    "lng": -66.2246,
+    "cafes": []
+  },
+  "Tierras Nuevas Poniente": {
+    "city": "Tierras Nuevas Poniente",
+    "city_ascii": "Tierras Nuevas Poniente",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4614,
+    "lng": -66.4891,
+    "cafes": []
+  },
+  "Campanilla": {
+    "city": "Campanilla",
+    "city_ascii": "Campanilla",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4225,
+    "lng": -66.2391,
+    "cafes": []
+  },
+  "Aguilita": {
+    "city": "Aguilita",
+    "city_ascii": "Aguilita",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0284,
+    "lng": -66.533,
+    "cafes": []
+  },
+  "Breñas": {
+    "city": "Breñas",
+    "city_ascii": "Brenas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4734,
+    "lng": -66.3346,
+    "cafes": []
+  },
+  "Punta Santiago": {
+    "city": "Punta Santiago",
+    "city_ascii": "Punta Santiago",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1619,
+    "lng": -65.7584,
+    "cafes": []
+  },
+  "Florida": {
+    "city": "Florida",
+    "city_ascii": "Florida",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3643,
+    "lng": -66.5611,
+    "cafes": []
+  },
+  "Bajadero": {
+    "city": "Bajadero",
+    "city_ascii": "Bajadero",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4245,
+    "lng": -66.6765,
+    "cafes": []
+  },
+  "Hacienda San José": {
+    "city": "Hacienda San José",
+    "city_ascii": "Hacienda San Jose",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2409,
+    "lng": -66.0721,
+    "cafes": []
+  },
+  "Celada": {
+    "city": "Celada",
+    "city_ascii": "Celada",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2667,
+    "lng": -65.9621,
+    "cafes": []
+  },
+  "Aguas Buenas": {
+    "city": "Aguas Buenas",
+    "city_ascii": "Aguas Buenas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2573,
+    "lng": -66.1061,
+    "cafes": []
+  },
+  "Los Prados": {
+    "city": "Los Prados",
+    "city_ascii": "Los Prados",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.233,
+    "lng": -66.0621,
+    "cafes": []
+  },
+  "Camuy": {
+    "city": "Camuy",
+    "city_ascii": "Camuy",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4825,
+    "lng": -66.8501,
+    "cafes": []
+  },
+  "Barceloneta": {
+    "city": "Barceloneta",
+    "city_ascii": "Barceloneta",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.453,
+    "lng": -66.5381,
+    "cafes": []
+  },
+  "Monte Grande": {
+    "city": "Monte Grande",
+    "city_ascii": "Monte Grande",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0894,
+    "lng": -67.1201,
+    "cafes": []
+  },
+  "Cabán": {
+    "city": "Cabán",
+    "city_ascii": "Caban",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.445,
+    "lng": -67.1363,
+    "cafes": []
+  },
+  "Comunas": {
+    "city": "Comunas",
+    "city_ascii": "Comunas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0846,
+    "lng": -65.8435,
+    "cafes": []
+  },
+  "Aguada": {
+    "city": "Aguada",
+    "city_ascii": "Aguada",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3803,
+    "lng": -67.1884,
+    "cafes": []
+  },
+  "Sabana Hoyos": {
+    "city": "Sabana Hoyos",
+    "city_ascii": "Sabana Hoyos",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4213,
+    "lng": -66.6084,
+    "cafes": []
+  },
+  "Luis Lloréns Torres": {
+    "city": "Luis Lloréns Torres",
+    "city_ascii": "Luis Llorens Torres",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0565,
+    "lng": -66.5267,
+    "cafes": []
+  },
+  "Guayanilla": {
+    "city": "Guayanilla",
+    "city_ascii": "Guayanilla",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0222,
+    "lng": -66.7898,
+    "cafes": []
+  },
+  "Jayuya": {
+    "city": "Jayuya",
+    "city_ascii": "Jayuya",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2199,
+    "lng": -66.5984,
+    "cafes": []
+  },
+  "Toa Alta": {
+    "city": "Toa Alta",
+    "city_ascii": "Toa Alta",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3879,
+    "lng": -66.2508,
+    "cafes": []
+  },
+  "Villalba": {
+    "city": "Villalba",
+    "city_ascii": "Villalba",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1278,
+    "lng": -66.4819,
+    "cafes": []
+  },
+  "Barranquitas": {
+    "city": "Barranquitas",
+    "city_ascii": "Barranquitas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1848,
+    "lng": -66.3102,
+    "cafes": []
+  },
+  "Piedra Aguza": {
+    "city": "Piedra Aguza",
+    "city_ascii": "Piedra Aguza",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0338,
+    "lng": -66.4955,
+    "cafes": []
+  },
+  "Naranjito": {
+    "city": "Naranjito",
+    "city_ascii": "Naranjito",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3029,
+    "lng": -66.2498,
+    "cafes": []
+  },
+  "Emajagua": {
+    "city": "Emajagua",
+    "city_ascii": "Emajagua",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0016,
+    "lng": -65.8829,
+    "cafes": []
+  },
+  "Capitanejo": {
+    "city": "Capitanejo",
+    "city_ascii": "Capitanejo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0132,
+    "lng": -66.5358,
+    "cafes": []
+  },
+  "Patillas": {
+    "city": "Patillas",
+    "city_ascii": "Patillas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0069,
+    "lng": -66.0134,
+    "cafes": []
+  },
+  "Rafael González": {
+    "city": "Rafael González",
+    "city_ascii": "Rafael Gonzalez",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4264,
+    "lng": -66.7872,
+    "cafes": []
+  },
+  "Palmas del Mar": {
+    "city": "Palmas del Mar",
+    "city_ascii": "Palmas del Mar",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0922,
+    "lng": -65.8005,
+    "cafes": []
+  },
+  "Ciales": {
+    "city": "Ciales",
+    "city_ascii": "Ciales",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3357,
+    "lng": -66.4723,
+    "cafes": []
+  },
+  "Carrizales": {
+    "city": "Carrizales",
+    "city_ascii": "Carrizales",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4811,
+    "lng": -66.7879,
+    "cafes": []
+  },
+  "Potala Pastillo": {
+    "city": "Potala Pastillo",
+    "city_ascii": "Potala Pastillo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9921,
+    "lng": -66.4966,
+    "cafes": []
+  },
+  "Luyando": {
+    "city": "Luyando",
+    "city_ascii": "Luyando",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3575,
+    "lng": -67.1553,
+    "cafes": []
+  },
+  "La Dolores": {
+    "city": "La Dolores",
+    "city_ascii": "La Dolores",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3725,
+    "lng": -65.8546,
+    "cafes": []
+  },
+  "La Luisa": {
+    "city": "La Luisa",
+    "city_ascii": "La Luisa",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4488,
+    "lng": -66.5078,
+    "cafes": []
+  },
+  "Brisas del Campanero": {
+    "city": "Brisas del Campanero",
+    "city_ascii": "Brisas del Campanero",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4316,
+    "lng": -66.2261,
+    "cafes": []
+  },
+  "Loíza": {
+    "city": "Loíza",
+    "city_ascii": "Loiza",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4309,
+    "lng": -65.8801,
+    "cafes": []
+  },
+  "Coquí": {
+    "city": "Coquí",
+    "city_ascii": "Coqui",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9793,
+    "lng": -66.2255,
+    "cafes": []
+  },
+  "Ingenio": {
+    "city": "Ingenio",
+    "city_ascii": "Ingenio",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4453,
+    "lng": -66.2239,
+    "cafes": []
+  },
+  "Coto Laurel": {
+    "city": "Coto Laurel",
+    "city_ascii": "Coto Laurel",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0491,
+    "lng": -66.5517,
+    "cafes": []
+  },
+  "Campo Rico": {
+    "city": "Campo Rico",
+    "city_ascii": "Campo Rico",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3391,
+    "lng": -65.8943,
+    "cafes": []
+  },
+  "Jaguas": {
+    "city": "Jaguas",
+    "city_ascii": "Jaguas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3074,
+    "lng": -66.4777,
+    "cafes": []
+  },
+  "Santo Domingo": {
+    "city": "Santo Domingo",
+    "city_ascii": "Santo Domingo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0719,
+    "lng": -66.7459,
+    "cafes": []
+  },
+  "Piedra Gorda": {
+    "city": "Piedra Gorda",
+    "city_ascii": "Piedra Gorda",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4342,
+    "lng": -66.8861,
+    "cafes": []
+  },
+  "San José": {
+    "city": "San José",
+    "city_ascii": "San Jose",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4029,
+    "lng": -66.2492,
+    "cafes": []
+  },
+  "Parcelas de Navarro": {
+    "city": "Parcelas de Navarro",
+    "city_ascii": "Parcelas de Navarro",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2301,
+    "lng": -66.0043,
+    "cafes": []
+  },
+  "Monserrate": {
+    "city": "Monserrate",
+    "city_ascii": "Monserrate",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4367,
+    "lng": -66.3579,
+    "cafes": []
+  },
+  "Liborio Negrón Torres": {
+    "city": "Liborio Negrón Torres",
+    "city_ascii": "Liborio Negron Torres",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0431,
+    "lng": -66.9426,
+    "cafes": []
+  },
+  "Aguas Claras": {
+    "city": "Aguas Claras",
+    "city_ascii": "Aguas Claras",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2447,
+    "lng": -65.6662,
+    "cafes": []
+  },
+  "Corazón": {
+    "city": "Corazón",
+    "city_ascii": "Corazon",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.994,
+    "lng": -66.0833,
+    "cafes": []
+  },
+  "La Fermina": {
+    "city": "La Fermina",
+    "city_ascii": "La Fermina",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1744,
+    "lng": -65.8526,
+    "cafes": []
+  },
+  "Los Llanos": {
+    "city": "Los Llanos",
+    "city_ascii": "Los Llanos",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0579,
+    "lng": -66.4092,
+    "cafes": []
+  },
+  "Martorell": {
+    "city": "Martorell",
+    "city_ascii": "Martorell",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.073,
+    "lng": -65.8977,
+    "cafes": []
+  },
+  "Yeguada": {
+    "city": "Yeguada",
+    "city_ascii": "Yeguada",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4842,
+    "lng": -66.8802,
+    "cafes": []
+  },
+  "Alianza": {
+    "city": "Alianza",
+    "city_ascii": "Alianza",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4533,
+    "lng": -66.8556,
+    "cafes": []
+  },
+  "Vieques": {
+    "city": "Vieques",
+    "city_ascii": "Vieques",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1462,
+    "lng": -65.4429,
+    "cafes": []
+  },
+  "Las Carolinas": {
+    "city": "Las Carolinas",
+    "city_ascii": "Las Carolinas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2539,
+    "lng": -66.0658,
+    "cafes": []
+  },
+  "Barahona": {
+    "city": "Barahona",
+    "city_ascii": "Barahona",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3522,
+    "lng": -66.4442,
+    "cafes": []
+  },
+  "H. Rivera Colón": {
+    "city": "H. Rivera Colón",
+    "city_ascii": "H. Rivera Colon",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3482,
+    "lng": -66.2732,
+    "cafes": []
+  },
+  "Boquerón": {
+    "city": "Boquerón",
+    "city_ascii": "Boqueron",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.034,
+    "lng": -67.1714,
+    "cafes": []
+  },
+  "Río Lajas": {
+    "city": "Río Lajas",
+    "city_ascii": "Rio Lajas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.397,
+    "lng": -66.2643,
+    "cafes": []
+  },
+  "Galateo": {
+    "city": "Galateo",
+    "city_ascii": "Galateo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.364,
+    "lng": -66.259,
+    "cafes": []
+  },
+  "Guayabal": {
+    "city": "Guayabal",
+    "city_ascii": "Guayabal",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.076,
+    "lng": -66.5016,
+    "cafes": []
+  },
+  "Vázquez": {
+    "city": "Vázquez",
+    "city_ascii": "Vazquez",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0684,
+    "lng": -66.2331,
+    "cafes": []
+  },
+  "Mariano Colón": {
+    "city": "Mariano Colón",
+    "city_ascii": "Mariano Colon",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0287,
+    "lng": -66.3356,
+    "cafes": []
+  },
+  "El Ojo": {
+    "city": "El Ojo",
+    "city_ascii": "El Ojo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0038,
+    "lng": -66.3919,
+    "cafes": []
+  },
+  "Morovis": {
+    "city": "Morovis",
+    "city_ascii": "Morovis",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3268,
+    "lng": -66.4057,
+    "cafes": []
+  },
+  "Luis M. Cintrón": {
+    "city": "Luis M. Cintrón",
+    "city_ascii": "Luis M. Cintron",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3008,
+    "lng": -65.6371,
+    "cafes": []
+  },
+  "Tallaboa Alta": {
+    "city": "Tallaboa Alta",
+    "city_ascii": "Tallaboa Alta",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0504,
+    "lng": -66.702,
+    "cafes": []
+  },
+  "Lluveras": {
+    "city": "Lluveras",
+    "city_ascii": "Lluveras",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.038,
+    "lng": -66.9037,
+    "cafes": []
+  },
+  "Fránquez": {
+    "city": "Fránquez",
+    "city_ascii": "Franquez",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3401,
+    "lng": -66.4276,
+    "cafes": []
+  },
+  "Río Blanco": {
+    "city": "Río Blanco",
+    "city_ascii": "Rio Blanco",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2123,
+    "lng": -65.793,
+    "cafes": []
+  },
+  "Jobos": {
+    "city": "Jobos",
+    "city_ascii": "Jobos",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9608,
+    "lng": -66.1655,
+    "cafes": []
+  },
+  "El Mangó": {
+    "city": "El Mangó",
+    "city_ascii": "El Mango",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2345,
+    "lng": -65.8751,
+    "cafes": []
+  },
+  "Aceitunas": {
+    "city": "Aceitunas",
+    "city_ascii": "Aceitunas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4455,
+    "lng": -67.0669,
+    "cafes": []
+  },
+  "Palmarejo": {
+    "city": "Palmarejo",
+    "city_ascii": "Palmarejo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3149,
+    "lng": -66.2925,
+    "cafes": []
+  },
+  "Hato Candal": {
+    "city": "Hato Candal",
+    "city_ascii": "Hato Candal",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3732,
+    "lng": -65.7906,
+    "cafes": []
+  },
+  "Buena Vista": {
+    "city": "Buena Vista",
+    "city_ascii": "Buena Vista",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9964,
+    "lng": -66.0515,
+    "cafes": []
+  },
+  "Palmer": {
+    "city": "Palmer",
+    "city_ascii": "Palmer",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3704,
+    "lng": -65.7733,
+    "cafes": []
+  },
+  "Pole Ojea": {
+    "city": "Pole Ojea",
+    "city_ascii": "Pole Ojea",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9743,
+    "lng": -67.1832,
+    "cafes": []
+  },
+  "Las Marías": {
+    "city": "Las Marías",
+    "city_ascii": "Las Marias",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2928,
+    "lng": -67.145,
+    "cafes": []
+  },
+  "La Playa": {
+    "city": "La Playa",
+    "city_ascii": "La Playa",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2865,
+    "lng": -67.1868,
+    "cafes": []
+  },
+  "Coto Norte": {
+    "city": "Coto Norte",
+    "city_ascii": "Coto Norte",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4328,
+    "lng": -66.4409,
+    "cafes": []
+  },
+  "Antón Ruíz": {
+    "city": "Antón Ruíz",
+    "city_ascii": "Anton Ruiz",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1883,
+    "lng": -65.8079,
+    "cafes": []
+  },
+  "La Alianza": {
+    "city": "La Alianza",
+    "city_ascii": "La Alianza",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.395,
+    "lng": -66.5975,
+    "cafes": []
+  },
+  "Maunabo": {
+    "city": "Maunabo",
+    "city_ascii": "Maunabo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0056,
+    "lng": -65.9009,
+    "cafes": []
+  },
+  "Playa Fortuna": {
+    "city": "Playa Fortuna",
+    "city_ascii": "Playa Fortuna",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3759,
+    "lng": -65.746,
+    "cafes": []
+  },
+  "Lomas Verdes Comunidad": {
+    "city": "Lomas Verdes Comunidad",
+    "city_ascii": "Lomas Verdes Comunidad",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3823,
+    "lng": -67.1201,
+    "cafes": []
+  },
+  "Playita Cortada": {
+    "city": "Playita Cortada",
+    "city_ascii": "Playita Cortada",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.982,
+    "lng": -66.4402,
+    "cafes": []
+  },
+  "Suárez": {
+    "city": "Suárez",
+    "city_ascii": "Suarez",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4311,
+    "lng": -65.8515,
+    "cafes": []
+  },
+  "El Paraiso": {
+    "city": "El Paraiso",
+    "city_ascii": "El Paraiso",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0648,
+    "lng": -66.6021,
+    "cafes": []
+  },
+  "Animas": {
+    "city": "Animas",
+    "city_ascii": "Animas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4457,
+    "lng": -66.6364,
+    "cafes": []
+  },
+  "Del Carmen": {
+    "city": "Del Carmen",
+    "city_ascii": "Del Carmen",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4678,
+    "lng": -66.849,
+    "cafes": []
+  },
+  "Rincón": {
+    "city": "Rincón",
+    "city_ascii": "Rincon",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.15,
+    "lng": -66.1569,
+    "cafes": []
+  },
+  "Rafael Capó": {
+    "city": "Rafael Capó",
+    "city_ascii": "Rafael Capo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4005,
+    "lng": -66.7898,
+    "cafes": []
+  },
+  "Indios": {
+    "city": "Indios",
+    "city_ascii": "Indios",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9942,
+    "lng": -66.821,
+    "cafes": []
+  },
+  "Olimpo": {
+    "city": "Olimpo",
+    "city_ascii": "Olimpo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0027,
+    "lng": -66.1097,
+    "cafes": []
+  },
+  "Palma Sola": {
+    "city": "Palma Sola",
+    "city_ascii": "Palma Sola",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.324,
+    "lng": -65.8715,
+    "cafes": []
+  },
+  "El Tumbao": {
+    "city": "El Tumbao",
+    "city_ascii": "El Tumbao",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0015,
+    "lng": -66.8995,
+    "cafes": []
+  },
+  "Jauca": {
+    "city": "Jauca",
+    "city_ascii": "Jauca",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9638,
+    "lng": -66.3673,
+    "cafes": []
+  },
+  "Mora": {
+    "city": "Mora",
+    "city_ascii": "Mora",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4626,
+    "lng": -67.0323,
+    "cafes": []
+  },
+  "Cayuco": {
+    "city": "Cayuco",
+    "city_ascii": "Cayuco",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2922,
+    "lng": -66.7348,
+    "cafes": []
+  },
+  "Bartolo": {
+    "city": "Bartolo",
+    "city_ascii": "Bartolo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.362,
+    "lng": -65.8414,
+    "cafes": []
+  },
+  "Espino": {
+    "city": "Espino",
+    "city_ascii": "Espino",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2774,
+    "lng": -67.1219,
+    "cafes": []
+  },
+  "Frontón": {
+    "city": "Frontón",
+    "city_ascii": "Fronton",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3097,
+    "lng": -66.5603,
+    "cafes": []
+  },
+  "Miranda": {
+    "city": "Miranda",
+    "city_ascii": "Miranda",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3869,
+    "lng": -66.3789,
+    "cafes": []
+  },
+  "G. L. García": {
+    "city": "G. L. García",
+    "city_ascii": "G. L. Garcia",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1258,
+    "lng": -66.1026,
+    "cafes": []
+  },
+  "María Antonia": {
+    "city": "María Antonia",
+    "city_ascii": "Maria Antonia",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9783,
+    "lng": -66.8899,
+    "cafes": []
+  },
+  "Sabana Eneas": {
+    "city": "Sabana Eneas",
+    "city_ascii": "Sabana Eneas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.081,
+    "lng": -67.0852,
+    "cafes": []
+  },
+  "Rafael Hernández": {
+    "city": "Rafael Hernández",
+    "city_ascii": "Rafael Hernandez",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4718,
+    "lng": -67.0787,
+    "cafes": []
+  },
+  "El Negro": {
+    "city": "El Negro",
+    "city_ascii": "El Negro",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.037,
+    "lng": -65.8494,
+    "cafes": []
+  },
+  "Playita": {
+    "city": "Playita",
+    "city_ascii": "Playita",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0404,
+    "lng": -65.9071,
+    "cafes": []
+  },
+  "Sabana": {
+    "city": "Sabana",
+    "city_ascii": "Sabana",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4643,
+    "lng": -66.3517,
+    "cafes": []
+  },
+  "Los Héroes Comunidad": {
+    "city": "Los Héroes Comunidad",
+    "city_ascii": "Los Heroes Comunidad",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3916,
+    "lng": -67.1186,
+    "cafes": []
+  },
+  "Orocovis": {
+    "city": "Orocovis",
+    "city_ascii": "Orocovis",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2258,
+    "lng": -66.3902,
+    "cafes": []
+  },
+  "Peña Pobre": {
+    "city": "Peña Pobre",
+    "city_ascii": "Pena Pobre",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2174,
+    "lng": -65.8221,
+    "cafes": []
+  },
+  "Ramos": {
+    "city": "Ramos",
+    "city_ascii": "Ramos",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3389,
+    "lng": -65.7111,
+    "cafes": []
+  },
+  "Cacao": {
+    "city": "Cacao",
+    "city_ascii": "Cacao",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4525,
+    "lng": -66.9559,
+    "cafes": []
+  },
+  "Tallaboa": {
+    "city": "Tallaboa",
+    "city_ascii": "Tallaboa",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9935,
+    "lng": -66.7067,
+    "cafes": []
+  },
+  "Corcovado": {
+    "city": "Corcovado",
+    "city_ascii": "Corcovado",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.461,
+    "lng": -66.7778,
+    "cafes": []
+  },
+  "Culebra": {
+    "city": "Culebra",
+    "city_ascii": "Culebra",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3105,
+    "lng": -65.3029,
+    "cafes": []
+  },
+  "Palomas": {
+    "city": "Palomas",
+    "city_ascii": "Palomas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0135,
+    "lng": -66.8688,
+    "cafes": []
+  },
+  "Tiburones": {
+    "city": "Tiburones",
+    "city_ascii": "Tiburones",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4382,
+    "lng": -66.5808,
+    "cafes": []
+  },
+  "Rosa Sánchez": {
+    "city": "Rosa Sánchez",
+    "city_ascii": "Rosa Sanchez",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0617,
+    "lng": -65.9136,
+    "cafes": []
+  },
+  "Quebrada del Agua": {
+    "city": "Quebrada del Agua",
+    "city_ascii": "Quebrada del Agua",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0378,
+    "lng": -66.6847,
+    "cafes": []
+  },
+  "La Parguera": {
+    "city": "La Parguera",
+    "city_ascii": "La Parguera",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9748,
+    "lng": -67.0458,
+    "cafes": []
+  },
+  "Pueblito del Río": {
+    "city": "Pueblito del Río",
+    "city_ascii": "Pueblito del Rio",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.228,
+    "lng": -65.8615,
+    "cafes": []
+  },
+  "Voladoras Comunidad": {
+    "city": "Voladoras Comunidad",
+    "city_ascii": "Voladoras Comunidad",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3785,
+    "lng": -67.0859,
+    "cafes": []
+  },
+  "Magas Arriba": {
+    "city": "Magas Arriba",
+    "city_ascii": "Magas Arriba",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0233,
+    "lng": -66.7664,
+    "cafes": []
+  },
+  "Parcelas Viejas Borinquen": {
+    "city": "Parcelas Viejas Borinquen",
+    "city_ascii": "Parcelas Viejas Borinquen",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1739,
+    "lng": -66.0406,
+    "cafes": []
+  },
+  "Las Ochenta": {
+    "city": "Las Ochenta",
+    "city_ascii": "Las Ochenta",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9847,
+    "lng": -66.3174,
+    "cafes": []
+  },
+  "Palo Seco": {
+    "city": "Palo Seco",
+    "city_ascii": "Palo Seco",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0093,
+    "lng": -65.937,
+    "cafes": []
+  },
+  "Marueño": {
+    "city": "Marueño",
+    "city_ascii": "Marueno",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0585,
+    "lng": -66.6569,
+    "cafes": []
+  },
+  "Villa Calma": {
+    "city": "Villa Calma",
+    "city_ascii": "Villa Calma",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4428,
+    "lng": -66.2321,
+    "cafes": []
+  },
+  "Jagual": {
+    "city": "Jagual",
+    "city_ascii": "Jagual",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.161,
+    "lng": -65.9993,
+    "cafes": []
+  },
+  "Parcelas La Milagrosa": {
+    "city": "Parcelas La Milagrosa",
+    "city_ascii": "Parcelas La Milagrosa",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1716,
+    "lng": -66.1868,
+    "cafes": []
+  },
+  "Daguao": {
+    "city": "Daguao",
+    "city_ascii": "Daguao",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2217,
+    "lng": -65.6798,
+    "cafes": []
+  },
+  "Toa Baja": {
+    "city": "Toa Baja",
+    "city_ascii": "Toa Baja",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4439,
+    "lng": -66.2547,
+    "cafes": []
+  },
+  "Parcelas Peñuelas": {
+    "city": "Parcelas Peñuelas",
+    "city_ascii": "Parcelas Penuelas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0059,
+    "lng": -66.3475,
+    "cafes": []
+  },
+  "Juncal": {
+    "city": "Juncal",
+    "city_ascii": "Juncal",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3125,
+    "lng": -66.9219,
+    "cafes": []
+  },
+  "Bajandas": {
+    "city": "Bajandas",
+    "city_ascii": "Bajandas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1601,
+    "lng": -65.7831,
+    "cafes": []
+  },
+  "Hato Viejo": {
+    "city": "Hato Viejo",
+    "city_ascii": "Hato Viejo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3605,
+    "lng": -66.4813,
+    "cafes": []
+  },
+  "Duque": {
+    "city": "Duque",
+    "city_ascii": "Duque",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2381,
+    "lng": -65.7433,
+    "cafes": []
+  },
+  "Las Ollas": {
+    "city": "Las Ollas",
+    "city_ascii": "Las Ollas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0142,
+    "lng": -66.4207,
+    "cafes": []
+  },
+  "Pastos": {
+    "city": "Pastos",
+    "city_ascii": "Pastos",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1194,
+    "lng": -66.2601,
+    "cafes": []
+  },
+  "Honduras": {
+    "city": "Honduras",
+    "city_ascii": "Honduras",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1412,
+    "lng": -66.2004,
+    "cafes": []
+  },
+  "Santa María": {
+    "city": "Santa María",
+    "city_ascii": "Santa Maria",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.271,
+    "lng": -65.6623,
+    "cafes": []
+  },
+  "Río Cañas Abajo": {
+    "city": "Río Cañas Abajo",
+    "city_ascii": "Rio Canas Abajo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0396,
+    "lng": -66.4683,
+    "cafes": []
+  },
+  "Maricao": {
+    "city": "Maricao",
+    "city_ascii": "Maricao",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1838,
+    "lng": -66.981,
+    "cafes": []
+  },
+  "Fuig": {
+    "city": "Fuig",
+    "city_ascii": "Fuig",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9857,
+    "lng": -66.917,
+    "cafes": []
+  },
+  "Garrochales": {
+    "city": "Garrochales",
+    "city_ascii": "Garrochales",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4572,
+    "lng": -66.5675,
+    "cafes": []
+  },
+  "Lamboglia": {
+    "city": "Lamboglia",
+    "city_ascii": "Lamboglia",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9847,
+    "lng": -65.9859,
+    "cafes": []
+  },
+  "Villa Hugo II": {
+    "city": "Villa Hugo II",
+    "city_ascii": "Villa Hugo II",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4,
+    "lng": -65.8928,
+    "cafes": []
+  },
+  "Central Aguirre": {
+    "city": "Central Aguirre",
+    "city_ascii": "Central Aguirre",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9559,
+    "lng": -66.2265,
+    "cafes": []
+  },
+  "Mucarabones": {
+    "city": "Mucarabones",
+    "city_ascii": "Mucarabones",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3906,
+    "lng": -66.2178,
+    "cafes": []
+  },
+  "Villa Hugo I": {
+    "city": "Villa Hugo I",
+    "city_ascii": "Villa Hugo I",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3976,
+    "lng": -65.8908,
+    "cafes": []
+  },
+  "Hato Arriba": {
+    "city": "Hato Arriba",
+    "city_ascii": "Hato Arriba",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.352,
+    "lng": -67.0336,
+    "cafes": []
+  },
+  "Tomás de Castro": {
+    "city": "Tomás de Castro",
+    "city_ascii": "Tomas de Castro",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.184,
+    "lng": -66.0186,
+    "cafes": []
+  },
+  "Búfalo": {
+    "city": "Búfalo",
+    "city_ascii": "Bufalo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4166,
+    "lng": -66.5749,
+    "cafes": []
+  },
+  "Candelero Arriba": {
+    "city": "Candelero Arriba",
+    "city_ascii": "Candelero Arriba",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1016,
+    "lng": -65.8342,
+    "cafes": []
+  },
+  "Valle Hill": {
+    "city": "Valle Hill",
+    "city_ascii": "Valle Hill",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3953,
+    "lng": -65.894,
+    "cafes": []
+  },
+  "Quebrada": {
+    "city": "Quebrada",
+    "city_ascii": "Quebrada",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3602,
+    "lng": -66.8353,
+    "cafes": []
+  },
+  "Lomas": {
+    "city": "Lomas",
+    "city_ascii": "Lomas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2688,
+    "lng": -65.9096,
+    "cafes": []
+  },
+  "Esperanza": {
+    "city": "Esperanza",
+    "city_ascii": "Esperanza",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1021,
+    "lng": -65.4798,
+    "cafes": []
+  },
+  "Benítez": {
+    "city": "Benítez",
+    "city_ascii": "Benitez",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2726,
+    "lng": -65.8788,
+    "cafes": []
+  },
+  "Parcelas Nuevas": {
+    "city": "Parcelas Nuevas",
+    "city_ascii": "Parcelas Nuevas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.14,
+    "lng": -66.1702,
+    "cafes": []
+  },
+  "Maguayo": {
+    "city": "Maguayo",
+    "city_ascii": "Maguayo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.01,
+    "lng": -67.0855,
+    "cafes": []
+  },
+  "Las Croabas": {
+    "city": "Las Croabas",
+    "city_ascii": "Las Croabas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3695,
+    "lng": -65.6293,
+    "cafes": []
+  },
+  "Stella": {
+    "city": "Stella",
+    "city_ascii": "Stella",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.324,
+    "lng": -67.2464,
+    "cafes": []
+  },
+  "Cambalache": {
+    "city": "Cambalache",
+    "city_ascii": "Cambalache",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3577,
+    "lng": -65.8841,
+    "cafes": []
+  },
+  "Yaurel": {
+    "city": "Yaurel",
+    "city_ascii": "Yaurel",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.03,
+    "lng": -66.056,
+    "cafes": []
+  },
+  "Quebrada Prieta": {
+    "city": "Quebrada Prieta",
+    "city_ascii": "Quebrada Prieta",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2943,
+    "lng": -65.9037,
+    "cafes": []
+  },
+  "Betances": {
+    "city": "Betances",
+    "city_ascii": "Betances",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0296,
+    "lng": -67.1335,
+    "cafes": []
+  },
+  "Moca": {
+    "city": "Moca",
+    "city_ascii": "Moca",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3943,
+    "lng": -67.1138,
+    "cafes": []
+  },
+  "Cerrillos Hoyos": {
+    "city": "Cerrillos Hoyos",
+    "city_ascii": "Cerrillos Hoyos",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0656,
+    "lng": -66.5687,
+    "cafes": []
+  },
+  "Bairoa La Veinticinco": {
+    "city": "Bairoa La Veinticinco",
+    "city_ascii": "Bairoa La Veinticinco",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2636,
+    "lng": -66.0213,
+    "cafes": []
+  },
+  "Campanillas": {
+    "city": "Campanillas",
+    "city_ascii": "Campanillas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4387,
+    "lng": -66.2159,
+    "cafes": []
+  },
+  "Pabellones": {
+    "city": "Pabellones",
+    "city_ascii": "Pabellones",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4412,
+    "lng": -66.2156,
+    "cafes": []
+  },
+  "Rodríguez Hevia": {
+    "city": "Rodríguez Hevia",
+    "city_ascii": "Rodriguez Hevia",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.202,
+    "lng": -66.1824,
+    "cafes": []
+  },
+  "Canovanillas": {
+    "city": "Canovanillas",
+    "city_ascii": "Canovanillas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3345,
+    "lng": -65.9039,
+    "cafes": []
+  },
+  "Las Gaviotas": {
+    "city": "Las Gaviotas",
+    "city_ascii": "Las Gaviotas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4368,
+    "lng": -66.1907,
+    "cafes": []
+  },
+  "La Plena": {
+    "city": "La Plena",
+    "city_ascii": "La Plena",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0411,
+    "lng": -66.2064,
+    "cafes": []
+  },
+  "Pajonal": {
+    "city": "Pajonal",
+    "city_ascii": "Pajonal",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3847,
+    "lng": -66.556,
+    "cafes": []
+  },
+  "La Liga": {
+    "city": "La Liga",
+    "city_ascii": "La Liga",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2894,
+    "lng": -66.0508,
+    "cafes": []
+  },
+  "La Pica": {
+    "city": "La Pica",
+    "city_ascii": "La Pica",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4652,
+    "lng": -66.8619,
+    "cafes": []
+  },
+  "El Veintiséis": {
+    "city": "El Veintiséis",
+    "city_ascii": "El Veintiseis",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4394,
+    "lng": -66.2035,
+    "cafes": []
+  },
+  "Vayas": {
+    "city": "Vayas",
+    "city_ascii": "Vayas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0541,
+    "lng": -66.5858,
+    "cafes": []
+  },
+  "El Combate": {
+    "city": "El Combate",
+    "city_ascii": "El Combate",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 17.9822,
+    "lng": -67.2089,
+    "cafes": []
+  },
+  "Piñas": {
+    "city": "Piñas",
+    "city_ascii": "Pinas",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1902,
+    "lng": -66.2332,
+    "cafes": []
+  },
+  "Lassalle Comunidad": {
+    "city": "Lassalle Comunidad",
+    "city_ascii": "Lassalle Comunidad",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3854,
+    "lng": -67.0617,
+    "cafes": []
+  },
+  "Mansión del Sol": {
+    "city": "Mansión del Sol",
+    "city_ascii": "Mansion del Sol",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4371,
+    "lng": -66.1937,
+    "cafes": []
+  },
+  "Pueblito del Carmen": {
+    "city": "Pueblito del Carmen",
+    "city_ascii": "Pueblito del Carmen",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0316,
+    "lng": -66.1656,
+    "cafes": []
+  },
+  "Villa de Sabana": {
+    "city": "Villa de Sabana",
+    "city_ascii": "Villa de Sabana",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4346,
+    "lng": -66.1901,
+    "cafes": []
+  },
+  "Villa Esperanza": {
+    "city": "Villa Esperanza",
+    "city_ascii": "Villa Esperanza",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4262,
+    "lng": -66.2311,
+    "cafes": []
+  },
+  "Santa Clara": {
+    "city": "Santa Clara",
+    "city_ascii": "Santa Clara",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.211,
+    "lng": -66.132,
+    "cafes": []
+  },
+  "Candelero Abajo": {
+    "city": "Candelero Abajo",
+    "city_ascii": "Candelero Abajo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0942,
+    "lng": -65.8165,
+    "cafes": []
+  },
+  "Anon Raices": {
+    "city": "Anon Raices",
+    "city_ascii": "Anon Raices",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1389,
+    "lng": -66.5856,
+    "cafes": []
+  },
+  "Parcelas Mandry": {
+    "city": "Parcelas Mandry",
+    "city_ascii": "Parcelas Mandry",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0811,
+    "lng": -66.5627,
+    "cafes": []
+  },
+  "Villa Quintero": {
+    "city": "Villa Quintero",
+    "city_ascii": "Villa Quintero",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4255,
+    "lng": -66.235,
+    "cafes": []
+  },
+  "Toaville": {
+    "city": "Toaville",
+    "city_ascii": "Toaville",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4438,
+    "lng": -66.2431,
+    "cafes": []
+  },
+  "La Yuca": {
+    "city": "La Yuca",
+    "city_ascii": "La Yuca",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0727,
+    "lng": -66.6077,
+    "cafes": []
+  },
+  "Los Panes": {
+    "city": "Los Panes",
+    "city_ascii": "Los Panes",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.1848,
+    "lng": -66.076,
+    "cafes": []
+  },
+  "Isleta Comunidad": {
+    "city": "Isleta Comunidad",
+    "city_ascii": "Isleta Comunidad",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.3767,
+    "lng": -67.1123,
+    "cafes": []
+  },
+  "Villas del Sol": {
+    "city": "Villas del Sol",
+    "city_ascii": "Villas del Sol",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4487,
+    "lng": -66.2298,
+    "cafes": []
+  },
+  "Tibes": {
+    "city": "Tibes",
+    "city_ascii": "Tibes",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0886,
+    "lng": -66.6333,
+    "cafes": []
+  },
+  "Villa Sin Miedo": {
+    "city": "Villa Sin Miedo",
+    "city_ascii": "Villa Sin Miedo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.2565,
+    "lng": -65.8728,
+    "cafes": []
+  },
+  "Calzada": {
+    "city": "Calzada",
+    "city_ascii": "Calzada",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0054,
+    "lng": -66.564,
+    "cafes": []
+  },
+  "Monte Verde": {
+    "city": "Monte Verde",
+    "city_ascii": "Monte Verde",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0972,
+    "lng": -66.6196,
+    "cafes": []
+  },
+  "Ferrer Comunidad": {
+    "city": "Ferrer Comunidad",
+    "city_ascii": "Ferrer Comunidad",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.4054,
+    "lng": -67.0671,
+    "cafes": []
+  },
+  "Corral Viejo": {
+    "city": "Corral Viejo",
+    "city_ascii": "Corral Viejo",
+    "state_id": "PR",
+    "state_name": "Puerto Rico",
+    "lat": 18.0755,
+    "lng": -66.6523,
+    "cafes": []
+  }
+}

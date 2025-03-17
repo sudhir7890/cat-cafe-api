@@ -1,0 +1,6927 @@
+{
+  "Kansas City": {
+    "city": "Kansas City",
+    "city_ascii": "Kansas City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1235,
+    "lng": -94.7443,
+    "cafes": [
+      {
+        "name": "Whiskers Cat Cafe & Coffeehouse",
+        "address": "3705-3707 SW Trafficway, Kansas City, MO 64111, USA",
+        "rating": 4.8,
+        "user_ratings_total": 376,
+        "website": "http://www.whiskerskc.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=1080575196050305194",
+        "lat": 39.0593023,
+        "lng": -94.5949426,
+        "accessibility_options": {
+          "wheelchairAccessibleRestroom": true
+        },
+        "reviews": [
+          {
+            "author": "Olivia Ordonez",
+            "rating": 5,
+            "text": {
+              "text": "I  was visiting KC for work and wanted to do something fun in the evening. For $40 I got a painting lesson and 2 hours with the kitties! They were so obviously well cared for and loved the company! I had multiple kitties jump in my lap while painting and plenty other kitties there were begging for some playtime with the toys in the room. I had a blast, and would recommend to anyone!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Lanie Hyatt",
+            "rating": 5,
+            "text": {
+              "text": "I love this cafe so much. I adopted my best friend, Ringo from here a couple years ago, and I couldn't be happier with that decision knowing that they believed that I was the best fit for this sweet cat. They put so much effort and time into making sure these furbabies are taken care of through their adoption process. The atmosphere is so cozy and inviting between the cafe and the cat visiting space. The kitties clearly have plenty of enrichment and precautions are taken to make sure sicknesses doesn't spread. Also, the drinks are so good! I can't praise this place enough. You can rest at ease knowing that your money is going towards a good cause!",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "T",
+            "rating": 5,
+            "text": {
+              "text": "This was such a lovely experience. We will definitely be back. So many well taken care of babies. The atmosphere was so calming and the vibes were just amazing. Had a ball and hope to take home a baby soon. 10/10+ will be back.",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1H4tIh0SSedC1I2renp0u93ygmL4DekeQyh_12pQaj-JW5XwCEWuWifh5pTuK9Nb_NSi6t3srNZCNnhMhINyv-5Ggh0zLkr4NVCnL4wWEcUB8tvYTLY3BNv4u3q7MawIo3ANk85XUomWce8xiTD43ITwJvKKINGshO6kRJnk2dmjArLHMpdlefenJJVdBXmq3bukFSDhc1jwuSaw-zOdhvViC9HwGTpqJ-w0YfSLQR9UBeyaFSUy7KLqVKOLGCYu7MkqddSikKiR5tNlYnNM_f8HAKHlpnWPD2iNUNCNMwkg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "The Glass Cat Cafe",
+        "address": "11657 Kaw Dr, Kansas City, KS 66111, USA",
+        "rating": 4.6,
+        "user_ratings_total": 155,
+        "website": "https://www.facebook.com/people/The-Glass-Cat/100091510443465/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=15257473210931574084",
+        "lat": 39.064692099999995,
+        "lng": -94.85012619999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Carrie Milkanin",
+            "rating": 5,
+            "text": {
+              "text": "While traveling my son and I happened upon this place.  It was so amazing we came back a second day for breakfast.  The eggs, bacon, toast and hashbrowns were ALL amazing.  My son thought his country fried steak was ok.  I loved the french toast (we shared some).  We took pancakes home to my Mom, one pancake she ate over two days it was so big!  We had enough leftovers for one other meal as well.\n\nThe next day we came back to try their Huevos Rancheros—amazing!!!!  My son loved their biscuits and gravy!  This is not the least expensive breakfast around,  but you can definitely make it into two meals.",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "S Maleta",
+            "rating": 5,
+            "text": {
+              "text": "Have seen people talking and raving about The Glass Cat on social media,so finally decided to try it out.  MMM wow glad we did! Saturday afternoon walked right in and was served fast! Wife had the Breakfast Scramble and said it was awesome and filling with portion she got.  I had the Country Fried Steak and eggs which was great! The steak was an actual hand breaded chopped steak not some frozen one a lot of places serve.  Friendly waitress and fast service! We will be back!",
+              "languageCode": "en"
+            },
+            "time": "11 months ago"
+          },
+          {
+            "author": "Amy Ford",
+            "rating": 5,
+            "text": {
+              "text": "This place was amazing!! People aren't kidding when they say their gravy is homemade. I enjoyed an Irish coffee with my brunch of chicken fried steak. Super awesome place hidden away.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0dox2RtDODu93JKTv1bIpadzMjxRgx3zacgxZ0ztQQ-Ldn03pKRGNKW8YauseecdwLgmz9jLs6tzT6t8xp3zLaHvkqcLug48YJxbKoTM9O8juqNxgs2dCeEERiPj_L4NhNeMlBfyh1cV77eutTakClx0d1DwMQWggp6MQcGhXQjBKmkKo3zvuMULYgWMRGnexynu2gAu0xBTWNlDEIp8f26WxWNjzdFnW8BugiFVKbXebqCsDltwHjFH_h8doE5YuC7VGy11u2WS4fuRORm3GXWYntfSEG6-1DHVUqkCqzM7eFkOwyYzwzVd4nwiXY1QlLphLHCzhdpZIT9q9TtekQc7Bx_BE2iZ6fK9TP1NT8dzCzQKQHkyBIr_mDxg2QRr7ODSfOxo86zWHFYDneHpYtQMG-vfNeCw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Wichita": {
+    "city": "Wichita",
+    "city_ascii": "Wichita",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6895,
+    "lng": -97.3443,
+    "cafes": [
+      {
+        "name": "Snick's Cat Cafe",
+        "address": "8336 E 21st St N Suite 600, Wichita, KS 67206, USA",
+        "rating": 4.9,
+        "user_ratings_total": 35,
+        "website": "https://snickscatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=5474902109444304942",
+        "lat": 37.724533099999995,
+        "lng": -97.2406554,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Thu Nguyen",
+            "rating": 5,
+            "text": {
+              "text": "I’m in love with this place! The cats are soooo adorable and friendly ",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Jacob Reusser",
+            "rating": 5,
+            "text": {
+              "text": "My girlfriend and I have been here a few times and absolutely love this place! The cats are friendly and so cute, the place is clean and organized and well decorated, the coffee and other drinks are tasty, and the little shop has so many pretty trinkets!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Katelin Gray",
+            "rating": 5,
+            "text": {
+              "text": "Such a fun time!! loved seeing the kitties and the coffee is really good. There was also a bunch of cute cat merchandise as well",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3YxvFQhOMuAEa7vKPOY9-KcaA3Hc8aKWB81G7q9Z4AD5FeM5ts2-ISnyfagDiB7CYuHahVaBf49_LVxoLSTbeeX4DQ6YejerO3B_sGlFIyOgd9aLAE53APnlNq_SjVANiq2wzE7TIeD7AB46h1tS2bUvKCV_7BG8KfV7tMKz3PAYajwDm5QHLQl8o6AgrwCgRh7WOIqooxsRrWjfMTtB6FeecYjPNRJxCmCXLMvT9oqMcmQoLr06u3kGoDAurcE6s9r_hf7TQwciRhsmtUL0h14uhGp89ScX-B3BxLCyFTnw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Olathe": {
+    "city": "Olathe",
+    "city_ascii": "Olathe",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8833,
+    "lng": -94.82,
+    "cafes": [
+      {
+        "name": "Second Cup Cat Cafe",
+        "address": "417 N Rawhide Suite F, Olathe, KS 66061, USA",
+        "rating": 4.6,
+        "user_ratings_total": 178,
+        "website": "http://secondcupcatcafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=15568868852027900899",
+        "lat": 38.8861134,
+        "lng": -94.79202819999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Eunice Mollett",
+            "rating": 5,
+            "text": {
+              "text": "I absolutely adore this place and Melissa who runs it. I run a small rural rescue and as such sometimes struggle to find adoptions quick enough. They take good care of the animals and are always quick to tell me if I need to bring one of mine back to the shelter for whatever reason. Our kitties love the room to run and play. We have been a shelter partner for a year now and adopted our over 60. We couldn't do it without them!",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          },
+          {
+            "author": "Tara Tuchyner",
+            "rating": 5,
+            "text": {
+              "text": "booked a reservation for my mom and i here at the second cup cat cafe today and we both loved our visit! we weren’t expecting to have the entire room full of cats for ourselves for an hour, so the calm and quiet atmosphere with cats everywhere was very therapeutic for the both of us. all of the cats were some of the friendliest and most playful that i have met, in addition to being very well taken care of and loved with plenty of space, toys, and mental stimulation at their disposal. will definitely be coming back here and would recommend stopping by if you are in the area 😊",
+              "languageCode": "en"
+            },
+            "time": "9 months ago"
+          },
+          {
+            "author": "S. Gayle Huerter",
+            "rating": 5,
+            "text": {
+              "text": "What a fun, unique experience . We were there on a bingo night and played for prizes. All the money raised went to support the adoptable cats. All the snacks and drinks were free. The cats are all free to roam about the room and interact with everyone there, hoping to find a forever home.",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1hDaalzkOkjIVoq-JafCO28kfc-vANoWkG-eWiMnXXBF1CRt8UcoGajbxFXObYc6dhGGpk_FYFN7oK33zmkKRs6r-ejkXOybkuSpidYD-87_o8k0g_jI9bm6wV26PTQhi_rOhoa6rorhhq3kM0iTU6Md794d6dpdH8dSf01JQGdMxoxk77VB8LzKFj-I36kEZgxbKUcIyl2PsZJecoemsr1bYHRA2ikueE4fXDz4jT40XPm3KSlF0TSwZcFCY4UodosUbUR8Dnzk8EIuWqiQoDo_6Mlz1YALjKmstQyxvqE7cWqLyuqxx8BWTJ6WLO1xDL6QbwIhwzndfnte3RdurMcRzxwe-BCS8X3t-Ag0fCU1MwJg0BnrUw91mP2wnX67CaZq-9Re_YhFt6F0wtqvwvXV3yQbxa&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Topeka": {
+    "city": "Topeka",
+    "city_ascii": "Topeka",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0346,
+    "lng": -95.6955,
+    "cafes": [
+      {
+        "name": "Topeka Cat Cafe",
+        "address": "400 SW 29th St Suite H, Topeka, KS 66611, USA",
+        "rating": 4.8,
+        "user_ratings_total": 131,
+        "website": "https://www.topekacatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=14543373451919885367",
+        "lat": 39.0161722,
+        "lng": -95.68588539999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "David Carlton",
+            "rating": 5,
+            "text": {
+              "text": "This was a great experience. You can tell the cats/kittens are well cared for.  Love the vibe and open layout.  We will definitely be a frequent guests. The kitten room is perfect if you want a little more quiet experience.\n\nIf it wasn't for my allergies we would immediately adopted!",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          },
+          {
+            "author": "Jenny Aggson",
+            "rating": 5,
+            "text": {
+              "text": "Our group had a great experience at Topeka Cat Cafe! Cozy and clean place with friendly staff who were protecting the well being and comfort of the animals while creating a fun and welcoming atmosphere for human visitors. We will definitely be back.",
+              "languageCode": "en"
+            },
+            "time": "4 weeks ago"
+          },
+          {
+            "author": "Thomas Hicks",
+            "rating": 5,
+            "text": {
+              "text": "Really nice and fun place! I was perfectly content just sitting with cats in my lap while there were kids playing with other cats (and kittens!) with different toys having a great time as well. Remarkable peaceful environment with ten or so cats wandering around- very clean and no litter box smell. It really is a great place to have some down time. The adoption process here is great too- you actually spend time with all the cats and kittens so you can get a feel for their personalities (and they, yours) to see who fits best.Then you can fill out an application.  I love it here.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0_z2vSRS9jRMSfJl2-k-suS2FI00WMTbB6XcbQVkoxjGeX5-YZLIQEP3DpHOd85R_DnLH_GvSASjmipSqzl-sux3Rj0Bup1DwtxDL3rRAQLfI15ZOqP37Dbybm_QngBIcOcGXFh8C9oDoZH4GbEwyCIUtA0Nla_UQiqxBKFzqsZVFb4DF3ZV8qZ63G1ZxgdzpmDWGUthLMkAylB6vTrx2R2h1bcThgkPNz0k9BGgxeoO80DxF3VZ2_OcV4pWWowkFqMYj0T-nDV54WIGfgL05aH_zg9KIjH9xukjINwieEGg&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Lawrence": {
+    "city": "Lawrence",
+    "city_ascii": "Lawrence",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9597,
+    "lng": -95.2642,
+    "cafes": [
+      {
+        "name": "Espurresso Cat Cafe",
+        "address": "1014 Massachusetts St, Lawrence, KS 66044, USA",
+        "rating": 4.8,
+        "user_ratings_total": 103,
+        "website": "http://www.espurressocatcafe.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=2301636426979078431",
+        "lat": 38.9650289,
+        "lng": -95.23561989999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Anissa Chavez",
+            "rating": 5,
+            "text": {
+              "text": "We’ve been talking about adopting a cat for over a year and remembered that Espurresso was a cozy place that provided interactive sessions with cats. We decided we would only adopt if we really connected with a cat. Brittany was a very knowledgeable and helpful barista and answered all of our questions. We got to spend quality time with the cats and ended up adopting Starlight! There was a good assortment of cats, but Starlight is the perfect cat for us. We’ve renamed her Mocha and she’s adjusting well. We look forward to providing a safe and happy forever home for her 🖤",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Nicole Porter",
+            "rating": 5,
+            "text": {
+              "text": "Such a wonderful place! I was in town for my birthday, thought how lovely it would be to see some new kitties, and took a chance to go in without a reservation.\n\nThe person at the counter was very kind. They answered my questions, got me setup for the next slot, and recommended a refreshing drink while I waited. There a purrfect photo moment wall, and some lovely cat-related books to browse and relax with.\n\nThe ambience was clean and cute. The community fliers made me feel included and welcome. And of course, the kitties!! I had been following them on social media for awhile so it was great to see firsthand the love and attention that goes into socializing these kitties and getting them to their next homes. Thank you to everyone involved in this special place!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Chloe Weber",
+            "rating": 5,
+            "text": {
+              "text": "This is one of my favorite places here in Lawrence. As someone who has always loved cats, having a little cafe on Mass street dedicated to delicious treats and adorable adoptable kitties is like a dream come true. I know several people who have adopted their kitties through the cafe and have had an amazing experience. These kitties get shown in a new light when they aren’t in a cage at a shelter. Their personality really shines through!\n\nThe cats and the treats aren’t the only good thing. I’ve had great encounters with both owners who are just amazing! Brittanie, one of the owners, knows myself and the little boy I nanny by name and is just so personable. They’ll always make you feel right at home!\n\nThank you Espurresso for all that you do for us customers and the sweet kitties that come through the Cafe.",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1AgMRBPiGITjUCH5BY0cS_7gQ01iH_MeVJ0KbpZygyYEZcdd83QEk0g3s_CAK7FDz4Ww8oKScjhxL7UHDKFKi_P2KBt2Y3Su_AFE4cie8NVCo3ywWxiJIPtfAi9zipvmGEFsC0ka2QShIYnOKgRQsApSADGaDspehgZcUYVP2iuzo_yxQVzponga4Uv98dmxGWkWvLTxut2TKcyLT8mnhgpL8bfRRwxZJ9VDZi40upR1lxWxNdYbIOMhDYw4sBki30nVdfA-in8ZmFUQCAINzggQGo0k7UBtKcRRxTxkij765Uv3Z47MpnpGgD5VBID80ThciqqwpQBqWEHv5KJ-EvXW3ybJ4tQWpXOqokVh2_IpWFwUpIqQJUPh5YP2x4hsADVKVErQr5nIENuhhQgiQ_HCRTa-ROev2m&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Overland Park": {
+    "city": "Overland Park",
+    "city_ascii": "Overland Park",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.887,
+    "lng": -94.687,
+    "cafes": []
+  },
+  "Shawnee": {
+    "city": "Shawnee",
+    "city_ascii": "Shawnee",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0158,
+    "lng": -94.8076,
+    "cafes": []
+  },
+  "Lenexa": {
+    "city": "Lenexa",
+    "city_ascii": "Lenexa",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9609,
+    "lng": -94.8018,
+    "cafes": []
+  },
+  "Manhattan": {
+    "city": "Manhattan",
+    "city_ascii": "Manhattan",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1886,
+    "lng": -96.6048,
+    "cafes": []
+  },
+  "Salina": {
+    "city": "Salina",
+    "city_ascii": "Salina",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8136,
+    "lng": -97.6143,
+    "cafes": []
+  },
+  "Hutchinson": {
+    "city": "Hutchinson",
+    "city_ascii": "Hutchinson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0671,
+    "lng": -97.9081,
+    "cafes": []
+  },
+  "Leavenworth": {
+    "city": "Leavenworth",
+    "city_ascii": "Leavenworth",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3239,
+    "lng": -94.924,
+    "cafes": []
+  },
+  "Leawood": {
+    "city": "Leawood",
+    "city_ascii": "Leawood",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9075,
+    "lng": -94.6258,
+    "cafes": []
+  },
+  "Garden City": {
+    "city": "Garden City",
+    "city_ascii": "Garden City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9753,
+    "lng": -100.8527,
+    "cafes": []
+  },
+  "Dodge City": {
+    "city": "Dodge City",
+    "city_ascii": "Dodge City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7611,
+    "lng": -100.0182,
+    "cafes": []
+  },
+  "Derby": {
+    "city": "Derby",
+    "city_ascii": "Derby",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5571,
+    "lng": -97.2551,
+    "cafes": []
+  },
+  "Emporia": {
+    "city": "Emporia",
+    "city_ascii": "Emporia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4028,
+    "lng": -96.1932,
+    "cafes": []
+  },
+  "Gardner": {
+    "city": "Gardner",
+    "city_ascii": "Gardner",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8122,
+    "lng": -94.9275,
+    "cafes": []
+  },
+  "Prairie Village": {
+    "city": "Prairie Village",
+    "city_ascii": "Prairie Village",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9874,
+    "lng": -94.6362,
+    "cafes": []
+  },
+  "Junction City": {
+    "city": "Junction City",
+    "city_ascii": "Junction City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0277,
+    "lng": -96.8508,
+    "cafes": []
+  },
+  "Hays": {
+    "city": "Hays",
+    "city_ascii": "Hays",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8821,
+    "lng": -99.3221,
+    "cafes": []
+  },
+  "Pittsburg": {
+    "city": "Pittsburg",
+    "city_ascii": "Pittsburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4129,
+    "lng": -94.6985,
+    "cafes": []
+  },
+  "Liberal": {
+    "city": "Liberal",
+    "city_ascii": "Liberal",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0466,
+    "lng": -100.9295,
+    "cafes": []
+  },
+  "Newton": {
+    "city": "Newton",
+    "city_ascii": "Newton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0368,
+    "lng": -97.3449,
+    "cafes": []
+  },
+  "Andover": {
+    "city": "Andover",
+    "city_ascii": "Andover",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6873,
+    "lng": -97.1352,
+    "cafes": []
+  },
+  "Great Bend": {
+    "city": "Great Bend",
+    "city_ascii": "Great Bend",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3593,
+    "lng": -98.8015,
+    "cafes": []
+  },
+  "McPherson": {
+    "city": "McPherson",
+    "city_ascii": "McPherson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3714,
+    "lng": -97.6605,
+    "cafes": []
+  },
+  "El Dorado": {
+    "city": "El Dorado",
+    "city_ascii": "El Dorado",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.821,
+    "lng": -96.8613,
+    "cafes": []
+  },
+  "Ottawa": {
+    "city": "Ottawa",
+    "city_ascii": "Ottawa",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5996,
+    "lng": -95.2636,
+    "cafes": []
+  },
+  "Arkansas City": {
+    "city": "Arkansas City",
+    "city_ascii": "Arkansas City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0726,
+    "lng": -97.0385,
+    "cafes": []
+  },
+  "Winfield": {
+    "city": "Winfield",
+    "city_ascii": "Winfield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.274,
+    "lng": -96.95,
+    "cafes": []
+  },
+  "Lansing": {
+    "city": "Lansing",
+    "city_ascii": "Lansing",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2428,
+    "lng": -94.8972,
+    "cafes": []
+  },
+  "Haysville": {
+    "city": "Haysville",
+    "city_ascii": "Haysville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5648,
+    "lng": -97.3527,
+    "cafes": []
+  },
+  "Merriam": {
+    "city": "Merriam",
+    "city_ascii": "Merriam",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0186,
+    "lng": -94.6933,
+    "cafes": []
+  },
+  "Atchison": {
+    "city": "Atchison",
+    "city_ascii": "Atchison",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5625,
+    "lng": -95.1367,
+    "cafes": []
+  },
+  "Mission": {
+    "city": "Mission",
+    "city_ascii": "Mission",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.027,
+    "lng": -94.6568,
+    "cafes": []
+  },
+  "Parsons": {
+    "city": "Parsons",
+    "city_ascii": "Parsons",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3405,
+    "lng": -95.2958,
+    "cafes": []
+  },
+  "Augusta": {
+    "city": "Augusta",
+    "city_ascii": "Augusta",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6955,
+    "lng": -96.9919,
+    "cafes": []
+  },
+  "Valley Center": {
+    "city": "Valley Center",
+    "city_ascii": "Valley Center",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8332,
+    "lng": -97.3646,
+    "cafes": []
+  },
+  "Coffeyville": {
+    "city": "Coffeyville",
+    "city_ascii": "Coffeyville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0519,
+    "lng": -95.618,
+    "cafes": []
+  },
+  "Spring Hill": {
+    "city": "Spring Hill",
+    "city_ascii": "Spring Hill",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7565,
+    "lng": -94.8201,
+    "cafes": []
+  },
+  "Chanute": {
+    "city": "Chanute",
+    "city_ascii": "Chanute",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6695,
+    "lng": -95.4621,
+    "cafes": []
+  },
+  "Fort Riley": {
+    "city": "Fort Riley",
+    "city_ascii": "Fort Riley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1064,
+    "lng": -96.8117,
+    "cafes": []
+  },
+  "Independence": {
+    "city": "Independence",
+    "city_ascii": "Independence",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2119,
+    "lng": -95.7327,
+    "cafes": []
+  },
+  "Bonner Springs": {
+    "city": "Bonner Springs",
+    "city_ascii": "Bonner Springs",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0817,
+    "lng": -94.8776,
+    "cafes": []
+  },
+  "Park City": {
+    "city": "Park City",
+    "city_ascii": "Park City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8101,
+    "lng": -97.3256,
+    "cafes": []
+  },
+  "Wellington": {
+    "city": "Wellington",
+    "city_ascii": "Wellington",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2625,
+    "lng": -97.426,
+    "cafes": []
+  },
+  "Fort Scott": {
+    "city": "Fort Scott",
+    "city_ascii": "Fort Scott",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8283,
+    "lng": -94.7038,
+    "cafes": []
+  },
+  "Basehor": {
+    "city": "Basehor",
+    "city_ascii": "Basehor",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1332,
+    "lng": -94.9333,
+    "cafes": []
+  },
+  "Roeland Park": {
+    "city": "Roeland Park",
+    "city_ascii": "Roeland Park",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0359,
+    "lng": -94.6374,
+    "cafes": []
+  },
+  "Pratt": {
+    "city": "Pratt",
+    "city_ascii": "Pratt",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6765,
+    "lng": -98.7451,
+    "cafes": []
+  },
+  "Abilene": {
+    "city": "Abilene",
+    "city_ascii": "Abilene",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.923,
+    "lng": -97.2252,
+    "cafes": []
+  },
+  "De Soto": {
+    "city": "De Soto",
+    "city_ascii": "De Soto",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9688,
+    "lng": -94.9549,
+    "cafes": []
+  },
+  "Eudora": {
+    "city": "Eudora",
+    "city_ascii": "Eudora",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9345,
+    "lng": -95.0956,
+    "cafes": []
+  },
+  "Maize": {
+    "city": "Maize",
+    "city_ascii": "Maize",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7749,
+    "lng": -97.462,
+    "cafes": []
+  },
+  "Mulvane": {
+    "city": "Mulvane",
+    "city_ascii": "Mulvane",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4789,
+    "lng": -97.2724,
+    "cafes": []
+  },
+  "Ulysses": {
+    "city": "Ulysses",
+    "city_ascii": "Ulysses",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5774,
+    "lng": -101.3546,
+    "cafes": []
+  },
+  "Paola": {
+    "city": "Paola",
+    "city_ascii": "Paola",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5788,
+    "lng": -94.8617,
+    "cafes": []
+  },
+  "Tonganoxie": {
+    "city": "Tonganoxie",
+    "city_ascii": "Tonganoxie",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1088,
+    "lng": -95.0811,
+    "cafes": []
+  },
+  "Colby": {
+    "city": "Colby",
+    "city_ascii": "Colby",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3848,
+    "lng": -101.0452,
+    "cafes": []
+  },
+  "Iola": {
+    "city": "Iola",
+    "city_ascii": "Iola",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9274,
+    "lng": -95.4006,
+    "cafes": []
+  },
+  "Goddard": {
+    "city": "Goddard",
+    "city_ascii": "Goddard",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6652,
+    "lng": -97.5617,
+    "cafes": []
+  },
+  "Concordia": {
+    "city": "Concordia",
+    "city_ascii": "Concordia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5669,
+    "lng": -97.6467,
+    "cafes": []
+  },
+  "Louisburg": {
+    "city": "Louisburg",
+    "city_ascii": "Louisburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6202,
+    "lng": -94.677,
+    "cafes": []
+  },
+  "Baldwin City": {
+    "city": "Baldwin City",
+    "city_ascii": "Baldwin City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7782,
+    "lng": -95.188,
+    "cafes": []
+  },
+  "Edwardsville": {
+    "city": "Edwardsville",
+    "city_ascii": "Edwardsville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0765,
+    "lng": -94.8166,
+    "cafes": []
+  },
+  "Rose Hill": {
+    "city": "Rose Hill",
+    "city_ascii": "Rose Hill",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5702,
+    "lng": -97.1361,
+    "cafes": []
+  },
+  "Russell": {
+    "city": "Russell",
+    "city_ascii": "Russell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8874,
+    "lng": -98.8514,
+    "cafes": []
+  },
+  "Osawatomie": {
+    "city": "Osawatomie",
+    "city_ascii": "Osawatomie",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5063,
+    "lng": -94.9486,
+    "cafes": []
+  },
+  "Wamego": {
+    "city": "Wamego",
+    "city_ascii": "Wamego",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2054,
+    "lng": -96.3099,
+    "cafes": []
+  },
+  "Fairway": {
+    "city": "Fairway",
+    "city_ascii": "Fairway",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0245,
+    "lng": -94.6287,
+    "cafes": []
+  },
+  "Clay Center": {
+    "city": "Clay Center",
+    "city_ascii": "Clay Center",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3812,
+    "lng": -97.1276,
+    "cafes": []
+  },
+  "Hugoton": {
+    "city": "Hugoton",
+    "city_ascii": "Hugoton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1745,
+    "lng": -101.3447,
+    "cafes": []
+  },
+  "Scott City": {
+    "city": "Scott City",
+    "city_ascii": "Scott City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4789,
+    "lng": -100.9031,
+    "cafes": []
+  },
+  "Goodland": {
+    "city": "Goodland",
+    "city_ascii": "Goodland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3489,
+    "lng": -101.7143,
+    "cafes": []
+  },
+  "Baxter Springs": {
+    "city": "Baxter Springs",
+    "city_ascii": "Baxter Springs",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0195,
+    "lng": -94.7351,
+    "cafes": []
+  },
+  "Lindsborg": {
+    "city": "Lindsborg",
+    "city_ascii": "Lindsborg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5774,
+    "lng": -97.6738,
+    "cafes": []
+  },
+  "Hesston": {
+    "city": "Hesston",
+    "city_ascii": "Hesston",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1401,
+    "lng": -97.427,
+    "cafes": []
+  },
+  "Lyons": {
+    "city": "Lyons",
+    "city_ascii": "Lyons",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3462,
+    "lng": -98.2045,
+    "cafes": []
+  },
+  "Mission Hills": {
+    "city": "Mission Hills",
+    "city_ascii": "Mission Hills",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0141,
+    "lng": -94.6172,
+    "cafes": []
+  },
+  "Marysville": {
+    "city": "Marysville",
+    "city_ascii": "Marysville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8432,
+    "lng": -96.6387,
+    "cafes": []
+  },
+  "Holton": {
+    "city": "Holton",
+    "city_ascii": "Holton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4699,
+    "lng": -95.7319,
+    "cafes": []
+  },
+  "Frontenac": {
+    "city": "Frontenac",
+    "city_ascii": "Frontenac",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4581,
+    "lng": -94.7012,
+    "cafes": []
+  },
+  "Larned": {
+    "city": "Larned",
+    "city_ascii": "Larned",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1833,
+    "lng": -99.1012,
+    "cafes": []
+  },
+  "Hiawatha": {
+    "city": "Hiawatha",
+    "city_ascii": "Hiawatha",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8519,
+    "lng": -95.538,
+    "cafes": []
+  },
+  "Garnett": {
+    "city": "Garnett",
+    "city_ascii": "Garnett",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2845,
+    "lng": -95.2408,
+    "cafes": []
+  },
+  "Beloit": {
+    "city": "Beloit",
+    "city_ascii": "Beloit",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4645,
+    "lng": -98.1082,
+    "cafes": []
+  },
+  "Ellsworth": {
+    "city": "Ellsworth",
+    "city_ascii": "Ellsworth",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7327,
+    "lng": -98.2285,
+    "cafes": []
+  },
+  "Kingman": {
+    "city": "Kingman",
+    "city_ascii": "Kingman",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.648,
+    "lng": -98.1167,
+    "cafes": []
+  },
+  "Oaklawn-Sunview": {
+    "city": "Oaklawn-Sunview",
+    "city_ascii": "Oaklawn-Sunview",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6084,
+    "lng": -97.2984,
+    "cafes": []
+  },
+  "Kechi": {
+    "city": "Kechi",
+    "city_ascii": "Kechi",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8234,
+    "lng": -97.2891,
+    "cafes": []
+  },
+  "Columbus": {
+    "city": "Columbus",
+    "city_ascii": "Columbus",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1716,
+    "lng": -94.844,
+    "cafes": []
+  },
+  "Osage City": {
+    "city": "Osage City",
+    "city_ascii": "Osage City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6337,
+    "lng": -95.8218,
+    "cafes": []
+  },
+  "South Hutchinson": {
+    "city": "South Hutchinson",
+    "city_ascii": "South Hutchinson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0278,
+    "lng": -97.9429,
+    "cafes": []
+  },
+  "St. Marys": {
+    "city": "St. Marys",
+    "city_ascii": "St. Marys",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1942,
+    "lng": -96.0643,
+    "cafes": []
+  },
+  "Galena": {
+    "city": "Galena",
+    "city_ascii": "Galena",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0751,
+    "lng": -94.6354,
+    "cafes": []
+  },
+  "Hillsboro": {
+    "city": "Hillsboro",
+    "city_ascii": "Hillsboro",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3527,
+    "lng": -97.1992,
+    "cafes": []
+  },
+  "Girard": {
+    "city": "Girard",
+    "city_ascii": "Girard",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5094,
+    "lng": -94.8456,
+    "cafes": []
+  },
+  "Norton": {
+    "city": "Norton",
+    "city_ascii": "Norton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8362,
+    "lng": -99.8916,
+    "cafes": []
+  },
+  "Hoisington": {
+    "city": "Hoisington",
+    "city_ascii": "Hoisington",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5181,
+    "lng": -98.7774,
+    "cafes": []
+  },
+  "Burlington": {
+    "city": "Burlington",
+    "city_ascii": "Burlington",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1931,
+    "lng": -95.7452,
+    "cafes": []
+  },
+  "Holcomb": {
+    "city": "Holcomb",
+    "city_ascii": "Holcomb",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9859,
+    "lng": -100.9936,
+    "cafes": []
+  },
+  "Clearwater": {
+    "city": "Clearwater",
+    "city_ascii": "Clearwater",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5096,
+    "lng": -97.4975,
+    "cafes": []
+  },
+  "Council Grove": {
+    "city": "Council Grove",
+    "city_ascii": "Council Grove",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6617,
+    "lng": -96.4909,
+    "cafes": []
+  },
+  "Halstead": {
+    "city": "Halstead",
+    "city_ascii": "Halstead",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9999,
+    "lng": -97.5102,
+    "cafes": []
+  },
+  "Sterling": {
+    "city": "Sterling",
+    "city_ascii": "Sterling",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2094,
+    "lng": -98.2064,
+    "cafes": []
+  },
+  "Cheney": {
+    "city": "Cheney",
+    "city_ascii": "Cheney",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6353,
+    "lng": -97.7797,
+    "cafes": []
+  },
+  "Sabetha": {
+    "city": "Sabetha",
+    "city_ascii": "Sabetha",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.913,
+    "lng": -95.7913,
+    "cafes": []
+  },
+  "Neodesha": {
+    "city": "Neodesha",
+    "city_ascii": "Neodesha",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4241,
+    "lng": -95.6848,
+    "cafes": []
+  },
+  "Eureka": {
+    "city": "Eureka",
+    "city_ascii": "Eureka",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8261,
+    "lng": -96.289,
+    "cafes": []
+  },
+  "Anthony": {
+    "city": "Anthony",
+    "city_ascii": "Anthony",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1588,
+    "lng": -98.0418,
+    "cafes": []
+  },
+  "North Newton": {
+    "city": "North Newton",
+    "city_ascii": "North Newton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0766,
+    "lng": -97.3475,
+    "cafes": []
+  },
+  "Ellis": {
+    "city": "Ellis",
+    "city_ascii": "Ellis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9346,
+    "lng": -99.5568,
+    "cafes": []
+  },
+  "Seneca": {
+    "city": "Seneca",
+    "city_ascii": "Seneca",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.838,
+    "lng": -96.0696,
+    "cafes": []
+  },
+  "Phillipsburg": {
+    "city": "Phillipsburg",
+    "city_ascii": "Phillipsburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7512,
+    "lng": -99.321,
+    "cafes": []
+  },
+  "Cherryvale": {
+    "city": "Cherryvale",
+    "city_ascii": "Cherryvale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.269,
+    "lng": -95.5536,
+    "cafes": []
+  },
+  "Ellinwood": {
+    "city": "Ellinwood",
+    "city_ascii": "Ellinwood",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3574,
+    "lng": -98.5837,
+    "cafes": []
+  },
+  "Fredonia": {
+    "city": "Fredonia",
+    "city_ascii": "Fredonia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5327,
+    "lng": -95.822,
+    "cafes": []
+  },
+  "Herington": {
+    "city": "Herington",
+    "city_ascii": "Herington",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6862,
+    "lng": -96.8669,
+    "cafes": []
+  },
+  "Minneapolis": {
+    "city": "Minneapolis",
+    "city_ascii": "Minneapolis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1243,
+    "lng": -97.6997,
+    "cafes": []
+  },
+  "Lakin": {
+    "city": "Lakin",
+    "city_ascii": "Lakin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.94,
+    "lng": -101.2585,
+    "cafes": []
+  },
+  "Oakley": {
+    "city": "Oakley",
+    "city_ascii": "Oakley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1233,
+    "lng": -100.8449,
+    "cafes": []
+  },
+  "Belleville": {
+    "city": "Belleville",
+    "city_ascii": "Belleville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8245,
+    "lng": -97.6337,
+    "cafes": []
+  },
+  "Marion": {
+    "city": "Marion",
+    "city_ascii": "Marion",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3547,
+    "lng": -97.0082,
+    "cafes": []
+  },
+  "Wellsville": {
+    "city": "Wellsville",
+    "city_ascii": "Wellsville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7175,
+    "lng": -95.0778,
+    "cafes": []
+  },
+  "Humboldt": {
+    "city": "Humboldt",
+    "city_ascii": "Humboldt",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8125,
+    "lng": -95.4363,
+    "cafes": []
+  },
+  "McConnell AFB": {
+    "city": "McConnell AFB",
+    "city_ascii": "McConnell AFB",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.625,
+    "lng": -97.26,
+    "cafes": []
+  },
+  "Cimarron": {
+    "city": "Cimarron",
+    "city_ascii": "Cimarron",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8097,
+    "lng": -100.3453,
+    "cafes": []
+  },
+  "Westwood": {
+    "city": "Westwood",
+    "city_ascii": "Westwood",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0394,
+    "lng": -94.6156,
+    "cafes": []
+  },
+  "WaKeeney": {
+    "city": "WaKeeney",
+    "city_ascii": "WaKeeney",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0234,
+    "lng": -99.8815,
+    "cafes": []
+  },
+  "Grandview Plaza": {
+    "city": "Grandview Plaza",
+    "city_ascii": "Grandview Plaza",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0327,
+    "lng": -96.793,
+    "cafes": []
+  },
+  "Edgerton": {
+    "city": "Edgerton",
+    "city_ascii": "Edgerton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7717,
+    "lng": -94.9706,
+    "cafes": []
+  },
+  "Oswego": {
+    "city": "Oswego",
+    "city_ascii": "Oswego",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1674,
+    "lng": -95.1123,
+    "cafes": []
+  },
+  "Plainville": {
+    "city": "Plainville",
+    "city_ascii": "Plainville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2341,
+    "lng": -99.3009,
+    "cafes": []
+  },
+  "Oberlin": {
+    "city": "Oberlin",
+    "city_ascii": "Oberlin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.823,
+    "lng": -100.5308,
+    "cafes": []
+  },
+  "Towanda": {
+    "city": "Towanda",
+    "city_ascii": "Towanda",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7954,
+    "lng": -96.9963,
+    "cafes": []
+  },
+  "Elkhart": {
+    "city": "Elkhart",
+    "city_ascii": "Elkhart",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0038,
+    "lng": -101.8944,
+    "cafes": []
+  },
+  "Horton": {
+    "city": "Horton",
+    "city_ascii": "Horton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6635,
+    "lng": -95.5326,
+    "cafes": []
+  },
+  "Syracuse": {
+    "city": "Syracuse",
+    "city_ascii": "Syracuse",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.962,
+    "lng": -101.7782,
+    "cafes": []
+  },
+  "Sedgwick": {
+    "city": "Sedgwick",
+    "city_ascii": "Sedgwick",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.918,
+    "lng": -97.4201,
+    "cafes": []
+  },
+  "Moundridge": {
+    "city": "Moundridge",
+    "city_ascii": "Moundridge",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2021,
+    "lng": -97.515,
+    "cafes": []
+  },
+  "Ogden": {
+    "city": "Ogden",
+    "city_ascii": "Ogden",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1128,
+    "lng": -96.7028,
+    "cafes": []
+  },
+  "Colwich": {
+    "city": "Colwich",
+    "city_ascii": "Colwich",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7818,
+    "lng": -97.5363,
+    "cafes": []
+  },
+  "Conway Springs": {
+    "city": "Conway Springs",
+    "city_ascii": "Conway Springs",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3899,
+    "lng": -97.643,
+    "cafes": []
+  },
+  "Smith Center": {
+    "city": "Smith Center",
+    "city_ascii": "Smith Center",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.774,
+    "lng": -98.7831,
+    "cafes": []
+  },
+  "Silver Lake": {
+    "city": "Silver Lake",
+    "city_ascii": "Silver Lake",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0994,
+    "lng": -95.8563,
+    "cafes": []
+  },
+  "Hill City": {
+    "city": "Hill City",
+    "city_ascii": "Hill City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.367,
+    "lng": -99.846,
+    "cafes": []
+  },
+  "Douglass": {
+    "city": "Douglass",
+    "city_ascii": "Douglass",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5169,
+    "lng": -97.0105,
+    "cafes": []
+  },
+  "Stockton": {
+    "city": "Stockton",
+    "city_ascii": "Stockton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4251,
+    "lng": -99.2764,
+    "cafes": []
+  },
+  "Medicine Lodge": {
+    "city": "Medicine Lodge",
+    "city_ascii": "Medicine Lodge",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2851,
+    "lng": -98.5812,
+    "cafes": []
+  },
+  "Osborne": {
+    "city": "Osborne",
+    "city_ascii": "Osborne",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4404,
+    "lng": -98.6994,
+    "cafes": []
+  },
+  "Belle Plaine": {
+    "city": "Belle Plaine",
+    "city_ascii": "Belle Plaine",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3934,
+    "lng": -97.2795,
+    "cafes": []
+  },
+  "Wathena": {
+    "city": "Wathena",
+    "city_ascii": "Wathena",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7602,
+    "lng": -94.9396,
+    "cafes": []
+  },
+  "Leoti": {
+    "city": "Leoti",
+    "city_ascii": "Leoti",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4834,
+    "lng": -101.3579,
+    "cafes": []
+  },
+  "Caney": {
+    "city": "Caney",
+    "city_ascii": "Caney",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.014,
+    "lng": -95.9315,
+    "cafes": []
+  },
+  "Pleasanton": {
+    "city": "Pleasanton",
+    "city_ascii": "Pleasanton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.179,
+    "lng": -94.7053,
+    "cafes": []
+  },
+  "Inman": {
+    "city": "Inman",
+    "city_ascii": "Inman",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2323,
+    "lng": -97.7715,
+    "cafes": []
+  },
+  "Sublette": {
+    "city": "Sublette",
+    "city_ascii": "Sublette",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4822,
+    "lng": -100.8466,
+    "cafes": []
+  },
+  "Haven": {
+    "city": "Haven",
+    "city_ascii": "Haven",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9016,
+    "lng": -97.7831,
+    "cafes": []
+  },
+  "Atwood": {
+    "city": "Atwood",
+    "city_ascii": "Atwood",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8101,
+    "lng": -101.0418,
+    "cafes": []
+  },
+  "Yates Center": {
+    "city": "Yates Center",
+    "city_ascii": "Yates Center",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8668,
+    "lng": -95.7539,
+    "cafes": []
+  },
+  "La Cygne": {
+    "city": "La Cygne",
+    "city_ascii": "La Cygne",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3479,
+    "lng": -94.7613,
+    "cafes": []
+  },
+  "Carbondale": {
+    "city": "Carbondale",
+    "city_ascii": "Carbondale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8192,
+    "lng": -95.6932,
+    "cafes": []
+  },
+  "Kinsley": {
+    "city": "Kinsley",
+    "city_ascii": "Kinsley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9224,
+    "lng": -99.4114,
+    "cafes": []
+  },
+  "Erie": {
+    "city": "Erie",
+    "city_ascii": "Erie",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5717,
+    "lng": -95.2418,
+    "cafes": []
+  },
+  "Buhler": {
+    "city": "Buhler",
+    "city_ascii": "Buhler",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1384,
+    "lng": -97.7704,
+    "cafes": []
+  },
+  "Plains": {
+    "city": "Plains",
+    "city_ascii": "Plains",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2642,
+    "lng": -100.5898,
+    "cafes": []
+  },
+  "Valley Falls": {
+    "city": "Valley Falls",
+    "city_ascii": "Valley Falls",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3407,
+    "lng": -95.4612,
+    "cafes": []
+  },
+  "Meade": {
+    "city": "Meade",
+    "city_ascii": "Meade",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2836,
+    "lng": -100.343,
+    "cafes": []
+  },
+  "St. Francis": {
+    "city": "St. Francis",
+    "city_ascii": "St. Francis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7714,
+    "lng": -101.8015,
+    "cafes": []
+  },
+  "Andale": {
+    "city": "Andale",
+    "city_ascii": "Andale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7916,
+    "lng": -97.6276,
+    "cafes": []
+  },
+  "St. John": {
+    "city": "St. John",
+    "city_ascii": "St. John",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38,
+    "lng": -98.7611,
+    "cafes": []
+  },
+  "Chapman": {
+    "city": "Chapman",
+    "city_ascii": "Chapman",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9746,
+    "lng": -97.0236,
+    "cafes": []
+  },
+  "Johnson City": {
+    "city": "Johnson City",
+    "city_ascii": "Johnson City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5703,
+    "lng": -101.7447,
+    "cafes": []
+  },
+  "Pomona": {
+    "city": "Pomona",
+    "city_ascii": "Pomona",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6108,
+    "lng": -95.4529,
+    "cafes": []
+  },
+  "Washington": {
+    "city": "Washington",
+    "city_ascii": "Washington",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.816,
+    "lng": -97.0487,
+    "cafes": []
+  },
+  "Hoxie": {
+    "city": "Hoxie",
+    "city_ascii": "Hoxie",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3558,
+    "lng": -100.4397,
+    "cafes": []
+  },
+  "Harper": {
+    "city": "Harper",
+    "city_ascii": "Harper",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2851,
+    "lng": -98.0276,
+    "cafes": []
+  },
+  "Auburn": {
+    "city": "Auburn",
+    "city_ascii": "Auburn",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9077,
+    "lng": -95.8158,
+    "cafes": []
+  },
+  "Lyndon": {
+    "city": "Lyndon",
+    "city_ascii": "Lyndon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.612,
+    "lng": -95.6844,
+    "cafes": []
+  },
+  "Rossville": {
+    "city": "Rossville",
+    "city_ascii": "Rossville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1358,
+    "lng": -95.9496,
+    "cafes": []
+  },
+  "Oskaloosa": {
+    "city": "Oskaloosa",
+    "city_ascii": "Oskaloosa",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2158,
+    "lng": -95.3145,
+    "cafes": []
+  },
+  "Elwood": {
+    "city": "Elwood",
+    "city_ascii": "Elwood",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7519,
+    "lng": -94.889,
+    "cafes": []
+  },
+  "Peabody": {
+    "city": "Peabody",
+    "city_ascii": "Peabody",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1683,
+    "lng": -97.1043,
+    "cafes": []
+  },
+  "Americus": {
+    "city": "Americus",
+    "city_ascii": "Americus",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5066,
+    "lng": -96.2615,
+    "cafes": []
+  },
+  "Ness City": {
+    "city": "Ness City",
+    "city_ascii": "Ness City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.454,
+    "lng": -99.9047,
+    "cafes": []
+  },
+  "Arma": {
+    "city": "Arma",
+    "city_ascii": "Arma",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5429,
+    "lng": -94.7023,
+    "cafes": []
+  },
+  "St. George": {
+    "city": "St. George",
+    "city_ascii": "St. George",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1915,
+    "lng": -96.4185,
+    "cafes": []
+  },
+  "Caldwell": {
+    "city": "Caldwell",
+    "city_ascii": "Caldwell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.035,
+    "lng": -97.6089,
+    "cafes": []
+  },
+  "Nickerson": {
+    "city": "Nickerson",
+    "city_ascii": "Nickerson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1488,
+    "lng": -98.0883,
+    "cafes": []
+  },
+  "Perry": {
+    "city": "Perry",
+    "city_ascii": "Perry",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0732,
+    "lng": -95.3866,
+    "cafes": []
+  },
+  "La Crosse": {
+    "city": "La Crosse",
+    "city_ascii": "La Crosse",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5318,
+    "lng": -99.3095,
+    "cafes": []
+  },
+  "Sedan": {
+    "city": "Sedan",
+    "city_ascii": "Sedan",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1284,
+    "lng": -96.1848,
+    "cafes": []
+  },
+  "Garden Plain": {
+    "city": "Garden Plain",
+    "city_ascii": "Garden Plain",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6627,
+    "lng": -97.6793,
+    "cafes": []
+  },
+  "Spearville": {
+    "city": "Spearville",
+    "city_ascii": "Spearville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8481,
+    "lng": -99.7548,
+    "cafes": []
+  },
+  "Highland": {
+    "city": "Highland",
+    "city_ascii": "Highland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8603,
+    "lng": -95.2649,
+    "cafes": []
+  },
+  "Wakefield": {
+    "city": "Wakefield",
+    "city_ascii": "Wakefield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2164,
+    "lng": -97.0187,
+    "cafes": []
+  },
+  "Overbrook": {
+    "city": "Overbrook",
+    "city_ascii": "Overbrook",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7794,
+    "lng": -95.5569,
+    "cafes": []
+  },
+  "Lincoln Center": {
+    "city": "Lincoln Center",
+    "city_ascii": "Lincoln Center",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.043,
+    "lng": -98.1468,
+    "cafes": []
+  },
+  "Galva": {
+    "city": "Galva",
+    "city_ascii": "Galva",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3836,
+    "lng": -97.5381,
+    "cafes": []
+  },
+  "Altamont": {
+    "city": "Altamont",
+    "city_ascii": "Altamont",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1875,
+    "lng": -95.2898,
+    "cafes": []
+  },
+  "Chetopa": {
+    "city": "Chetopa",
+    "city_ascii": "Chetopa",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0376,
+    "lng": -95.0923,
+    "cafes": []
+  },
+  "Victoria": {
+    "city": "Victoria",
+    "city_ascii": "Victoria",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8538,
+    "lng": -99.1473,
+    "cafes": []
+  },
+  "Burlingame": {
+    "city": "Burlingame",
+    "city_ascii": "Burlingame",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7517,
+    "lng": -95.8351,
+    "cafes": []
+  },
+  "Alma": {
+    "city": "Alma",
+    "city_ascii": "Alma",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0152,
+    "lng": -96.2871,
+    "cafes": []
+  },
+  "Quinter": {
+    "city": "Quinter",
+    "city_ascii": "Quinter",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0666,
+    "lng": -100.2347,
+    "cafes": []
+  },
+  "Solomon": {
+    "city": "Solomon",
+    "city_ascii": "Solomon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9215,
+    "lng": -97.3692,
+    "cafes": []
+  },
+  "Cottonwood Falls": {
+    "city": "Cottonwood Falls",
+    "city_ascii": "Cottonwood Falls",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3686,
+    "lng": -96.5425,
+    "cafes": []
+  },
+  "Linn Valley": {
+    "city": "Linn Valley",
+    "city_ascii": "Linn Valley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3758,
+    "lng": -94.712,
+    "cafes": []
+  },
+  "Madison": {
+    "city": "Madison",
+    "city_ascii": "Madison",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1336,
+    "lng": -96.1372,
+    "cafes": []
+  },
+  "Lake Quivira": {
+    "city": "Lake Quivira",
+    "city_ascii": "Lake Quivira",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0393,
+    "lng": -94.7685,
+    "cafes": []
+  },
+  "Blue Rapids": {
+    "city": "Blue Rapids",
+    "city_ascii": "Blue Rapids",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6791,
+    "lng": -96.6593,
+    "cafes": []
+  },
+  "Weir": {
+    "city": "Weir",
+    "city_ascii": "Weir",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3095,
+    "lng": -94.7741,
+    "cafes": []
+  },
+  "Whitewater": {
+    "city": "Whitewater",
+    "city_ascii": "Whitewater",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9636,
+    "lng": -97.146,
+    "cafes": []
+  },
+  "Benton": {
+    "city": "Benton",
+    "city_ascii": "Benton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7882,
+    "lng": -97.1078,
+    "cafes": []
+  },
+  "Oxford": {
+    "city": "Oxford",
+    "city_ascii": "Oxford",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2741,
+    "lng": -97.1696,
+    "cafes": []
+  },
+  "Scranton": {
+    "city": "Scranton",
+    "city_ascii": "Scranton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7778,
+    "lng": -95.7402,
+    "cafes": []
+  },
+  "McLouth": {
+    "city": "McLouth",
+    "city_ascii": "McLouth",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1961,
+    "lng": -95.2083,
+    "cafes": []
+  },
+  "Montezuma": {
+    "city": "Montezuma",
+    "city_ascii": "Montezuma",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5925,
+    "lng": -100.45,
+    "cafes": []
+  },
+  "Burrton": {
+    "city": "Burrton",
+    "city_ascii": "Burrton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0237,
+    "lng": -97.6715,
+    "cafes": []
+  },
+  "Vassar": {
+    "city": "Vassar",
+    "city_ascii": "Vassar",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6495,
+    "lng": -95.6114,
+    "cafes": []
+  },
+  "Mound City": {
+    "city": "Mound City",
+    "city_ascii": "Mound City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1325,
+    "lng": -94.8506,
+    "cafes": []
+  },
+  "Satanta": {
+    "city": "Satanta",
+    "city_ascii": "Satanta",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4378,
+    "lng": -100.988,
+    "cafes": []
+  },
+  "Sharon Springs": {
+    "city": "Sharon Springs",
+    "city_ascii": "Sharon Springs",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8943,
+    "lng": -101.7511,
+    "cafes": []
+  },
+  "Enterprise": {
+    "city": "Enterprise",
+    "city_ascii": "Enterprise",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9029,
+    "lng": -97.1163,
+    "cafes": []
+  },
+  "Hanover": {
+    "city": "Hanover",
+    "city_ascii": "Hanover",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8934,
+    "lng": -96.8753,
+    "cafes": []
+  },
+  "Riley": {
+    "city": "Riley",
+    "city_ascii": "Riley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.299,
+    "lng": -96.8277,
+    "cafes": []
+  },
+  "Wilson": {
+    "city": "Wilson",
+    "city_ascii": "Wilson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8255,
+    "lng": -98.475,
+    "cafes": []
+  },
+  "Clyde": {
+    "city": "Clyde",
+    "city_ascii": "Clyde",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5918,
+    "lng": -97.4003,
+    "cafes": []
+  },
+  "Ashland": {
+    "city": "Ashland",
+    "city_ascii": "Ashland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1867,
+    "lng": -99.7697,
+    "cafes": []
+  },
+  "Lebo": {
+    "city": "Lebo",
+    "city_ascii": "Lebo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4156,
+    "lng": -95.8622,
+    "cafes": []
+  },
+  "Mankato": {
+    "city": "Mankato",
+    "city_ascii": "Mankato",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7871,
+    "lng": -98.2083,
+    "cafes": []
+  },
+  "Tribune": {
+    "city": "Tribune",
+    "city_ascii": "Tribune",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.472,
+    "lng": -101.7546,
+    "cafes": []
+  },
+  "Meriden": {
+    "city": "Meriden",
+    "city_ascii": "Meriden",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1897,
+    "lng": -95.568,
+    "cafes": []
+  },
+  "Nortonville": {
+    "city": "Nortonville",
+    "city_ascii": "Nortonville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4159,
+    "lng": -95.3304,
+    "cafes": []
+  },
+  "Troy": {
+    "city": "Troy",
+    "city_ascii": "Troy",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7846,
+    "lng": -95.0937,
+    "cafes": []
+  },
+  "Kiowa": {
+    "city": "Kiowa",
+    "city_ascii": "Kiowa",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0174,
+    "lng": -98.4848,
+    "cafes": []
+  },
+  "Maple Hill": {
+    "city": "Maple Hill",
+    "city_ascii": "Maple Hill",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0855,
+    "lng": -96.0278,
+    "cafes": []
+  },
+  "Eastborough": {
+    "city": "Eastborough",
+    "city_ascii": "Eastborough",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6856,
+    "lng": -97.2591,
+    "cafes": []
+  },
+  "Franklin": {
+    "city": "Franklin",
+    "city_ascii": "Franklin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.523,
+    "lng": -94.6994,
+    "cafes": []
+  },
+  "Lecompton": {
+    "city": "Lecompton",
+    "city_ascii": "Lecompton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0358,
+    "lng": -95.3929,
+    "cafes": []
+  },
+  "Deerfield": {
+    "city": "Deerfield",
+    "city_ascii": "Deerfield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9819,
+    "lng": -101.1332,
+    "cafes": []
+  },
+  "Hoyt": {
+    "city": "Hoyt",
+    "city_ascii": "Hoyt",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2493,
+    "lng": -95.708,
+    "cafes": []
+  },
+  "Mount Hope": {
+    "city": "Mount Hope",
+    "city_ascii": "Mount Hope",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8735,
+    "lng": -97.6619,
+    "cafes": []
+  },
+  "Waterville": {
+    "city": "Waterville",
+    "city_ascii": "Waterville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6919,
+    "lng": -96.747,
+    "cafes": []
+  },
+  "Wilroads Gardens": {
+    "city": "Wilroads Gardens",
+    "city_ascii": "Wilroads Gardens",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7153,
+    "lng": -99.9269,
+    "cafes": []
+  },
+  "Frankfort": {
+    "city": "Frankfort",
+    "city_ascii": "Frankfort",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7039,
+    "lng": -96.4169,
+    "cafes": []
+  },
+  "Minneola": {
+    "city": "Minneola",
+    "city_ascii": "Minneola",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4421,
+    "lng": -100.0131,
+    "cafes": []
+  },
+  "Greensburg": {
+    "city": "Greensburg",
+    "city_ascii": "Greensburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6049,
+    "lng": -99.2895,
+    "cafes": []
+  },
+  "Dighton": {
+    "city": "Dighton",
+    "city_ascii": "Dighton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.481,
+    "lng": -100.4663,
+    "cafes": []
+  },
+  "Cherokee": {
+    "city": "Cherokee",
+    "city_ascii": "Cherokee",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.345,
+    "lng": -94.8215,
+    "cafes": []
+  },
+  "Riverton": {
+    "city": "Riverton",
+    "city_ascii": "Riverton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0732,
+    "lng": -94.706,
+    "cafes": []
+  },
+  "Stafford": {
+    "city": "Stafford",
+    "city_ascii": "Stafford",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9624,
+    "lng": -98.5995,
+    "cafes": []
+  },
+  "Onaga": {
+    "city": "Onaga",
+    "city_ascii": "Onaga",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4892,
+    "lng": -96.1703,
+    "cafes": []
+  },
+  "Jetmore": {
+    "city": "Jetmore",
+    "city_ascii": "Jetmore",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0301,
+    "lng": -99.9098,
+    "cafes": []
+  },
+  "Coldwater": {
+    "city": "Coldwater",
+    "city_ascii": "Coldwater",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2582,
+    "lng": -99.3378,
+    "cafes": []
+  },
+  "St. Paul": {
+    "city": "St. Paul",
+    "city_ascii": "St. Paul",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5186,
+    "lng": -95.1742,
+    "cafes": []
+  },
+  "Downs": {
+    "city": "Downs",
+    "city_ascii": "Downs",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5045,
+    "lng": -98.5472,
+    "cafes": []
+  },
+  "Effingham": {
+    "city": "Effingham",
+    "city_ascii": "Effingham",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5228,
+    "lng": -95.3969,
+    "cafes": []
+  },
+  "Udall": {
+    "city": "Udall",
+    "city_ascii": "Udall",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3889,
+    "lng": -97.1177,
+    "cafes": []
+  },
+  "Marquette": {
+    "city": "Marquette",
+    "city_ascii": "Marquette",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5555,
+    "lng": -97.8344,
+    "cafes": []
+  },
+  "Westmoreland": {
+    "city": "Westmoreland",
+    "city_ascii": "Westmoreland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3941,
+    "lng": -96.4137,
+    "cafes": []
+  },
+  "Bucklin": {
+    "city": "Bucklin",
+    "city_ascii": "Bucklin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5488,
+    "lng": -99.6343,
+    "cafes": []
+  },
+  "Canton": {
+    "city": "Canton",
+    "city_ascii": "Canton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3857,
+    "lng": -97.4303,
+    "cafes": []
+  },
+  "Logan": {
+    "city": "Logan",
+    "city_ascii": "Logan",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6617,
+    "lng": -99.5673,
+    "cafes": []
+  },
+  "Cedar Vale": {
+    "city": "Cedar Vale",
+    "city_ascii": "Cedar Vale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1061,
+    "lng": -96.5018,
+    "cafes": []
+  },
+  "Haviland": {
+    "city": "Haviland",
+    "city_ascii": "Haviland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6173,
+    "lng": -99.1059,
+    "cafes": []
+  },
+  "Bennington": {
+    "city": "Bennington",
+    "city_ascii": "Bennington",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0334,
+    "lng": -97.5932,
+    "cafes": []
+  },
+  "Olpe": {
+    "city": "Olpe",
+    "city_ascii": "Olpe",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2569,
+    "lng": -96.1726,
+    "cafes": []
+  },
+  "Leonardville": {
+    "city": "Leonardville",
+    "city_ascii": "Leonardville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3642,
+    "lng": -96.8596,
+    "cafes": []
+  },
+  "Ozawkie": {
+    "city": "Ozawkie",
+    "city_ascii": "Ozawkie",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2354,
+    "lng": -95.4659,
+    "cafes": []
+  },
+  "Macksville": {
+    "city": "Macksville",
+    "city_ascii": "Macksville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9572,
+    "lng": -98.9689,
+    "cafes": []
+  },
+  "Gas": {
+    "city": "Gas",
+    "city_ascii": "Gas",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.923,
+    "lng": -95.3454,
+    "cafes": []
+  },
+  "Bird City": {
+    "city": "Bird City",
+    "city_ascii": "Bird City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7495,
+    "lng": -101.5328,
+    "cafes": []
+  },
+  "Argonia": {
+    "city": "Argonia",
+    "city_ascii": "Argonia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2679,
+    "lng": -97.7629,
+    "cafes": []
+  },
+  "Bronson": {
+    "city": "Bronson",
+    "city_ascii": "Bronson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8958,
+    "lng": -95.0732,
+    "cafes": []
+  },
+  "Kensington": {
+    "city": "Kensington",
+    "city_ascii": "Kensington",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7667,
+    "lng": -99.0329,
+    "cafes": []
+  },
+  "Kanopolis": {
+    "city": "Kanopolis",
+    "city_ascii": "Kanopolis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7081,
+    "lng": -98.1581,
+    "cafes": []
+  },
+  "Potwin": {
+    "city": "Potwin",
+    "city_ascii": "Potwin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9385,
+    "lng": -97.0184,
+    "cafes": []
+  },
+  "Howard": {
+    "city": "Howard",
+    "city_ascii": "Howard",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4695,
+    "lng": -96.2631,
+    "cafes": []
+  },
+  "Pretty Prairie": {
+    "city": "Pretty Prairie",
+    "city_ascii": "Pretty Prairie",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.78,
+    "lng": -98.0224,
+    "cafes": []
+  },
+  "Burden": {
+    "city": "Burden",
+    "city_ascii": "Burden",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3151,
+    "lng": -96.7554,
+    "cafes": []
+  },
+  "Parkerfield": {
+    "city": "Parkerfield",
+    "city_ascii": "Parkerfield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0679,
+    "lng": -96.9957,
+    "cafes": []
+  },
+  "Rolla": {
+    "city": "Rolla",
+    "city_ascii": "Rolla",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1179,
+    "lng": -101.6318,
+    "cafes": []
+  },
+  "Goessel": {
+    "city": "Goessel",
+    "city_ascii": "Goessel",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2473,
+    "lng": -97.3454,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2428,
+    "lng": -96.9289,
+    "cafes": []
+  },
+  "Attica": {
+    "city": "Attica",
+    "city_ascii": "Attica",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2426,
+    "lng": -98.2276,
+    "cafes": []
+  },
+  "Waverly": {
+    "city": "Waverly",
+    "city_ascii": "Waverly",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3962,
+    "lng": -95.6048,
+    "cafes": []
+  },
+  "Glen Elder": {
+    "city": "Glen Elder",
+    "city_ascii": "Glen Elder",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5001,
+    "lng": -98.3066,
+    "cafes": []
+  },
+  "Leon": {
+    "city": "Leon",
+    "city_ascii": "Leon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6898,
+    "lng": -96.7837,
+    "cafes": []
+  },
+  "Dexter": {
+    "city": "Dexter",
+    "city_ascii": "Dexter",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1794,
+    "lng": -96.7161,
+    "cafes": []
+  },
+  "Fowler": {
+    "city": "Fowler",
+    "city_ascii": "Fowler",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3829,
+    "lng": -100.1957,
+    "cafes": []
+  },
+  "Richmond": {
+    "city": "Richmond",
+    "city_ascii": "Richmond",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4004,
+    "lng": -95.252,
+    "cafes": []
+  },
+  "Protection": {
+    "city": "Protection",
+    "city_ascii": "Protection",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2004,
+    "lng": -99.4808,
+    "cafes": []
+  },
+  "Centralia": {
+    "city": "Centralia",
+    "city_ascii": "Centralia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7243,
+    "lng": -96.1301,
+    "cafes": []
+  },
+  "Strong City": {
+    "city": "Strong City",
+    "city_ascii": "Strong City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3955,
+    "lng": -96.537,
+    "cafes": []
+  },
+  "Uniontown": {
+    "city": "Uniontown",
+    "city_ascii": "Uniontown",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8471,
+    "lng": -94.9755,
+    "cafes": []
+  },
+  "Bentley": {
+    "city": "Bentley",
+    "city_ascii": "Bentley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8868,
+    "lng": -97.5147,
+    "cafes": []
+  },
+  "Alta Vista": {
+    "city": "Alta Vista",
+    "city_ascii": "Alta Vista",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8628,
+    "lng": -96.4888,
+    "cafes": []
+  },
+  "Westwood Hills": {
+    "city": "Westwood Hills",
+    "city_ascii": "Westwood Hills",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0389,
+    "lng": -94.6097,
+    "cafes": []
+  },
+  "Norwich": {
+    "city": "Norwich",
+    "city_ascii": "Norwich",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4572,
+    "lng": -97.848,
+    "cafes": []
+  },
+  "Linn": {
+    "city": "Linn",
+    "city_ascii": "Linn",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6793,
+    "lng": -97.0869,
+    "cafes": []
+  },
+  "Lewis": {
+    "city": "Lewis",
+    "city_ascii": "Lewis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.937,
+    "lng": -99.2547,
+    "cafes": []
+  },
+  "Kismet": {
+    "city": "Kismet",
+    "city_ascii": "Kismet",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2046,
+    "lng": -100.7018,
+    "cafes": []
+  },
+  "The Highlands": {
+    "city": "The Highlands",
+    "city_ascii": "The Highlands",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1659,
+    "lng": -97.9497,
+    "cafes": []
+  },
+  "Axtell": {
+    "city": "Axtell",
+    "city_ascii": "Axtell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8711,
+    "lng": -96.2566,
+    "cafes": []
+  },
+  "Hope": {
+    "city": "Hope",
+    "city_ascii": "Hope",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6912,
+    "lng": -97.0765,
+    "cafes": []
+  },
+  "LeRoy": {
+    "city": "LeRoy",
+    "city_ascii": "LeRoy",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0863,
+    "lng": -95.6331,
+    "cafes": []
+  },
+  "Cunningham": {
+    "city": "Cunningham",
+    "city_ascii": "Cunningham",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6447,
+    "lng": -98.4312,
+    "cafes": []
+  },
+  "Moran": {
+    "city": "Moran",
+    "city_ascii": "Moran",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9166,
+    "lng": -95.1716,
+    "cafes": []
+  },
+  "Thayer": {
+    "city": "Thayer",
+    "city_ascii": "Thayer",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4851,
+    "lng": -95.4845,
+    "cafes": []
+  },
+  "Bazine": {
+    "city": "Bazine",
+    "city_ascii": "Bazine",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4462,
+    "lng": -99.693,
+    "cafes": []
+  },
+  "Clifton": {
+    "city": "Clifton",
+    "city_ascii": "Clifton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5682,
+    "lng": -97.2808,
+    "cafes": []
+  },
+  "Lucas": {
+    "city": "Lucas",
+    "city_ascii": "Lucas",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0587,
+    "lng": -98.5378,
+    "cafes": []
+  },
+  "Almena": {
+    "city": "Almena",
+    "city_ascii": "Almena",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8913,
+    "lng": -99.7097,
+    "cafes": []
+  },
+  "Chase": {
+    "city": "Chase",
+    "city_ascii": "Chase",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3551,
+    "lng": -98.3489,
+    "cafes": []
+  },
+  "Fontana": {
+    "city": "Fontana",
+    "city_ascii": "Fontana",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4239,
+    "lng": -94.8441,
+    "cafes": []
+  },
+  "Hartford": {
+    "city": "Hartford",
+    "city_ascii": "Hartford",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3084,
+    "lng": -95.9566,
+    "cafes": []
+  },
+  "Brewster": {
+    "city": "Brewster",
+    "city_ascii": "Brewster",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3631,
+    "lng": -101.3771,
+    "cafes": []
+  },
+  "White City": {
+    "city": "White City",
+    "city_ascii": "White City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7938,
+    "lng": -96.7349,
+    "cafes": []
+  },
+  "Otis": {
+    "city": "Otis",
+    "city_ascii": "Otis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5347,
+    "lng": -99.0533,
+    "cafes": []
+  },
+  "Claflin": {
+    "city": "Claflin",
+    "city_ascii": "Claflin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5246,
+    "lng": -98.5367,
+    "cafes": []
+  },
+  "Assaria": {
+    "city": "Assaria",
+    "city_ascii": "Assaria",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6802,
+    "lng": -97.604,
+    "cafes": []
+  },
+  "Little River": {
+    "city": "Little River",
+    "city_ascii": "Little River",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3983,
+    "lng": -98.0149,
+    "cafes": []
+  },
+  "La Harpe": {
+    "city": "La Harpe",
+    "city_ascii": "La Harpe",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9166,
+    "lng": -95.3023,
+    "cafes": []
+  },
+  "Miltonvale": {
+    "city": "Miltonvale",
+    "city_ascii": "Miltonvale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3496,
+    "lng": -97.4523,
+    "cafes": []
+  },
+  "Healy": {
+    "city": "Healy",
+    "city_ascii": "Healy",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.603,
+    "lng": -100.6176,
+    "cafes": []
+  },
+  "Mulberry": {
+    "city": "Mulberry",
+    "city_ascii": "Mulberry",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5561,
+    "lng": -94.6235,
+    "cafes": []
+  },
+  "Cawker City": {
+    "city": "Cawker City",
+    "city_ascii": "Cawker City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5095,
+    "lng": -98.4331,
+    "cafes": []
+  },
+  "Jewell": {
+    "city": "Jewell",
+    "city_ascii": "Jewell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6715,
+    "lng": -98.1525,
+    "cafes": []
+  },
+  "Altoona": {
+    "city": "Altoona",
+    "city_ascii": "Altoona",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5249,
+    "lng": -95.6615,
+    "cafes": []
+  },
+  "New Strawn": {
+    "city": "New Strawn",
+    "city_ascii": "New Strawn",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2622,
+    "lng": -95.7423,
+    "cafes": []
+  },
+  "Chicopee": {
+    "city": "Chicopee",
+    "city_ascii": "Chicopee",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3835,
+    "lng": -94.7444,
+    "cafes": []
+  },
+  "Scammon": {
+    "city": "Scammon",
+    "city_ascii": "Scammon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2781,
+    "lng": -94.823,
+    "cafes": []
+  },
+  "Arlington": {
+    "city": "Arlington",
+    "city_ascii": "Arlington",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8962,
+    "lng": -98.178,
+    "cafes": []
+  },
+  "Eskridge": {
+    "city": "Eskridge",
+    "city_ascii": "Eskridge",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8595,
+    "lng": -96.1049,
+    "cafes": []
+  },
+  "Everest": {
+    "city": "Everest",
+    "city_ascii": "Everest",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.677,
+    "lng": -95.4248,
+    "cafes": []
+  },
+  "Gypsum": {
+    "city": "Gypsum",
+    "city_ascii": "Gypsum",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7058,
+    "lng": -97.4266,
+    "cafes": []
+  },
+  "Williamsburg": {
+    "city": "Williamsburg",
+    "city_ascii": "Williamsburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4807,
+    "lng": -95.4681,
+    "cafes": []
+  },
+  "Holyrood": {
+    "city": "Holyrood",
+    "city_ascii": "Holyrood",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5876,
+    "lng": -98.4119,
+    "cafes": []
+  },
+  "Grinnell": {
+    "city": "Grinnell",
+    "city_ascii": "Grinnell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1266,
+    "lng": -100.6311,
+    "cafes": []
+  },
+  "Moline": {
+    "city": "Moline",
+    "city_ascii": "Moline",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3637,
+    "lng": -96.3025,
+    "cafes": []
+  },
+  "Gridley": {
+    "city": "Gridley",
+    "city_ascii": "Gridley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1007,
+    "lng": -95.8826,
+    "cafes": []
+  },
+  "Quenemo": {
+    "city": "Quenemo",
+    "city_ascii": "Quenemo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5801,
+    "lng": -95.5266,
+    "cafes": []
+  },
+  "Natoma": {
+    "city": "Natoma",
+    "city_ascii": "Natoma",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1885,
+    "lng": -99.0241,
+    "cafes": []
+  },
+  "Edna": {
+    "city": "Edna",
+    "city_ascii": "Edna",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0587,
+    "lng": -95.3592,
+    "cafes": []
+  },
+  "McFarland": {
+    "city": "McFarland",
+    "city_ascii": "McFarland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0545,
+    "lng": -96.2381,
+    "cafes": []
+  },
+  "Lancaster": {
+    "city": "Lancaster",
+    "city_ascii": "Lancaster",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.571,
+    "lng": -95.3037,
+    "cafes": []
+  },
+  "Gorham": {
+    "city": "Gorham",
+    "city_ascii": "Gorham",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8806,
+    "lng": -99.0237,
+    "cafes": []
+  },
+  "Copeland": {
+    "city": "Copeland",
+    "city_ascii": "Copeland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5405,
+    "lng": -100.6288,
+    "cafes": []
+  },
+  "Mayetta": {
+    "city": "Mayetta",
+    "city_ascii": "Mayetta",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3386,
+    "lng": -95.7216,
+    "cafes": []
+  },
+  "Winchester": {
+    "city": "Winchester",
+    "city_ascii": "Winchester",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3226,
+    "lng": -95.2688,
+    "cafes": []
+  },
+  "Tecumseh": {
+    "city": "Tecumseh",
+    "city_ascii": "Tecumseh",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0419,
+    "lng": -95.5807,
+    "cafes": []
+  },
+  "Glasco": {
+    "city": "Glasco",
+    "city_ascii": "Glasco",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3609,
+    "lng": -97.8372,
+    "cafes": []
+  },
+  "Parker": {
+    "city": "Parker",
+    "city_ascii": "Parker",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3285,
+    "lng": -94.9899,
+    "cafes": []
+  },
+  "South Haven": {
+    "city": "South Haven",
+    "city_ascii": "South Haven",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0495,
+    "lng": -97.4013,
+    "cafes": []
+  },
+  "Wetmore": {
+    "city": "Wetmore",
+    "city_ascii": "Wetmore",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6357,
+    "lng": -95.8112,
+    "cafes": []
+  },
+  "Dearing": {
+    "city": "Dearing",
+    "city_ascii": "Dearing",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0534,
+    "lng": -95.6954,
+    "cafes": []
+  },
+  "Mound Valley": {
+    "city": "Mound Valley",
+    "city_ascii": "Mound Valley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2071,
+    "lng": -95.4046,
+    "cafes": []
+  },
+  "Linwood": {
+    "city": "Linwood",
+    "city_ascii": "Linwood",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0019,
+    "lng": -95.0362,
+    "cafes": []
+  },
+  "Whiting": {
+    "city": "Whiting",
+    "city_ascii": "Whiting",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5878,
+    "lng": -95.6112,
+    "cafes": []
+  },
+  "Greenleaf": {
+    "city": "Greenleaf",
+    "city_ascii": "Greenleaf",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7273,
+    "lng": -96.98,
+    "cafes": []
+  },
+  "Delphos": {
+    "city": "Delphos",
+    "city_ascii": "Delphos",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2744,
+    "lng": -97.7653,
+    "cafes": []
+  },
+  "Burdett": {
+    "city": "Burdett",
+    "city_ascii": "Burdett",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1935,
+    "lng": -99.5264,
+    "cafes": []
+  },
+  "Sylvan Grove": {
+    "city": "Sylvan Grove",
+    "city_ascii": "Sylvan Grove",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0123,
+    "lng": -98.3944,
+    "cafes": []
+  },
+  "Colony": {
+    "city": "Colony",
+    "city_ascii": "Colony",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0712,
+    "lng": -95.3629,
+    "cafes": []
+  },
+  "Easton": {
+    "city": "Easton",
+    "city_ascii": "Easton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3456,
+    "lng": -95.1172,
+    "cafes": []
+  },
+  "Milford": {
+    "city": "Milford",
+    "city_ascii": "Milford",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1729,
+    "lng": -96.9105,
+    "cafes": []
+  },
+  "Ingalls": {
+    "city": "Ingalls",
+    "city_ascii": "Ingalls",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8287,
+    "lng": -100.4534,
+    "cafes": []
+  },
+  "Neosho Rapids": {
+    "city": "Neosho Rapids",
+    "city_ascii": "Neosho Rapids",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3685,
+    "lng": -95.9916,
+    "cafes": []
+  },
+  "Scandia": {
+    "city": "Scandia",
+    "city_ascii": "Scandia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7969,
+    "lng": -97.784,
+    "cafes": []
+  },
+  "Melvern": {
+    "city": "Melvern",
+    "city_ascii": "Melvern",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5073,
+    "lng": -95.6377,
+    "cafes": []
+  },
+  "Lowell": {
+    "city": "Lowell",
+    "city_ascii": "Lowell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0509,
+    "lng": -94.7032,
+    "cafes": []
+  },
+  "Greeley": {
+    "city": "Greeley",
+    "city_ascii": "Greeley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3676,
+    "lng": -95.1272,
+    "cafes": []
+  },
+  "Burns": {
+    "city": "Burns",
+    "city_ascii": "Burns",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0897,
+    "lng": -96.8877,
+    "cafes": []
+  },
+  "Walton": {
+    "city": "Walton",
+    "city_ascii": "Walton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1187,
+    "lng": -97.2582,
+    "cafes": []
+  },
+  "Pawnee Rock": {
+    "city": "Pawnee Rock",
+    "city_ascii": "Pawnee Rock",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2649,
+    "lng": -98.9823,
+    "cafes": []
+  },
+  "Elyria": {
+    "city": "Elyria",
+    "city_ascii": "Elyria",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2896,
+    "lng": -97.6339,
+    "cafes": []
+  },
+  "Turon": {
+    "city": "Turon",
+    "city_ascii": "Turon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8075,
+    "lng": -98.4278,
+    "cafes": []
+  },
+  "Buffalo": {
+    "city": "Buffalo",
+    "city_ascii": "Buffalo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.709,
+    "lng": -95.697,
+    "cafes": []
+  },
+  "Fairview": {
+    "city": "Fairview",
+    "city_ascii": "Fairview",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8397,
+    "lng": -95.7282,
+    "cafes": []
+  },
+  "Selden": {
+    "city": "Selden",
+    "city_ascii": "Selden",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5414,
+    "lng": -100.5671,
+    "cafes": []
+  },
+  "Elbing": {
+    "city": "Elbing",
+    "city_ascii": "Elbing",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0534,
+    "lng": -97.1283,
+    "cafes": []
+  },
+  "Longton": {
+    "city": "Longton",
+    "city_ascii": "Longton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3779,
+    "lng": -96.0821,
+    "cafes": []
+  },
+  "Elk City": {
+    "city": "Elk City",
+    "city_ascii": "Elk City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2896,
+    "lng": -95.9099,
+    "cafes": []
+  },
+  "Allen": {
+    "city": "Allen",
+    "city_ascii": "Allen",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.655,
+    "lng": -96.1697,
+    "cafes": []
+  },
+  "Prescott": {
+    "city": "Prescott",
+    "city_ascii": "Prescott",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.063,
+    "lng": -94.6929,
+    "cafes": []
+  },
+  "Olsburg": {
+    "city": "Olsburg",
+    "city_ascii": "Olsburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.432,
+    "lng": -96.6158,
+    "cafes": []
+  },
+  "Arcadia": {
+    "city": "Arcadia",
+    "city_ascii": "Arcadia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6412,
+    "lng": -94.624,
+    "cafes": []
+  },
+  "Mapleton": {
+    "city": "Mapleton",
+    "city_ascii": "Mapleton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0155,
+    "lng": -94.8834,
+    "cafes": []
+  },
+  "McCune": {
+    "city": "McCune",
+    "city_ascii": "McCune",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3538,
+    "lng": -95.0191,
+    "cafes": []
+  },
+  "Tescott": {
+    "city": "Tescott",
+    "city_ascii": "Tescott",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.013,
+    "lng": -97.8781,
+    "cafes": []
+  },
+  "Ransom": {
+    "city": "Ransom",
+    "city_ascii": "Ransom",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6367,
+    "lng": -99.9328,
+    "cafes": []
+  },
+  "Hanston": {
+    "city": "Hanston",
+    "city_ascii": "Hanston",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1229,
+    "lng": -99.7127,
+    "cafes": []
+  },
+  "Blue Mound": {
+    "city": "Blue Mound",
+    "city_ascii": "Blue Mound",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.089,
+    "lng": -95.01,
+    "cafes": []
+  },
+  "Catharine": {
+    "city": "Catharine",
+    "city_ascii": "Catharine",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9302,
+    "lng": -99.2144,
+    "cafes": []
+  },
+  "Toronto": {
+    "city": "Toronto",
+    "city_ascii": "Toronto",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7986,
+    "lng": -95.9497,
+    "cafes": []
+  },
+  "Grainfield": {
+    "city": "Grainfield",
+    "city_ascii": "Grainfield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1143,
+    "lng": -100.4684,
+    "cafes": []
+  },
+  "Hardtner": {
+    "city": "Hardtner",
+    "city_ascii": "Hardtner",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0144,
+    "lng": -98.6492,
+    "cafes": []
+  },
+  "Bushton": {
+    "city": "Bushton",
+    "city_ascii": "Bushton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5124,
+    "lng": -98.3959,
+    "cafes": []
+  },
+  "Kanorado": {
+    "city": "Kanorado",
+    "city_ascii": "Kanorado",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3366,
+    "lng": -102.0373,
+    "cafes": []
+  },
+  "Paxico": {
+    "city": "Paxico",
+    "city_ascii": "Paxico",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0689,
+    "lng": -96.1671,
+    "cafes": []
+  },
+  "Mullinville": {
+    "city": "Mullinville",
+    "city_ascii": "Mullinville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5885,
+    "lng": -99.4754,
+    "cafes": []
+  },
+  "Walnut": {
+    "city": "Walnut",
+    "city_ascii": "Walnut",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6018,
+    "lng": -95.0743,
+    "cafes": []
+  },
+  "Schoenchen": {
+    "city": "Schoenchen",
+    "city_ascii": "Schoenchen",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.713,
+    "lng": -99.3325,
+    "cafes": []
+  },
+  "Beattie": {
+    "city": "Beattie",
+    "city_ascii": "Beattie",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8624,
+    "lng": -96.4178,
+    "cafes": []
+  },
+  "Iuka": {
+    "city": "Iuka",
+    "city_ascii": "Iuka",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.729,
+    "lng": -98.7327,
+    "cafes": []
+  },
+  "Rush Center": {
+    "city": "Rush Center",
+    "city_ascii": "Rush Center",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.465,
+    "lng": -99.311,
+    "cafes": []
+  },
+  "Geneseo": {
+    "city": "Geneseo",
+    "city_ascii": "Geneseo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.517,
+    "lng": -98.1545,
+    "cafes": []
+  },
+  "Agra": {
+    "city": "Agra",
+    "city_ascii": "Agra",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7612,
+    "lng": -99.1195,
+    "cafes": []
+  },
+  "Welda": {
+    "city": "Welda",
+    "city_ascii": "Welda",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1747,
+    "lng": -95.2915,
+    "cafes": []
+  },
+  "Palco": {
+    "city": "Palco",
+    "city_ascii": "Palco",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2532,
+    "lng": -99.5634,
+    "cafes": []
+  },
+  "Cuba": {
+    "city": "Cuba",
+    "city_ascii": "Cuba",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8023,
+    "lng": -97.4576,
+    "cafes": []
+  },
+  "Morrill": {
+    "city": "Morrill",
+    "city_ascii": "Morrill",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9291,
+    "lng": -95.6944,
+    "cafes": []
+  },
+  "Tipton": {
+    "city": "Tipton",
+    "city_ascii": "Tipton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3395,
+    "lng": -98.4709,
+    "cafes": []
+  },
+  "Randall": {
+    "city": "Randall",
+    "city_ascii": "Randall",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6417,
+    "lng": -98.0456,
+    "cafes": []
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "city_ascii": "Princeton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4874,
+    "lng": -95.2698,
+    "cafes": []
+  },
+  "Jamestown": {
+    "city": "Jamestown",
+    "city_ascii": "Jamestown",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5996,
+    "lng": -97.8613,
+    "cafes": []
+  },
+  "Wakarusa": {
+    "city": "Wakarusa",
+    "city_ascii": "Wakarusa",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8911,
+    "lng": -95.6999,
+    "cafes": []
+  },
+  "Hamilton": {
+    "city": "Hamilton",
+    "city_ascii": "Hamilton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9805,
+    "lng": -96.1638,
+    "cafes": []
+  },
+  "Brookville": {
+    "city": "Brookville",
+    "city_ascii": "Brookville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7736,
+    "lng": -97.8645,
+    "cafes": []
+  },
+  "Lincolnville": {
+    "city": "Lincolnville",
+    "city_ascii": "Lincolnville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4943,
+    "lng": -96.9613,
+    "cafes": []
+  },
+  "Norcatur": {
+    "city": "Norcatur",
+    "city_ascii": "Norcatur",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8347,
+    "lng": -100.1888,
+    "cafes": []
+  },
+  "Bremen": {
+    "city": "Bremen",
+    "city_ascii": "Bremen",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8965,
+    "lng": -96.7948,
+    "cafes": []
+  },
+  "Bison": {
+    "city": "Bison",
+    "city_ascii": "Bison",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5201,
+    "lng": -99.1977,
+    "cafes": []
+  },
+  "Viola": {
+    "city": "Viola",
+    "city_ascii": "Viola",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4829,
+    "lng": -97.6444,
+    "cafes": []
+  },
+  "Lenora": {
+    "city": "Lenora",
+    "city_ascii": "Lenora",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6109,
+    "lng": -100.0014,
+    "cafes": []
+  },
+  "Moscow": {
+    "city": "Moscow",
+    "city_ascii": "Moscow",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3249,
+    "lng": -101.2069,
+    "cafes": []
+  },
+  "Ford": {
+    "city": "Ford",
+    "city_ascii": "Ford",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6366,
+    "lng": -99.7539,
+    "cafes": []
+  },
+  "Reading": {
+    "city": "Reading",
+    "city_ascii": "Reading",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5192,
+    "lng": -95.9574,
+    "cafes": []
+  },
+  "Dennis": {
+    "city": "Dennis",
+    "city_ascii": "Dennis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3469,
+    "lng": -95.4078,
+    "cafes": []
+  },
+  "Dwight": {
+    "city": "Dwight",
+    "city_ascii": "Dwight",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8449,
+    "lng": -96.5921,
+    "cafes": []
+  },
+  "Dorrance": {
+    "city": "Dorrance",
+    "city_ascii": "Dorrance",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8469,
+    "lng": -98.59,
+    "cafes": []
+  },
+  "Wilsey": {
+    "city": "Wilsey",
+    "city_ascii": "Wilsey",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6357,
+    "lng": -96.6764,
+    "cafes": []
+  },
+  "Courtland": {
+    "city": "Courtland",
+    "city_ascii": "Courtland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7835,
+    "lng": -97.8961,
+    "cafes": []
+  },
+  "Tyro": {
+    "city": "Tyro",
+    "city_ascii": "Tyro",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0368,
+    "lng": -95.8218,
+    "cafes": []
+  },
+  "McDonald": {
+    "city": "McDonald",
+    "city_ascii": "McDonald",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7848,
+    "lng": -101.3702,
+    "cafes": []
+  },
+  "Geuda Springs": {
+    "city": "Geuda Springs",
+    "city_ascii": "Geuda Springs",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1114,
+    "lng": -97.1505,
+    "cafes": []
+  },
+  "Lehigh": {
+    "city": "Lehigh",
+    "city_ascii": "Lehigh",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3744,
+    "lng": -97.3024,
+    "cafes": []
+  },
+  "Lebanon": {
+    "city": "Lebanon",
+    "city_ascii": "Lebanon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8101,
+    "lng": -98.5572,
+    "cafes": []
+  },
+  "Offerle": {
+    "city": "Offerle",
+    "city_ascii": "Offerle",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8907,
+    "lng": -99.5603,
+    "cafes": []
+  },
+  "Emmett": {
+    "city": "Emmett",
+    "city_ascii": "Emmett",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3071,
+    "lng": -96.0578,
+    "cafes": []
+  },
+  "Severy": {
+    "city": "Severy",
+    "city_ascii": "Severy",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.622,
+    "lng": -96.2273,
+    "cafes": []
+  },
+  "Galesburg": {
+    "city": "Galesburg",
+    "city_ascii": "Galesburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4721,
+    "lng": -95.3563,
+    "cafes": []
+  },
+  "Havensville": {
+    "city": "Havensville",
+    "city_ascii": "Havensville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5115,
+    "lng": -96.0762,
+    "cafes": []
+  },
+  "Winona": {
+    "city": "Winona",
+    "city_ascii": "Winona",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0618,
+    "lng": -101.2449,
+    "cafes": []
+  },
+  "Randolph": {
+    "city": "Randolph",
+    "city_ascii": "Randolph",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.429,
+    "lng": -96.7598,
+    "cafes": []
+  },
+  "Mission Woods": {
+    "city": "Mission Woods",
+    "city_ascii": "Mission Woods",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0341,
+    "lng": -94.6107,
+    "cafes": []
+  },
+  "Partridge": {
+    "city": "Partridge",
+    "city_ascii": "Partridge",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9666,
+    "lng": -98.0922,
+    "cafes": []
+  },
+  "Sylvia": {
+    "city": "Sylvia",
+    "city_ascii": "Sylvia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9589,
+    "lng": -98.4085,
+    "cafes": []
+  },
+  "Robinson": {
+    "city": "Robinson",
+    "city_ascii": "Robinson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8157,
+    "lng": -95.4117,
+    "cafes": []
+  },
+  "Rosalia": {
+    "city": "Rosalia",
+    "city_ascii": "Rosalia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8158,
+    "lng": -96.625,
+    "cafes": []
+  },
+  "Kincaid": {
+    "city": "Kincaid",
+    "city_ascii": "Kincaid",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0812,
+    "lng": -95.1554,
+    "cafes": []
+  },
+  "Munden": {
+    "city": "Munden",
+    "city_ascii": "Munden",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9126,
+    "lng": -97.5385,
+    "cafes": []
+  },
+  "Admire": {
+    "city": "Admire",
+    "city_ascii": "Admire",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.641,
+    "lng": -96.102,
+    "cafes": []
+  },
+  "Barnes": {
+    "city": "Barnes",
+    "city_ascii": "Barnes",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7116,
+    "lng": -96.8733,
+    "cafes": []
+  },
+  "Louisville": {
+    "city": "Louisville",
+    "city_ascii": "Louisville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2499,
+    "lng": -96.3145,
+    "cafes": []
+  },
+  "Delia": {
+    "city": "Delia",
+    "city_ascii": "Delia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2394,
+    "lng": -95.9651,
+    "cafes": []
+  },
+  "Smolan": {
+    "city": "Smolan",
+    "city_ascii": "Smolan",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7381,
+    "lng": -97.6843,
+    "cafes": []
+  },
+  "Belvue": {
+    "city": "Belvue",
+    "city_ascii": "Belvue",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2164,
+    "lng": -96.1789,
+    "cafes": []
+  },
+  "Morganville": {
+    "city": "Morganville",
+    "city_ascii": "Morganville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4666,
+    "lng": -97.2038,
+    "cafes": []
+  },
+  "Lane": {
+    "city": "Lane",
+    "city_ascii": "Lane",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4398,
+    "lng": -95.0819,
+    "cafes": []
+  },
+  "Harveyville": {
+    "city": "Harveyville",
+    "city_ascii": "Harveyville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7896,
+    "lng": -95.9624,
+    "cafes": []
+  },
+  "Milton": {
+    "city": "Milton",
+    "city_ascii": "Milton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4432,
+    "lng": -97.7694,
+    "cafes": []
+  },
+  "Summerfield": {
+    "city": "Summerfield",
+    "city_ascii": "Summerfield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9968,
+    "lng": -96.3493,
+    "cafes": []
+  },
+  "Peru": {
+    "city": "Peru",
+    "city_ascii": "Peru",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0803,
+    "lng": -96.0962,
+    "cafes": []
+  },
+  "Latham": {
+    "city": "Latham",
+    "city_ascii": "Latham",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5357,
+    "lng": -96.6427,
+    "cafes": []
+  },
+  "Weskan": {
+    "city": "Weskan",
+    "city_ascii": "Weskan",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8653,
+    "lng": -101.9681,
+    "cafes": []
+  },
+  "Denison": {
+    "city": "Denison",
+    "city_ascii": "Denison",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3938,
+    "lng": -95.6285,
+    "cafes": []
+  },
+  "Luray": {
+    "city": "Luray",
+    "city_ascii": "Luray",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1151,
+    "lng": -98.6922,
+    "cafes": []
+  },
+  "Westphalia": {
+    "city": "Westphalia",
+    "city_ascii": "Westphalia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1818,
+    "lng": -95.4906,
+    "cafes": []
+  },
+  "Netawaka": {
+    "city": "Netawaka",
+    "city_ascii": "Netawaka",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.603,
+    "lng": -95.7189,
+    "cafes": []
+  },
+  "Prairie View": {
+    "city": "Prairie View",
+    "city_ascii": "Prairie View",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.832,
+    "lng": -99.5732,
+    "cafes": []
+  },
+  "Oneida": {
+    "city": "Oneida",
+    "city_ascii": "Oneida",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8668,
+    "lng": -95.9398,
+    "cafes": []
+  },
+  "West Mineral": {
+    "city": "West Mineral",
+    "city_ascii": "West Mineral",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2839,
+    "lng": -94.9268,
+    "cafes": []
+  },
+  "Atlanta": {
+    "city": "Atlanta",
+    "city_ascii": "Atlanta",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4358,
+    "lng": -96.767,
+    "cafes": []
+  },
+  "Corning": {
+    "city": "Corning",
+    "city_ascii": "Corning",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.657,
+    "lng": -96.0288,
+    "cafes": []
+  },
+  "Lorraine": {
+    "city": "Lorraine",
+    "city_ascii": "Lorraine",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.569,
+    "lng": -98.3174,
+    "cafes": []
+  },
+  "Tampa": {
+    "city": "Tampa",
+    "city_ascii": "Tampa",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5481,
+    "lng": -97.1542,
+    "cafes": []
+  },
+  "Falun": {
+    "city": "Falun",
+    "city_ascii": "Falun",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6745,
+    "lng": -97.7511,
+    "cafes": []
+  },
+  "Rexford": {
+    "city": "Rexford",
+    "city_ascii": "Rexford",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4705,
+    "lng": -100.7439,
+    "cafes": []
+  },
+  "Damar": {
+    "city": "Damar",
+    "city_ascii": "Damar",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3192,
+    "lng": -99.5844,
+    "cafes": []
+  },
+  "Simpson": {
+    "city": "Simpson",
+    "city_ascii": "Simpson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.386,
+    "lng": -97.934,
+    "cafes": []
+  },
+  "Grenola": {
+    "city": "Grenola",
+    "city_ascii": "Grenola",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3507,
+    "lng": -96.4494,
+    "cafes": []
+  },
+  "Fall River": {
+    "city": "Fall River",
+    "city_ascii": "Fall River",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6078,
+    "lng": -96.0286,
+    "cafes": []
+  },
+  "Crestline": {
+    "city": "Crestline",
+    "city_ascii": "Crestline",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1701,
+    "lng": -94.7065,
+    "cafes": []
+  },
+  "Circleville": {
+    "city": "Circleville",
+    "city_ascii": "Circleville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5095,
+    "lng": -95.8555,
+    "cafes": []
+  },
+  "Big Bow": {
+    "city": "Big Bow",
+    "city_ascii": "Big Bow",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5609,
+    "lng": -101.5573,
+    "cafes": []
+  },
+  "Spivey": {
+    "city": "Spivey",
+    "city_ascii": "Spivey",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4484,
+    "lng": -98.1658,
+    "cafes": []
+  },
+  "Morrowville": {
+    "city": "Morrowville",
+    "city_ascii": "Morrowville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8452,
+    "lng": -97.1724,
+    "cafes": []
+  },
+  "Fort Dodge": {
+    "city": "Fort Dodge",
+    "city_ascii": "Fort Dodge",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7304,
+    "lng": -99.937,
+    "cafes": []
+  },
+  "Republic": {
+    "city": "Republic",
+    "city_ascii": "Republic",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9239,
+    "lng": -97.8245,
+    "cafes": []
+  },
+  "Long Island": {
+    "city": "Long Island",
+    "city_ascii": "Long Island",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9462,
+    "lng": -99.534,
+    "cafes": []
+  },
+  "Morland": {
+    "city": "Morland",
+    "city_ascii": "Morland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3489,
+    "lng": -100.0743,
+    "cafes": []
+  },
+  "Bendena": {
+    "city": "Bendena",
+    "city_ascii": "Bendena",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7436,
+    "lng": -95.1811,
+    "cafes": []
+  },
+  "Neosho Falls": {
+    "city": "Neosho Falls",
+    "city_ascii": "Neosho Falls",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0058,
+    "lng": -95.5556,
+    "cafes": []
+  },
+  "Palmer": {
+    "city": "Palmer",
+    "city_ascii": "Palmer",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6333,
+    "lng": -97.1399,
+    "cafes": []
+  },
+  "Beverly": {
+    "city": "Beverly",
+    "city_ascii": "Beverly",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0138,
+    "lng": -97.9755,
+    "cafes": []
+  },
+  "Muscotah": {
+    "city": "Muscotah",
+    "city_ascii": "Muscotah",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5535,
+    "lng": -95.5204,
+    "cafes": []
+  },
+  "White Cloud": {
+    "city": "White Cloud",
+    "city_ascii": "White Cloud",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9744,
+    "lng": -95.2991,
+    "cafes": []
+  },
+  "Kickapoo Tribal Center": {
+    "city": "Kickapoo Tribal Center",
+    "city_ascii": "Kickapoo Tribal Center",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6722,
+    "lng": -95.6453,
+    "cafes": []
+  },
+  "Elk Falls": {
+    "city": "Elk Falls",
+    "city_ascii": "Elk Falls",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3733,
+    "lng": -96.1934,
+    "cafes": []
+  },
+  "Bern": {
+    "city": "Bern",
+    "city_ascii": "Bern",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9612,
+    "lng": -95.9713,
+    "cafes": []
+  },
+  "New Cambria": {
+    "city": "New Cambria",
+    "city_ascii": "New Cambria",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.879,
+    "lng": -97.5066,
+    "cafes": []
+  },
+  "Niotaze": {
+    "city": "Niotaze",
+    "city_ascii": "Niotaze",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0678,
+    "lng": -96.0147,
+    "cafes": []
+  },
+  "Grantville": {
+    "city": "Grantville",
+    "city_ascii": "Grantville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0806,
+    "lng": -95.5611,
+    "cafes": []
+  },
+  "Sharon": {
+    "city": "Sharon",
+    "city_ascii": "Sharon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2498,
+    "lng": -98.4177,
+    "cafes": []
+  },
+  "Denton": {
+    "city": "Denton",
+    "city_ascii": "Denton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.732,
+    "lng": -95.2696,
+    "cafes": []
+  },
+  "Cassoday": {
+    "city": "Cassoday",
+    "city_ascii": "Cassoday",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0386,
+    "lng": -96.6386,
+    "cafes": []
+  },
+  "Keats": {
+    "city": "Keats",
+    "city_ascii": "Keats",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2217,
+    "lng": -96.7109,
+    "cafes": []
+  },
+  "Liberty": {
+    "city": "Liberty",
+    "city_ascii": "Liberty",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1564,
+    "lng": -95.5977,
+    "cafes": []
+  },
+  "Woodbine": {
+    "city": "Woodbine",
+    "city_ascii": "Woodbine",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7956,
+    "lng": -96.9594,
+    "cafes": []
+  },
+  "Preston": {
+    "city": "Preston",
+    "city_ascii": "Preston",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7584,
+    "lng": -98.5578,
+    "cafes": []
+  },
+  "Alton": {
+    "city": "Alton",
+    "city_ascii": "Alton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4678,
+    "lng": -98.9486,
+    "cafes": []
+  },
+  "Raymond": {
+    "city": "Raymond",
+    "city_ascii": "Raymond",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.278,
+    "lng": -98.4143,
+    "cafes": []
+  },
+  "Gem": {
+    "city": "Gem",
+    "city_ascii": "Gem",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.426,
+    "lng": -100.8973,
+    "cafes": []
+  },
+  "Radley": {
+    "city": "Radley",
+    "city_ascii": "Radley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4851,
+    "lng": -94.7617,
+    "cafes": []
+  },
+  "Rock": {
+    "city": "Rock",
+    "city_ascii": "Rock",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4417,
+    "lng": -97.007,
+    "cafes": []
+  },
+  "Fulton": {
+    "city": "Fulton",
+    "city_ascii": "Fulton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0098,
+    "lng": -94.7197,
+    "cafes": []
+  },
+  "Green": {
+    "city": "Green",
+    "city_ascii": "Green",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4301,
+    "lng": -96.9999,
+    "cafes": []
+  },
+  "Niles": {
+    "city": "Niles",
+    "city_ascii": "Niles",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9688,
+    "lng": -97.4574,
+    "cafes": []
+  },
+  "McCracken": {
+    "city": "McCracken",
+    "city_ascii": "McCracken",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5821,
+    "lng": -99.5684,
+    "cafes": []
+  },
+  "Savonburg": {
+    "city": "Savonburg",
+    "city_ascii": "Savonburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7489,
+    "lng": -95.1428,
+    "cafes": []
+  },
+  "Utica": {
+    "city": "Utica",
+    "city_ascii": "Utica",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6427,
+    "lng": -100.1698,
+    "cafes": []
+  },
+  "Sawyer": {
+    "city": "Sawyer",
+    "city_ascii": "Sawyer",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4985,
+    "lng": -98.683,
+    "cafes": []
+  },
+  "Hepler": {
+    "city": "Hepler",
+    "city_ascii": "Hepler",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6637,
+    "lng": -94.9697,
+    "cafes": []
+  },
+  "Cullison": {
+    "city": "Cullison",
+    "city_ascii": "Cullison",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6303,
+    "lng": -98.9054,
+    "cafes": []
+  },
+  "Earlton": {
+    "city": "Earlton",
+    "city_ascii": "Earlton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5873,
+    "lng": -95.4696,
+    "cafes": []
+  },
+  "Plevna": {
+    "city": "Plevna",
+    "city_ascii": "Plevna",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9717,
+    "lng": -98.3095,
+    "cafes": []
+  },
+  "Munjor": {
+    "city": "Munjor",
+    "city_ascii": "Munjor",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8089,
+    "lng": -99.2674,
+    "cafes": []
+  },
+  "Hillsdale": {
+    "city": "Hillsdale",
+    "city_ascii": "Hillsdale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6597,
+    "lng": -94.8569,
+    "cafes": []
+  },
+  "Burr Oak": {
+    "city": "Burr Oak",
+    "city_ascii": "Burr Oak",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.87,
+    "lng": -98.3055,
+    "cafes": []
+  },
+  "Rantoul": {
+    "city": "Rantoul",
+    "city_ascii": "Rantoul",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5483,
+    "lng": -95.1011,
+    "cafes": []
+  },
+  "Coats": {
+    "city": "Coats",
+    "city_ascii": "Coats",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5108,
+    "lng": -98.8253,
+    "cafes": []
+  },
+  "Ensign": {
+    "city": "Ensign",
+    "city_ascii": "Ensign",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6531,
+    "lng": -100.2329,
+    "cafes": []
+  },
+  "Rozel": {
+    "city": "Rozel",
+    "city_ascii": "Rozel",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1954,
+    "lng": -99.4032,
+    "cafes": []
+  },
+  "Olivet": {
+    "city": "Olivet",
+    "city_ascii": "Olivet",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4813,
+    "lng": -95.7519,
+    "cafes": []
+  },
+  "Croweburg": {
+    "city": "Croweburg",
+    "city_ascii": "Croweburg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5529,
+    "lng": -94.6686,
+    "cafes": []
+  },
+  "Alden": {
+    "city": "Alden",
+    "city_ascii": "Alden",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2444,
+    "lng": -98.3118,
+    "cafes": []
+  },
+  "Garfield": {
+    "city": "Garfield",
+    "city_ascii": "Garfield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.077,
+    "lng": -99.2445,
+    "cafes": []
+  },
+  "Bunker Hill": {
+    "city": "Bunker Hill",
+    "city_ascii": "Bunker Hill",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.8753,
+    "lng": -98.6989,
+    "cafes": []
+  },
+  "Chautauqua": {
+    "city": "Chautauqua",
+    "city_ascii": "Chautauqua",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0241,
+    "lng": -96.1774,
+    "cafes": []
+  },
+  "Bogue": {
+    "city": "Bogue",
+    "city_ascii": "Bogue",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3595,
+    "lng": -99.6874,
+    "cafes": []
+  },
+  "Kickapoo Site 5": {
+    "city": "Kickapoo Site 5",
+    "city_ascii": "Kickapoo Site 5",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6735,
+    "lng": -95.6842,
+    "cafes": []
+  },
+  "Oketo": {
+    "city": "Oketo",
+    "city_ascii": "Oketo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9632,
+    "lng": -96.5989,
+    "cafes": []
+  },
+  "Herndon": {
+    "city": "Herndon",
+    "city_ascii": "Herndon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9092,
+    "lng": -100.7865,
+    "cafes": []
+  },
+  "Haddam": {
+    "city": "Haddam",
+    "city_ascii": "Haddam",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8553,
+    "lng": -97.3045,
+    "cafes": []
+  },
+  "Isabel": {
+    "city": "Isabel",
+    "city_ascii": "Isabel",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4672,
+    "lng": -98.5515,
+    "cafes": []
+  },
+  "Albert": {
+    "city": "Albert",
+    "city_ascii": "Albert",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.454,
+    "lng": -99.0111,
+    "cafes": []
+  },
+  "Detroit": {
+    "city": "Detroit",
+    "city_ascii": "Detroit",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.936,
+    "lng": -97.1269,
+    "cafes": []
+  },
+  "Peck": {
+    "city": "Peck",
+    "city_ascii": "Peck",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4777,
+    "lng": -97.3695,
+    "cafes": []
+  },
+  "Redfield": {
+    "city": "Redfield",
+    "city_ascii": "Redfield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8366,
+    "lng": -94.882,
+    "cafes": []
+  },
+  "Woodston": {
+    "city": "Woodston",
+    "city_ascii": "Woodston",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4539,
+    "lng": -99.0981,
+    "cafes": []
+  },
+  "Portis": {
+    "city": "Portis",
+    "city_ascii": "Portis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5638,
+    "lng": -98.6916,
+    "cafes": []
+  },
+  "Talmage": {
+    "city": "Talmage",
+    "city_ascii": "Talmage",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0269,
+    "lng": -97.2598,
+    "cafes": []
+  },
+  "Manter": {
+    "city": "Manter",
+    "city_ascii": "Manter",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5245,
+    "lng": -101.8834,
+    "cafes": []
+  },
+  "Goff": {
+    "city": "Goff",
+    "city_ascii": "Goff",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6641,
+    "lng": -95.9317,
+    "cafes": []
+  },
+  "Hazelton": {
+    "city": "Hazelton",
+    "city_ascii": "Hazelton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0894,
+    "lng": -98.4015,
+    "cafes": []
+  },
+  "Jennings": {
+    "city": "Jennings",
+    "city_ascii": "Jennings",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6806,
+    "lng": -100.2933,
+    "cafes": []
+  },
+  "Powhattan": {
+    "city": "Powhattan",
+    "city_ascii": "Powhattan",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7619,
+    "lng": -95.6342,
+    "cafes": []
+  },
+  "Hudson": {
+    "city": "Hudson",
+    "city_ascii": "Hudson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1049,
+    "lng": -98.6609,
+    "cafes": []
+  },
+  "Seward": {
+    "city": "Seward",
+    "city_ascii": "Seward",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1778,
+    "lng": -98.7943,
+    "cafes": []
+  },
+  "Saint Marks": {
+    "city": "Saint Marks",
+    "city_ascii": "Saint Marks",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.736,
+    "lng": -97.5629,
+    "cafes": []
+  },
+  "Collyer": {
+    "city": "Collyer",
+    "city_ascii": "Collyer",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0372,
+    "lng": -100.1184,
+    "cafes": []
+  },
+  "Gaylord": {
+    "city": "Gaylord",
+    "city_ascii": "Gaylord",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6463,
+    "lng": -98.8473,
+    "cafes": []
+  },
+  "Reserve": {
+    "city": "Reserve",
+    "city_ascii": "Reserve",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.977,
+    "lng": -95.5654,
+    "cafes": []
+  },
+  "Mentor": {
+    "city": "Mentor",
+    "city_ascii": "Mentor",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7407,
+    "lng": -97.5979,
+    "cafes": []
+  },
+  "Liebenthal": {
+    "city": "Liebenthal",
+    "city_ascii": "Liebenthal",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6544,
+    "lng": -99.3202,
+    "cafes": []
+  },
+  "Barnard": {
+    "city": "Barnard",
+    "city_ascii": "Barnard",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1891,
+    "lng": -98.0441,
+    "cafes": []
+  },
+  "Englewood": {
+    "city": "Englewood",
+    "city_ascii": "Englewood",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0405,
+    "lng": -99.9876,
+    "cafes": []
+  },
+  "Kirwin": {
+    "city": "Kirwin",
+    "city_ascii": "Kirwin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6698,
+    "lng": -99.1217,
+    "cafes": []
+  },
+  "Hunnewell": {
+    "city": "Hunnewell",
+    "city_ascii": "Hunnewell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0042,
+    "lng": -97.4076,
+    "cafes": []
+  },
+  "Wheaton": {
+    "city": "Wheaton",
+    "city_ascii": "Wheaton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.502,
+    "lng": -96.3189,
+    "cafes": []
+  },
+  "Milan": {
+    "city": "Milan",
+    "city_ascii": "Milan",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2571,
+    "lng": -97.6741,
+    "cafes": []
+  },
+  "Stark": {
+    "city": "Stark",
+    "city_ascii": "Stark",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6898,
+    "lng": -95.1441,
+    "cafes": []
+  },
+  "Kipp": {
+    "city": "Kipp",
+    "city_ascii": "Kipp",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.785,
+    "lng": -97.4568,
+    "cafes": []
+  },
+  "Formoso": {
+    "city": "Formoso",
+    "city_ascii": "Formoso",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7784,
+    "lng": -97.9927,
+    "cafes": []
+  },
+  "Monument": {
+    "city": "Monument",
+    "city_ascii": "Monument",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1049,
+    "lng": -101.0079,
+    "cafes": []
+  },
+  "Park": {
+    "city": "Park",
+    "city_ascii": "Park",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1117,
+    "lng": -100.3614,
+    "cafes": []
+  },
+  "Culver": {
+    "city": "Culver",
+    "city_ascii": "Culver",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9701,
+    "lng": -97.7592,
+    "cafes": []
+  },
+  "Ramona": {
+    "city": "Ramona",
+    "city_ascii": "Ramona",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5979,
+    "lng": -97.0637,
+    "cafes": []
+  },
+  "Manchester": {
+    "city": "Manchester",
+    "city_ascii": "Manchester",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0933,
+    "lng": -97.3201,
+    "cafes": []
+  },
+  "Horace": {
+    "city": "Horace",
+    "city_ascii": "Horace",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4769,
+    "lng": -101.7905,
+    "cafes": []
+  },
+  "Olmitz": {
+    "city": "Olmitz",
+    "city_ascii": "Olmitz",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5164,
+    "lng": -98.9367,
+    "cafes": []
+  },
+  "Baileyville": {
+    "city": "Baileyville",
+    "city_ascii": "Baileyville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8485,
+    "lng": -96.1903,
+    "cafes": []
+  },
+  "Home": {
+    "city": "Home",
+    "city_ascii": "Home",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8415,
+    "lng": -96.5199,
+    "cafes": []
+  },
+  "Parkerville": {
+    "city": "Parkerville",
+    "city_ascii": "Parkerville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7638,
+    "lng": -96.6615,
+    "cafes": []
+  },
+  "Willowbrook": {
+    "city": "Willowbrook",
+    "city_ascii": "Willowbrook",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1012,
+    "lng": -97.9919,
+    "cafes": []
+  },
+  "Wabaunsee": {
+    "city": "Wabaunsee",
+    "city_ascii": "Wabaunsee",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1431,
+    "lng": -96.3422,
+    "cafes": []
+  },
+  "Kickapoo Site 1": {
+    "city": "Kickapoo Site 1",
+    "city_ascii": "Kickapoo Site 1",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7145,
+    "lng": -95.6484,
+    "cafes": []
+  },
+  "Mayfield": {
+    "city": "Mayfield",
+    "city_ascii": "Mayfield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2632,
+    "lng": -97.5404,
+    "cafes": []
+  },
+  "Cambridge": {
+    "city": "Cambridge",
+    "city_ascii": "Cambridge",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3177,
+    "lng": -96.6673,
+    "cafes": []
+  },
+  "Soldier": {
+    "city": "Soldier",
+    "city_ascii": "Soldier",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5372,
+    "lng": -95.9657,
+    "cafes": []
+  },
+  "Piqua": {
+    "city": "Piqua",
+    "city_ascii": "Piqua",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.922,
+    "lng": -95.5375,
+    "cafes": []
+  },
+  "Yale": {
+    "city": "Yale",
+    "city_ascii": "Yale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4901,
+    "lng": -94.647,
+    "cafes": []
+  },
+  "Willard": {
+    "city": "Willard",
+    "city_ascii": "Willard",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0941,
+    "lng": -95.9427,
+    "cafes": []
+  },
+  "Agenda": {
+    "city": "Agenda",
+    "city_ascii": "Agenda",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7066,
+    "lng": -97.4322,
+    "cafes": []
+  },
+  "Zurich": {
+    "city": "Zurich",
+    "city_ascii": "Zurich",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2322,
+    "lng": -99.4347,
+    "cafes": []
+  },
+  "Ada": {
+    "city": "Ada",
+    "city_ascii": "Ada",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1622,
+    "lng": -97.886,
+    "cafes": []
+  },
+  "Centropolis": {
+    "city": "Centropolis",
+    "city_ascii": "Centropolis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7166,
+    "lng": -95.3498,
+    "cafes": []
+  },
+  "Abbyville": {
+    "city": "Abbyville",
+    "city_ascii": "Abbyville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9705,
+    "lng": -98.2027,
+    "cafes": []
+  },
+  "Bartlett": {
+    "city": "Bartlett",
+    "city_ascii": "Bartlett",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0549,
+    "lng": -95.2112,
+    "cafes": []
+  },
+  "Navarre": {
+    "city": "Navarre",
+    "city_ascii": "Navarre",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7989,
+    "lng": -97.1069,
+    "cafes": []
+  },
+  "Farlington": {
+    "city": "Farlington",
+    "city_ascii": "Farlington",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6155,
+    "lng": -94.8226,
+    "cafes": []
+  },
+  "Havana": {
+    "city": "Havana",
+    "city_ascii": "Havana",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0921,
+    "lng": -95.9418,
+    "cafes": []
+  },
+  "Zenda": {
+    "city": "Zenda",
+    "city_ascii": "Zenda",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.444,
+    "lng": -98.2819,
+    "cafes": []
+  },
+  "Coyville": {
+    "city": "Coyville",
+    "city_ascii": "Coyville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6873,
+    "lng": -95.8958,
+    "cafes": []
+  },
+  "New Albany": {
+    "city": "New Albany",
+    "city_ascii": "New Albany",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5678,
+    "lng": -95.9363,
+    "cafes": []
+  },
+  "Gove City": {
+    "city": "Gove City",
+    "city_ascii": "Gove City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9595,
+    "lng": -100.4871,
+    "cafes": []
+  },
+  "Latimer": {
+    "city": "Latimer",
+    "city_ascii": "Latimer",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7386,
+    "lng": -96.8459,
+    "cafes": []
+  },
+  "Hunter": {
+    "city": "Hunter",
+    "city_ascii": "Hunter",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2349,
+    "lng": -98.396,
+    "cafes": []
+  },
+  "Benedict": {
+    "city": "Benedict",
+    "city_ascii": "Benedict",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6269,
+    "lng": -95.7433,
+    "cafes": []
+  },
+  "Stuttgart": {
+    "city": "Stuttgart",
+    "city_ascii": "Stuttgart",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7995,
+    "lng": -99.4546,
+    "cafes": []
+  },
+  "Odin": {
+    "city": "Odin",
+    "city_ascii": "Odin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5654,
+    "lng": -98.6087,
+    "cafes": []
+  },
+  "Narka": {
+    "city": "Narka",
+    "city_ascii": "Narka",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9598,
+    "lng": -97.4268,
+    "cafes": []
+  },
+  "Athol": {
+    "city": "Athol",
+    "city_ascii": "Athol",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7663,
+    "lng": -98.9196,
+    "cafes": []
+  },
+  "Devon": {
+    "city": "Devon",
+    "city_ascii": "Devon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9227,
+    "lng": -94.816,
+    "cafes": []
+  },
+  "Matfield Green": {
+    "city": "Matfield Green",
+    "city_ascii": "Matfield Green",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1596,
+    "lng": -96.5623,
+    "cafes": []
+  },
+  "Saint Benedict": {
+    "city": "Saint Benedict",
+    "city_ascii": "Saint Benedict",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8928,
+    "lng": -96.1029,
+    "cafes": []
+  },
+  "Esbon": {
+    "city": "Esbon",
+    "city_ascii": "Esbon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8219,
+    "lng": -98.4339,
+    "cafes": []
+  },
+  "Roseland": {
+    "city": "Roseland",
+    "city_ascii": "Roseland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2805,
+    "lng": -94.8438,
+    "cafes": []
+  },
+  "Glade": {
+    "city": "Glade",
+    "city_ascii": "Glade",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6837,
+    "lng": -99.3116,
+    "cafes": []
+  },
+  "Levant": {
+    "city": "Levant",
+    "city_ascii": "Levant",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3881,
+    "lng": -101.1948,
+    "cafes": []
+  },
+  "Ringo": {
+    "city": "Ringo",
+    "city_ascii": "Ringo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.5064,
+    "lng": -94.7649,
+    "cafes": []
+  },
+  "Clayton": {
+    "city": "Clayton",
+    "city_ascii": "Clayton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7369,
+    "lng": -100.1765,
+    "cafes": []
+  },
+  "Belpre": {
+    "city": "Belpre",
+    "city_ascii": "Belpre",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9507,
+    "lng": -99.0998,
+    "cafes": []
+  },
+  "Vermillion": {
+    "city": "Vermillion",
+    "city_ascii": "Vermillion",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7183,
+    "lng": -96.2659,
+    "cafes": []
+  },
+  "Climax": {
+    "city": "Climax",
+    "city_ascii": "Climax",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7191,
+    "lng": -96.224,
+    "cafes": []
+  },
+  "Greenwich": {
+    "city": "Greenwich",
+    "city_ascii": "Greenwich",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7832,
+    "lng": -97.2037,
+    "cafes": []
+  },
+  "Elgin": {
+    "city": "Elgin",
+    "city_ascii": "Elgin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0019,
+    "lng": -96.2806,
+    "cafes": []
+  },
+  "Durham": {
+    "city": "Durham",
+    "city_ascii": "Durham",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4846,
+    "lng": -97.2268,
+    "cafes": []
+  },
+  "Wallace": {
+    "city": "Wallace",
+    "city_ascii": "Wallace",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9127,
+    "lng": -101.593,
+    "cafes": []
+  },
+  "Codell": {
+    "city": "Codell",
+    "city_ascii": "Codell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1954,
+    "lng": -99.1702,
+    "cafes": []
+  },
+  "Coolidge": {
+    "city": "Coolidge",
+    "city_ascii": "Coolidge",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0415,
+    "lng": -102.0078,
+    "cafes": []
+  },
+  "Hallowell": {
+    "city": "Hallowell",
+    "city_ascii": "Hallowell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1733,
+    "lng": -95.0027,
+    "cafes": []
+  },
+  "Vining": {
+    "city": "Vining",
+    "city_ascii": "Vining",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5674,
+    "lng": -97.2937,
+    "cafes": []
+  },
+  "Windom": {
+    "city": "Windom",
+    "city_ascii": "Windom",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3841,
+    "lng": -97.9102,
+    "cafes": []
+  },
+  "Nashville": {
+    "city": "Nashville",
+    "city_ascii": "Nashville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4384,
+    "lng": -98.4227,
+    "cafes": []
+  },
+  "Lafontaine": {
+    "city": "Lafontaine",
+    "city_ascii": "Lafontaine",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.4004,
+    "lng": -95.843,
+    "cafes": []
+  },
+  "Kickapoo Site 7": {
+    "city": "Kickapoo Site 7",
+    "city_ascii": "Kickapoo Site 7",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6895,
+    "lng": -95.6713,
+    "cafes": []
+  },
+  "Dresden": {
+    "city": "Dresden",
+    "city_ascii": "Dresden",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6228,
+    "lng": -100.4191,
+    "cafes": []
+  },
+  "Leona": {
+    "city": "Leona",
+    "city_ascii": "Leona",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7861,
+    "lng": -95.3214,
+    "cafes": []
+  },
+  "Lost Springs": {
+    "city": "Lost Springs",
+    "city_ascii": "Lost Springs",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5665,
+    "lng": -96.9658,
+    "cafes": []
+  },
+  "Elsmore": {
+    "city": "Elsmore",
+    "city_ascii": "Elsmore",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7941,
+    "lng": -95.15,
+    "cafes": []
+  },
+  "Furley": {
+    "city": "Furley",
+    "city_ascii": "Furley",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8801,
+    "lng": -97.2119,
+    "cafes": []
+  },
+  "Timken": {
+    "city": "Timken",
+    "city_ascii": "Timken",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4732,
+    "lng": -99.1779,
+    "cafes": []
+  },
+  "Severance": {
+    "city": "Severance",
+    "city_ascii": "Severance",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7668,
+    "lng": -95.2492,
+    "cafes": []
+  },
+  "Bushong": {
+    "city": "Bushong",
+    "city_ascii": "Bushong",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6428,
+    "lng": -96.2567,
+    "cafes": []
+  },
+  "Longford": {
+    "city": "Longford",
+    "city_ascii": "Longford",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1721,
+    "lng": -97.329,
+    "cafes": []
+  },
+  "Wright": {
+    "city": "Wright",
+    "city_ascii": "Wright",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7753,
+    "lng": -99.8905,
+    "cafes": []
+  },
+  "Newbury": {
+    "city": "Newbury",
+    "city_ascii": "Newbury",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0846,
+    "lng": -96.174,
+    "cafes": []
+  },
+  "Sycamore": {
+    "city": "Sycamore",
+    "city_ascii": "Sycamore",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3247,
+    "lng": -95.7153,
+    "cafes": []
+  },
+  "Somerset": {
+    "city": "Somerset",
+    "city_ascii": "Somerset",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6058,
+    "lng": -94.7779,
+    "cafes": []
+  },
+  "Yoder": {
+    "city": "Yoder",
+    "city_ascii": "Yoder",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9455,
+    "lng": -97.8682,
+    "cafes": []
+  },
+  "Williamstown": {
+    "city": "Williamstown",
+    "city_ascii": "Williamstown",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.0642,
+    "lng": -95.3324,
+    "cafes": []
+  },
+  "Mahaska": {
+    "city": "Mahaska",
+    "city_ascii": "Mahaska",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9873,
+    "lng": -97.3537,
+    "cafes": []
+  },
+  "Beaumont": {
+    "city": "Beaumont",
+    "city_ascii": "Beaumont",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6565,
+    "lng": -96.5316,
+    "cafes": []
+  },
+  "Willis": {
+    "city": "Willis",
+    "city_ascii": "Willis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7226,
+    "lng": -95.5058,
+    "cafes": []
+  },
+  "Frederick": {
+    "city": "Frederick",
+    "city_ascii": "Frederick",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5127,
+    "lng": -98.2673,
+    "cafes": []
+  },
+  "Elmdale": {
+    "city": "Elmdale",
+    "city_ascii": "Elmdale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3732,
+    "lng": -96.6456,
+    "cafes": []
+  },
+  "Murdock": {
+    "city": "Murdock",
+    "city_ascii": "Murdock",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6111,
+    "lng": -97.9316,
+    "cafes": []
+  },
+  "Neal": {
+    "city": "Neal",
+    "city_ascii": "Neal",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8337,
+    "lng": -96.0809,
+    "cafes": []
+  },
+  "Sun City": {
+    "city": "Sun City",
+    "city_ascii": "Sun City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3785,
+    "lng": -98.9166,
+    "cafes": []
+  },
+  "Piedmont": {
+    "city": "Piedmont",
+    "city_ascii": "Piedmont",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6206,
+    "lng": -96.3708,
+    "cafes": []
+  },
+  "Bluff City": {
+    "city": "Bluff City",
+    "city_ascii": "Bluff City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0761,
+    "lng": -97.8747,
+    "cafes": []
+  },
+  "Wilmore": {
+    "city": "Wilmore",
+    "city_ascii": "Wilmore",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.335,
+    "lng": -99.2102,
+    "cafes": []
+  },
+  "Silverdale": {
+    "city": "Silverdale",
+    "city_ascii": "Silverdale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0424,
+    "lng": -96.9018,
+    "cafes": []
+  },
+  "Paradise": {
+    "city": "Paradise",
+    "city_ascii": "Paradise",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1145,
+    "lng": -98.9184,
+    "cafes": []
+  },
+  "Lone Elm": {
+    "city": "Lone Elm",
+    "city_ascii": "Lone Elm",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0796,
+    "lng": -95.243,
+    "cafes": []
+  },
+  "Menlo": {
+    "city": "Menlo",
+    "city_ascii": "Menlo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3561,
+    "lng": -100.7242,
+    "cafes": []
+  },
+  "Edmond": {
+    "city": "Edmond",
+    "city_ascii": "Edmond",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6272,
+    "lng": -99.8199,
+    "cafes": []
+  },
+  "Huron": {
+    "city": "Huron",
+    "city_ascii": "Huron",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6384,
+    "lng": -95.3512,
+    "cafes": []
+  },
+  "Langdon": {
+    "city": "Langdon",
+    "city_ascii": "Langdon",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8532,
+    "lng": -98.324,
+    "cafes": []
+  },
+  "Alexander": {
+    "city": "Alexander",
+    "city_ascii": "Alexander",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4695,
+    "lng": -99.553,
+    "cafes": []
+  },
+  "Aurora": {
+    "city": "Aurora",
+    "city_ascii": "Aurora",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.452,
+    "lng": -97.53,
+    "cafes": []
+  },
+  "Bridgeport": {
+    "city": "Bridgeport",
+    "city_ascii": "Bridgeport",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6272,
+    "lng": -97.614,
+    "cafes": []
+  },
+  "Idana": {
+    "city": "Idana",
+    "city_ascii": "Idana",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3595,
+    "lng": -97.2662,
+    "cafes": []
+  },
+  "Danville": {
+    "city": "Danville",
+    "city_ascii": "Danville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.286,
+    "lng": -97.8921,
+    "cafes": []
+  },
+  "Susank": {
+    "city": "Susank",
+    "city_ascii": "Susank",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6407,
+    "lng": -98.7745,
+    "cafes": []
+  },
+  "Pilsen": {
+    "city": "Pilsen",
+    "city_ascii": "Pilsen",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4711,
+    "lng": -97.0389,
+    "cafes": []
+  },
+  "Burdick": {
+    "city": "Burdick",
+    "city_ascii": "Burdick",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5589,
+    "lng": -96.8472,
+    "cafes": []
+  },
+  "Russell Springs": {
+    "city": "Russell Springs",
+    "city_ascii": "Russell Springs",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9128,
+    "lng": -101.1757,
+    "cafes": []
+  },
+  "Virgil": {
+    "city": "Virgil",
+    "city_ascii": "Virgil",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9807,
+    "lng": -96.0116,
+    "cafes": []
+  },
+  "Garland": {
+    "city": "Garland",
+    "city_ascii": "Garland",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7305,
+    "lng": -94.6244,
+    "cafes": []
+  },
+  "New Salem": {
+    "city": "New Salem",
+    "city_ascii": "New Salem",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3143,
+    "lng": -96.8897,
+    "cafes": []
+  },
+  "Webber": {
+    "city": "Webber",
+    "city_ascii": "Webber",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9344,
+    "lng": -98.0351,
+    "cafes": []
+  },
+  "Labette": {
+    "city": "Labette",
+    "city_ascii": "Labette",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.23,
+    "lng": -95.1836,
+    "cafes": []
+  },
+  "Galatia": {
+    "city": "Galatia",
+    "city_ascii": "Galatia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6411,
+    "lng": -98.9578,
+    "cafes": []
+  },
+  "Speed": {
+    "city": "Speed",
+    "city_ascii": "Speed",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6764,
+    "lng": -99.4209,
+    "cafes": []
+  },
+  "Waldo": {
+    "city": "Waldo",
+    "city_ascii": "Waldo",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.12,
+    "lng": -98.7983,
+    "cafes": []
+  },
+  "Dunlap": {
+    "city": "Dunlap",
+    "city_ascii": "Dunlap",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5763,
+    "lng": -96.3676,
+    "cafes": []
+  },
+  "Bavaria": {
+    "city": "Bavaria",
+    "city_ascii": "Bavaria",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7955,
+    "lng": -97.7548,
+    "cafes": []
+  },
+  "Hamlin": {
+    "city": "Hamlin",
+    "city_ascii": "Hamlin",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9156,
+    "lng": -95.6275,
+    "cafes": []
+  },
+  "Zeandale": {
+    "city": "Zeandale",
+    "city_ascii": "Zeandale",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1627,
+    "lng": -96.4279,
+    "cafes": []
+  },
+  "Bassett": {
+    "city": "Bassett",
+    "city_ascii": "Bassett",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.9063,
+    "lng": -95.4076,
+    "cafes": []
+  },
+  "Scottsville": {
+    "city": "Scottsville",
+    "city_ascii": "Scottsville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5426,
+    "lng": -97.9523,
+    "cafes": []
+  },
+  "Richfield": {
+    "city": "Richfield",
+    "city_ascii": "Richfield",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.2653,
+    "lng": -101.7828,
+    "cafes": []
+  },
+  "Carlton": {
+    "city": "Carlton",
+    "city_ascii": "Carlton",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6866,
+    "lng": -97.2931,
+    "cafes": []
+  },
+  "Kickapoo Site 2": {
+    "city": "Kickapoo Site 2",
+    "city_ascii": "Kickapoo Site 2",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7029,
+    "lng": -95.6495,
+    "cafes": []
+  },
+  "Urbana": {
+    "city": "Urbana",
+    "city_ascii": "Urbana",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.558,
+    "lng": -95.3999,
+    "cafes": []
+  },
+  "Brownell": {
+    "city": "Brownell",
+    "city_ascii": "Brownell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6406,
+    "lng": -99.7443,
+    "cafes": []
+  },
+  "South Mound": {
+    "city": "South Mound",
+    "city_ascii": "South Mound",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.435,
+    "lng": -95.2245,
+    "cafes": []
+  },
+  "Eastshore": {
+    "city": "Eastshore",
+    "city_ascii": "Eastshore",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3839,
+    "lng": -97.0682,
+    "cafes": []
+  },
+  "Bucyrus": {
+    "city": "Bucyrus",
+    "city_ascii": "Bucyrus",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.7237,
+    "lng": -94.714,
+    "cafes": []
+  },
+  "Hollenberg": {
+    "city": "Hollenberg",
+    "city_ascii": "Hollenberg",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.981,
+    "lng": -96.9917,
+    "cafes": []
+  },
+  "Marienthal": {
+    "city": "Marienthal",
+    "city_ascii": "Marienthal",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.4891,
+    "lng": -101.22,
+    "cafes": []
+  },
+  "Ludell": {
+    "city": "Ludell",
+    "city_ascii": "Ludell",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8566,
+    "lng": -100.9583,
+    "cafes": []
+  },
+  "Oak Hill": {
+    "city": "Oak Hill",
+    "city_ascii": "Oak Hill",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.2466,
+    "lng": -97.3428,
+    "cafes": []
+  },
+  "Beaver": {
+    "city": "Beaver",
+    "city_ascii": "Beaver",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.6379,
+    "lng": -98.6736,
+    "cafes": []
+  },
+  "Radium": {
+    "city": "Radium",
+    "city_ascii": "Radium",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.1738,
+    "lng": -98.8944,
+    "cafes": []
+  },
+  "Waldron": {
+    "city": "Waldron",
+    "city_ascii": "Waldron",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.0018,
+    "lng": -98.1825,
+    "cafes": []
+  },
+  "Ogallah": {
+    "city": "Ogallah",
+    "city_ascii": "Ogallah",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.9946,
+    "lng": -99.7326,
+    "cafes": []
+  },
+  "Opolis": {
+    "city": "Opolis",
+    "city_ascii": "Opolis",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3449,
+    "lng": -94.6245,
+    "cafes": []
+  },
+  "Harris": {
+    "city": "Harris",
+    "city_ascii": "Harris",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3206,
+    "lng": -95.445,
+    "cafes": []
+  },
+  "Byers": {
+    "city": "Byers",
+    "city_ascii": "Byers",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7879,
+    "lng": -98.8671,
+    "cafes": []
+  },
+  "Woodruff": {
+    "city": "Woodruff",
+    "city_ascii": "Woodruff",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.9876,
+    "lng": -99.4316,
+    "cafes": []
+  },
+  "Cedar Point": {
+    "city": "Cedar Point",
+    "city_ascii": "Cedar Point",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.26,
+    "lng": -96.8225,
+    "cafes": []
+  },
+  "Roxbury": {
+    "city": "Roxbury",
+    "city_ascii": "Roxbury",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.5511,
+    "lng": -97.4274,
+    "cafes": []
+  },
+  "Cedar": {
+    "city": "Cedar",
+    "city_ascii": "Cedar",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6571,
+    "lng": -98.9402,
+    "cafes": []
+  },
+  "Mildred": {
+    "city": "Mildred",
+    "city_ascii": "Mildred",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.0235,
+    "lng": -95.1717,
+    "cafes": []
+  },
+  "Norway": {
+    "city": "Norway",
+    "city_ascii": "Norway",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6965,
+    "lng": -97.7738,
+    "cafes": []
+  },
+  "Edson": {
+    "city": "Edson",
+    "city_ascii": "Edson",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.335,
+    "lng": -101.5495,
+    "cafes": []
+  },
+  "Penalosa": {
+    "city": "Penalosa",
+    "city_ascii": "Penalosa",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.7156,
+    "lng": -98.3202,
+    "cafes": []
+  },
+  "Kelly": {
+    "city": "Kelly",
+    "city_ascii": "Kelly",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.7368,
+    "lng": -96.0008,
+    "cafes": []
+  },
+  "Ionia": {
+    "city": "Ionia",
+    "city_ascii": "Ionia",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6626,
+    "lng": -98.3439,
+    "cafes": []
+  },
+  "Asherville": {
+    "city": "Asherville",
+    "city_ascii": "Asherville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.4076,
+    "lng": -97.9733,
+    "cafes": []
+  },
+  "Shallow Water": {
+    "city": "Shallow Water",
+    "city_ascii": "Shallow Water",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.3738,
+    "lng": -100.9104,
+    "cafes": []
+  },
+  "Ames": {
+    "city": "Ames",
+    "city_ascii": "Ames",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.5689,
+    "lng": -97.451,
+    "cafes": []
+  },
+  "Wells": {
+    "city": "Wells",
+    "city_ascii": "Wells",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.1391,
+    "lng": -97.5512,
+    "cafes": []
+  },
+  "Centerville": {
+    "city": "Centerville",
+    "city_ascii": "Centerville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.2287,
+    "lng": -95.0148,
+    "cafes": []
+  },
+  "Nicodemus": {
+    "city": "Nicodemus",
+    "city_ascii": "Nicodemus",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3862,
+    "lng": -99.6135,
+    "cafes": []
+  },
+  "Wayside": {
+    "city": "Wayside",
+    "city_ascii": "Wayside",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.1259,
+    "lng": -95.8696,
+    "cafes": []
+  },
+  "Bala": {
+    "city": "Bala",
+    "city_ascii": "Bala",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.3108,
+    "lng": -96.9504,
+    "cafes": []
+  },
+  "Pierceville": {
+    "city": "Pierceville",
+    "city_ascii": "Pierceville",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.8824,
+    "lng": -100.6768,
+    "cafes": []
+  },
+  "Lake City": {
+    "city": "Lake City",
+    "city_ascii": "Lake City",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.3569,
+    "lng": -98.8279,
+    "cafes": []
+  },
+  "Mont Ida": {
+    "city": "Mont Ida",
+    "city_ascii": "Mont Ida",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 38.217,
+    "lng": -95.3658,
+    "cafes": []
+  },
+  "Herkimer": {
+    "city": "Herkimer",
+    "city_ascii": "Herkimer",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.8924,
+    "lng": -96.709,
+    "cafes": []
+  },
+  "Kickapoo Site 6": {
+    "city": "Kickapoo Site 6",
+    "city_ascii": "Kickapoo Site 6",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 39.6917,
+    "lng": -95.6905,
+    "cafes": []
+  }
+}

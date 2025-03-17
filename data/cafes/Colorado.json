@@ -1,0 +1,4720 @@
+{
+  "Colorado Springs": {
+    "city": "Colorado Springs",
+    "city_ascii": "Colorado Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8674,
+    "lng": -104.7605,
+    "cafes": [
+      {
+        "name": "Comfort & Joy Cat Cafe",
+        "address": "615 S Nevada Ave, Colorado Springs, CO 80904, USA",
+        "rating": 4.8,
+        "user_ratings_total": 38,
+        "website": "https://comfortandjoycatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=5899555832183502745",
+        "lat": 38.8248284,
+        "lng": -104.8218017,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Kae K",
+            "rating": 5,
+            "text": {
+              "text": "Lovely cats AND wonderful staff. We got to meet sunny, dan, louie, gypsy, moo, and ruby. It was nap time so the cats were very chill, and it was so sweet to be able to pet them while they slept. They would curl towards our hands or come and hang out next to us if we sat on the couch. A great place to hang out and get to know cats before adopting.",
+              "languageCode": "en"
+            },
+            "time": "2 weeks ago"
+          },
+          {
+            "author": "Shanice",
+            "rating": 5,
+            "text": {
+              "text": "Best little cat cafe in town! Anywhere we go, me and my family like to support the local cats. Going to this cat cafe not only do you get some time with the kitties but you are also helping feed and rescue local cats that need homes. The two attendants we met today were so attentive and kind. We will definitely return",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          },
+          {
+            "author": "Sam Wilson",
+            "rating": 5,
+            "text": {
+              "text": "A beautiful cafe with dedicated and kind staff. They are doing great work at the Comfort & Joy Cat Cafe! So far since opening in September of 2024, they have already adopted out 21 kitties!",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ3_GFIfodA-vTt-a0vHMQgheR3eWHoyc_8jcBNyl5N0B7vAU0tGoOk5Nwkd_NtU4UC-XXaaKaCHprzORf2QGVYZ1DcoG7SIRX3fDReNl4Zx-mNSpRNJ_pyal8-pjn885xinXNmf_KwpSW1MZVjSMCLH3jE1PL94KWn8ThGGlqfKKT4mGqTyIL44r74MVhBn7OaLQ0aH5gazM2GRB5uoUDFdn7C-uLhzb_dJTspwlGPWsgdQhWyu2ihCfnDaOP2Ts9PnkFwB9faKf8W6FfjcIlGZ85TnaVW-kHgQ8bdOB-mXew&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "The Biscuit Factory Cat Lounge",
+        "address": "12 S 25th St, Colorado Springs, CO 80904, USA",
+        "rating": 4.9,
+        "user_ratings_total": 310,
+        "website": "https://www.biscuitfactorycat.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=16735622529378545247",
+        "lat": 38.8476011,
+        "lng": -104.86248409999999,
+        "accessibility_options": "N/A",
+        "reviews": [
+          {
+            "author": "Maxx D",
+            "rating": 5,
+            "text": {
+              "text": "I love coming to the Biscuit Factory and spending time hanging out with the cats in a beautiful Old Colorado City building. It’s $11 per hour and you get a soft drink, coffee or tea with admission. It’s hard to not fall in love with every cat that comes through here. There are plenty of toys to play with the cats, or have a sleepy cat just come take a nap on your lap or enjoy being held in your arms if you’re lucky enough! I can see every cat here is  very loved and taken care of. This is a wonderful hang out for cat lovers.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Jo “Avary” Ben-Simon",
+            "rating": 4,
+            "text": {
+              "text": "Adorable place and relaxing spot to relax for $11 entry fee per person (including kids). It's not a \"cafe\" though as you would expect especially if you've been to ones in places like Japan. It's more akin to an interactive cat adoption center that allows you to just hang out with the cats for a fee. Can't really dine in and order real food 🤔\n\nCats are well taken care of and it's a perfect place to pick a new friend to adopt if you're looking for a new feline companion 🐈‍⬛️",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "KL G",
+            "rating": 5,
+            "text": {
+              "text": "Loved it! The cats were all entertaining and so sweet. Cute, calm and relaxing atmosphere. It was $11 to get in for one hour. I do wish they had more drink choices or maybe a nice self serve type area with bigger selection. But I’ll definitely be back to enjoy sweet kitty time!",
+              "languageCode": "en"
+            },
+            "time": "7 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ20H9l6dYDMLMiOk5z7yme8jDOGhXKOTPhuFrMR1F38nVn2VOYU_fUC5oasYFXJDUqd5ip5xOjGfJ0B3mTdaDzw2PjIzsMpgUsWOd1xaF41ifuyMHfuYrCFnrRMsA00mjv5_HMAUEY6-SYrPGB3ioYjMiINPPM79M2qfxqKK9QcEAQvH4lYuWwHH-ToB0EVc4sGwbFZ_0zwbDBn6vQF36m1RHZ8BSDT6j26O5R6HdF7MP4HU7CfCnOMB2MMOHFYTx_aeu4RONpNGC20pM1Xh3xwvKDOE-tMLlg7VVyrYKFUhQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "the bashful cat",
+        "address": "615 Maple St, Colorado Springs, CO 80903, USA",
+        "rating": "N/A",
+        "user_ratings_total": 0,
+        "website": "https://www.etsy.com/shop/SocialdilemmaStudio?ref=profile_header",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=18221830124672570432",
+        "lat": 38.8439857,
+        "lng": -104.8142283,
+        "accessibility_options": "N/A",
+        "reviews": [],
+        "photoUri": "https://maps.google.com/?cid=18221830124672570432&output=embed"
+      }
+    ]
+  },
+  "Denver": {
+    "city": "Denver",
+    "city_ascii": "Denver",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.762,
+    "lng": -104.8758,
+    "cafes": [
+      {
+        "name": "Teddy Cat Cafe",
+        "address": "39 E Florida Ave, Denver, CO 80210, USA",
+        "rating": 4.8,
+        "user_ratings_total": 196,
+        "website": "http://www.teddycatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=16056771552341515331",
+        "lat": 39.689555,
+        "lng": -104.9867888,
+        "accessibility_options": {
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Hope Lutteringer",
+            "rating": 5,
+            "text": {
+              "text": "I’ve been to quite a few cat cafes all over the states, and Teddy Cat is by far the cleanest and most welcoming one I’ve been to. It’s a must visit if you’re an animal lover in Denver and beyond! You can tell how much the owner/staff cares about the well-being of each cat that comes in, and they work really hard to find the best homes for each one. There’s also tons of unique merch that makes great stocking stuffers and gifts!\n\nThere’s no doubt that each kitty is truly loved here which is the most important thing :) can’t recommend enough!",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          },
+          {
+            "author": "Kaleb Talbot",
+            "rating": 5,
+            "text": {
+              "text": "Teddy Cat Cafe is a great owner operated cat café! We got to spend time with adorable cats ranging from kittens to seniors—we loved it. The atmosphere was inviting and cozy—aided by great conversation and coffee. They have a wide selection of merch, of which I went overboard on—but that’s on me. Awesome place, recommend it to anyone—local and visitors\nalike.",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Amanda Freeman",
+            "rating": 5,
+            "text": {
+              "text": "Everything about this place is amazing!! It was my first time at a Cat Cafe, and another cat-loving friend took me as my birthday date. You go in and pay for a playdate with all the kitties, and you get a complimentary serve-yourself coffee or tea while you are there. There are some rules, and they are all absolutely reasonable. TONS of goodies to look at while you pet and play. I wasn't there to adopt, but of course many visitors are there to find a furry forever friend.",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2kz_ySSNFI2tEzB2ZtMN7HoV0simXnSuu0qptD7MoIcDNKqdRCPJlMYaax9_xRYLCOOY1BQdeQ99HSzPvV5Ov9SDusvPjNql1gGInGMma9MsC3T6IV2WQRekyTa3uV-kff_9KqCXuO9OwNc9NZdiM73U0yLkuzgJ4oHeSiPq2DyQxtFvBDQqKwrgHzIRwoHGWxXC9amdKBCKl0wv2djrkaHJD7Rmnm4XvqqoEW3Mw4Iug7wirnMCkM36HHKoHnrTVtPWcx5U6cVYd0sEFeNIC2cAGZsqUeBsyF8L_x1cRcPlHrGWnxI2G33UgTP4iEue6PCGeTsedl1WLyTEEw0ejbGi9GF4AHSwJ5uF2W5w5-kiROmleG8jBL69SN564Jvfx3Nmxcgb0fwE9EdNJD2U5jfyY4ebE6-tgS&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Denver Cat Company",
+        "address": "3929 Tennyson St, Denver, CO 80212, USA",
+        "rating": 4.6,
+        "user_ratings_total": 1428,
+        "website": "http://www.denvercatco.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=8305575818792864113",
+        "lat": 39.771734699999996,
+        "lng": -105.04414860000001,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true
+        },
+        "reviews": [
+          {
+            "author": "Autumn Marie",
+            "rating": 5,
+            "text": {
+              "text": "Yes, it takes time for the cats to come up to you, but remember, you are a STRANGER in their space. The cats were lovely and fun to be around. The cafe was quiet and clean.  Props to the employees educating kids on how to properly interact with the kitties.",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          },
+          {
+            "author": "Mariah Salazar",
+            "rating": 5,
+            "text": {
+              "text": "HIGHLY recommend for anyone needing a “Pick me up”. My 11 y/o has been asking to go and today was the perfect gloomy day for cuddles. It was just us in there for a good hour and ALL of the cats were curious and playful! Drinks are available as well as many cat goodies. Lots of cat games to play. We decided to make it a monthly stop until we are ready for a third cat!",
+              "languageCode": "en"
+            },
+            "time": "a month ago"
+          },
+          {
+            "author": "Marcie Walker",
+            "rating": 5,
+            "text": {
+              "text": "We had the best time at the Halloween pumpkin carving event! The staff was so friendly and the kittens were adorable. As a couple with no kids, our favorite time to hang at the cafe is weekdays after 5pm — it’s super quiet so you get more play time with the cats 🐈",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0UPdE1Im6VyepIh0mVd2cz8aWZ3kc_ufXTobw3Z75fSwJk1ncpyWwihYlAq1mndl6HdB-eQ_uQ4UYWUZSgHfO1SYz6Z-LLIIsWw9RtpqQwJRmpQvjqlHQSsc4sIjGeI5y7q2I34ZLlLWezs7scR-qQ29hTg5Z54Ciy86x5oJtlnuoStA-IwABNJHhQhOOCMxnwekpBHbSVFNVSeG-6vG0drBHd1G9fjd2ClFkNxucHRJyr5PqC9LU2zLE5Y44rgdn_svEv2tDBVEQVD6I5Xx3yMUgvSF5JdmkGczxMFzelrw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      },
+      {
+        "name": "Roostercat Coffee House",
+        "address": "1045 Lincoln St, Denver, CO 80203, USA",
+        "rating": 4.5,
+        "user_ratings_total": 941,
+        "website": "http://www.roostercatdenver.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=18445584117037481040",
+        "lat": 39.7329286,
+        "lng": -104.98654379999999,
+        "accessibility_options": {
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Alex Michael",
+            "rating": 5,
+            "text": {
+              "text": "Quick trip to Denver, staying in a downtown hotel. Wanted coffee, found Roostercat and off I went.\n\nFirst, the walk to it was nothing but epic, taking me by the capital and so many beautiful museums and more. Just the atmosphere of my short journey here was well worth it.\n\nThe atmosphere at Roostercat was spot on as well. Loved the outdoor fireplace, a perfect place for stores apparently. 😁 The music setting the ideal ambience. And the artwork just perfect for a shop like this.\n\nLoved my ice latte and would drink it again and again.\n\nGreat stop whether coming from downtown or just looking for good coffee. The rest of the menu looked yummy as well. Awesome vibe overall!",
+              "languageCode": "en"
+            },
+            "time": "10 months ago"
+          },
+          {
+            "author": "Brittany Marvin",
+            "rating": 5,
+            "text": {
+              "text": "The local oatmilk they have here is absolutely delicious, definitely worth the extra price. The atmosphere and ambiance is so chill and relaxed. I was able to get so much writing done and felt so welcomed by the staff. Will definitely be returning!",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          },
+          {
+            "author": "Mallory",
+            "rating": 5,
+            "text": {
+              "text": "I LOVED it here. The atmosphere is exactly what I'm always looking for in cafes. The coffee was great - I went out on a limb and got the monkey fist latte (which has banana) and it was so so good. Also, they had a vegan burrito which was great also. This cafe also sells art prints and some thrifted clothes which is great. There's plenty of seating as well. Overall, this is one of the best cafes I've been to !",
+              "languageCode": "en"
+            },
+            "time": "a year ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ2DLV8JP7O7-N0wfh2wp9e5hXiol776lUZtqgFr3i2H1deuONBJKYfgsNYxpm5zncuo5wQIZ9G1ZMn-HuL0MSBphyfnnEqWrCTGN7OQZVm8EVwh4CbjRg16w7Td8V7Q7QxBj-tNWu0TdpJDOZZdCsXJjk30vf1kHXaJdMtBFL9ZrYauC_DzkZ9kHJ6I2ahXe-TMEIgnknTSeaAv4sAID-oDaj4eb-4S66HoY6ivUfyf9NUyfnRKYmODeqbADx4cKhXMTm8DLBMfhWX_3QWbRacv9uq-WFTBMdNUNxG2aKR2Og&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Loveland": {
+    "city": "Loveland",
+    "city_ascii": "Loveland",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.4166,
+    "lng": -105.0623,
+    "cafes": [
+      {
+        "name": "NoCo Cat Cafe",
+        "address": "121 E 5th St, Loveland, CO 80537, USA",
+        "rating": 4.8,
+        "user_ratings_total": 209,
+        "website": "https://nococatcafe.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=14205092581092547674",
+        "lat": 40.396656,
+        "lng": -105.07540890000001,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Tia Hildebrandt",
+            "rating": 5,
+            "text": {
+              "text": "You can tell that the cats here are very well cared for and loved by the staff! The staff is very knowledgeable about the cats in their care and shared each cat’s story and name. Overall, it was a really fun way to spend our time in downtown Loveland!",
+              "languageCode": "en"
+            },
+            "time": "a week ago"
+          },
+          {
+            "author": "Elise Brooks",
+            "rating": 5,
+            "text": {
+              "text": "My boyfriend and I were looking to adopt a cat and the Noco cat cafe was the perfect place to meet so many different kitty personalities. We adopted “Tawney” and she has been such a wonderful addition. The folks working and running the facility did such an amazing job and were very helpful in letting us know the names of each cat, and helping put her in the carrier quickly for her travel home with us. They do a great job making sure each cat goes to a safe and loving home. Thank you so much to the cat cafe 🥰",
+              "languageCode": "en"
+            },
+            "time": "4 months ago"
+          },
+          {
+            "author": "Knight Who says Ni",
+            "rating": 5,
+            "text": {
+              "text": "Love the NoCo Cat Cafe, can enjoy a nice beverage and cats.  The owners are great, very friendly and their passion for the felines is unmatched.  Anytime I am in the area, I must stop in with my CSU student daughter.  Thankfully, I have control, or I’d have a dozen cats at home!",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ1hh7tk-Bt5_9arVQElUMBSuspI21uQCqqZHkHYaEFJhxym7_ToxjL5g70OvcpqjK6jNxfHGyRpnugTlWaYNe90sOSCFaqWy4Lp0VI7TX4VZqDazq_vDXKMk_1TGSvASjTB8Ubvntm2Y9yBDUXAz2E0hOvRtMKzARsicsXoePXysdthLekGbDxasu-4NRzITEasjnzFX-U5_9Homm7ZDTBkWW53H5e8C3iwlIgs0RjcHbuyQY1y4ZZt3uNwgbxf_sOJffwOUwonfb8RQZVgDXZCB28siFh33EzES08BUg-gpGryUVPxUzMiOoDG8VTI8U34hLMvNAnlxXffTud0fr85AJfv6pvnUcB2rrm8_uUnfk9aDM8A9XrBFipkLNzLAz5V144pkcxz-_r2HlC15LIjkIArHTYx&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Boulder": {
+    "city": "Boulder",
+    "city_ascii": "Boulder",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0248,
+    "lng": -105.2524,
+    "cafes": [
+      {
+        "name": "Purrfect Pause Cat Cafe",
+        "address": "5290 Arapahoe Ave Unit E, Boulder, CO 80303, USA",
+        "rating": 4.3,
+        "user_ratings_total": 64,
+        "website": "https://www.purrfectpause.com/",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=1983153921029764667",
+        "lat": 40.0141177,
+        "lng": -105.2298146,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true,
+          "wheelchairAccessibleEntrance": true,
+          "wheelchairAccessibleRestroom": true,
+          "wheelchairAccessibleSeating": true
+        },
+        "reviews": [
+          {
+            "author": "Abbey Rowland",
+            "rating": 5,
+            "text": {
+              "text": "We absolutely love Purrfect pause. Not only are the cats fixed, they have all their vaccinations and are socialized with other cats and people. We adopted this Purrfect little angel and couldn’t be happier. They gave us a little adoption kit and all of the resources to make sure she is happy, healthy, and has a smooth transition. We will definitely be returning to the cat cafe in the future\n.🐾🤍🐾🩶🐾🤍",
+              "languageCode": "en"
+            },
+            "time": "6 months ago"
+          },
+          {
+            "author": "Laurie",
+            "rating": 5,
+            "text": {
+              "text": "I love this place! I’ve been here 3 times now and all three times went perfectly! The staff are very kind and respectful, the cats are very cute (and all mostly up for adoption too!), and just a wonderful place to de-stress for an hour! s(=^•.•^=)♡",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Graydon Hidalgo",
+            "rating": 5,
+            "text": {
+              "text": "The most wonderful cat cafe. The staff are incredibly caring and supportive. Both my cats are from here (from the same foster Mom, Jessica) and both are the best cats in the world. Couldn’t recommend more!",
+              "languageCode": "en"
+            },
+            "time": "2 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ35B_HEUoUz5XtGoyIjXSfieG_yrYDJPL3C9OZque5Cp5OPhbtwShpfzxfJQBl9n1-FW6px_UXDGifOjeMSIRHgSmqPVZC-vv3oY-XmiOQWUJciJFRnUDLvEtyfmPWK4xJuB3qI49B9t9mU68cmVmrsy_nQLCxnnSISu6j5jy0wWCP-KMUhtuvM0IQu3NgSXP7BK4_JhC7gc_3nd7PD2bRu8uCbmTH2j2ocq0Z7yAUFfZXFXeff3-WNC1XAl0RVco2Mxqj7Lb3nY6jKf7MH3Y4wb7fjTzh4xRGGGjnCCxT5HA&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Fort Collins": {
+    "city": "Fort Collins",
+    "city_ascii": "Fort Collins",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.5477,
+    "lng": -105.0656,
+    "cafes": [
+      {
+        "name": "Alleycat Coffee House",
+        "address": "120 1/2 W Laurel St A, Fort Collins, CO 80524, USA",
+        "rating": 4.5,
+        "user_ratings_total": 1623,
+        "website": "http://www.alleycatcoffeehouse.com/",
+        "price_level": "PRICE_LEVEL_INEXPENSIVE",
+        "google_maps_url": "https://maps.google.com/?cid=8120338201259056368",
+        "lat": 40.578713,
+        "lng": -105.07815289999999,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": false,
+          "wheelchairAccessibleEntrance": false,
+          "wheelchairAccessibleRestroom": false,
+          "wheelchairAccessibleSeating": false
+        },
+        "reviews": [
+          {
+            "author": "Julian Ledesma",
+            "rating": 3,
+            "text": {
+              "text": "LOVE the location since it's on the second floor. Seems exclusive and cool. Great service. Great coffee. HORRIBLE playlist playing when we went by. Top 40 stuff from the 90s and 00s.....and it played Michael Jacksons smooth criminal twice within a 20 minute period! There should be college radio playing!!! Independent tunes. Singer/Songwriter stuff....Anything other than what was playing :/",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Paroxysm",
+            "rating": 4,
+            "text": {
+              "text": "Pros: Delicious food and drinks, friendly staff, and great atmosphere.\n\nCons: Food *can* take a very, very long time to come out due to small preparation space and low number of employees. No parking lot, so you have to find street parking.\n\nInfo: This is a very popular spot during the work week, so if you come in during the day M-F, be prepared to wait for seating to open up due to the large number of students that come here between classes. This is a seat-yourself establishment and there is no table service.",
+              "languageCode": "en"
+            },
+            "time": "3 weeks ago"
+          },
+          {
+            "author": "Garrett Mormile",
+            "rating": 4,
+            "text": {
+              "text": "The vibe of this place is incredible but sometimes the music is too loud, especially for studying. I have noise canceling headphones and really dont mind a bit of background noise but they get overpowered by the tunes. Otherwise, amazing! Great selection of tea, food, and the art on display (and for sale) contributes to a fantastic atmosphere.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0-DWbeSxPuBHgFbMaBQUjlVlMS1T8U8S_-mbzuFXDwYTq3Bt5kYyTgAj-0lv4qhLMIDpWURsnOTdi0iEcFdFfVASxmcUH4LAjxTymCO_c-5Bt1mICQXKu51YsBEK0PxrbCndOTmyNL-AK9UjZJcWhrQiJNiQb02_glgCTS7JjtGCWs2HF6QbojN_WQockiRF6sAx_EfvhZ3znmQQ-XZPfDiyaGVbsndwwpmaMthtRC5bmKRAjGm24BFBk0jKGiWevh6XrCT5UjoWFUVTOy2cihZuD8r0mtSFBEKQVcomt2pQ&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Cedaredge": {
+    "city": "Cedaredge",
+    "city_ascii": "Cedaredge",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8941,
+    "lng": -107.9255,
+    "cafes": [
+      {
+        "name": "Cat's on Main",
+        "address": "260 W Main St, Cedaredge, CO 81413, USA",
+        "rating": 4.9,
+        "user_ratings_total": 10,
+        "website": "N/A",
+        "price_level": "N/A",
+        "google_maps_url": "https://maps.google.com/?cid=6875943799844106989",
+        "lat": 38.9008566,
+        "lng": -107.9257088,
+        "accessibility_options": {
+          "wheelchairAccessibleParking": true
+        },
+        "reviews": [
+          {
+            "author": "Katie Elisa",
+            "rating": 5,
+            "text": {
+              "text": "Cat's is a great little coffee shop with many tasty options. Their prices are comparable to other coffee places. The atmosphere is homey and inviting.",
+              "languageCode": "en"
+            },
+            "time": "in the last week"
+          },
+          {
+            "author": "John Walker",
+            "rating": 5,
+            "text": {
+              "text": "A delightful little place with a delightful hostess, exceptional coffee and lots of good munchies including breakfast bagels, muffins and burritos. Most of the store is given to displays of local arts crafts and doodads, and I like the many note cards.",
+              "languageCode": "en"
+            },
+            "time": "5 months ago"
+          },
+          {
+            "author": "Ian Oeser (IO)",
+            "rating": 5,
+            "text": {
+              "text": "Heal local coffee shop with a new friendly owner and wonderful staff.  The sausage breakfast sandwiches with pepper jelly are really good and affordable.",
+              "languageCode": "en"
+            },
+            "time": "3 months ago"
+          }
+        ],
+        "photoUri": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AUy1YQ0ZKtvxdWFDRiN5xNfuDlo4i0gQe1Z4OqMQq7ZMYCdJIEuOytd5BUTkP6MhltLjAfDC_0Dd9snZfoXwmWjHMkX82LtCfPyUtZccLt_8a1egTmaeTf_W5rZhEE_WBdpy54_b8WSlhLC7GVA_TBBQZ2pmsJxTkaXoH17XaAq-YwUuCLS--XjkFQukN7sjphCeQLYrxZGcNhZux8qXWbXXw2eiocmKKIeKSX6upeIfcsvny77cr2su7kcb7pFs7a9IdFE05TpKrHZRa8xsAWnGCRXKhOveVGTv_Cd6GaQgEspJYw&key=AIzaSyA0hpGzherXfW2vtqgNh57s9WXSJEukTb8"
+      }
+    ]
+  },
+  "Aurora": {
+    "city": "Aurora",
+    "city_ascii": "Aurora",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7083,
+    "lng": -104.7237,
+    "cafes": []
+  },
+  "Lakewood": {
+    "city": "Lakewood",
+    "city_ascii": "Lakewood",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6977,
+    "lng": -105.1172,
+    "cafes": []
+  },
+  "Greeley": {
+    "city": "Greeley",
+    "city_ascii": "Greeley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.4152,
+    "lng": -104.7706,
+    "cafes": []
+  },
+  "Thornton": {
+    "city": "Thornton",
+    "city_ascii": "Thornton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9197,
+    "lng": -104.9438,
+    "cafes": []
+  },
+  "Grand Junction": {
+    "city": "Grand Junction",
+    "city_ascii": "Grand Junction",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0877,
+    "lng": -108.5673,
+    "cafes": []
+  },
+  "Arvada": {
+    "city": "Arvada",
+    "city_ascii": "Arvada",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.832,
+    "lng": -105.151,
+    "cafes": []
+  },
+  "Pueblo": {
+    "city": "Pueblo",
+    "city_ascii": "Pueblo",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.2701,
+    "lng": -104.6114,
+    "cafes": []
+  },
+  "Westminster": {
+    "city": "Westminster",
+    "city_ascii": "Westminster",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8837,
+    "lng": -105.0624,
+    "cafes": []
+  },
+  "Centennial": {
+    "city": "Centennial",
+    "city_ascii": "Centennial",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5926,
+    "lng": -104.8673,
+    "cafes": []
+  },
+  "Lafayette": {
+    "city": "Lafayette",
+    "city_ascii": "Lafayette",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9946,
+    "lng": -105.0998,
+    "cafes": []
+  },
+  "Longmont": {
+    "city": "Longmont",
+    "city_ascii": "Longmont",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1686,
+    "lng": -105.1005,
+    "cafes": []
+  },
+  "Highlands Ranch": {
+    "city": "Highlands Ranch",
+    "city_ascii": "Highlands Ranch",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5419,
+    "lng": -104.9708,
+    "cafes": []
+  },
+  "Castle Rock": {
+    "city": "Castle Rock",
+    "city_ascii": "Castle Rock",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3763,
+    "lng": -104.8535,
+    "cafes": []
+  },
+  "Broomfield": {
+    "city": "Broomfield",
+    "city_ascii": "Broomfield",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9542,
+    "lng": -105.0526,
+    "cafes": []
+  },
+  "Commerce City": {
+    "city": "Commerce City",
+    "city_ascii": "Commerce City",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8641,
+    "lng": -104.843,
+    "cafes": []
+  },
+  "Parker": {
+    "city": "Parker",
+    "city_ascii": "Parker",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5084,
+    "lng": -104.7753,
+    "cafes": []
+  },
+  "Littleton": {
+    "city": "Littleton",
+    "city_ascii": "Littleton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5915,
+    "lng": -105.0188,
+    "cafes": []
+  },
+  "Brighton": {
+    "city": "Brighton",
+    "city_ascii": "Brighton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9716,
+    "lng": -104.7963,
+    "cafes": []
+  },
+  "Security-Widefield": {
+    "city": "Security-Widefield",
+    "city_ascii": "Security-Widefield",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7489,
+    "lng": -104.7142,
+    "cafes": []
+  },
+  "Northglenn": {
+    "city": "Northglenn",
+    "city_ascii": "Northglenn",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9108,
+    "lng": -104.9783,
+    "cafes": []
+  },
+  "Windsor": {
+    "city": "Windsor",
+    "city_ascii": "Windsor",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.469,
+    "lng": -104.9198,
+    "cafes": []
+  },
+  "Pueblo West": {
+    "city": "Pueblo West",
+    "city_ascii": "Pueblo West",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.3465,
+    "lng": -104.7246,
+    "cafes": []
+  },
+  "Dakota Ridge": {
+    "city": "Dakota Ridge",
+    "city_ascii": "Dakota Ridge",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6192,
+    "lng": -105.1344,
+    "cafes": []
+  },
+  "Englewood": {
+    "city": "Englewood",
+    "city_ascii": "Englewood",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6468,
+    "lng": -104.9942,
+    "cafes": []
+  },
+  "Ken Caryl": {
+    "city": "Ken Caryl",
+    "city_ascii": "Ken Caryl",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.577,
+    "lng": -105.1144,
+    "cafes": []
+  },
+  "Wheat Ridge": {
+    "city": "Wheat Ridge",
+    "city_ascii": "Wheat Ridge",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7728,
+    "lng": -105.1028,
+    "cafes": []
+  },
+  "Erie": {
+    "city": "Erie",
+    "city_ascii": "Erie",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0404,
+    "lng": -105.0399,
+    "cafes": []
+  },
+  "Fountain": {
+    "city": "Fountain",
+    "city_ascii": "Fountain",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.6886,
+    "lng": -104.6829,
+    "cafes": []
+  },
+  "Columbine": {
+    "city": "Columbine",
+    "city_ascii": "Columbine",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5879,
+    "lng": -105.0694,
+    "cafes": []
+  },
+  "Evans": {
+    "city": "Evans",
+    "city_ascii": "Evans",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.366,
+    "lng": -104.739,
+    "cafes": []
+  },
+  "Four Square Mile": {
+    "city": "Four Square Mile",
+    "city_ascii": "Four Square Mile",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6808,
+    "lng": -104.888,
+    "cafes": []
+  },
+  "Louisville": {
+    "city": "Louisville",
+    "city_ascii": "Louisville",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.971,
+    "lng": -105.1441,
+    "cafes": []
+  },
+  "Montrose": {
+    "city": "Montrose",
+    "city_ascii": "Montrose",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4689,
+    "lng": -107.859,
+    "cafes": []
+  },
+  "Golden": {
+    "city": "Golden",
+    "city_ascii": "Golden",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7406,
+    "lng": -105.2118,
+    "cafes": []
+  },
+  "Clifton": {
+    "city": "Clifton",
+    "city_ascii": "Clifton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0764,
+    "lng": -108.4605,
+    "cafes": []
+  },
+  "Sherrelwood": {
+    "city": "Sherrelwood",
+    "city_ascii": "Sherrelwood",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.839,
+    "lng": -105.0014,
+    "cafes": []
+  },
+  "Durango": {
+    "city": "Durango",
+    "city_ascii": "Durango",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.2659,
+    "lng": -107.8781,
+    "cafes": []
+  },
+  "Cimarron Hills": {
+    "city": "Cimarron Hills",
+    "city_ascii": "Cimarron Hills",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8597,
+    "lng": -104.6995,
+    "cafes": []
+  },
+  "Fort Carson": {
+    "city": "Fort Carson",
+    "city_ascii": "Fort Carson",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7095,
+    "lng": -104.772,
+    "cafes": []
+  },
+  "Johnstown": {
+    "city": "Johnstown",
+    "city_ascii": "Johnstown",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3499,
+    "lng": -104.9482,
+    "cafes": []
+  },
+  "Firestone": {
+    "city": "Firestone",
+    "city_ascii": "Firestone",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1565,
+    "lng": -104.9494,
+    "cafes": []
+  },
+  "Cañon City": {
+    "city": "Cañon City",
+    "city_ascii": "Canon City",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.443,
+    "lng": -105.2203,
+    "cafes": []
+  },
+  "Welby": {
+    "city": "Welby",
+    "city_ascii": "Welby",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8403,
+    "lng": -104.9655,
+    "cafes": []
+  },
+  "Frederick": {
+    "city": "Frederick",
+    "city_ascii": "Frederick",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1088,
+    "lng": -104.9701,
+    "cafes": []
+  },
+  "Greenwood Village": {
+    "city": "Greenwood Village",
+    "city_ascii": "Greenwood Village",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6153,
+    "lng": -104.9131,
+    "cafes": []
+  },
+  "Black Forest": {
+    "city": "Black Forest",
+    "city_ascii": "Black Forest",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0608,
+    "lng": -104.6752,
+    "cafes": []
+  },
+  "Federal Heights": {
+    "city": "Federal Heights",
+    "city_ascii": "Federal Heights",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8651,
+    "lng": -105.0154,
+    "cafes": []
+  },
+  "Lone Tree": {
+    "city": "Lone Tree",
+    "city_ascii": "Lone Tree",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5309,
+    "lng": -104.8709,
+    "cafes": []
+  },
+  "Fruita": {
+    "city": "Fruita",
+    "city_ascii": "Fruita",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1548,
+    "lng": -108.7305,
+    "cafes": []
+  },
+  "Steamboat Springs": {
+    "city": "Steamboat Springs",
+    "city_ascii": "Steamboat Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.4777,
+    "lng": -106.8243,
+    "cafes": []
+  },
+  "Sterling": {
+    "city": "Sterling",
+    "city_ascii": "Sterling",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.6205,
+    "lng": -103.1925,
+    "cafes": []
+  },
+  "Superior": {
+    "city": "Superior",
+    "city_ascii": "Superior",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.934,
+    "lng": -105.1588,
+    "cafes": []
+  },
+  "Castle Pines": {
+    "city": "Castle Pines",
+    "city_ascii": "Castle Pines",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4625,
+    "lng": -104.8706,
+    "cafes": []
+  },
+  "The Pinery": {
+    "city": "The Pinery",
+    "city_ascii": "The Pinery",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4462,
+    "lng": -104.7591,
+    "cafes": []
+  },
+  "Berthoud": {
+    "city": "Berthoud",
+    "city_ascii": "Berthoud",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3071,
+    "lng": -105.0426,
+    "cafes": []
+  },
+  "Wellington": {
+    "city": "Wellington",
+    "city_ascii": "Wellington",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.7,
+    "lng": -105.0054,
+    "cafes": []
+  },
+  "Fort Morgan": {
+    "city": "Fort Morgan",
+    "city_ascii": "Fort Morgan",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2537,
+    "lng": -103.7903,
+    "cafes": []
+  },
+  "Monument": {
+    "city": "Monument",
+    "city_ascii": "Monument",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0736,
+    "lng": -104.8467,
+    "cafes": []
+  },
+  "Cherry Creek": {
+    "city": "Cherry Creek",
+    "city_ascii": "Cherry Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6094,
+    "lng": -104.8645,
+    "cafes": []
+  },
+  "Berkley": {
+    "city": "Berkley",
+    "city_ascii": "Berkley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8045,
+    "lng": -105.0281,
+    "cafes": []
+  },
+  "Fairmount": {
+    "city": "Fairmount",
+    "city_ascii": "Fairmount",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7931,
+    "lng": -105.1711,
+    "cafes": []
+  },
+  "Rifle": {
+    "city": "Rifle",
+    "city_ascii": "Rifle",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5362,
+    "lng": -107.7729,
+    "cafes": []
+  },
+  "Gunbarrel": {
+    "city": "Gunbarrel",
+    "city_ascii": "Gunbarrel",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0632,
+    "lng": -105.1713,
+    "cafes": []
+  },
+  "Edwards": {
+    "city": "Edwards",
+    "city_ascii": "Edwards",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6215,
+    "lng": -106.6184,
+    "cafes": []
+  },
+  "Glenwood Springs": {
+    "city": "Glenwood Springs",
+    "city_ascii": "Glenwood Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5455,
+    "lng": -107.3347,
+    "cafes": []
+  },
+  "Alamosa": {
+    "city": "Alamosa",
+    "city_ascii": "Alamosa",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.4752,
+    "lng": -105.877,
+    "cafes": []
+  },
+  "Roxborough Park": {
+    "city": "Roxborough Park",
+    "city_ascii": "Roxborough Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4492,
+    "lng": -105.0746,
+    "cafes": []
+  },
+  "Severance": {
+    "city": "Severance",
+    "city_ascii": "Severance",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.5265,
+    "lng": -104.865,
+    "cafes": []
+  },
+  "Delta": {
+    "city": "Delta",
+    "city_ascii": "Delta",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.756,
+    "lng": -108.0772,
+    "cafes": []
+  },
+  "Stonegate": {
+    "city": "Stonegate",
+    "city_ascii": "Stonegate",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5357,
+    "lng": -104.8032,
+    "cafes": []
+  },
+  "Craig": {
+    "city": "Craig",
+    "city_ascii": "Craig",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.5171,
+    "lng": -107.5554,
+    "cafes": []
+  },
+  "Cortez": {
+    "city": "Cortez",
+    "city_ascii": "Cortez",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.3503,
+    "lng": -108.5768,
+    "cafes": []
+  },
+  "Woodmoor": {
+    "city": "Woodmoor",
+    "city_ascii": "Woodmoor",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1063,
+    "lng": -104.8456,
+    "cafes": []
+  },
+  "Redlands": {
+    "city": "Redlands",
+    "city_ascii": "Redlands",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0886,
+    "lng": -108.6582,
+    "cafes": []
+  },
+  "Milliken": {
+    "city": "Milliken",
+    "city_ascii": "Milliken",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3115,
+    "lng": -104.8561,
+    "cafes": []
+  },
+  "Derby": {
+    "city": "Derby",
+    "city_ascii": "Derby",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.84,
+    "lng": -104.9172,
+    "cafes": []
+  },
+  "Evergreen": {
+    "city": "Evergreen",
+    "city_ascii": "Evergreen",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6349,
+    "lng": -105.3356,
+    "cafes": []
+  },
+  "Fort Lupton": {
+    "city": "Fort Lupton",
+    "city_ascii": "Fort Lupton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0827,
+    "lng": -104.8068,
+    "cafes": []
+  },
+  "Gypsum": {
+    "city": "Gypsum",
+    "city_ascii": "Gypsum",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6287,
+    "lng": -106.9348,
+    "cafes": []
+  },
+  "Trinidad": {
+    "city": "Trinidad",
+    "city_ascii": "Trinidad",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1751,
+    "lng": -104.4908,
+    "cafes": []
+  },
+  "Twin Lakes": {
+    "city": "Twin Lakes",
+    "city_ascii": "Twin Lakes",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8229,
+    "lng": -105.0036,
+    "cafes": []
+  },
+  "Lochbuie": {
+    "city": "Lochbuie",
+    "city_ascii": "Lochbuie",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0118,
+    "lng": -104.7271,
+    "cafes": []
+  },
+  "Applewood": {
+    "city": "Applewood",
+    "city_ascii": "Applewood",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7523,
+    "lng": -105.1604,
+    "cafes": []
+  },
+  "Timnath": {
+    "city": "Timnath",
+    "city_ascii": "Timnath",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.5338,
+    "lng": -104.9623,
+    "cafes": []
+  },
+  "Fruitvale": {
+    "city": "Fruitvale",
+    "city_ascii": "Fruitvale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0933,
+    "lng": -108.4789,
+    "cafes": []
+  },
+  "Woodland Park": {
+    "city": "Woodland Park",
+    "city_ascii": "Woodland Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.9985,
+    "lng": -105.0594,
+    "cafes": []
+  },
+  "Lamar": {
+    "city": "Lamar",
+    "city_ascii": "Lamar",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.074,
+    "lng": -102.6154,
+    "cafes": []
+  },
+  "Eagle": {
+    "city": "Eagle",
+    "city_ascii": "Eagle",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6366,
+    "lng": -106.8125,
+    "cafes": []
+  },
+  "La Junta": {
+    "city": "La Junta",
+    "city_ascii": "La Junta",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.9791,
+    "lng": -103.5471,
+    "cafes": []
+  },
+  "Aspen": {
+    "city": "Aspen",
+    "city_ascii": "Aspen",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1951,
+    "lng": -106.8369,
+    "cafes": []
+  },
+  "Gunnison": {
+    "city": "Gunnison",
+    "city_ascii": "Gunnison",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.548,
+    "lng": -106.9246,
+    "cafes": []
+  },
+  "Air Force Academy": {
+    "city": "Air Force Academy",
+    "city_ascii": "Air Force Academy",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.9942,
+    "lng": -104.8639,
+    "cafes": []
+  },
+  "Orchard Mesa": {
+    "city": "Orchard Mesa",
+    "city_ascii": "Orchard Mesa",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0363,
+    "lng": -108.5166,
+    "cafes": []
+  },
+  "Carbondale": {
+    "city": "Carbondale",
+    "city_ascii": "Carbondale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3949,
+    "lng": -107.2148,
+    "cafes": []
+  },
+  "Dacono": {
+    "city": "Dacono",
+    "city_ascii": "Dacono",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0623,
+    "lng": -104.9476,
+    "cafes": []
+  },
+  "Stratmoor": {
+    "city": "Stratmoor",
+    "city_ascii": "Stratmoor",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7731,
+    "lng": -104.7786,
+    "cafes": []
+  },
+  "Cherry Hills Village": {
+    "city": "Cherry Hills Village",
+    "city_ascii": "Cherry Hills Village",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6375,
+    "lng": -104.948,
+    "cafes": []
+  },
+  "Gleneagle": {
+    "city": "Gleneagle",
+    "city_ascii": "Gleneagle",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0453,
+    "lng": -104.8288,
+    "cafes": []
+  },
+  "Avon": {
+    "city": "Avon",
+    "city_ascii": "Avon",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6442,
+    "lng": -106.513,
+    "cafes": []
+  },
+  "Sheridan": {
+    "city": "Sheridan",
+    "city_ascii": "Sheridan",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6468,
+    "lng": -105.0182,
+    "cafes": []
+  },
+  "Estes Park": {
+    "city": "Estes Park",
+    "city_ascii": "Estes Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3699,
+    "lng": -105.5217,
+    "cafes": []
+  },
+  "Eaton": {
+    "city": "Eaton",
+    "city_ascii": "Eaton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.5257,
+    "lng": -104.713,
+    "cafes": []
+  },
+  "Salida": {
+    "city": "Salida",
+    "city_ascii": "Salida",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.5298,
+    "lng": -105.9979,
+    "cafes": []
+  },
+  "Mead": {
+    "city": "Mead",
+    "city_ascii": "Mead",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2318,
+    "lng": -104.9911,
+    "cafes": []
+  },
+  "Battlement Mesa": {
+    "city": "Battlement Mesa",
+    "city_ascii": "Battlement Mesa",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4506,
+    "lng": -108.0063,
+    "cafes": []
+  },
+  "Dove Valley": {
+    "city": "Dove Valley",
+    "city_ascii": "Dove Valley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5752,
+    "lng": -104.8309,
+    "cafes": []
+  },
+  "Shaw Heights": {
+    "city": "Shaw Heights",
+    "city_ascii": "Shaw Heights",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8566,
+    "lng": -105.0391,
+    "cafes": []
+  },
+  "Brush": {
+    "city": "Brush",
+    "city_ascii": "Brush",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2598,
+    "lng": -103.6323,
+    "cafes": []
+  },
+  "West Pleasant View": {
+    "city": "West Pleasant View",
+    "city_ascii": "West Pleasant View",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.732,
+    "lng": -105.1785,
+    "cafes": []
+  },
+  "Todd Creek": {
+    "city": "Todd Creek",
+    "city_ascii": "Todd Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9797,
+    "lng": -104.8734,
+    "cafes": []
+  },
+  "Meridian": {
+    "city": "Meridian",
+    "city_ascii": "Meridian",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5458,
+    "lng": -104.8533,
+    "cafes": []
+  },
+  "Breckenridge": {
+    "city": "Breckenridge",
+    "city_ascii": "Breckenridge",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4995,
+    "lng": -106.0432,
+    "cafes": []
+  },
+  "Edgewater": {
+    "city": "Edgewater",
+    "city_ascii": "Edgewater",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7508,
+    "lng": -105.0627,
+    "cafes": []
+  },
+  "New Castle": {
+    "city": "New Castle",
+    "city_ascii": "New Castle",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5776,
+    "lng": -107.5267,
+    "cafes": []
+  },
+  "Manitou Springs": {
+    "city": "Manitou Springs",
+    "city_ascii": "Manitou Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8575,
+    "lng": -104.9127,
+    "cafes": []
+  },
+  "Vail": {
+    "city": "Vail",
+    "city_ascii": "Vail",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6385,
+    "lng": -106.3613,
+    "cafes": []
+  },
+  "Silverthorne": {
+    "city": "Silverthorne",
+    "city_ascii": "Silverthorne",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6562,
+    "lng": -106.0869,
+    "cafes": []
+  },
+  "Glendale": {
+    "city": "Glendale",
+    "city_ascii": "Glendale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7036,
+    "lng": -104.9352,
+    "cafes": []
+  },
+  "Castle Pines Village": {
+    "city": "Castle Pines Village",
+    "city_ascii": "Castle Pines Village",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4418,
+    "lng": -104.897,
+    "cafes": []
+  },
+  "Lincoln Park": {
+    "city": "Lincoln Park",
+    "city_ascii": "Lincoln Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4255,
+    "lng": -105.2132,
+    "cafes": []
+  },
+  "Monte Vista": {
+    "city": "Monte Vista",
+    "city_ascii": "Monte Vista",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.5789,
+    "lng": -106.1499,
+    "cafes": []
+  },
+  "Basalt": {
+    "city": "Basalt",
+    "city_ascii": "Basalt",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3663,
+    "lng": -107.0413,
+    "cafes": []
+  },
+  "Penrose": {
+    "city": "Penrose",
+    "city_ascii": "Penrose",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4213,
+    "lng": -105.0004,
+    "cafes": []
+  },
+  "El Jebel": {
+    "city": "El Jebel",
+    "city_ascii": "El Jebel",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.405,
+    "lng": -107.0921,
+    "cafes": []
+  },
+  "Florence": {
+    "city": "Florence",
+    "city_ascii": "Florence",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.3836,
+    "lng": -105.1114,
+    "cafes": []
+  },
+  "Rocky Ford": {
+    "city": "Rocky Ford",
+    "city_ascii": "Rocky Ford",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0499,
+    "lng": -103.7225,
+    "cafes": []
+  },
+  "Genesee": {
+    "city": "Genesee",
+    "city_ascii": "Genesee",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6872,
+    "lng": -105.2718,
+    "cafes": []
+  },
+  "Niwot": {
+    "city": "Niwot",
+    "city_ascii": "Niwot",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.098,
+    "lng": -105.1552,
+    "cafes": []
+  },
+  "Silt": {
+    "city": "Silt",
+    "city_ascii": "Silt",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5483,
+    "lng": -107.6531,
+    "cafes": []
+  },
+  "Ponderosa Park": {
+    "city": "Ponderosa Park",
+    "city_ascii": "Ponderosa Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3987,
+    "lng": -104.6355,
+    "cafes": []
+  },
+  "Bennett": {
+    "city": "Bennett",
+    "city_ascii": "Bennett",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7366,
+    "lng": -104.4286,
+    "cafes": []
+  },
+  "Yuma": {
+    "city": "Yuma",
+    "city_ascii": "Yuma",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1235,
+    "lng": -102.7161,
+    "cafes": []
+  },
+  "Sierra Ridge": {
+    "city": "Sierra Ridge",
+    "city_ascii": "Sierra Ridge",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5286,
+    "lng": -104.8172,
+    "cafes": []
+  },
+  "Strasburg": {
+    "city": "Strasburg",
+    "city_ascii": "Strasburg",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7181,
+    "lng": -104.3195,
+    "cafes": []
+  },
+  "Orchard City": {
+    "city": "Orchard City",
+    "city_ascii": "Orchard City",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8144,
+    "lng": -107.9705,
+    "cafes": []
+  },
+  "Burlington": {
+    "city": "Burlington",
+    "city_ascii": "Burlington",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3042,
+    "lng": -102.2712,
+    "cafes": []
+  },
+  "La Salle": {
+    "city": "La Salle",
+    "city_ascii": "La Salle",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3484,
+    "lng": -104.7062,
+    "cafes": []
+  },
+  "Inverness": {
+    "city": "Inverness",
+    "city_ascii": "Inverness",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5758,
+    "lng": -104.8653,
+    "cafes": []
+  },
+  "Stepping Stone": {
+    "city": "Stepping Stone",
+    "city_ascii": "Stepping Stone",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.514,
+    "lng": -104.8217,
+    "cafes": []
+  },
+  "Walsenburg": {
+    "city": "Walsenburg",
+    "city_ascii": "Walsenburg",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.6307,
+    "lng": -104.7818,
+    "cafes": []
+  },
+  "Snowmass Village": {
+    "city": "Snowmass Village",
+    "city_ascii": "Snowmass Village",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2212,
+    "lng": -106.9392,
+    "cafes": []
+  },
+  "Buena Vista": {
+    "city": "Buena Vista",
+    "city_ascii": "Buena Vista",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8319,
+    "lng": -106.1387,
+    "cafes": []
+  },
+  "Platteville": {
+    "city": "Platteville",
+    "city_ascii": "Platteville",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.222,
+    "lng": -104.834,
+    "cafes": []
+  },
+  "Frisco": {
+    "city": "Frisco",
+    "city_ascii": "Frisco",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5791,
+    "lng": -106.0915,
+    "cafes": []
+  },
+  "Bayfield": {
+    "city": "Bayfield",
+    "city_ascii": "Bayfield",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.234,
+    "lng": -107.5952,
+    "cafes": []
+  },
+  "Meridian Village": {
+    "city": "Meridian Village",
+    "city_ascii": "Meridian Village",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.528,
+    "lng": -104.8258,
+    "cafes": []
+  },
+  "Acres Green": {
+    "city": "Acres Green",
+    "city_ascii": "Acres Green",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5557,
+    "lng": -104.8958,
+    "cafes": []
+  },
+  "Holly Hills": {
+    "city": "Holly Hills",
+    "city_ascii": "Holly Hills",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6678,
+    "lng": -104.9216,
+    "cafes": []
+  },
+  "Palmer Lake": {
+    "city": "Palmer Lake",
+    "city_ascii": "Palmer Lake",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1153,
+    "lng": -104.906,
+    "cafes": []
+  },
+  "Leadville": {
+    "city": "Leadville",
+    "city_ascii": "Leadville",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2473,
+    "lng": -106.2934,
+    "cafes": []
+  },
+  "Telluride": {
+    "city": "Telluride",
+    "city_ascii": "Telluride",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.9364,
+    "lng": -107.827,
+    "cafes": []
+  },
+  "Palisade": {
+    "city": "Palisade",
+    "city_ascii": "Palisade",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1084,
+    "lng": -108.3573,
+    "cafes": []
+  },
+  "Rangely": {
+    "city": "Rangely",
+    "city_ascii": "Rangely",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0861,
+    "lng": -108.7795,
+    "cafes": []
+  },
+  "Park Center": {
+    "city": "Park Center",
+    "city_ascii": "Park Center",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4835,
+    "lng": -105.224,
+    "cafes": []
+  },
+  "Sterling Ranch": {
+    "city": "Sterling Ranch",
+    "city_ascii": "Sterling Ranch",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4932,
+    "lng": -105.0475,
+    "cafes": []
+  },
+  "Meeker": {
+    "city": "Meeker",
+    "city_ascii": "Meeker",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0499,
+    "lng": -107.8947,
+    "cafes": []
+  },
+  "Las Animas": {
+    "city": "Las Animas",
+    "city_ascii": "Las Animas",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0695,
+    "lng": -103.2236,
+    "cafes": []
+  },
+  "Holyoke": {
+    "city": "Holyoke",
+    "city_ascii": "Holyoke",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.582,
+    "lng": -102.2975,
+    "cafes": []
+  },
+  "Coal Creek": {
+    "city": "Coal Creek",
+    "city_ascii": "Coal Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9071,
+    "lng": -105.3799,
+    "cafes": []
+  },
+  "Aristocrat Ranchettes": {
+    "city": "Aristocrat Ranchettes",
+    "city_ascii": "Aristocrat Ranchettes",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1096,
+    "lng": -104.7549,
+    "cafes": []
+  },
+  "Center": {
+    "city": "Center",
+    "city_ascii": "Center",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.7512,
+    "lng": -106.1105,
+    "cafes": []
+  },
+  "Wray": {
+    "city": "Wray",
+    "city_ascii": "Wray",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0802,
+    "lng": -102.2284,
+    "cafes": []
+  },
+  "Ault": {
+    "city": "Ault",
+    "city_ascii": "Ault",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.5893,
+    "lng": -104.7392,
+    "cafes": []
+  },
+  "Granby": {
+    "city": "Granby",
+    "city_ascii": "Granby",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0647,
+    "lng": -105.9194,
+    "cafes": []
+  },
+  "Laporte": {
+    "city": "Laporte",
+    "city_ascii": "Laporte",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.6385,
+    "lng": -105.1445,
+    "cafes": []
+  },
+  "Columbine Valley": {
+    "city": "Columbine Valley",
+    "city_ascii": "Columbine Valley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5993,
+    "lng": -105.0352,
+    "cafes": []
+  },
+  "Hayden": {
+    "city": "Hayden",
+    "city_ascii": "Hayden",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.4851,
+    "lng": -107.239,
+    "cafes": []
+  },
+  "Idaho Springs": {
+    "city": "Idaho Springs",
+    "city_ascii": "Idaho Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7444,
+    "lng": -105.5006,
+    "cafes": []
+  },
+  "Lyons": {
+    "city": "Lyons",
+    "city_ascii": "Lyons",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.223,
+    "lng": -105.2692,
+    "cafes": []
+  },
+  "Keenesburg": {
+    "city": "Keenesburg",
+    "city_ascii": "Keenesburg",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1327,
+    "lng": -104.538,
+    "cafes": []
+  },
+  "Kremmling": {
+    "city": "Kremmling",
+    "city_ascii": "Kremmling",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0567,
+    "lng": -106.3784,
+    "cafes": []
+  },
+  "Hudson": {
+    "city": "Hudson",
+    "city_ascii": "Hudson",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0898,
+    "lng": -104.621,
+    "cafes": []
+  },
+  "Byers": {
+    "city": "Byers",
+    "city_ascii": "Byers",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7101,
+    "lng": -104.219,
+    "cafes": []
+  },
+  "Perry Park": {
+    "city": "Perry Park",
+    "city_ascii": "Perry Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2595,
+    "lng": -104.9825,
+    "cafes": []
+  },
+  "Colorado City": {
+    "city": "Colorado City",
+    "city_ascii": "Colorado City",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.9381,
+    "lng": -104.8451,
+    "cafes": []
+  },
+  "Olathe": {
+    "city": "Olathe",
+    "city_ascii": "Olathe",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.6083,
+    "lng": -107.9833,
+    "cafes": []
+  },
+  "Pagosa Springs": {
+    "city": "Pagosa Springs",
+    "city_ascii": "Pagosa Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.2675,
+    "lng": -107.0307,
+    "cafes": []
+  },
+  "Ordway": {
+    "city": "Ordway",
+    "city_ascii": "Ordway",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.2208,
+    "lng": -103.7566,
+    "cafes": []
+  },
+  "Mountain Village": {
+    "city": "Mountain Village",
+    "city_ascii": "Mountain Village",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.9324,
+    "lng": -107.8577,
+    "cafes": []
+  },
+  "Elizabeth": {
+    "city": "Elizabeth",
+    "city_ascii": "Elizabeth",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3589,
+    "lng": -104.6196,
+    "cafes": []
+  },
+  "Akron": {
+    "city": "Akron",
+    "city_ascii": "Akron",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1635,
+    "lng": -103.2202,
+    "cafes": []
+  },
+  "Del Norte": {
+    "city": "Del Norte",
+    "city_ascii": "Del Norte",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.6786,
+    "lng": -106.3539,
+    "cafes": []
+  },
+  "Limon": {
+    "city": "Limon",
+    "city_ascii": "Limon",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2653,
+    "lng": -103.6857,
+    "cafes": []
+  },
+  "Nederland": {
+    "city": "Nederland",
+    "city_ascii": "Nederland",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9633,
+    "lng": -105.5071,
+    "cafes": []
+  },
+  "Parachute": {
+    "city": "Parachute",
+    "city_ascii": "Parachute",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4508,
+    "lng": -108.0529,
+    "cafes": []
+  },
+  "Springfield": {
+    "city": "Springfield",
+    "city_ascii": "Springfield",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.405,
+    "lng": -102.6189,
+    "cafes": []
+  },
+  "Leadville North": {
+    "city": "Leadville North",
+    "city_ascii": "Leadville North",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.26,
+    "lng": -106.3112,
+    "cafes": []
+  },
+  "Paonia": {
+    "city": "Paonia",
+    "city_ascii": "Paonia",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8698,
+    "lng": -107.592,
+    "cafes": []
+  },
+  "Crested Butte": {
+    "city": "Crested Butte",
+    "city_ascii": "Crested Butte",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8676,
+    "lng": -106.9773,
+    "cafes": []
+  },
+  "Alamosa East": {
+    "city": "Alamosa East",
+    "city_ascii": "Alamosa East",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.4766,
+    "lng": -105.8397,
+    "cafes": []
+  },
+  "Loma": {
+    "city": "Loma",
+    "city_ascii": "Loma",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2075,
+    "lng": -108.805,
+    "cafes": []
+  },
+  "Ellicott": {
+    "city": "Ellicott",
+    "city_ascii": "Ellicott",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8256,
+    "lng": -104.3829,
+    "cafes": []
+  },
+  "Dotsero": {
+    "city": "Dotsero",
+    "city_ascii": "Dotsero",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6463,
+    "lng": -107.054,
+    "cafes": []
+  },
+  "Indian Hills": {
+    "city": "Indian Hills",
+    "city_ascii": "Indian Hills",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6294,
+    "lng": -105.2509,
+    "cafes": []
+  },
+  "Kersey": {
+    "city": "Kersey",
+    "city_ascii": "Kersey",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.391,
+    "lng": -104.5794,
+    "cafes": []
+  },
+  "Ignacio": {
+    "city": "Ignacio",
+    "city_ascii": "Ignacio",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.118,
+    "lng": -107.6376,
+    "cafes": []
+  },
+  "Ridgway": {
+    "city": "Ridgway",
+    "city_ascii": "Ridgway",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1573,
+    "lng": -107.7545,
+    "cafes": []
+  },
+  "Wiggins": {
+    "city": "Wiggins",
+    "city_ascii": "Wiggins",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2286,
+    "lng": -104.0724,
+    "cafes": []
+  },
+  "Julesburg": {
+    "city": "Julesburg",
+    "city_ascii": "Julesburg",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.9849,
+    "lng": -102.2627,
+    "cafes": []
+  },
+  "Fraser": {
+    "city": "Fraser",
+    "city_ascii": "Fraser",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9303,
+    "lng": -105.8029,
+    "cafes": []
+  },
+  "Deer Trail": {
+    "city": "Deer Trail",
+    "city_ascii": "Deer Trail",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6154,
+    "lng": -104.0434,
+    "cafes": []
+  },
+  "Aetna Estates": {
+    "city": "Aetna Estates",
+    "city_ascii": "Aetna Estates",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7381,
+    "lng": -104.6732,
+    "cafes": []
+  },
+  "Howard": {
+    "city": "Howard",
+    "city_ascii": "Howard",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4098,
+    "lng": -105.8424,
+    "cafes": []
+  },
+  "Cascade-Chipita Park": {
+    "city": "Cascade-Chipita Park",
+    "city_ascii": "Cascade-Chipita Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.9433,
+    "lng": -105.0023,
+    "cafes": []
+  },
+  "Hotchkiss": {
+    "city": "Hotchkiss",
+    "city_ascii": "Hotchkiss",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.799,
+    "lng": -107.7133,
+    "cafes": []
+  },
+  "Blue River": {
+    "city": "Blue River",
+    "city_ascii": "Blue River",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4362,
+    "lng": -106.035,
+    "cafes": []
+  },
+  "Keystone": {
+    "city": "Keystone",
+    "city_ascii": "Keystone",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5901,
+    "lng": -105.9383,
+    "cafes": []
+  },
+  "Pierce": {
+    "city": "Pierce",
+    "city_ascii": "Pierce",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.6411,
+    "lng": -104.7701,
+    "cafes": []
+  },
+  "Fowler": {
+    "city": "Fowler",
+    "city_ascii": "Fowler",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1304,
+    "lng": -104.0264,
+    "cafes": []
+  },
+  "Watkins": {
+    "city": "Watkins",
+    "city_ascii": "Watkins",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6984,
+    "lng": -104.5773,
+    "cafes": []
+  },
+  "Georgetown": {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7179,
+    "lng": -105.6942,
+    "cafes": []
+  },
+  "Towaoc": {
+    "city": "Towaoc",
+    "city_ascii": "Towaoc",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.2126,
+    "lng": -108.7265,
+    "cafes": []
+  },
+  "Lazy Acres": {
+    "city": "Lazy Acres",
+    "city_ascii": "Lazy Acres",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0837,
+    "lng": -105.3313,
+    "cafes": []
+  },
+  "Sanford": {
+    "city": "Sanford",
+    "city_ascii": "Sanford",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.2574,
+    "lng": -105.9007,
+    "cafes": []
+  },
+  "Ouray": {
+    "city": "Ouray",
+    "city_ascii": "Ouray",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0276,
+    "lng": -107.6734,
+    "cafes": []
+  },
+  "Mancos": {
+    "city": "Mancos",
+    "city_ascii": "Mancos",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.3466,
+    "lng": -108.2939,
+    "cafes": []
+  },
+  "Bow Mar": {
+    "city": "Bow Mar",
+    "city_ascii": "Bow Mar",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6251,
+    "lng": -105.0511,
+    "cafes": []
+  },
+  "Minturn": {
+    "city": "Minturn",
+    "city_ascii": "Minturn",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5463,
+    "lng": -106.3871,
+    "cafes": []
+  },
+  "Gilcrest": {
+    "city": "Gilcrest",
+    "city_ascii": "Gilcrest",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2841,
+    "lng": -104.782,
+    "cafes": []
+  },
+  "Upper Bear Creek": {
+    "city": "Upper Bear Creek",
+    "city_ascii": "Upper Bear Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6319,
+    "lng": -105.4154,
+    "cafes": []
+  },
+  "Hot Sulphur Springs": {
+    "city": "Hot Sulphur Springs",
+    "city_ascii": "Hot Sulphur Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0748,
+    "lng": -106.1032,
+    "cafes": []
+  },
+  "Williamsburg": {
+    "city": "Williamsburg",
+    "city_ascii": "Williamsburg",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.384,
+    "lng": -105.171,
+    "cafes": []
+  },
+  "Haxtun": {
+    "city": "Haxtun",
+    "city_ascii": "Haxtun",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.642,
+    "lng": -102.6297,
+    "cafes": []
+  },
+  "Cheyenne Wells": {
+    "city": "Cheyenne Wells",
+    "city_ascii": "Cheyenne Wells",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8192,
+    "lng": -102.3521,
+    "cafes": []
+  },
+  "Log Lane Village": {
+    "city": "Log Lane Village",
+    "city_ascii": "Log Lane Village",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2697,
+    "lng": -103.829,
+    "cafes": []
+  },
+  "Dolores": {
+    "city": "Dolores",
+    "city_ascii": "Dolores",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.4741,
+    "lng": -108.4998,
+    "cafes": []
+  },
+  "Dillon": {
+    "city": "Dillon",
+    "city_ascii": "Dillon",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6213,
+    "lng": -106.0393,
+    "cafes": []
+  },
+  "Manassa": {
+    "city": "Manassa",
+    "city_ascii": "Manassa",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1738,
+    "lng": -105.9373,
+    "cafes": []
+  },
+  "Hugo": {
+    "city": "Hugo",
+    "city_ascii": "Hugo",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1362,
+    "lng": -103.4731,
+    "cafes": []
+  },
+  "Salt Creek": {
+    "city": "Salt Creek",
+    "city_ascii": "Salt Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.2407,
+    "lng": -104.5867,
+    "cafes": []
+  },
+  "Fairplay": {
+    "city": "Fairplay",
+    "city_ascii": "Fairplay",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2245,
+    "lng": -105.9965,
+    "cafes": []
+  },
+  "Floyd Hill": {
+    "city": "Floyd Hill",
+    "city_ascii": "Floyd Hill",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7217,
+    "lng": -105.4313,
+    "cafes": []
+  },
+  "Kittredge": {
+    "city": "Kittredge",
+    "city_ascii": "Kittredge",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6593,
+    "lng": -105.3045,
+    "cafes": []
+  },
+  "Poncha Springs": {
+    "city": "Poncha Springs",
+    "city_ascii": "Poncha Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.514,
+    "lng": -106.0944,
+    "cafes": []
+  },
+  "Mount Crested Butte": {
+    "city": "Mount Crested Butte",
+    "city_ascii": "Mount Crested Butte",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.9083,
+    "lng": -106.9606,
+    "cafes": []
+  },
+  "Allenspark": {
+    "city": "Allenspark",
+    "city_ascii": "Allenspark",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2099,
+    "lng": -105.5112,
+    "cafes": []
+  },
+  "Cripple Creek": {
+    "city": "Cripple Creek",
+    "city_ascii": "Cripple Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7467,
+    "lng": -105.1851,
+    "cafes": []
+  },
+  "Tabernash": {
+    "city": "Tabernash",
+    "city_ascii": "Tabernash",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9788,
+    "lng": -105.8441,
+    "cafes": []
+  },
+  "Silver Cliff": {
+    "city": "Silver Cliff",
+    "city_ascii": "Silver Cliff",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1204,
+    "lng": -105.4104,
+    "cafes": []
+  },
+  "Paragon Estates": {
+    "city": "Paragon Estates",
+    "city_ascii": "Paragon Estates",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9802,
+    "lng": -105.1812,
+    "cafes": []
+  },
+  "Beulah Valley": {
+    "city": "Beulah Valley",
+    "city_ascii": "Beulah Valley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0709,
+    "lng": -104.983,
+    "cafes": []
+  },
+  "La Veta": {
+    "city": "La Veta",
+    "city_ascii": "La Veta",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.5085,
+    "lng": -105.0085,
+    "cafes": []
+  },
+  "Winter Park": {
+    "city": "Winter Park",
+    "city_ascii": "Winter Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8785,
+    "lng": -105.7828,
+    "cafes": []
+  },
+  "Rockvale": {
+    "city": "Rockvale",
+    "city_ascii": "Rockvale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.3644,
+    "lng": -105.1646,
+    "cafes": []
+  },
+  "Foxfield": {
+    "city": "Foxfield",
+    "city_ascii": "Foxfield",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5881,
+    "lng": -104.7857,
+    "cafes": []
+  },
+  "Grand View Estates": {
+    "city": "Grand View Estates",
+    "city_ascii": "Grand View Estates",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5439,
+    "lng": -104.8206,
+    "cafes": []
+  },
+  "Stratton": {
+    "city": "Stratton",
+    "city_ascii": "Stratton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3029,
+    "lng": -102.6034,
+    "cafes": []
+  },
+  "Aspen Park": {
+    "city": "Aspen Park",
+    "city_ascii": "Aspen Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5423,
+    "lng": -105.2967,
+    "cafes": []
+  },
+  "Green Mountain Falls": {
+    "city": "Green Mountain Falls",
+    "city_ascii": "Green Mountain Falls",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.9344,
+    "lng": -105.0238,
+    "cafes": []
+  },
+  "Kiowa": {
+    "city": "Kiowa",
+    "city_ascii": "Kiowa",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3436,
+    "lng": -104.458,
+    "cafes": []
+  },
+  "Antonito": {
+    "city": "Antonito",
+    "city_ascii": "Antonito",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.0762,
+    "lng": -106.0104,
+    "cafes": []
+  },
+  "Dove Creek": {
+    "city": "Dove Creek",
+    "city_ascii": "Dove Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.7668,
+    "lng": -108.9071,
+    "cafes": []
+  },
+  "Loghill Village": {
+    "city": "Loghill Village",
+    "city_ascii": "Loghill Village",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1994,
+    "lng": -107.7754,
+    "cafes": []
+  },
+  "Walden": {
+    "city": "Walden",
+    "city_ascii": "Walden",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.7316,
+    "lng": -106.2814,
+    "cafes": []
+  },
+  "Oak Creek": {
+    "city": "Oak Creek",
+    "city_ascii": "Oak Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2741,
+    "lng": -106.9575,
+    "cafes": []
+  },
+  "Eads": {
+    "city": "Eads",
+    "city_ascii": "Eads",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4814,
+    "lng": -102.7797,
+    "cafes": []
+  },
+  "Blende": {
+    "city": "Blende",
+    "city_ascii": "Blende",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.247,
+    "lng": -104.5714,
+    "cafes": []
+  },
+  "Nucla": {
+    "city": "Nucla",
+    "city_ascii": "Nucla",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.2668,
+    "lng": -108.5487,
+    "cafes": []
+  },
+  "East Pleasant View": {
+    "city": "East Pleasant View",
+    "city_ascii": "East Pleasant View",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7278,
+    "lng": -105.1572,
+    "cafes": []
+  },
+  "South Fork": {
+    "city": "South Fork",
+    "city_ascii": "South Fork",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.6691,
+    "lng": -106.6417,
+    "cafes": []
+  },
+  "Dinosaur": {
+    "city": "Dinosaur",
+    "city_ascii": "Dinosaur",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2399,
+    "lng": -109.0066,
+    "cafes": []
+  },
+  "Silverton": {
+    "city": "Silverton",
+    "city_ascii": "Silverton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.8107,
+    "lng": -107.6649,
+    "cafes": []
+  },
+  "Fleming": {
+    "city": "Fleming",
+    "city_ascii": "Fleming",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.6821,
+    "lng": -102.8396,
+    "cafes": []
+  },
+  "Flagler": {
+    "city": "Flagler",
+    "city_ascii": "Flagler",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2948,
+    "lng": -103.0758,
+    "cafes": []
+  },
+  "La Jara": {
+    "city": "La Jara",
+    "city_ascii": "La Jara",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.2735,
+    "lng": -105.9597,
+    "cafes": []
+  },
+  "Upper Witter Gulch": {
+    "city": "Upper Witter Gulch",
+    "city_ascii": "Upper Witter Gulch",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.661,
+    "lng": -105.4268,
+    "cafes": []
+  },
+  "San Luis": {
+    "city": "San Luis",
+    "city_ascii": "San Luis",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.2025,
+    "lng": -105.4225,
+    "cafes": []
+  },
+  "Otis": {
+    "city": "Otis",
+    "city_ascii": "Otis",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1501,
+    "lng": -102.9622,
+    "cafes": []
+  },
+  "Simla": {
+    "city": "Simla",
+    "city_ascii": "Simla",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1408,
+    "lng": -104.0824,
+    "cafes": []
+  },
+  "Norwood": {
+    "city": "Norwood",
+    "city_ascii": "Norwood",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.129,
+    "lng": -108.2919,
+    "cafes": []
+  },
+  "Holly": {
+    "city": "Holly",
+    "city_ascii": "Holly",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0554,
+    "lng": -102.1247,
+    "cafes": []
+  },
+  "Saguache": {
+    "city": "Saguache",
+    "city_ascii": "Saguache",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0865,
+    "lng": -106.141,
+    "cafes": []
+  },
+  "Sugar City": {
+    "city": "Sugar City",
+    "city_ascii": "Sugar City",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.2328,
+    "lng": -103.6633,
+    "cafes": []
+  },
+  "Olney Springs": {
+    "city": "Olney Springs",
+    "city_ascii": "Olney Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1663,
+    "lng": -103.9445,
+    "cafes": []
+  },
+  "Empire": {
+    "city": "Empire",
+    "city_ascii": "Empire",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7595,
+    "lng": -105.6825,
+    "cafes": []
+  },
+  "Mulford": {
+    "city": "Mulford",
+    "city_ascii": "Mulford",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4063,
+    "lng": -107.1661,
+    "cafes": []
+  },
+  "Altona": {
+    "city": "Altona",
+    "city_ascii": "Altona",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1254,
+    "lng": -105.2924,
+    "cafes": []
+  },
+  "Naturita": {
+    "city": "Naturita",
+    "city_ascii": "Naturita",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.2183,
+    "lng": -108.5665,
+    "cafes": []
+  },
+  "North La Junta": {
+    "city": "North La Junta",
+    "city_ascii": "North La Junta",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.9986,
+    "lng": -103.5227,
+    "cafes": []
+  },
+  "Calhan": {
+    "city": "Calhan",
+    "city_ascii": "Calhan",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0345,
+    "lng": -104.2994,
+    "cafes": []
+  },
+  "Swink": {
+    "city": "Swink",
+    "city_ascii": "Swink",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0141,
+    "lng": -103.6283,
+    "cafes": []
+  },
+  "Mountain View": {
+    "city": "Mountain View",
+    "city_ascii": "Mountain View",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7748,
+    "lng": -105.0567,
+    "cafes": []
+  },
+  "Pine Brook Hill": {
+    "city": "Pine Brook Hill",
+    "city_ascii": "Pine Brook Hill",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0462,
+    "lng": -105.3097,
+    "cafes": []
+  },
+  "Granada": {
+    "city": "Granada",
+    "city_ascii": "Granada",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.063,
+    "lng": -102.3115,
+    "cafes": []
+  },
+  "St. Ann Highlands": {
+    "city": "St. Ann Highlands",
+    "city_ascii": "St. Ann Highlands",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9873,
+    "lng": -105.4559,
+    "cafes": []
+  },
+  "Downieville-Lawson-Dumont": {
+    "city": "Downieville-Lawson-Dumont",
+    "city_ascii": "Downieville-Lawson-Dumont",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7662,
+    "lng": -105.6125,
+    "cafes": []
+  },
+  "Lake City": {
+    "city": "Lake City",
+    "city_ascii": "Lake City",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0303,
+    "lng": -107.3106,
+    "cafes": []
+  },
+  "De Beque": {
+    "city": "De Beque",
+    "city_ascii": "De Beque",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3105,
+    "lng": -108.2049,
+    "cafes": []
+  },
+  "Westcliffe": {
+    "city": "Westcliffe",
+    "city_ascii": "Westcliffe",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1339,
+    "lng": -105.4654,
+    "cafes": []
+  },
+  "Chacra": {
+    "city": "Chacra",
+    "city_ascii": "Chacra",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.577,
+    "lng": -107.451,
+    "cafes": []
+  },
+  "Collbran": {
+    "city": "Collbran",
+    "city_ascii": "Collbran",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.24,
+    "lng": -107.9635,
+    "cafes": []
+  },
+  "Aguilar": {
+    "city": "Aguilar",
+    "city_ascii": "Aguilar",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.4036,
+    "lng": -104.655,
+    "cafes": []
+  },
+  "Sugarloaf": {
+    "city": "Sugarloaf",
+    "city_ascii": "Sugarloaf",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0189,
+    "lng": -105.4078,
+    "cafes": []
+  },
+  "Eldora": {
+    "city": "Eldora",
+    "city_ascii": "Eldora",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9536,
+    "lng": -105.578,
+    "cafes": []
+  },
+  "Nunn": {
+    "city": "Nunn",
+    "city_ascii": "Nunn",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.7137,
+    "lng": -104.7889,
+    "cafes": []
+  },
+  "Fort Garland": {
+    "city": "Fort Garland",
+    "city_ascii": "Fort Garland",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.4279,
+    "lng": -105.4351,
+    "cafes": []
+  },
+  "Wiley": {
+    "city": "Wiley",
+    "city_ascii": "Wiley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1553,
+    "lng": -102.7193,
+    "cafes": []
+  },
+  "Crawford": {
+    "city": "Crawford",
+    "city_ascii": "Crawford",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7051,
+    "lng": -107.6097,
+    "cafes": []
+  },
+  "Morrison": {
+    "city": "Morrison",
+    "city_ascii": "Morrison",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6368,
+    "lng": -105.2006,
+    "cafes": []
+  },
+  "Victor": {
+    "city": "Victor",
+    "city_ascii": "Victor",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7088,
+    "lng": -105.1419,
+    "cafes": []
+  },
+  "Brook Forest": {
+    "city": "Brook Forest",
+    "city_ascii": "Brook Forest",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5739,
+    "lng": -105.3944,
+    "cafes": []
+  },
+  "Redvale": {
+    "city": "Redvale",
+    "city_ascii": "Redvale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1761,
+    "lng": -108.4125,
+    "cafes": []
+  },
+  "Franktown": {
+    "city": "Franktown",
+    "city_ascii": "Franktown",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3906,
+    "lng": -104.7486,
+    "cafes": []
+  },
+  "Walsh": {
+    "city": "Walsh",
+    "city_ascii": "Walsh",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.386,
+    "lng": -102.2801,
+    "cafes": []
+  },
+  "Phippsburg": {
+    "city": "Phippsburg",
+    "city_ascii": "Phippsburg",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2302,
+    "lng": -106.9508,
+    "cafes": []
+  },
+  "Arboles": {
+    "city": "Arboles",
+    "city_ascii": "Arboles",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.0201,
+    "lng": -107.4221,
+    "cafes": []
+  },
+  "Rico": {
+    "city": "Rico",
+    "city_ascii": "Rico",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.6891,
+    "lng": -108.0316,
+    "cafes": []
+  },
+  "Pine Valley": {
+    "city": "Pine Valley",
+    "city_ascii": "Pine Valley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.691,
+    "lng": -105.4132,
+    "cafes": []
+  },
+  "Comanche Creek": {
+    "city": "Comanche Creek",
+    "city_ascii": "Comanche Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.615,
+    "lng": -104.3268,
+    "cafes": []
+  },
+  "Manzanola": {
+    "city": "Manzanola",
+    "city_ascii": "Manzanola",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1088,
+    "lng": -103.8668,
+    "cafes": []
+  },
+  "Ovid": {
+    "city": "Ovid",
+    "city_ascii": "Ovid",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.9609,
+    "lng": -102.3883,
+    "cafes": []
+  },
+  "Tall Timber": {
+    "city": "Tall Timber",
+    "city_ascii": "Tall Timber",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0151,
+    "lng": -105.3498,
+    "cafes": []
+  },
+  "Romeo": {
+    "city": "Romeo",
+    "city_ascii": "Romeo",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1718,
+    "lng": -105.9854,
+    "cafes": []
+  },
+  "Echo Hills": {
+    "city": "Echo Hills",
+    "city_ascii": "Echo Hills",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6748,
+    "lng": -105.4134,
+    "cafes": []
+  },
+  "Gerrard": {
+    "city": "Gerrard",
+    "city_ascii": "Gerrard",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.6783,
+    "lng": -106.5753,
+    "cafes": []
+  },
+  "Eldorado Springs": {
+    "city": "Eldorado Springs",
+    "city_ascii": "Eldorado Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9366,
+    "lng": -105.2626,
+    "cafes": []
+  },
+  "Eckley": {
+    "city": "Eckley",
+    "city_ascii": "Eckley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1124,
+    "lng": -102.4883,
+    "cafes": []
+  },
+  "Lewis": {
+    "city": "Lewis",
+    "city_ascii": "Lewis",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.5017,
+    "lng": -108.66,
+    "cafes": []
+  },
+  "Red Feather Lakes": {
+    "city": "Red Feather Lakes",
+    "city_ascii": "Red Feather Lakes",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.8071,
+    "lng": -105.5864,
+    "cafes": []
+  },
+  "Yampa": {
+    "city": "Yampa",
+    "city_ascii": "Yampa",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.153,
+    "lng": -106.9085,
+    "cafes": []
+  },
+  "Cattle Creek": {
+    "city": "Cattle Creek",
+    "city_ascii": "Cattle Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4667,
+    "lng": -107.2599,
+    "cafes": []
+  },
+  "Placerville": {
+    "city": "Placerville",
+    "city_ascii": "Placerville",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0054,
+    "lng": -108.04,
+    "cafes": []
+  },
+  "Vineland": {
+    "city": "Vineland",
+    "city_ascii": "Vineland",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.2447,
+    "lng": -104.4599,
+    "cafes": []
+  },
+  "Blanca": {
+    "city": "Blanca",
+    "city_ascii": "Blanca",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.4393,
+    "lng": -105.5135,
+    "cafes": []
+  },
+  "Copper Mountain": {
+    "city": "Copper Mountain",
+    "city_ascii": "Copper Mountain",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4769,
+    "lng": -106.2011,
+    "cafes": []
+  },
+  "Grand Lake": {
+    "city": "Grand Lake",
+    "city_ascii": "Grand Lake",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2502,
+    "lng": -105.8232,
+    "cafes": []
+  },
+  "North Washington": {
+    "city": "North Washington",
+    "city_ascii": "North Washington",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8084,
+    "lng": -104.9792,
+    "cafes": []
+  },
+  "City of Creede": {
+    "city": "City of Creede",
+    "city_ascii": "City of Creede",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.8486,
+    "lng": -106.9253,
+    "cafes": []
+  },
+  "Idledale": {
+    "city": "Idledale",
+    "city_ascii": "Idledale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6688,
+    "lng": -105.2432,
+    "cafes": []
+  },
+  "Avondale": {
+    "city": "Avondale",
+    "city_ascii": "Avondale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.2351,
+    "lng": -104.3482,
+    "cafes": []
+  },
+  "Rollinsville": {
+    "city": "Rollinsville",
+    "city_ascii": "Rollinsville",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9232,
+    "lng": -105.5136,
+    "cafes": []
+  },
+  "Garden City": {
+    "city": "Garden City",
+    "city_ascii": "Garden City",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3948,
+    "lng": -104.6893,
+    "cafes": []
+  },
+  "Catherine": {
+    "city": "Catherine",
+    "city_ascii": "Catherine",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4017,
+    "lng": -107.133,
+    "cafes": []
+  },
+  "Capulin": {
+    "city": "Capulin",
+    "city_ascii": "Capulin",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.2819,
+    "lng": -106.105,
+    "cafes": []
+  },
+  "Gold Hill": {
+    "city": "Gold Hill",
+    "city_ascii": "Gold Hill",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0597,
+    "lng": -105.4189,
+    "cafes": []
+  },
+  "Merino": {
+    "city": "Merino",
+    "city_ascii": "Merino",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.4835,
+    "lng": -103.3535,
+    "cafes": []
+  },
+  "Red Cliff": {
+    "city": "Red Cliff",
+    "city_ascii": "Red Cliff",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5092,
+    "lng": -106.3699,
+    "cafes": []
+  },
+  "Arriba": {
+    "city": "Arriba",
+    "city_ascii": "Arriba",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2843,
+    "lng": -103.274,
+    "cafes": []
+  },
+  "Coaldale": {
+    "city": "Coaldale",
+    "city_ascii": "Coaldale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.3558,
+    "lng": -105.8131,
+    "cafes": []
+  },
+  "Iliff": {
+    "city": "Iliff",
+    "city_ascii": "Iliff",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.7592,
+    "lng": -103.0661,
+    "cafes": []
+  },
+  "Louviers": {
+    "city": "Louviers",
+    "city_ascii": "Louviers",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4799,
+    "lng": -105.0033,
+    "cafes": []
+  },
+  "Hillrose": {
+    "city": "Hillrose",
+    "city_ascii": "Hillrose",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3245,
+    "lng": -103.5224,
+    "cafes": []
+  },
+  "Brookside": {
+    "city": "Brookside",
+    "city_ascii": "Brookside",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4135,
+    "lng": -105.1909,
+    "cafes": []
+  },
+  "Morgan Heights": {
+    "city": "Morgan Heights",
+    "city_ascii": "Morgan Heights",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.2875,
+    "lng": -103.8275,
+    "cafes": []
+  },
+  "Bethune": {
+    "city": "Bethune",
+    "city_ascii": "Bethune",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3038,
+    "lng": -102.4234,
+    "cafes": []
+  },
+  "Jamestown": {
+    "city": "Jamestown",
+    "city_ascii": "Jamestown",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.118,
+    "lng": -105.3914,
+    "cafes": []
+  },
+  "Crisman": {
+    "city": "Crisman",
+    "city_ascii": "Crisman",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0416,
+    "lng": -105.3675,
+    "cafes": []
+  },
+  "No Name": {
+    "city": "No Name",
+    "city_ascii": "No Name",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5597,
+    "lng": -107.293,
+    "cafes": []
+  },
+  "Boone": {
+    "city": "Boone",
+    "city_ascii": "Boone",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.2495,
+    "lng": -104.2583,
+    "cafes": []
+  },
+  "Alma": {
+    "city": "Alma",
+    "city_ascii": "Alma",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.286,
+    "lng": -106.0672,
+    "cafes": []
+  },
+  "Sunshine": {
+    "city": "Sunshine",
+    "city_ascii": "Sunshine",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0636,
+    "lng": -105.3695,
+    "cafes": []
+  },
+  "Westcreek": {
+    "city": "Westcreek",
+    "city_ascii": "Westcreek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1499,
+    "lng": -105.1626,
+    "cafes": []
+  },
+  "Marble": {
+    "city": "Marble",
+    "city_ascii": "Marble",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0716,
+    "lng": -107.1909,
+    "cafes": []
+  },
+  "Peetz": {
+    "city": "Peetz",
+    "city_ascii": "Peetz",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.9617,
+    "lng": -103.1139,
+    "cafes": []
+  },
+  "Jackson Lake": {
+    "city": "Jackson Lake",
+    "city_ascii": "Jackson Lake",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3758,
+    "lng": -104.0712,
+    "cafes": []
+  },
+  "Cheraw": {
+    "city": "Cheraw",
+    "city_ascii": "Cheraw",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1076,
+    "lng": -103.511,
+    "cafes": []
+  },
+  "Kit Carson": {
+    "city": "Kit Carson",
+    "city_ascii": "Kit Carson",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7628,
+    "lng": -102.7954,
+    "cafes": []
+  },
+  "Silver Plume": {
+    "city": "Silver Plume",
+    "city_ascii": "Silver Plume",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6957,
+    "lng": -105.7264,
+    "cafes": []
+  },
+  "Mountain Meadows": {
+    "city": "Mountain Meadows",
+    "city_ascii": "Mountain Meadows",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.027,
+    "lng": -105.3832,
+    "cafes": []
+  },
+  "El Moro": {
+    "city": "El Moro",
+    "city_ascii": "El Moro",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.2349,
+    "lng": -104.4491,
+    "cafes": []
+  },
+  "Johnson Village": {
+    "city": "Johnson Village",
+    "city_ascii": "Johnson Village",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.812,
+    "lng": -106.1071,
+    "cafes": []
+  },
+  "Crowley": {
+    "city": "Crowley",
+    "city_ascii": "Crowley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1935,
+    "lng": -103.8597,
+    "cafes": []
+  },
+  "Vilas": {
+    "city": "Vilas",
+    "city_ascii": "Vilas",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.3737,
+    "lng": -102.4474,
+    "cafes": []
+  },
+  "Maysville": {
+    "city": "Maysville",
+    "city_ascii": "Maysville",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.5305,
+    "lng": -106.2156,
+    "cafes": []
+  },
+  "Atwood": {
+    "city": "Atwood",
+    "city_ascii": "Atwood",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.5505,
+    "lng": -103.2746,
+    "cafes": []
+  },
+  "Genoa": {
+    "city": "Genoa",
+    "city_ascii": "Genoa",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2782,
+    "lng": -103.4984,
+    "cafes": []
+  },
+  "Grover": {
+    "city": "Grover",
+    "city_ascii": "Grover",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.8691,
+    "lng": -104.2259,
+    "cafes": []
+  },
+  "Midland": {
+    "city": "Midland",
+    "city_ascii": "Midland",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8468,
+    "lng": -105.1579,
+    "cafes": []
+  },
+  "Vona": {
+    "city": "Vona",
+    "city_ascii": "Vona",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.3021,
+    "lng": -102.7434,
+    "cafes": []
+  },
+  "Larkspur": {
+    "city": "Larkspur",
+    "city_ascii": "Larkspur",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2319,
+    "lng": -104.8924,
+    "cafes": []
+  },
+  "Blue Valley": {
+    "city": "Blue Valley",
+    "city_ascii": "Blue Valley",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6996,
+    "lng": -105.4921,
+    "cafes": []
+  },
+  "Hooper": {
+    "city": "Hooper",
+    "city_ascii": "Hooper",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.746,
+    "lng": -105.8777,
+    "cafes": []
+  },
+  "Lazear": {
+    "city": "Lazear",
+    "city_ascii": "Lazear",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7788,
+    "lng": -107.7805,
+    "cafes": []
+  },
+  "Cokedale": {
+    "city": "Cokedale",
+    "city_ascii": "Cokedale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1444,
+    "lng": -104.6216,
+    "cafes": []
+  },
+  "Goldfield": {
+    "city": "Goldfield",
+    "city_ascii": "Goldfield",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7176,
+    "lng": -105.1253,
+    "cafes": []
+  },
+  "Seibert": {
+    "city": "Seibert",
+    "city_ascii": "Seibert",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.298,
+    "lng": -102.8695,
+    "cafes": []
+  },
+  "Redstone": {
+    "city": "Redstone",
+    "city_ascii": "Redstone",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1839,
+    "lng": -107.2407,
+    "cafes": []
+  },
+  "Black Hawk": {
+    "city": "Black Hawk",
+    "city_ascii": "Black Hawk",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8043,
+    "lng": -105.495,
+    "cafes": []
+  },
+  "Pritchett": {
+    "city": "Pritchett",
+    "city_ascii": "Pritchett",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.3701,
+    "lng": -102.8588,
+    "cafes": []
+  },
+  "Florissant": {
+    "city": "Florissant",
+    "city_ascii": "Florissant",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.9445,
+    "lng": -105.29,
+    "cafes": []
+  },
+  "Sedgwick": {
+    "city": "Sedgwick",
+    "city_ascii": "Sedgwick",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.9355,
+    "lng": -102.5256,
+    "cafes": []
+  },
+  "Elbert": {
+    "city": "Elbert",
+    "city_ascii": "Elbert",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2189,
+    "lng": -104.5404,
+    "cafes": []
+  },
+  "Segundo": {
+    "city": "Segundo",
+    "city_ascii": "Segundo",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1225,
+    "lng": -104.7395,
+    "cafes": []
+  },
+  "Crook": {
+    "city": "Crook",
+    "city_ascii": "Crook",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.859,
+    "lng": -102.8013,
+    "cafes": []
+  },
+  "Rye": {
+    "city": "Rye",
+    "city_ascii": "Rye",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.9212,
+    "lng": -104.9322,
+    "cafes": []
+  },
+  "Ophir": {
+    "city": "Ophir",
+    "city_ascii": "Ophir",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.8568,
+    "lng": -107.8312,
+    "cafes": []
+  },
+  "Blue Sky": {
+    "city": "Blue Sky",
+    "city_ascii": "Blue Sky",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3002,
+    "lng": -103.8056,
+    "cafes": []
+  },
+  "Bonanza Mountain Estates": {
+    "city": "Bonanza Mountain Estates",
+    "city_ascii": "Bonanza Mountain Estates",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9768,
+    "lng": -105.4798,
+    "cafes": []
+  },
+  "St. Mary's": {
+    "city": "St. Mary's",
+    "city_ascii": "St. Mary's",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8163,
+    "lng": -105.6479,
+    "cafes": []
+  },
+  "Ramah": {
+    "city": "Ramah",
+    "city_ascii": "Ramah",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1222,
+    "lng": -104.1673,
+    "cafes": []
+  },
+  "Pitkin": {
+    "city": "Pitkin",
+    "city_ascii": "Pitkin",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.6089,
+    "lng": -106.5144,
+    "cafes": []
+  },
+  "Smeltertown": {
+    "city": "Smeltertown",
+    "city_ascii": "Smeltertown",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.5524,
+    "lng": -106.0085,
+    "cafes": []
+  },
+  "Rock Creek Park": {
+    "city": "Rock Creek Park",
+    "city_ascii": "Rock Creek Park",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7011,
+    "lng": -104.8347,
+    "cafes": []
+  },
+  "Southern Ute": {
+    "city": "Southern Ute",
+    "city_ascii": "Southern Ute",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.0749,
+    "lng": -107.5933,
+    "cafes": []
+  },
+  "Woody Creek": {
+    "city": "Woody Creek",
+    "city_ascii": "Woody Creek",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.2708,
+    "lng": -106.8883,
+    "cafes": []
+  },
+  "La Junta Gardens": {
+    "city": "La Junta Gardens",
+    "city_ascii": "La Junta Gardens",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0014,
+    "lng": -103.5549,
+    "cafes": []
+  },
+  "Peyton": {
+    "city": "Peyton",
+    "city_ascii": "Peyton",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.033,
+    "lng": -104.4904,
+    "cafes": []
+  },
+  "Portland": {
+    "city": "Portland",
+    "city_ascii": "Portland",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0892,
+    "lng": -107.6952,
+    "cafes": []
+  },
+  "Bark Ranch": {
+    "city": "Bark Ranch",
+    "city_ascii": "Bark Ranch",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1156,
+    "lng": -105.4417,
+    "cafes": []
+  },
+  "Nathrop": {
+    "city": "Nathrop",
+    "city_ascii": "Nathrop",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7486,
+    "lng": -106.0764,
+    "cafes": []
+  },
+  "Joes": {
+    "city": "Joes",
+    "city_ascii": "Joes",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6559,
+    "lng": -102.6786,
+    "cafes": []
+  },
+  "Weldona": {
+    "city": "Weldona",
+    "city_ascii": "Weldona",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3484,
+    "lng": -103.9693,
+    "cafes": []
+  },
+  "Alpine": {
+    "city": "Alpine",
+    "city_ascii": "Alpine",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.6877,
+    "lng": -106.586,
+    "cafes": []
+  },
+  "Hasty": {
+    "city": "Hasty",
+    "city_ascii": "Hasty",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0999,
+    "lng": -102.9639,
+    "cafes": []
+  },
+  "Starkville": {
+    "city": "Starkville",
+    "city_ascii": "Starkville",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1169,
+    "lng": -104.5231,
+    "cafes": []
+  },
+  "Idalia": {
+    "city": "Idalia",
+    "city_ascii": "Idalia",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7029,
+    "lng": -102.2938,
+    "cafes": []
+  },
+  "Jansen": {
+    "city": "Jansen",
+    "city_ascii": "Jansen",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1581,
+    "lng": -104.5501,
+    "cafes": []
+  },
+  "Heeney": {
+    "city": "Heeney",
+    "city_ascii": "Heeney",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.8712,
+    "lng": -106.3002,
+    "cafes": []
+  },
+  "Marvel": {
+    "city": "Marvel",
+    "city_ascii": "Marvel",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1112,
+    "lng": -108.1262,
+    "cafes": []
+  },
+  "Ward": {
+    "city": "Ward",
+    "city_ascii": "Ward",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0722,
+    "lng": -105.5139,
+    "cafes": []
+  },
+  "Divide": {
+    "city": "Divide",
+    "city_ascii": "Divide",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.9449,
+    "lng": -105.1619,
+    "cafes": []
+  },
+  "Orchard": {
+    "city": "Orchard",
+    "city_ascii": "Orchard",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3321,
+    "lng": -104.1178,
+    "cafes": []
+  },
+  "Briggsdale": {
+    "city": "Briggsdale",
+    "city_ascii": "Briggsdale",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.6359,
+    "lng": -104.3284,
+    "cafes": []
+  },
+  "Trail Side": {
+    "city": "Trail Side",
+    "city_ascii": "Trail Side",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.249,
+    "lng": -103.8432,
+    "cafes": []
+  },
+  "Amherst": {
+    "city": "Amherst",
+    "city_ascii": "Amherst",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.6831,
+    "lng": -102.1725,
+    "cafes": []
+  },
+  "Montezuma": {
+    "city": "Montezuma",
+    "city_ascii": "Montezuma",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5814,
+    "lng": -105.8678,
+    "cafes": []
+  },
+  "Raymer": {
+    "city": "Raymer",
+    "city_ascii": "Raymer",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.608,
+    "lng": -103.8434,
+    "cafes": []
+  },
+  "Campo": {
+    "city": "Campo",
+    "city_ascii": "Campo",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1047,
+    "lng": -102.5786,
+    "cafes": []
+  },
+  "Brick Center": {
+    "city": "Brick Center",
+    "city_ascii": "Brick Center",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6002,
+    "lng": -104.4579,
+    "cafes": []
+  },
+  "McClave": {
+    "city": "McClave",
+    "city_ascii": "McClave",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1315,
+    "lng": -102.8504,
+    "cafes": []
+  },
+  "Peoria": {
+    "city": "Peoria",
+    "city_ascii": "Peoria",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6649,
+    "lng": -104.1456,
+    "cafes": []
+  },
+  "Colona": {
+    "city": "Colona",
+    "city_ascii": "Colona",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.3276,
+    "lng": -107.7793,
+    "cafes": []
+  },
+  "Valmont": {
+    "city": "Valmont",
+    "city_ascii": "Valmont",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0341,
+    "lng": -105.2058,
+    "cafes": []
+  },
+  "Hoehne": {
+    "city": "Hoehne",
+    "city_ascii": "Hoehne",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.2815,
+    "lng": -104.389,
+    "cafes": []
+  },
+  "Paoli": {
+    "city": "Paoli",
+    "city_ascii": "Paoli",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.6128,
+    "lng": -102.4718,
+    "cafes": []
+  },
+  "Kim": {
+    "city": "Kim",
+    "city_ascii": "Kim",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.247,
+    "lng": -103.3534,
+    "cafes": []
+  },
+  "Hartman": {
+    "city": "Hartman",
+    "city_ascii": "Hartman",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.1212,
+    "lng": -102.2217,
+    "cafes": []
+  },
+  "Stonewall Gap": {
+    "city": "Stonewall Gap",
+    "city_ascii": "Stonewall Gap",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1605,
+    "lng": -105.0342,
+    "cafes": []
+  },
+  "Gardner": {
+    "city": "Gardner",
+    "city_ascii": "Gardner",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.7889,
+    "lng": -105.1644,
+    "cafes": []
+  },
+  "Sheridan Lake": {
+    "city": "Sheridan Lake",
+    "city_ascii": "Sheridan Lake",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4667,
+    "lng": -102.2943,
+    "cafes": []
+  },
+  "Saddle Ridge": {
+    "city": "Saddle Ridge",
+    "city_ascii": "Saddle Ridge",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3134,
+    "lng": -103.8023,
+    "cafes": []
+  },
+  "Moffat": {
+    "city": "Moffat",
+    "city_ascii": "Moffat",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0027,
+    "lng": -105.9065,
+    "cafes": []
+  },
+  "Cope": {
+    "city": "Cope",
+    "city_ascii": "Cope",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6692,
+    "lng": -102.8501,
+    "cafes": []
+  },
+  "Haswell": {
+    "city": "Haswell",
+    "city_ascii": "Haswell",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4525,
+    "lng": -103.1649,
+    "cafes": []
+  },
+  "Piedra": {
+    "city": "Piedra",
+    "city_ascii": "Piedra",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.4418,
+    "lng": -107.1684,
+    "cafes": []
+  },
+  "Sedalia": {
+    "city": "Sedalia",
+    "city_ascii": "Sedalia",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.4396,
+    "lng": -104.9699,
+    "cafes": []
+  },
+  "Seven Hills": {
+    "city": "Seven Hills",
+    "city_ascii": "Seven Hills",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0361,
+    "lng": -105.3323,
+    "cafes": []
+  },
+  "Branson": {
+    "city": "Branson",
+    "city_ascii": "Branson",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.0155,
+    "lng": -103.8838,
+    "cafes": []
+  },
+  "Arapahoe": {
+    "city": "Arapahoe",
+    "city_ascii": "Arapahoe",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.853,
+    "lng": -102.1789,
+    "cafes": []
+  },
+  "Weston": {
+    "city": "Weston",
+    "city_ascii": "Weston",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.146,
+    "lng": -104.8683,
+    "cafes": []
+  },
+  "Maybell": {
+    "city": "Maybell",
+    "city_ascii": "Maybell",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.5188,
+    "lng": -108.0885,
+    "cafes": []
+  },
+  "Cotopaxi": {
+    "city": "Cotopaxi",
+    "city_ascii": "Cotopaxi",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.3738,
+    "lng": -105.6912,
+    "cafes": []
+  },
+  "Parshall": {
+    "city": "Parshall",
+    "city_ascii": "Parshall",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0554,
+    "lng": -106.1757,
+    "cafes": []
+  },
+  "Crestone": {
+    "city": "Crestone",
+    "city_ascii": "Crestone",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.9945,
+    "lng": -105.6962,
+    "cafes": []
+  },
+  "Hidden Lake": {
+    "city": "Hidden Lake",
+    "city_ascii": "Hidden Lake",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.1055,
+    "lng": -105.4777,
+    "cafes": []
+  },
+  "Guffey": {
+    "city": "Guffey",
+    "city_ascii": "Guffey",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.7591,
+    "lng": -105.5024,
+    "cafes": []
+  },
+  "Kirk": {
+    "city": "Kirk",
+    "city_ascii": "Kirk",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.6127,
+    "lng": -102.592,
+    "cafes": []
+  },
+  "Snyder": {
+    "city": "Snyder",
+    "city_ascii": "Snyder",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.3309,
+    "lng": -103.592,
+    "cafes": []
+  },
+  "Cathedral": {
+    "city": "Cathedral",
+    "city_ascii": "Cathedral",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.0836,
+    "lng": -107.0306,
+    "cafes": []
+  },
+  "San Acacio": {
+    "city": "San Acacio",
+    "city_ascii": "San Acacio",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.2086,
+    "lng": -105.5667,
+    "cafes": []
+  },
+  "Padroni": {
+    "city": "Padroni",
+    "city_ascii": "Padroni",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.7818,
+    "lng": -103.1733,
+    "cafes": []
+  },
+  "Towner": {
+    "city": "Towner",
+    "city_ascii": "Towner",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4705,
+    "lng": -102.0804,
+    "cafes": []
+  },
+  "Matheson": {
+    "city": "Matheson",
+    "city_ascii": "Matheson",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.1683,
+    "lng": -103.977,
+    "cafes": []
+  },
+  "Brandon": {
+    "city": "Brandon",
+    "city_ascii": "Brandon",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.4464,
+    "lng": -102.4412,
+    "cafes": []
+  },
+  "Two Buttes": {
+    "city": "Two Buttes",
+    "city_ascii": "Two Buttes",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.5606,
+    "lng": -102.3965,
+    "cafes": []
+  },
+  "Bonanza": {
+    "city": "Bonanza",
+    "city_ascii": "Bonanza",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.2966,
+    "lng": -106.1419,
+    "cafes": []
+  },
+  "Lakeside": {
+    "city": "Lakeside",
+    "city_ascii": "Lakeside",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7802,
+    "lng": -105.0579,
+    "cafes": []
+  },
+  "Valdez": {
+    "city": "Valdez",
+    "city_ascii": "Valdez",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.1239,
+    "lng": -104.6793,
+    "cafes": []
+  },
+  "Lynn": {
+    "city": "Lynn",
+    "city_ascii": "Lynn",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.4219,
+    "lng": -104.6431,
+    "cafes": []
+  },
+  "Laird": {
+    "city": "Laird",
+    "city_ascii": "Laird",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0819,
+    "lng": -102.102,
+    "cafes": []
+  },
+  "Sawpit": {
+    "city": "Sawpit",
+    "city_ascii": "Sawpit",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.9947,
+    "lng": -108.0021,
+    "cafes": []
+  },
+  "Norrie": {
+    "city": "Norrie",
+    "city_ascii": "Norrie",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.328,
+    "lng": -106.6562,
+    "cafes": []
+  },
+  "Somerset": {
+    "city": "Somerset",
+    "city_ascii": "Somerset",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.9268,
+    "lng": -107.4725,
+    "cafes": []
+  },
+  "Hartsel": {
+    "city": "Hartsel",
+    "city_ascii": "Hartsel",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.0219,
+    "lng": -105.7976,
+    "cafes": []
+  },
+  "Vernon": {
+    "city": "Vernon",
+    "city_ascii": "Vernon",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9399,
+    "lng": -102.3073,
+    "cafes": []
+  },
+  "McCoy": {
+    "city": "McCoy",
+    "city_ascii": "McCoy",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.9144,
+    "lng": -106.7257,
+    "cafes": []
+  },
+  "Leyner": {
+    "city": "Leyner",
+    "city_ascii": "Leyner",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 40.0511,
+    "lng": -105.1074,
+    "cafes": []
+  },
+  "Conejos": {
+    "city": "Conejos",
+    "city_ascii": "Conejos",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 37.0872,
+    "lng": -106.016,
+    "cafes": []
+  },
+  "Garfield": {
+    "city": "Garfield",
+    "city_ascii": "Garfield",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.5493,
+    "lng": -106.2893,
+    "cafes": []
+  },
+  "Fulford": {
+    "city": "Fulford",
+    "city_ascii": "Fulford",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.5166,
+    "lng": -106.6576,
+    "cafes": []
+  },
+  "Wolcott": {
+    "city": "Wolcott",
+    "city_ascii": "Wolcott",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.7035,
+    "lng": -106.6799,
+    "cafes": []
+  }
+}
